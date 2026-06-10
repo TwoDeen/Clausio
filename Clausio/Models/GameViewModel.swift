@@ -82,17 +82,24 @@ class GameViewModel: ObservableObject {
   }
   
   func handleTap(at index: Int) {
-    guard !tiles[index].isSolved else { return }
-    
     if let selected = selectedIndex {
       if selected == index {
+        // Tapping the same tile toggles it off
         selectedIndex = nil
       } else {
-        tiles.swapAt(selected, index)
-        selectedIndex = nil
-        checkForSolvedRows()
+        // SMART SAFEGUARD: If either the previously selected tile OR the newly tapped tile
+        // is solved (e.g. SolutionMode is active), do not swap them. Instead, shift selection focus.
+        if tiles[index].isSolved || tiles[selected].isSolved {
+          selectedIndex = index
+        } else {
+          // Both tiles are active/unsolved -> safe to perform game mechanics swap
+          tiles.swapAt(selected, index)
+          selectedIndex = nil
+          checkForSolvedRows()
+        }
       }
     } else {
+      // No prior selection -> highlight the tile
       selectedIndex = index
     }
   }
