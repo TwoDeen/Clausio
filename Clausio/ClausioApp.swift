@@ -26,7 +26,7 @@ struct ClausioApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          JapaneseConnectionsAppView()
         }
         .modelContainer(sharedModelContainer)
     }
