@@ -14,16 +14,19 @@ class GameViewModel: ObservableObject {
   @Published var tiles: [Tile] = []
   @Published var selectedIndex: Int? = nil
   
-  // Settings synced across views
   @Published var isAssistModeOn: Bool = false
   @Published var isLearnModeOn: Bool = false
   
   init() {
+    // Safely assign index positions sequentially on initialization
+    for i in 0..<mockData.count {
+      mockData[i].correctIndex = i
+    }
     startNewGame()
   }
   
-  // Cleaned Mock Data: Exactly 25 tiles (5 per category)
-  private let mockData: [Tile] = [
+  // 💡 Changed from 'let' to 'var' so properties can be configured in init()
+  private var mockData: [Tile] = [
     // Cat 1: Simple Action (Yellow)
     Tile(text: "お姉ちゃんは", furigana: "おねえちゃんは", english: "Older sister (topic)", categoryId: 1),
     Tile(text: "今日", furigana: "きょう", english: "Today", categoryId: 1),
@@ -84,22 +87,17 @@ class GameViewModel: ObservableObject {
   func handleTap(at index: Int) {
     if let selected = selectedIndex {
       if selected == index {
-        // Tapping the same tile toggles it off
         selectedIndex = nil
       } else {
-        // SMART SAFEGUARD: If either the previously selected tile OR the newly tapped tile
-        // is solved (e.g. SolutionMode is active), do not swap them. Instead, shift selection focus.
         if tiles[index].isSolved || tiles[selected].isSolved {
           selectedIndex = index
         } else {
-          // Both tiles are active/unsolved -> safe to perform game mechanics swap
           tiles.swapAt(selected, index)
           selectedIndex = nil
           checkForSolvedRows()
         }
       }
     } else {
-      // No prior selection -> highlight the tile
       selectedIndex = index
     }
   }
@@ -120,12 +118,10 @@ class GameViewModel: ObservableObject {
       }
     }
   }
-    
+  
   func revealSolution() {
     selectedIndex = nil
-    // Reset tiles to the original pristine mockData array order
     tiles = mockData
-    // Mark every tile as solved to trigger the color-coded rows
     for i in 0..<tiles.count {
       tiles[i].isSolved = true
     }

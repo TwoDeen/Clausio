@@ -25,15 +25,15 @@ struct GameContainerView: View {
             ForEach(0..<5, id: \.self) { col in
               let index = (row * 5) + col
               
-              // Safe check bounds to prevent runtime array indexing crashes
               if index < vm.tiles.count {
                 TileView(
                   tile: vm.tiles[index],
                   isSelected: vm.selectedIndex == index,
                   accentColor: vm.colorForCategory(vm.tiles[index].categoryId),
                   isAssistModeOn: vm.isAssistModeOn,
+                  mergesLeft: canMergeLeft(row: row, col: col),
+                  mergesRight: canMergeRight(row: row, col: col),
                   action: {
-                    // Animate selection to enable smooth HUD appearance transitions
                     withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
                       vm.handleTap(at: index)
                     }
@@ -51,19 +51,32 @@ struct GameContainerView: View {
       
       // HUD Info Panel for Learn Mode
       if vm.isLearnModeOn, let selected = vm.selectedIndex, selected < vm.tiles.count {
-        VStack(spacing: 4) {
-          Text("Furigana: \(vm.tiles[selected].furigana)")
-            .font(.notoCcSans(.bold, size: 16))
-          Text("Meaning: \(vm.tiles[selected].english)")
-            .font(.system(size: 14))
-            .foregroundColor(.secondary)
+        VStack(spacing: 6) {
+          // Furigana Layout Row using the shared typography engine
+          HStack(spacing: 4) {
+            Text("Furigana: ")
+              .font(.system(size: 14, weight: .bold))
+              .foregroundColor(.secondary)
+            
+            Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 16, isSolved: vm.tiles[selected].isSolved))
+          }
+          
+          // Meaning Layout Row
+          HStack(spacing: 4) {
+            Text("Meaning: ")
+              .font(.system(size: 14, weight: .bold))
+              .foregroundColor(.secondary)
+            Text(vm.tiles[selected].english)
+              .font(.system(size: 14))
+              .foregroundColor(.primary)
+          }
         }
         .frame(maxWidth: .infinity)
         .padding()
         .background(RoundedRectangle(cornerRadius: 12).fill(Color.secondary.opacity(0.15)))
         .transition(.opacity.combined(with: .scale))
       } else {
-        // Keeps frame heights uniform to prevent layout shifts when selections toggle
+        // Uniform layout constraint fallback to block screen jittering
         Spacer().frame(height: 74)
       }
       
@@ -99,5 +112,26 @@ struct GameContainerView: View {
       }
       .padding(.bottom, 30)
     }
+  }
+  
+  // MARK: - Merge Detection Helpers
+  private func canMergeLeft(row: Int, col: Int) -> Bool {
+    let index = (row * 5) + col
+    guard vm.isAssistModeOn, index < vm.tiles.count else { return false }
+    
+    let isCurrentCorrect = vm.tiles[index].correctIndex == index
+    guard isCurrentCorrect && col > 0 else { return false }
+    
+    return vm.tiles[index - 1].correctIndex == index - 1
+  }
+  
+  private func canMergeRight(row: Int, col: Int) -> Bool {
+    let index = (row * 5) + col
+    guard vm.isAssistModeOn, index < vm.tiles.count else { return false }
+    
+    let isCurrentCorrect = vm.tiles[index].correctIndex == index
+    guard isCurrentCorrect && col < 4 else { return false }
+    
+    return vm.tiles[index + 1].correctIndex == index + 1
   }
 }
