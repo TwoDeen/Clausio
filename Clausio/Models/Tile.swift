@@ -16,6 +16,6 @@ struct Tile: Identifiable, Equatable {
   let english: String    // English meaning
   let categoryId: Int    // Group alignment (1 to 5)
   var isSolved: Bool = false
-  var correctIndex: Int = 0
+  var correctIndex: Int = 0 // Tracks baseline authentic sentence coordinates
 }
 

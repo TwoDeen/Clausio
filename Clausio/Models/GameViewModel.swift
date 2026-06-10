@@ -14,18 +14,19 @@ class GameViewModel: ObservableObject {
   @Published var tiles: [Tile] = []
   @Published var selectedIndex: Int? = nil
   
+  // Settings synced across views
   @Published var isAssistModeOn: Bool = false
   @Published var isLearnModeOn: Bool = false
   
   init() {
-    // Safely assign index positions sequentially on initialization
+    // Prime original pristine layout indices before scrambling the match
     for i in 0..<mockData.count {
       mockData[i].correctIndex = i
     }
     startNewGame()
   }
   
-  // 💡 Changed from 'let' to 'var' so properties can be configured in init()
+  // Cleaned Mock Data: Exactly 25 tiles (5 per category)
   private var mockData: [Tile] = [
     // Cat 1: Simple Action (Yellow)
     Tile(text: "お姉ちゃんは", furigana: "おねえちゃんは", english: "Older sister (topic)", categoryId: 1),

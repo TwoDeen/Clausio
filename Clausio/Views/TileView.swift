@@ -19,49 +19,58 @@ struct TileView: View {
   let isBold: Bool = false
   let action: () -> Void
   
+  @Environment(\.verticalSizeClass) var verticalSizeClass
+  
   var body: some View {
     Button(action: action) {
-      ZStack(alignment: .topTrailing) {
-        GeometryReader { geometry in
-          VStack {
-            Spacer()
-            // Passes the dynamic tile width into the static font balancing engine
-            Text(Self.balancedJapaneseText(for: tile.text, baseSize: geometry.size.width * 0.22, isSolved: tile.isSolved))
-              .minimumScaleFactor(0.35)
-              .multilineTextAlignment(.center)
-              .foregroundColor(tile.isSolved ? .black : .primary)
-              .padding(.horizontal, 4)
-            Spacer()
-          }
-          .frame(width: geometry.size.width, height: geometry.size.height)
-          .background(
-            tileShape
-              .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
-            // Overlaps slightly to mask the 2pt grid gaps cleanly
-              .padding(.leading, mergesLeft ? -1.5 : 0)
-              .padding(.trailing, mergesRight ? -1.5 : 0)
-          )
-          .overlay(
-            tileShape
-              .stroke(isSelected ? Color.blue : Color.clear, lineWidth: 3)
-              .padding(.leading, mergesLeft ? -1.5 : 0)
-              .padding(.trailing, mergesRight ? -1.5 : 0)
-          )
-        }
-        .aspectRatio(1.0, contentMode: .fit)
-        
-        if isSelected {
-          Image(systemName: "checkmark.circle.fill")
-            .font(.caption)
-            .foregroundColor(.blue)
-            .padding(4)
-        }
+      if verticalSizeClass == .compact {
+        // 💡 FIXED: Bypasses the .aspectRatio wrapper completely so cells safely morph into wide rectangles
+        tileContent
+      } else {
+        tileContent
+          .aspectRatio(1.0, contentMode: .fit)
       }
     }
-    .buttonStyle(.plain) // Prevents system wrappers from clipping frame expansions
+    .buttonStyle(.plain)
+    .frame(maxWidth: .infinity, maxHeight: .infinity) // Forces the structural wrapper to scale out flush
   }
   
-  // Custom capsule shape building block for active merges
+  private var tileContent: some View {
+    ZStack(alignment: .topTrailing) {
+      GeometryReader { geometry in
+        VStack {
+          Spacer()
+          Text(Self.balancedJapaneseText(for: tile.text, baseSize: min(geometry.size.width, geometry.size.height) * 0.24, isSolved: tile.isSolved))
+            .minimumScaleFactor(0.35)
+            .multilineTextAlignment(.center)
+            .foregroundColor(tile.isSolved ? .black : .primary)
+            .padding(.horizontal, 4)
+          Spacer()
+        }
+        .frame(width: geometry.size.width, height: geometry.size.height)
+        .background(
+          tileShape
+            .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
+            .padding(.leading, mergesLeft ? -1.5 : 0)
+            .padding(.trailing, mergesRight ? -1.5 : 0)
+        )
+        .overlay(
+          tileShape
+            .stroke(isSelected ? Color.blue : Color.clear, lineWidth: 3)
+            .padding(.leading, mergesLeft ? -1.5 : 0)
+            .padding(.trailing, mergesRight ? -1.5 : 0)
+        )
+      }
+      
+      if isSelected {
+        Image(systemName: "checkmark.circle.fill")
+          .font(.caption)
+          .foregroundColor(.blue)
+          .padding(4)
+      }
+    }
+  }
+  
   private var tileShape: UnevenRoundedRectangle {
     let leftRadius: CGFloat = mergesLeft ? 0 : (isAssistModeOn ? 2 : 8)
     let rightRadius: CGFloat = mergesRight ? 0 : (isAssistModeOn ? 2 : 8)
@@ -74,11 +83,9 @@ struct TileView: View {
     )
   }
   
-  // 💡 STATIC: Shared typography engine accessible across project modules
   static func balancedJapaneseText(for text: String, baseSize: CGFloat, isSolved: Bool) -> AttributedString {
     var combinedString = AttributedString()
     
-    // Balanced tuning parameters matching your graphic assets
     let kanjiScaleFactor: CGFloat = 1.12
     let kanjiBaselineOffset: CGFloat = -0.5
     let kanjiStrokeThickness: Double = -2.2
@@ -92,7 +99,6 @@ struct TileView: View {
       }
       
       if isKanji {
-        // Force Kanji to use the BOLD asset variant and apply negative stroke boundaries to thicken line footprint
         singleCharString.font = .custom("japaneseSVGFont-Bold", size: baseSize * kanjiScaleFactor)
         singleCharString.baselineOffset = kanjiBaselineOffset
         
@@ -103,15 +109,11 @@ struct TileView: View {
         singleCharString.appKit.strokeWidth = kanjiStrokeThickness
         singleCharString.appKit.strokeColor = isSolved ? .black : .textColor
 #endif
-        
       } else {
-        // Fall back to regular weight parameters for standard Kana components
         singleCharString.font = .custom("japaneseSVGFont", size: baseSize)
       }
-      
       combinedString.append(singleCharString)
     }
-    
     return combinedString
   }
 }
