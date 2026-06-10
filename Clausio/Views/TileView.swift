@@ -16,23 +16,21 @@ struct TileView: View {
   let isAssistModeOn: Bool
   let mergesLeft: Bool
   let mergesRight: Bool
+  let useSquareAspectRatio: Bool // 💡 Explicit property matches GameContainerView expectations
   let isBold: Bool = false
   let action: () -> Void
   
-  @Environment(\.verticalSizeClass) var verticalSizeClass
-  
   var body: some View {
     Button(action: action) {
-      if verticalSizeClass == .compact {
-        // 💡 FIXED: Bypasses the .aspectRatio wrapper completely so cells safely morph into wide rectangles
-        tileContent
-      } else {
+      if useSquareAspectRatio {
         tileContent
           .aspectRatio(1.0, contentMode: .fit)
+      } else {
+        tileContent
       }
     }
     .buttonStyle(.plain)
-    .frame(maxWidth: .infinity, maxHeight: .infinity) // Forces the structural wrapper to scale out flush
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
   }
   
   private var tileContent: some View {
@@ -75,6 +73,7 @@ struct TileView: View {
     let leftRadius: CGFloat = mergesLeft ? 0 : (isAssistModeOn ? 2 : 8)
     let rightRadius: CGFloat = mergesRight ? 0 : (isAssistModeOn ? 2 : 8)
     
+    // Exact verified working syntax
     return UnevenRoundedRectangle(
       topLeadingRadius: leftRadius,
       bottomLeadingRadius: leftRadius,

@@ -11,46 +11,51 @@ import SwiftUI
 // MARK: - Game View Component
 struct GameContainerView: View {
   @ObservedObject var vm: GameViewModel
-  @Environment(\.verticalSizeClass) var verticalSizeClass
   
   var body: some View {
-    Group {
-      if verticalSizeClass == .compact {
-        // MARK: - LANDSCAPE LAYOUT (Balanced Split Layout)
-        HStack(spacing: 30) {
-          boardGrid
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
-          
-          // Right Column: Content groups adjust to center automatically
-          VStack(spacing: 20) {
-            if vm.isLearnModeOn, vm.selectedIndex != nil {
-              hudPanel
-            }
+    GeometryReader { geometry in
+      // Dynamic cross-platform aspect verification
+      let isWidescreen = geometry.size.width > geometry.size.height
+      
+      HStack(spacing: 0) {
+        if isWidescreen {
+          // MARK: - WIDESCREEN / MAC / LANDSCAPE LAYOUT
+          HStack(spacing: 20) {
+            boardGrid(useSquareLayout: false)
+              .frame(maxWidth: .infinity, maxHeight: .infinity)
             
-            controlButtonsVertical
+            VStack(spacing: 16) {
+              Spacer()
+              if vm.isLearnModeOn, vm.selectedIndex != nil {
+                hudPanel
+              }
+              controlButtonsVertical
+              Spacer()
+            }
+            .frame(width: 120)
+            .padding(.trailing, 10)
           }
-          .frame(width: 110)
-          .padding(.trailing, 10)
+          .padding(.horizontal, 20)
+          .padding(.vertical, 15)
+        } else {
+          // MARK: - PORTRAIT LAYOUT
+          VStack(spacing: 20) {
+            boardGrid(useSquareLayout: true)
+            hudPanel
+            Spacer()
+            controlButtonsHorizontal
+          }
+          .padding(.top, 10)
         }
-        .padding(.horizontal, 20)
-        .padding(.vertical, 15)
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
-      } else {
-        // MARK: - PORTRAIT LAYOUT
-        VStack(spacing: 20) {
-          boardGrid
-          hudPanel
-          Spacer()
-          controlButtonsHorizontal
-        }
-        .padding(.top, 10)
       }
+      .frame(width: geometry.size.width, height: geometry.size.height)
     }
   }
   
   // MARK: - Extracted Component Subviews
   
-  private var boardGrid: some View {
+  @ViewBuilder
+  private func boardGrid(useSquareLayout: Bool) -> some View {
     VStack(spacing: vm.isAssistModeOn ? 2 : 10) {
       ForEach(0..<5, id: \.self) { row in
         HStack(spacing: vm.isAssistModeOn ? 2 : 8) {
@@ -64,23 +69,31 @@ struct GameContainerView: View {
                 isAssistModeOn: vm.isAssistModeOn,
                 mergesLeft: canMergeLeft(row: row, col: col),
                 mergesRight: canMergeRight(row: row, col: col),
+                useSquareAspectRatio: useSquareLayout,
                 action: {
                   withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
                     vm.handleTap(at: index)
                   }
                 }
               )
-              .frame(maxWidth: .infinity, maxHeight: .infinity) // Fills allocated cell slots
+              .frame(maxWidth: .infinity, maxHeight: .infinity)
             } else {
-              Color.clear
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
+              // ✅ FIXED: Separated branches remove all inline 'nil' layout ambiguities
+              if useSquareLayout {
+                Color.clear
+                  .aspectRatio(1.0, contentMode: .fit)
+                  .frame(maxWidth: .infinity, maxHeight: .infinity)
+              } else {
+                Color.clear
+                  .frame(maxWidth: .infinity, maxHeight: .infinity)
+              }
             }
           }
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity) // 💡 FIXED: Dynamically stretches rows evenly
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
       }
     }
-    .frame(maxWidth: .infinity, maxHeight: .infinity) // 💡 FIXED: Forces grid container to fill its split view boundary
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
     .padding(.horizontal, 4)
   }
   
@@ -109,7 +122,6 @@ struct GameContainerView: View {
         .background(RoundedRectangle(cornerRadius: 10).fill(Color.secondary.opacity(0.12)))
         .transition(.opacity.combined(with: .scale))
       }
-      // 💡 FIXED: Removed the hardcoded fallback spacer that was un-centering the sidebar layout!
     }
   }
   
@@ -133,7 +145,7 @@ struct GameContainerView: View {
       Button(action: { withAnimation(.easeInOut) { vm.shuffleIncorrectTiles() } }) {
         Image(systemName: "arrow.2.squarepath")
           .font(.title)
-          .frame(width: 44, height: 44) // Clean, standardized target bounding box
+          .frame(width: 44, height: 44)
       }
       Button(action: { withAnimation(.easeInOut) { vm.startNewGame() } }) {
         Image(systemName: "arrow.clockwise.circle.fill")
@@ -148,9 +160,10 @@ struct GameContainerView: View {
           .frame(width: 44, height: 44)
       }
     }
-    .frame(maxWidth: .infinity) // 💡 FIXED: Centers the vertical items inside the column block
+    .frame(maxWidth: .infinity)
   }
   
+  // MARK: - Merge Detection Helpers
   private func canMergeLeft(row: Int, col: Int) -> Bool {
     let index = (row * 5) + col
     guard vm.isAssistModeOn, index < vm.tiles.count else { return false }
