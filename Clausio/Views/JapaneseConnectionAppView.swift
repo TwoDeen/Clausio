@@ -12,12 +12,10 @@ struct JapaneseConnectionsAppView: View {
         .tabItem {
           Label("Play", systemImage: "gamecontroller.fill")
         }
-      // WAKE UP THE BACKEND PIPELINE HERE
-        .onAppear {
-          // Triggers the background worker to slice up your pre-fetched local text asset
+      // 🔄 CHANGED: .task handles background compilation scheduling perfectly on macOS
+        .task {
           vm.loadDynamicPuzzle(forLevel: "N4")
         }
-
       
       SettingsView(vm: vm)
         .tabItem {
