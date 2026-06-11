@@ -1,72 +1,78 @@
-//
-//  GameViewModel.swift
-//  Clausio
-//
-//  Created by Mohideen Noordeen on 10/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
-//
-
 import SwiftUI
 import Combine
+
+
+
 
 // MARK: - Game View Model
 class GameViewModel: ObservableObject {
   @Published var tiles: [Tile] = []
   @Published var selectedIndex: Int? = nil
+  @Published var isLoading: Bool = false
+  @Published var errorMessage: String? = nil
   
-  // Settings synced across views
   @Published var isAssistModeOn: Bool = false
   @Published var isLearnModeOn: Bool = false
   
-  init() {
-    // Prime original pristine layout indices before scrambling the match
-    for i in 0..<mockData.count {
-      mockData[i].correctIndex = i
+  private var pristineSolutionOrder: [Tile] = []
+  private var cancellables = Set<AnyCancellable>()
+  
+  /// Requests a newly compiled puzzle from the FastAPI orchestration server for a given JLPT level
+  func loadDynamicPuzzle(forLevel level: String = "N4") {
+    guard let url = URL(string: "http://127.0.0.1:8000/api/puzzle/generate/\(level)") else {
+      self.errorMessage = "Malformed Base Endpoint Connection string."
+      return
     }
-    startNewGame()
+    
+    self.isLoading = true
+    self.errorMessage = nil
+    
+    var request = URLRequest(url: url)
+    request.httpMethod = "POST"
+    
+    URLSession.shared.dataTaskPublisher(for: request)
+      .map(\.data)
+      .decode(type: PuzzleResponse.self, decoder: JSONDecoder())
+      .receive(on: DispatchQueue.main)
+      .sink(receiveCompletion: { [weak self] completion in
+        self?.isLoading = false
+        if case .failure(let error) = completion {
+          self?.errorMessage = "Failed to load story puzzle: \(error.localizedDescription)"
+        }
+      }, receiveValue: { [weak self] response in
+        self?.initializeGameGrid(from: response.gridMatrix)
+      })
+      .store(in: &cancellables)
   }
   
-  // Cleaned Mock Data: Exactly 25 tiles (5 per category)
-  private var mockData: [Tile] = [
-    // Cat 1: Simple Action (Yellow)
-    Tile(text: "お姉ちゃんは", furigana: "おねえちゃんは", english: "Older sister (topic)", categoryId: 1),
-    Tile(text: "今日", furigana: "きょう", english: "Today", categoryId: 1),
-    Tile(text: "スーパーで", furigana: "すーぱーで", english: "At the supermarket", categoryId: 1),
-    Tile(text: "ラーメンを", furigana: "らーめんを", english: "Ramen (object)", categoryId: 1),
-    Tile(text: "食べました", furigana: "たべました", english: "Ate (past)", categoryId: 1),
+  private func initializeGameGrid(from remoteMatrix: [GridClause]) {
+    // Map payload items directly into interactive dynamic elements
+    let processedTiles = remoteMatrix.map { item in
+      Tile(
+        text: item.clauseText,
+        furigana: item.furigana ?? "", // <-- Map the backend data fallback safely
+        originalRowId: item.gridCoordinates.row,
+        originalColumnId: item.gridCoordinates.column
+      )
+    }
     
-    // Cat 2: Travel & Motion (Green)
-    Tile(text: "友達は", furigana: "ともだちは", english: "Friend (topic)", categoryId: 2),
-    Tile(text: "来週", furigana: "らいしゅう", english: "Next week", categoryId: 2),
-    Tile(text: "東京に", furigana: "とうきょうに", english: "To Tokyo", categoryId: 2),
-    Tile(text: "新幹線で", furigana: "しんかんせんで", english: "By Shinkansen", categoryId: 2),
-    Tile(text: "行きます", furigana: "いきます", english: "Will go", categoryId: 2),
+    // Cache the pristine answer solution matrix (Sorted row-by-row, column-by-column)
+    self.pristineSolutionOrder = processedTiles.sorted {
+      if $0.originalRowId == $1.originalRowId {
+        return $0.originalColumnId < $1.originalColumnId
+      }
+      return $0.originalRowId < $1.originalRowId
+    }
     
-    // Cat 3: Target of Desire (Blue)
-    Tile(text: "私は", furigana: "わたしは", english: "I (topic)", categoryId: 3),
-    Tile(text: "週末に", furigana: "しゅうまつに", english: "On the weekend", categoryId: 3),
-    Tile(text: "古い映画を", furigana: "ふるいえいがを", english: "Old movie (object)", categoryId: 3),
-    Tile(text: "家で", furigana: "いえで", english: "At home", categoryId: 3),
-    Tile(text: "見たいです", furigana: "みたいです", english: "Want to watch", categoryId: 3),
-    
-    // Cat 4: Complex Objects (Purple)
-    Tile(text: "田中さんは", furigana: "たなかさんは", english: "Mr. Tanaka (topic)", categoryId: 4),
-    Tile(text: "いっしょに", furigana: "いっしょに", english: "Together", categoryId: 4),
-    Tile(text: "リンゴと", furigana: "りんごと", english: "Apples and...", categoryId: 4),
-    Tile(text: "バナナを", furigana: "ばななを", english: "Bananas (object)", categoryId: 4),
-    Tile(text: "買いました", furigana: "かいました", english: "Bought", categoryId: 4),
-    
-    // Cat 5: Static Existence (Orange)
-    Tile(text: "七時に", furigana: "しちじに", english: "At 7 o'clock", categoryId: 5),
-    Tile(text: "猫が", furigana: "ねこが", english: "Cat (subject)", categoryId: 5),
-    Tile(text: "部屋に", furigana: "へやに", english: "In the room", categoryId: 5),
-    Tile(text: "椅子の上に", furigana: "いすのうえに", english: "On top of the chair", categoryId: 5),
-    Tile(text: "います", furigana: "います", english: "There is/exists", categoryId: 5)
-  ]
+    // Scramble runtime tile matrix indexes to initiate gameplay
+    self.tiles = processedTiles.shuffled()
+    self.selectedIndex = nil
+  }
   
   func startNewGame() {
-    tiles = mockData.shuffled()
+    tiles = tiles.shuffled()
     selectedIndex = nil
+    for i in 0..<tiles.count { tiles[i].isSolved = false }
   }
   
   func abortGame() {
@@ -103,18 +109,28 @@ class GameViewModel: ObservableObject {
     }
   }
   
+  /// Checks if a row contains 5 matching items placed in correct chronological order (Columns 1-5)
   private func checkForSolvedRows() {
     for row in 0..<5 {
       let start = row * 5
       let end = start + 5
-      let rowTiles = tiles[start..<end]
+      let rowTiles = Array(tiles[start..<end])
       
-      let firstCat = rowTiles.first?.categoryId
-      let isRowUnified = rowTiles.allSatisfy { $0.categoryId == firstCat && !$0.isSolved }
+      let referenceRowId = rowTiles.first?.originalRowId
       
-      if isRowUnified {
-        for index in start..<end {
-          tiles[index].isSolved = true
+      // Step 1: Ensure all 5 items belong to the same original sentence row identity
+      let matchesRowIdentity = rowTiles.allSatisfy { $0.originalRowId == referenceRowId && !$0.isSolved }
+      
+      if matchesRowIdentity {
+        // Step 2: Verify column sequence flows left-to-right from 1 to 5
+        let isOrderedCorrectly = (0..<4).allSatisfy { idx in
+          rowTiles[idx].originalColumnId < rowTiles[idx+1].originalColumnId
+        }
+        
+        if isOrderedCorrectly {
+          for index in start..<end {
+            tiles[index].isSolved = true
+          }
         }
       }
     }
@@ -122,14 +138,14 @@ class GameViewModel: ObservableObject {
   
   func revealSolution() {
     selectedIndex = nil
-    tiles = mockData
+    tiles = pristineSolutionOrder
     for i in 0..<tiles.count {
       tiles[i].isSolved = true
     }
   }
   
-  func colorForCategory(_ id: Int) -> Color {
-    switch id {
+  func colorForCategory(_ originalRowId: Int) -> Color {
+    switch originalRowId {
       case 1: return .yellow
       case 2: return .green
       case 3: return .blue

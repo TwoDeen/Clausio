@@ -60,13 +60,14 @@ def build_puzzle_json(tagged_json_path: str, target_level: str):
         # Allocate 25-element matrix grid layout positioning coordinates
         for col_idx, clause_text in enumerate(clauses):
             clause_node = {
-                "clause_id": (row_idx * 5) + col_idx + 1,  # Global ID (1 to 25)
+                "clause_id": (row_idx * 5) + col_idx + 1,
                 "grid_coordinates": {
-                    "row": row_idx + 1,    # Corresponds to Sentence row sequence (1 to 5)
-                    "column": col_idx + 1   # Corresponds to Clause column sequence (1 to 5)
+                    "row": row_idx + 1,
+                    "column": col_idx + 1
                 },
                 "parent_sentence_id": sentence_id,
-                "clause_text": clause_text
+                "clause_text": clause_text,
+                "furigana": "" # <-- Add this key pair so your iOS App doesn't crash during parsing!
             }
             puzzle_grid.append(clause_node)
             all_extracted_clauses.append(clause_text)

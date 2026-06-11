@@ -1,0 +1,1190 @@
+[
+    {
+        "sentence_id": 1,
+        "raw_text": "二人の若い紳士が、すつかりイギリスの兵隊のかたちをして、ぴかぴかする鉄砲をかついで、白熊のやうな犬を二疋つれて、だいぶ山奥の、木の葉のかさ木の葉のかさしたとこを、こんなことを云ひながら、あるいてをりました。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "ながら / Simultaneous execution / Performing two tasks at once"
+    },
+    {
+        "sentence_id": 2,
+        "raw_text": "「ぜんたい、ここらの山は怪しからんね。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 3,
+        "raw_text": "鳥も獣も一疋も居やがらん。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 4,
+        "raw_text": "なんでも構はないから、早くタンタアーンと、やつて見たいもんだなあ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 5,
+        "raw_text": "「鹿の黄いろな横つ腹なんぞに、二三発お見舞まうしたら、ずゐぶん痛快だらうねえ。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 6,
+        "raw_text": "くるくるまはつて、それからどたつと倒れるだらうねえ。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 7,
+        "raw_text": "それはだいぶの山奥でした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 8,
+        "raw_text": "案内してきた専門の鉄砲打ちも、ちよつとまごついて、どこかへ行つてしまつたくらゐの山奥でした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 9,
+        "raw_text": "それに、あんまり山が物凄いので、その白熊のやうな犬が、二疋いつしよにめまひを起して、しばらく吠つて、それから泡を吐いて死んでしまひました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 10,
+        "raw_text": "「じつにぼくは、二千四百円の損害だ」と一人の紳士が、その犬の眼ぶたを、ちよつとかへしてみて言ひました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 11,
+        "raw_text": "「ぼくは二千八百円の損害だ。」と、もひとりが、くやしさうに、あたまをまげて言ひました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 12,
+        "raw_text": "はじめの紳士は、すこし顔いろを悪くして、じつと、もひとりの紳士の、顔つきを見ながら云ひました。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "ながら / Simultaneous execution / Performing two tasks at once"
+    },
+    {
+        "sentence_id": 13,
+        "raw_text": "「ぼくはもう戻らうとおもふ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 14,
+        "raw_text": "「さあ、ぼくもちやうど寒くはなつたし腹は空いてきたし戻らうとおもふ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 15,
+        "raw_text": "「そいぢや、これで切りあげやう。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 16,
+        "raw_text": "なあに戻りに、昨日の宿屋で、山鳥を拾円も買つて帰ればいい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 17,
+        "raw_text": "「兎もでてゐたねえ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 18,
+        "raw_text": "さうすれば結局おんなじこつた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 19,
+        "raw_text": "では帰らうぢやないか」　ところがどうも困つたことは、どつちへ行けば戻れるのか、いつかう見当がつかなくなつてゐました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 20,
+        "raw_text": "風がどうと吹いてきて、草はざわざわ、木の葉はかさかさ、木はごとんごとんと鳴りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 21,
+        "raw_text": "「どうも腹が空いた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 22,
+        "raw_text": "さつきから横つ腹が痛くてたまらないんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "から (Conjunction) / Explaining cause / Because"
+    },
+    {
+        "sentence_id": 23,
+        "raw_text": "「ぼくもさうだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 24,
+        "raw_text": "もうあんまりあるきたくないな。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 25,
+        "raw_text": "「あるきたくないよ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 26,
+        "raw_text": "ああ困つたなあ、何かたべたいなあ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 27,
+        "raw_text": "「喰べたいもんだなあ」　二人の紳士は、ざわざわ鳴るすすきの中で、こんなことを云ひました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 28,
+        "raw_text": "その時ふとうしろを見ますと、立派な一軒の西洋造りの家がありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 29,
+        "raw_text": "そして玄関にはRESTAURANT西洋料理店WILDCAT HOUSE山猫軒といふ札がでてゐました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 30,
+        "raw_text": "「君、ちやうどいい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 31,
+        "raw_text": "ここはこれでなかなか開けてるんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 32,
+        "raw_text": "入らうぢやないか」「おや、こんなとこにをかしいね。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 33,
+        "raw_text": "しかしとにかく何か食事ができるんだらう」「もちろんできるさ。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 34,
+        "raw_text": "看板にさう書いてあるぢやないか」「はいらうぢやないか。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 35,
+        "raw_text": "ぼくはもう何か喰べたくて倒れさうなんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 36,
+        "raw_text": "二人は玄関に立ちました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 37,
+        "raw_text": "玄関は白い瀬戸の煉瓦で組んで、実に立派なもんです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 38,
+        "raw_text": "そして硝子の開き戸がたつて、そこに金文字でかう書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 39,
+        "raw_text": "「どなたもどうかお入りください。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 40,
+        "raw_text": "決してご遠慮はありません」　二人はそこで、ひどくよろこんで言ひました。",
+        "assigned_jlpt": "N3",
+        "detected_grammar_rule": "決して〜ない / Absolute negation / By no means"
+    },
+    {
+        "sentence_id": 41,
+        "raw_text": "「こいつはどうだ、やつぱり世の中はうまくできてるねえ、けふ一日なんぎしたけれど、こんどはこんないいこともある。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 42,
+        "raw_text": "このうちは料理店だけれどもただでご馳走するんだぜ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 43,
+        "raw_text": "「どうもさうらしい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 44,
+        "raw_text": "決してご遠慮はありませんといふのはその意味だ。」",
+        "assigned_jlpt": "N3",
+        "detected_grammar_rule": "決して〜ない / Absolute negation / By no means"
+    },
+    {
+        "sentence_id": 45,
+        "raw_text": "二人は戸を押して、なかへ入りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 46,
+        "raw_text": "そこはすぐ廊下になつてゐました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 47,
+        "raw_text": "その硝子戸の裏側には、金文字でかうなつてゐました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 48,
+        "raw_text": "「ことに肥つたお方や若いお方は、大歓迎いたします」　二人は大歓迎といふので、もう大よろこびです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 49,
+        "raw_text": "「君、ぼくらは大歓迎にあたつてゐるのだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 50,
+        "raw_text": "「ぼくらは両方兼ねてるから」　ずんずん廊下を進んで行きますと、こんどは水いろのペンキ塗りの扉がありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 51,
+        "raw_text": "「どうも変な家だ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 52,
+        "raw_text": "どうしてこんなにたくさん戸があるのだらう。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 53,
+        "raw_text": "「これはロシア式だ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 54,
+        "raw_text": "寒いとこや山の中はみんなかうさ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 55,
+        "raw_text": "そして二人はその扉をあけようとしますと、上に黄いろな字でかう書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 56,
+        "raw_text": "「当軒は注文の多い料理店ですからどうかそこはご承知ください」「なかなかはやつてるんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "から (Conjunction) / Explaining cause / Because"
+    },
+    {
+        "sentence_id": 57,
+        "raw_text": "こんな山の中で。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 58,
+        "raw_text": "「それあさうだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 59,
+        "raw_text": "見たまへ、東京の大きな料理屋だつて大通りにはすくないだらう」　二人は云ひながら、その扉をあけました。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "ながら / Simultaneous execution / Performing two tasks at once"
+    },
+    {
+        "sentence_id": 60,
+        "raw_text": "するとその裏側に、「注文はずゐぶん多いでせうがどうか一々こらえて下さい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "てください / Courteous request directive"
+    },
+    {
+        "sentence_id": 61,
+        "raw_text": "「これはぜんたいどういふんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 62,
+        "raw_text": "ひとりの紳士は顔をしかめました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 63,
+        "raw_text": "「うん、これはきつと注文があまり多くて支度が手間取るけれどもごめん下さいと斯ういふことだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "てください / Courteous request directive"
+    },
+    {
+        "sentence_id": 64,
+        "raw_text": "「さうだらう。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 65,
+        "raw_text": "早くどこか室の中にはひりたいもんだな。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 66,
+        "raw_text": "「そしてテーブルに座りたいもんだな。」ところがどうもうるさいことは、また扉が一つありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 67,
+        "raw_text": "そしてそのわきに鏡がかかつて、その下には長い柄のついたブラシが置いてあつたのです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 68,
+        "raw_text": "扉には赤い字で、「お客さまがた、ここで髪をきちんとして、それからはきもの　の泥を落してください。」と書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 69,
+        "raw_text": "「これはどうも尤もだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 70,
+        "raw_text": "僕もさつき玄関で、山のなかだとおもつて見くびつたんだよ」「作法の厳しい家だ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 71,
+        "raw_text": "きつとよほど偉い人たちが、たびたび来るんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 72,
+        "raw_text": "そこで二人は、きれいに髪をけづつて、靴の泥を落しました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 73,
+        "raw_text": "そしたら、どうです。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 74,
+        "raw_text": "ブラシを板の上に置くや否や、そいつがぼうつとかすんで無くなつて、風がどうつと室の中に入つてきました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 75,
+        "raw_text": "二人はびつくりして、互によりそつて、扉をがたんと開けて、次の室へ入つて行きました。",
+        "assigned_jlpt": "N2",
+        "detected_grammar_rule": "によって / Depending on / By means of / Due to"
+    },
+    {
+        "sentence_id": 76,
+        "raw_text": "早く何か暖いものでもたべて、元気をつけて置かないと、もう途方もないことになつてしまふと、二人とも思つたのでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 77,
+        "raw_text": "扉の内側に、また変なことが書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 78,
+        "raw_text": "「鉄砲と弾丸をここへ置いてください。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 79,
+        "raw_text": "見るとすぐ横に黒い台がありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 80,
+        "raw_text": "「なるほど、鉄砲を持つてものを食ふといふ法はない。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 81,
+        "raw_text": "「いや、よほど偉いひとが始終来てゐるんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 82,
+        "raw_text": "二人は鉄砲をはづし、帯皮を解いて、それを台の上に置きました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 83,
+        "raw_text": "また黒い扉がありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 84,
+        "raw_text": "「どうか帽子と外套と靴をおとり下さい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "てください / Courteous request directive"
+    },
+    {
+        "sentence_id": 85,
+        "raw_text": "「どうだ、とるか。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 86,
+        "raw_text": "「仕方ない、とらう。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 87,
+        "raw_text": "たしかによつぽどえらいひとなんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 88,
+        "raw_text": "奥に来てゐるのは」　二人は帽子とオーバコートを釘にかけ、靴をぬいでぺたぺたあるいて扉の中にはひりました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 89,
+        "raw_text": "扉の裏側には、「ネクタイピン、カフスボタン、眼鏡、財布、その他金物類、　ことに尖つたものは、みんなここに置いてください」と書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 90,
+        "raw_text": "扉のすぐ横には黒塗りの立派な金庫も、ちやんと口を開けて置いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 91,
+        "raw_text": "鍵まで添へてあつたのです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 92,
+        "raw_text": "「ははあ、何かの料理に電気をつかふと見えるね。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 93,
+        "raw_text": "金気のものはあぶない。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 94,
+        "raw_text": "ことに尖つたものはあぶないと斯う云ふんだらう。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 95,
+        "raw_text": "「さうだらう。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 96,
+        "raw_text": "して見ると勘定は帰りにここで払ふのだらうか。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 97,
+        "raw_text": "「どうもさうらしい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 98,
+        "raw_text": "「さうだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 99,
+        "raw_text": "きつと。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 100,
+        "raw_text": "二人はめがねをはづしたり、カフスボタンをとつたり、みんな金庫の中に入れて、ぱちんと錠をかけました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 101,
+        "raw_text": "すこし行きますとまた扉があつて、その前に硝子の壺が一つありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 102,
+        "raw_text": "扉には斯う書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 103,
+        "raw_text": "「壺のなかのクリームを顔や手足にすつかり塗つてください。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 104,
+        "raw_text": "みるとたしかに壺のなかのものは牛乳のクリームでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 105,
+        "raw_text": "「クリームをぬれといふのはどういふんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 106,
+        "raw_text": "「これはね、外がひじやうに寒いだらう。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 107,
+        "raw_text": "室のなかがあんまり暖いとひびがきれるから、その予防なんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "から (Conjunction) / Explaining cause / Because"
+    },
+    {
+        "sentence_id": 108,
+        "raw_text": "どうも奥には、よほどえらいひとがきてゐる。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 109,
+        "raw_text": "こんなとこで、案外ぼくらは、貴族とちかづきになるかも知れないよ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 110,
+        "raw_text": "二人は壺のクリームを、顔に塗つて手に塗つてそれから靴下をぬいで足に塗りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 111,
+        "raw_text": "それでもまだ残つてゐましたから、それは二人ともめいめいこつそり顔へ塗るふりをしながら喰べました。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "ながら / Simultaneous execution / Performing two tasks at once"
+    },
+    {
+        "sentence_id": 112,
+        "raw_text": "それから大急ぎで扉をあけますと、その裏側には、「クリームをよく塗りましたか、耳にもよく塗りましたか、」と書いてあつて、ちひさなクリームの壺がここにも置いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 113,
+        "raw_text": "「さうさう、ぼくは耳には塗らなかつた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 114,
+        "raw_text": "あぶなく耳にひびを切らすとこだつた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 115,
+        "raw_text": "ここの主人はじつに用意周到だね。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 116,
+        "raw_text": "「ああ、細かいとこまでよく気がつくよ。ところでぼくは早く何か喰べたいんだが、どうも斯うどこまでも廊下ぢや仕方ないね。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "たい / Expressing immediate desire to execute"
+    },
+    {
+        "sentence_id": 117,
+        "raw_text": "するとすぐその前に次の戸がありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 118,
+        "raw_text": "「料理はもうすぐできます。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 119,
+        "raw_text": "十五分とお待たせはいたしません。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 120,
+        "raw_text": "すぐたべられます。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "可能形 (Potential Form) / Possesses capability to execute"
+    },
+    {
+        "sentence_id": 121,
+        "raw_text": "早くあなたの頭に瓶の中の香水をよく振りかけてください。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 122,
+        "raw_text": "そして戸の前には金ピカの香水の瓶が置いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 123,
+        "raw_text": "二人はその香水を、頭へぱちやぱちや振りかけました。ところがその香水は、どうも酢のやうな匂がするのでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 124,
+        "raw_text": "「この香水はへんに酢くさい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 125,
+        "raw_text": "どうしたんだらう。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 126,
+        "raw_text": "「まちがへたんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 127,
+        "raw_text": "下女が風邪でも引いてまちがへて入れたんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 128,
+        "raw_text": "二人は扉をあけて中にはひりました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 129,
+        "raw_text": "扉の裏側には、大きな字で斯う書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 130,
+        "raw_text": "「いろいろ注文が多くてうるさかつたでせう。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 131,
+        "raw_text": "お気の毒でした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 132,
+        "raw_text": "もうこれだけです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 133,
+        "raw_text": "どうかからだ中に、壺の中の塩をたくさ　んよくもみ込んでください。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 134,
+        "raw_text": "なるほど立派な青い瀬戸の塩壺は置いてありましたが、こんどといふこんどは二人ともぎよつとしてお互にクリームをたくさん塗つた顔を見合せました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 135,
+        "raw_text": "「どうもをかしいぜ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 136,
+        "raw_text": "「ぼくもをかしいとおもふ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 137,
+        "raw_text": "「沢山の注文といふのは、向ふがこつちへ注文してるんだよ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 138,
+        "raw_text": "「だからさ、西洋料理店といふのは、ぼくの考へるところでは、西洋料理を、来た人にたべさせるのではなくて、来た人を西洋料理にして、食べてやる家とかういふことなんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "から (Conjunction) / Explaining cause / Because"
+    },
+    {
+        "sentence_id": 139,
+        "raw_text": "これは、その、つ、つ、つ、つまり、ぼ、ぼ、ぼくらが……。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 140,
+        "raw_text": "がたがたがたがた、ふるへだしてもうものが言へませんでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 141,
+        "raw_text": "「その、ぼ、ぼくらが、……うわあ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 142,
+        "raw_text": "がたがたがたがたふるへだして、もうものが言へませんでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 143,
+        "raw_text": "「遁げ……。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 144,
+        "raw_text": "がたがたしながら一人の紳士はうしろの戸を押さうとしましたが、どうです、戸はもう一分も動きませんでした。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "ながら / Simultaneous execution / Performing two tasks at once"
+    },
+    {
+        "sentence_id": 145,
+        "raw_text": "奥の方にはまだ一枚扉があつて、大きなかぎ穴が二つつき、銀いろのホークとナイフの形が切りだしてあつて、「いや、わざわざご苦労です。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 146,
+        "raw_text": "大へん結構にできました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 147,
+        "raw_text": "さあさあおなかにおはひりください。」と書いてありました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 148,
+        "raw_text": "おまけにかぎ穴からはきよろきよろ二つの青い眼玉がこつちをのぞいてゐます。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 149,
+        "raw_text": "「うわあ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 150,
+        "raw_text": "がたがたがたがた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 151,
+        "raw_text": "「うわあ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 152,
+        "raw_text": "がたがたがたがた。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 153,
+        "raw_text": "ふたりは泣き出しました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 154,
+        "raw_text": "すると戸の中では、こそこそこんなことを云つてゐます。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 155,
+        "raw_text": "「だめだよ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 156,
+        "raw_text": "もう気がついたよ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 157,
+        "raw_text": "塩をもみこまないやうだよ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 158,
+        "raw_text": "「あたりまへさ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 159,
+        "raw_text": "親分の書きやうがまづいんだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 160,
+        "raw_text": "あすこへ、いろいろ注文が多くてうるさかつたでせう、お気の毒でしたなんて、間抜けたことを書いたもんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 161,
+        "raw_text": "「どつちでもいいよ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 162,
+        "raw_text": "どうせぼくらには、骨も分けて呉れやしないんだ。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 163,
+        "raw_text": "「それはさうだ。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 164,
+        "raw_text": "けれどももしここへあいつらがはひつて来なかつたら、それはぼくらの責任だぜ。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "〜たら / Conditional connection / Past-based if-then context"
+    },
+    {
+        "sentence_id": 165,
+        "raw_text": "「呼ばうか、呼ばう。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 166,
+        "raw_text": "おい、お客さん方、早くいらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 167,
+        "raw_text": "いらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 168,
+        "raw_text": "いらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 169,
+        "raw_text": "お皿も洗つてありますし、菜つ葉ももうよく塩でもんで置きました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 170,
+        "raw_text": "あとはあなたがたと、菜つ葉をうまくとりあはせて、まつ白なお皿にのせる丈けです。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 171,
+        "raw_text": "はやくいらつしやい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 172,
+        "raw_text": "「へい、いらつしやい、いらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 173,
+        "raw_text": "それともサラドはお嫌ひですか。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 174,
+        "raw_text": "そんならこれから火を起してフライにしてあげませうか。とにかくはやくいらつしやい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ている / Progressive continuous state / Habitual ongoing action"
+    },
+    {
+        "sentence_id": 175,
+        "raw_text": "二人はあんまり心を痛めたために、顔がまるでくしやくしやの紙屑のやうになり、お互にその顔を見合せ、ぶるぶるふるへ、声もなく泣きました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 176,
+        "raw_text": "中ではふつふつとわらつてまた叫んでゐます。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 177,
+        "raw_text": "「いらつしやい、いらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 178,
+        "raw_text": "そんなに泣いては折角のクリームが流れるぢやありませんか。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 179,
+        "raw_text": "へい、ただいま。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 180,
+        "raw_text": "ぢきもつてまゐります。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 181,
+        "raw_text": "さあ、早くいらつしやい。」",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 182,
+        "raw_text": "「早くいらつしやい。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "Basic foundational sentence / Particle-linked base clause"
+    },
+    {
+        "sentence_id": 183,
+        "raw_text": "親方がもうナフキンをかけて、ナイフをもつて、舌なめずりして、お客さま方を待つてゐられます。」",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "可能形 (Potential Form) / Possesses capability to execute"
+    },
+    {
+        "sentence_id": 184,
+        "raw_text": "二人は泣いて泣いて泣いて泣いて泣きました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 185,
+        "raw_text": "そのときうしろからいきなり、「わん、わん、ぐわあ。」といふ声がして、あの白熊のやうな犬が二疋、扉をつきやぶつて室の中に飛び込んできました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 186,
+        "raw_text": "鍵穴の眼玉はたちまちなくなり、犬どもはううとうなつてしばらく室の中をくるくる廻つてゐましたが、また一声「わん。」と高く吠えて、いきなり次の扉に飛びつきました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 187,
+        "raw_text": "戸はがたりとひらき、犬どもは吸ひ込まれるやうに飛んで行きました。",
+        "assigned_jlpt": "N4",
+        "detected_grammar_rule": "可能形 (Potential Form) / Possesses capability to execute"
+    },
+    {
+        "sentence_id": 188,
+        "raw_text": "その扉の向ふのまつくらやみのなかで、「にやあお、くわあ、ごろごろ。」といふ声がして、それからがさがさ鳴りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 189,
+        "raw_text": "室はけむりのやうに消え、二人は寒さにぶるぶるふるへて、草の中に立つてゐました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 190,
+        "raw_text": "見ると、上着や靴や財布やネクタイピンは、あつちの枝にぶらさがつたり、こつちの根もとにちらばつたりしてゐます。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 191,
+        "raw_text": "風がどうと吹いてきて、草はざわざわ、木の葉はかさかさ、木はごとんごとんと鳴りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 192,
+        "raw_text": "犬がふうとうなつて戻つてきました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 193,
+        "raw_text": "そしてうしろからは、「旦那あ、旦那あ、」と叫ぶものがあります。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 194,
+        "raw_text": "二人は俄かに元気がついて「おおい、おおい、ここだぞ、早く来い。」と叫びました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 195,
+        "raw_text": "簔帽子をかぶつた専門の猟師が、草をざわざわ分けてやつてきました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 196,
+        "raw_text": "そこで二人はやつと安心しました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 197,
+        "raw_text": "そして猟師のもつてきた団子をたべ、途中で十円だけ山鳥を買つて東京に帰りました。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    },
+    {
+        "sentence_id": 198,
+        "raw_text": "しかし、さつき一ぺん紙くづのやうになつた二人の顔だけは、東京に帰つても、お湯にはひつても、もうもとのとほりになほりませんでした。",
+        "assigned_jlpt": "N5",
+        "detected_grammar_rule": "ます・ました / Formal polite clausal framework"
+    }
+]

@@ -8,14 +8,13 @@
 
 import SwiftUI
 
-// MARK: - Models
+
 struct Tile: Identifiable, Equatable {
   let id = UUID()
-  let text: String       // Kanji/Japanese text
-  let furigana: String   // Reading helper
-  let english: String    // English meaning
-  let categoryId: Int    // Group alignment (1 to 5)
+  let text: String
+  let furigana: String // <-- Add this property back to resolve line 108
+  let originalRowId: Int
+  let originalColumnId: Int
   var isSolved: Bool = false
-  var correctIndex: Int = 0 // Tracks baseline authentic sentence coordinates
 }
 

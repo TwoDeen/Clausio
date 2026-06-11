@@ -12,6 +12,12 @@ struct JapaneseConnectionsAppView: View {
         .tabItem {
           Label("Play", systemImage: "gamecontroller.fill")
         }
+      // WAKE UP THE BACKEND PIPELINE HERE
+        .onAppear {
+          // Triggers the background worker to slice up your pre-fetched local text asset
+          vm.loadDynamicPuzzle(forLevel: "N4")
+        }
+
       
       SettingsView(vm: vm)
         .tabItem {

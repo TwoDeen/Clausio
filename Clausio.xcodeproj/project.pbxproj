@@ -15,6 +15,17 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				Server/Scripts/clausify.py,
+				Server/Scripts/cleanup_ditto.py,
+				Server/Scripts/complete_jlpt_analyzer.py,
+				Server/Scripts/download_all_stories.py,
+				Server/Scripts/exhaustive_jlpt_analyzer.py,
+				Server/Scripts/export_consecutive_sentences.py,
+				Server/Scripts/generate_grid_puzzle.py,
+				Server/Scripts/main.py,
+				Server/Scripts/OriginalSubset/main.py,
+				Server/Scripts/pull_consecutive_sentences.py,
+				Server/Scripts/tokenise_into_sentences.py,
 			);
 			target = A97060D22FD9140A00A4C35D /* Clausio */;
 		};

@@ -65,7 +65,7 @@ struct GameContainerView: View {
               TileView(
                 tile: vm.tiles[index],
                 isSelected: vm.selectedIndex == index,
-                accentColor: vm.colorForCategory(vm.tiles[index].categoryId),
+                accentColor: vm.colorForCategory(vm.tiles[index].originalRowId),
                 isAssistModeOn: vm.isAssistModeOn,
                 mergesLeft: canMergeLeft(row: row, col: col),
                 mergesRight: canMergeRight(row: row, col: col),
@@ -78,7 +78,7 @@ struct GameContainerView: View {
               )
               .frame(maxWidth: .infinity, maxHeight: .infinity)
             } else {
-              // ✅ FIXED: Separated branches remove all inline 'nil' layout ambiguities
+              // Separated branches remove all inline 'nil' layout ambiguities
               if useSquareLayout {
                 Color.clear
                   .aspectRatio(1.0, contentMode: .fit)
@@ -102,16 +102,18 @@ struct GameContainerView: View {
       if vm.isLearnModeOn, let selected = vm.selectedIndex, selected < vm.tiles.count {
         VStack(alignment: .leading, spacing: 6) {
           VStack(alignment: .leading, spacing: 2) {
-            Text("Furigana:")
+            Text("Sentence Index:")
               .font(.caption.bold())
               .foregroundColor(.secondary)
-            Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 14, isSolved: vm.tiles[selected].isSolved))
+            // Displays sentence row identity tracking metadata since furigana is empty
+            Text("Row \(vm.tiles[selected].originalRowId) — Segment \(vm.tiles[selected].originalColumnId)")
+              .font(.system(size: 14))
           }
           VStack(alignment: .leading, spacing: 2) {
-            Text("Meaning:")
+            Text("Clause Context:")
               .font(.caption.bold())
               .foregroundColor(.secondary)
-            Text(vm.tiles[selected].english)
+            Text(vm.tiles[selected].text)
               .font(.system(size: 13))
               .foregroundColor(.primary)
               .fixedSize(horizontal: false, vertical: true)
@@ -164,19 +166,32 @@ struct GameContainerView: View {
   }
   
   // MARK: - Merge Detection Helpers
+  
+  /// Assists with grid visuals by identifying if a tile sits in its correct structural target row and sequence position.
   private func canMergeLeft(row: Int, col: Int) -> Bool {
-    let index = (row * 5) + col
-    guard vm.isAssistModeOn, index < vm.tiles.count else { return false }
-    let isCurrentCorrect = vm.tiles[index].correctIndex == index
+    let currentIndex = (row * 5) + col
+    guard vm.isAssistModeOn, currentIndex < vm.tiles.count else { return false }
+    
+    let currentTile = vm.tiles[currentIndex]
+    // A tile is in its intended row if its grid index matches its text layout position
+    let isCurrentCorrect = currentTile.originalRowId == (row + 1) && currentTile.originalColumnId == (col + 1)
+    
     guard isCurrentCorrect && col > 0 else { return false }
-    return vm.tiles[index - 1].correctIndex == index - 1
+    
+    let leftTile = vm.tiles[currentIndex - 1]
+    return leftTile.originalRowId == (row + 1) && leftTile.originalColumnId == col
   }
   
   private func canMergeRight(row: Int, col: Int) -> Bool {
-    let index = (row * 5) + col
-    guard vm.isAssistModeOn, index < vm.tiles.count else { return false }
-    let isCurrentCorrect = vm.tiles[index].correctIndex == index
+    let currentIndex = (row * 5) + col
+    guard vm.isAssistModeOn, currentIndex < vm.tiles.count else { return false }
+    
+    let currentTile = vm.tiles[currentIndex]
+    let isCurrentCorrect = currentTile.originalRowId == (row + 1) && currentTile.originalColumnId == (col + 1)
+    
     guard isCurrentCorrect && col < 4 else { return false }
-    return vm.tiles[index + 1].correctIndex == index + 1
+    
+    let rightTile = vm.tiles[currentIndex + 1]
+    return rightTile.originalRowId == (row + 1) && rightTile.originalColumnId == (col + 2)
   }
 }

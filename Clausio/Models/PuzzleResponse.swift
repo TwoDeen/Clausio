@@ -1,3 +1,12 @@
+//
+//  PuzzleResponse.swift
+//  Clausio
+//
+//  Created by Mohideen Noordeen on 11/06/2026.
+//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
+//
+
+
 // MARK: - API Struct Models
 struct PuzzleResponse: Codable {
   let targetLevelRequested: String

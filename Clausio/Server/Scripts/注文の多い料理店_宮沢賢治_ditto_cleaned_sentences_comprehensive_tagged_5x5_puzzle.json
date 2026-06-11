@@ -1,0 +1,267 @@
+{
+    "target_level_requested": "N4",
+    "passage_extraction_strategy": "CONTEXT_WINDOW_FOR_N4",
+    "total_grid_clauses": 25,
+    "puzzle_solution_flow": {
+        "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+        "ordered_sentence_ids": [
+            92,
+            93,
+            94,
+            95,
+            96
+        ]
+    },
+    "grid_matrix": [
+        {
+            "clause_id": 1,
+            "grid_coordinates": {
+                "row": 1,
+                "column": 1
+            },
+            "parent_sentence_id": 92,
+            "clause_text": "「ははあ、何か",
+            "furigana": ""
+        },
+        {
+            "clause_id": 2,
+            "grid_coordinates": {
+                "row": 1,
+                "column": 2
+            },
+            "parent_sentence_id": 92,
+            "clause_text": "の",
+            "furigana": ""
+        },
+        {
+            "clause_id": 3,
+            "grid_coordinates": {
+                "row": 1,
+                "column": 3
+            },
+            "parent_sentence_id": 92,
+            "clause_text": "料理に",
+            "furigana": ""
+        },
+        {
+            "clause_id": 4,
+            "grid_coordinates": {
+                "row": 1,
+                "column": 4
+            },
+            "parent_sentence_id": 92,
+            "clause_text": "電気をつか",
+            "furigana": ""
+        },
+        {
+            "clause_id": 5,
+            "grid_coordinates": {
+                "row": 1,
+                "column": 5
+            },
+            "parent_sentence_id": 92,
+            "clause_text": "ふと見えるね。",
+            "furigana": ""
+        },
+        {
+            "clause_id": 6,
+            "grid_coordinates": {
+                "row": 2,
+                "column": 1
+            },
+            "parent_sentence_id": 93,
+            "clause_text": "金",
+            "furigana": ""
+        },
+        {
+            "clause_id": 7,
+            "grid_coordinates": {
+                "row": 2,
+                "column": 2
+            },
+            "parent_sentence_id": 93,
+            "clause_text": "気の",
+            "furigana": ""
+        },
+        {
+            "clause_id": 8,
+            "grid_coordinates": {
+                "row": 2,
+                "column": 3
+            },
+            "parent_sentence_id": 93,
+            "clause_text": "ものは",
+            "furigana": ""
+        },
+        {
+            "clause_id": 9,
+            "grid_coordinates": {
+                "row": 2,
+                "column": 4
+            },
+            "parent_sentence_id": 93,
+            "clause_text": "あぶ",
+            "furigana": ""
+        },
+        {
+            "clause_id": 10,
+            "grid_coordinates": {
+                "row": 2,
+                "column": 5
+            },
+            "parent_sentence_id": 93,
+            "clause_text": "ない。",
+            "furigana": ""
+        },
+        {
+            "clause_id": 11,
+            "grid_coordinates": {
+                "row": 3,
+                "column": 1
+            },
+            "parent_sentence_id": 94,
+            "clause_text": "ことに",
+            "furigana": ""
+        },
+        {
+            "clause_id": 12,
+            "grid_coordinates": {
+                "row": 3,
+                "column": 2
+            },
+            "parent_sentence_id": 94,
+            "clause_text": "尖つたものは",
+            "furigana": ""
+        },
+        {
+            "clause_id": 13,
+            "grid_coordinates": {
+                "row": 3,
+                "column": 3
+            },
+            "parent_sentence_id": 94,
+            "clause_text": "あぶないと",
+            "furigana": ""
+        },
+        {
+            "clause_id": 14,
+            "grid_coordinates": {
+                "row": 3,
+                "column": 4
+            },
+            "parent_sentence_id": 94,
+            "clause_text": "斯う云ふん",
+            "furigana": ""
+        },
+        {
+            "clause_id": 15,
+            "grid_coordinates": {
+                "row": 3,
+                "column": 5
+            },
+            "parent_sentence_id": 94,
+            "clause_text": "だらう。」",
+            "furigana": ""
+        },
+        {
+            "clause_id": 16,
+            "grid_coordinates": {
+                "row": 4,
+                "column": 1
+            },
+            "parent_sentence_id": 95,
+            "clause_text": "「",
+            "furigana": ""
+        },
+        {
+            "clause_id": 17,
+            "grid_coordinates": {
+                "row": 4,
+                "column": 2
+            },
+            "parent_sentence_id": 95,
+            "clause_text": "さ",
+            "furigana": ""
+        },
+        {
+            "clause_id": 18,
+            "grid_coordinates": {
+                "row": 4,
+                "column": 3
+            },
+            "parent_sentence_id": 95,
+            "clause_text": "う",
+            "furigana": ""
+        },
+        {
+            "clause_id": 19,
+            "grid_coordinates": {
+                "row": 4,
+                "column": 4
+            },
+            "parent_sentence_id": 95,
+            "clause_text": "だら",
+            "furigana": ""
+        },
+        {
+            "clause_id": 20,
+            "grid_coordinates": {
+                "row": 4,
+                "column": 5
+            },
+            "parent_sentence_id": 95,
+            "clause_text": "う。",
+            "furigana": ""
+        },
+        {
+            "clause_id": 21,
+            "grid_coordinates": {
+                "row": 5,
+                "column": 1
+            },
+            "parent_sentence_id": 96,
+            "clause_text": "して",
+            "furigana": ""
+        },
+        {
+            "clause_id": 22,
+            "grid_coordinates": {
+                "row": 5,
+                "column": 2
+            },
+            "parent_sentence_id": 96,
+            "clause_text": "見ると",
+            "furigana": ""
+        },
+        {
+            "clause_id": 23,
+            "grid_coordinates": {
+                "row": 5,
+                "column": 3
+            },
+            "parent_sentence_id": 96,
+            "clause_text": "勘定は帰りに",
+            "furigana": ""
+        },
+        {
+            "clause_id": 24,
+            "grid_coordinates": {
+                "row": 5,
+                "column": 4
+            },
+            "parent_sentence_id": 96,
+            "clause_text": "ここで払ふの",
+            "furigana": ""
+        },
+        {
+            "clause_id": 25,
+            "grid_coordinates": {
+                "row": 5,
+                "column": 5
+            },
+            "parent_sentence_id": 96,
+            "clause_text": "だらうか。」",
+            "furigana": ""
+        }
+    ]
+}
