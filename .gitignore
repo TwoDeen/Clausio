@@ -1,0 +1,9 @@
+Cache/
+*_puzzle.json
+*.json
+
+# Byte-compiled / optimized / DLL support files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

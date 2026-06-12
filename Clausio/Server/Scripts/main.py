@@ -1,6 +1,7 @@
 import os
 import glob
 import json
+import tempfile  # 🔑 Native module to fetch the system temp directory
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -16,20 +17,18 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# --- UPDATE THESE PATHS IN YOUR main.py ---
-
-# 1. Get the absolute path of the directory containing main.py
+# 🏢 GIT DIRECTORY (Read-Only Source Area)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# 2. Force absolute lookups for both Stories and Cache folders
 STORIES_DIR = os.path.join(BASE_DIR, "Stories")
-CACHE_DIR = os.path.join(BASE_DIR, "Cache")
 
-print(f"--> System initialized. Scanning absolute path: {STORIES_DIR}")
+# 🧼 TEMPORARY AREA (Write/Cache Sandbox Area)
+# Creates an isolated, persistent 'ClausioCache' folder within /var/folders/
+CACHE_DIR = os.path.join(tempfile.gettempdir(), "ClausioCache")
 os.makedirs(CACHE_DIR, exist_ok=True)
-os.makedirs(STORIES_DIR, exist_ok=True) # Automatically builds it if missing
 
-os.makedirs(CACHE_DIR, exist_ok=True)
+print(f"--> System initialized.")
+print(f"--> [READ ONLY] Stories Path: {STORIES_DIR}")
+print(f"--> [TEMP AREA] Cache Path:    {CACHE_DIR}")
 
 class PuzzleRequest(BaseModel):
     file_path: str  
@@ -37,7 +36,7 @@ class PuzzleRequest(BaseModel):
 
 @app.get("/api/stories")
 def list_available_stories():
-    """Scans the Stories directory root recursively for raw un-tagged .txt files."""
+    """Scans the Git-safe Stories directory root recursively for raw un-tagged .txt files."""
     if not os.path.exists(STORIES_DIR):
         return {"stories": []}
         
@@ -63,10 +62,12 @@ def fetch_or_compile_puzzle(request: PuzzleRequest):
         raise HTTPException(status_code=404, detail=f"Source file asset not found at path: {file_path}")
         
     base_file_id = os.path.basename(file_path).replace(".txt", "")
+    
+    # 🔑 Target the temporary directory away from Git
     cache_destination = os.path.join(CACHE_DIR, f"{base_file_id}_{target_level}_5x5_puzzle.json")
     
     if os.path.exists(cache_destination):
-        print(f"--> [CACHE HIT]: Loading cached puzzle matrix directly: {cache_destination}")
+        print(f"--> [CACHE HIT]: Loading matrix directly from Temp Space: {cache_destination}")
         try:
             with open(cache_destination, "r", encoding="utf-8") as cached_f:
                 return json.load(cached_f)
@@ -75,7 +76,8 @@ def fetch_or_compile_puzzle(request: PuzzleRequest):
 
     print(f"--> [CACHE MISS]: Processing raw .txt document incrementally: {file_path}")
     try:
-        generated_payload = build_puzzle_json(file_path, target_level)
+        # Pass the temp cache target down so helper modules write to the clean area
+        generated_payload = build_puzzle_json(file_path, target_level, CACHE_DIR)
         
         if not generated_payload:
             raise HTTPException(status_code=500, detail="The matrix generation module returned an empty structural schema.")
@@ -83,7 +85,7 @@ def fetch_or_compile_puzzle(request: PuzzleRequest):
         with open(cache_destination, "w", encoding="utf-8") as cache_out:
             json.dump(generated_payload, cache_out, ensure_ascii=False, indent=4)
             
-        print(f"--> Success! Matrix puzzle written to persistent cache layer: {cache_destination}")
+        print(f"--> Success! Matrix puzzle written to temp space cache layout: {cache_destination}")
         return generated_payload
         
     except Exception as pipeline_crash:
@@ -98,6 +100,6 @@ def clear_engine_cache():
         for file in cache_files:
             os.remove(file)
             purged_count += 1
-        return {"status": "success", "detail": f"Cache cleared. Evicted {purged_count} files."}
+        return {"status": "success", "detail": f"Cache cleared. Evicted {purged_count} files from temp area."}
     except Exception as err:
-        raise HTTPException(status_code=500, detail=f"Failed clearing directory: {str(err)}")
+        raise HTTPException(status_code=500, detail=f"Failed clearing temporary directory: {str(err)}")

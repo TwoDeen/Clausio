@@ -10,26 +10,25 @@ except ImportError as e:
     print("Please ensure 'clausify.py' are in this root folder.", file=sys.stderr)
     sys.exit(1)
 
-def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
+# 🔑 Injected output_dir target parameter to route file saving routines
+def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> dict:
     """
     1. Reads a raw untagged .txt file.
-    2. Tokenizes it into logical sentences and simulates a consecutive 5-sentence block.
+    2. Tokenizes it into logical sentences.
     3. Decomposes sentences into exactly 25 clauses (5 each).
     4. Generates and returns a master 5x5 grid puzzle configuration dictionary.
     """
     import spacy
     
-    # 🔑 FIXED: Correct single-level dictionary mapping that confection requires
     config = {
         "components": {
             "compound_splitter": {
-                "split_mode": "C", # Force a string default validation setting
+                "split_mode": "C",
             }
         }
     }
     
     try:
-        # Load the pipeline passing the explicitly flattened validation override dict
         nlp = spacy.load("ja_ginza", config=config)
     except Exception as nlp_err:
         print(f"Error loading GiNZa pipeline layout: {nlp_err}", file=sys.stderr)
@@ -41,7 +40,6 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
     with open(raw_txt_path, "r", encoding="utf-8") as f:
         raw_content = f.read()
 
-    # Clean header text metadata lines cleanly (Title:, Author:, URL:, dashes)
     lines = [line.strip() for line in raw_content.splitlines() if line.strip()]
     cleaned_lines = []
     for line in lines:
@@ -51,14 +49,11 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
     
     combined_raw_text = "".join(cleaned_lines)
     
-    # Sieve raw block into explicit sentences based on Japanese punctuation boundaries
     raw_sentences = [s + "」" if s.endswith("」") == False and s.count("「") > s.count("」") else s 
                      for s in re.split(r'(?<=。) | (?<=！)|(?<=？)|(?<=。)', combined_raw_text) if s.strip()]
     
-    # Filter short strings to ensure we keep sentences meaningful for gameplay rows
     filtered_sentences = [s for s in raw_sentences if len(s) >= 15]
 
-    # Dynamic fallback window picker: Select the first 5 sentences as our target passage
     selected_sentences = filtered_sentences[:5]
     if len(selected_sentences) < 5:
         while len(selected_sentences) < 5:
@@ -72,11 +67,8 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
     # --- STEP 2: LOOP AND DECOMPOSE INTO COLUMNS ---
     for row_idx, sentence_text in enumerate(selected_sentences):
         sentence_id = row_idx + 1
-        
-        # Run full text NLP context analysis to find accurate pronunciations
         full_sentence_doc = nlp(sentence_text)
 
-        # Extract exactly 5 sub-clauses from our text string fragment
         clauses = decompose_into_clauses_fallback(sentence_text)
         print(f"  -> Line #{sentence_id} sliced into 5 game puzzle matrix columns.")
 
@@ -115,7 +107,6 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
                         if reading_list:
                             reading = reading_list[0]
                     
-                    # Convert Katakana characters to native Hiragana strings
                     if reading:
                         hiragana_reading = "".join([
                             chr(ord(char) - 0x60) if 0x30A1 <= ord(char) <= 0x30F6 else char 
@@ -127,7 +118,6 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
             
             kana_reading = "".join(kana_tokens) if kana_tokens else clause_text
             
-            # Sub-token fragment string parsing fallback pass
             if kana_reading == clause_text:
                 fallback_doc = nlp(clause_text)
                 fresh_tokens = []
@@ -169,5 +159,15 @@ def build_puzzle_json(raw_txt_path: str, target_level: str) -> dict:
         },
         "grid_matrix": puzzle_grid
     }
+
+    # Optional: If you want to dump copies of the intermediate json maps, 
+    # force them to save inside the temporary directory too!
+    try:
+        base_id = os.path.basename(raw_txt_path).replace(".txt", "")
+        debug_output_path = os.path.join(output_dir, f"{base_id}_incremental_debug.json")
+        with open(debug_output_path, "w", encoding="utf-8") as dbg_out:
+            json.dump(game_payload, dbg_out, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"Skipped saving secondary temporary artifact: {e}")
 
     return game_payload
