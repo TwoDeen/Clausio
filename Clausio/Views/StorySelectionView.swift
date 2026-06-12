@@ -18,7 +18,9 @@ struct StorySelectionView: View {
     
     // --- ENVIRONMENT DEFINITIONS ---
     let levels = ["N5", "N4", "N3", "N2", "N1"]
-    let backendURL = "http://localhost:8000" // Adjust to your production cluster IP when deploying
+    //let backendURL = "http://localhost:8000" // Adjust to your production cluster IP when deploying
+  // 🔑 NEW: Replace with your Mac's actual local network IP address
+    let backendURL = "http://192.168.1.126:8000" // <-- Put your IP here!
     
     // Callback action passing the configured payload up to your parent App view router
     var onPuzzleLoaded: (GamePayload) -> Void 
