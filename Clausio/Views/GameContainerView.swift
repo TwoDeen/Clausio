@@ -102,17 +102,19 @@ struct GameContainerView: View {
       if vm.isLearnModeOn, let selected = vm.selectedIndex, selected < vm.tiles.count {
         VStack(alignment: .leading, spacing: 6) {
           VStack(alignment: .leading, spacing: 2) {
-            Text("Sentence Index:")
+            Text("Furigana Reading:")
               .font(.caption.bold())
               .foregroundColor(.secondary)
-            // Displays sentence row identity tracking metadata since furigana is empty
-            Text("Row \(vm.tiles[selected].originalRowId) — Segment \(vm.tiles[selected].originalColumnId)")
-              .font(.system(size: 14))
+              .fixedSize(horizontal: true, vertical: false)
+            
+            Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 14, isSolved: vm.tiles[selected].isSolved))
           }
           VStack(alignment: .leading, spacing: 2) {
             Text("Clause Context:")
               .font(.caption.bold())
               .foregroundColor(.secondary)
+              .fixedSize(horizontal: true, vertical: false)
+            
             Text(vm.tiles[selected].text)
               .font(.system(size: 13))
               .foregroundColor(.primary)

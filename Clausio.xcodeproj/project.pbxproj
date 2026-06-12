@@ -25,6 +25,7 @@
 				Server/Scripts/main.py,
 				Server/Scripts/OriginalSubset/main.py,
 				Server/Scripts/pull_consecutive_sentences.py,
+				Server/Scripts/requirements.txt,
 				Server/Scripts/tokenise_into_sentences.py,
 			);
 			target = A97060D22FD9140A00A4C35D /* Clausio */;

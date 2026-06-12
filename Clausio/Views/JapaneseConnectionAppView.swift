@@ -8,14 +8,57 @@ struct JapaneseConnectionsAppView: View {
   
   var body: some View {
     TabView {
-      GameContainerView(vm: vm)
-        .tabItem {
-          Label("Play", systemImage: "gamecontroller.fill")
+      // 1. Wrap the Play screen in a coordinate system
+      ZStack {
+        GameContainerView(vm: vm)
+          .disabled(vm.isLoading) // Dim and freeze board interaction during calls
+        
+        // ⏳ THE DYNAMIC HOURGLASS / LOADING OVERLAY
+        if vm.isLoading {
+          VStack(spacing: 16) {
+            ProgressView()
+              .scaleEffect(1.5)
+              .progressViewStyle(CircularProgressViewStyle(tint: .accentColor))
+            
+            Text("Compiling Story Clauses...")
+              .font(.headline)
+              .foregroundColor(.secondary)
+            
+            Text("Running GiNZa Deep NLP Analytics Framework")
+              .font(.caption)
+              .foregroundColor(.gray)
+          }
+          .padding(30)
+          .background(
+            RoundedRectangle(cornerRadius: 16)
+            #if os(macOS)
+              .fill(Color(NSColor.windowBackgroundColor))
+            #else
+              .fill(Color(UIColor.systemBackground))
+            #endif
+              .shadow(color: Color.black.opacity(0.15), radius: 10)
+          )
+          .transition(.opacity.combined(with: .scale))
         }
-      // 🔄 CHANGED: .task handles background compilation scheduling perfectly on macOS
-        .task {
-          vm.loadDynamicPuzzle(forLevel: "N4")
+        
+        // ⚠️ OPTIONAL: Error visualizer banner
+        if let errorMessage = vm.errorMessage {
+          VStack {
+            Text(errorMessage)
+              .foregroundColor(.white)
+              .padding()
+              .background(RoundedRectangle(cornerRadius: 10).fill(Color.red))
+              .padding()
+            Spacer()
+          }
         }
+      }
+      .tabItem {
+        Label("Play", systemImage: "gamecontroller.fill")
+      }
+      .task {
+        vm.loadDynamicPuzzle(forLevel: "N4")
+      }
       
       SettingsView(vm: vm)
         .tabItem {

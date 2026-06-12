@@ -5,11 +5,11 @@
     "puzzle_solution_flow": {
         "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
         "ordered_sentence_ids": [
-            92,
-            93,
-            94,
-            95,
-            96
+            4,
+            5,
+            6,
+            7,
+            8
         ]
     },
     "grid_matrix": [
@@ -19,9 +19,9 @@
                 "row": 1,
                 "column": 1
             },
-            "parent_sentence_id": 92,
-            "clause_text": "「ははあ、何か",
-            "furigana": "「ははあ、なんか"
+            "parent_sentence_id": 4,
+            "clause_text": "鳥も",
+            "furigana": "とりも"
         },
         {
             "clause_id": 2,
@@ -29,9 +29,9 @@
                 "row": 1,
                 "column": 2
             },
-            "parent_sentence_id": 92,
-            "clause_text": "の",
-            "furigana": "の"
+            "parent_sentence_id": 4,
+            "clause_text": "獣も",
+            "furigana": "けものも"
         },
         {
             "clause_id": 3,
@@ -39,9 +39,9 @@
                 "row": 1,
                 "column": 3
             },
-            "parent_sentence_id": 92,
-            "clause_text": "料理に",
-            "furigana": "りょうりに"
+            "parent_sentence_id": 4,
+            "clause_text": "一匹も",
+            "furigana": "いちひきも"
         },
         {
             "clause_id": 4,
@@ -49,9 +49,9 @@
                 "row": 1,
                 "column": 4
             },
-            "parent_sentence_id": 92,
-            "clause_text": "電気をつか",
-            "furigana": "でんきをつか"
+            "parent_sentence_id": 4,
+            "clause_text": "いやが",
+            "furigana": "いや"
         },
         {
             "clause_id": 5,
@@ -59,9 +59,9 @@
                 "row": 1,
                 "column": 5
             },
-            "parent_sentence_id": 92,
-            "clause_text": "ふと見えるね。",
-            "furigana": "ふとみえるね。"
+            "parent_sentence_id": 4,
+            "clause_text": "らん。",
+            "furigana": "ん。"
         },
         {
             "clause_id": 6,
@@ -69,9 +69,9 @@
                 "row": 2,
                 "column": 1
             },
-            "parent_sentence_id": 93,
-            "clause_text": "金",
-            "furigana": "きん"
+            "parent_sentence_id": 5,
+            "clause_text": "なんでも構わないから、",
+            "furigana": "なんでもかまわないから、"
         },
         {
             "clause_id": 7,
@@ -79,9 +79,9 @@
                 "row": 2,
                 "column": 2
             },
-            "parent_sentence_id": 93,
-            "clause_text": "気の",
-            "furigana": "の"
+            "parent_sentence_id": 5,
+            "clause_text": "早くタンタアーンとやってみたい",
+            "furigana": "はやくたんたあーんとやってみたい"
         },
         {
             "clause_id": 8,
@@ -89,9 +89,9 @@
                 "row": 2,
                 "column": 3
             },
-            "parent_sentence_id": 93,
-            "clause_text": "ものは",
-            "furigana": "ものは"
+            "parent_sentence_id": 5,
+            "clause_text": "もんだなあ」「鹿の黄色い",
+            "furigana": "もんだなあ」「しかのきいろい"
         },
         {
             "clause_id": 9,
@@ -99,9 +99,9 @@
                 "row": 2,
                 "column": 4
             },
-            "parent_sentence_id": 93,
-            "clause_text": "あぶ",
-            "furigana": "あぶ"
+            "parent_sentence_id": 5,
+            "clause_text": "横腹なんかに、二、三発お見舞いしたら、",
+            "furigana": "よこばらなんかに、に、さんはつおみまいしたら、"
         },
         {
             "clause_id": 10,
@@ -109,9 +109,9 @@
                 "row": 2,
                 "column": 5
             },
-            "parent_sentence_id": 93,
-            "clause_text": "ない。",
-            "furigana": "。"
+            "parent_sentence_id": 5,
+            "clause_text": "ずいぶん痛快だろうねえ。",
+            "furigana": "ずいぶんつうかいだろうねえ。"
         },
         {
             "clause_id": 11,
@@ -119,9 +119,9 @@
                 "row": 3,
                 "column": 1
             },
-            "parent_sentence_id": 94,
-            "clause_text": "ことに",
-            "furigana": "ことに"
+            "parent_sentence_id": 6,
+            "clause_text": "くるくる回って、",
+            "furigana": "くるくるまわって、"
         },
         {
             "clause_id": 12,
@@ -129,9 +129,9 @@
                 "row": 3,
                 "column": 2
             },
-            "parent_sentence_id": 94,
-            "clause_text": "尖つたものは",
-            "furigana": "尖つたものは"
+            "parent_sentence_id": 6,
+            "clause_text": "それからドタッと",
+            "furigana": "それからどたっと"
         },
         {
             "clause_id": 13,
@@ -139,9 +139,9 @@
                 "row": 3,
                 "column": 3
             },
-            "parent_sentence_id": 94,
-            "clause_text": "あぶないと",
-            "furigana": "あぶないと"
+            "parent_sentence_id": 6,
+            "clause_text": "倒れるだろうねえ」",
+            "furigana": "たおれるだろうねえ」"
         },
         {
             "clause_id": 14,
@@ -149,9 +149,9 @@
                 "row": 3,
                 "column": 4
             },
-            "parent_sentence_id": 94,
-            "clause_text": "斯う云ふん",
-            "furigana": "こうゆふん"
+            "parent_sentence_id": 6,
+            "clause_text": "それは",
+            "furigana": "それは"
         },
         {
             "clause_id": 15,
@@ -159,9 +159,9 @@
                 "row": 3,
                 "column": 5
             },
-            "parent_sentence_id": 94,
-            "clause_text": "だらう。」",
-            "furigana": "だらう。」"
+            "parent_sentence_id": 6,
+            "clause_text": "だいぶ山奥でした。",
+            "furigana": "だいぶやまおくでした。"
         },
         {
             "clause_id": 16,
@@ -169,9 +169,9 @@
                 "row": 4,
                 "column": 1
             },
-            "parent_sentence_id": 95,
-            "clause_text": "「",
-            "furigana": "「"
+            "parent_sentence_id": 7,
+            "clause_text": "案内してきた",
+            "furigana": "あんないしてきた"
         },
         {
             "clause_id": 17,
@@ -179,9 +179,9 @@
                 "row": 4,
                 "column": 2
             },
-            "parent_sentence_id": 95,
-            "clause_text": "さ",
-            "furigana": "さ"
+            "parent_sentence_id": 7,
+            "clause_text": "専門の鉄砲打ちも",
+            "furigana": "せんもんのてっぽううちも"
         },
         {
             "clause_id": 18,
@@ -189,9 +189,9 @@
                 "row": 4,
                 "column": 3
             },
-            "parent_sentence_id": 95,
-            "clause_text": "う",
-            "furigana": "う"
+            "parent_sentence_id": 7,
+            "clause_text": "、ちょっとまごついて、",
+            "furigana": "、ちょっとまごついて、"
         },
         {
             "clause_id": 19,
@@ -199,9 +199,9 @@
                 "row": 4,
                 "column": 4
             },
-            "parent_sentence_id": 95,
-            "clause_text": "だら",
-            "furigana": "だら"
+            "parent_sentence_id": 7,
+            "clause_text": "どこかへ行って",
+            "furigana": "どこかへいって"
         },
         {
             "clause_id": 20,
@@ -209,9 +209,9 @@
                 "row": 4,
                 "column": 5
             },
-            "parent_sentence_id": 95,
-            "clause_text": "う。",
-            "furigana": "う。"
+            "parent_sentence_id": 7,
+            "clause_text": "しまったくらいの山奥でした。",
+            "furigana": "しまったくらいのやまおくでした。"
         },
         {
             "clause_id": 21,
@@ -219,9 +219,9 @@
                 "row": 5,
                 "column": 1
             },
-            "parent_sentence_id": 96,
-            "clause_text": "して",
-            "furigana": "して"
+            "parent_sentence_id": 8,
+            "clause_text": "それに、あんまり山が物凄いので、",
+            "furigana": "それに、あんまりやまがものすごいので、"
         },
         {
             "clause_id": 22,
@@ -229,9 +229,9 @@
                 "row": 5,
                 "column": 2
             },
-            "parent_sentence_id": 96,
-            "clause_text": "見ると",
-            "furigana": "みると"
+            "parent_sentence_id": 8,
+            "clause_text": "その白熊のような",
+            "furigana": "そのしろくまのような"
         },
         {
             "clause_id": 23,
@@ -239,9 +239,9 @@
                 "row": 5,
                 "column": 3
             },
-            "parent_sentence_id": 96,
-            "clause_text": "勘定は帰りに",
-            "furigana": "かんじょうはかえりに"
+            "parent_sentence_id": 8,
+            "clause_text": "犬が、二匹一緒にめまいを起こして、",
+            "furigana": "いぬが、にひきいっしょにめまいをおこして、"
         },
         {
             "clause_id": 24,
@@ -249,9 +249,9 @@
                 "row": 5,
                 "column": 4
             },
-            "parent_sentence_id": 96,
-            "clause_text": "ここで払ふの",
-            "furigana": "ここではらいふの"
+            "parent_sentence_id": 8,
+            "clause_text": "しばらく吠えて、それから泡を吐いて",
+            "furigana": "しばらくほえて、それからあわをはいて"
         },
         {
             "clause_id": 25,
@@ -259,9 +259,9 @@
                 "row": 5,
                 "column": 5
             },
-            "parent_sentence_id": 96,
-            "clause_text": "だらうか。」",
-            "furigana": "だらうか。」"
+            "parent_sentence_id": 8,
+            "clause_text": "死んでしまいました。",
+            "furigana": "しんでしまいました。"
         }
     ]
 }

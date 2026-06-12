@@ -46,11 +46,10 @@ class GameViewModel: ObservableObject {
   }
   
   private func initializeGameGrid(from remoteMatrix: [GridClause]) {
-    // Map payload items directly into interactive dynamic elements
     let processedTiles = remoteMatrix.map { item in
       Tile(
         text: item.clauseText,
-        furigana: item.furigana ?? "", // <-- Map the backend data fallback safely
+        furigana: item.furigana ?? "", // 🔄 Transfers server transcription safely
         originalRowId: item.gridCoordinates.row,
         originalColumnId: item.gridCoordinates.column
       )

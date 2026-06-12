@@ -12,9 +12,8 @@ import SwiftUI
 struct Tile: Identifiable, Equatable {
   let id = UUID()
   let text: String
-  let furigana: String // <-- Add this property back to resolve line 108
+  let furigana: String  // 🔄 Restored model tracking property field
   let originalRowId: Int
   let originalColumnId: Int
   var isSolved: Bool = false
 }
-

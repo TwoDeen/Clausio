@@ -1,0 +1,5 @@
+spacy==3.7.5
+ja-ginza==5.2.0
+sudachidict_core==20240409
+fastapi==0.110.0
+uvicorn==0.28.0

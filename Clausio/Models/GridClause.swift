@@ -12,7 +12,7 @@ struct GridClause: Codable {
   let gridCoordinates: GridCoordinate
   let parentSentenceId: Int
   let clauseText: String
-  let furigana: String? // <-- Add this network tracking field
+  let furigana: String? // 🔄 Added back to map incoming JSON keys safely
   
   enum CodingKeys: String, CodingKey {
     case clauseId = "clause_id"
