@@ -1,16 +1,13 @@
-import sys
 import os
+import glob
 import json
-import subprocess
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from generate_grid_puzzle import build_puzzle_json
 
-app = FastAPI(
-    title="Clausio Engine", 
-    description="Dynamic 5x5 Japanese structural clause grid puzzle compiler from pre-fetched local assets."
-)
+app = FastAPI(title="Clausio Game Engine API")
 
-# Enable iOS App connectivity across local network boundaries
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -19,90 +16,88 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-def get_target_story_path() -> str:
-    """Reads story_name.txt to identify the pre-fetched local text file."""
-    meta_file = "story_name.txt"
-    if not os.path.exists(meta_file):
-        raise HTTPException(status_code=500, detail=f"Meta configuration '{meta_file}' missing.")
+# --- UPDATE THESE PATHS IN YOUR main.py ---
+
+# 1. Get the absolute path of the directory containing main.py
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Force absolute lookups for both Stories and Cache folders
+STORIES_DIR = os.path.join(BASE_DIR, "Stories")
+CACHE_DIR = os.path.join(BASE_DIR, "Cache")
+
+print(f"--> System initialized. Scanning absolute path: {STORIES_DIR}")
+os.makedirs(CACHE_DIR, exist_ok=True)
+os.makedirs(STORIES_DIR, exist_ok=True) # Automatically builds it if missing
+
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+class PuzzleRequest(BaseModel):
+    file_path: str  
+    level: str      
+
+@app.get("/api/stories")
+def list_available_stories():
+    """Scans the Stories directory root recursively for raw un-tagged .txt files."""
+    if not os.path.exists(STORIES_DIR):
+        return {"stories": []}
+        
+    search_pattern = os.path.join(STORIES_DIR, "**", "*.txt")
+    found_files = glob.glob(search_pattern, recursive=True)
     
-    with open(meta_file, "r", encoding="utf-8") as f:
-        content = f.read().strip()
+    stories_payload = []
+    for path in found_files:
+        display_name = os.path.basename(path).replace(".txt", "")
+        stories_payload.append({
+            "name": display_name,
+            "relative_path": path
+        })
         
-    # Cleans up file pointer signatures if embedded
-    if "" in content:
-        content = content.replace("", "").strip()
+    return {"stories": stories_payload}
+
+@app.post("/api/puzzle/generate")
+def fetch_or_compile_puzzle(request: PuzzleRequest):
+    target_level = request.level.upper().strip()
+    file_path = request.file_path
+    
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail=f"Source file asset not found at path: {file_path}")
         
-    if not content:
-        raise HTTPException(status_code=500, detail="Meta configuration file is empty.")
-    return content
+    base_file_id = os.path.basename(file_path).replace(".txt", "")
+    cache_destination = os.path.join(CACHE_DIR, f"{base_file_id}_{target_level}_5x5_puzzle.json")
+    
+    if os.path.exists(cache_destination):
+        print(f"--> [CACHE HIT]: Loading cached puzzle matrix directly: {cache_destination}")
+        try:
+            with open(cache_destination, "r", encoding="utf-8") as cached_f:
+                return json.load(cached_f)
+        except Exception as read_err:
+            print(f"Warning: Failed reading cached JSON. Re-compiling. Error: {read_err}")
 
-@app.post("/api/puzzle/generate/\u007bjlpt_level\u007d")
-def generate_live_puzzle(jlpt_level: str):
-    level = jlpt_level.upper().strip()
-    if level not in ["N1", "N2", "N3", "N4", "N5"]:
-        raise HTTPException(status_code=400, detail="Invalid target JLPT level parameter requested.")
-
+    print(f"--> [CACHE MISS]: Processing raw .txt document incrementally: {file_path}")
     try:
-        raw_story_path = get_target_story_path()
-        if not os.path.exists(raw_story_path):
-            raise HTTPException(status_code=404, detail=f"Pre-fetched file '{raw_story_path}' not found locally.")
-
-        base_dir = os.path.dirname(raw_story_path)
-        filename_raw = os.path.basename(raw_story_path)
-        name_no_ext = os.path.splitext(filename_raw)[0]
-
-        # --- PRECISE FILENAME COUPLING MATCHING ---
-        # 1. Output from cleanup_ditto.py (Appends '_ditto_cleaned.txt')
-        cleaned_file = os.path.join(base_dir, f"{name_no_ext}_ditto_cleaned.txt")
+        generated_payload = build_puzzle_json(file_path, target_level)
         
-        # 2. Output from tokenise_into_sentences.py (Appends '_sentences.txt' to its input file base)
-        sentences_file = os.path.join(base_dir, f"{name_no_ext}_ditto_cleaned_sentences.txt")
+        if not generated_payload:
+            raise HTTPException(status_code=500, detail="The matrix generation module returned an empty structural schema.")
+            
+        with open(cache_destination, "w", encoding="utf-8") as cache_out:
+            json.dump(generated_payload, cache_out, ensure_ascii=False, indent=4)
+            
+        print(f"--> Success! Matrix puzzle written to persistent cache layer: {cache_destination}")
+        return generated_payload
         
-        # 3. Output from complete_jlpt_analyzer.py (Appends '_comprehensive_tagged.json' to its input file base)
-        tagged_json = os.path.join(base_dir, f"{name_no_ext}_ditto_cleaned_sentences_comprehensive_tagged.json")
+    except Exception as pipeline_crash:
+        print(f"Pipeline processing encountered an unhandled exception: {pipeline_crash}")
+        raise HTTPException(status_code=500, detail=f"Internal Engine Error processing text elements: {str(pipeline_crash)}")
 
-        print(f"Executing step-by-step pipeline on pre-fetched asset: \u007braw_story_path\u007d...")
-
-        # Step 1: Expand traditional vertical/horizontal repetition marks
-        subprocess.run(["python3", "cleanup_ditto.py", str(raw_story_path)], check=True)
-        
-        # Step 2: Stitch lines into clean structural sentences
-        subprocess.run(["python3", "tokenise_into_sentences.py", cleaned_file], check=True)
-        
-        # Step 3: Run NLP analytical processing using GiNZa
-        subprocess.run(["python3", "complete_jlpt_analyzer.py", sentences_file], check=True)
-        
-        # Step 4: Extract the passage and build the 5x5 matrix
-        subprocess.run([sys.executable, "generate_grid_puzzle.py", tagged_json, level], check=True)
-
-        # --- UPDATED: Added '_comprehensive_tagged' to match exact script behavior ---
-        output_filename = f"{name_no_ext}_ditto_cleaned_sentences_comprehensive_tagged_5x5_puzzle.json"
-        
-        if not os.path.exists(output_filename):
-            raise HTTPException(status_code=500, detail="Matrix puzzle building task terminated unexpectedly.")
-
-        with open(output_filename, "r", encoding="utf-8") as out_f:
-            payload_data = json.load(out_f)
-
-        return payload_data
-        
-        # Step 5: Read the final generated grid config file output (generate_grid_puzzle saves to your active working directory)
-        output_filename = f"{name_no_ext}_ditto_cleaned_sentences_5x5_puzzle.json"
-        
-        if not os.path.exists(output_filename):
-            raise HTTPException(status_code=500, detail="Matrix puzzle building task terminated unexpectedly.")
-
-        with open(output_filename, "r", encoding="utf-8") as out_f:
-            payload_data = json.load(out_f)
-
-        return payload_data
-
-    except subprocess.CalledProcessError as sub_err:
-        raise HTTPException(status_code=500, detail=f"Pipeline execution step failure: \u007bstr(sub_err)\u007d")
+@app.post("/api/cache/clear")
+def clear_engine_cache():
+    try:
+        purged_count = 0
+        cache_files = glob.glob(os.path.join(CACHE_DIR, "*.json"))
+        for file in cache_files:
+            os.remove(file)
+            purged_count += 1
+        return {"status": "success", "detail": f"Cache cleared. Evicted {purged_count} files."}
     except Exception as err:
-        #raise HTTPException(status_code=500, detail=f"Internal compilation error: \u007bstr(err)\u007d")
-        raise HTTPException(status_code=500, detail=f"Internal compilation error: {str(err)}")
-        
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+        raise HTTPException(status_code=500, detail=f"Failed clearing directory: {str(err)}")

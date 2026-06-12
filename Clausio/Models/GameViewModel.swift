@@ -1,9 +1,6 @@
 import SwiftUI
 import Combine
 
-
-
-
 // MARK: - Game View Model
 class GameViewModel: ObservableObject {
   @Published var tiles: [Tile] = []
@@ -17,41 +14,28 @@ class GameViewModel: ObservableObject {
   private var pristineSolutionOrder: [Tile] = []
   private var cancellables = Set<AnyCancellable>()
   
-  /// Requests a newly compiled puzzle from the FastAPI orchestration server for a given JLPT level
-  func loadDynamicPuzzle(forLevel level: String = "N4") {
-    guard let url = URL(string: "http://127.0.0.1:8000/api/puzzle/generate/\(level)") else {
-      self.errorMessage = "Malformed Base Endpoint Connection string."
-      return
-    }
-    
+  // ❌ DELETED: loadDynamicPuzzle(forLevel:) has been removed because
+  // orchestration routing is now handled asynchronously inside StorySelectionView.
+  
+  // 🔑 NEW: Hydrates the game grid assets instantly via the selection layer payload
+  func loadPuzzleFromPayload(_ payload: GamePayload) {
     self.isLoading = true
     self.errorMessage = nil
     
-    var request = URLRequest(url: url)
-    request.httpMethod = "POST"
+    // Call our initialization handler mapping directly against ClauseNode structures
+    self.initializeGameGrid(from: payload.grid_matrix)
     
-    URLSession.shared.dataTaskPublisher(for: request)
-      .map(\.data)
-      .decode(type: PuzzleResponse.self, decoder: JSONDecoder())
-      .receive(on: DispatchQueue.main)
-      .sink(receiveCompletion: { [weak self] completion in
-        self?.isLoading = false
-        if case .failure(let error) = completion {
-          self?.errorMessage = "Failed to load story puzzle: \(error.localizedDescription)"
-        }
-      }, receiveValue: { [weak self] response in
-        self?.initializeGameGrid(from: response.gridMatrix)
-      })
-      .store(in: &cancellables)
+    self.isLoading = false
   }
   
-  private func initializeGameGrid(from remoteMatrix: [GridClause]) {
+  // ⚙️ CHANGED: Accepts ClauseNode items parsed natively from the network client pipeline
+  private func initializeGameGrid(from remoteMatrix: [ClauseNode]) {
     let processedTiles = remoteMatrix.map { item in
       Tile(
-        text: item.clauseText,
-        furigana: item.furigana ?? "", // 🔄 Transfers server transcription safely
-        originalRowId: item.gridCoordinates.row,
-        originalColumnId: item.gridCoordinates.column
+        text: item.clause_text,
+        furigana: item.furigana, // 🔄 Transfers server transcription safely
+        originalRowId: item.grid_coordinates.row,
+        originalColumnId: item.grid_coordinates.column
       )
     }
     

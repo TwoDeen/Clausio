@@ -1,17 +1,18 @@
 import SwiftUI
 
-
-
 // MARK: - Main Application Tab Router
 struct JapaneseConnectionsAppView: View {
   @StateObject private var vm = GameViewModel()
   
+  // 🔑 INJECT DEPENDENCIES
+  let payload: GamePayload
+  var onQuit: () -> Void
+  
   var body: some View {
     TabView {
-      // 1. Wrap the Play screen in a coordinate system
       ZStack {
         GameContainerView(vm: vm)
-          .disabled(vm.isLoading) // Dim and freeze board interaction during calls
+          .disabled(vm.isLoading)
         
         // ⏳ THE DYNAMIC HOURGLASS / LOADING OVERLAY
         if vm.isLoading {
@@ -23,10 +24,6 @@ struct JapaneseConnectionsAppView: View {
             Text("Compiling Story Clauses...")
               .font(.headline)
               .foregroundColor(.secondary)
-            
-            Text("Running GiNZa Deep NLP Analytics Framework")
-              .font(.caption)
-              .foregroundColor(.gray)
           }
           .padding(30)
           .background(
@@ -38,10 +35,9 @@ struct JapaneseConnectionsAppView: View {
             #endif
               .shadow(color: Color.black.opacity(0.15), radius: 10)
           )
-          .transition(.opacity.combined(with: .scale))
         }
         
-        // ⚠️ OPTIONAL: Error visualizer banner
+        // ⚠️ Error visualizer banner
         if let errorMessage = vm.errorMessage {
           VStack {
             Text(errorMessage)
@@ -56,22 +52,17 @@ struct JapaneseConnectionsAppView: View {
       .tabItem {
         Label("Play", systemImage: "gamecontroller.fill")
       }
-      .task {
-        vm.loadDynamicPuzzle(forLevel: "N4")
+      // ❌ DELETED: .task { vm.loadDynamicPuzzle(forLevel: "N4") } is gone!
+      .onAppear {
+        // ⚡️ Hydrate the view model instantly with the chosen cache data
+        vm.loadPuzzleFromPayload(payload)
       }
       
-      SettingsView(vm: vm)
+      // 🔑 Pass the quit exit closure straight to settings
+      SettingsView(vm: vm, onQuit: onQuit)
         .tabItem {
           Label("Settings", systemImage: "gearshape.fill")
         }
     }
   }
 }
-
-// MARK: - Canvas Preview
-struct JapaneseConnectionsAppView_Previews: PreviewProvider {
-  static var previews: some View {
-    JapaneseConnectionsAppView()
-  }
-}
-

@@ -1,22 +1,14 @@
-//
-//  PuzzleResponse.swift
-//  Clausio
-//
-//  Created by Mohideen Noordeen on 11/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
-//
+import Foundation
 
-
-// MARK: - API Struct Models
-struct PuzzleResponse: Codable {
+// MARK: - Legacy Network Response Bridge
+/// This structure matches the JSON object structure returned by the FastAPI puzzle engine.
+struct PuzzleResponse: Decodable {
   let targetLevelRequested: String
-  let passageExtractionStrategy: String
   let totalGridClauses: Int
-  let gridMatrix: [GridClause]
+  let gridMatrix: [ClauseNode] // Binds directly to the validated 5x5 data schema
   
   enum CodingKeys: String, CodingKey {
     case targetLevelRequested = "target_level_requested"
-    case passageExtractionStrategy = "passage_extraction_strategy"
     case totalGridClauses = "total_grid_clauses"
     case gridMatrix = "grid_matrix"
   }

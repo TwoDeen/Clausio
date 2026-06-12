@@ -1,33 +1,26 @@
-//
-//  ClausioApp.swift
-//  Clausio
-//
-//  Created by Mohideen Noordeen on 10/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
-//
-
 import SwiftUI
 import SwiftData
 
 @main
 struct ClausioApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Item.self,
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
-        do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
-        } catch {
-            fatalError("Could not create ModelContainer: \(error)")
-        }
-    }()
-
-    var body: some Scene {
-        WindowGroup {
-          JapaneseConnectionsAppView()
-        }
-        .modelContainer(sharedModelContainer)
+  var sharedModelContainer: ModelContainer = {
+    let schema = Schema([
+      Item.self,
+    ])
+    let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
+    
+    do {
+      return try ModelContainer(for: schema, configurations: [modelConfiguration])
+    } catch {
+      fatalError("Could not create ModelContainer: \(error)")
     }
+  }()
+  
+  var body: some Scene {
+    WindowGroup {
+      // 🔑 Redirection layer handles dynamic pipeline setups on startup
+      MainAppCoordinatorView()
+    }
+    .modelContainer(sharedModelContainer)
+  }
 }

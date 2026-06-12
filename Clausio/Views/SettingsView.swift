@@ -1,16 +1,9 @@
-//
-//  SettingsView.swift
-//  Clausio
-//
-//  Created by Mohideen Noordeen on 10/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
-//
-
 import SwiftUI
 
 // MARK: - Settings Screen Component
 struct SettingsView: View {
   @ObservedObject var vm: GameViewModel
+  var onQuit: () -> Void // 🔑 Linked up to coordinator tracking states
   
   var body: some View {
     NavigationView {
@@ -31,6 +24,19 @@ struct SettingsView: View {
               Text("Displays Furigana and translations on click.")
                 .font(.caption)
                 .foregroundColor(.secondary)
+            }
+          }
+        }
+        
+        // 🚪 ADDED: STORY DISCONNECT NAVIGATION CELL
+        Section(header: Text("Story Collection")) {
+          Button(role: .destructive, action: {
+            onQuit()
+          }) {
+            HStack {
+              Image(systemName: "arrow.left.circle.fill")
+              Text("Change Active Story Document")
+                .fontWeight(.medium)
             }
           }
         }
