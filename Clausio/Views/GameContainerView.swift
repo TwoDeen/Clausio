@@ -33,7 +33,7 @@ struct GameContainerView: View {
       HStack(spacing: 0) {
         if isWidescreen {
           // MARK: - WIDESCREEN / LANDSCAPE LAYOUT
-          HStack(spacing: 24) {
+          HStack(spacing: 8) {
             
             // Layout is purely driven by raw math and explicit Geometry pixel bounds.
             boardGrid(useSquareLayout: false)
@@ -47,11 +47,11 @@ struct GameContainerView: View {
               controlButtonsVertical
               Spacer()
             }
-            .frame(width: 140)
-            .padding(.trailing, 10)
+            // Sidebar collapses to button width when HUD is hidden, expands when visible
+            .frame(width: (vm.isLearnModeOn && vm.selectedIndex != nil) ? 150 : 56)
           }
-          .padding(.horizontal, 20)
-          .padding(.vertical, 15)
+          .padding(.horizontal, 8)
+          .padding(.vertical, 10)
           
         } else {
           // MARK: - PORTRAIT LAYOUT
