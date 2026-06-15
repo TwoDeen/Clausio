@@ -1,12 +1,27 @@
+//
+//  JapaneseConnectionsAppView.swift
+//  Clausio
+//
+//  Created by Mohideen Noordeen on 12/06/2026.
+//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
+//
+
 import SwiftUI
 
 // MARK: - Main Application Tab Router
 struct JapaneseConnectionsAppView: View {
   @StateObject private var vm = GameViewModel()
   
-  // 🔑 INJECT DEPENDENCIES
   let payload: GamePayload
   var onQuit: () -> Void
+  
+  // 🏆 Controls presentation of the post-solve reading screen
+  @State private var showSolvedScreen = false
+  
+  // Derived count observed by onChange — Int is Equatable so diffing is free
+  private var solvedTileCount: Int {
+    vm.tiles.filter(\.isSolved).count
+  }
   
   var body: some View {
     TabView {
@@ -14,7 +29,7 @@ struct JapaneseConnectionsAppView: View {
         GameContainerView(vm: vm)
           .disabled(vm.isLoading)
         
-        // ⏳ THE DYNAMIC HOURGLASS / LOADING OVERLAY
+        // ⏳ Loading overlay
         if vm.isLoading {
           VStack(spacing: 16) {
             ProgressView()
@@ -37,7 +52,7 @@ struct JapaneseConnectionsAppView: View {
           )
         }
         
-        // ⚠️ Error visualizer banner
+        // ⚠️ Error banner
         if let errorMessage = vm.errorMessage {
           VStack {
             Text(errorMessage)
@@ -52,13 +67,35 @@ struct JapaneseConnectionsAppView: View {
       .tabItem {
         Label("Play", systemImage: "gamecontroller.fill")
       }
-      // ❌ DELETED: .task { vm.loadDynamicPuzzle(forLevel: "N4") } is gone!
       .onAppear {
-        // ⚡️ Hydrate the view model instantly with the chosen cache data
         vm.loadPuzzleFromPayload(payload)
       }
+      // 🏆 Detect full board completion and present the reading screen
+      .onChange(of: solvedTileCount) { count in
+        if count == 25 && !vm.tiles.isEmpty {
+          // Delay lets the final row's solve animation play before transitioning
+          DispatchQueue.main.asyncAfter(deadline: .now() + 1.2) {
+            // Guard: re-check in case the user restarted during the delay
+            if vm.tiles.filter(\.isSolved).count == 25 {
+              showSolvedScreen = true
+            }
+          }
+        }
+      }
+      .adaptiveFullScreenCover(isPresented: $showSolvedScreen) {
+        SolvedReadingView(
+          vm: vm,
+          onPlayAgain: {
+            showSolvedScreen = false
+            vm.startNewGame()
+          },
+          onNextStory: {
+            showSolvedScreen = false
+            onQuit()                       // Pops back to StorySelectionView
+          }
+        )
+      }
       
-      // 🔑 Pass the quit exit closure straight to settings
       SettingsView(vm: vm, onQuit: onQuit)
         .tabItem {
           Label("Settings", systemImage: "gearshape.fill")

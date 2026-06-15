@@ -144,7 +144,11 @@ struct StorySelectionView: View {
       }
       .navigationTitle("Clausio Stories")
       // 🔍 Appends the native platform search bar interaction layer right under the title block
+#if os(iOS)
       .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search stories by title...")
+#else
+      .searchable(text: $searchText, placement: .toolbar, prompt: "Search stories by title...")
+#endif
       .onAppear(perform: fetchStoryList)
     }
   }
@@ -231,4 +235,3 @@ struct StorySelectionView: View {
     }.resume()
   }
 }
-

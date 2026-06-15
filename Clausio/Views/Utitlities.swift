@@ -52,4 +52,26 @@ extension View {
   func adaptiveBackground() -> some View {
     self.modifier(AdaptiveBackgroundModifier())
   }
+  
+  /// Applies .inline navigation title display mode on iOS; no-op on macOS where the modifier is unavailable.
+  func adaptiveNavigationBarTitleDisplayMode() -> some View {
+#if os(iOS)
+    self.navigationBarTitleDisplayMode(.inline)
+#else
+    self
+#endif
+  }
+  
+  /// Full-screen cover on iOS; falls back to a sheet on macOS where fullScreenCover is unavailable.
+  func adaptiveFullScreenCover<Content: View>(
+    isPresented: Binding<Bool>,
+    onDismiss: (() -> Void)? = nil,
+    @ViewBuilder content: @escaping () -> Content
+  ) -> some View {
+#if os(iOS)
+    self.fullScreenCover(isPresented: isPresented, onDismiss: onDismiss, content: content)
+#else
+    self.sheet(isPresented: isPresented, onDismiss: onDismiss, content: content)
+#endif
+  }
 }

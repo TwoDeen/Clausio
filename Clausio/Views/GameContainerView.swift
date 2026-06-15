@@ -26,6 +26,14 @@ struct GameContainerView: View {
   @ObservedObject var vm: GameViewModel
   @State private var speechSynthesizer = AVSpeechSynthesizer()
   
+  // 🔊 Tracks which rows have already triggered auto-play, to avoid re-firing
+  @State private var completedRows: Set<Int> = []
+  
+  // Snapshot used by onChange to detect solve-state transitions
+  private var tilesSolvedState: [Bool] {
+    vm.tiles.map(\.isSolved)
+  }
+  
   var body: some View {
     GeometryReader { geometry in
       let isWidescreen = geometry.size.width > geometry.size.height
@@ -35,19 +43,20 @@ struct GameContainerView: View {
           // MARK: - WIDESCREEN / LANDSCAPE LAYOUT
           HStack(spacing: 8) {
             
-            // Layout is purely driven by raw math and explicit Geometry pixel bounds.
             boardGrid(useSquareLayout: false)
               .layoutPriority(1)
             
-            VStack(spacing: 16) {
+            VStack(spacing: 14) {
               Spacer()
+              modeCompactToggles                       // 🎛️ Icon-only toggles for narrow sidebar
+              Divider().padding(.horizontal, 6)
               if vm.isLearnModeOn, vm.selectedIndex != nil {
                 hudPanel
               }
               controlButtonsVertical
               Spacer()
             }
-            // Sidebar collapses to button width when HUD is hidden, expands when visible
+            // Sidebar expands when HUD text is visible, collapses to icon-width otherwise
             .frame(width: (vm.isLearnModeOn && vm.selectedIndex != nil) ? 150 : 56)
           }
           .padding(.horizontal, 8)
@@ -58,6 +67,8 @@ struct GameContainerView: View {
           VStack(spacing: 20) {
             
             boardGrid(useSquareLayout: true)
+            
+            modePillsBar                               // 🎛️ Labeled pill toggles above HUD
             
             if vm.isLearnModeOn, vm.selectedIndex != nil {
               hudPanel
@@ -71,6 +82,10 @@ struct GameContainerView: View {
       }
       .frame(width: geometry.size.width, height: geometry.size.height)
     }
+    // 🔊 Auto-play: fires whenever any tile's solved state changes
+    .onChange(of: tilesSolvedState) { _ in
+      detectNewlyCompletedRows()
+    }
   }
   
   // MARK: - Board Grid Layout Builder
@@ -80,7 +95,6 @@ struct GameContainerView: View {
     let vSpacing: CGFloat = vm.isAssistModeOn ? 2 : 10
     
     if useSquareLayout {
-      // 📱 PORTRAIT: Standard layout safely maintains square aspect ratios based on screen width
       VStack(spacing: vSpacing) {
         ForEach(0..<5, id: \.self) { row in
           HStack(spacing: hSpacing) {
@@ -92,12 +106,10 @@ struct GameContainerView: View {
         }
       }
     } else {
-      // 🚀 LANDSCAPE: Explicit Geometry Math Override
       GeometryReader { gridGeo in
-        let availableWidth = gridGeo.size.width
+        let availableWidth  = gridGeo.size.width
         let availableHeight = gridGeo.size.height
-        
-        let cellWidth = max(0, (availableWidth - (hSpacing * 4)) / 5)
+        let cellWidth  = max(0, (availableWidth  - (hSpacing * 4)) / 5)
         let cellHeight = max(0, (availableHeight - (vSpacing * 4)) / 5)
         
         VStack(spacing: vSpacing) {
@@ -105,8 +117,6 @@ struct GameContainerView: View {
             HStack(spacing: hSpacing) {
               ForEach(0..<5, id: \.self) { col in
                 let index = (row * 5) + col
-                
-                // Explicit framing overrides all native intrinsic squishing
                 tileCell(at: index, useSquareLayout: false)
                   .frame(width: cellWidth, height: cellHeight)
               }
@@ -144,6 +154,94 @@ struct GameContainerView: View {
     } else {
       Color.clear
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+  }
+  
+  // MARK: - 🎛️ Mode Toggle Pills (Portrait — labeled, full-width pair)
+  private var modePillsBar: some View {
+    HStack(spacing: 10) {
+      modePill(label: "Assist", icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
+      modePill(label: "Learn",  icon: "brain.head.profile",        isOn: $vm.isLearnModeOn)
+    }
+    .padding(.horizontal, 8)
+  }
+  
+  private func modePill(label: String, icon: String, isOn: Binding<Bool>) -> some View {
+    Button {
+      withAnimation(.spring(response: 0.3, dampingFraction: 0.65)) {
+        isOn.wrappedValue.toggle()
+      }
+    } label: {
+      HStack(spacing: 5) {
+        Image(systemName: icon).font(.caption.bold())
+        Text(label).font(.caption.bold())
+      }
+      .padding(.horizontal, 12)
+      .padding(.vertical, 7)
+      .frame(maxWidth: .infinity)
+      .background(
+        Capsule().fill(isOn.wrappedValue ? Color.accentColor.opacity(0.12) : Color.secondary.opacity(0.1))
+      )
+      .overlay(
+        Capsule().strokeBorder(isOn.wrappedValue ? Color.accentColor.opacity(0.5) : Color.clear, lineWidth: 1)
+      )
+      .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
+    }
+    .buttonStyle(.plain)
+  }
+  
+  // MARK: - 🎛️ Mode Toggle Icons (Landscape — compact circles for narrow sidebar)
+  private var modeCompactToggles: some View {
+    VStack(spacing: 8) {
+      modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
+      modeIconToggle(icon: "brain.head.profile",        isOn: $vm.isLearnModeOn)
+    }
+  }
+  
+  private func modeIconToggle(icon: String, isOn: Binding<Bool>) -> some View {
+    Button {
+      withAnimation(.spring(response: 0.3, dampingFraction: 0.65)) {
+        isOn.wrappedValue.toggle()
+      }
+    } label: {
+      Image(systemName: icon)
+        .font(.body)
+        .frame(width: 36, height: 36)
+        .background(
+          Circle().fill(isOn.wrappedValue ? Color.accentColor.opacity(0.12) : Color.secondary.opacity(0.1))
+        )
+        .overlay(
+          Circle().strokeBorder(isOn.wrappedValue ? Color.accentColor.opacity(0.5) : Color.clear, lineWidth: 1)
+        )
+        .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
+    }
+    .buttonStyle(.plain)
+  }
+  
+  // MARK: - 🔊 Row Completion Auto-Play
+  private func detectNewlyCompletedRows() {
+    guard vm.tiles.count == 25 else { return }
+    
+    // Game was reset — clear the completed-row registry
+    if vm.tiles.allSatisfy({ !$0.isSolved }) {
+      completedRows = []
+      return
+    }
+    
+    for row in 0..<5 {
+      guard !completedRows.contains(row) else { continue }
+      let rowComplete = (0..<5).allSatisfy { col in
+        vm.tiles[(row * 5) + col].isSolved
+      }
+      guard rowComplete else { continue }
+      
+      completedRows.insert(row)
+      // Reconstruct sentence from left-to-right tile texts in this row
+      let sentence = (0..<5).map { col in vm.tiles[(row * 5) + col].text }.joined()
+      // Brief delay lets the solve-snap animation finish before audio fires
+      DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+        self.speakText(sentence)
+      }
     }
   }
   
