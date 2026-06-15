@@ -16,56 +16,69 @@ struct TileView: View {
   let isAssistModeOn: Bool
   let mergesLeft: Bool
   let mergesRight: Bool
-  let useSquareAspectRatio: Bool // 💡 Explicit property matches GameContainerView expectations
+  let useSquareAspectRatio: Bool
   let isBold: Bool = false
   let action: () -> Void
   
-  var body: some View {
-    Button(action: action) {
-      if useSquareAspectRatio {
-        tileContent
-          .aspectRatio(1.0, contentMode: .fit)
-      } else {
-        tileContent
-      }
-    }
-    .buttonStyle(.plain)
-    .frame(maxWidth: .infinity, maxHeight: .infinity)
+  private var endsWithParticle: Bool {
+    let particles = ["を", "に", "が", "は", "と", "で", "へ", "の", "も", "か", "ね", "よ"]
+    return particles.contains { tile.text.hasSuffix($0) }
   }
   
-  private var tileContent: some View {
-    ZStack(alignment: .topTrailing) {
-      GeometryReader { geometry in
-        VStack {
-          Spacer()
-          Text(Self.balancedJapaneseText(for: tile.text, baseSize: min(geometry.size.width, geometry.size.height) * 0.24, isSolved: tile.isSolved))
-            .minimumScaleFactor(0.35)
+  // 🚀 THE FIX: A pure, unconstrained button that greedily fills all available space
+  private var coreButton: some View {
+    Button(action: action) {
+      ZStack(alignment: .topTrailing) {
+        
+        // Forces the label to push out to the exact edges of the Button frame
+        VStack(spacing: 0) {
+          Spacer(minLength: 0)
+          Text(Self.balancedJapaneseText(for: tile.text, baseSize: 15, isSolved: tile.isSolved))
+            .lineLimit(2)
+            .minimumScaleFactor(0.4)
             .multilineTextAlignment(.center)
             .foregroundColor(tile.isSolved ? .black : .primary)
             .padding(.horizontal, 4)
-          Spacer()
+          Spacer(minLength: 0)
         }
-        .frame(width: geometry.size.width, height: geometry.size.height)
-        .background(
-          tileShape
-            .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
-            .padding(.leading, mergesLeft ? -1.5 : 0)
-            .padding(.trailing, mergesRight ? -1.5 : 0)
-        )
-        .overlay(
-          tileShape
-            .stroke(isSelected ? Color.blue : Color.clear, lineWidth: 3)
-            .padding(.leading, mergesLeft ? -1.5 : 0)
-            .padding(.trailing, mergesRight ? -1.5 : 0)
-        )
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        
+        if isSelected {
+          Image(systemName: "checkmark.circle.fill")
+            .font(.caption)
+            .foregroundColor(.blue)
+            .padding(4)
+        }
       }
-      
-      if isSelected {
-        Image(systemName: "checkmark.circle.fill")
-          .font(.caption)
-          .foregroundColor(.blue)
-          .padding(4)
-      }
+      // Ensures the entire expanded rectangle registers tap gestures
+      .contentShape(Rectangle())
+    }
+    .buttonStyle(.plain)
+    // 🚀 Modifiers applied to the absolute outermost layer guarantee the shape stretches
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .background(
+      tileShape
+        .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
+        .padding(.leading, mergesLeft ? -1.5 : 0)
+        .padding(.trailing, mergesRight ? -1.5 : 0)
+    )
+    .overlay(
+      tileShape
+        .stroke(isSelected ? Color.blue : (tile.isSolved ? Color.clear : (endsWithParticle ? Color.orange.opacity(0.4) : Color.clear)), style: StrokeStyle(lineWidth: isSelected ? 3 : 1.5, dash: !isSelected && endsWithParticle ? [4, 2] : []))
+        .padding(.leading, mergesLeft ? -1.5 : 0)
+        .padding(.trailing, mergesRight ? -1.5 : 0)
+    )
+    .scaleEffect(tile.isSolved ? 1.02 : 1.0)
+  }
+  
+  var body: some View {
+    // 🚀 THE MAGIC: We only apply the aspect ratio locking in Portrait Mode!
+    // In landscape, we return the button completely unconstrained.
+    if useSquareAspectRatio {
+      coreButton
+        .aspectRatio(1.0, contentMode: .fit)
+    } else {
+      coreButton
     }
   }
   
@@ -73,7 +86,6 @@ struct TileView: View {
     let leftRadius: CGFloat = mergesLeft ? 0 : (isAssistModeOn ? 2 : 8)
     let rightRadius: CGFloat = mergesRight ? 0 : (isAssistModeOn ? 2 : 8)
     
-    // Exact verified working syntax
     return UnevenRoundedRectangle(
       topLeadingRadius: leftRadius,
       bottomLeadingRadius: leftRadius,
@@ -114,17 +126,5 @@ struct TileView: View {
       combinedString.append(singleCharString)
     }
     return combinedString
-  }
-}
-
-// MARK: - Global Font Definitions Extension
-extension Font {
-  static func customJp(_ style: JpStyle, size: CGFloat) -> Font {
-    return .custom(style.rawValue, size: size)
-  }
-  
-  enum JpStyle: String {
-    case regular = "japaneseSVGFont"
-    case bold = "japaneseSVGFont-Bold"
   }
 }

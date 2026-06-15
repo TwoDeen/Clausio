@@ -2,27 +2,42 @@
 //  GameContainerView.swift
 //  Clausio
 //
-//  Created by Mohideen Noordeen on 10/06/2026.
+//  Created by Mohideen Noordeen on 12/06/2026.
 //  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
 //
 
 import SwiftUI
+import AVFoundation
 
-// MARK: - Game View Component
+// MARK: - Functional Error Shake Animation
+struct ShakeEffect: GeometryEffect {
+  var amount: CGFloat = 10
+  var shakesPerUnit = 3
+  var animatableData: CGFloat
+  
+  func effectValue(size: CGSize) -> ProjectionTransform {
+    ProjectionTransform(CGAffineTransform(translationX:
+                                            amount * sin(animatableData * .pi * CGFloat(shakesPerUnit)), y: 0))
+  }
+}
+
+// MARK: - Main Game Container View
 struct GameContainerView: View {
   @ObservedObject var vm: GameViewModel
+  @State private var speechSynthesizer = AVSpeechSynthesizer()
   
   var body: some View {
     GeometryReader { geometry in
-      // Dynamic cross-platform aspect verification
       let isWidescreen = geometry.size.width > geometry.size.height
       
       HStack(spacing: 0) {
         if isWidescreen {
-          // MARK: - WIDESCREEN / MAC / LANDSCAPE LAYOUT
-          HStack(spacing: 20) {
+          // MARK: - WIDESCREEN / LANDSCAPE LAYOUT
+          HStack(spacing: 24) {
+            
+            // Layout is purely driven by raw math and explicit Geometry pixel bounds.
             boardGrid(useSquareLayout: false)
-              .frame(maxWidth: .infinity, maxHeight: .infinity)
+              .layoutPriority(1)
             
             VStack(spacing: 16) {
               Spacer()
@@ -32,16 +47,22 @@ struct GameContainerView: View {
               controlButtonsVertical
               Spacer()
             }
-            .frame(width: 120)
+            .frame(width: 140)
             .padding(.trailing, 10)
           }
           .padding(.horizontal, 20)
           .padding(.vertical, 15)
+          
         } else {
           // MARK: - PORTRAIT LAYOUT
           VStack(spacing: 20) {
+            
             boardGrid(useSquareLayout: true)
-            hudPanel
+            
+            if vm.isLearnModeOn, vm.selectedIndex != nil {
+              hudPanel
+            }
+            
             Spacer()
             controlButtonsHorizontal
           }
@@ -52,63 +73,107 @@ struct GameContainerView: View {
     }
   }
   
-  // MARK: - Extracted Component Subviews
-  
+  // MARK: - Board Grid Layout Builder
   @ViewBuilder
   private func boardGrid(useSquareLayout: Bool) -> some View {
-    VStack(spacing: vm.isAssistModeOn ? 2 : 10) {
-      ForEach(0..<5, id: \.self) { row in
-        HStack(spacing: vm.isAssistModeOn ? 2 : 8) {
-          ForEach(0..<5, id: \.self) { col in
-            let index = (row * 5) + col
-            if index < vm.tiles.count {
-              TileView(
-                tile: vm.tiles[index],
-                isSelected: vm.selectedIndex == index,
-                accentColor: vm.colorForCategory(vm.tiles[index].originalRowId),
-                isAssistModeOn: vm.isAssistModeOn,
-                mergesLeft: canMergeLeft(row: row, col: col),
-                mergesRight: canMergeRight(row: row, col: col),
-                useSquareAspectRatio: useSquareLayout,
-                action: {
-                  withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
-                    vm.handleTap(at: index)
-                  }
-                }
-              )
-              .frame(maxWidth: .infinity, maxHeight: .infinity)
-            } else {
-              // Separated branches remove all inline 'nil' layout ambiguities
-              if useSquareLayout {
-                Color.clear
-                  .aspectRatio(1.0, contentMode: .fit)
-                  .frame(maxWidth: .infinity, maxHeight: .infinity)
-              } else {
-                Color.clear
-                  .frame(maxWidth: .infinity, maxHeight: .infinity)
+    let hSpacing: CGFloat = vm.isAssistModeOn ? 2 : 8
+    let vSpacing: CGFloat = vm.isAssistModeOn ? 2 : 10
+    
+    if useSquareLayout {
+      // 📱 PORTRAIT: Standard layout safely maintains square aspect ratios based on screen width
+      VStack(spacing: vSpacing) {
+        ForEach(0..<5, id: \.self) { row in
+          HStack(spacing: hSpacing) {
+            ForEach(0..<5, id: \.self) { col in
+              let index = (row * 5) + col
+              tileCell(at: index, useSquareLayout: true)
+            }
+          }
+        }
+      }
+    } else {
+      // 🚀 LANDSCAPE: Explicit Geometry Math Override
+      GeometryReader { gridGeo in
+        let availableWidth = gridGeo.size.width
+        let availableHeight = gridGeo.size.height
+        
+        let cellWidth = max(0, (availableWidth - (hSpacing * 4)) / 5)
+        let cellHeight = max(0, (availableHeight - (vSpacing * 4)) / 5)
+        
+        VStack(spacing: vSpacing) {
+          ForEach(0..<5, id: \.self) { row in
+            HStack(spacing: hSpacing) {
+              ForEach(0..<5, id: \.self) { col in
+                let index = (row * 5) + col
+                
+                // Explicit framing overrides all native intrinsic squishing
+                tileCell(at: index, useSquareLayout: false)
+                  .frame(width: cellWidth, height: cellHeight)
               }
             }
           }
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .frame(width: availableWidth, height: availableHeight, alignment: .center)
       }
     }
-    .frame(maxWidth: .infinity, maxHeight: .infinity)
-    .padding(.horizontal, 4)
   }
   
+  // MARK: - Unified Tile Cell Rendering Framework
+  @ViewBuilder
+  private func tileCell(at index: Int, useSquareLayout: Bool) -> some View {
+    if index < vm.tiles.count {
+      let row = index / 5
+      let col = index % 5
+      
+      TileView(
+        tile: vm.tiles[index],
+        isSelected: vm.selectedIndex == index,
+        accentColor: vm.colorForCategory(vm.tiles[index].originalRowId),
+        isAssistModeOn: vm.isAssistModeOn,
+        mergesLeft: canMergeLeft(row: row, col: col),
+        mergesRight: canMergeRight(row: row, col: col),
+        useSquareAspectRatio: useSquareLayout,
+        action: {
+          withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
+            vm.handleTap(at: index)
+          }
+        }
+      )
+      .frame(maxWidth: .infinity, maxHeight: .infinity)
+      .modifier(ShakeEffect(animatableData: (vm.selectedIndex == index && vm.errorMessage != nil) ? 1 : 0))
+    } else {
+      Color.clear
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+  }
+  
+  // MARK: - Contextual Learning Assistant Panel (HUD)
   private var hudPanel: some View {
     Group {
-      if vm.isLearnModeOn, let selected = vm.selectedIndex, selected < vm.tiles.count {
+      if let selected = vm.selectedIndex, selected < vm.tiles.count {
         VStack(alignment: .leading, spacing: 6) {
-          VStack(alignment: .leading, spacing: 2) {
-            Text("Furigana Reading:")
-              .font(.caption.bold())
-              .foregroundColor(.secondary)
-              .fixedSize(horizontal: true, vertical: false)
+          HStack {
+            VStack(alignment: .leading, spacing: 2) {
+              Text("Furigana Reading:")
+                .font(.caption.bold())
+                .foregroundColor(.secondary)
+                .fixedSize(horizontal: true, vertical: false)
+              
+              Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 14, isSolved: vm.tiles[selected].isSolved))
+            }
+            Spacer()
             
-            Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 14, isSolved: vm.tiles[selected].isSolved))
+            Button(action: { speakText(vm.tiles[selected].text) }) {
+              Image(systemName: "speaker.wave.2.bubble.left.fill")
+                .font(.body)
+                .foregroundColor(.accentColor)
+                .padding(6)
+                .background(Color.accentColor.opacity(0.1))
+                .clipShape(Circle())
+            }
+            .buttonStyle(.plain)
           }
+          
           VStack(alignment: .leading, spacing: 2) {
             Text("Clause Context:")
               .font(.caption.bold())
@@ -129,6 +194,7 @@ struct GameContainerView: View {
     }
   }
   
+  // MARK: - Interface Control Layout Blocks
   private var controlButtonsHorizontal: some View {
     HStack(spacing: 40) {
       Button(action: { withAnimation(.easeInOut) { vm.shuffleIncorrectTiles() } }) {
@@ -167,15 +233,23 @@ struct GameContainerView: View {
     .frame(maxWidth: .infinity)
   }
   
-  // MARK: - Merge Detection Helpers
+  // MARK: - Native AVSpeech Engine Orchestration
+  private func speakText(_ text: String) {
+    if speechSynthesizer.isSpeaking {
+      speechSynthesizer.stopSpeaking(at: .immediate)
+    }
+    let utterance = AVSpeechUtterance(string: text)
+    utterance.voice = AVSpeechSynthesisVoice(language: "ja-JP")
+    utterance.rate = 0.42
+    speechSynthesizer.speak(utterance)
+  }
   
-  /// Assists with grid visuals by identifying if a tile sits in its correct structural target row and sequence position.
+  // MARK: - Grammar Chunk Merging Calculations
   private func canMergeLeft(row: Int, col: Int) -> Bool {
     let currentIndex = (row * 5) + col
     guard vm.isAssistModeOn, currentIndex < vm.tiles.count else { return false }
     
     let currentTile = vm.tiles[currentIndex]
-    // A tile is in its intended row if its grid index matches its text layout position
     let isCurrentCorrect = currentTile.originalRowId == (row + 1) && currentTile.originalColumnId == (col + 1)
     
     guard isCurrentCorrect && col > 0 else { return false }
