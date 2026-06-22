@@ -8,7 +8,7 @@ from pydantic import BaseModel
 
 # 🚀 CONSOLIDATED IMPORTS: All your custom module dependencies in one place
 from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
-from news_service import fetch_nhk_news_topics, parse_ruby_html_into_sentences
+from news_service import fetch_nhk_news_topics, scrape_article_sentences_and_furigana
 
 app = FastAPI(title="Clausio Game Engine API")
 
@@ -75,6 +75,44 @@ def get_news_topics():
         print(f"RSS Fetch Error: {e}")
         raise HTTPException(status_code=500, detail=f"Failed to fetch RSS feed: {str(e)}")
 
+
+@app.post("/api/puzzle/generate")
+def fetch_or_compile_puzzle(request: PuzzleRequest):
+    target_level = request.level.upper().strip()
+    file_path = request.file_path
+    
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail=f"Source file asset not found at path: {file_path}")
+        
+    base_file_id = os.path.basename(file_path).replace(".txt", "")
+    cache_destination = os.path.join(CACHE_DIR, f"{base_file_id}_{target_level}_5x5_puzzle.json")
+    
+    if os.path.exists(cache_destination):
+        print(f"--> [CACHE HIT]: Loading matrix directly from Temp Space: {cache_destination}")
+        try:
+            with open(cache_destination, "r", encoding="utf-8") as cached_f:
+                return json.load(cached_f)
+        except Exception as read_err:
+            print(f"Warning: Failed reading cached JSON. Re-compiling. Error: {read_err}")
+
+    print(f"--> [CACHE MISS]: Processing raw .txt document incrementally: {file_path}")
+    try:
+        generated_payload = build_puzzle_json(file_path, target_level, CACHE_DIR)
+        
+        if not generated_payload:
+            raise HTTPException(status_code=500, detail="The matrix generation module returned an empty structural schema.")
+            
+        with open(cache_destination, "w", encoding="utf-8") as cache_out:
+            json.dump(generated_payload, cache_out, ensure_ascii=False, indent=4)
+            
+        print(f"--> Success! Matrix puzzle written to temp space cache layout: {cache_destination}")
+        return generated_payload
+        
+    except Exception as pipeline_crash:
+        print(f"Pipeline processing encountered an unhandled exception: {pipeline_crash}")
+        raise HTTPException(status_code=500, detail=f"Internal Engine Error processing text elements: {str(pipeline_crash)}")
+
+
 @app.post("/api/news/puzzle/generate")
 def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
     target_level = request.level.upper().strip()
@@ -82,7 +120,6 @@ def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
     # 🚀 THE FIX: Replace slashes and colons so the OS doesn't think this is a folder path!
     safe_news_id = request.news_id.replace("/", "_").replace(":", "_")
     
-    # Use the safe ID to build the file path
     cache_destination = os.path.join(CACHE_DIR, f"news_{safe_news_id}_{target_level}_5x5_puzzle.json")
     
     if os.path.exists(cache_destination):
@@ -93,11 +130,14 @@ def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
             pass
 
     try:
-        # 1. Break raw RSS string block down into 5 distinct token sentence matrices
-        sentence_rows_tokens = parse_ruby_html_into_sentences(request.summary_html)
+        # 1. Bypass the broken RSS text and scrape the live article HTML!
+        clean_sentences, furigana_dict = scrape_article_sentences_and_furigana(request.news_id)
         
-        # 2. Build the sequential matrix payload with original order intact
-        generated_payload = build_puzzle_from_news_tokens(sentence_rows_tokens, target_level)
+        if len(clean_sentences) < 5:
+            raise ValueError("Not enough valid Japanese sentences found on the article page.")
+        
+        # 2. Build the sequential matrix payload using GiNZa
+        generated_payload = build_puzzle_from_news_tokens(clean_sentences, furigana_dict, target_level)
         
         # 3. Save the cache out to disk
         with open(cache_destination, "w", encoding="utf-8") as cache_out:
@@ -107,35 +147,6 @@ def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
         
     except Exception as err:
         print(f"News Pipeline Crash: {err}")
-        raise HTTPException(status_code=500, detail=f"Failed constructing sequential puzzle: {str(err)}")
-
-@app.post("/api/news/puzzle/generate")
-def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
-    target_level = request.level.upper().strip()
-    cache_destination = os.path.join(CACHE_DIR, f"news_{request.news_id}_{target_level}_5x5_puzzle.json")
-    
-    if os.path.exists(cache_destination):
-        try:
-            with open(cache_destination, "r", encoding="utf-8") as cached_f:
-                return json.load(cached_f)
-        except Exception:
-            pass
-
-    try:
-        # 1. Break raw RSS string block down into 5 distinct token sentence matrices
-        sentence_rows_tokens = parse_ruby_html_into_sentences(request.summary_html)
-        
-        # 2. Build the sequential matrix payload with original order intact
-        generated_payload = build_puzzle_from_news_tokens(sentence_rows_tokens, target_level)
-        
-        # 3. Save the cache out to disk
-        with open(cache_destination, "w", encoding="utf-8") as cache_out:
-            json.dump(generated_payload, cache_out, ensure_ascii=False, indent=4)
-            
-        return generated_payload
-        
-    except Exception as err:
-        print(f"News Pipeline Crash: {err}") # Added explicit terminal logging
         raise HTTPException(status_code=500, detail=f"Failed constructing sequential puzzle: {str(err)}")
 
 

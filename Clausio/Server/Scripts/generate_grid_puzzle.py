@@ -52,7 +52,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     raw_sentences = [s + "」" if s.endswith("」") == False and s.count("「") > s.count("」") else s 
                      for s in re.split(r'(?<=。) | (?<=！)|(?<=？)|(?<=。)', combined_raw_text) if s.strip()]
     
-    filtered_sentences = [s for s in raw_sentences if len(s) >= 15]
+    filtered_sentences = [s for s in raw_sentences if len(s) >= 8]
 
     selected_sentences = filtered_sentences[:5]
     if len(selected_sentences) < 5:
@@ -172,44 +172,28 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
 
     return game_payload
 
-def build_puzzle_from_news_tokens(five_sentences_list: list, target_level: str) -> dict:
-    """
-    Constructs a valid 5x5 matrix directly from an ordered sequence of 5 sentences.
-    Groups linguistic tokens cleanly to ensure Kanji and Furigana never split.
-    """
+from clausify import decompose_into_clauses_fallback 
+
+def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict, target_level: str) -> dict:
     target_level = target_level.upper().strip()
     puzzle_grid = []
     
-    for row_idx, sentence_tokens in enumerate(five_sentences_list):
+    for row_idx, sentence_text in enumerate(five_sentences_list):
         sentence_id = row_idx + 1
-        total_tokens = len(sentence_tokens)
         
-        # 🚀 THE FIX: Group tokens into 5 consecutive chunks rather than guessing string split indices
-        # Calculate how many tokens go into each of the 5 matrix columns
-        base_chunk_size = total_tokens // 5
-        remainder = total_tokens % 5
+        # 1. Let GiNZa slice the purely clean text into 5 logical blocks!
+        clauses = decompose_into_clauses_fallback(sentence_text)
         
-        chunks = []
-        current_idx = 0
-        
-        for c in range(5):
-            # Distribute remainder tokens evenly across early columns
-            size = base_chunk_size + (1 if c < remainder else 0)
-            token_sub_group = sentence_tokens[current_idx : current_idx + size]
-            chunks.append(token_sub_group)
-            current_idx += size
+        # 2. Build the grid nodes
+        for col_idx, clause_text in enumerate(clauses):
             
-        # Assemble each column node
-        for col_idx, token_sub_group in enumerate(chunks):
-            # If a chunk is empty (rare), provide a safe fallback string
-            if not token_sub_group:
-                clause_text = "…"
-                clause_furi = ""
-            else:
-                clause_text = "".join([t["text"] for t in token_sub_group])
-                # Assemble reading layout cleanly: Use its extracted furigana if present,
-                # otherwise use its plain text (Hiragana/particles/punctuation)
-                clause_furi = "".join([t["furigana"] if t["furigana"] else t["text"] for t in token_sub_group])
+            clause_furigana = clause_text
+            
+            # 3. Dynamically inject the correct Furigana over any matching Kanji
+            # (Sorted by length so compound words replace before single characters)
+            for kanji in sorted(furigana_dict.keys(), key=len, reverse=True):
+                if kanji in clause_furigana:
+                    clause_furigana = clause_furigana.replace(kanji, furigana_dict[kanji])
             
             clause_node = {
                 "clause_id": (row_idx * 5) + col_idx + 1,
@@ -219,7 +203,7 @@ def build_puzzle_from_news_tokens(five_sentences_list: list, target_level: str) 
                 },
                 "parent_sentence_id": sentence_id,
                 "clause_text": clause_text,
-                "furigana": clause_furi
+                "furigana": clause_furigana
             }
             puzzle_grid.append(clause_node)
             
