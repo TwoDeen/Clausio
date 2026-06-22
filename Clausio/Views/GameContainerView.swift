@@ -48,16 +48,16 @@ struct GameContainerView: View {
             
             VStack(spacing: 14) {
               Spacer()
-              modeCompactToggles                       // 🎛️ Icon-only toggles for narrow sidebar
+              modeCompactToggles
               Divider().padding(.horizontal, 6)
-              if vm.isLearnModeOn, vm.selectedIndex != nil {
-                hudPanel
-              }
+              
+              // ✂️ HUD PANEL CONDITION REMOVED FROM HERE
+              
               controlButtonsVertical
               Spacer()
             }
-            // Sidebar expands when HUD text is visible, collapses to icon-width otherwise
-            .frame(width: (vm.isLearnModeOn && vm.selectedIndex != nil) ? 150 : 56)
+            // Sidebar remains consistently narrow since HUD text is gone
+            .frame(width: 56)
           }
           .padding(.horizontal, 8)
           .padding(.vertical, 10)
@@ -68,11 +68,9 @@ struct GameContainerView: View {
             
             boardGrid(useSquareLayout: true)
             
-            modePillsBar                               // 🎛️ Labeled pill toggles above HUD
+            modePillsBar
             
-            if vm.isLearnModeOn, vm.selectedIndex != nil {
-              hudPanel
-            }
+            // ✂️ HUD PANEL CONDITION REMOVED FROM HERE
             
             Spacer()
             controlButtonsHorizontal
@@ -82,11 +80,64 @@ struct GameContainerView: View {
       }
       .frame(width: geometry.size.width, height: geometry.size.height)
     }
-    // 🔊 Auto-play: fires whenever any tile's solved state changes
     .onChange(of: tilesSolvedState) { _ in
       detectNewlyCompletedRows()
     }
   }
+  
+//  var body: some View {
+//    GeometryReader { geometry in
+//      let isWidescreen = geometry.size.width > geometry.size.height
+//      
+//      HStack(spacing: 0) {
+//        if isWidescreen {
+//          // MARK: - WIDESCREEN / LANDSCAPE LAYOUT
+//          HStack(spacing: 8) {
+//            
+//            boardGrid(useSquareLayout: false)
+//              .layoutPriority(1)
+//            
+//            VStack(spacing: 14) {
+//              Spacer()
+//              modeCompactToggles                       // 🎛️ Icon-only toggles for narrow sidebar
+//              Divider().padding(.horizontal, 6)
+//              if vm.isLearnModeOn, vm.selectedIndex != nil {
+//                hudPanel
+//              }
+//              controlButtonsVertical
+//              Spacer()
+//            }
+//            // Sidebar expands when HUD text is visible, collapses to icon-width otherwise
+//            .frame(width: (vm.isLearnModeOn && vm.selectedIndex != nil) ? 150 : 56)
+//          }
+//          .padding(.horizontal, 8)
+//          .padding(.vertical, 10)
+//          
+//        } else {
+//          // MARK: - PORTRAIT LAYOUT
+//          VStack(spacing: 20) {
+//            
+//            boardGrid(useSquareLayout: true)
+//            
+//            modePillsBar                               // 🎛️ Labeled pill toggles above HUD
+//            
+//            if vm.isLearnModeOn, vm.selectedIndex != nil {
+//              hudPanel
+//            }
+//            
+//            Spacer()
+//            controlButtonsHorizontal
+//          }
+//          .padding(.top, 10)
+//        }
+//      }
+//      .frame(width: geometry.size.width, height: geometry.size.height)
+//    }
+//    // 🔊 Auto-play: fires whenever any tile's solved state changes
+//    .onChange(of: tilesSolvedState) { _ in
+//      detectNewlyCompletedRows()
+//    }
+//  }
   
   // MARK: - Board Grid Layout Builder
   @ViewBuilder
@@ -139,7 +190,7 @@ struct GameContainerView: View {
         tile: vm.tiles[index],
         isSelected: vm.selectedIndex == index,
         accentColor: vm.colorForCategory(vm.tiles[index].originalRowId),
-        isAssistModeOn: vm.isAssistModeOn,
+        isAssistModeOn: vm.isLearnModeOn,
         mergesLeft: canMergeLeft(row: row, col: col),
         mergesRight: canMergeRight(row: row, col: col),
         useSquareAspectRatio: useSquareLayout,
@@ -147,6 +198,10 @@ struct GameContainerView: View {
           withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
             vm.handleTap(at: index)
           }
+        },
+        // 🚀 THE FIX: Pass the audio instruction directly via your custom initializer parameter
+        onLongPress: {
+          speakText(vm.tiles[index].text)
         }
       )
       .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -156,6 +211,35 @@ struct GameContainerView: View {
         .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
   }
+  
+//  // MARK: - Unified Tile Cell Rendering Framework
+//  @ViewBuilder
+//  private func tileCell(at index: Int, useSquareLayout: Bool) -> some View {
+//    if index < vm.tiles.count {
+//      let row = index / 5
+//      let col = index % 5
+//      
+//      TileView(
+//        tile: vm.tiles[index],
+//        isSelected: vm.selectedIndex == index,
+//        accentColor: vm.colorForCategory(vm.tiles[index].originalRowId),
+//        isAssistModeOn: vm.isAssistModeOn,
+//        mergesLeft: canMergeLeft(row: row, col: col),
+//        mergesRight: canMergeRight(row: row, col: col),
+//        useSquareAspectRatio: useSquareLayout,
+//        action: {
+//          withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
+//            vm.handleTap(at: index)
+//          }
+//        }
+//      )
+//      .frame(maxWidth: .infinity, maxHeight: .infinity)
+//      .modifier(ShakeEffect(animatableData: (vm.selectedIndex == index && vm.errorMessage != nil) ? 1 : 0))
+//    } else {
+//      Color.clear
+//        .frame(maxWidth: .infinity, maxHeight: .infinity)
+//    }
+//  }
   
   // MARK: - 🎛️ Mode Toggle Pills (Portrait — labeled, full-width pair)
   private var modePillsBar: some View {
@@ -245,52 +329,42 @@ struct GameContainerView: View {
     }
   }
   
-  // MARK: - Contextual Learning Assistant Panel (HUD)
-  private var hudPanel: some View {
-    Group {
-      if let selected = vm.selectedIndex, selected < vm.tiles.count {
-        VStack(alignment: .leading, spacing: 6) {
-          HStack {
-            VStack(alignment: .leading, spacing: 2) {
-              Text("Furigana Reading:")
-                .font(.caption.bold())
-                .foregroundColor(.secondary)
-                .fixedSize(horizontal: true, vertical: false)
-              
-              Text(TileView.balancedJapaneseText(for: vm.tiles[selected].furigana, baseSize: 14, isSolved: vm.tiles[selected].isSolved))
-            }
-            Spacer()
-            
-            Button(action: { speakText(vm.tiles[selected].text) }) {
-              Image(systemName: "speaker.wave.2.bubble.left.fill")
-                .font(.body)
-                .foregroundColor(.accentColor)
-                .padding(6)
-                .background(Color.accentColor.opacity(0.1))
-                .clipShape(Circle())
-            }
-            .buttonStyle(.plain)
-          }
-          
-          VStack(alignment: .leading, spacing: 2) {
-            Text("Clause Context:")
-              .font(.caption.bold())
-              .foregroundColor(.secondary)
-              .fixedSize(horizontal: true, vertical: false)
-            
-            Text(vm.tiles[selected].text)
-              .font(.system(size: 13))
-              .foregroundColor(.primary)
-              .fixedSize(horizontal: false, vertical: true)
-          }
-        }
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .padding(8)
-        .background(RoundedRectangle(cornerRadius: 10).fill(Color.secondary.opacity(0.12)))
-        .transition(.opacity.combined(with: .scale))
-      }
-    }
-  }
+//  // MARK: - Contextual Learning Assistant Panel (HUD)
+//  private var hudPanel: some View {
+//    Group {
+//      if let selected = vm.selectedIndex, selected < vm.tiles.count {
+//        VStack(alignment: .leading, spacing: 6) {
+//          HStack {
+//            VStack(alignment: .leading, spacing: 4) {
+//              Text("Clause Context:")
+//                .font(.caption.bold())
+//                .foregroundColor(.secondary)
+//                .fixedSize(horizontal: true, vertical: false)
+//              
+//              // 🛠️ FIX: Prepend TileView. here so the compiler knows where to find it!
+//              TileView.RubyTextView(kanji: vm.tiles[selected].text, furigana: vm.tiles[selected].furigana)
+//            }
+//            Spacer()
+//            
+//            Button(action: { speakText(vm.tiles[selected].text) }) {
+//              Image(systemName: "speaker.wave.2.bubble.left.fill")
+//                .font(.body)
+//                .foregroundColor(.accentColor)
+//                .padding(6)
+//                .background(Color.accentColor.opacity(0.1))
+//                .clipShape(Circle())
+//            }
+//            .buttonStyle(.plain)
+//          }
+//        }
+//        .frame(maxWidth: .infinity, alignment: .leading)
+//        .padding(8)
+//        .background(RoundedRectangle(cornerRadius: 10).fill(Color.secondary.opacity(0.12)))
+//        .transition(.opacity.combined(with: .scale))
+//      }
+//    }
+//  }
+  
   
   // MARK: - Interface Control Layout Blocks
   private var controlButtonsHorizontal: some View {
