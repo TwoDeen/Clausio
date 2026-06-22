@@ -72,11 +72,14 @@ struct JapaneseConnectionsAppView: View {
       }
       // 🏆 Detect full board completion and present the reading screen
       .onChange(of: solvedTileCount) { count in
-        if count == 25 && !vm.tiles.isEmpty {
+        
+        // 🚀 THE FIX: Only navigate to the next screen if they actually solved it themselves!
+        if count == 25 && !vm.tiles.isEmpty && !vm.didGiveUp {
+          
           // Delay lets the final row's solve animation play before transitioning
           DispatchQueue.main.asyncAfter(deadline: .now() + 1.2) {
             // Guard: re-check in case the user restarted during the delay
-            if vm.tiles.filter(\.isSolved).count == 25 {
+            if vm.tiles.filter(\.isSolved).count == 25 && !vm.didGiveUp {
               showSolvedScreen = true
             }
           }
