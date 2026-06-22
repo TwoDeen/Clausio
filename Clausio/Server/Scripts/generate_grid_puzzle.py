@@ -171,3 +171,67 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
         print(f"Skipped saving secondary temporary artifact: {e}")
 
     return game_payload
+
+def build_puzzle_from_news_tokens(five_sentences_list: list, target_level: str) -> dict:
+    """
+    Constructs a valid 5x5 matrix directly from an ordered sequence of 5 sentences.
+    Groups linguistic tokens cleanly to ensure Kanji and Furigana never split.
+    """
+    target_level = target_level.upper().strip()
+    puzzle_grid = []
+    
+    for row_idx, sentence_tokens in enumerate(five_sentences_list):
+        sentence_id = row_idx + 1
+        total_tokens = len(sentence_tokens)
+        
+        # 🚀 THE FIX: Group tokens into 5 consecutive chunks rather than guessing string split indices
+        # Calculate how many tokens go into each of the 5 matrix columns
+        base_chunk_size = total_tokens // 5
+        remainder = total_tokens % 5
+        
+        chunks = []
+        current_idx = 0
+        
+        for c in range(5):
+            # Distribute remainder tokens evenly across early columns
+            size = base_chunk_size + (1 if c < remainder else 0)
+            token_sub_group = sentence_tokens[current_idx : current_idx + size]
+            chunks.append(token_sub_group)
+            current_idx += size
+            
+        # Assemble each column node
+        for col_idx, token_sub_group in enumerate(chunks):
+            # If a chunk is empty (rare), provide a safe fallback string
+            if not token_sub_group:
+                clause_text = "…"
+                clause_furi = ""
+            else:
+                clause_text = "".join([t["text"] for t in token_sub_group])
+                # Assemble reading layout cleanly: Use its extracted furigana if present,
+                # otherwise use its plain text (Hiragana/particles/punctuation)
+                clause_furi = "".join([t["furigana"] if t["furigana"] else t["text"] for t in token_sub_group])
+            
+            clause_node = {
+                "clause_id": (row_idx * 5) + col_idx + 1,
+                "grid_coordinates": {
+                    "row": row_idx + 1,
+                    "column": col_idx + 1
+                },
+                "parent_sentence_id": sentence_id,
+                "clause_text": clause_text,
+                "furigana": clause_furi
+            }
+            puzzle_grid.append(clause_node)
+            
+    game_payload = {
+        "target_level_requested": target_level,
+        "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+        "total_grid_clauses": len(puzzle_grid),
+        "puzzle_solution_flow": {
+            "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+            "ordered_sentence_ids": [1, 2, 3, 4, 5]
+        },
+        "grid_matrix": puzzle_grid
+    }
+    
+    return game_payload

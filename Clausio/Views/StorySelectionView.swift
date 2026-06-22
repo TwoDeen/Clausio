@@ -16,6 +16,9 @@ struct StorySelectionView: View {
   @State private var errorMessage: String? = nil
   @State private var searchText = "" // 🔍 Tracks user's search query input
   
+  // 🚀 NEW STATE: Tracks which feed modality is currently active
+  @State private var isNewsModeActive = false
+  
   // --- ENVIRONMENT DEFINITIONS ---
   let levels = ["N5", "N4", "N3", "N2", "N1"]
   
@@ -35,7 +38,9 @@ struct StorySelectionView: View {
       return stories
     } else {
       return stories.filter { story in
-        story.name.localizedCaseInsensitiveContains(searchText)
+        // Extract the clean title segment for searching if in news mode
+        let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
+        return displayTitle.localizedCaseInsensitiveContains(searchText)
       }
     }
   }
@@ -43,6 +48,20 @@ struct StorySelectionView: View {
   var body: some View {
     NavigationView {
       VStack(spacing: 0) {
+        
+        // 🚀 Content Source Toggle (Switch between Local Books and Live RSS Feed)
+        Picker("Content Source", selection: $isNewsModeActive) {
+          Text("Aozora Books").tag(false)
+          Text("Live NHK Easy").tag(true)
+        }
+        .pickerStyle(.palette)
+        .padding(.horizontal)
+        .padding(.vertical, 8)
+        .background(Color.platformGroupedBackground)
+        .onChange(of: isNewsModeActive) { _ in
+          fetchStoryList() // Auto-refresh rows when user flips mode
+        }
+        
         // JLPT Difficulty Selector
         VStack(alignment: .leading, spacing: 8) {
           Text("Target Difficulty Level")
@@ -83,10 +102,10 @@ struct StorySelectionView: View {
           VStack(spacing: 16) {
             ProgressView()
               .scaleEffect(1.5)
-            Text("Parsing Japanese Text...")
+            Text(isNewsModeActive ? "Structuring News Matrix..." : "Parsing Japanese Text...")
               .font(.headline)
               .foregroundColor(.secondary)
-            Text("GiNZa is compiling grammatical dependencies.")
+            Text(isNewsModeActive ? "Isolating sequential news sentences." : "GiNZa is compiling grammatical dependencies.")
               .font(.caption)
               .foregroundColor(.gray)
           }
@@ -96,7 +115,7 @@ struct StorySelectionView: View {
           ContentUnavailableView.search(text: searchText)
         } else if stories.isEmpty {
           ContentUnavailableView {
-            Label("No Stories Available", systemImage: "wifi.slash")
+            Label(isNewsModeActive ? "No News Available" : "No Stories Available", systemImage: "wifi.slash")
           } description: {
             Text("Could not resolve backend catalog cluster at \(backendURL). Please check network configurations.")
           } actions: {
@@ -110,7 +129,8 @@ struct StorySelectionView: View {
               generateAndLoadPuzzle(for: story)
             }) {
               HStack(spacing: 16) {
-                Image(systemName: "book.closed.fill")
+                // 🚀 DYNAMIC ICON: Swap book icon for a news panel card graphic when reading RSS
+                Image(systemName: isNewsModeActive ? "newspaper.fill" : "book.closed.fill")
                   .font(.title2)
                   .foregroundColor(.accentColor)
                   .frame(width: 40, height: 40)
@@ -118,13 +138,20 @@ struct StorySelectionView: View {
                   .cornerRadius(8)
                 
                 VStack(alignment: .leading, spacing: 4) {
-                  Text(story.name)
+                  // 🚀 STRIP ID OUT OF RENDER LAYER: Show only the clean headline string
+                  let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
+                  
+                  Text(displayTitle)
                     .font(.headline)
                     .foregroundColor(.primary)
-                  Text(story.relative_path)
-                    .font(.caption2)
-                    .lineLimit(1)
-                    .foregroundColor(.secondary)
+                  
+                  // Hide internal server path tokens when viewing dynamic news
+                  if !isNewsModeActive {
+                    Text(story.relative_path)
+                      .font(.caption2)
+                      .lineLimit(1)
+                      .foregroundColor(.secondary)
+                  }
                 }
                 
                 Spacer()
@@ -142,12 +169,12 @@ struct StorySelectionView: View {
           }
         }
       }
-      .navigationTitle("Clausio Stories")
+      .navigationTitle(isNewsModeActive ? "NHK Easy News" : "Clausio Stories")
       // 🔍 Appends the native platform search bar interaction layer right under the title block
 #if os(iOS)
-      .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search stories by title...")
+      .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search items by title...")
 #else
-      .searchable(text: $searchText, placement: .toolbar, prompt: "Search stories by title...")
+      .searchable(text: $searchText, placement: .toolbar, prompt: "Search items by title...")
 #endif
       .onAppear(perform: fetchStoryList)
     }
@@ -155,8 +182,11 @@ struct StorySelectionView: View {
   
   // --- SERVICE FUNCTIONS (API LAYER) ---
   func fetchStoryList() {
-    guard let url = URL(string: "\(backendURL)/api/stories") else { return }
+    // 🚀 TARGET ROUTE MODIFIER: Select correct API channel based on source toggle
+    let targetEndpoint = isNewsModeActive ? "/api/news/topics" : "/api/stories"
+    guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
     errorMessage = nil
+    stories = [] // Instantly clear grid list to visually indicate transition reload
     
     URLSession.shared.dataTask(with: url) { data, response, error in
       if let error = error {
@@ -169,9 +199,37 @@ struct StorySelectionView: View {
       guard let data = data else { return }
       
       do {
-        let decoded = try JSONDecoder().decode([String: [Story]].self, from: data)
+        // News topics array maps key to "topics", classic books map to "stories"
+        let listKey = isNewsModeActive ? "topics" : "stories"
+        
+        let jsonDict = try JSONSerialization.jsonObject(with: data) as? [String: Any]
+        guard let listArray = jsonDict?[listKey] as? [[String: Any]] else {
+          throw NSError(domain: "", code: -1, userInfo: [NSLocalizedDescriptionKey: "Invalid dictionary array target structure"])
+        }
+        
+        // Re-map keys smoothly into your existing Story memberwise structure layout
+        let parsedItems = listArray.compactMap { dict -> Story? in
+          if isNewsModeActive {
+            let newsId = dict["id"] as? String ?? UUID().uuidString
+            let cleanTitle = dict["title"] as? String ?? "Untitled News"
+            
+            // 🚀 DELIMITER INJECTION: Pack unique id safely into the struct initializer
+            let packedName = "\(newsId)|\(cleanTitle)"
+            
+            return Story(
+              name: packedName,
+              relative_path: dict["summary_html"] as? String ?? ""
+            )
+          } else {
+            return Story(
+              name: dict["name"] as? String ?? "Unknown File",
+              relative_path: dict["relative_path"] as? String ?? ""
+            )
+          }
+        }
+        
         DispatchQueue.main.async {
-          self.stories = decoded["stories"] ?? []
+          self.stories = parsedItems
         }
       } catch {
         DispatchQueue.main.async {
@@ -182,7 +240,9 @@ struct StorySelectionView: View {
   }
   
   func generateAndLoadPuzzle(for story: Story) {
-    guard let url = URL(string: "\(backendURL)/api/puzzle/generate") else { return }
+    // 🚀 TARGET ROUTE MODIFIER: Forward requests to the live compilation block when necessary
+    let targetEndpoint = isNewsModeActive ? "/api/news/puzzle/generate" : "/api/puzzle/generate"
+    guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
     
     withAnimation {
       isLoading = true
@@ -193,10 +253,24 @@ struct StorySelectionView: View {
     request.httpMethod = "POST"
     request.setValue("application/json", forHTTPHeaderField: "Content-Type")
     
-    let bodyPayload: [String: String] = [
-      "file_path": story.relative_path,
-      "level": selectedLevel
-    ]
+    var bodyPayload: [String: String] = [:]
+    
+    if isNewsModeActive {
+      // 🚀 DELIMITER UNPACKING: Slice string components back into separate logical elements
+      let components = story.name.components(separatedBy: "|")
+      let extractedId = components.first ?? UUID().uuidString
+      
+      bodyPayload = [
+        "news_id": extractedId,
+        "summary_html": story.relative_path, // Passes down the 5-sentence paragraph string context
+        "level": selectedLevel
+      ]
+    } else {
+      bodyPayload = [
+        "file_path": story.relative_path,
+        "level": selectedLevel
+      ]
+    }
     
     request.httpBody = try? JSONSerialization.data(withJSONObject: bodyPayload)
     
