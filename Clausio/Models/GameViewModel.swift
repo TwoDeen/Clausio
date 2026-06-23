@@ -32,7 +32,8 @@ class GameViewModel: ObservableObject {
         text: item.clause_text,
         furigana: item.furigana,
         originalRowId: item.grid_coordinates.row,
-        originalColumnId: item.grid_coordinates.column
+        originalColumnId: item.grid_coordinates.column,
+        sentenceIndividualGrammarLevel: item.sentence_individual_grammar_level
       )
     }
     

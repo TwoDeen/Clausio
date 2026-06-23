@@ -5,19 +5,14 @@ import re
 
 try:
     from clausify import decompose_into_clauses_fallback
+    # 🚀 RE-ADDED: Import the JLPT Analyzer
+    from complete_jlpt_analyzer import analyze_sentence_grammar
 except ImportError as e:
     print(f"Error: Missing dependency script. {e}", file=sys.stderr)
-    print("Please ensure 'clausify.py' are in this root folder.", file=sys.stderr)
+    print("Please ensure 'clausify.py' and 'complete_jlpt_analyzer.py' are in this root folder.", file=sys.stderr)
     sys.exit(1)
 
-# 🔑 Injected output_dir target parameter to route file saving routines
 def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> dict:
-    """
-    1. Reads a raw untagged .txt file.
-    2. Tokenizes it into logical sentences.
-    3. Decomposes sentences into exactly 25 clauses (5 each).
-    4. Generates and returns a master 5x5 grid puzzle configuration dictionary.
-    """
     import spacy
     
     config = {
@@ -59,6 +54,11 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
         while len(selected_sentences) < 5:
             selected_sentences.append("立派な一軒の西洋造りの家がありました。")
 
+    # Tracking highest level for overall JSON
+    level_hierarchy = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
+    reverse_hierarchy = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
+    highest_weight_encountered = 1
+
     puzzle_grid = []
     all_extracted_clauses = []
 
@@ -68,6 +68,13 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     for row_idx, sentence_text in enumerate(selected_sentences):
         sentence_id = row_idx + 1
         full_sentence_doc = nlp(sentence_text)
+        
+        # 🚀 RE-ADDED: Analyze sentence grammar level
+        detected_level, _ = analyze_sentence_grammar(full_sentence_doc)
+        
+        current_weight = level_hierarchy.get(detected_level, 1)
+        if current_weight > highest_weight_encountered:
+            highest_weight_encountered = current_weight
 
         clauses = decompose_into_clauses_fallback(sentence_text)
         print(f"  -> Line #{sentence_id} sliced into 5 game puzzle matrix columns.")
@@ -142,7 +149,9 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
                 },
                 "parent_sentence_id": sentence_id,
                 "clause_text": clause_text,
-                "furigana": kana_reading
+                "furigana": kana_reading,
+                # 🚀 RE-ADDED: Inject the grammar level into the node!
+                "sentence_individual_grammar_level": detected_level
             }
             puzzle_grid.append(clause_node)
             all_extracted_clauses.append(clause_text)
@@ -151,6 +160,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     # --- STEP 3: ASSEMBLE GAME UNIFIED PAYLOAD ---
     game_payload = {
         "target_level_requested": target_level,
+        "highest_grammar_level_encountered": reverse_hierarchy[highest_weight_encountered],
         "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
         "total_grid_clauses": len(puzzle_grid),
         "puzzle_solution_flow": {
@@ -160,8 +170,6 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
         "grid_matrix": puzzle_grid
     }
 
-    # Optional: If you want to dump copies of the intermediate json maps, 
-    # force them to save inside the temporary directory too!
     try:
         base_id = os.path.basename(raw_txt_path).replace(".txt", "")
         debug_output_path = os.path.join(output_dir, f"{base_id}_incremental_debug.json")
@@ -172,25 +180,39 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
 
     return game_payload
 
-from clausify import decompose_into_clauses_fallback 
 
 def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict, target_level: str) -> dict:
+    import spacy
+    try:
+        nlp = spacy.load("ja_ginza")
+    except Exception:
+        nlp = None
+
     target_level = target_level.upper().strip()
     puzzle_grid = []
+    
+    level_hierarchy = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
+    reverse_hierarchy = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
+    highest_weight_encountered = 1
     
     for row_idx, sentence_text in enumerate(five_sentences_list):
         sentence_id = row_idx + 1
         
-        # 1. Let GiNZa slice the purely clean text into 5 logical blocks!
+        # 🚀 RE-ADDED: Analyze live NHK sentence grammar!
+        detected_level = "N5"
+        if nlp:
+            doc = nlp(sentence_text)
+            detected_level, _ = analyze_sentence_grammar(doc)
+            
+        current_weight = level_hierarchy.get(detected_level, 1)
+        if current_weight > highest_weight_encountered:
+            highest_weight_encountered = current_weight
+        
         clauses = decompose_into_clauses_fallback(sentence_text)
         
-        # 2. Build the grid nodes
         for col_idx, clause_text in enumerate(clauses):
-            
             clause_furigana = clause_text
             
-            # 3. Dynamically inject the correct Furigana over any matching Kanji
-            # (Sorted by length so compound words replace before single characters)
             for kanji in sorted(furigana_dict.keys(), key=len, reverse=True):
                 if kanji in clause_furigana:
                     clause_furigana = clause_furigana.replace(kanji, furigana_dict[kanji])
@@ -203,12 +225,15 @@ def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict
                 },
                 "parent_sentence_id": sentence_id,
                 "clause_text": clause_text,
-                "furigana": clause_furigana
+                "furigana": clause_furigana,
+                # 🚀 RE-ADDED: Inject the grammar level into the node!
+                "sentence_individual_grammar_level": detected_level
             }
             puzzle_grid.append(clause_node)
             
     game_payload = {
         "target_level_requested": target_level,
+        "highest_grammar_level_encountered": reverse_hierarchy[highest_weight_encountered],
         "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
         "total_grid_clauses": len(puzzle_grid),
         "puzzle_solution_flow": {

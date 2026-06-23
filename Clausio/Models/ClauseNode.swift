@@ -14,4 +14,5 @@ struct ClauseNode: Identifiable, Decodable {
     let parent_sentence_id: Int
     let clause_text: String
     let furigana: String
+    let sentence_individual_grammar_level: String?  // ← add this
 }

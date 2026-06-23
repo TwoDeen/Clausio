@@ -243,6 +243,9 @@ struct StorySelectionView: View {
     request.httpMethod = "POST"
     request.setValue("application/json", forHTTPHeaderField: "Content-Type")
     
+    // 🚀 THE FIX: Force iOS to ignore its saved cache and actually hit the Python server!
+    request.cachePolicy = .reloadIgnoringLocalCacheData
+
     var bodyPayload: [String: String] = [:]
     
     if isNewsModeActive {

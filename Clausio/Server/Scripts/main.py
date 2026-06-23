@@ -85,6 +85,8 @@ def fetch_or_compile_puzzle(request: PuzzleRequest):
         raise HTTPException(status_code=404, detail=f"Source file asset not found at path: {file_path}")
         
     base_file_id = os.path.basename(file_path).replace(".txt", "")
+    
+    # 🚀 Keep the cache mapped to the user request parameter so it hits properly
     cache_destination = os.path.join(CACHE_DIR, f"{base_file_id}_{target_level}_5x5_puzzle.json")
     
     if os.path.exists(cache_destination):
@@ -116,10 +118,9 @@ def fetch_or_compile_puzzle(request: PuzzleRequest):
 @app.post("/api/news/puzzle/generate")
 def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
     target_level = request.level.upper().strip()
-    
-    # 🚀 THE FIX: Replace slashes and colons so the OS doesn't think this is a folder path!
     safe_news_id = request.news_id.replace("/", "_").replace(":", "_")
     
+    # 🚀 Keep the cache mapped to the user request parameter so it hits properly
     cache_destination = os.path.join(CACHE_DIR, f"news_{safe_news_id}_{target_level}_5x5_puzzle.json")
     
     if os.path.exists(cache_destination):
@@ -130,16 +131,13 @@ def fetch_or_compile_news_puzzle(request: NewsPuzzleRequest):
             pass
 
     try:
-        # 1. Bypass the broken RSS text and scrape the live article HTML!
         clean_sentences, furigana_dict = scrape_article_sentences_and_furigana(request.news_id)
         
         if len(clean_sentences) < 5:
             raise ValueError("Not enough valid Japanese sentences found on the article page.")
         
-        # 2. Build the sequential matrix payload using GiNZa
         generated_payload = build_puzzle_from_news_tokens(clean_sentences, furigana_dict, target_level)
         
-        # 3. Save the cache out to disk
         with open(cache_destination, "w", encoding="utf-8") as cache_out:
             json.dump(generated_payload, cache_out, ensure_ascii=False, indent=4)
             

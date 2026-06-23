@@ -9,9 +9,9 @@
 import SwiftUI
 import CoreText
 
-
 // MARK: - Grid Tile Subview
 struct TileView: View {
+  // MARK: - Properties
   let tile: Tile
   let isSelected: Bool
   let accentColor: Color
@@ -28,26 +28,48 @@ struct TileView: View {
     return particles.contains { tile.text.hasSuffix($0) }
   }
   
-  // MARK: - Core Content Presentation Layer (Fixed Gesture Layer)
+  // MARK: - Styling Helpers
+  private var currentBackgroundColor: Color {
+    tile.isSolved ? accentColor : Color.gray.opacity(0.2)
+  }
+  
+  private var currentBorderColor: Color {
+    if isSelected {
+      return .blue
+    } else if tile.isSolved {
+      return .clear
+    } else if endsWithParticle {
+      return .orange.opacity(0.4)
+    } else {
+      return .clear
+    }
+  }
+  
+  private var currentStrokeStyle: StrokeStyle {
+    let lineWidth: CGFloat = isSelected ? 3 : 1.5
+    let dashes: [CGFloat] = (!isSelected && endsWithParticle) ? [4, 2] : []
+    return StrokeStyle(lineWidth: lineWidth, dash: dashes)
+  }
+  
+  // MARK: - Core Content Presentation Layer
   private var coreButton: some View {
-    // 🚀 CHANGED: Swapped Button for a content wrapper to handle combined gestures cleanly
     ZStack(alignment: .topTrailing) {
       
-      // Forces the label to push out to the exact edges of the cell frame
+      // Removed the grammar tag from inside the ZStack to prevent layout collapsing
+      
+      // Main Text Wrapper
       VStack(spacing: 0) {
         Spacer(minLength: 0)
         
-        // Check if Learn Mode is on AND Furigana is available
         if isAssistModeOn && !tile.furigana.isEmpty {
           RubyTextView(kanji: tile.text, furigana: tile.furigana)
             .multilineTextAlignment(.center)
             .padding(.horizontal, 4)
             .minimumScaleFactor(0.35)
         } else {
-          // Standard fallback using your core balanced Japanese stroke font system
           Text(Self.balancedJapaneseText(for: tile.text, baseSize: 15, isSolved: tile.isSolved))
             .lineLimit(3)
-            .minimumScaleFactor(0.2)
+            .minimumScaleFactor(0.3)
             .multilineTextAlignment(.center)
             .foregroundColor(tile.isSolved ? .black : .primary)
             .padding(.horizontal, 4)
@@ -57,6 +79,7 @@ struct TileView: View {
       }
       .frame(maxWidth: .infinity, maxHeight: .infinity)
       
+      // Selection Checkmark
       if isSelected {
         Image(systemName: "checkmark.circle.fill")
           .font(.caption)
@@ -68,29 +91,40 @@ struct TileView: View {
     .frame(maxWidth: .infinity, maxHeight: .infinity)
     .background(
       tileShape
-        .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
+        .fill(currentBackgroundColor)
         .padding(.leading, mergesLeft ? -1.5 : 0)
         .padding(.trailing, mergesRight ? -1.5 : 0)
     )
     .overlay(
       tileShape
-        .stroke(isSelected ? Color.blue : (tile.isSolved ? Color.clear : (endsWithParticle ? Color.orange.opacity(0.4) : Color.clear)), style: StrokeStyle(lineWidth: isSelected ? 3 : 1.5, dash: !isSelected && endsWithParticle ? [4, 2] : []))
+        .stroke(currentBorderColor, style: currentStrokeStyle)
         .padding(.leading, mergesLeft ? -1.5 : 0)
         .padding(.trailing, mergesRight ? -1.5 : 0)
     )
+    // 🚀 THE FIX: Explicit Top-Leading Overlay ensures it never gets pushed out of bounds
+    .overlay(alignment: .topLeading) {
+      if tile.isSolved {
+        if tile.originalColumnId == 1 || tile.originalColumnId == 0 {
+          // 🚀 Pointing to the newly renamed camelCase property
+          Text(tile.sentenceIndividualGrammarLevel ?? "N/A")
+            .font(.system(size: 11, weight: .black, design: .rounded))
+            .foregroundColor(.black)
+            .padding(.top, 4)
+            .padding(.leading, 6)
+        }
+      }
+    }
     .scaleEffect(tile.isSolved ? 1.02 : 1.0)
-    // 🚀 THE FIX: Handles the selection tap action directly without a standard Button container
     .onTapGesture {
       action()
     }
   }
   
-  
+  // MARK: - Body
   var body: some View {
     if useSquareAspectRatio {
       coreButton
         .aspectRatio(1.0, contentMode: .fit)
-      // 🚀 Trigger speech sequence callback smoothly on long-press
         .onLongPressGesture(minimumDuration: 0.4) {
           onLongPress()
         }
@@ -141,7 +175,6 @@ struct TileView: View {
         singleCharString.appKit.strokeColor = isSolved ? .black : .textColor
 #endif
       } else {
-        // Fall back to the system font so Hiragana/Katakana render properly
         singleCharString.font = .system(size: baseSize)
       }
       combinedString.append(singleCharString)
@@ -150,24 +183,20 @@ struct TileView: View {
   }
 }
 
-
-
+// MARK: - Extensions
 extension TileView {
-  // Add this helper struct at the bottom of TileView.swift
   struct RubyTextView: View {
     let kanji: String
     let furigana: String
     
     var body: some View {
       VStack(alignment: .center, spacing: 1) {
-        // Small Furigana floating on top
         Text(furigana)
           .font(.system(size: 10, weight: .medium))
           .foregroundColor(.blue)
           .minimumScaleFactor(0.5)
           .lineLimit(1)
         
-        // Main Kanji text below
         Text(kanji)
           .font(.system(size: 16, weight: .regular))
           .foregroundColor(.primary)
@@ -175,4 +204,3 @@ extension TileView {
     }
   }
 }
-
