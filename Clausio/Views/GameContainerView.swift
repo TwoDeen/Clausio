@@ -46,15 +46,51 @@ struct GameContainerView: View {
             boardGrid(useSquareLayout: false)
               .layoutPriority(1)
             
-            VStack(spacing: 14) {
-              Spacer()
-              modeCompactToggles
-              Divider().padding(.horizontal, 6)
+            // 🚀 PERFECTLY EVEN VERTICAL SPACING FLOW
+            VStack(spacing: 0) {
+              Spacer(minLength: 0)
               
-              controlButtonsVertical
-              Spacer()
+              Group {
+                // 1. Assist Mode Toggle
+                modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
+                
+                Spacer(minLength: 0)
+                
+                // 2. Learn Mode Toggle
+                modeIconToggle(icon: "brain.head.profile", isOn: $vm.isLearnModeOn)
+                
+                Spacer(minLength: 0)
+                
+                // 3. Shuffle Button
+                Button(action: { withAnimation(.easeInOut) { vm.shuffleIncorrectTiles() } }) {
+                  Image(systemName: "shuffle")
+                    .font(.title)
+                    .frame(width: 44, height: 44)
+                }
+                
+                Spacer(minLength: 0)
+                
+                // 4. New Game Button
+                Button(action: { withAnimation(.easeInOut) { vm.startNewGame() } }) {
+                  Image(systemName: "arrow.clockwise.circle.fill")
+                    .font(.title)
+                    .foregroundColor(.blue)
+                    .frame(width: 44, height: 44)
+                }
+                
+                Spacer(minLength: 0)
+                
+                // 5. Reveal Solution Button
+                Button(action: { withAnimation(.spring()) { vm.revealSolution() } }) {
+                  Image(systemName: "flag.fill")
+                    .font(.title)
+                    .foregroundColor(.blue)
+                    .frame(width: 44, height: 44)
+                }
+              }
+              
+              Spacer(minLength: 0)
             }
-            // Sidebar remains consistently narrow since HUD text is gone
             .frame(width: 56)
           }
           .padding(.horizontal, 8)
@@ -187,14 +223,7 @@ struct GameContainerView: View {
     .buttonStyle(.plain)
   }
   
-  // MARK: - 🎛️ Mode Toggle Icons (Landscape — compact circles for narrow sidebar)
-  private var modeCompactToggles: some View {
-    VStack(spacing: 8) {
-      modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
-      modeIconToggle(icon: "brain.head.profile",        isOn: $vm.isLearnModeOn)
-    }
-  }
-  
+  // MARK: - 🎛️ Mode Toggle Icons (Landscape Configuration Tool)
   private func modeIconToggle(icon: String, isOn: Binding<Bool>) -> some View {
     Button {
       withAnimation(.spring(response: 0.3, dampingFraction: 0.65)) {
@@ -233,48 +262,23 @@ struct GameContainerView: View {
       guard rowComplete else { continue }
       
       completedRows.insert(row)
-      
-      // 🚀 THE FIX: Removed auto-play trigger. Audio will now only play via the long-press gesture on individual tiles.
     }
   }
   
-  // MARK: - Interface Control Layout Blocks
+  // MARK: - Interface Control Layout Blocks (Portrait Layout Tool)
   private var controlButtonsHorizontal: some View {
     HStack(spacing: 40) {
       Button(action: { withAnimation(.easeInOut) { vm.shuffleIncorrectTiles() } }) {
-        Image(systemName: "arrow.2.squarepath").font(.title)
+        Image(systemName: "shuffle").font(.title)
       }
       Button(action: { withAnimation(.easeInOut) { vm.startNewGame() } }) {
-        Image(systemName: "arrow.clockwise.circle.fill").font(.title).foregroundColor(.green)
+        Image(systemName: "arrow.clockwise.circle.fill").font(.title).foregroundColor(.blue)
       }
       Button(action: { withAnimation(.spring()) { vm.revealSolution() } }) {
         Image(systemName: "flag.fill").font(.title).foregroundColor(.blue)
       }
     }
     .padding(.bottom, 30)
-  }
-  
-  private var controlButtonsVertical: some View {
-    VStack(spacing: 28) {
-      Button(action: { withAnimation(.easeInOut) { vm.shuffleIncorrectTiles() } }) {
-        Image(systemName: "arrow.2.squarepath")
-          .font(.title)
-          .frame(width: 44, height: 44)
-      }
-      Button(action: { withAnimation(.easeInOut) { vm.startNewGame() } }) {
-        Image(systemName: "arrow.clockwise.circle.fill")
-          .font(.title)
-          .foregroundColor(.green)
-          .frame(width: 44, height: 44)
-      }
-      Button(action: { withAnimation(.spring()) { vm.revealSolution() } }) {
-        Image(systemName: "flag.fill")
-          .font(.title)
-          .foregroundColor(.blue)
-          .frame(width: 44, height: 44)
-      }
-    }
-    .frame(maxWidth: .infinity)
   }
   
   // MARK: - Native AVSpeech Engine Orchestration

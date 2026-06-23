@@ -46,8 +46,8 @@ struct TileView: View {
         } else {
           // Standard fallback using your core balanced Japanese stroke font system
           Text(Self.balancedJapaneseText(for: tile.text, baseSize: 15, isSolved: tile.isSolved))
-            .lineLimit(2)
-            .minimumScaleFactor(0.4)
+            .lineLimit(3)
+            .minimumScaleFactor(0.2)
             .multilineTextAlignment(.center)
             .foregroundColor(tile.isSolved ? .black : .primary)
             .padding(.horizontal, 4)
