@@ -19,6 +19,33 @@ extension Color {
   }
 }
 
+func colorFromString(_ name: String) -> Color {
+  switch name.lowercased() {
+    case "blue": return .blue
+    case "red": return .red
+    case "green": return .green
+    case "teal": return .teal
+    case "black": return .black
+    case "gray", "grey": return .gray
+    case "white": return .white
+    case "orange": return .orange
+    case "yellow": return .yellow
+    case "pink": return .pink
+    case "purple": return .purple
+    default: return .primary  }
+}
+
+extension Color {
+  static let pastelSakura = Color(red: 0.98, green: 0.89, blue: 0.91)
+  static let pastelMatcha = Color(red: 0.82, green: 0.90, blue: 0.73)
+  static let pastelMomo = Color(red: 1.00, green: 0.85, blue: 0.80)
+  static let pastelAsagi = Color(red: 0.75, green: 0.89, blue: 0.97)
+  static let pastelKobai = Color(red: 0.95, green: 0.83, blue: 0.93)
+  static let pastelShironeri = Color(red: 0.98, green: 0.97, blue: 0.94)
+  static let pastelYamabuki = Color(red: 0.98, green: 0.89, blue: 0.56)
+}
+
+
 // MARK: - Cross-Platform List Style
 struct AdaptiveListStyleModifier: ViewModifier {
   func body(content: Content) -> some View {

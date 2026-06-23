@@ -7,6 +7,8 @@
 //
 
 import SwiftUI
+import CoreText
+
 
 // MARK: - Grid Tile Subview
 struct TileView: View {
@@ -83,51 +85,6 @@ struct TileView: View {
     }
   }
   
-//  // 🚀 THE FIX: A pure, unconstrained button that greedily fills all available space
-//  private var coreButton: some View {
-//    Button(action: action) {
-//      ZStack(alignment: .topTrailing) {
-//        
-//        // Forces the label to push out to the exact edges of the Button frame
-//        VStack(spacing: 0) {
-//          Spacer(minLength: 0)
-//          Text(Self.balancedJapaneseText(for: tile.text, baseSize: 15, isSolved: tile.isSolved))
-//            .lineLimit(2)
-//            .minimumScaleFactor(0.4)
-//            .multilineTextAlignment(.center)
-//            .foregroundColor(tile.isSolved ? .black : .primary)
-//            .padding(.horizontal, 4)
-//          Spacer(minLength: 0)
-//        }
-//        .frame(maxWidth: .infinity, maxHeight: .infinity)
-//        
-//        if isSelected {
-//          Image(systemName: "checkmark.circle.fill")
-//            .font(.caption)
-//            .foregroundColor(.blue)
-//            .padding(4)
-//        }
-//      }
-//      // Ensures the entire expanded rectangle registers tap gestures
-//      .contentShape(Rectangle())
-//    }
-//    .buttonStyle(.plain)
-//    // 🚀 Modifiers applied to the absolute outermost layer guarantee the shape stretches
-//    .frame(maxWidth: .infinity, maxHeight: .infinity)
-//    .background(
-//      tileShape
-//        .fill(tile.isSolved ? accentColor : Color.gray.opacity(0.2))
-//        .padding(.leading, mergesLeft ? -1.5 : 0)
-//        .padding(.trailing, mergesRight ? -1.5 : 0)
-//    )
-//    .overlay(
-//      tileShape
-//        .stroke(isSelected ? Color.blue : (tile.isSolved ? Color.clear : (endsWithParticle ? Color.orange.opacity(0.4) : Color.clear)), style: StrokeStyle(lineWidth: isSelected ? 3 : 1.5, dash: !isSelected && endsWithParticle ? [4, 2] : []))
-//        .padding(.leading, mergesLeft ? -1.5 : 0)
-//        .padding(.trailing, mergesRight ? -1.5 : 0)
-//    )
-//    .scaleEffect(tile.isSolved ? 1.02 : 1.0)
-//  }
   
   var body: some View {
     if useSquareAspectRatio {
@@ -193,46 +150,7 @@ struct TileView: View {
   }
 }
 
-import CoreText
 
-//extension TileView {
-//  static func createRubyText(kanji: String, furigana: String) -> AttributedString {
-//    // If there is no furigana, just return standard text
-//    guard !furigana.isEmpty else {
-//      return AttributedString(kanji)
-//    }
-//    
-//    // 1. Create a mutable attributed string using standard Foundation types
-//    let mutableString = NSMutableAttributedString(string: kanji)
-//    let fullRange = NSRange(location: 0, length: mutableString.length)
-//    
-//    // 2. Set the base font size for the Kanji
-//    mutableString.addAttribute(
-//      .font,
-//      value: UIFont.systemFont(ofSize: 16),
-//      range: fullRange
-//    )
-//    
-//    // 3. Create the CoreText Ruby Annotation object
-//    let rubyProvider = CTRubyAnnotationCreateWithAttributes(
-//      .center,
-//        .none,
-//        .before,
-//      furigana as CFString,
-//      [:] as CFDictionary
-//    )
-//    
-//    // 4. Attach the Ruby attribute safely to the range
-//    mutableString.addAttribute(
-//      kCTRubyAnnotationAttributeName as NSAttributedString.Key,
-//      value: rubyProvider,
-//      range: fullRange
-//    )
-//    
-//    // 5. Safely cast it into SwiftUI's AttributedString wrapper
-//    return AttributedString(mutableString)
-//  }
-//}
 
 extension TileView {
   // Add this helper struct at the bottom of TileView.swift

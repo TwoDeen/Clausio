@@ -3,7 +3,7 @@
 //  Clausio
 //
 //  Created by Mohideen Noordeen on 12/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
+//  Copyright ©️ 2026 Inforill Technologies Private Limited. All rights reserved.
 //
 
 import SwiftUI
@@ -14,9 +14,8 @@ struct StorySelectionView: View {
   @State private var selectedLevel = "N4"
   @State private var isLoading = false
   @State private var errorMessage: String? = nil
-  @State private var searchText = "" // 🔍 Tracks user's search query input
+  @State private var searchText = ""
   
-  // 🚀 NEW STATE: Tracks which feed modality is currently active
   @State private var isNewsModeActive = false
   
   // --- ENVIRONMENT DEFINITIONS ---
@@ -32,13 +31,11 @@ struct StorySelectionView: View {
   
   var onPuzzleLoaded: (GamePayload) -> Void
   
-  // 🧠 Computed property filters database query responses instantly based on matching names
   private var filteredStories: [Story] {
     if searchText.isEmpty {
       return stories
     } else {
       return stories.filter { story in
-        // Extract the clean title segment for searching if in news mode
         let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
         return displayTitle.localizedCaseInsensitiveContains(searchText)
       }
@@ -49,7 +46,6 @@ struct StorySelectionView: View {
     NavigationView {
       VStack(spacing: 0) {
         
-        // 🚀 Content Source Toggle (Switch between Local Books and Live RSS Feed)
         Picker("Content Source", selection: $isNewsModeActive) {
           Text("Aozora Books").tag(false)
           Text("Live NHK Easy").tag(true)
@@ -59,10 +55,9 @@ struct StorySelectionView: View {
         .padding(.vertical, 8)
         .background(Color.platformGroupedBackground)
         .onChange(of: isNewsModeActive) { _ in
-          fetchStoryList() // Auto-refresh rows when user flips mode
+          fetchStoryList()
         }
         
-        // JLPT Difficulty Selector
         VStack(alignment: .leading, spacing: 8) {
           Text("Target Difficulty Level")
             .font(.caption)
@@ -82,7 +77,6 @@ struct StorySelectionView: View {
         .background(Color.platformGroupedBackground)
         Divider()
         
-        // Error Notification Banner
         if let error = errorMessage {
           HStack {
             Image(systemName: "exclamationmark.triangle.fill")
@@ -96,7 +90,6 @@ struct StorySelectionView: View {
           .background(Color.red.opacity(0.1))
         }
         
-        // Content Switcher
         if isLoading {
           Spacer()
           VStack(spacing: 16) {
@@ -111,7 +104,6 @@ struct StorySelectionView: View {
           }
           Spacer()
         } else if filteredStories.isEmpty && !searchText.isEmpty {
-          // Visual feedback specifically for when search yields 0 filter results
           ContentUnavailableView.search(text: searchText)
         } else if stories.isEmpty {
           ContentUnavailableView {
@@ -123,13 +115,11 @@ struct StorySelectionView: View {
               .buttonStyle(.borderedProminent)
           }
         } else {
-          // Render dynamically from the reactive computed filter pipeline
           List(filteredStories) { story in
             Button(action: {
               generateAndLoadPuzzle(for: story)
             }) {
               HStack(spacing: 16) {
-                // 🚀 DYNAMIC ICON: Swap book icon for a news panel card graphic when reading RSS
                 Image(systemName: isNewsModeActive ? "newspaper.fill" : "book.closed.fill")
                   .font(.title2)
                   .foregroundColor(.accentColor)
@@ -138,14 +128,12 @@ struct StorySelectionView: View {
                   .cornerRadius(8)
                 
                 VStack(alignment: .leading, spacing: 4) {
-                  // 🚀 STRIP ID OUT OF RENDER LAYER: Show only the clean headline string
                   let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
                   
                   Text(displayTitle)
                     .font(.headline)
                     .foregroundColor(.primary)
                   
-                  // Hide internal server path tokens when viewing dynamic news
                   if !isNewsModeActive {
                     Text(story.relative_path)
                       .font(.caption2)
@@ -170,7 +158,6 @@ struct StorySelectionView: View {
         }
       }
       .navigationTitle(isNewsModeActive ? "NHK Easy News" : "Clausio Stories")
-      // 🔍 Appends the native platform search bar interaction layer right under the title block
 #if os(iOS)
       .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search items by title...")
 #else
@@ -182,13 +169,16 @@ struct StorySelectionView: View {
   
   // --- SERVICE FUNCTIONS (API LAYER) ---
   func fetchStoryList() {
-    // 🚀 TARGET ROUTE MODIFIER: Select correct API channel based on source toggle
     let targetEndpoint = isNewsModeActive ? "/api/news/topics" : "/api/stories"
     guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
     errorMessage = nil
-    stories = [] // Instantly clear grid list to visually indicate transition reload
+    stories = []
     
-    URLSession.shared.dataTask(with: url) { data, response, error in
+    // 🚀 THE FIX 1: Force iOS to ignore its saved cache and fetch fresh from your server!
+    var request = URLRequest(url: url)
+    request.cachePolicy = .reloadIgnoringLocalCacheData
+    
+    URLSession.shared.dataTask(with: request) { data, response, error in
       if let error = error {
         DispatchQueue.main.async {
           self.errorMessage = "Connection failed: \(error.localizedDescription)"
@@ -199,7 +189,6 @@ struct StorySelectionView: View {
       guard let data = data else { return }
       
       do {
-        // News topics array maps key to "topics", classic books map to "stories"
         let listKey = isNewsModeActive ? "topics" : "stories"
         
         let jsonDict = try JSONSerialization.jsonObject(with: data) as? [String: Any]
@@ -207,18 +196,20 @@ struct StorySelectionView: View {
           throw NSError(domain: "", code: -1, userInfo: [NSLocalizedDescriptionKey: "Invalid dictionary array target structure"])
         }
         
-        // Re-map keys smoothly into your existing Story memberwise structure layout
         let parsedItems = listArray.compactMap { dict -> Story? in
           if isNewsModeActive {
             let newsId = dict["id"] as? String ?? UUID().uuidString
             let cleanTitle = dict["title"] as? String ?? "Untitled News"
             
-            // 🚀 DELIMITER INJECTION: Pack unique id safely into the struct initializer
             let packedName = "\(newsId)|\(cleanTitle)"
+            
+            // 🚀 THE FIX 2: Inject a UUID into the path to guarantee SwiftUI NEVER collides IDs!
+            let serverPath = dict["summary_html"] as? String ?? ""
+            let safeUniquePath = "\(serverPath)|[\(UUID().uuidString)]"
             
             return Story(
               name: packedName,
-              relative_path: dict["summary_html"] as? String ?? ""
+              relative_path: safeUniquePath
             )
           } else {
             return Story(
@@ -240,7 +231,6 @@ struct StorySelectionView: View {
   }
   
   func generateAndLoadPuzzle(for story: Story) {
-    // 🚀 TARGET ROUTE MODIFIER: Forward requests to the live compilation block when necessary
     let targetEndpoint = isNewsModeActive ? "/api/news/puzzle/generate" : "/api/puzzle/generate"
     guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
     
@@ -256,13 +246,12 @@ struct StorySelectionView: View {
     var bodyPayload: [String: String] = [:]
     
     if isNewsModeActive {
-      // 🚀 DELIMITER UNPACKING: Slice string components back into separate logical elements
       let components = story.name.components(separatedBy: "|")
       let extractedId = components.first ?? UUID().uuidString
       
       bodyPayload = [
         "news_id": extractedId,
-        "summary_html": story.relative_path, // Passes down the 5-sentence paragraph string context
+        "summary_html": story.relative_path,
         "level": selectedLevel
       ]
     } else {

@@ -144,14 +144,23 @@ class GameViewModel: ObservableObject {
     }
   }
   
+//  pastelSakura = Color(red: 0.98, green: 0.89, blue: 0.91)
+//  static let pastelMatcha = Color(red: 0.82, green: 0.90, blue: 0.73)
+//  static let pastelMomo = Color(red: 1.00, green: 0.85, blue: 0.80)
+//  static let pastelAsagi = Color(red: 0.75, green: 0.89, blue: 0.97)
+//  static let pastelKobai = Color(red: 0.95, green: 0.83, blue: 0.93)
+//  static let pastelShironeri = Color(red: 0.98, green: 0.97, blue: 0.94)
+//  static let pastelYamabuki = Color(red: 0.98, green: 0.89, blue: 0.56)
+
+  
   func colorForCategory(_ originalRowId: Int) -> Color {
     switch originalRowId {
-      case 1: return .yellow
-      case 2: return .green
-      case 3: return .blue
-      case 4: return .purple
-      case 5: return .orange
-      default: return .gray
+      case 1: return .pastelSakura
+      case 2: return .pastelMatcha
+      case 3: return .pastelAsagi
+      case 4: return .pastelKobai
+      case 5: return .pastelMomo
+      default: return .pastelShironeri
     }
   }
 }
