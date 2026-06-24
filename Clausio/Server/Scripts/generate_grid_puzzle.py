@@ -183,9 +183,20 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
 
 def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict, target_level: str) -> dict:
     import spacy
+    
+    # 1. Added the required GiNZa config to prevent the model from crashing
+    config = {
+        "components": {
+            "compound_splitter": {
+                "split_mode": "C",
+            }
+        }
+    }
+    
     try:
-        nlp = spacy.load("ja_ginza")
-    except Exception:
+        nlp = spacy.load("ja_ginza", config=config)
+    except Exception as e:
+        print(f"Error loading GiNZa in news module: {e}", file=sys.stderr)
         nlp = None
 
     target_level = target_level.upper().strip()
@@ -198,11 +209,16 @@ def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict
     for row_idx, sentence_text in enumerate(five_sentences_list):
         sentence_id = row_idx + 1
         
-        # 🚀 RE-ADDED: Analyze live NHK sentence grammar!
-        detected_level = "N5"
+         # --- ADD THESE 3 DEBUG PRINTS ---
+        print(f"\n[DEBUG] Processing Sentence: {sentence_text[:30]}...")
+        print(f"[DEBUG] Is GiNZa NLP loaded?: {nlp is not None}")
+        
+        # 🚀 Analyze live NHK sentence grammar!
+        detected_level = "N5"  # Fallback only triggers if nlp fails
         if nlp:
             doc = nlp(sentence_text)
             detected_level, _ = analyze_sentence_grammar(doc)
+            print(f"[DEBUG] complete_jlpt_analyzer returned: {detected_level}") 
             
         current_weight = level_hierarchy.get(detected_level, 1)
         if current_weight > highest_weight_encountered:
@@ -226,7 +242,6 @@ def build_puzzle_from_news_tokens(five_sentences_list: list, furigana_dict: dict
                 "parent_sentence_id": sentence_id,
                 "clause_text": clause_text,
                 "furigana": clause_furigana,
-                # 🚀 RE-ADDED: Inject the grammar level into the node!
                 "sentence_individual_grammar_level": detected_level
             }
             puzzle_grid.append(clause_node)

@@ -66,10 +66,12 @@ def list_available_stories():
 
 
 @app.get("/api/news/topics")
-def get_news_topics():
-    """Fetches real-time headlines from NHK Web Easy for the SwiftUI selector screen."""
+def get_news_topics(level: str = "N4"):
+    """Fetches real-time headlines from the source appropriate for the requested level.
+       N5/N4 → NHK Web Easy  |  N3/N2/N1 → NHK Regular News
+    """
     try:
-        news_feeds = fetch_nhk_news_topics()
+        news_feeds = fetch_nhk_news_topics(level)
         return {"status": "success", "topics": news_feeds}
     except Exception as e:
         print(f"RSS Fetch Error: {e}")

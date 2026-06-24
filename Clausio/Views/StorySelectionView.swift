@@ -58,6 +58,10 @@ struct StorySelectionView: View {
           fetchStoryList()
         }
         
+        .onChange(of: selectedLevel) { _ in
+          if isNewsModeActive { fetchStoryList() }
+        }
+        
         VStack(alignment: .leading, spacing: 8) {
           Text("Target Difficulty Level")
             .font(.caption)
@@ -169,8 +173,14 @@ struct StorySelectionView: View {
   
   // --- SERVICE FUNCTIONS (API LAYER) ---
   func fetchStoryList() {
-    let targetEndpoint = isNewsModeActive ? "/api/news/topics" : "/api/stories"
+    let targetEndpoint: String
+    if isNewsModeActive {
+      targetEndpoint = "/api/news/topics?level=\(selectedLevel)"  // ← add this
+    } else {
+      targetEndpoint = "/api/stories"
+    }
     guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
+
     errorMessage = nil
     stories = []
     

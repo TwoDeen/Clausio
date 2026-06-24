@@ -3,11 +3,42 @@ import os
 import json
 import spacy
 
+# Load the JSON Database globally so it doesn't repeatedly read from disk
+DB_PATH = os.path.join(os.path.dirname(__file__), "jlpt_grammar_database.json")
+GRAMMAR_DB = {}
+if os.path.exists(DB_PATH):
+    with open(DB_PATH, "r", encoding="utf-8") as f:
+        GRAMMAR_DB = json.load(f)
+else:
+    print(f"Warning: '{DB_PATH}' not found. JSON string-matching will be skipped.", file=sys.stderr)
+
+
+def check_json_rules(level: str, full_text_string: str, full_lemma_string: str, text_tokens: list, lemmas: list):
+    """Iterates through the JSON database for the specific JLPT level."""
+    if level not in GRAMMAR_DB:
+        return None
+        
+    for rule in GRAMMAR_DB[level]:
+        pattern = rule["pattern"]
+        m_type = rule["match_type"]
+        
+        if m_type == "text" and pattern in full_text_string:
+            return level, rule["desc"]
+        elif m_type == "lemma" and pattern in full_lemma_string:
+            return level, rule["desc"]
+        elif m_type == "text_list" and pattern in text_tokens:
+            return level, rule["desc"]
+        elif m_type == "lemma_list" and pattern in lemmas:
+            return level, rule["desc"]
+            
+    return None
+
+
 def analyze_sentence_grammar(doc) -> tuple:
     """
-    Analyzes the parsed token sequence of a sentence using GiNZa/spaCy.
-    Evaluates an expansive matrix of morphological rules from N1 down to N5.
-    Returns: (JLPT_Level, Grammar_Pattern_Description)
+    Hybrid Analyzer: 
+    1. Checks the scalable JSON database for standard string patterns.
+    2. Runs deep morphological loops for complex conjugation patterns.
     """
     lemmas = [token.lemma_ for token in doc]
     pos_tags = [token.pos_ for token in doc]
@@ -17,118 +48,83 @@ def analyze_sentence_grammar(doc) -> tuple:
     full_text_string = "".join(text_tokens)
 
     # ----------------------------------------------------------------------
-    # 1. LEVEL N1: LITERARY CONJUNCTIONS & CLASSICAL EXPRESSIONS
+    # LEVEL N1
     # ----------------------------------------------------------------------
-    if "んがため" in full_lemma_string or "がために" in full_text_string:
-        return "N1", "んがために / For the explicit purpose of"
-    if "まじき" in full_lemma_string:
-        return "N1", "まじき / Impermissible / Crucial moral restriction"
-    if "極まりない" in full_lemma_string or "きわまりない" in full_lemma_string:
-        return "N1", "極まりない / Extremely / Boundless state"
-    if "ともなると" in full_text_string or "ともなれば" in full_text_string:
-        return "N1", "ともなると / Once a condition progresses to an extreme"
-    if "ずにはすまない" in full_lemma_string:
-        return "N1", "ずにはすまない / Cannot avoid executing an action"
-    if "を限りに" in full_text_string or "をかぎりに" in full_text_string:
-        return "N1", "を限りに / Starting from / Until the very end of"
-    if "が早いか" in full_lemma_string:
-        return "N1", "が早いか / As soon as / Immediately after"
-    if "にかたくない" in full_lemma_string or "に難くない" in full_lemma_string:
-        return "N1", "にかたくない / Not difficult to (imagine/comprehend)"
+    json_match = check_json_rules("N1", full_text_string, full_lemma_string, text_tokens, lemmas)
+    if json_match: return json_match
 
     # ----------------------------------------------------------------------
-    # 2. LEVEL N2: FORMAL ARGUMENTS, CONDITIONALS & SPECIAL COMPULSIONS
+    # LEVEL N2
     # ----------------------------------------------------------------------
-    if "わけにはいかない" in full_lemma_string or "わけには行かない" in full_lemma_string:
-        return "N2", "わけにはいかない / Cannot afford to due to social code"
-    if "にちがいない" in full_lemma_string or "に違い無い" in full_lemma_string:
-        return "N2", "に違いない / Without a single shred of doubt"
-    if "をめぐって" in full_lemma_string or "を巡って" in full_lemma_string:
-        return "N2", "をめぐって / Concerning / Centering surrounding a debate"
-    if "にかかわらず" in full_lemma_string or "に関わらず" in full_lemma_string:
-        return "N2", "にかかわらず / Regardless of the condition"
-    if "かねない" in full_lemma_string:
-        return "N2", "かねない / Highly prone to a negative consequence"
-    if "がちだ" in full_lemma_string or "がち" in lemmas:
-        return "N2", "がち / Frequent / Unfavorable trend tendency"
-    if "によって" in full_text_string or "により" in full_text_string:
-        return "N2", "によって / Depending on / By means of / Due to"
-    if "最中に" in full_text_string or "最中だ" in full_text_string:
-        return "N2", "最中に / In the middle of an ongoing action"
-    if "反面" in lemmas or "半面" in lemmas:
-        return "N2", "反面 / On the other hand / Contrasting aspect"
-    if "つつある" in full_text_string or "つつあつ" in full_text_string:
-        return "N2", "つつある / In the process of continuous change"
+    json_match = check_json_rules("N2", full_text_string, full_lemma_string, text_tokens, lemmas)
+    if json_match: return json_match
 
     # ----------------------------------------------------------------------
-    # 3. LEVEL N3: EXPECTATIONS, COMPLEX MODIFIERS & MODAL ENDINGS
+    # LEVEL N3
     # ----------------------------------------------------------------------
+    json_match = check_json_rules("N3", full_text_string, full_lemma_string, text_tokens, lemmas)
+    if json_match: return json_match
+
+    # Complex N3 Morphology Rules (Cannot be handled by JSON safely)
     if "はず" in lemmas:
         hazu_idx = lemmas.index("はず")
         if pos_tags[hazu_idx] in ["NOUN", "PRON"]:
             return "N3", "はずだ / Strong logical expectation"
-            
     if "ばかり" in lemmas:
         bakari_idx = lemmas.index("ばかり")
         if bakari_idx > 0 and text_tokens[bakari_idx - 1] in ["た", "だ", "つた"]:
             return "N3", "たばかり / Just completed executing an action moments ago"
-            
     if "おわる" in lemmas or "終る" in lemmas:
         return "N3", "〜終わる / Completing the execution of a continuous action"
-    if "うちに" in full_text_string:
-        return "N3", "うちに / While a temporary condition holds true"
     if "決して" in lemmas and any(t in full_text_string for t in ["ない", "ぬ", "ません"]):
         return "N3", "決して〜ない / Absolute negation / By no means"
-    if "みたいだ" in full_lemma_string or "みたい" in lemmas:
-        return "N3", "みたいだ / Looks like / Resembles a state"
-    if "代わりに" in full_text_string or "かわりに" in full_text_string:
-        return "N3", "代わりに / In exchange for / Instead of"
     if "たとえ" in lemmas and any(t in full_text_string for t in ["ても", "でも"]):
         return "N3", "たとえ〜ても / Even if a condition is met"
 
     # ----------------------------------------------------------------------
-    # 4. LEVEL N4: COMPLEX SUFFIX INFLECTIONS, INTENTIONS & TRANSITIONS
+    # LEVEL N4
     # ----------------------------------------------------------------------
-    if "ながら" in lemmas:
-        return "N4", "ながら / Simultaneous execution / Performing two tasks at once"
-        
+    json_match = check_json_rules("N4", full_text_string, full_lemma_string, text_tokens, lemmas)
+    if json_match: return json_match
+
+    # Complex N4 Morphology Rules
     if "おく" in lemmas and "て" in text_tokens:
         return "N4", "ておく / Performing an action in advance preparation"
-        
     if "しまう" in lemmas and any(t in text_tokens for t in ["て", "で"]):
         return "N4", "てしまう / Regret / Definitively completed state"
-        
     if "やすい" in lemmas and any(p == "VERB" for p in pos_tags):
         return "N4", "〜やすい / High tendency / Exceptionally easy to perform"
-        
     if "にくい" in lemmas and any(p == "VERB" for p in pos_tags):
         return "N4", "〜にくい / Resistant / Exceptionally difficult to perform"
-
-    # Look for compound conditional junctions (e.g., 〜たら, 〜ば)
     if "たら" in text_tokens or "だら" in text_tokens:
         return "N4", "〜たら / Conditional connection / Past-based if-then context"
 
-    # Deep morphological check for stacked functional auxiliary suffixes
-    for token in doc:
-        # Potential forms (Can do: 読める, 出来る)
+    # Deep morphological token loop (Combines N3/N4 inflection checks)
+    for i, token in enumerate(doc):
+        # N3 Formal stem-conjunctions (連用中止) e.g., 発達し、
+        if token.pos_ == "VERB" and token.text in ["し", "り", "き", "み", "ち", "ぎ", "び", "に", "い"]:
+            if i + 1 < len(doc) and doc[i+1].pos_ == "PUNCT" and doc[i+1].text in ["、", "，", ","]:
+                return "N3", "連用中止 (Stem Conjunction) / Formal written 'and'"
+        # N4 Potential forms (Can do: 読める, 出来る)
         if "れる" in token.lemma_ and token.pos_ == "AUX" and "受動" not in token.tag_:
             return "N4", "可能形 (Potential Form) / Possesses capability to execute"
-            
-        # Causative forms (Make/Let do: させる, せる)
+        # N4 Causative forms (Make/Let do: させる, せる)
         if "せる" in token.lemma_ and token.pos_ == "AUX" and "使役" in token.tag_:
             return "N4", "使役形 (Causative Form) / Inducing or permitting an action"
-            
-        # Passive voice markers (Was done to: 倒れる, 食べられる)
+        # N4 Passive voice markers (Was done to: 倒れる, 食べられる)
         if "れる" in token.lemma_ and token.pos_ == "AUX" and "受動" in token.tag_:
             return "N4", "受動形 (Passive Voice) / Subject undergoes action consequence"
-            
-        # Volitional intentional plans (〜ようと思う)
+        # N4 Volitional intentional plans (〜ようと思う)
         if token.lemma_ == "思う" and "よう" in text_tokens:
             return "N4", "意向形+と思う / Expressing personal volitional intention"
 
     # ----------------------------------------------------------------------
-    # 5. LEVEL N5: PRIMARY PARTICLES, POLITE FORMS & CONTINUOUS ACTIONS
+    # LEVEL N5
     # ----------------------------------------------------------------------
+    json_match = check_json_rules("N5", full_text_string, full_lemma_string, text_tokens, lemmas)
+    if json_match: return json_match
+
+    # Base N5 Check
     if "いる" in lemmas and any(t in text_tokens for t in ["て", "で"]):
         return "N5", "ている / Progressive continuous state / Habitual ongoing action"
     if "ください" in lemmas or "下さる" in lemmas:
