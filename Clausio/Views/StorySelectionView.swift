@@ -22,7 +22,7 @@ struct StorySelectionView: View {
   let levels = ["N5", "N4", "N3", "N2", "N1"]
   
   var backendURL: String {
-#if targetEnvironment(simulator)
+#if targetEnvironment(simulator) || os(macOS)
     return "http://localhost:8000"
 #else
     return "http://192.168.1.126:8000" // Local Network IP
