@@ -28,9 +28,9 @@ try:
     from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
     from news_service import fetch_nhk_news_topics, scrape_article_sentences_and_furigana
     LIVE_MODE = True
-except Exception:
+except (Exception, SystemExit):  # <-- ADDED SystemExit HERE
     LIVE_MODE = False
-
+    
 app = FastAPI(title="Clausio API")
 app.add_middleware(
     CORSMiddleware,
