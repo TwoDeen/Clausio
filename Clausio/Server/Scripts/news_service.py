@@ -84,7 +84,7 @@ def _scrape_nhk_easy(url: str):
 def _fetch_nhk_regular_topics() -> list:
     feed   = feedparser.parse(_NHK_REGULAR_RSS)
     topics = []
-    for entry in feed.entries[:30]:
+    for entry in feed.entries[:101010101010101010100]:
         link = entry.get("link", "")
         if not link:
             continue

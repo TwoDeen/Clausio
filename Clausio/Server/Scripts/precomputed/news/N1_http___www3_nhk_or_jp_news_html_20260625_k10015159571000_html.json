@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N1",
+  "highest_grammar_level_encountered": "N3",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "気象庁と国土交通省は午後2時から",
+      "furigana": "気象庁と国土交通省は午後2時から",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "合同で記者会見を開き、",
+      "furigana": "合同で記者会見を開き、",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "台風や梅雨前線の影響について、",
+      "furigana": "台風や梅雨前線の影響について、",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "今後の見通しや警戒点を",
+      "furigana": "今後の見通しや警戒点を",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "説明しました。",
+      "furigana": "説明しました。",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "このなかで、気象庁の池田",
+      "furigana": "このなかで、気象庁の池田",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "徹主任予報官は「梅雨前線が",
+      "furigana": "徹主任予報官は「梅雨前線が",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "西日本から東日本の太平洋",
+      "furigana": "西日本から東日本の太平洋",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "側に停滞し、活動が",
+      "furigana": "側に停滞し、活動が",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "活発になっている。",
+      "furigana": "活発になっている。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "西日本から",
+      "furigana": "西日本から",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "東日本では梅雨",
+      "furigana": "東日本では梅雨",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "前線による大雨が",
+      "furigana": "前線による大雨が",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "27日土曜日ごろにかけ",
+      "furigana": "27日土曜日ごろにかけ",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "て続く見込みです。",
+      "furigana": "て続く見込みです。",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "台風7号は、26日にかけて",
+      "furigana": "台風7号は、26日にかけて",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "沖縄・奄美に接近し、27日にかけて",
+      "furigana": "沖縄・奄美に接近し、27日にかけて",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "速度を速めながら九州・",
+      "furigana": "速度を速めながら九州・",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "四国・近畿・東海・関東",
+      "furigana": "四国・近畿・東海・関東",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "甲信に接近するおそれがあります。",
+      "furigana": "甲信に接近するおそれがあります。",
+      "sentence_individual_grammar_level": "N3"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "台風8号は27日に",
+      "furigana": "台風8号は27日に",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "日本の南で",
+      "furigana": "日本の南で",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "熱帯低気圧に変わり、",
+      "furigana": "熱帯低気圧に変わり、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "暖かく湿った空気が梅雨",
+      "furigana": "暖かく湿った空気が梅雨",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "前線に流れ込む見込みです。",
+      "furigana": "前線に流れ込む見込みです。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

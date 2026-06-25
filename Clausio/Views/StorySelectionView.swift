@@ -146,23 +146,34 @@ struct StorySelectionView: View {
   
   func fetchNews(level: String) {
     guard let url = URL(string: "\(baseURL)/api/news/topics?level=\(level)") else { return }
+    
     URLSession.shared.dataTask(with: url) { data, response, error in
       DispatchQueue.main.async {
         self.isLoadingList = false
         if let error = error { self.errorMessage = error.localizedDescription; return }
         guard let data = data else { self.errorMessage = "No data"; return }
         
+        // DEBUG: Print the raw string to see what the API actually sent
+        if let rawString = String(data: data, encoding: .utf8) {
+          print("DEBUG: Raw JSON received: \(rawString)")
+        }
+        
         do {
           let decoded = try JSONDecoder().decode(NewsAPIResponse.self, from: data)
           self.newsTopics = decoded.topics
-        } catch {
-          self.errorMessage = "Failed parsing news list."
-          print("News Decode Error: \(error)")
-          
-          // Debug tool: Print exactly what Render sent back!
-          if let rawJSON = String(data: data, encoding: .utf8) {
-            print("RAW SERVER RESPONSE: \(rawJSON)")
+        } catch let error as DecodingError {
+          // Pinpoint the exact field that failed
+          switch error {
+            case .keyNotFound(let key, _):
+              self.errorMessage = "Missing key: \(key.stringValue)"
+            case .typeMismatch(let type, _):
+              self.errorMessage = "Type mismatch: \(type)"
+            default:
+              self.errorMessage = "Decoding failed"
           }
+          print("News Decode Error: \(error)")
+        } catch {
+          self.errorMessage = "Unknown error"
         }
       }
     }.resume()
