@@ -24,7 +24,8 @@ app.add_middleware(
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STORIES_DIR = os.path.join(BASE_DIR, "Stories")
 
-CACHE_DIR = os.path.join(tempfile.gettempdir(), "ClausioCache")
+# CACHE_DIR = os.path.join(tempfile.gettempdir(), "ClausioCache")
+CACHE_DIR = os.environ.get("CACHE_DIR", os.path.join(tempfile.gettempdir(), "ClausioCache"))
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 print(f"--> System initialized.")

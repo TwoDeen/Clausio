@@ -11,7 +11,7 @@ Coverage:
   1. Puzzle schema / structure (25 nodes, required fields on every node)
   2. `sentence_individual_grammar_level` always present & valid
        ← PRIMARY REGRESSION TEST for the N/A display bug
-  3. Grammar level detection ordering (N1 sentences detected as ≥ N5 on average)
+  3. Grammar level detection ordering (N1 sentences detected as >= N5 on average)
        ← skipped automatically when GiNZA is not installed
   4. FastAPI endpoint integration via TestClient
        /api/news/puzzle/generate  (mocked scraper, works without GiNZA)
@@ -48,7 +48,7 @@ REQUIRED_NODE_KEYS = {
     "sentence_individual_grammar_level",  # ← the field whose absence caused N/A
 }
 
-# ── Session-scoped GiNZA availability fixture ─────────────────────────────────
+# ── Session-scoped fixtures ───────────────────────────────────────────────────
 
 @pytest.fixture(scope="session")
 def ginza_available() -> bool:
@@ -62,7 +62,7 @@ def ginza_available() -> bool:
 
 @pytest.fixture(scope="session")
 def client():
-    """Session-scoped TestClient. Created once, reused across all tests."""
+    """Session-scoped TestClient — created once, reused across all tests."""
     with TestClient(app) as c:
         yield c
 
@@ -189,17 +189,15 @@ N1 = [
 # ── Batch helpers ─────────────────────────────────────────────────────────────
 
 def _batches(lst: list, size: int = 5) -> list[list]:
-    """Split a list into consecutive chunks of `size`."""
     it = iter(lst)
     return list(iter(lambda: list(islice(it, size)), []))
 
 
 def _build(sentences: list[str], level: str = "N4") -> dict:
-    """Call the news-token puzzle builder with no furigana dict."""
     return build_puzzle_from_news_tokens(sentences[:5], {}, level)
 
 
-# Parametrize IDs covering all 100 sentences (4 batches × 5 levels = 20 cases)
+# 20 parametrized cases: 4 batches × 5 levels
 LEVEL_BATCHES = [
     pytest.param(level, idx, batch, id=f"{level}-batch{idx + 1}")
     for level, sentences in [
@@ -208,28 +206,29 @@ LEVEL_BATCHES = [
     for idx, batch in enumerate(_batches(sentences))
 ]
 
+# ── Shared API fixtures ───────────────────────────────────────────────────────
+
+NEWS_REQUEST_BASE = {
+    "news_id":      "https://mock-nhk.jp/article/99999",
+    "summary_html": "",
+    "level":        "N5",
+}
+
 
 # ══════════════════════════════════════════════════════════════════════════════
 # 1 — Puzzle schema / structure
 # ══════════════════════════════════════════════════════════════════════════════
 
 class TestPuzzleSchema:
-    """
-    Structural guarantees that must hold for every puzzle payload
-    regardless of language level or GiNZA availability.
-    """
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_grid_has_25_nodes(self, level, idx, batch):
-        payload = _build(batch, level)
-        assert len(payload["grid_matrix"]) == 25, (
-            f"{level} batch {idx + 1}: expected 25 nodes, got {len(payload['grid_matrix'])}"
-        )
+        assert len(_build(batch, level)["grid_matrix"]) == 25
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
-    def test_total_grid_clauses_field_matches_matrix_length(self, level, idx, batch):
-        payload = _build(batch, level)
-        assert payload["total_grid_clauses"] == len(payload["grid_matrix"])
+    def test_total_grid_clauses_matches_matrix_length(self, level, idx, batch):
+        p = _build(batch, level)
+        assert p["total_grid_clauses"] == len(p["grid_matrix"])
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_each_row_has_exactly_5_columns(self, level, idx, batch):
@@ -237,113 +236,78 @@ class TestPuzzleSchema:
         for row in range(1, 6):
             row_nodes = [n for n in payload["grid_matrix"]
                          if n["grid_coordinates"]["row"] == row]
-            assert len(row_nodes) == 5, (
-                f"{level} batch {idx + 1}: row {row} has {len(row_nodes)} columns"
-            )
+            assert len(row_nodes) == 5, \
+                f"{level} batch {idx+1}: row {row} has {len(row_nodes)} columns"
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_clause_ids_are_unique_and_sequential(self, level, idx, batch):
-        payload = _build(batch, level)
-        ids = [n["clause_id"] for n in payload["grid_matrix"]]
-        assert sorted(ids) == list(range(1, 26)), (
-            f"{level} batch {idx + 1}: clause_id sequence broken: {ids}"
-        )
+        ids = [n["clause_id"] for n in _build(batch, level)["grid_matrix"]]
+        assert sorted(ids) == list(range(1, 26))
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
-    def test_clause_text_is_non_empty_for_all_nodes(self, level, idx, batch):
-        payload = _build(batch, level)
-        for node in payload["grid_matrix"]:
-            assert node["clause_text"].strip(), (
-                f"{level} batch {idx + 1}: empty clause_text at "
-                f"row={node['grid_coordinates']['row']} "
-                f"col={node['grid_coordinates']['column']}"
-            )
+    def test_clause_text_non_empty(self, level, idx, batch):
+        for node in _build(batch, level)["grid_matrix"]:
+            assert node["clause_text"].strip()
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_top_level_payload_keys_present(self, level, idx, batch):
         payload = _build(batch, level)
         for key in ("target_level_requested", "highest_grammar_level_encountered",
                     "total_grid_clauses", "puzzle_solution_flow", "grid_matrix"):
-            assert key in payload, f"{level} batch {idx + 1}: missing top-level key '{key}'"
+            assert key in payload
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_highest_grammar_level_is_valid(self, level, idx, batch):
-        payload = _build(batch, level)
-        hgl = payload["highest_grammar_level_encountered"]
-        assert hgl in VALID_LEVELS, (
-            f"{level} batch {idx + 1}: highest_grammar_level_encountered = '{hgl}'"
-        )
+        assert _build(batch, level)["highest_grammar_level_encountered"] in VALID_LEVELS
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 2 — sentence_individual_grammar_level field (PRIMARY REGRESSION TEST)
+# 2 — sentence_individual_grammar_level field  (PRIMARY REGRESSION TEST)
 #
-#     This class directly tests the bug that caused "N/A" in TileView.
-#     The root cause chain was:
-#       ClauseNode missing `sentence_individual_grammar_level`
+#     This is the regression test for the bug that caused "N/A" in TileView.
+#     Root cause chain:
+#       ClauseNode missing sentence_individual_grammar_level
 #         → Tile.sentenceIndividualGrammarLevel = nil
 #           → TileView shows "N/A"
-#     All tests here must pass even without GiNZA installed.
 # ══════════════════════════════════════════════════════════════════════════════
 
 class TestGrammarLevelField:
-    """
-    Regression tests for the N/A display bug.
-    `sentence_individual_grammar_level` must be present and valid on EVERY
-    clause node in EVERY puzzle payload, for all 100 sentences.
-    """
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_field_present_on_every_node(self, level, idx, batch):
-        """
-        THE regression test. Before the fix, this field was absent,
-        causing tile.sentenceIndividualGrammarLevel to be nil in Swift
-        and 'N/A' to render in TileView.
-        """
+        """THE regression test — field must exist on all 25 nodes."""
         payload = _build(batch, level)
         missing = [
             (n["grid_coordinates"]["row"], n["grid_coordinates"]["column"])
             for n in payload["grid_matrix"]
             if "sentence_individual_grammar_level" not in n
         ]
-        assert not missing, (
-            f"{level} batch {idx + 1}: `sentence_individual_grammar_level` "
-            f"absent on nodes at positions: {missing}"
-        )
+        assert not missing, \
+            f"{level} batch {idx+1}: field absent at positions {missing}"
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_field_value_is_not_none(self, level, idx, batch):
-        payload = _build(batch, level)
         null_nodes = [
             (n["grid_coordinates"]["row"], n["grid_coordinates"]["column"])
-            for n in payload["grid_matrix"]
+            for n in _build(batch, level)["grid_matrix"]
             if n.get("sentence_individual_grammar_level") is None
         ]
-        assert not null_nodes, (
-            f"{level} batch {idx + 1}: `sentence_individual_grammar_level` "
-            f"is None on nodes at: {null_nodes}"
-        )
+        assert not null_nodes, \
+            f"{level} batch {idx+1}: field is None at {null_nodes}"
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_field_value_is_valid_jlpt_level(self, level, idx, batch):
-        """Value must be one of N1-N5 — never an empty string or arbitrary text."""
-        payload = _build(batch, level)
         invalid = [
             (n["grid_coordinates"]["row"], n["grid_coordinates"]["column"],
              n.get("sentence_individual_grammar_level"))
-            for n in payload["grid_matrix"]
+            for n in _build(batch, level)["grid_matrix"]
             if n.get("sentence_individual_grammar_level") not in VALID_LEVELS
         ]
-        assert not invalid, (
-            f"{level} batch {idx + 1}: invalid grammar level values: {invalid}"
-        )
+        assert not invalid, \
+            f"{level} batch {idx+1}: invalid grammar values {invalid}"
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_all_tiles_in_same_row_share_same_level(self, level, idx, batch):
-        """
-        All 5 columns of a row come from the same sentence, so they must all
-        carry the same detected grammar level.
-        """
         payload = _build(batch, level)
         for row in range(1, 6):
             row_levels = {
@@ -351,41 +315,31 @@ class TestGrammarLevelField:
                 for n in payload["grid_matrix"]
                 if n["grid_coordinates"]["row"] == row
             }
-            assert len(row_levels) == 1, (
-                f"{level} batch {idx + 1}: row {row} has mixed grammar levels: {row_levels}"
-            )
+            assert len(row_levels) == 1, \
+                f"{level} batch {idx+1}: row {row} has mixed levels {row_levels}"
 
     @pytest.mark.parametrize("level,idx,batch", LEVEL_BATCHES)
     def test_required_node_keys_all_present(self, level, idx, batch):
-        """Every node must carry the full set of keys expected by ClauseNode."""
-        payload = _build(batch, level)
-        for node in payload["grid_matrix"]:
-            missing_keys = REQUIRED_NODE_KEYS - node.keys()
-            assert not missing_keys, (
-                f"{level} batch {idx + 1}: node "
-                f"row={node['grid_coordinates']['row']} "
-                f"col={node['grid_coordinates']['column']} "
-                f"is missing keys: {missing_keys}"
-            )
+        for node in _build(batch, level)["grid_matrix"]:
+            missing = REQUIRED_NODE_KEYS - node.keys()
+            assert not missing, \
+                (f"{level} batch {idx+1}: node row="
+                 f"{node['grid_coordinates']['row']} "
+                 f"col={node['grid_coordinates']['column']} "
+                 f"missing keys {missing}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 3 — Grammar level detection accuracy (requires GiNZA)
+# 3 — Grammar level detection accuracy  (requires GiNZA)
 # ══════════════════════════════════════════════════════════════════════════════
 
 @pytest.mark.ginza
 class TestGrammarLevelAccuracy:
-    """
-    Statistical ordering tests: N1 sentences should be detected as harder
-    (higher weight) than N5 sentences on average.
-    Skipped automatically when GiNZA is not installed.
-    """
 
-    def _avg_detected_weight(self, sentences: list[str], level: str) -> float:
+    def _avg_weight(self, sentences: list, level: str) -> float:
         weights = []
         for batch in _batches(sentences):
             payload = _build(batch, level)
-            # Column-1 node carries the per-sentence detected level
             for node in payload["grid_matrix"]:
                 if node["grid_coordinates"]["column"] == 1:
                     lv = node.get("sentence_individual_grammar_level", "N5")
@@ -395,33 +349,20 @@ class TestGrammarLevelAccuracy:
     def test_n1_avg_weight_gte_n5(self, ginza_available):
         if not ginza_available:
             pytest.skip("GiNZA not installed")
-        n5_avg = self._avg_detected_weight(N5, "N5")
-        n1_avg = self._avg_detected_weight(N1, "N1")
-        assert n1_avg >= n5_avg, (
-            f"Expected N1 avg weight ({n1_avg:.2f}) >= N5 avg weight ({n5_avg:.2f})"
-        )
+        assert self._avg_weight(N1, "N1") >= self._avg_weight(N5, "N5")
 
     def test_n2_avg_weight_gte_n4(self, ginza_available):
         if not ginza_available:
             pytest.skip("GiNZA not installed")
-        n4_avg = self._avg_detected_weight(N4, "N4")
-        n2_avg = self._avg_detected_weight(N2, "N2")
-        assert n2_avg >= n4_avg, (
-            f"Expected N2 avg weight ({n2_avg:.2f}) >= N4 avg weight ({n4_avg:.2f})"
-        )
+        assert self._avg_weight(N2, "N2") >= self._avg_weight(N4, "N4")
 
     def test_n5_sentences_never_detected_as_n1(self, ginza_available):
         if not ginza_available:
             pytest.skip("GiNZA not installed")
         for batch in _batches(N5):
-            payload = _build(batch, "N5")
-            for node in payload["grid_matrix"]:
+            for node in _build(batch, "N5")["grid_matrix"]:
                 if node["grid_coordinates"]["column"] == 1:
-                    detected = node.get("sentence_individual_grammar_level")
-                    assert detected != "N1", (
-                        f"N5 sentence detected as N1: "
-                        f"row={node['grid_coordinates']['row']}"
-                    )
+                    assert node.get("sentence_individual_grammar_level") != "N1"
 
     @pytest.mark.parametrize("level,sentences", [
         ("N5", N5), ("N4", N4), ("N3", N3), ("N2", N2), ("N1", N1)
@@ -435,24 +376,14 @@ class TestGrammarLevelAccuracy:
             for node in payload["grid_matrix"]
             if node["grid_coordinates"]["column"] == 1
         ]
-        highest = payload["highest_grammar_level_encountered"]
+        highest    = payload["highest_grammar_level_encountered"]
         max_weight = max(LEVEL_WEIGHT.get(lv, 1) for lv in row_levels)
-        assert LEVEL_WEIGHT.get(highest, 0) == max_weight, (
-            f"highest_grammar_level_encountered '{highest}' doesn't match "
-            f"max of row levels {row_levels}"
-        )
+        assert LEVEL_WEIGHT.get(highest, 0) == max_weight
 
 
 # ══════════════════════════════════════════════════════════════════════════════
 # 4a — API: /api/news/puzzle/generate  (mocked scraper; no GiNZA required)
 # ══════════════════════════════════════════════════════════════════════════════
-
-NEWS_REQUEST_BASE = {
-    "news_id": "https://mock-nhk.jp/article/99999",
-    "summary_html": "",
-    "level": "N5",
-}
-
 
 class TestAPINewsEndpoint:
 
@@ -484,39 +415,39 @@ class TestAPINewsEndpoint:
     def test_grammar_level_field_present_in_api_response(self, level, sentences):
         """
         If ClauseNode or build_puzzle_from_news_tokens ever drops
-        sentence_individual_grammar_level again, this test catches it
-        at the HTTP boundary — exactly where the Swift client sees it.
+        sentence_individual_grammar_level again, this catches it at the
+        HTTP boundary — exactly where the Swift client sees it.
         """
         data = self._post_news(sentences[:5], level)
         for node in data["grid_matrix"]:
-            assert "sentence_individual_grammar_level" in node, (
-                f"API response missing grammar level for {level} sentence at "
-                f"row={node['grid_coordinates']['row']} "
+            assert "sentence_individual_grammar_level" in node, \
+                f"Missing grammar level in API response for {level} node " \
+                f"row={node['grid_coordinates']['row']} " \
                 f"col={node['grid_coordinates']['column']}"
-            )
             assert node["sentence_individual_grammar_level"] in VALID_LEVELS
 
     def test_grid_has_25_nodes_via_api(self):
-        data = self._post_news(N3[:5], "N3")
-        assert len(data["grid_matrix"]) == 25
+        assert len(self._post_news(N3[:5], "N3")["grid_matrix"]) == 25
 
-    def test_cache_is_written_for_news_puzzle(self):
-        """Second identical request should hit the cache (still returns valid data)."""
+    def test_cache_hit_still_returns_valid_data(self):
+        """Second identical request hits cache — data must still be valid."""
         for _ in range(2):
             data = self._post_news(N5[:5], "N5")
         assert len(data["grid_matrix"]) == 25
 
     def test_insufficient_sentences_returns_500(self):
-        # Use a unique news_id so this test never hits a cached response
-        req = {**NEWS_REQUEST_BASE, "news_id": "https://mock-nhk.jp/article/err-insufficient"}
+        # Unique news_id avoids hitting a cached success response
+        req = {**NEWS_REQUEST_BASE,
+               "news_id": "https://mock-nhk.jp/article/err-insufficient"}
         with patch("main.scrape_article_sentences_and_furigana",
                    return_value=(["短い。", "少ない。"], {})):
             r = self.client.post("/api/news/puzzle/generate", json=req)
         assert r.status_code == 500
 
     def test_scraper_exception_returns_500(self):
-        # Use a unique news_id so this test never hits a cached response
-        req = {**NEWS_REQUEST_BASE, "news_id": "https://mock-nhk.jp/article/err-exception"}
+        # Unique news_id avoids hitting a cached success response
+        req = {**NEWS_REQUEST_BASE,
+               "news_id": "https://mock-nhk.jp/article/err-exception"}
         with patch("main.scrape_article_sentences_and_furigana",
                    side_effect=Exception("Network failure")):
             r = self.client.post("/api/news/puzzle/generate", json=req)
@@ -541,19 +472,18 @@ class TestAPIStoryEndpoint:
 
     @pytest.fixture()
     def story_file(self, tmp_path):
-        """Write 10 N5 sentences to a temp .txt file."""
         path = tmp_path / "test_story.txt"
         path.write_text("\n".join(N5[:10]), encoding="utf-8")
         return str(path)
 
     def test_story_endpoint_returns_200(self, story_file):
         r = self.client.post("/api/puzzle/generate",
-                        json={"file_path": story_file, "level": "N5"})
+                             json={"file_path": story_file, "level": "N5"})
         assert r.status_code == 200
 
     def test_story_payload_grammar_level_present(self, story_file):
         r = self.client.post("/api/puzzle/generate",
-                        json={"file_path": story_file, "level": "N5"})
+                             json={"file_path": story_file, "level": "N5"})
         assert r.status_code == 200
         for node in r.json()["grid_matrix"]:
             assert "sentence_individual_grammar_level" in node
@@ -561,12 +491,12 @@ class TestAPIStoryEndpoint:
 
     def test_missing_file_returns_404(self):
         r = self.client.post("/api/puzzle/generate",
-                        json={"file_path": "/no/such/file.txt", "level": "N5"})
+                             json={"file_path": "/no/such/file.txt", "level": "N5"})
         assert r.status_code == 404
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 4c — API: utility endpoints (always run)
+# 4c — API: utility endpoints  (always run)
 # ══════════════════════════════════════════════════════════════════════════════
 
 class TestAPIUtilityEndpoints:
@@ -581,23 +511,19 @@ class TestAPIUtilityEndpoints:
         assert "stories" in r.json()
 
     def test_stories_response_is_list(self):
-        r = self.client.get("/api/stories")
-        assert isinstance(r.json()["stories"], list)
+        assert isinstance(self.client.get("/api/stories").json()["stories"], list)
 
     def test_cache_clear_returns_200(self):
-        r = self.client.post("/api/cache/clear")
-        assert r.status_code == 200
+        r    = self.client.post("/api/cache/clear")
         body = r.json()
+        assert r.status_code == 200
         assert body["status"] == "success"
         assert "detail" in body
 
-    def test_news_topics_returns_200_or_graceful_error(self):
-        """
-        RSS fetch may fail in CI (no network).  Accept 200 or a clean 500
-        — not an unhandled crash.
-        """
+    def test_news_topics_mocked_returns_200(self):
         with patch("main.fetch_nhk_news_topics", return_value=[
-            {"id": "1", "title": "テスト記事", "link": "https://nhk.jp/1", "summary_html": ""},
+            {"id": "1", "title": "テスト記事",
+             "link": "https://nhk.jp/1", "summary_html": ""},
         ]):
             r = self.client.get("/api/news/topics")
         assert r.status_code == 200
