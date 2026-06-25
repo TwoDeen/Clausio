@@ -21,11 +21,14 @@ struct StorySelectionView: View {
   // --- ENVIRONMENT DEFINITIONS ---
   let levels = ["N5", "N4", "N3", "N2", "N1"]
   
+  // 🚀 CHANGE 1: iOS device now hits Render; simulator/macOS stay on localhost
   var backendURL: String {
-#if targetEnvironment(simulator) || os(macOS)
-    return "http://localhost:8000"
+#if targetEnvironment(simulator)
+    return "http://localhost:8000"          // Xcode simulator → local dev server
+#elseif os(macOS)
+    return "http://localhost:8000"          // macOS → local dev server
 #else
-    return "http://192.168.1.126:8000" // Local Network IP
+    return "https://clausio-api.onrender.com"  // iOS device → Render free tier
 #endif
   }
   
@@ -36,7 +39,9 @@ struct StorySelectionView: View {
       return stories
     } else {
       return stories.filter { story in
-        let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
+        let displayTitle = isNewsModeActive
+        ? (story.name.components(separatedBy: "|").last ?? story.name)
+        : story.name
         return displayTitle.localizedCaseInsensitiveContains(searchText)
       }
     }
@@ -48,19 +53,13 @@ struct StorySelectionView: View {
         
         Picker("Content Source", selection: $isNewsModeActive) {
           Text("Aozora Books").tag(false)
-          Text("Live NHK Easy").tag(true)
+          // 🚀 CHANGE 2: Renamed — now routes N5/N4 → Easy, N3–N1 → Regular
+          Text("NHK News").tag(true)
         }
         .pickerStyle(.palette)
         .padding(.horizontal)
         .padding(.vertical, 8)
         .background(Color.platformGroupedBackground)
-        .onChange(of: isNewsModeActive) { _ in
-          fetchStoryList()
-        }
-        
-        .onChange(of: selectedLevel) { _ in
-          if isNewsModeActive { fetchStoryList() }
-        }
         
         VStack(alignment: .leading, spacing: 8) {
           Text("Target Difficulty Level")
@@ -79,6 +78,7 @@ struct StorySelectionView: View {
           .padding(.bottom, 12)
         }
         .background(Color.platformGroupedBackground)
+        
         Divider()
         
         if let error = errorMessage {
@@ -99,10 +99,11 @@ struct StorySelectionView: View {
           VStack(spacing: 16) {
             ProgressView()
               .scaleEffect(1.5)
-            Text(isNewsModeActive ? "Structuring News Matrix..." : "Parsing Japanese Text...")
+            Text(isNewsModeActive ? "Loading News Puzzle..." : "Parsing Japanese Text...")
               .font(.headline)
               .foregroundColor(.secondary)
-            Text(isNewsModeActive ? "Isolating sequential news sentences." : "GiNZa is compiling grammatical dependencies.")
+            // 🚀 CHANGE 3: Removed GiNZA reference — Render serves precomputed files
+            Text(isNewsModeActive ? "Fetching precomputed article matrix." : "GiNZa is compiling grammatical dependencies.")
               .font(.caption)
               .foregroundColor(.gray)
           }
@@ -111,9 +112,10 @@ struct StorySelectionView: View {
           ContentUnavailableView.search(text: searchText)
         } else if stories.isEmpty {
           ContentUnavailableView {
-            Label(isNewsModeActive ? "No News Available" : "No Stories Available", systemImage: "wifi.slash")
+            Label(isNewsModeActive ? "No News Available" : "No Stories Available",
+                  systemImage: "wifi.slash")
           } description: {
-            Text("Could not resolve backend catalog cluster at \(backendURL). Please check network configurations.")
+            Text("Could not connect to backend at \(backendURL). Please check network.")
           } actions: {
             Button("Retry Connection", action: fetchStoryList)
               .buttonStyle(.borderedProminent)
@@ -132,7 +134,9 @@ struct StorySelectionView: View {
                   .cornerRadius(8)
                 
                 VStack(alignment: .leading, spacing: 4) {
-                  let displayTitle = isNewsModeActive ? (story.name.components(separatedBy: "|").last ?? story.name) : story.name
+                  let displayTitle = isNewsModeActive
+                  ? (story.name.components(separatedBy: "|").last ?? story.name)
+                  : story.name
                   
                   Text(displayTitle)
                     .font(.headline)
@@ -161,9 +165,19 @@ struct StorySelectionView: View {
           }
         }
       }
-      .navigationTitle(isNewsModeActive ? "NHK Easy News" : "Clausio Stories")
+      // 🚀 FIX: Both onChange modifiers anchored to the NavigationView content VStack
+      //    (previously .onChange(of: selectedLevel) was a dangling modifier)
+      .onChange(of: isNewsModeActive) { _ in
+        fetchStoryList()
+      }
+      .onChange(of: selectedLevel) { _ in
+        if isNewsModeActive { fetchStoryList() }
+      }
+      .navigationTitle(isNewsModeActive ? "NHK News" : "Clausio Stories")
 #if os(iOS)
-      .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search items by title...")
+      .searchable(text: $searchText,
+                  placement: .navigationBarDrawer(displayMode: .always),
+                  prompt: "Search items by title...")
 #else
       .searchable(text: $searchText, placement: .toolbar, prompt: "Search items by title...")
 #endif
@@ -172,19 +186,19 @@ struct StorySelectionView: View {
   }
   
   // --- SERVICE FUNCTIONS (API LAYER) ---
+  
   func fetchStoryList() {
     let targetEndpoint: String
     if isNewsModeActive {
-      targetEndpoint = "/api/news/topics?level=\(selectedLevel)"  // ← add this
+      targetEndpoint = "/api/news/topics?level=\(selectedLevel)"
     } else {
       targetEndpoint = "/api/stories"
     }
     guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
-
+    
     errorMessage = nil
     stories = []
     
-    // 🚀 THE FIX 1: Force iOS to ignore its saved cache and fetch fresh from your server!
     var request = URLRequest(url: url)
     request.cachePolicy = .reloadIgnoringLocalCacheData
     
@@ -203,27 +217,21 @@ struct StorySelectionView: View {
         
         let jsonDict = try JSONSerialization.jsonObject(with: data) as? [String: Any]
         guard let listArray = jsonDict?[listKey] as? [[String: Any]] else {
-          throw NSError(domain: "", code: -1, userInfo: [NSLocalizedDescriptionKey: "Invalid dictionary array target structure"])
+          throw NSError(domain: "", code: -1,
+                        userInfo: [NSLocalizedDescriptionKey: "Invalid response structure"])
         }
         
         let parsedItems = listArray.compactMap { dict -> Story? in
           if isNewsModeActive {
-            let newsId = dict["id"] as? String ?? UUID().uuidString
+            let newsId     = dict["id"]    as? String ?? UUID().uuidString
             let cleanTitle = dict["title"] as? String ?? "Untitled News"
-            
             let packedName = "\(newsId)|\(cleanTitle)"
-            
-            // 🚀 THE FIX 2: Inject a UUID into the path to guarantee SwiftUI NEVER collides IDs!
             let serverPath = dict["summary_html"] as? String ?? ""
             let safeUniquePath = "\(serverPath)|[\(UUID().uuidString)]"
-            
-            return Story(
-              name: packedName,
-              relative_path: safeUniquePath
-            )
+            return Story(name: packedName, relative_path: safeUniquePath)
           } else {
             return Story(
-              name: dict["name"] as? String ?? "Unknown File",
+              name:          dict["name"]          as? String ?? "Unknown File",
               relative_path: dict["relative_path"] as? String ?? ""
             )
           }
@@ -234,43 +242,42 @@ struct StorySelectionView: View {
         }
       } catch {
         DispatchQueue.main.async {
-          self.errorMessage = "Failed parsing available story manifest files."
+          self.errorMessage = "Failed parsing story list."
         }
       }
     }.resume()
   }
   
   func generateAndLoadPuzzle(for story: Story) {
-    let targetEndpoint = isNewsModeActive ? "/api/news/puzzle/generate" : "/api/puzzle/generate"
+    let targetEndpoint = isNewsModeActive
+    ? "/api/news/puzzle/generate"
+    : "/api/puzzle/generate"
     guard let url = URL(string: "\(backendURL)\(targetEndpoint)") else { return }
     
     withAnimation {
-      isLoading = true
+      isLoading    = true
       errorMessage = nil
     }
     
     var request = URLRequest(url: url)
     request.httpMethod = "POST"
     request.setValue("application/json", forHTTPHeaderField: "Content-Type")
-    
-    // 🚀 THE FIX: Force iOS to ignore its saved cache and actually hit the Python server!
     request.cachePolicy = .reloadIgnoringLocalCacheData
-
+    
     var bodyPayload: [String: String] = [:]
     
     if isNewsModeActive {
-      let components = story.name.components(separatedBy: "|")
+      let components  = story.name.components(separatedBy: "|")
       let extractedId = components.first ?? UUID().uuidString
-      
       bodyPayload = [
-        "news_id": extractedId,
+        "news_id":      extractedId,
         "summary_html": story.relative_path,
-        "level": selectedLevel
+        "level":        selectedLevel,
       ]
     } else {
       bodyPayload = [
         "file_path": story.relative_path,
-        "level": selectedLevel
+        "level":     selectedLevel,
       ]
     }
     
@@ -290,9 +297,10 @@ struct StorySelectionView: View {
       
       guard let data = data else { return }
       
-      if let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode != 200 {
+      if let httpResponse = response as? HTTPURLResponse,
+         httpResponse.statusCode != 200 {
         DispatchQueue.main.async {
-          self.errorMessage = "Server generation error (\(httpResponse.statusCode))."
+          self.errorMessage = "Server error (\(httpResponse.statusCode))."
         }
         return
       }
@@ -303,9 +311,9 @@ struct StorySelectionView: View {
           self.onPuzzleLoaded(gamePayload)
         }
       } catch let jsonError {
-        print("JSON Parsing Failure details: \(jsonError)")
+        print("JSON decode error: \(jsonError)")
         DispatchQueue.main.async {
-          self.errorMessage = "Puzzle data validation schema failed mapping check."
+          self.errorMessage = "Puzzle data failed to decode."
         }
       }
     }.resume()
