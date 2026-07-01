@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "目次母岩手公園選挙崖下の床屋祭日〔一〕保線工手〔南風の頬に酸くして〕種山ヶ原ポランの広場巡業隊夜医院〔沃度ノニホヒフルヒ来ス〕〔みちべの苔にまどろめば〕〔二山の瓜を運びて〕〔けむりは時に丘丘の〕〔遠く琥珀のいろなして〕心相肖像暁眠旱倹〔老いては冬の孔雀守る〕老農浮世絵歯科医院〔かれ草の雪とけたれば〕退耕〔白金環の天末を〕早春来々軒林館開業コバルト山地旱害地帯〔鐘うてば白木のひのき〕早池峯山巓社会主事佐伯正氏市日廃坑副業紀念写真塔中秘事〔",
+      "furigana": "もくじははいわてこうえんせんきょがいかのとこやさいじつきごういちきごうほせんこうしゅきごうはえのほおにすくしてきごうたねやまがげんぽらんのひろばじゅんぎょうたいよるいいんきごうようどのにほひふるひきすきごうきごうみちべのこけにまどろめばきごうきごうふたやまのうりをはこびてきごうきごうけむりはときにおかきゅうのきごうきごうとおくこはくのいろなしてきごうこころあいしょうぞうあかつきねむひでりけんきごうおいてはふゆのくじゃくまもるきごうろうのううきよえしかいいんきごうかれくさのゆきとけたればきごうたいこうきごうしろきんかんのてんまつをきごうそうしゅん来々けんりんかんかいぎょうこばるとさんちかんがいちたいきごうかねうてばしろきのひのききごうはやちねさんてんしゃかいしゅじ　さえきただしししにちはいこうふくぎょうきねんしゃしんたっちゅうひじ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "われのみみちにたゞしきと〕朝〔猥れて嘲笑めるはた寒き〕岩頸列病技師〔一〕酸虹柳沢野軍事連鎖劇峡野早春短夜〔水楢松にまじらふは〕硫黄二月日の出前岩手山巓車中〔二〕化物丁場開墾地落上〔鶯宿はこの月の夜を雪降るらし〕公子〔銅鑼と看版トロンボン〕〔古き勾当貞斎が〕涅槃堂悍馬〔二",
+      "furigana": "きごうわれのみみちにただしきときごうあさきごうみだりれてちょうしょうめるはたさむききごうがんけいれつびょうぎしきごういちきごうさんにじりゅうさわのぐんじれんさげききょうやそうしゅんたんやきごうみずならまつにまじらふはきごういおうにがつひのでまえいわてさんてんしゃちゅうきごうにきごうかぶつちょうばかいこんちおちじょうきごうおうしゅくはこのつきのよるをゆきふるらしきごうこうしきごうどらとみばん　とろんぼんきごうきごうふるきこうとうていさいがきごうねはんどうかんば",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "〕巨豚眺望山躑躅〔ひかりものすとうなゐごが〕国土〔塀のかなたに嘉莵治かも〕四時羅紗売臘月〔天狗蕈けとばし了へば〕牛〔秘事念仏の大師匠〕〔二〕〔廐肥をになひていくそたび〕黄昏式場〔翁面おもてとなして世経るなど〕氷上〔うたがふをやめよ",
+      "furigana": "きごうにきごうきょぶたちょうぼうやまつつじきごうひかりものすとうないごがきごうこくどきごうへいのかなたにか莵治かもきごうよんじらしゃうりろうげつきごうてんぐ蕈　けとばしりょうへばきごううしきごうひじねんぶつのだいししょうきごうきごうにきごうきごううまやこえをになひていくそたびきごうたそがれしきじょうきごうおうめん　おもてとなしてよへるなどきごうひがみきごううたがふ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "〕電気工夫〔すゝきすがるゝ丘なみを〕〔乾かぬ赤きチョークもて〕〔腐植土のぬかるみよりの照り返し〕中尊寺〔一〕嘆願隊〔一才のアルプ花崗岩を〕〔小きメリヤス塩の魚〕〔日本球根商会が〕庚申賦役〔商人らやみていぶせきわれをあざみ〕風底〔雪げの水に涵されし〕病技師〔二〕〔西のあをじろがらん洞〕卒業式〔燈を紅き町の家より〕［＃改丁］母雪袴黒くうがちしうなゐの子瓜食みくれば風澄めるよもの山はにうづまくや秋のしらくも",
+      "furigana": "をやめよきごうでんきくふうきごうすのきすがるるおかなみをきごうきごうかわかぬあかきちょーくもてきごうきごうふしょくどのぬかるみよりのてりかえしきごうちゅうそんじきごういちきごうたんがんたいきごういちさいのあるぷかこうがんをきごうきごうこきめりやすしおのさかなきごうきごうにっぽんきゅうこんしょうかいがきごうこうしんふえききごうしょうにんら　やみていぶせきわれをあざみきごうかぜていきごうゆきげのみずに涵されしきごうびょうぎしきごうにきごうきごうにしのあをじろがらんほらきごうそつぎょうしききごうあかりをあかきまちのいえよりきごうきごう#かいひのときごうははゆきばかまくろくうがちし　　　　　うないのこうりはみくればかぜすめるよものやまはに",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "その身こそ瓜も欲りせん齢弱き母にしあれば手すさびに紅き萱穂をつみつどへ野をよぎるなれ岩手公園「かなた」と老いしタピングは、杖をはるかにゆびさせど、東はるかに散乱の、さびしき銀は声もなし。",
+      "furigana": "うづまくやあきのしらくもそのみこそうりもよくりせん　　よわいよわきははにしあればてすさびにあかきかやほを　　　つみつどへのをよぎるなれいわてこうえんきごうかなたきごうとおいしたぴんぐは、　　つえをはるかにゆびさせど、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "なみなす丘は",
+      "furigana": "なみなすおかは",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ぼうぼうと、青き",
+      "furigana": "ぼうぼうと、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "りんごの色に暮れ、大学生の",
+      "furigana": "あおきりんごのいろにくれ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "タピングは、口笛",
+      "furigana": "、だいがくせいの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "軽く吹きにけり。",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "老いたるミセスタッピング",
+      "furigana": "おいたるみせすたっぴんぐ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "、「去年なが姉は",
+      "furigana": "、　　　　きごうきょねん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "こゝにして、中学生",
+      "furigana": "ながあねはここにして",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "の一組に、花のことば",
+      "furigana": "、ちゅうがくせいのいちくみに、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "を教へしか。」",
+      "furigana": "をおしえしか。きごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "」弧光燈にめくるめき",
+      "furigana": "きごうここうとうにめくるめき",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "、羽虫の群のあつまりつ、川と",
+      "furigana": "、　　　　　　　はむしのぐんの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "銀行木のみどり",
+      "furigana": "つ、かわと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "、まちはしづか",
+      "furigana": "ぎんこうきのみどり",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "にたそがるゝ。",
+      "furigana": "、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "選挙（もつて二十を贏ち得んや）はじめ",
+      "furigana": "せんきょきごうもつてにじゅうをかちえんやきごう　　　",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "の駑馬をやらふもの（さらに五票もかたからず）雪うち",
+      "furigana": "はじめのどばをやらふものきごうさらにごひょうもかたからずきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "噛める次の騎者（いかにやさらば太兵衛一族）その馬弱くまだらなる（いなうべがはじうべが",
+      "furigana": "　　　ゆきうちかめるつぎのきしゃきごういかにやさらばたへえいちぞくきごう　　そのうまよわくまだらなるきごういな",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "はじ）懼るゝ声はそらにあり崖下の床屋あかりを外れし古かゞみ、客ある",
+      "furigana": "うべがはじうべがはじきごう　　おそるのこえはそらにありがけしたのとこやあかりを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "さまにみまもりて、唖の子鳴らす空鋏。",
+      "furigana": "しいにしえかきごうみ、　　きゃくあるさまに",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

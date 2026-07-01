@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "霧が",
+      "furigana": "きりが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "じめじめ",
+      "furigana": "じめじめ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "降っ",
+      "furigana": "ふっ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "てい",
+      "furigana": "てい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "諒安は、その霧の底を",
+      "furigana": "りょうやすは、そのきりのそこを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ひとり、険しい",
+      "furigana": "ひとり、けわしい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "山谷の、",
+      "furigana": "さんやの、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "刻みを渉って",
+      "furigana": "きざみをわたって",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "行きました。",
+      "furigana": "いきました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "沓の底を半分踏み抜いてしまい",
+      "furigana": "くつのそこをはんぶんふみぬいてしまい",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ながらそのいちばん高い処からいちばん",
+      "furigana": "ながらそのいちばんたかいところからいちばん",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "暗い深いところへまたその",
+      "furigana": "くらいふかいところへまたその",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "谷の底から霧に吸いこまれた次の",
+      "furigana": "たにのそこからきりにすいこまれたつぎの",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "峯へと一生けんめい伝って行きました。",
+      "furigana": "みねへといっしょうけんめいでんっていきました。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "もしもほんの少しのはり合で霧を泳いで行くことが",
+      "furigana": "もしもほんのすこしのはりあいできりをおよいでいくことが",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "できたら一つの峯から次の巌へずいぶん雑作もなく行けるのだが私はやっぱり",
+      "furigana": "できたらひとつのみねからつぎのいわへずいぶんぞうさもなくいけるのだがわたくしはやっぱり",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "この意地悪い大きな彫刻の表面に沿ってけわしい",
+      "furigana": "このいじわるいおおきなちょうこくのひょうめんにそってけわしい",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "処ではからだが燃えるようになり少しの平らなところではほっと息をつき",
+      "furigana": "ところではからだがもえるようになりすこしのたいらなところではほっといきをつき",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ながら地面を這わなければならないと諒安は思いました。",
+      "furigana": "ながらじめんをはわなければならないとりょうやすはおもいました。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "全く峯にはまっ黒のガツガツした巌が",
+      "furigana": "まったくみねにはまっくろのがつがつしたいわが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "冷たい霧を吹いて",
+      "furigana": "つめたいきりをふいて",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "そらうそぶき折角いっしん",
+      "furigana": "そらうそぶきせっかくいっしん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "に登って行ってもまるでよるべ",
+      "furigana": "にのぼっていってもまるでよるべ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "もなくさびしいのでした。",
+      "furigana": "もなくさびしいのでした。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

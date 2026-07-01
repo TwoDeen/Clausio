@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N1",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "おととし、北海道江別市の公園で男子大学生から金品",
+      "furigana": "おととし、北海道江別市の公園で男子大学生から金品",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "などを奪ったうえ、暴行を",
+      "furigana": "などを奪ったうえ、暴行を",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "加えて死亡させた罪などで",
+      "furigana": "加えて死亡させた罪などで",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "起訴された6人の被告のうち、先に裁判が",
+      "furigana": "起訴された6人の被告のうち、先に裁判が",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "始まった3人の被告に判決が言い渡されました。",
+      "furigana": "始まった3人の被告に判決が言い渡されました。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "おととし10月、江別市の公園で当時20歳の男子大学生が現金やクレジットカード",
+      "furigana": "おととし10月、江別市の公園で当時20歳の男子大学生が現金やクレジットカード",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "の入った財布などを奪われたうえ、暴行を受けて死亡した",
+      "furigana": "の入った財布などを奪われたうえ、暴行を受けて死亡した",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "事件では、被害者の交際相手の八木原亜麻",
+      "furigana": "事件では、被害者の交際相手の八木原亜麻",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "被告（21）や川村葉音被告（21）など少年を含む",
+      "furigana": "被告（21）や川村葉音被告（21）など少年を含む",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "6人が強盗致死などの罪に問われています。",
+      "furigana": "6人が強盗致死などの罪に問われています。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "このうち、川村被告と当時18",
+      "furigana": "このうち、川村被告と当時18",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "歳の被告、当時16",
+      "furigana": "歳の被告、当時16",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "歳の少年の裁判が先月から始まっていて、",
+      "furigana": "歳の少年の裁判が先月から始まっていて、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "いずれも起訴された内容を",
+      "furigana": "いずれも起訴された内容を",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "認めていました。",
+      "furigana": "認めていました。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "25日の判決で、札幌地方裁判所の高杉昌希",
+      "furigana": "25日の判決で、札幌地方裁判所の高杉昌希",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "裁判長は「現金やクレジットカード",
+      "furigana": "裁判長は「現金やクレジットカード",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "などを被害者から根こそぎ奪い取り、集団で殴る",
+      "furigana": "などを被害者から根こそぎ奪い取り、集団で殴る",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "蹴るの激しい暴行を加え",
+      "furigana": "蹴るの激しい暴行を加え",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "続けたもので極めて残忍で悪質だ。",
+      "furigana": "続けたもので極めて残忍で悪質だ。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "事件の契機は八木原被告と被害者の交際",
+      "furigana": "事件の契機は八木原被告と被害者の交際",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "トラブルで本来は話し合いで解決すべきものであったの",
+      "furigana": "トラブルで本来は話し合いで解決すべきものであったの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "に、当事者でもない者が",
+      "furigana": "に、当事者でもない者が",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "乗り込んで暴力に発展しており、",
+      "furigana": "乗り込んで暴力に発展しており、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "酌量すべきところはない」と指摘しました。",
+      "furigana": "酌量すべきところはない」と指摘しました。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "宮沢賢治春と修羅心象スケッチ春と修羅春と修羅眞空溶媒",
+      "furigana": "みやざわけんじ　はるとしゅらしんしょうすけっち　はるとしゅらはるとしゅらしんくう",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "小岩井農場グランド電柱東",
+      "furigana": "ようばいこいわいのうじょうぐらんど",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "岩手火山無聲慟哭オホーツク挽歌風景とオルゴール宮澤賢治",
+      "furigana": "ひがしいわてかざんむ聲どうこくおほーつくばんかふうけいとおるごーるみやざわ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "生誕１００年を記念して、国立国会図書館",
+      "furigana": "けんじせいたんいちれいれいねんをきねんして、こくりつこっかい",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "から発見された、「春と修羅」初版本が復刻出版されました。",
+      "furigana": "からはっけんされた、きごうはるとしゅらきごうしょはんほんがふっこくしゅっぱんされまし",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "この初版本の",
+      "furigana": "　このしょはんほん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "テキストを",
+      "furigana": "のてきすと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ＨＴＭＬ形式にて",
+      "furigana": "をえいちてぃーえむえるけいしき",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "入力してい",
+      "furigana": "にゅうりょくして",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ます。",
+      "furigana": "います",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "左の図はエキスパンド",
+      "furigana": "ひだりのずはえきすぱんど",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ブックという",
+      "furigana": "ぶっくという",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ソフトで画面上で",
+      "furigana": "そふとでがめんじょうで",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "読めるようにし",
+      "furigana": "よめるようにし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "た、電子書籍の１画面です。",
+      "furigana": "た、でんししょせきのいちがめんです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "図をクリック",
+      "furigana": "ずをくりっく",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "すると、",
+      "furigana": "すると、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ダウンロード",
+      "furigana": "だうんろーど",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "の画面に移動",
+      "furigana": "のがめんにいどう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "します。",
+      "furigana": "します。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "春と修羅0序----------1屈折率--(1922.1.6)--2くらかけの雪--(1922.1.6)--3日輪と太市--(1922.1.9)--4丘の幻惑--(1922.1.12)--5カーバイト倉庫--(1922.1.12)--6コバルト産地--(1922.1.22)--7ぬすびと--(1922.3.2)--8恋と病熱--(1922.3.20)--9春と修羅--《1922.4.8》--10春光呪咀--(1922.4.10)--11有明--(1922.4.13)--12谷--(1922.4.20)--13陽ざしとかれくさ--(1922.4.23)--14雲の信号--(",
+      "furigana": "はるとしゅらぜろ序ーいちくっせつ率ーきごういちきゅうにに．いち．ろく)ーにくらかけの雪ーきごういちきゅうにに．いち．ろく)ーみっかりんとふとし市ーきごういちきゅうにに．いち．きゅう)ーよんきゅうのまぼろし惑ーきごういちきゅうにに．いち．いちに)ーごかーばいとそう庫ーきごういちきゅうにに．いち．いちに)ーろくこばるとさん地ーきごういちきゅうにに．いち．にに)ーななぬすびとーきごういちきゅうにに．さん．に)ーはちこいとやまい熱ーきごういちきゅうにに．さん．にれい)ーきゅうしゅんとおさむ羅ーきごういちきゅうにに．よん．はち》ーいちれいしゅんこうしゅ咀ーきごういちきゅうにに．よん．いちれい)ーいちいちゆう明ーきごういちきゅうにに．よん．いちさん)ーいちに谷ーきごういちきゅうにに．よん．にれい)ーいちさんひざしとかれくさーきごういちきゅうにに．よん．にさん)ーいちよんくものしん号ーきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "1922.5.10)--15風景--(1922.5.12)--16習作--(1922.5.14)--17休息--(1922.5.14)--18おきなぐさ--(1922.5.17)--19かはばた--(1922.5.17)--最初に戻る（２）真空溶媒20眞空溶媒--《1922.5.18》--21蠕蟲舞手--(1922.5.20)--最初に戻る（３）小岩井農場22小岩井農場--(1922.5.21)--最初に戻る（４）グランド電柱23林と思想--(1922.6.4)--24霧とマッチ--(1922.6.4)--25芝生--(1922.6.7)--26青い槍の葉--《1922.6.12》--27報告--(1922.6.15)--28風景観察官--(1922.6.25)--29岩手山--(1922",
+      "furigana": "いちきゅうにに．ご．いちれい)ーいちごふう景ーきごういちきゅうにに．ご．いちに)ーいちろく習作ーきごういちきゅうにに．ご．いちよん)ーいちななきゅう息ーきごういちきゅうにに．ご．いちよん)ーいちはちおきなぐさーきごういちきゅうにに．ご．いちなな)ーいちきゅうかはばたーきごういちきゅうにに．ご．いちなな)ーさいしょにもどるきごうにきごうしんくうようばいにれいしんくう溶媒ーきごういちきゅうにに．ご．いちはち》ーにいち蠕蟲まい手ーきごういちきゅうにに．ご．にれい)ーさいしょにもどるきごうさんきごうこいわいのうじょうににこいわいのう場ーきごういちきゅうにに．ご．にいち)ーさいしょにもどるきごうよんきごうぐらんどでんちゅうにさんりんとおもえ想ーきごういちきゅうにに．ろく．よん)ーによんきりとまっちーきごういちきゅうにに．ろく．よん)ーにごしば生ーきごういちきゅうにに．ろく．なな)ーにろくあおいやりの葉ーきごういちきゅうにに．ろく．いちに》ーにななほう告ーきごういちきゅうにに．ろく．いちご)ーにはちふうけいかんさつ官ーきごういちきゅうにに．ろく．にご)ーにきゅういわて山ーきごういちきゅうにに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": ".6.27)--30高原--(1922.6.27)--31印象--(1922.6.27)--32高級の霧--(1922.6.27)--33電車--(1922.8.17)--34天然誘接--(1922.8.17)--35原体剣舞連--《1922.8.31》--36グランド電柱--(1922.9.7)--37山巡査--(1922.9.7)--38電線工夫--(1922.9.7)--39たび人--(1922.9.7)--40竹と楢--(1922.9.7)--41銅線--(1922.9.17)--42滝沢野--(1922.9.17)--最初に戻る（５）東岩手火山43東岩手火山--(1922.9.18)--44犬--(1922.9.27)--45マサニエロ--(1922.10.10)--46栗鼠と色鉛筆--(1922.10.15",
+      "furigana": "．ろく．になな)ーさんれいこう原ーきごういちきゅうにに．ろく．になな)ーさんいちいん象ーきごういちきゅうにに．ろく．になな)ーさんにこうきゅうの霧ーきごういちきゅうにに．ろく．になな)ーさんさんでん車ーきごういちきゅうにに．はち．いちなな)ーさんよんてんねん誘接ーきごういちきゅうにに．はち．いちなな)ーさんごげんたいけんぶ連ーきごういちきゅうにに．はち．さんいち》ーさんろくぐらんどでん柱ーきごういちきゅうにに．きゅう．なな)ーさんななさんじゅん査ーきごういちきゅうにに．きゅう．なな)ーさんはちでんせんこう夫ーきごういちきゅうにに．きゅう．なな)ーさんきゅうたび人ーきごういちきゅうにに．きゅう．なな)ーよんれいちくと楢ーきごういちきゅうにに．きゅう．なな)ーよんいちどう線ーきごういちきゅうにに．きゅう．いちなな)ーよんにたきざわ野ーきごういちきゅうにに．きゅう．いちなな)ーさいしょにもどるきごうごきごうひがしいわてかざんよんさんとういわてひ山ーきごういちきゅうにに．きゅう．いちはち)ーよんよん犬ーきごういちきゅうにに．きゅう．になな)ーよんごまさにえろーきごういちきゅうにに．いちれい．いちれい)ーよんろくりすといろなまり筆ーきごういちきゅうにに．いちれい．いちご",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": ")--最初に戻る（６）無声慟哭47永訣の朝--《1922.11.27》--48松の針--《1922.11.27》--49無聲慟哭--《1922.11.27》--50風林--(1923.6.3)--51白い鳥--(1923.6.4)--最初に戻る（７）オホーツク挽歌52青森挽歌--(1923.8.1)--53オホーツク挽歌--(1923.8.4)--54樺太鉄道--(1923.8.4)--55鈴谷平原--(1923.8.7)--56噴火灣（ノクターン）--(1923.8.",
+      "furigana": ")ーさいしょにもどるきごうろくきごうむせいどうこくよんななえいけつの朝ーきごういちきゅうにに．いちいち．になな》ーよんはちしょうの針ーきごういちきゅうにに．いちいち．になな》ーよんきゅうむ聲慟哭ーきごういちきゅうにに．いちいち．になな》ーごれいふう林ーきごういちきゅうにさん．ろく．さん)ーごいちしろい鳥ーきごういちきゅうにさん．ろく．よん)ーさいしょにもどるきごうななきごうおほーつくばんかごにあおもりひき歌ーきごういちきゅうにさん．はち．いち)ーごさんおほーつくひき歌ーきごういちきゅうにさん．はち．よん)ーごよんからふとてつ道ーきごういちきゅうにさん．はち．よん)ーごごすずやたいら原ーきごういちきゅうにさん．はち．なな)ーごろくふんか灣きごうのくたーん)ーきごういちきゅうにさん．はち．",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "11)--最初に戻る（８）風景とオルゴール57不貪慾戒--(1923.8.28)--58雲とはんのき--(1923.8.31)--59宗教風の戀--(1923.9.16)--60風景とオルゴール--(1923.9.16)--61風の偏倚--(1923.9.16)--62昴--(1923.9.16)--63第四梯形--(1923.9.30)--64火薬と紙幣--(1923.9.30)--65過去情炎--(1923.10.15)--66一本木野--(1923.10.28)--67鎔岩流--(1923.10.28)--68イーハトヴの氷霧--(1923.11.22)--69冬と銀河ステーション--(1923.12.10)--最初に戻るProducedbyWatanabeHirosiSinlaInformationService",
+      "furigana": "いちいち)ーさいしょにもどるきごうはちきごうふうけいとおるごーるごななふどんよく戒ーきごういちきゅうにさん．はち．にはち)ーごはちくもとはんのきーきごういちきゅうにさん．はち．さんいち)ーごきゅうしゅうきょうふうの戀ーきごういちきゅうにさん．きゅう．いちろく)ーろくれいふうけいとおるごーるーきごういちきゅうにさん．きゅう．いちろく)ーろくいちふうのぺん倚ーきごういちきゅうにさん．きゅう．いちろく)ーろくに昴ーきごういちきゅうにさん．きゅう．いちろく)ーろくさんだいよんはしご形ーきごういちきゅうにさん．きゅう．さんれい)ーろくよんかやくとかみ幣ーきごういちきゅうにさん．きゅう．さんれい)ーろくごかこじょう炎ーきごういちきゅうにさん．いちれい．いちご)ーろくろくいちぽんき野ーきごういちきゅうにさん．いちれい．にはち)ーろくなな鎔岩流ーきごういちきゅうにさん．いちれい．にはち)ーろくはちいーはとゔのこおり霧ーきごういちきゅうにさん．いちいち．にに)ーろくきゅうふゆとぎんがすてーしょんーきごういちきゅうにさん．いちに．いちれい)ーさいしょにもどるproducedbywatanabehirosisinlaいんふぉめーしょん",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

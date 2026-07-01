@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N2",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "……何故われらの芸術がいま起らねばならないか……曾ってわれらの師父たちは乏しいながら可成楽しく生きてゐたそこには芸術も宗教もあったBchner明治維新以前家屋衣服食物労働宗教音楽舞踊芝居遊楽創造経済の変動に伴ふ所有衝動の発達科学による急激な技術の進歩による機械的の設計田植踊節句祈願植物医師の例労働は古に遡るに従って漸く非労働となる如何にして労働が発展し来れるや解し難きものあり蓋し原始人の労働はその形式及内容に於て全然遊戯と異らずアフリカ土人いまわれらにはただ労働が",
+      "furigana": "きごうきごうなぜわれらのげいじゅつがいまおこらねばならないか．きごうそうってわれらのしふたちはとぼしいながらかなりたのしくいきていた　そこにはげいじゅつもしゅうきょうもあったbchner　めいじいしんいぜん　かおく　いふく　しょくもつ　ろうどう　しゅうきょう　おんがく　ぶよう　しばい　ゆうらく　そうぞうけいざいのへんどうにともなえふしょゆうしょうどうのはったつかがくによるきゅうげきなぎじゅつのしんぽによるきかいてきのせっけい　たうえおどり　せっく　きがん　しょくぶついしのれいろうどうはいにしえにさかのぼるにしたがってようやくひろうどうとなる　いかがにしてろうどうがはってんしこれるや　かいしがたきものありけだしげんしにんのろうどうはそのけいしきおよびないように於てぜんぜんゆうぎとことならず",
+      "sentence_individual_grammar_level": "N2"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "生存があるばかりである四月よりは毎日十二時間二十五日のサセ取り諸君は尚可なりDanielDefoe食物と労働との循環OscarWilde生活とは稀有なることである多くはただ生存があるばかりであるWim.Morris労働はそれ自身に於て善なりとの信条苦楽苦行外道狐トルストイ然も尚ここに埋もれ知らるることなく行く人あらばわれらはこれに合掌せん宗教は疲れて科学によって置換され然も科学は冷く暗い宗教中の天地創造論須弥山説神道は拝天の余俗である歴史的誤謬見えざる影に嚇された",
+      "furigana": "　あふりかどじんいまわれらにはただろうどうが　せいぞんがあるばかりであるよんがつよりはまいにちじゅうにじかん　にじゅうごにちのさせとり　しょくんはなおかなりだにえるdefoe　しょくもつとろうどうとのじゅんかんおすかーわいるど　せいかつとはけうなることである　おおくはただせいぞんがあるばかりであるびむ．もりす　ろうどうはそれじしんに於てぜんなりとのしんじょう　くらく　くぎょうげどう　きつね　とるすといしかもなおここにうずもれしらるることなくいくひとあらばわれらはこれにがっしょうせんしゅうきょうはつかれてかがくによってちかんされ　しかもかがくはつめたくくらいしゅうきょうちゅうの",
+      "sentence_individual_grammar_level": "N2"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "宗教家真宗科学は如何短かき過去の記録によって悠久の未来を外部から証明し得ぬ科学の証拠もわれらがただ而く感ずるばかりであるそして明日に関して何等の希望を与へぬいま宗教は気休めと宣伝地獄芸術はいまわれらを離れ多くはわびしく堕落したTolstoiブル内的衝動遊戯人口の一割がそれを買ひ鑑賞し享楽し九割は世々に疲れて死するシペングラア都会の脳髄人の遊戯生活名誉智的労働霊的所産にあらずここに芸術は無力と虚偽であるワグナア以後の音楽マネイセザンヌ以後の絵画エマーソン近代の創意と美の源は涸れ才気避難所ロマンローラン非生産的享楽いま宗教家芸術家とは真善若くは美を独占し販るものである（科学ももとより販売される）室伏人間の自然征服戦――人物商品機械人霊魂大地自然自由が失はれて……これらの表現があるか即ち文化があるか芸術があるかそれは失はれた文化の模倣で",
+      "furigana": "そうぞうろん　しゅみやませつ　しんとうははいてんのあまりぞくであるれきしてきごびゅうみえざるかげにおどされたしゅうきょうか　しんしゅうかがくはどう　たんかきかこのきろくによってゆうきゅうのみらいをがいぶからしょうめいしえぬかがくのしょうこもわれらがただ而くかんずるばかりであるそしてあすにかんしてなんらのきぼうをあたへぬ　いましゅうきょうはきやすめとせんでん　じごくげいじゅつはいまわれらをはなれおおくはわびしくだらくしたtolstoi　ぶる　ないてきしょうどう　ゆうぎ　じんこうのいちわりがそれをかいひかんしょうしきょうらくしきゅうわりはせいせいにつかれてしするしぺんぐらあ　とかいののうずい　ひとのゆうぎ　せいかつ　めいよ　ちてきろうどう　れいてきしょさんにあらずここにげいじゅつはむりょくときょぎである　わぐなあいごのおんがく　まねい　せざんぬいごのかいがえまーそん　きんだいのそういとびのみなもとはかれ　さいき　ひなんしょろまんろーらん　ひせいさんてききょうらくいましゅうきょうかげいじゅつかとはしんぜんもしくわびをどくせんしはんるものであるきごうかがくももとよりはんばいされるきごうむろふし　にんげんのしぜんせいふくせんきごうきごう",
+      "sentence_individual_grammar_level": "N2"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "ある家の意義よくその人の声を聞け偽の語をかぎつけよ大谷光瑞云ふ自ら称して思想家なりといふ人たれか思想を有せざるものあらんやわれらに購ふべき暇もなくまたさるものを必要とせぬいまやわれらは新に正しき道を行きわれらの美をば創らねばならぬ［＃ここから２段組］［＃１段目］♂［＃「♂」は矢印が下向き］カーペンター少年機械工の例♂［＃「♂」は矢印が下向き］当地方大工の例多くの経典まことの詩歌（第一作）♂［＃「♂」は矢印が下向き］3000／5500［＃「3000／5500」は分数］万民話民謡農民芸術はそ［＃２段目］農民よ奮ひ立てそしてわれらの――の表現を持てわれらは今日まで睡ってゐた日本の芸術はその土を踏んで通って来た尚それを侮辱し罵倒して当然とするその芸術は何であるか［＃ここで段組終わり］芸術をもてあの灰いろの労働を燃せ♂［＃「♂」は矢印が下向き］芸術の回復は労働に於ける悦びの回復でなければならぬMorris“Artisman'",
+      "furigana": "　しょうひんきかい　ひと　れいこん　だいち　しぜん　じゆうがうしなはれてきごうきごうこれらのひょうげんがあるか　すなわちぶんかがあるか　げいじゅつがあるか　それはうしなはれたぶんかのもほうである　いえのいぎよくそのひとのこえをきけ　にせのごをかぎつけよ　おおやこうずいゆふ　みずからしょうしてしそうかなりといふ　ひとたれかしそうをゆうせざるものあらんやわれらに購ふべきひまもなくまたさるものをひつようとせぬいまやわれらはしんにまさしきみちをいき　われらのびをばつくらねばならぬきごう#ここからにだんくみきごうきごう#いちだんめ]♂[#「♂」はやじるしがしたむききごうかーぺんたー　しょうねんきかいこうのれい♂[#「♂」はやじるしがしたむききごうあたりちほうだいくのれいおおくのきょうてんまことのしいかきごうだいいちさくきごう　きごうきごう#きごうきごうきごうはやじるしがしたむききごう　さんれいれいれいきごうごごれいれいきごう#きごうさんれいれいれいきごうごごれいれいきごうはぶんすうきごうまんみんわみんようのうみんげいじゅつはそきごう#にだんめきごうのうみんよ奮ひたてそしてわれらのきごうきごうのひょうげんをもてわれらはきょうまでねむっていたにっぽんのげいじゅつはそのつちをふんでかよってきた　なおそれをぶじょくしばとうしてとうぜんとするそのげいじゅつはなんであるかきごう#ここで",
+      "sentence_individual_grammar_level": "N2"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "sexpressionofhisjoyinlabour.”労働は本能である労働は常に苦痛ではない労働は常に創造である創造は常に享楽である人間を犠牲にして生産に仕ふるとき苦痛となるトロツキー………………………………………………………Morris◎明かに有用な目的休息自らの創造生産／時間の交易物は自ら造れ変化能力の発展環境の楽しいこと好める伴侶あることここにはわれら不断の浄い創造がある彼の音楽は市井の雑音ここに求めんとするものは自ら鳴る天の楽♂［＃「♂」は矢印が下向き］エマーソン斯ノ如キ人ハ都人よ来ってわれらに交れ世界よ他意なきわれらを容れよ",
+      "furigana": "だんぐみおわりきごうげいじゅつをもてあのはいいろのろうどうをもせきごうきごう#きごうきごうきごうはやじるしがしたむききごうげいじゅつのかいふくはろうどうにおけるよろこびのかいふくでなければならぬ　もりすきごうあーといずmanきごうsえくすぷれっしょんおぶえいちあいえすjoyいんlabour．きごうろうどうはほんのうである　ろうどうはつねにくつうではない　ろうどうはつねにそうぞうであるそうぞうはつねにきょうらくである　にんげんをぎせいにしてせいさんにつかふるときくつうとなるとろつきーきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうきごうもりす　　きごうあきらかにゆうようなもくてききゅうそくみずからのそうぞうせいさんきごうじかんのこうえきぶつはみずからつくれへんかのうりょくのはってんかんきょうのたのしいことこのめるはんりょあることここにはわれ",
+      "sentence_individual_grammar_level": "N2"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

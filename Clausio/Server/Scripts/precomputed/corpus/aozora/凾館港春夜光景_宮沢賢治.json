@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N5",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "地球照ある七日の月が、海峡の西にかかって、岬の黒い山々が雲をかぶってたゞずめば、そのうら寒い螺鈿の雲も、またおぞましく呼吸するそこに喜歌劇オルフィウス風の、赤い酒精を照明し、妖蠱奇怪な虹の汁をそゝいで、春と夏とを交雑し水と陸との市場をつくる……………………きたわいなつじうらはっけがきたわいなオダルハコダテガスタルダイト、",
+      "furigana": "ちきゅうてらしあるななかのつきが、かいきょうのにしにかかって、みさきのくろいやまやまがくもをかぶってただずめば、そのうらさむいらでんのくもも、またおぞましくこきゅうするそこにきかげきおるふぃうすふうの、あかいしゅせいをしょうめいし、あやかしこきっかいなにじのしるをそのいで、はるとなつとをこうざつしみずとりくとのしじょうをつくるきごうきごうきごうきごうきごうきごうきごうきごうきたわいなつじうらはっけがきたわいなおだるはこだてがすたるだいと、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "ハコダテネムロインデコライトマオカヨコハマ船燈みどり、フナカハロモエ汽笛は八時うんとそんきのはやわかり、かいりくいっしょにわかります海ぞこのマクロフィスティス群にもまがふ、巨桜の花の梢には、いちいちに氷質の電燈を盛り、朱と蒼白のうっ",
+      "furigana": "はこだてねむろいんでこらいとまおかよこはまふねあかりみどり、ふなかはろもえきてきははちじうんとそんきのはやわかり、かいりくいっしょにわかりますうみぞこのまくろふぃすてぃすぐんにもまがふ、きょさくらのはなのこずえには、いちいちにひょうしつのでんとうをもり、しゅとそうはくのうっ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "こんかうに、海百合の椀を示せば釧路地引の親方連は、まなじり遠く酒を汲み、魚の歯したワッサーマンは、狂ほしく灯影を過ぎる……五がつははこだてこうえんち、えんだんまちびとねがひごと、うみはうちそと日本うみ、りゃうばのあたりもわかります……夜ぞらにふるふビオロン",
+      "furigana": "こんかうに、うみゆりのわんをしめせばくしろじびきのおやかたれんは、まなじりとおくさけをくみ、さかなのはしたわっさーまんは、きょうほしくほかげをすぎるきごうきごうごがつははこだてこうえんち、えんだんまちびとねがひごと、うみはうちそとにっぽんうみ、りゃうばのあたりもわかります．きごうよるぞらにふるふびおろん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "と銅鑼、サミセンにもつれる笛や、繰りかへす螺のスケルツォあはれマドロス田谷力三は、ひとりセビラの床屋を唱ひ、高田正夫はその一党と、紙の服着てタンゴを踊るこのとき海霧はふたたび襲ひはじめは翔ける火蛋白石ややがては丘と",
+      "furigana": "とどら、さみせんにもつれるふえや、くりかへすにしのすけるつぉあはれまどろすたやりきぞうは、ひとりせびらのとこやをしょうひ、たかだまさおはそのいっとうと、かみのふくきてたんごをおどるこのときうみぎりはふたたびかさねひはじめはかけるひたんぱくせきややがてはおかと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "広場をつゝみ月長石の映えする雨に孤光わびしい陶磁とかはり、白のテントもつめたくぬれて、紅蟹まどふバナナの森を、辛くつぶやくクラリオネット風はバビロン柳をはらひ、またときめかす花梅のかほり、青いえりしたフランス兵は桜の枝をさゝげてわらひ船渠会社の観桜団が瓶をかざして広場を穫れば汽笛はふるひ犬吠えて地照かぐろい七日の月は日本海の雲にかくれる",
+      "furigana": "ひろばをつつみげっちょうせきのはえするあめにここうわびしいとうじとかはり、しろのてんともつめたくぬれて、くれないかにまどふばななのもりを、つらくつぶやくくらりおねっとふうはばびろんりゅうをはらひ、またときめかすはなうめのかほり、あおいえりしたふらんすへいはさくらのえだをささげてわらひせんきょかいしゃのかんおうだんがびんをかざしてひろばをかればきてきはふるひいぬほえてちてらしかぐろいななかのつきはにっぽんかいのくもにかくれる",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "造りの家が",
+      "furigana": "つくりのいえが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "ありまし",
+      "furigana": "ありまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}

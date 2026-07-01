@@ -1,0 +1,293 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N5",
+  "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "前十七等官レオーノ・",
+      "furigana": "ぜんじゅうななとうかん　れおーの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "キュースト誌宮沢賢治",
+      "furigana": "・きゅーすとし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "訳述そのころわたくしは、",
+      "furigana": "　やくじゅつそのころわたくし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "モリーオ市の博物",
+      "furigana": "は、もりーおしの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "局に勤めて居りました。",
+      "furigana": "はくぶつきょくにつとめておりまし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "十八等官でしたから役所のなかでも、ずうっと",
+      "furigana": "じゅうはちとうかんでしたからやくしょのなかでも、ずうっと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "下の方でしたし俸給もほんのわずかでし",
+      "furigana": "したのかたでしたしほうきゅうもほんのわずかでし",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "たが、受持ちが標本の採集",
+      "furigana": "たが、うけもちがひょうほんのさいしゅう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "や整理で生れ付き好きなことでしたから、",
+      "furigana": "やせいりでうまれつきすきなことでしたから、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "わたくしは毎日ずいぶん愉快にはたらきました。",
+      "furigana": "わたくしはまいにちずいぶんゆかいにはたらきました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "殊にそのころ、モリーオ市では競馬場を植物園に拵え直すというので、その",
+      "furigana": "ことにそのころ、もりーおしではけいばじょうをしょくぶつえんにこしらえなおすというので、その",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "景色のいいまわりにアカシヤを植え込んだ広い地面が、切符売場や信号所の建物のついたまま、",
+      "furigana": "けしきのいいまわりにあかしやをうえこんだひろいじめんが、きっぷうりばやしんごうしょのたてもののついたまま、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "わたくしどもの役所の方へまわって来たものですから、わたくしはすぐ宿直という",
+      "furigana": "わたくしどものやくしょのほうへまわってきたものですから、わたくしはすぐしゅくちょくという",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "名前で月賦で買った小さな蓄音器と二十枚ばかりの",
+      "furigana": "なまえでげっぷでかったちいさなちくおんきとにじゅうまいばかりの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "レコードをもって、その番小屋にひとり住むことになりました。",
+      "furigana": "れこーどをもって、そのばんごやにひとりすむことになりました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "わたくしはそこの馬を",
+      "furigana": "わたくしはそこのうまを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "置く場所に板で小さな",
+      "furigana": "おくばしょにいたでちいさな",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "しきいをつけ",
+      "furigana": "しきいをつけ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "て一疋の山羊を",
+      "furigana": "ていちひきのやぎを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "飼いました。",
+      "furigana": "かいました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "毎朝その乳をしぼってつめたいパンをひたしてたべ、それから",
+      "furigana": "まいあさそのちちをしぼってつめたいぱんをひたしてたべ、それから",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "黒い革のかばんへすこしの書類や雑誌を入れ",
+      "furigana": "くろいかわのかばんへすこしのしょるいやざっしをいれ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "、靴もきれいにみがき、並木の",
+      "furigana": "、くつもきれいにみがき、なみきの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "ポプラの影法師を大股にわたって市の役所",
+      "furigana": "ぽぷらのかげぼうしをおおまたにわたってしのやくしょ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "へ出て行くのでした。",
+      "furigana": "へでていくのでした。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ]
+}
