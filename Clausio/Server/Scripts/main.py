@@ -1,21 +1,81 @@
-import glob
+from __future__ import annotations
+
 import json
 import os
-import tempfile
+from contextlib import asynccontextmanager
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-try:
-    from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
-    LIVE_MODE = True
-except (Exception, SystemExit):
-    LIVE_MODE = False
 
-from corpus_providers import get_all_providers, get_provider
+BASE_DIR = Path(__file__).resolve().parent
+PRECOMPUTED_DIR = BASE_DIR / "precomputed"
+NEWS_PRE_DIR = PRECOMPUTED_DIR / "news"
+STORIES_PRE_DIR = PRECOMPUTED_DIR / "stories"
+CORPUS_PRE_DIR = PRECOMPUTED_DIR / "corpus"
 
-app = FastAPI(title="Clausio API")
+REQUIRED_INDEX_FILES = [
+    PRECOMPUTED_DIR / "stories_index.json",
+    PRECOMPUTED_DIR / "news_index.json",
+    PRECOMPUTED_DIR / "corpus_index.json",
+]
+
+VALID_LEVELS = {"N5", "N4", "N3", "N2", "N1"}
+
+
+def _load_json(path: Path):
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _normalize_level(level: str) -> str:
+    normalized = (level or "").upper().strip()
+    if normalized not in VALID_LEVELS:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid level '{level}'. Expected one of: N5, N4, N3, N2, N1.",
+        )
+    return normalized
+
+
+def _story_name(file_path: str) -> str:
+    return os.path.basename(file_path).replace(".txt", "").strip()
+
+
+def _safe_id(raw: str) -> str:
+    return (
+        (raw or "")
+        .strip()
+        .replace("/", "_")
+        .replace("\\", "_")
+        .replace("..", "_")
+        .replace("?", "_")
+        .replace("&", "_")
+        .replace("=", "_")
+        .replace(":", "_")
+    )
+
+
+def _require_precomputed_startup() -> None:
+    missing = [str(p) for p in REQUIRED_INDEX_FILES if not p.exists()]
+    if missing:
+        raise RuntimeError(
+            "Missing required precomputed files. "
+            "Run weekly_precompute.py before starting the API. "
+            f"Missing: {', '.join(missing)}"
+        )
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    _require_precomputed_startup()
+    yield
+
+
+app = FastAPI(title="Clausio API", lifespan=lifespan)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -23,17 +83,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PRECOMPUTED_DIR = os.path.join(BASE_DIR, "precomputed")
-NEWS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "news")
-STORIES_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "stories")
-CORPUS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "corpus")
-STORIES_SRC_DIR = os.path.join(BASE_DIR, "Stories")
-CACHE_DIR = os.environ.get("CACHE_DIR", os.path.join(tempfile.gettempdir(), "ClausioCache"))
-
-for d in (NEWS_PRE_DIR, STORIES_PRE_DIR, CORPUS_PRE_DIR, CACHE_DIR):
-    os.makedirs(d, exist_ok=True)
 
 
 class PuzzleRequest(BaseModel):
@@ -53,169 +102,189 @@ class CorpusPuzzleRequest(BaseModel):
     level: str
 
 
-def _load(path: str) -> dict:
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
-
-
-def _save(path: str, payload: dict):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-
-
-def _story_name(file_path: str) -> str:
-    return os.path.basename(file_path).replace(".txt", "")
-
-
-def _safe_id(raw: str) -> str:
-    return raw.replace("/", "_").replace(":", "_").replace(".", "_")[:200]
-
-
 @app.get("/api/stories")
 def list_available_stories():
-    index_path = os.path.join(PRECOMPUTED_DIR, "stories_index.json")
-    if os.path.exists(index_path):
-        index = _load(index_path)
-        seen, out = set(), []
-        for entry in index:
-            if entry["name"] not in seen:
-                seen.add(entry["name"])
-                out.append({"name": entry["name"], "relative_path": entry["name"]})
-        return {"stories": out}
+    index_path = PRECOMPUTED_DIR / "stories_index.json"
+    index = _load_json(index_path)
 
-    if not os.path.exists(STORIES_SRC_DIR):
-        return {"stories": []}
+    seen = set()
+    stories = []
 
-    found = glob.glob(os.path.join(STORIES_SRC_DIR, "**", "*.txt"), recursive=True)
-    return {
-        "stories": [
+    for entry in index:
+        name = entry.get("name", "").strip()
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        stories.append(
             {
-                "name": os.path.basename(p).replace(".txt", ""),
-                "relative_path": os.path.basename(p).replace(".txt", ""),
+                "name": name,
+                "relative_path": name,
             }
-            for p in sorted(found)
-        ]
+        )
+
+    return {"stories": stories}
+
+
+@app.get("/api/news/topics")
+def get_news_topics(level: str = "N4"):
+    normalized_level = _normalize_level(level)
+    index_path = PRECOMPUTED_DIR / "news_index.json"
+    index = _load_json(index_path)
+    topics = index.get(normalized_level, [])
+
+    return {
+        "status": "success",
+        "topics": [
+            {
+                "id": t["id"],
+                "title": t["title"],
+                "link": t.get("link", ""),
+                "summary_html": "",
+            }
+            for t in topics
+        ],
     }
 
 
 @app.post("/api/puzzle/generate")
 def fetch_story_puzzle(request: PuzzleRequest):
-    level = request.level.upper().strip()
+    level = _normalize_level(request.level)
     story_name = _story_name(request.file_path)
+    path = STORIES_PRE_DIR / f"{story_name}_{level}.json"
 
-    pre_path = os.path.join(STORIES_PRE_DIR, f"{story_name}_{level}.json")
-    if os.path.exists(pre_path):
-        return _load(pre_path)
-
-    if LIVE_MODE:
-        src_path = (
-            request.file_path
-            if os.path.exists(request.file_path)
-            else os.path.join(STORIES_SRC_DIR, "miyazawa_kenji_stories", f"{story_name}.txt")
+    if not path.exists():
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                f"No precomputed story puzzle for '{story_name}' at level '{level}'. "
+                "Run weekly_precompute.py and redeploy."
+            ),
         )
 
-        if not os.path.exists(src_path):
-            raise HTTPException(status_code=404, detail=f"Source file not found: {story_name}")
+    return _load_json(path)
 
-        cache_path = os.path.join(CACHE_DIR, f"{story_name}_{level}_5x5_puzzle.json")
-        if os.path.exists(cache_path):
-            return _load(cache_path)
 
-        payload = build_puzzle_json(src_path, level, CACHE_DIR)
-        if not payload:
-            raise HTTPException(status_code=500, detail="Puzzle generation returned empty payload.")
+@app.post("/api/news/puzzle/generate")
+def fetch_news_puzzle(request: NewsPuzzleRequest):
+    _normalize_level(request.level)
+    path = NEWS_PRE_DIR / f"{_safe_id(request.news_id)}.json"
 
-        _save(cache_path, payload)
-        return payload
+    if not path.exists():
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                f"No precomputed news puzzle for article '{request.news_id}'. "
+                "Run weekly_precompute.py and redeploy."
+            ),
+        )
 
-    raise HTTPException(
-        status_code=404,
-        detail=f"No precomputed puzzle for '{story_name}' at {level}.",
-    )
+    return _load_json(path)
 
 
 @app.get("/api/corpus/sources")
 def corpus_sources():
+    index_path = PRECOMPUTED_DIR / "corpus_index.json"
+    index = _load_json(index_path)
+
     sources = []
-
-    for p in get_all_providers():
-        entry = {
-            "id": p.SOURCE_ID,
-            "requires_vpn": p.REQUIRES_VPN,
-            "available": p.is_available(),
-        }
-
-        if hasattr(p, "SUPPORTED_LEVELS"):
-            try:
-                entry["supports"] = sorted(list(p.SUPPORTED_LEVELS))
-            except Exception:
-                pass
-
-        sources.append(entry)
+    for source, by_level in sorted(index.items()):
+        supports = sorted(
+            [level for level, items in by_level.items() if items],
+            key=lambda x: ["N5", "N4", "N3", "N2", "N1"].index(x),
+        )
+        sources.append(
+            {
+                "id": source,
+                "supports": supports,
+                "requires_vpn": source == "nhk_general",
+                "available": True,
+            }
+        )
 
     return {"sources": sources}
 
 
 @app.get("/api/corpus/topics")
 def get_corpus_topics(source: str, level: str = "N4"):
-    source = source.strip().lower()
-    level = level.upper().strip()
-    index_path = os.path.join(PRECOMPUTED_DIR, "corpus_index.json")
+    normalized_level = _normalize_level(level)
+    normalized_source = (source or "").strip()
 
-    if not os.path.exists(index_path):
+    index_path = PRECOMPUTED_DIR / "corpus_index.json"
+    index = _load_json(index_path)
+
+    if normalized_source not in index:
         raise HTTPException(
             status_code=404,
-            detail="corpus_index.json not found. Run weekly_precompute.py"
+            detail=f"Unknown corpus source '{normalized_source}'.",
         )
 
-    index = _load(index_path)
+    topics = index.get(normalized_source, {}).get(normalized_level, [])
 
-    # weekly_precompute.py writes:
-    # corpus_index[source][detected_level] = [ ... ]
-    topics = index.get(source, {}).get(level, [])
-
-    return {"status": "success", "topics": topics}
+    return {
+        "status": "success",
+        "topics": topics,
+    }
 
 
 @app.post("/api/corpus/puzzle/generate")
 def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
-    source = request.source.strip().lower()
-    level = request.level.upper().strip()
-    topic_id = request.topic_id
+    _normalize_level(request.level)
+    source = (request.source or "").strip()
+    topic_id = (request.topic_id or "").strip()
 
-    pre_path = os.path.join(CORPUS_PRE_DIR, source, f"{_safe_id(topic_id)}.json")
-    if os.path.exists(pre_path):
-        return _load(pre_path)
+    if not source:
+        raise HTTPException(status_code=400, detail="source is required.")
+    if not topic_id:
+        raise HTTPException(status_code=400, detail="topic_id is required.")
 
-    if not LIVE_MODE:
+    path = CORPUS_PRE_DIR / source / f"{_safe_id(topic_id)}.json"
+
+    if not path.exists():
         raise HTTPException(
             status_code=404,
-            detail="Precomputed puzzle not found and live mode is unavailable."
+            detail=(
+                f"No precomputed corpus puzzle for source='{source}', topic_id='{topic_id}'. "
+                "Run weekly_precompute.py and redeploy."
+            ),
         )
 
-    provider = get_provider(source)
-    if not provider:
-        raise HTTPException(status_code=404, detail=f"Unknown source: {source}")
+    return _load_json(path)
 
-    stub_topic = None
-    for t in provider.fetch_topics():
-        if t.id == topic_id or _safe_id(t.id) == _safe_id(topic_id):
-            stub_topic = t
-            break
 
-    if stub_topic is None:
-        raise HTTPException(status_code=404, detail=f"Topic not found: {topic_id}")
+@app.get("/api/debug/scrape")
+def debug_info(url: str = ""):
+    summary = {
+        "mode": "static-precomputed-only",
+        "url_param_ignored": url,
+    }
 
-    if source == "aozora":
-        src_path = stub_topic.metadata["file_path"]
-        payload = build_puzzle_json(src_path, level, CACHE_DIR)
-        if not payload:
-            raise HTTPException(status_code=500, detail="Failed to generate Aozora puzzle.")
-        return payload
+    stories_index_path = PRECOMPUTED_DIR / "stories_index.json"
+    news_index_path = PRECOMPUTED_DIR / "news_index.json"
+    corpus_index_path = PRECOMPUTED_DIR / "corpus_index.json"
 
-    item = provider.fetch_sentences(stub_topic)
-    if len(item.sentences) < 5:
-        raise HTTPException(status_code=500, detail="Not enough valid Japanese sentences found.")
+    if stories_index_path.exists():
+        stories_index = _load_json(stories_index_path)
+        summary["stories_count"] = len(stories_index)
 
-    payload = build_puzzle_from_news_tokens(item.sentences[:5], item.furigana, level)
-    return payload
+    if news_index_path.exists():
+        news_index = _load_json(news_index_path)
+        summary["articles_by_level"] = {
+            level: len(items) for level, items in news_index.items()
+        }
+
+    if corpus_index_path.exists():
+        corpus_index = _load_json(corpus_index_path)
+        summary["corpus_sources"] = {
+            source: {level: len(items) for level, items in levels.items()}
+            for source, levels in corpus_index.items()
+        }
+
+    return summary
+
+
+@app.post("/api/cache/clear")
+def clear_cache():
+    return {
+        "status": "success",
+        "detail": "Static precomputed deployment — no server-side cache to clear.",
+    }
