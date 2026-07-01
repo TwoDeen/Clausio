@@ -1,4 +1,5 @@
 from __future__ import annotations
+from id_utils import safe_id
 
 import json
 import os
@@ -42,20 +43,6 @@ def _normalize_level(level: str) -> str:
 
 def _story_name(file_path: str) -> str:
     return os.path.basename(file_path).replace(".txt", "").strip()
-
-
-def _safe_id(raw: str) -> str:
-    return (
-        (raw or "")
-        .strip()
-        .replace("/", "_")
-        .replace("\\", "_")
-        .replace("..", "_")
-        .replace("?", "_")
-        .replace("&", "_")
-        .replace("=", "_")
-        .replace(":", "_")
-    )
 
 
 def _require_precomputed_startup() -> None:
@@ -167,7 +154,7 @@ def fetch_story_puzzle(request: PuzzleRequest):
 @app.post("/api/news/puzzle/generate")
 def fetch_news_puzzle(request: NewsPuzzleRequest):
     _normalize_level(request.level)
-    path = NEWS_PRE_DIR / f"{_safe_id(request.news_id)}.json"
+    path = NEWS_PRE_DIR / f"{safe_id(request.news_id)}.json"
 
     if not path.exists():
         raise HTTPException(
@@ -237,7 +224,7 @@ def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
     if not topic_id:
         raise HTTPException(status_code=400, detail="topic_id is required.")
 
-    path = CORPUS_PRE_DIR / source / f"{_safe_id(topic_id)}.json"
+    path = CORPUS_PRE_DIR / source / f"{safe_id(topic_id)}.json"
 
     if not path.exists():
         raise HTTPException(

@@ -1,4 +1,5 @@
 from __future__ import annotations
+from id_utils import safe_id
 
 import argparse
 import glob
@@ -33,12 +34,8 @@ def _load(path: str):
         return json.load(f)
 
 
-def _safe_id(raw: str) -> str:
-    return raw.replace("/", "_").replace(":", "_").replace(".", "_")[:200]
-
-
 def _corpus_json_path(source: str, topic_id: str) -> str:
-    return os.path.join(CORPUS_PRE_DIR, source, f"{_safe_id(topic_id)}.json")
+    return os.path.join(CORPUS_PRE_DIR, source, f"{safe_id(topic_id)}.json")
 
 
 def _detected_level_from_payload(payload: dict) -> str:
