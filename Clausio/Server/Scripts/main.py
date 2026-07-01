@@ -239,7 +239,7 @@ def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
 
 @app.get("/api/debug/file-check")
 def debug_file_check(source: str, topic_id: str):
-    safe = _safe_id(topic_id)
+    safe = safe_id(topic_id)
     path = CORPUS_PRE_DIR / source / f"{safe}.json"
     return {
         "source": source,
