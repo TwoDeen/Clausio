@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "消えて〔以下なし〕―――",
-      "furigana": "ゆききえてきごういかなしきごう\nきごう",
+      "clause_text": "消えて〔以下なし〕――――",
+      "furigana": "ゆききえてきごういかなしきごう\nきごうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "―――――青年団",
-      "furigana": "きごうきごうきごうきごうきごうきごうきごう\n",
+      "clause_text": "――――青年団",
+      "furigana": "きごうきごうきごうきごうきごうきごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {

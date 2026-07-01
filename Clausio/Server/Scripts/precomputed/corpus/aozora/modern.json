@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「いったい",
-      "furigana": "きごういったい",
+      "furigana": "「いったい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "とやってみたいもんだなあ」「",
-      "furigana": "とやってみたいもんだなあきごう\n",
+      "clause_text": "とやってみたいもんだなあ」",
+      "furigana": "とやってみたいもんだなあ」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "鹿の黄色い横腹なんかに、二、三発",
-      "furigana": "きごうしかのきいろいよこばらなんかに、に、さん",
+      "clause_text": "「鹿の黄色い横腹なんかに、二、三発",
+      "furigana": "\n「しかのきいろいよこばらなんかに、に、さん",
       "sentence_individual_grammar_level": "N4"
     },
     {

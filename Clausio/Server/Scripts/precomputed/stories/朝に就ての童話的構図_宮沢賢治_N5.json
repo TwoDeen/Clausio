@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「停まれ",
-      "furigana": "きごうとまれ",
+      "furigana": "「とまれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、誰かツ",
-      "furigana": "、だれかつ",
+      "clause_text": "、誰か",
+      "furigana": "、だれか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "」「第",
-      "furigana": "きごう\nきごう",
+      "clause_text": "ツ」「第",
+      "furigana": "つ」\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」「どこへ行くか」「第五十聯隊聯隊本部」歩哨は",
-      "furigana": "きごう\nきごうどこへいくかきごう\nきごうだいごじゅうれんたい　れんたいほんぶきごう",
+      "clause_text": "」「どこへ行くか」「第五十聯隊聯隊本部」歩哨はスナイドル",
+      "furigana": "」\n「どこへいくか」\n「だいごじゅうれんたい　れんたいほんぶ」\nほしょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "スナイドル式の銃剣を、向ふの胸に斜めにつきつけ",
-      "furigana": "\nほしょうはすないどるしきのじゅうけんを、むこうのむねにななめに",
+      "clause_text": "式の銃剣を、向ふの胸に斜めにつきつけ",
+      "furigana": "しきのじゅうけんを、むこうのむねにななめに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「よし、通れ",
-      "furigana": "きごうよし、とおれ",
+      "clause_text": "「よし、通れ」伝令は",
+      "furigana": "「よし、とおれ」\nでんれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "」伝令はいそがしく",
-      "furigana": "きごう\nでんれいは",
+      "clause_text": "いそがしく",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「わたしらの先祖や",
-      "furigana": "きごうわたしらのせんぞや",
+      "furigana": "「わたしらのせんぞや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」「黄金の鎌」が西のそらにかゝつ",
-      "furigana": "きごう\nきごうおうごんのかまきごうがにしのそらにかの",
+      "clause_text": "」「黄金の鎌」が西の",
+      "furigana": "」\n「おうごんのかま」がにし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "て、風もないしづか",
-      "furigana": "つて、かぜもない",
+      "clause_text": "そらにかゝつて、風もないしづかな晩",
+      "furigana": "のそらにかのつて、かぜもないしづかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "な晩に、一ぴきのとしよりの梟が、林の中の",
-      "furigana": "なばんに、いちぴきのとしよりのふくろうが、はやしのなか",
+      "clause_text": "に、一ぴきのとしよりの梟が、",
+      "furigana": "ばんに、いちぴきのとしよりのふくろうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "低い松の枝から、斯う私に",
-      "furigana": "のひくいまつのえだから、こうわたくし",
+      "clause_text": "林の中の低い松の枝",
+      "furigana": "、はやしのなかのひくいまつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "話しかけました。",
-      "furigana": "にはなしかけました",
+      "clause_text": "から、斯う私に話しかけました。",
+      "furigana": "えだから、こうわたくしにはなしかけました",
       "sentence_individual_grammar_level": "N5"
     },
     {

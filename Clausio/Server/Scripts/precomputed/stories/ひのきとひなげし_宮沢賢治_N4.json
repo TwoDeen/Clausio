@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「おまえたちはみんな",
-      "furigana": "きごうおまえたちはみんな",
+      "furigana": "「おまえたちはみんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あらしのとこなん",
-      "furigana": "あらしのとこなん",
+      "clause_text": "あらしのとこなんだ」「いやあ",
+      "furigana": "あらしのとこなんだ」\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "だ」「いやあだ、あたしら、",
-      "furigana": "だきごう\nきごういやあだ、あたしら",
+      "clause_text": "だ、あたしら、そんな",
+      "furigana": "だ、あたしら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんな帆船やなんかじゃないわ。",
-      "furigana": "、そんなほぶねやなんかじゃないわ",
+      "clause_text": "帆船やなんかじゃないわ。",
+      "furigana": "ほぶねやなんかじゃないわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ひなげし",
-      "furigana": "きごうひなげし",
+      "furigana": "」ひなげし",
       "sentence_individual_grammar_level": "N5"
     },
     {

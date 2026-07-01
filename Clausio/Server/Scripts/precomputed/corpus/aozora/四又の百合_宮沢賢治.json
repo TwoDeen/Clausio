@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "四又の百合四又（よまた）の百合（ゆり）宮沢賢治「正※知（",
-      "furigana": "よんまたのゆり\nよんまたのゆり\nみやざわけんじ\nきごうただし",
+      "clause_text": "四又の百合四又（よまた）の百合（ゆり）宮沢賢治「正※知",
+      "furigana": "よんまたのゆり\nよんまたのゆり\nみやざわけんじ\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）をおわたりになっ",
-      "furigana": "きごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたり",
+      "clause_text": "（しょうへんち）はあしたの朝の七時ごろ",
+      "furigana": "ただしきごうちきごうしょうへんちきごうはあしたのあさのなな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "てこの町にいらっしゃるそうだ」こう言（い）う語（ご）が",
-      "furigana": "になってこのまちにいらっしゃるそうだきごう\nこういう",
+      "clause_text": "ヒームキャの河（かわ）をおわたりになっ",
+      "furigana": "じごろひーむきゃのかわをおわたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "すきとおった風といっしょにハームキャの",
-      "furigana": "がすきとおったかぜといっしょに",
+      "clause_text": "てこの町にいらっしゃるそうだ」こう言（い）う語（ご）が",
+      "furigana": "になってこのまちにいらっしゃるそうだ」\nこういう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "城（しろ）の家々にしみわたりました。",
-      "furigana": "のしろのいえいえにしみわたり",
+      "clause_text": "すきとおった風といっしょにハームキャの城（しろ）の家々にしみわたりました。",
+      "furigana": "がすきとおったかぜといっしょにはーむきゃのしろのいえいえにしみわたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "永（なが）い間どんなに正※知（",
-      "furigana": "ながいあいだどんなにただしきごうちきごう",
+      "clause_text": "永（なが）い間どんなに正※知",
+      "furigana": "ながいあいだどんなにただしきごうち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "しょうへんち）のその町に",
-      "furigana": "しょうへんちきごうのそのまちに",
+      "clause_text": "（しょうへんち）のその町に来るのを",
+      "furigana": "きごうしょうへんちきごうのそのまちにくるのを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "来るのを望（のぞ）ん",
-      "furigana": "くるのをのぞん",
+      "clause_text": "望（のぞ）んでいたか",
+      "furigana": "のぞんでいたか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "でいたかしれないのです。",
-      "furigana": "でいたかしれないのです。",
+      "clause_text": "しれないのです。",
+      "furigana": "しれないのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "が正※知（しょうへん",
-      "furigana": "がせいきごうちきごうしょうへん",
+      "clause_text": "が正※知（しょう",
+      "furigana": "がせいきごうちきごうしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ち）のとこへ行ってお",
-      "furigana": "ちきごうのとこへいってお",
+      "clause_text": "へんち）のとこへ行ってお",
+      "furigana": "へんちきごうのとこへいってお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「正※知（しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）",
-      "furigana": "きごうただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわ",
+      "clause_text": "「正※知（しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）をおわたりになっ",
+      "furigana": "「ただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになっ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "をおわたりになってこの町にいらっしゃるそうだ」みんなは思いました、正※知（しょうへんち）はどんなお顔いろでそのお眼（め）はどんなだろう、噂（うわさ）の通り紺（こん）",
-      "furigana": "をおわたりになってこのまちにいらっしゃるそうだきごう\nみんなはおもいました、ただしきごうちきごうしょうへんちきごうはどんなおかおいろでそのおめはどんなだろう、うわさのとおり",
+      "clause_text": "てこの町にいらっしゃるそうだ」みんなは思いました、正※知（しょうへんち）はどんなお顔いろでそのお眼（め）はどんなだろう、噂（うわさ）",
+      "furigana": "てこのまちにいらっしゃるそうだ」\nみんなはおもいました、ただしきごうちきごうしょうへんちきごうはどんなおかおいろでそのおめはどんなだろう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いろの蓮華（れんげ）のはなびらのような瞳（ひとみ）をしていなさるだろうか、お指（ゆび）の爪（つめ）",
-      "furigana": "いろのれんげのはなびらのようなひとみをしていなさるだろうか、おゆびの",
+      "clause_text": "の通り紺（こん）いろの蓮華（れんげ）のはなびらのような瞳（ひとみ）をしていなさるだろうか、お指（ゆび）の爪（つめ）はほんとう",
+      "furigana": "のとおりこんいろのれんげのはなびらのようなひとみをしていなさるだろうか、おゆびのつめは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "はほんとうに赤銅（しゃくどう）いろに光るだろうか、また町から行った人たちが正※知（しょうへんち）とどんなことを言いどんななり",
-      "furigana": "はほんとうにしゃくどうきごうしゃくどうきごういろにひかるだろうか、またまちからいったひとたちがせいきごうちきごうしょうへんちきごうとどんなことをいいどんな",
+      "clause_text": "に赤銅（しゃくどう）いろに光るだろうか、また町から行った人たちが正※知（しょうへんち）とどんなことを言いどんななりをしているだろう、もうみんなはまるで子供（こども）のようにいそいそして、",
+      "furigana": "にしゃくどうきごうしゃくどうきごういろにひかるだろうか、またまちからいったひとたちがせいきごうちきごうしょうへんちきごうとどんなことをいいどんななりをしているだろう、もうみんなはまるでこどものようにいそいそして",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "をしているだろう、もうみんなはまるで子供（こども）のようにいそいそして、まず自分の家をきちんとととのえ、それから表へ出て通りをきれいに掃除（そうじ）しました。",
-      "furigana": "をしているだろう、もうみんなはまるでこどものようにいそいそして、まずじぶんのいえをきちんとととのえ、それからひょうへでてとおりをきれいにそうじしました",
+      "clause_text": "まず自分の家をきちんとととのえ、それから表へ出て通りをきれいに掃除（そうじ）しました。",
+      "furigana": "、まずじぶんのいえをきちんとととのえ、それからひょうへでてとおりをきれいにそうじしました",
       "sentence_individual_grammar_level": "N4"
     }
   ]

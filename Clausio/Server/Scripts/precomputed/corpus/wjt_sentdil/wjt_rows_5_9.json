@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "各地で異常",
-      "furigana": "各地で異常",
+      "clause_text": "各地で異常気象",
+      "furigana": "各地で異常気象",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "気象が増加して",
-      "furigana": "気象が増加して",
+      "clause_text": "が増加して",
+      "furigana": "が増加して",
       "sentence_individual_grammar_level": "N3"
     },
     {

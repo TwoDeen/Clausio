@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "『",
-      "furigana": "きごう",
+      "clause_text": "『クラムボン",
+      "furigana": "きごうくらむぼん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "クラムボン",
-      "furigana": "くらむぼん",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "はわら",
-      "furigana": "はわら",
+      "clause_text": "わら",
+      "furigana": "わら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "』『",
-      "furigana": "きごう\n",
+      "clause_text": "』",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "クラムボン",
-      "furigana": "きごう",
+      "clause_text": "『クラムボン",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "』『",
-      "furigana": "きごう\n",
+      "clause_text": "』",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "クラムボン",
-      "furigana": "きごう",
+      "clause_text": "『クラムボン",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {

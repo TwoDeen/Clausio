@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の近くにある郵便局で「",
-      "furigana": "の近くにある郵便局で「",
+      "clause_text": "の近くにある郵便局で「スプレー",
+      "furigana": "の近くにある郵便局で「スプレー",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "スプレーがまかれた」という通報が",
-      "furigana": "スプレーがまかれた」という通報が",
+      "clause_text": "がまかれた」という通報があり、5人が病院に",
+      "furigana": "がまかれた」という通報があり、5人が病院に",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あり、5人が病院に搬送されましたが、命に別状は",
-      "furigana": "あり、5人が病院に搬送されましたが、命に別状は",
+      "clause_text": "搬送されましたが、命に別状は",
+      "furigana": "搬送されましたが、命に別状は",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "“出国税",
-      "furigana": "“出国税",
+      "clause_text": "“出国税”",
+      "furigana": "“出国税”",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "”きょうから",
-      "furigana": "”きょうから",
+      "clause_text": "きょうから引き上げ",
+      "furigana": "きょうから引き上げ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "引き上げ1人当たり",
-      "furigana": "引き上げ1人当たり",
+      "clause_text": "1人当たり",
+      "furigana": "1人当たり",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「ぜんたい",
-      "furigana": "きごうぜんたい",
+      "furigana": "「ぜんたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「鹿の黄いろ",
-      "furigana": "きごう\nきごうしかの",
+      "furigana": "」\n「しかの",
       "sentence_individual_grammar_level": "N4"
     },
     {

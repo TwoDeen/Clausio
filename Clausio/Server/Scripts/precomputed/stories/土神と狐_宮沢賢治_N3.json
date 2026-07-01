@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（一）［＃「（一",
-      "furigana": "きごういちきごうきごう#きごうきごういち",
+      "clause_text": "（一）［＃「（一）」",
+      "furigana": "きごういちきごうきごう#「きごういちきごう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "）」は縦中横］一本木",
-      "furigana": "きごうきごうはたてなかよこきごう\n",
+      "clause_text": "は縦中横］一本木の野原",
+      "furigana": "はたてなかよこきごう\nいっぽんぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の野原の、北のはづれに、少し",
-      "furigana": "ののはらの、きたのはづれに、",
+      "clause_text": "の、北のはづれに、少し小高く",
+      "furigana": "の、きたのはづれに、すこし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "小高く盛りあがっ",
-      "furigana": "こだかく",
+      "clause_text": "盛りあがった所が",
+      "furigana": "もりあがったところ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た所がありました。",
-      "furigana": "たところがありました",
+      "clause_text": "ありました。",
+      "furigana": "がありました",
       "sentence_individual_grammar_level": "N5"
     },
     {

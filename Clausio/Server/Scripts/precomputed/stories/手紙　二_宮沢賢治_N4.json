@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "大王はけらいに向って「誰か",
-      "furigana": "だいおうはけらいにむかってきごうだれか",
+      "clause_text": "大王はけらいに向って「誰かこの大河",
+      "furigana": "だいおうはけらいにむかって「だれかこのたいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "この大河の水を",
-      "furigana": "このたいがのみずを",
+      "clause_text": "の水をさかさま",
+      "furigana": "のみずをさかさま",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "さかさまにながれさせることの",
-      "furigana": "さかさまにながれさせることの",
+      "clause_text": "にながれさせることの",
+      "furigana": "にながれさせることの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "か」と問われました。",
-      "furigana": "かきごうととわれました。",
+      "furigana": "か」ととわれました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "けらいは皆「陛下よ、",
-      "furigana": "けらいはみなきごうへいかよ、",
+      "furigana": "けらいはみな「へいかよ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます」と",
-      "furigana": "ますきごうと",
+      "clause_text": "ます」と答え",
+      "furigana": "ます」とこたえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "答えました。",
-      "furigana": "こたえました。",
+      "clause_text": "ました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

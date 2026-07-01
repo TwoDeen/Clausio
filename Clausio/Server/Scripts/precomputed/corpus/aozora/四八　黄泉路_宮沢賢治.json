@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "……わが",
-      "furigana": "きごうきごう\n",
+      "furigana": "……\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "）（君は云へりきわが待たば君も必ず来らんと……）（愛しきされど愚かしき遙けくなれの死しけるを",
-      "furigana": "きごう\nきごうきみはいえりき　わがまたば\nきみもかならずきらんときごうきごうきごう\nきごういとしきされどおろかしき\nはるかけくなれの",
+      "clause_text": "）（君は云へりきわが待たば君も必ず来らんと……）",
+      "furigana": "きごう\nきごうきみはいえりき　わがまたば\nきみもかならずきらんと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "亡きと生けるはもろ共に行き交ふことの許されねいざはやなれは",
-      "furigana": "ししけるを\nなきといけるはもろともに\nいきこうふことのゆるされね",
+      "clause_text": "（愛しきされど愚かしき遙けくなれの死しけるを亡きと生けるはもろ共に行き交ふ",
+      "furigana": "……きごう\nきごういとしきされどおろかしき\nはるかけくなれのししけるを\nなきといけるは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "くらやみにわれは愛にぞ行くべかり）（ゆふべはまことしかるらん今宵はしかくあらぬなり）（",
-      "furigana": "\nいざはやなれはくらやみに\nわれはあいにぞいくべかりきごう\nきごうゆふべはまことしかるらん\nこよい",
+      "clause_text": "ことの許されねいざはやなれはくらやみにわれは愛にぞ行くべかり）（ゆふべはまことしかるらん",
+      "furigana": "に\nいきこうふことのゆるされね\nいざはやなれはくらやみに\nわれはあいにぞいくべかりきごう\nきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "とは云へなれは何をもてひととわれとをさまたぐるそのひと",
-      "furigana": "はしかくあらぬなりきごう\nきごうとはゆへなれはなんをもて\nひとと",
+      "clause_text": "今宵はしかくあらぬなり）（とは云へなれは何をもてひととわれとをさまたぐるそのひと",
+      "furigana": "はまことしかるらん\nこよいはしかくあらぬなりきごう\nきごうとはゆへなれはなんをもて\nひとと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "）（",
-      "furigana": "きごう\n",
+      "clause_text": "）",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "しかも",
-      "furigana": "きごう",
+      "clause_text": "（しかも",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {

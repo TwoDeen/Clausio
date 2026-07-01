@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「俺は小さい",
-      "furigana": "きごうおれはちいさい",
+      "furigana": "「おれはちいさい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」「",
-      "furigana": "きごう\n",
+      "clause_text": "」「えゝ",
+      "furigana": "」\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "えゝ、",
-      "furigana": "きごうええ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「",
-      "furigana": "\n",
+      "clause_text": "「さう",
+      "furigana": "\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "さう",
-      "furigana": "きごう",
+      "clause_text": "です",
+      "furigana": "です",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "です",
-      "furigana": "です",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     }
   ]

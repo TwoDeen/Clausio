@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「まったく",
-      "furigana": "きごうまったく",
+      "furigana": "「まったく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "撃ってみたいもの",
-      "furigana": "うってみたいもの",
+      "clause_text": "撃ってみたいものだ",
+      "furigana": "うってみたいものだ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "だな」「鹿の黄色い脇腹に二、三発",
-      "furigana": "だなきごう\nきごうしかのきいろいわきばらにに、さん",
+      "clause_text": "な」「鹿の黄色い脇腹に二",
+      "furigana": "な」\n「しかのきいろいわきばらに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "撃ち込んだら、さぞ",
-      "furigana": "はつうちこんだら、",
+      "clause_text": "、三発撃ち込ん",
+      "furigana": "に、さんはつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "気持ちがいいだろうね。",
-      "furigana": "きもちがいいだろうね",
+      "clause_text": "だら、さぞ気持ちがいいだろうね。",
+      "furigana": "だら、さぞきもちがいいだろうね",
       "sentence_individual_grammar_level": "N4"
     }
   ]

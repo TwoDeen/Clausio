@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（二川こゝにて会したり）（いな、",
-      "furigana": "きごうふたかわここにてかいしたりきごう\nきごういな",
+      "clause_text": "（二川こゝにて会したり）（いな、和賀",
+      "furigana": "きごうふたかわここにてかいしたりきごう\nきごういな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "和賀の川水雪代ふ夏油のそれの十なればその川ここに入ると",
-      "furigana": "、わがのかわみずゆきしろふ\nなつあぶらのそれのじゅうなれば\nそのかわここに",
+      "clause_text": "の川水雪代ふ夏油のそれの十なれば",
+      "furigana": "のかわみずゆきしろふ\nなつあぶらのそれのじゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "云へ）藍と雪とのうすけぶりつらなる",
-      "furigana": "はいるといえきごう\nあいとゆきとのうすけぶり",
+      "clause_text": "その川ここに入ると云へ）藍と雪とのうすけぶりつらなる",
+      "furigana": "ば\nそのかわここにはいるといえきごう\nあいとゆきとのうすけぶり",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「ああ",
-      "furigana": "きごうああ",
+      "furigana": "「ああ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」「知って",
-      "furigana": "きごう\nきごうしっ",
+      "clause_text": "」「知っ",
+      "furigana": "」\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,7 +87,7 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ます",
+      "clause_text": "てます",
       "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」「",
-      "furigana": "きごう\n",
+      "clause_text": "」",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "バキチを",
-      "furigana": "きごうばきち",
+      "clause_text": "「バキチ",
+      "furigana": "\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,7 +153,7 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ご存じ",
+      "clause_text": "をご存じ",
       "furigana": "を",
       "sentence_individual_grammar_level": "N5"
     },

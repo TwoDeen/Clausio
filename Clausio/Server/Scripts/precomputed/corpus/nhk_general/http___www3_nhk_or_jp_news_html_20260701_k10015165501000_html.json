@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "などを行うモバイルPASMOで1日朝",
-      "furigana": "などを行うモバイルPASMOで1日朝",
+      "clause_text": "などを行うモバイルSuicaでけさからアプリでの",
+      "furigana": "などを行うモバイルSuicaでけさからアプリでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "からアプリでのチャージができなくなるなどのトラブル",
-      "furigana": "からアプリでのチャージができなくなるなどのトラブル",
+      "clause_text": "チャージができなくなるなどの",
+      "furigana": "チャージができなくなるなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が起きていましたが、運営する",
-      "furigana": "が起きていましたが、運営する",
+      "clause_text": "トラブルが起きていましたが、JR東日本",
+      "furigana": "トラブルが起きていましたが、JR東日本",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "団体では復旧したと発表しました。",
-      "furigana": "団体では復旧したと発表しました。",
+      "clause_text": "は午後5時34分に復旧したと発表しました。",
+      "furigana": "は午後5時34分に復旧したと発表しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "名古屋",
-      "furigana": "名古屋",
+      "clause_text": "名古屋郵便局で",
+      "furigana": "名古屋郵便局で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "郵便局で“",
-      "furigana": "郵便局で“",
+      "clause_text": "“誤って",
+      "furigana": "“誤って",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "誤ってスプレー",
-      "furigana": "誤ってスプレー",
+      "clause_text": "スプレー”",
+      "furigana": "スプレー”",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "”病院に5人",
-      "furigana": "”病院に5人",
+      "clause_text": "病院に5人",
+      "furigana": "病院に5人",
       "sentence_individual_grammar_level": "N5"
     },
     {

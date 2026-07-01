@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "たに降りきぬ「ただかしこ淀むそらのみかくてわがふるさとにこそ」そのひとりかこち",
-      "furigana": "りょうたついわや\nゆきあめの　　　ひたにふりきぬ\nきごうただかしこ　よどむそらのみ\nかくて",
+      "clause_text": "たに降りきぬ「ただかしこ淀むそらのみかくてわがふるさとにこそ」そのひとりかこちて哭けば狸とも",
+      "furigana": "りょうたついわや\nゆきあめの　　　ひたにふりきぬ\n「ただかしこ　よどむそらのみ\nかくてわが　　ふるさと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "て哭けば狸とも眼はよぼみぬ「すだけるは孔雀ならずやああなんぞ南の鳥をここにして悲しま",
-      "furigana": "　　ふるさとにこそきごう\nそのひとり　　かこちてなけば\nたぬきとも　　　　めはよぼみぬ\nきごう",
+      "clause_text": "眼はよぼみぬ「すだけるは孔雀ならずやああなんぞ南の鳥をここにして",
+      "furigana": "にこそ」\nそのひとり　　かこちてなけば\nたぬきとも　　　　めはよぼみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "しむる」酒ふくみひとりも泣きぬいくたびか鷹はすだき",
-      "furigana": "すだけるは　くじゃくならずや\nああなんぞ　　みなみのとりを\n",
+      "clause_text": "悲しましむる」酒ふくみひとりも泣きぬいくたびか鷹はすだきて手拭は雫をおとし玻璃",
+      "furigana": "ぬ\n「すだけるは　くじゃくならずや\nああなんぞ　　みなみのとりを\nここにして　　かなしま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "て手拭は雫をおとし玻璃の戸の山なみをたゞ三月のみぞれは翔けぬ",
-      "furigana": "ここにして　　かなしましむるきごう\nさけふくみ　　　ひとりもなきぬ\n",
+      "clause_text": "の戸の山なみをたゞ三月のみぞれは翔けぬ",
+      "furigana": "」\nさけふくみ　　　ひとりもなきぬ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {

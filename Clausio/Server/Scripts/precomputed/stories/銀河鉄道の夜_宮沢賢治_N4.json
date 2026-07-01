@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一午後の授業「ではみな",
-      "furigana": "いち　ごごのじゅぎょう\nきごうでは",
+      "furigana": "いち　ごごのじゅぎょう\n「では",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」先生は、黒板に吊した",
-      "furigana": "きごう\nせんせいは、こくばんにつるし",
+      "furigana": "」\nせんせいは、こくばんにつるし",
       "sentence_individual_grammar_level": "N4"
     },
     {

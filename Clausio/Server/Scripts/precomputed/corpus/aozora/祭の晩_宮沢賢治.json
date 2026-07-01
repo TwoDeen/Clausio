@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「空気",
-      "furigana": "きごうくうき",
+      "furigana": "「くうき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "獣」という",
-      "furigana": "じゅうきごうという",
+      "furigana": "じゅう」という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは、髪を長くして、",
-      "furigana": "それは、かみをながくして、",
+      "clause_text": "それは、髪を長くして、だぶだぶのずぼん",
+      "furigana": "それは、かみをながくして、だぶだぶのずぼん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "だぶだぶのずぼんをはいたあばた",
-      "furigana": "だぶだぶのずぼんをはいたあばた",
+      "clause_text": "をはいたあばたな男が、小屋の幕の前に",
+      "furigana": "をはいたあばたなおとこが、こやのまくのまえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "な男が、小屋の幕の前に立って、「さあ、",
-      "furigana": "なおとこが、こやのまくのまえにたって、きごうさあ、",
+      "clause_text": "立って、「さあ、みんな、入れ",
+      "furigana": "たって、「さあ、みんな、いれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "みんな、入れ入れ」と大威張り",
-      "furigana": "みんな、いれいれきごうとおおいばり",
+      "clause_text": "入れ」と大威張り",
+      "furigana": "いれ」とおおいばり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いきなりその男が",
-      "furigana": "いきなりそのおとこが",
+      "clause_text": "いきなりその男が、",
+      "furigana": "いきなりそのおとこが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、「おい、",
-      "furigana": "、\nきごうおい",
+      "clause_text": "「おい、",
+      "furigana": "\n「おい",
       "sentence_individual_grammar_level": "N4"
     },
     {

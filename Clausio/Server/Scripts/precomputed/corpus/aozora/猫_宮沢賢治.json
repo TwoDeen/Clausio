@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "（",
-      "furigana": "きごう",
+      "clause_text": "（アンデルゼン",
+      "furigana": "きごうあんでるぜん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "アンデルゼン",
-      "furigana": "あんでるぜん",
+      "clause_text": "の猫を",
+      "furigana": "のねこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の猫を",
-      "furigana": "のねこを",
+      "clause_text": "知ってゐ",
+      "furigana": "しってい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "知ってゐ",
-      "furigana": "しってい",
+      "clause_text": "ます",
+      "furigana": "ます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ますか。",
-      "furigana": "ますか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {

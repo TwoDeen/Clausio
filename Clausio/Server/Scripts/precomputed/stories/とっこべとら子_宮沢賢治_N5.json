@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "おとら狐にも、いろいろあったの",
-      "furigana": "おとらきつねにも、いろいろあったの",
+      "clause_text": "おとら狐にも、",
+      "furigana": "おとらきつねにも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "でしょうか、私の知って",
-      "furigana": "でしょうか、わたくしのしって",
+      "clause_text": "いろいろあったの",
+      "furigana": "いろいろあったの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いるのは、「と",
-      "furigana": "いるのは、きごうと",
+      "clause_text": "でしょうか、私の知っている",
+      "furigana": "でしょうか、わたくしのしっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "っこべ、とら子」と",
-      "furigana": "っこべ、とらこきごうと",
+      "clause_text": "のは、「とっこべ、とら",
+      "furigana": "のは、「とっこべ、とら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "いうのです。",
-      "furigana": "いうのです。",
+      "clause_text": "子」というのです。",
+      "furigana": "こ」というのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「とっこ",
-      "furigana": "きごうとっこ",
+      "furigana": "「とっこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "べ」と",
-      "furigana": "べきごうと",
+      "furigana": "べ」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「とら",
-      "furigana": "きごうとら",
+      "clause_text": "「とら」",
+      "furigana": "「とら」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "」という",
-      "furigana": "きごうという",
+      "clause_text": "という",
+      "furigana": "という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "みんな「とら」という狐が、",
-      "furigana": "みんなきごうとらきごうというきつねが、",
+      "furigana": "みんな「とら」というきつねが、",
       "sentence_individual_grammar_level": "N5"
     },
     {

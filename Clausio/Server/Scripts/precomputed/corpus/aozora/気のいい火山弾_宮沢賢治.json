@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "はの木のかげに、「ベゴ」といふ",
-      "furigana": "はのきのかげに、きごうべごきごうといふ",
+      "furigana": "はのきのかげに、「べご」といふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「ベゴ」と云ふ名は、その辺の",
-      "furigana": "きごうべごきごうとゆふなは、そのへんの",
+      "clause_text": "「ベゴ」と云ふ名は、",
+      "furigana": "「べご」とゆふなは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "草の中にあちこち",
-      "furigana": "くさのなかにあちこち",
+      "clause_text": "その辺の草の中にあちこち散らばっ",
+      "furigana": "そのへんのくさのなかにあちこちちらばっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "散らばった、稜の",
-      "furigana": "ちらばった、りょうの",
+      "clause_text": "た、稜のあるあまり",
+      "furigana": "た、りょうのあるあまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あるあまり大きくない",
-      "furigana": "あるあまりおおきくない",
+      "clause_text": "大きくない黒い石どもが、",
+      "furigana": "おおきくないくろいいしどもが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "黒い石どもが、つけたのでした。",
-      "furigana": "くろいいしどもが、つけたのでした。",
+      "clause_text": "つけたのでした。",
+      "furigana": "つけたのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あったのでしたが",
-      "furigana": "あったのでしたが",
+      "clause_text": "あったのでしたが、",
+      "furigana": "あったのでしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、「ベゴ」石もそれを知り",
-      "furigana": "、きごうべごきごういしもそれをしり",
+      "clause_text": "「ベゴ」石もそれを",
+      "furigana": "「べご」いしもそれを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ませんでした。",
-      "furigana": "ませんでした。",
+      "clause_text": "知りませんでした。",
+      "furigana": "しりませんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {

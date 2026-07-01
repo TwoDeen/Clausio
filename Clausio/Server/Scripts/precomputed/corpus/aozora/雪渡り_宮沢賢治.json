@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "雪渡りその一（小狐の紺三郎）雪が",
-      "furigana": "ゆきわたり　そのいちきごうこぎつねのこんさぶろうきごう\n",
+      "clause_text": "雪渡りその一（小狐の紺",
+      "furigana": "ゆきわたり　そのいちきごうこぎつねの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "すっかり凍って大理石",
-      "furigana": "ゆきがすっかりこおって",
+      "clause_text": "三郎）雪がすっかり",
+      "furigana": "こんさぶろうきごう\nゆきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "よりも堅くなり",
-      "furigana": "よりもかたく",
+      "clause_text": "凍って大理石よりも堅くなり",
+      "furigana": "こおってだいりせきよりもかたく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「堅雪",
-      "furigana": "きごうかたゆき",
+      "furigana": "「かたゆき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」お日様がまっ白",
-      "furigana": "きごう\nおひさまが",
+      "furigana": "」\nおひさまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「堅雪",
-      "furigana": "きごうかたゆき",
+      "furigana": "「かたゆき",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、蜘蛛は手も足も赤くて",
-      "furigana": "、くもはてもあしもあかくて",
+      "clause_text": "、蜘蛛は手も足も赤くて長く、胸には「ナンペ」",
+      "furigana": "、くもはてもあしもあかくてながく、むねには「なんぺ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "長く、胸には「ナンペ」と書いた蜘蛛",
-      "furigana": "ながく、むねにはきごうなんぺきごうとかいたくも",
+      "clause_text": "と書いた蜘蛛文字のマークをつけ",
+      "furigana": "とかいたくももじのまーくをつけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "文字のマークをつけていましたしなめくじはいつも",
-      "furigana": "もじのまーくをつけていましたしなめくじはいつも",
+      "clause_text": "ていましたしなめくじはいつも",
+      "furigana": "ていましたしなめくじはいつも",
       "sentence_individual_grammar_level": "N5"
     },
     {

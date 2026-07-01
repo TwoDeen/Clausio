@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」（爾薩待忙しく身づくろい",
-      "furigana": "きごうきごうしかさつまちいそがしくみづくろい",
+      "clause_text": "」（爾薩待忙しく",
+      "furigana": "」きごうしかさつまちいそがしく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "する）（ペンキ屋",
-      "furigana": "するきごう\nきごう",
+      "clause_text": "身づくろいする）",
+      "furigana": "みづくろいするきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "徒弟登場看板を携える）爾",
-      "furigana": "とていとうじょう　かんばんをたずさえる",
+      "clause_text": "（ペンキ屋徒弟登場看板を",
+      "furigana": "\nきごうぺんきやとていとうじょう　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "薩待「ああ、君",
-      "furigana": "きごう\nしかさつまちきごう",
+      "clause_text": "携える）爾薩待「ああ",
+      "furigana": "をたずさえるきごう\nしかさつまち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "か、出来たね。",
-      "furigana": "、きみか、でき",
+      "clause_text": "、君か、出来たね。",
+      "furigana": "「ああ、きみか、でき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」ペンキ屋",
-      "furigana": "きごう\n",
+      "clause_text": "」ペンキ屋（汗を拭き",
+      "furigana": "」\nぺんきやきごうあせを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "（汗を拭き",
-      "furigana": "きごうあせを",
+      "clause_text": "ながら渡す）",
+      "furigana": "ながらわたす",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ながら渡す）「",
-      "furigana": "ながらわたすきごう",
+      "clause_text": "「あの、五円",
+      "furigana": "きごう「あの、ご",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "あの、五円三十銭で",
-      "furigana": "きごうあの、ごえんさんじゅうせん",
+      "clause_text": "三十銭で",
+      "furigana": "えんさんじゅうせん",
       "sentence_individual_grammar_level": "N4"
     },
     {

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "まっくらな天井",
-      "furigana": "まっくらなてんじょう",
+      "clause_text": "まっくらな天井裏に、",
+      "furigana": "まっくらなてんじょううらに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "裏に、「ツェ」という",
-      "furigana": "うらに、きごうつぇきごうという",
+      "clause_text": "「ツェ」という",
+      "furigana": "「つぇ」という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「おい",
-      "furigana": "きごうおい",
+      "furigana": "「おい",
       "sentence_individual_grammar_level": "N5"
     },
     {

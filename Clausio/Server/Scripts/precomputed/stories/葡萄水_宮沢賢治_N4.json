@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（一）［＃「（一）」は縦",
-      "furigana": "きごういちきごうきごう#きごうきごういちきごうきごうはたて",
+      "clause_text": "（一）［＃「（一）」",
+      "furigana": "きごういちきごうきごう#「きごういちきごう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "中横］耕平は髪も",
-      "furigana": "なかよこきごう\nこうへいはかみ",
+      "clause_text": "は縦中横］耕平は髪も",
+      "furigana": "はたてなかよこきごう\nこうへいはかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {

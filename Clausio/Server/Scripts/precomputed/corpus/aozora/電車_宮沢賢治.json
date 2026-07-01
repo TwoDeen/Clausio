@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "第一双の眼の",
-      "furigana": "だいいちそうのめの",
+      "clause_text": "第一双の",
+      "furigana": "だいいちそうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "所有者（",
-      "furigana": "しょゆうしゃ\n",
+      "clause_text": "眼の所有者",
+      "furigana": "めのしょゆうしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "むしゃくしゃ",
-      "furigana": "きごう",
+      "clause_text": "（むしゃくしゃ",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "風呂敷）第二双",
-      "furigana": "ふろしききごう\nだいに",
+      "clause_text": "風呂敷）",
+      "furigana": "ふろしききごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の眼の",
-      "furigana": "そうのめ",
+      "clause_text": "第二双の",
+      "furigana": "\nだいにそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "所有者（",
-      "furigana": "のしょゆうしゃ",
+      "clause_text": "眼の所有者",
+      "furigana": "のめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,7 +120,7 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "大学生。",
+      "clause_text": "（大学生。",
       "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "灰色ヅック",
-      "furigana": "はいいろづっく",
+      "clause_text": "灰色ヅックの提鞄）",
+      "furigana": "はいいろづっくのひさげかばんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の提鞄）第一双の",
-      "furigana": "のひさげかばんきごう\nだいいちそう",
+      "clause_text": "第一双の眼",
+      "furigana": "\nだいいちそうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "眼（いや、",
-      "furigana": "のめきごういや",
+      "clause_text": "（いや、",
+      "furigana": "めきごういや",
       "sentence_individual_grammar_level": "N5"
     },
     {

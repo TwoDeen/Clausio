@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "〔",
-      "furigana": "きごう",
+      "clause_text": "〔冒頭",
+      "furigana": "きごうぼうとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "冒頭",
-      "furigana": "ぼうとう",
+      "clause_text": "原稿",
+      "furigana": "げんこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "原稿",
-      "furigana": "げんこう",
+      "clause_text": "一",
+      "furigana": "いち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "一枚",
-      "furigana": "いちまい",
+      "clause_text": "枚",
+      "furigana": "まい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」とこう書いてあった",
-      "furigana": "きごうとこうかいてあった",
+      "furigana": "」とこうかいてあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
