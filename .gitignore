@@ -1,6 +1,7 @@
 Cache/
 *_puzzle.json
 *.json
+*.old
 
 # Byte-compiled / optimized / DLL support files
 __pycache__/

@@ -1,19 +1,3 @@
-"""
-main.py — Clausio API
-=====================
-Single file that works in two modes automatically:
-
-  Render (free tier)   — serves precomputed JSONs committed to Git.
-                         No GiNZA, no scraping, no heavy deps.
-
-  Local (your Mac)     — falls back to live GiNZA generation when a
-                         precomputed file is missing. Same endpoints,
-                         same iOS client, no config changes needed.
-
-Mode is detected at startup: if generate_grid_puzzle / news_service
-can be imported (GiNZA installed) → LIVE_MODE = True, otherwise False.
-"""
-
 import glob
 import json
 import os
@@ -23,14 +7,14 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-# ── Live pipeline (local only — Render never has these deps installed) ────────
 try:
     from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
-    from news_service import fetch_nhk_news_topics, scrape_article_sentences_and_furigana
     LIVE_MODE = True
-except (Exception, SystemExit):  # <-- ADDED SystemExit HERE
+except (Exception, SystemExit):
     LIVE_MODE = False
-    
+
+from corpus_providers import get_all_providers, get_provider
+
 app = FastAPI(title="Clausio API")
 app.add_middleware(
     CORSMiddleware,
@@ -40,52 +24,52 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ── Paths ─────────────────────────────────────────────────────────────────────
-BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PRECOMPUTED_DIR = os.path.join(BASE_DIR, "precomputed")
-NEWS_PRE_DIR    = os.path.join(PRECOMPUTED_DIR, "news")
+NEWS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "news")
 STORIES_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "stories")
+CORPUS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "corpus")
 STORIES_SRC_DIR = os.path.join(BASE_DIR, "Stories")
-CACHE_DIR       = os.environ.get("CACHE_DIR",
-                    os.path.join(tempfile.gettempdir(), "ClausioCache"))
+CACHE_DIR = os.environ.get("CACHE_DIR", os.path.join(tempfile.gettempdir(), "ClausioCache"))
 
-for d in (NEWS_PRE_DIR, STORIES_PRE_DIR, CACHE_DIR):
+for d in (NEWS_PRE_DIR, STORIES_PRE_DIR, CORPUS_PRE_DIR, CACHE_DIR):
     os.makedirs(d, exist_ok=True)
 
-print(f"--> Clausio API  |  {'live+precomputed' if LIVE_MODE else 'precomputed-only (Render)'}")
-print(f"--> Precomputed  : {PRECOMPUTED_DIR}")
-print(f"--> Stories src  : {STORIES_SRC_DIR}")
-
-
-# ── Pydantic models ───────────────────────────────────────────────────────────
 
 class PuzzleRequest(BaseModel):
     file_path: str
     level: str
 
+
 class NewsPuzzleRequest(BaseModel):
     news_id: str
-    summary_html: str
+    summary_html: str = ""
     level: str
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
+class CorpusPuzzleRequest(BaseModel):
+    source: str
+    topic_id: str
+    level: str
+
 
 def _load(path: str) -> dict:
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
+
+def _save(path: str, payload: dict):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 def _story_name(file_path: str) -> str:
-    """Works whether iOS sends a bare name or a legacy full path."""
     return os.path.basename(file_path).replace(".txt", "")
 
+
 def _safe_id(raw: str) -> str:
-    return raw.replace("/", "_").replace(":", "_")[:200]
+    return raw.replace("/", "_").replace(":", "_").replace(".", "_")[:200]
 
-
-# ══════════════════════════════════════════════════════════════════════════════
-# /api/stories
-# ══════════════════════════════════════════════════════════════════════════════
 
 @app.get("/api/stories")
 def list_available_stories():
@@ -99,75 +83,39 @@ def list_available_stories():
                 out.append({"name": entry["name"], "relative_path": entry["name"]})
         return {"stories": out}
 
-    # Fallback: scan committed .txt source files
     if not os.path.exists(STORIES_SRC_DIR):
         return {"stories": []}
+
     found = glob.glob(os.path.join(STORIES_SRC_DIR, "**", "*.txt"), recursive=True)
-    return {"stories": [
-        {"name":          os.path.basename(p).replace(".txt", ""),
-         "relative_path": os.path.basename(p).replace(".txt", "")}
-        for p in sorted(found)
-    ]}
+    return {
+        "stories": [
+            {
+                "name": os.path.basename(p).replace(".txt", ""),
+                "relative_path": os.path.basename(p).replace(".txt", ""),
+            }
+            for p in sorted(found)
+        ]
+    }
 
-
-# ══════════════════════════════════════════════════════════════════════════════
-# /api/news/topics
-# ══════════════════════════════════════════════════════════════════════════════
-
-@app.get("/api/news/topics")
-def get_news_topics(level: str = "N4"):
-    level = level.upper().strip()
-    index_path = os.path.join(PRECOMPUTED_DIR, "news_index.json")
-
-    # ── Precomputed path (Render + local after weekly_precompute.py) ──────────
-    if os.path.exists(index_path):
-        index  = _load(index_path)
-        topics = index.get(level, [])
-        return {
-            "status": "success",
-            "topics": [{"id": t["id"], "title": t["title"],
-                        "link": t.get("link", ""), "summary_html": ""}
-                       for t in topics],
-        }
-
-    # ── Live RSS fallback (local only) ────────────────────────────────────────
-    if LIVE_MODE:
-        try:
-            feeds = fetch_nhk_news_topics(level)
-            return {"status": "success", "topics": feeds}
-        except Exception as e:
-            raise HTTPException(status_code=500, detail=str(e))
-
-    raise HTTPException(
-        status_code=503,
-        detail="News index not available. Run: python weekly_precompute.py"
-    )
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# /api/puzzle/generate   (Aozora stories)
-# ══════════════════════════════════════════════════════════════════════════════
 
 @app.post("/api/puzzle/generate")
 def fetch_story_puzzle(request: PuzzleRequest):
-    level      = request.level.upper().strip()
+    level = request.level.upper().strip()
     story_name = _story_name(request.file_path)
 
-    # ── Precomputed path ──────────────────────────────────────────────────────
     pre_path = os.path.join(STORIES_PRE_DIR, f"{story_name}_{level}.json")
     if os.path.exists(pre_path):
         return _load(pre_path)
 
-    # ── Live GiNZA fallback (local only) ─────────────────────────────────────
     if LIVE_MODE:
-        # Accept both bare name and legacy full path from iOS
-        src_path = (request.file_path
-                    if os.path.exists(request.file_path)
-                    else os.path.join(STORIES_SRC_DIR, "miyazawa_kenji_stories",
-                                      f"{story_name}.txt"))
+        src_path = (
+            request.file_path
+            if os.path.exists(request.file_path)
+            else os.path.join(STORIES_SRC_DIR, "miyazawa_kenji_stories", f"{story_name}.txt")
+        )
+
         if not os.path.exists(src_path):
-            raise HTTPException(status_code=404,
-                                detail=f"Source file not found: {story_name}")
+            raise HTTPException(status_code=404, detail=f"Source file not found: {story_name}")
 
         cache_path = os.path.join(CACHE_DIR, f"{story_name}_{level}_5x5_puzzle.json")
         if os.path.exists(cache_path):
@@ -176,81 +124,98 @@ def fetch_story_puzzle(request: PuzzleRequest):
         payload = build_puzzle_json(src_path, level, CACHE_DIR)
         if not payload:
             raise HTTPException(status_code=500, detail="Puzzle generation returned empty payload.")
-        with open(cache_path, "w", encoding="utf-8") as f:
-            json.dump(payload, f, ensure_ascii=False, indent=2)
+
+        _save(cache_path, payload)
         return payload
 
     raise HTTPException(
         status_code=404,
-        detail=f"No precomputed puzzle for '{story_name}' at {level}. "
-               f"Run: python weekly_precompute.py --stories"
+        detail=f"No precomputed puzzle for '{story_name}' at {level}.",
     )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# /api/news/puzzle/generate
-# ══════════════════════════════════════════════════════════════════════════════
+@app.get("/api/corpus/sources")
+def corpus_sources():
+    sources = []
 
-@app.post("/api/news/puzzle/generate")
-def fetch_news_puzzle(request: NewsPuzzleRequest):
-    news_id      = request.news_id
-    target_level = request.level.upper().strip()
+    for p in get_all_providers():
+        entry = {
+            "id": p.SOURCE_ID,
+            "requires_vpn": p.REQUIRES_VPN,
+            "available": p.is_available(),
+        }
 
-    # ── Precomputed path (news_id IS the file key when served from index) ─────
-    pre_path = os.path.join(NEWS_PRE_DIR, f"{news_id}.json")
+        if hasattr(p, "SUPPORTED_LEVELS"):
+            try:
+                entry["supports"] = sorted(list(p.SUPPORTED_LEVELS))
+            except Exception:
+                pass
+
+        sources.append(entry)
+
+    return {"sources": sources}
+
+
+@app.get("/api/corpus/topics")
+def get_corpus_topics(source: str, level: str = "N4"):
+    source = source.strip().lower()
+    level = level.upper().strip()
+    index_path = os.path.join(PRECOMPUTED_DIR, "corpus_index.json")
+
+    if not os.path.exists(index_path):
+        raise HTTPException(
+            status_code=404,
+            detail="corpus_index.json not found. Run weekly_precompute.py"
+        )
+
+    index = _load(index_path)
+
+    # weekly_precompute.py writes:
+    # corpus_index[source][detected_level] = [ ... ]
+    topics = index.get(source, {}).get(level, [])
+
+    return {"status": "success", "topics": topics}
+
+
+@app.post("/api/corpus/puzzle/generate")
+def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
+    source = request.source.strip().lower()
+    level = request.level.upper().strip()
+    topic_id = request.topic_id
+
+    pre_path = os.path.join(CORPUS_PRE_DIR, source, f"{_safe_id(topic_id)}.json")
     if os.path.exists(pre_path):
         return _load(pre_path)
 
-    # ── Live fallback: news_id is a raw URL (local, topics served from RSS) ───
-    if LIVE_MODE and news_id.startswith("http"):
-        safe_id    = _safe_id(news_id)
-        cache_path = os.path.join(CACHE_DIR,
-                                  f"news_{safe_id}_{target_level}_5x5_puzzle.json")
-        if os.path.exists(cache_path):
-            return _load(cache_path)
+    if not LIVE_MODE:
+        raise HTTPException(
+            status_code=404,
+            detail="Precomputed puzzle not found and live mode is unavailable."
+        )
 
-        try:
-            sentences, furigana = scrape_article_sentences_and_furigana(news_id)
-            if len(sentences) < 5:
-                raise ValueError("Not enough valid Japanese sentences found.")
-            payload = build_puzzle_from_news_tokens(sentences, furigana, target_level)
-            with open(cache_path, "w", encoding="utf-8") as f:
-                json.dump(payload, f, ensure_ascii=False, indent=2)
-            return payload
-        except Exception as e:
-            raise HTTPException(status_code=500, detail=str(e))
+    provider = get_provider(source)
+    if not provider:
+        raise HTTPException(status_code=404, detail=f"Unknown source: {source}")
 
-    raise HTTPException(
-        status_code=404,
-        detail=f"No precomputed puzzle for '{news_id}'. "
-               f"Run: python weekly_precompute.py"
-    )
+    stub_topic = None
+    for t in provider.fetch_topics():
+        if t.id == topic_id or _safe_id(t.id) == _safe_id(topic_id):
+            stub_topic = t
+            break
 
+    if stub_topic is None:
+        raise HTTPException(status_code=404, detail=f"Topic not found: {topic_id}")
 
-# ══════════════════════════════════════════════════════════════════════════════
-# Utility
-# ══════════════════════════════════════════════════════════════════════════════
+    if source == "aozora":
+        src_path = stub_topic.metadata["file_path"]
+        payload = build_puzzle_json(src_path, level, CACHE_DIR)
+        if not payload:
+            raise HTTPException(status_code=500, detail="Failed to generate Aozora puzzle.")
+        return payload
 
-@app.get("/api/debug/scrape")
-def debug_info(url: str = ""):
-    index_path = os.path.join(PRECOMPUTED_DIR, "news_index.json")
-    info = {"mode": "live+precomputed" if LIVE_MODE else "precomputed-only"}
-    if os.path.exists(index_path):
-        idx = _load(index_path)
-        info["articles_by_level"] = {k: len(v) for k, v in idx.items()}
-    if LIVE_MODE and url.startswith("http"):
-        sentences, furigana = scrape_article_sentences_and_furigana(url)
-        info["scraped_sentences"] = sentences
-        info["furigana_count"]    = len(furigana)
-    return info
+    item = provider.fetch_sentences(stub_topic)
+    if len(item.sentences) < 5:
+        raise HTTPException(status_code=500, detail="Not enough valid Japanese sentences found.")
 
-
-@app.post("/api/cache/clear")
-def clear_cache():
-    purged = 0
-    for f in glob.glob(os.path.join(CACHE_DIR, "*.json")):
-        os.remove(f)
-        purged += 1
-    return {"status": "success",
-            "detail": f"Cleared {purged} files from live cache. "
-                      f"Precomputed/ lives in Git — run weekly_precompute.py to refresh."}
+    payload = build_puzzle_from_news_tokens(item.sentences[:5], item.furigana, level)
+    return payload

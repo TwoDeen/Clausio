@@ -1,27 +1,47 @@
 import SwiftUI
 
-// MARK: - Data Models
+// MARK: - API Models
 
-struct StoriesAPIResponse: Codable {
-  let stories: [StoryItem]
+struct CorpusSourcesResponse: Codable {
+  let sources: [CorpusSource]
 }
 
-struct StoryItem: Codable, Identifiable {
-  let name: String
-  let relative_path: String? // Optional so it doesn't crash if missing
-  var id: String { name }
-}
-
-struct NewsAPIResponse: Codable {
-  let status: String?
-  let topics: [NewsTopic]
-}
-
-struct NewsTopic: Codable, Identifiable {
+struct CorpusSource: Codable, Identifiable, Hashable {
   let id: String
-  let title: String?         // Optional
-  let link: String?          // Optional
-  let summary_html: String?  // Optional
+  let requires_vpn: Bool
+  let available: Bool
+  let supports: [String]?
+  
+  var displayName: String {
+    switch id {
+      case "aozora": return "Aozora"
+      case "nhk_easy": return "NHK Easy"
+      case "nhk_general": return "NHK General"
+      case "t15": return "T15"
+      case "wjt_sentdil": return "WJT SentDil"
+      default:
+        return id.replacingOccurrences(of: "_", with: " ").capitalized
+    }
+  }
+}
+
+struct CorpusTopicsResponse: Codable {
+  let status: String
+  let topics: [CorpusTopic]
+}
+
+struct CorpusTopic: Codable, Identifiable, Hashable {
+  let id: String
+  let title: String
+  let link: String?
+  let detected_level: String?
+  
+  var subtitleText: String {
+    if let level = detected_level, !level.isEmpty {
+      return level
+    }
+    return id
+  }
 }
 
 // MARK: - Main View
@@ -29,211 +49,294 @@ struct NewsTopic: Codable, Identifiable {
 struct StorySelectionView: View {
   var onPuzzleLoaded: (GamePayload) -> Void
   
-  @State private var stories: [StoryItem] = []
-  @State private var newsTopics: [NewsTopic] = []
+  @State private var sources: [CorpusSource] = []
+  @State private var topics: [CorpusTopic] = []
   
-  @State private var selectedTab = 0 // 0 = Stories, 1 = News
-  @State private var selectedLevel = "N3"
-  @State private var isLoadingList = false
+  @State private var selectedSourceID: String = ""
+  @State private var selectedLevel: String = "N3"
+  
+  @State private var isLoadingSources = false
+  @State private var isLoadingTopics = false
   @State private var isGeneratingPuzzle = false
   @State private var errorMessage: String?
   
   let baseURL = "https://clausio.onrender.com"
   
-  init(onPuzzleLoaded: @escaping (GamePayload) -> Void) {
-    self.onPuzzleLoaded = onPuzzleLoaded
-  }
-  
   var body: some View {
     NavigationView {
-      VStack {
-        Picker("Content Type", selection: $selectedTab) {
-          Text("Aozora Stories").tag(0)
-          Text("NHK News").tag(1)
-        }
-        .pickerStyle(SegmentedPickerStyle())
-        .padding()
-        .onChange(of: selectedTab) { _ in fetchData() }
-        
-        if selectedTab == 1 {
-          Picker("JLPT Level", selection: $selectedLevel) {
-            Text("N5").tag("N5")
-            Text("N4").tag("N4")
-            Text("N3").tag("N3")
-            Text("N2").tag("N2")
-            Text("N1").tag("N1")
-          }
-          .pickerStyle(SegmentedPickerStyle())
-          .padding(.horizontal)
-          .onChange(of: selectedLevel) { _ in fetchData() }
-        }
-        
-        if isLoadingList {
-          ProgressView("Loading topics...")
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
-        } else if isGeneratingPuzzle {
-          ProgressView("Generating Puzzle...")
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
-        } else if let errorMessage = errorMessage {
-          Text(errorMessage)
-            .foregroundColor(.red)
-            .multilineTextAlignment(.center)
-            .padding()
-          Button("Try Again") { fetchData() }
-            .padding(.top)
+      VStack(spacing: 12) {
+        if isLoadingSources && sources.isEmpty {
+          Spacer()
+          ProgressView("Loading sources...")
+          Spacer()
         } else {
-          List {
-            if selectedTab == 0 {
-              ForEach(stories) { story in
-                Button(action: {
-                  generateStoryPuzzle(storyName: story.name)
-                }) {
-                  Text(story.name).font(.headline)
-                }
-                .foregroundColor(.primary)
-              }
-            } else {
-              ForEach(newsTopics) { topic in
-                Button(action: {
-                  generateNewsPuzzle(newsID: topic.id)
-                }) {
-                  VStack(alignment: .leading, spacing: 6) {
-                    // Use a default string if title is nil
-                    Text(topic.title ?? "No Title").font(.headline)
-                    Text("ID: \(topic.id.prefix(15))...")
-                      .font(.caption)
-                      .foregroundColor(.gray)
-                  }
-                  .padding(.vertical, 4)
-                }
-                .foregroundColor(.primary)
-              }
-            }
-          }
+          sourcePicker
+          levelPicker
+          contentArea
         }
       }
-      .navigationTitle(selectedTab == 0 ? "Stories" : "News")
-      .onAppear { fetchData() }
+      .padding(.top, 8)
+      .navigationTitle("Corpus")
+      .onAppear {
+        fetchSources()
+      }
     }
   }
   
-  // MARK: - Networking (List Fetching)
-  
-  func fetchData() {
-    isLoadingList = true
-    errorMessage = nil
-    if selectedTab == 0 { fetchStories() } else { fetchNews(level: selectedLevel) }
-  }
-  
-  func fetchStories() {
-    guard let url = URL(string: "\(baseURL)/api/stories") else { return }
-    URLSession.shared.dataTask(with: url) { data, response, error in
-      DispatchQueue.main.async {
-        self.isLoadingList = false
-        if let error = error { self.errorMessage = error.localizedDescription; return }
-        guard let data = data else { self.errorMessage = "No data"; return }
-        
-        do {
-          let decoded = try JSONDecoder().decode(StoriesAPIResponse.self, from: data)
-          self.stories = decoded.stories
-        } catch {
-          self.errorMessage = "Failed parsing stories."
-          print("Stories Decode Error: \(error)")
+  private var sourcePicker: some View {
+    VStack(alignment: .leading, spacing: 6) {
+      Text("Source")
+        .font(.caption)
+        .foregroundColor(.secondary)
+        .padding(.horizontal)
+      
+      Picker("Source", selection: $selectedSourceID) {
+        ForEach(sources.filter { $0.available }) { source in
+          Text(source.displayName).tag(source.id)
         }
       }
-    }.resume()
+      .pickerStyle(MenuPickerStyle())
+      .padding(.horizontal)
+      .onChange(of: selectedSourceID) { _ in
+        resetLevelIfUnsupported()
+        fetchTopics()
+      }
+    }
   }
   
-  func fetchNews(level: String) {
-    guard let url = URL(string: "\(baseURL)/api/news/topics?level=\(level)") else { return }
-    
-    URLSession.shared.dataTask(with: url) { data, response, error in
-      DispatchQueue.main.async {
-        self.isLoadingList = false
-        if let error = error { self.errorMessage = error.localizedDescription; return }
-        guard let data = data else { self.errorMessage = "No data"; return }
-        
-        // DEBUG: Print the raw string to see what the API actually sent
-        if let rawString = String(data: data, encoding: .utf8) {
-          print("DEBUG: Raw JSON received: \(rawString)")
+  private var levelPicker: some View {
+    VStack(alignment: .leading, spacing: 6) {
+      Text("JLPT Level")
+        .font(.caption)
+        .foregroundColor(.secondary)
+        .padding(.horizontal)
+      
+      Picker("JLPT Level", selection: $selectedLevel) {
+        ForEach(availableLevelsForSelectedSource(), id: \.self) { level in
+          Text(level).tag(level)
         }
-        
-        do {
-          let decoded = try JSONDecoder().decode(NewsAPIResponse.self, from: data)
-          self.newsTopics = decoded.topics
-        } catch let error as DecodingError {
-          // Pinpoint the exact field that failed
-          switch error {
-            case .keyNotFound(let key, _):
-              self.errorMessage = "Missing key: \(key.stringValue)"
-            case .typeMismatch(let type, _):
-              self.errorMessage = "Type mismatch: \(type)"
-            default:
-              self.errorMessage = "Decoding failed"
+      }
+      .pickerStyle(SegmentedPickerStyle())
+      .padding(.horizontal)
+      .onChange(of: selectedLevel) { _ in
+        fetchTopics()
+      }
+    }
+  }
+  
+  @ViewBuilder
+  private var contentArea: some View {
+    if isLoadingTopics {
+      Spacer()
+      ProgressView("Loading topics...")
+      Spacer()
+    } else if isGeneratingPuzzle {
+      Spacer()
+      ProgressView("Loading puzzle...")
+      Spacer()
+    } else if let errorMessage = errorMessage {
+      Spacer()
+      VStack(spacing: 12) {
+        Text(errorMessage)
+          .foregroundColor(.red)
+          .multilineTextAlignment(.center)
+          .padding(.horizontal)
+        Spacer()
+      }
+    } else if topics.isEmpty {
+      Spacer()
+      Text("No precomputed topics found for this source and level.")
+        .foregroundColor(.secondary)
+        .multilineTextAlignment(.center)
+        .padding(.horizontal)
+      Spacer()
+    } else {
+      List(topics) { topic in
+        Button {
+          generateCorpusPuzzle(topic: topic)
+        } label: {
+          VStack(alignment: .leading, spacing: 6) {
+            Text(topic.title)
+              .font(.headline)
+              .foregroundColor(.primary)
+            
+            Text(topic.subtitleText)
+              .font(.caption)
+              .foregroundColor(.secondary)
+              .lineLimit(1)
           }
-          print("News Decode Error: \(error)")
-        } catch {
-          self.errorMessage = "Unknown error"
+          .padding(.vertical, 4)
         }
       }
-    }.resume()
+      .listStyle(.plain)
+    }
   }
   
-  // MARK: - Networking (Puzzle Generation)
+  // MARK: - Helpers
   
-  func generateStoryPuzzle(storyName: String) {
-    guard let url = URL(string: "\(baseURL)/api/puzzle/generate") else { return }
-    isGeneratingPuzzle = true
+  private func availableLevelsForSelectedSource() -> [String] {
+    guard let source = sources.first(where: { $0.id == selectedSourceID }) else {
+      return ["N5", "N4", "N3", "N2", "N1"]
+    }
+    
+    if let supports = source.supports, !supports.isEmpty {
+      return supports
+    }
+    
+    return ["N5", "N4", "N3", "N2", "N1"]
+  }
+  
+  private func resetLevelIfUnsupported() {
+    let levels = availableLevelsForSelectedSource()
+    if !levels.contains(selectedLevel), let first = levels.first {
+      selectedLevel = first
+    }
+  }
+  
+  // MARK: - Networking
+  
+  private func fetchSources() {
+    guard let url = URL(string: "\(baseURL)/api/corpus/sources") else { return }
+    
+    isLoadingSources = true
     errorMessage = nil
     
-    let body: [String: String] = ["file_path": storyName, "level": selectedLevel]
-    var request = URLRequest(url: url)
-    request.httpMethod = "POST"
-    request.setValue("application/json", forHTTPHeaderField: "Content-Type")
-    request.httpBody = try? JSONEncoder().encode(body)
-    
-    URLSession.shared.dataTask(with: request) { data, _, error in
+    URLSession.shared.dataTask(with: url) { data, response, error in
       DispatchQueue.main.async {
-        self.isGeneratingPuzzle = false
-        if let error = error { self.errorMessage = error.localizedDescription; return }
-        guard let data = data else { self.errorMessage = "No data"; return }
+        self.isLoadingSources = false
+        
+        if let error = error {
+          self.errorMessage = error.localizedDescription
+          return
+        }
+        
+        guard let httpResponse = response as? HTTPURLResponse else {
+          self.errorMessage = "Invalid server response."
+          return
+        }
+        
+        guard let data = data else {
+          self.errorMessage = "No data from corpus sources API."
+          return
+        }
+        
+        guard (200...299).contains(httpResponse.statusCode) else {
+          self.errorMessage = "Corpus sources API returned HTTP \(httpResponse.statusCode)."
+          return
+        }
+        
         do {
-          let payload = try JSONDecoder().decode(GamePayload.self, from: data)
-          self.onPuzzleLoaded(payload)
+          let decoded = try JSONDecoder().decode(CorpusSourcesResponse.self, from: data)
+          self.sources = decoded.sources.filter { $0.available }
+          
+          if self.selectedSourceID.isEmpty, let first = self.sources.first {
+            self.selectedSourceID = first.id
+          }
+          
+          self.resetLevelIfUnsupported()
+          self.fetchTopics()
         } catch {
-          self.errorMessage = "Failed to load story puzzle."
-          print(error)
+          self.errorMessage = "Failed parsing corpus sources."
+          print("Corpus Sources Decode Error: \(error)")
         }
       }
     }.resume()
   }
   
-  func generateNewsPuzzle(newsID: String) {
-    guard let url = URL(string: "\(baseURL)/api/news/puzzle/generate") else { return }
+  private func fetchTopics() {
+    guard !selectedSourceID.isEmpty else { return }
+    
+    guard let encodedSource = selectedSourceID.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed),
+          let url = URL(string: "\(baseURL)/api/corpus/topics?source=\(encodedSource)&level=\(selectedLevel)") else {
+      return
+    }
+    
+    isLoadingTopics = true
+    errorMessage = nil
+    topics = []
+    
+    URLSession.shared.dataTask(with: url) { data, response, error in
+      DispatchQueue.main.async {
+        self.isLoadingTopics = false
+        
+        if let error = error {
+          self.errorMessage = error.localizedDescription
+          return
+        }
+        
+        guard let httpResponse = response as? HTTPURLResponse else {
+          self.errorMessage = "Invalid server response."
+          return
+        }
+        
+        guard let data = data else {
+          self.errorMessage = "No data from corpus topics API."
+          return
+        }
+        
+        guard (200...299).contains(httpResponse.statusCode) else {
+          self.errorMessage = "Corpus topics API returned HTTP \(httpResponse.statusCode)."
+          return
+        }
+        
+        do {
+          let decoded = try JSONDecoder().decode(CorpusTopicsResponse.self, from: data)
+          self.topics = decoded.topics
+        } catch {
+          self.errorMessage = "Failed parsing corpus topics."
+          print("Corpus Topics Decode Error: \(error)")
+        }
+      }
+    }.resume()
+  }
+  
+  private func generateCorpusPuzzle(topic: CorpusTopic) {
+    guard let url = URL(string: "\(baseURL)/api/corpus/puzzle/generate") else { return }
+    
     isGeneratingPuzzle = true
     errorMessage = nil
     
     let body: [String: String] = [
-      "news_id": newsID,
-      "summary_html": "",
+      "source": selectedSourceID,
+      "topic_id": topic.id,
       "level": selectedLevel
     ]
+    
     var request = URLRequest(url: url)
     request.httpMethod = "POST"
     request.setValue("application/json", forHTTPHeaderField: "Content-Type")
     request.httpBody = try? JSONEncoder().encode(body)
     
-    URLSession.shared.dataTask(with: request) { data, _, error in
+    URLSession.shared.dataTask(with: request) { data, response, error in
       DispatchQueue.main.async {
         self.isGeneratingPuzzle = false
-        if let error = error { self.errorMessage = error.localizedDescription; return }
-        guard let data = data else { self.errorMessage = "No data"; return }
+        
+        if let error = error {
+          self.errorMessage = error.localizedDescription
+          return
+        }
+        
+        guard let httpResponse = response as? HTTPURLResponse else {
+          self.errorMessage = "Invalid server response."
+          return
+        }
+        
+        guard let data = data else {
+          self.errorMessage = "No puzzle data returned."
+          return
+        }
+        
+        guard (200...299).contains(httpResponse.statusCode) else {
+          self.errorMessage = "Corpus puzzle API returned HTTP \(httpResponse.statusCode)."
+          return
+        }
+        
         do {
           let payload = try JSONDecoder().decode(GamePayload.self, from: data)
           self.onPuzzleLoaded(payload)
         } catch {
-          self.errorMessage = "Failed to load news puzzle."
-          print(error)
+          self.errorMessage = "Failed to load precomputed puzzle."
+          print("Corpus Puzzle Decode Error: \(error)")
         }
       }
     }.resume()

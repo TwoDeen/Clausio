@@ -17,6 +17,7 @@ struct JapaneseConnectionsAppView: View {
   
   // 🏆 Controls presentation of the post-solve reading screen
   @State private var showSolvedScreen = false
+  @State private var hasLoadedPayload = false
   
   // Derived count observed by onChange — Int is Equatable so diffing is free
   private var solvedTileCount: Int {
@@ -68,6 +69,8 @@ struct JapaneseConnectionsAppView: View {
         Label("Play", systemImage: "gamecontroller.fill")
       }
       .onAppear {
+        guard !hasLoadedPayload else { return }
+        hasLoadedPayload = true
         vm.loadPuzzleFromPayload(payload)
       }
       // 🏆 Detect full board completion and present the reading screen

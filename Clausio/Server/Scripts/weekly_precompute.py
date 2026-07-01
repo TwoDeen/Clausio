@@ -1,211 +1,191 @@
-"""
-weekly_precompute.py
-====================
-Run locally every week to refresh puzzle content and push to Render.
-
-Usage:
-    python weekly_precompute.py              # news only
-    python weekly_precompute.py --stories    # news + all story files
-    python weekly_precompute.py --no-push    # generate only, skip git push
-
-What it does:
-    1. Fetches NHK topics for all 5 JLPT levels (Easy for N5/N4, Regular for N3-N1)
-    2. Scrapes each article and generates a puzzle JSON via GiNZA
-    3. Builds a news_index.json the Render server reads for /api/news/topics
-    4. Optionally generates story JSONs from Stories/*.txt
-    5. Commits precomputed/ and pushes — Render auto-deploys in ~30s
-"""
+from __future__ import annotations
 
 import argparse
 import glob
 import json
 import os
-import subprocess
-import sys
-from datetime import datetime
+import traceback
 
-# ── Local pipeline imports (GiNZA required) ───────────────────────────────────
-try:
-    from news_service import fetch_nhk_news_topics, scrape_article_sentences_and_furigana
-    from generate_grid_puzzle import build_puzzle_from_news_tokens, build_puzzle_json
-except ImportError as e:
-    sys.exit(f"Missing local dependency: {e}\nRun: pip install -r requirements_local.txt")
+from corpus_providers import list_all_providers, get_provider
+from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
 
-# ── Paths ─────────────────────────────────────────────────────────────────────
-BASE_DIR          = os.path.dirname(os.path.abspath(__file__))
-PRECOMPUTED_DIR   = os.path.join(BASE_DIR, "precomputed")
-NEWS_DIR          = os.path.join(PRECOMPUTED_DIR, "news")
-STORIES_PRE_DIR   = os.path.join(PRECOMPUTED_DIR, "stories")
-STORIES_SRC_DIR   = os.path.join(BASE_DIR, "Stories")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PRECOMPUTED_DIR = os.path.join(BASE_DIR, "precomputed")
+CORPUS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "corpus")
+STORIES_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "stories")
+NEWS_PRE_DIR = os.path.join(PRECOMPUTED_DIR, "news")
+CACHE_DIR = os.path.join(BASE_DIR, "_precompute_cache")
 
-os.makedirs(NEWS_DIR,        exist_ok=True)
-os.makedirs(STORIES_PRE_DIR, exist_ok=True)
+LEVELS = ["N5", "N4", "N3", "N2", "N1"]
 
-# ── Config ────────────────────────────────────────────────────────────────────
-LEVELS             = ["N5", "N4", "N3", "N2", "N1"]
-ARTICLES_PER_LEVEL = 10   # how many articles to keep per level
-
-# ══════════════════════════════════════════════════════════════════════════════
-# News precomputation
-# ══════════════════════════════════════════════════════════════════════════════
-
-def _file_key(level: str, url: str) -> str:
-    """Stable, filesystem-safe key for a given level + article URL."""
-    safe = url.replace("/", "_").replace(":", "_").replace(".", "_")
-    return f"{level}_{safe}"[:200]   # cap at 200 chars to avoid filesystem limits
+for d in (PRECOMPUTED_DIR, CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR, CACHE_DIR):
+    os.makedirs(d, exist_ok=True)
 
 
-def precompute_news() -> dict:
-    news_index = {level: [] for level in LEVELS}
+def _save(path: str, payload) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    for level in LEVELS:
-        print(f"\n── {level} ──────────────────────────────────────────────")
-        try:
-            topics = fetch_nhk_news_topics(level)
-        except Exception as e:
-            print(f"  [ERR] RSS fetch failed: {e}")
+
+def _load(path: str):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _safe_id(raw: str) -> str:
+    return raw.replace("/", "_").replace(":", "_").replace(".", "_")[:200]
+
+
+def _corpus_json_path(source: str, topic_id: str) -> str:
+    return os.path.join(CORPUS_PRE_DIR, source, f"{_safe_id(topic_id)}.json")
+
+
+def _detected_level_from_payload(payload: dict) -> str:
+    level = payload.get("highest_grammar_level_encountered", "N5")
+    level = str(level).upper().strip()
+    return level if level in LEVELS else "N5"
+
+
+def _refresh_stories_index():
+    stories_index = []
+    for p in glob.glob(os.path.join(STORIES_PRE_DIR, "*.json")):
+        name = os.path.basename(p)
+        if not name.endswith(".json"):
+            continue
+        stem = name[:-5]
+        parts = stem.rsplit("_", 1)
+        if len(parts) != 2:
+            continue
+        story_name, level = parts
+        if level not in LEVELS:
+            continue
+        stories_index.append({"name": story_name, "level": level})
+
+    _save(os.path.join(PRECOMPUTED_DIR, "stories_index.json"), stories_index)
+
+
+def precompute_all_corpora(limit_per_source=None, only_source: str | None = None):
+    corpus_index: dict[str, dict[str, list[dict]]] = {}
+
+    providers = list_all_providers()
+    if only_source:
+        provider = get_provider(only_source)
+        if provider is None:
+            raise SystemExit(f"Unknown source: {only_source}")
+        providers = [provider]
+
+    print(f"Found {len(providers)} corpus provider(s).")
+
+    for provider in providers:
+        source = provider.SOURCE_ID
+        print(f"\n=== Source: {source} ===")
+
+        if not provider.is_available():
+            reason = (
+                "VPN required / unavailable"
+                if getattr(provider, "REQUIRES_VPN", False)
+                else "source unavailable"
+            )
+            print(f" [SKIP] {reason}")
             continue
 
-        success = 0
-        for topic in topics:
-            if success >= ARTICLES_PER_LEVEL:
-                break
+        try:
+            topics = provider.fetch_topics()
+        except Exception as e:
+            print(f" [ERR] fetch_topics failed: {e}")
+            traceback.print_exc()
+            continue
 
-            url   = topic.get("link", "")
-            title = topic.get("title", "Untitled")
-            if not url:
-                continue
+        if limit_per_source is not None:
+            topics = topics[:limit_per_source]
 
-            key         = _file_key(level, url)
-            output_path = os.path.join(NEWS_DIR, f"{key}.json")
+        print(f" Topics fetched: {len(topics)}")
 
-            # Re-use existing JSON (skip network + GiNZA work)
-            if os.path.exists(output_path):
-                news_index[level].append({"id": key, "title": title, "link": url})
-                success += 1
-                print(f"  [CACHED]  {title[:60]}")
-                continue
+        for i, topic in enumerate(topics, start=1):
+            print(f" [{i}/{len(topics)}] {topic.title[:80]}")
 
             try:
-                sentences, furigana = scrape_article_sentences_and_furigana(url)
-                if len(sentences) < 5:
-                    print(f"  [SKIP]    Not enough sentences — {url}")
-                    continue
+                if source == "aozora":
+                    file_path = topic.metadata.get("file_path", "")
+                    if not file_path or not os.path.exists(file_path):
+                        raise FileNotFoundError(
+                            f"Aozora source file missing for topic '{topic.id}'"
+                        )
 
-                payload = build_puzzle_from_news_tokens(sentences, furigana, level)
+                    payload = build_puzzle_json(file_path, "N5", CACHE_DIR)
+                    if not payload:
+                        raise ValueError("build_puzzle_json() returned empty payload")
 
-                with open(output_path, "w", encoding="utf-8") as f:
-                    json.dump(payload, f, ensure_ascii=False, indent=2)
+                    detected_level = _detected_level_from_payload(payload)
 
-                news_index[level].append({"id": key, "title": title, "link": url})
-                success += 1
-                print(f"  [OK]      {title[:60]}")
+                    legacy_story_path = os.path.join(
+                        STORIES_PRE_DIR, f"{topic.id}_{detected_level}.json"
+                    )
+                    _save(legacy_story_path, payload)
+
+                    corpus_path = _corpus_json_path(source, topic.id)
+                    _save(corpus_path, payload)
+                else:
+                    item = provider.fetch_sentences(topic)
+                    if len(item.sentences) < 5:
+                        print(f" [SKIP] only {len(item.sentences)} sentence(s)")
+                        continue
+
+                    payload = build_puzzle_from_news_tokens(
+                        item.sentences[:5],
+                        item.furigana,
+                        "N5",
+                    )
+
+                    if not payload:
+                        raise ValueError(
+                            "build_puzzle_from_news_tokens() returned empty payload"
+                        )
+
+                    detected_level = _detected_level_from_payload(payload)
+                    corpus_path = _corpus_json_path(source, topic.id)
+                    _save(corpus_path, payload)
+
+                corpus_index.setdefault(source, {}).setdefault(
+                    detected_level, []
+                ).append(
+                    {
+                        "id": topic.id,
+                        "title": topic.title,
+                        "link": topic.link,
+                        "detected_level": detected_level,
+                    }
+                )
+
+                print(f" [OK] detected={detected_level}")
 
             except Exception as e:
-                print(f"  [ERR]     {url[:60]}: {e}")
+                print(f" [ERR] {e}")
+                traceback.print_exc()
 
-        print(f"  → {success} articles ready for {level}")
+    _save(os.path.join(PRECOMPUTED_DIR, "corpus_index.json"), corpus_index)
+    _refresh_stories_index()
+    print("\nSaved corpus_index.json and refreshed stories_index.json")
 
-    index_path = os.path.join(PRECOMPUTED_DIR, "news_index.json")
-    with open(index_path, "w", encoding="utf-8") as f:
-        json.dump(news_index, f, ensure_ascii=False, indent=2)
-
-    total = sum(len(v) for v in news_index.values())
-    print(f"\n✅ news_index.json written — {total} articles across all levels")
-    return news_index
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Story precomputation (run once; skips already-generated files)
-# ══════════════════════════════════════════════════════════════════════════════
-
-def precompute_stories() -> list:
-    txt_files = glob.glob(os.path.join(STORIES_SRC_DIR, "**", "*.txt"), recursive=True)
-    if not txt_files:
-        print("No .txt files found in Stories/")
-        return []
-
-    stories_index = []
-    print(f"\n── Stories ({len(txt_files)} source files × {len(LEVELS)} levels) ──────")
-
-    for txt_path in txt_files:
-        name = os.path.basename(txt_path).replace(".txt", "")
-        for level in LEVELS:
-            output_path = os.path.join(STORIES_PRE_DIR, f"{name}_{level}.json")
-
-            if os.path.exists(output_path):
-                stories_index.append({"name": name, "level": level, "id": f"{name}_{level}"})
-                print(f"  [CACHED]  {name} @ {level}")
-                continue
-
-            try:
-                payload = build_puzzle_json(txt_path, level, STORIES_PRE_DIR)
-                if not payload:
-                    print(f"  [SKIP]    {name} @ {level} — empty payload")
-                    continue
-                with open(output_path, "w", encoding="utf-8") as f:
-                    json.dump(payload, f, ensure_ascii=False, indent=2)
-                stories_index.append({"name": name, "level": level, "id": f"{name}_{level}"})
-                print(f"  [OK]      {name} @ {level}")
-            except Exception as e:
-                print(f"  [ERR]     {name} @ {level}: {e}")
-
-    index_path = os.path.join(PRECOMPUTED_DIR, "stories_index.json")
-    with open(index_path, "w", encoding="utf-8") as f:
-        json.dump(stories_index, f, ensure_ascii=False, indent=2)
-
-    print(f"\n✅ stories_index.json written — {len(stories_index)} entries")
-    return stories_index
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Git push
-# ══════════════════════════════════════════════════════════════════════════════
-
-def git_push():
-    week = datetime.now().strftime("%Y-W%W")
-    print(f"\n── Git push ─────────────────────────────────────────────")
-
-    steps = [
-        (["git", "add",    "precomputed/"],           "Stage precomputed/"),
-        (["git", "commit", "-m", f"precompute: {week}"], "Commit"),
-        (["git", "push"],                              "Push to GitHub"),
-    ]
-
-    for cmd, label in steps:
-        result = subprocess.run(cmd, capture_output=True, text=True, cwd=BASE_DIR)
-        if result.returncode != 0:
-            # "nothing to commit" is not a real error
-            if "nothing to commit" in result.stdout + result.stderr:
-                print(f"  [SKIP]  {label} — nothing changed")
-            else:
-                print(f"  [WARN]  {label}: {result.stderr.strip()}")
-        else:
-            print(f"  [OK]    {label}")
-
-    print("\n🚀 Render will auto-deploy in ~30 seconds.")
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Entry point
-# ══════════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Clausio weekly precompute")
-    parser.add_argument("--stories",  action="store_true", help="Also regenerate story puzzles")
-    parser.add_argument("--no-push",  action="store_true", help="Skip git push")
+    parser = argparse.ArgumentParser(description="Precompute Clausio corpus puzzles")
+    parser.add_argument(
+        "--limit-per-source",
+        type=int,
+        default=None,
+        help="Limit topics per source for testing",
+    )
+    parser.add_argument(
+        "--only-source",
+        type=str,
+        default=None,
+        help="Run only one source, e.g. nhk_general",
+    )
     args = parser.parse_args()
 
-    print("=" * 60)
-    print(f"  Clausio Precompute — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print("=" * 60)
-
-    precompute_news()
-
-    if args.stories:
-        precompute_stories()
-
-    if not args.no_push:
-        git_push()
-    else:
-        print("\n[--no-push] Skipping git push.")
+    precompute_all_corpora(
+        limit_per_source=args.limit_per_source,
+        only_source=args.only_source,
+    )
