@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日は「",
-      "furigana": "にちは「",
+      "clause_text": "日は",
+      "furigana": "にちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "父の日",
-      "furigana": "とうのにち",
+      "clause_text": "「父の日」",
+      "furigana": "「とうのにち」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "」です",
-      "furigana": "」です",
+      "clause_text": "です",
+      "furigana": "です",
       "sentence_individual_grammar_level": "N5"
     },
     {

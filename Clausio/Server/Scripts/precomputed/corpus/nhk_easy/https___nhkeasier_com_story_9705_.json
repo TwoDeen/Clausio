@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この地震",
-      "furigana": "このじしん",
+      "clause_text": "この地震は",
+      "furigana": "このじしんは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は「首都",
-      "furigana": "は「首都",
+      "clause_text": "「首都直下",
+      "furigana": "「首都直下",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "直下地震",
-      "furigana": "直下じしん",
+      "clause_text": "地震」と呼ば",
+      "furigana": "じしん」とよば",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "」と呼ば",
-      "furigana": "」とよば",
+      "clause_text": "れてい",
+      "furigana": "れてい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れています。",
-      "furigana": "れています。",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N4"
     },
     {

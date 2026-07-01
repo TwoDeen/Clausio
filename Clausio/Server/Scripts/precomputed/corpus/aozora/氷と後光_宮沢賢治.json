@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "」雪と月あかり",
-      "furigana": "きごうゆきとつきあかり",
+      "furigana": "きごう\nゆきと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の中を、汽車は",
-      "furigana": "のなかを、きしゃは",
+      "furigana": "のなかを、きしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いっしん",
-      "furigana": "いっしん",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "に走っ",
-      "furigana": "にはしっ",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "てゐました。",
-      "furigana": "ていました。",
+      "furigana": "ていました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "八時間",
-      "furigana": "はちじかん",
+      "clause_text": "八",
+      "furigana": "はち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある",
-      "furigana": "ある",
+      "clause_text": "時間",
+      "furigana": "じかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "よ。",
-      "furigana": "よ。",
+      "clause_text": "ある",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "よ。",
+      "furigana": "よ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」若いお父さん",
-      "furigana": "きごうわかいおとうさん",
+      "furigana": "きごう\nわかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "は、その青白い時計を",
-      "furigana": "は、そのあおじろいとけいを",
+      "furigana": "は、そのあおじろいとけい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "チョッキのポケット",
-      "furigana": "ちょっきのぽけっと",
+      "furigana": "をちょっきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "にはさんで靴を",
-      "furigana": "にはさんでくつを",
+      "furigana": "にはさんでくつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "かたっと鳴らしました。",
-      "furigana": "かたっとならしました。",
+      "furigana": "をかたっとならしました",
       "sentence_individual_grammar_level": "N5"
     }
   ]

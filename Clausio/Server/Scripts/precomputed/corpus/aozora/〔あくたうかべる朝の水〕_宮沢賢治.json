@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "あくたうかべる朝の水ひらと",
-      "furigana": "あくたうかべるあさのみずひらと",
+      "furigana": "あくたうかべるあさのみず\nひら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "とびかふつばくらめ苗のはこびの遅ければ熊は",
-      "furigana": "とびかふつばくらめなえのはこびのおそければくまは",
+      "furigana": "ととびかふつばくらめ\nなえのはこびのおそければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "はぎしり雲を見る苗つけ馬を引きき",
-      "furigana": "はぎしりくもをみるなえつけうまをひきき",
+      "furigana": "\nくまははぎしりくもをみる\nなえつけうま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "たり露のすぎなの畔に",
-      "furigana": "たりろのすぎなのあぜに",
+      "furigana": "をひききたり\nろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "立ち権は朱塗の盃をましろきそらにあふぐなり",
-      "furigana": "たちけんはしゅぬりのさかずきをましろきそらにあふぐなり",
+      "furigana": "のあぜにたち\nけんはしゅぬりのさかずきを\nましろき",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "キュステ誌私の町の",
-      "furigana": "きゅすてしわたくしのまちの",
+      "furigana": "\nきゅすてし\nわたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "博物館の、大きなガラス",
-      "furigana": "はくぶつかんの、おおきながらす",
+      "furigana": "まちのはくぶつかんの、おおきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の戸棚には、剥製ですが、四疋",
-      "furigana": "のとだなには、はくせいですが、よんひき",
+      "furigana": "のとだなには、はくせいですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の蜂雀がいます。",
-      "furigana": "のはちすずめがいます。",
+      "furigana": "よんひきのはちすずめがい",
       "sentence_individual_grammar_level": "N5"
     },
     {

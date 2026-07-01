@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "鳥の声があんまり",
-      "furigana": "とりのこえがあんまり",
+      "furigana": "\nとりのこえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "やかましいので一郎",
-      "furigana": "やかましいのでいちろう",
+      "furigana": "やかましいので",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "は眼をさまし",
-      "furigana": "はめをさまし",
+      "furigana": "はめを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ました。",
-      "furigana": "ました。",
+      "furigana": "ました",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なかにみどり",
-      "furigana": "なかにみどり",
+      "furigana": "なかに\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なる犀は",
-      "furigana": "なるさいは",
+      "furigana": "なるさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "落ち臥し松の影",
-      "furigana": "おちふしまつのかげ",
+      "furigana": "はおちふし\nまつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "これを覆へり",
-      "furigana": "これを覆へり",
+      "furigana": "のかげこれを覆",
       "sentence_individual_grammar_level": "N5"
     },
     {

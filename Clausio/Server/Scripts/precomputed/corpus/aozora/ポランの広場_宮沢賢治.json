@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "時、一千九百二十年代、六月三十日夜、処、イーハトヴ地方、人物、",
-      "furigana": "とき、いちせんきゅうひゃくにじゅうねんだい、ろくがつさんとうかよる、ところ、いーはとゔちほう、じんぶつ、",
+      "furigana": "とき、いちせんきゅうひゃくにじゅうねんだい、ろくがつさんとうかよる、\nところ、いーはとゔちほう、\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "キュステ博物局十六等官ファゼロファリーズ小学校生徒山猫博士牧者葡萄園農夫衣裳係",
-      "furigana": "きゅすて　はくぶつきょくじゅうろくとうかんふぁぜろ　ふぁりーずしょうがっこうせいとやまねこはかせぼくしゃぶどうえんのうふ",
+      "furigana": "、きゅすて　はくぶつきょくじゅうろくとうかん\nふぁぜろ　ふぁりーずしょうがっこうせいと\nやまねこはかせ\nぼくしゃ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "オーケストラ指揮者弦楽手鼓器楽手給仕其他曠原紳士、村の娘",
-      "furigana": "かかりおーけすとらしきしゃげんがくてつづみきがくしゅきゅうじそのた　曠原しんし、",
+      "furigana": "ぶどうえんのうふ\nいしょうかかり\nおーけすとらしきしゃ\nげんがくしゅ\nつづみきがくしゅ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "多勢、ベル、人数の歓声、Hacienda,thesocietyTango",
-      "furigana": "むらのむすめ　おおぜい、べる、にんずうのかんせい、あしえんだ,ざ",
+      "furigana": "\nきゅうじ\nそのた　曠原しんし、むらのむすめ　おおぜい、\nべる、\nにんずうのかんせい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "のレコード、オーケストラ演奏、甲虫の翅音、幕あく。",
-      "furigana": "たんごのれこーど、おーけすとらえんそう、こうちゅう",
+      "furigana": ",ざそさえてぃーたんごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "小さな演壇、右手に",
-      "furigana": "ちいさなえんだん、みぎてに",
+      "furigana": "ちいさなえんだん、\nみぎて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "オーケストラ",
-      "furigana": "おーけすとら",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "バンド、指揮者と楽",
-      "furigana": "ばんど、しきしゃとらく",
+      "furigana": "ばんど、しきしゃと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "手二名だけ見える。",
-      "furigana": "しゅにめいだけみえる。",
+      "furigana": "らくしゅにめいだけみえる",
       "sentence_individual_grammar_level": "N5"
     },
     {

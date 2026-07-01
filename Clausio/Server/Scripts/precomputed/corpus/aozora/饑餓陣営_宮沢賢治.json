@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "曹長、兵士、一",
-      "furigana": "そうちょう、へいし、いち",
+      "furigana": "\nそうちょう、\nへいし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "、二、三、四、五",
-      "furigana": "、に、さん、よん、ご",
+      "furigana": "、いち、に、さん、よん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "、六、七",
-      "furigana": "、ろく、なな",
+      "furigana": "、ご、ろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "、八、九、十。",
-      "furigana": "、はち、きゅう、じゅう。",
+      "furigana": "、なな、はち、きゅう、",
       "sentence_individual_grammar_level": "N5"
     },
     {

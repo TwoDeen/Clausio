@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なべてはしけくよそほひて暁惑ふ改札を",
-      "furigana": "なべてはしけく　　よそほひてあかつき惑ふ",
+      "furigana": "なべてはしけく　　よそほひて\nあかつき惑ふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ならび出づるとふりかへる人なき",
-      "furigana": "かいさつをならびいづると",
+      "furigana": "　　　　　　かいさつを\nならび",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ホーム陸の橋歳に一夜の旅",
-      "furigana": "　　ふりかへるひとなき",
+      "furigana": "と　　ふりかへる\nひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "了へしをとめうなゐのひとむれに黒きけむり",
-      "furigana": "　　　りくのはしとしにいちやの　　　　たびりょうへし",
+      "furigana": "ほーむ　　　りくのはし\nとしにいちやの　　　　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "をそら高く職場は待てり春の雨",
-      "furigana": "をとめうないの　　ひとむれに",
+      "furigana": "たびりょうへし\nをとめうないの　　",
       "sentence_individual_grammar_level": "N5"
     },
     {

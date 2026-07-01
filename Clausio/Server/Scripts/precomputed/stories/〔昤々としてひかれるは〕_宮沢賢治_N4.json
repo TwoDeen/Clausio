@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "硫黄ヶ岳の尾根の雪雲灰白",
-      "furigana": "いおうがたけのおねのゆきぐもかいはく",
+      "furigana": "\nいおうがたけのおねのゆき\nくも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "に亙せるは鳥ヶ森また駒頭山焼き枕木を負ひ",
-      "furigana": "にわたるせるはとりがもりまたこまあたまやまやきまくらぎをおひ",
+      "furigana": "かいはくにわたるせるは\nとりがもりまたこまとうやま\nやき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "行きて水路に橋をなさんとや雪の荒野のたゞ",
-      "furigana": "いきてすいろにはしをなさんとやゆきのあらののただ",
+      "furigana": "をおひいきて\nすいろにはしをなさんとや\nゆき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なかを小刻みに行く人のあり",
-      "furigana": "なかをこきざみにいくひとのあり",
+      "furigana": "のあらののただなかを\nこきざみ",
       "sentence_individual_grammar_level": "N4"
     },
     {

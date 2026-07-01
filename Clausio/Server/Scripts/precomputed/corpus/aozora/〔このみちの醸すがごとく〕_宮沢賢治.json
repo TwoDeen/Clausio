@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "このみちの醸すがごとく粟葉などひかりいでしはひがし",
-      "furigana": "このみちのかもすがごとくぞくようなどひかりいでしはひがし",
+      "furigana": "このみちのかもすがごとく\nぞくようなどひかりいでしは\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なる山彙の上に黄なる月いざよ",
-      "furigana": "なるさんいのうえにきなるつきいざよ",
+      "furigana": "なるさんいのうえに\nきなるつき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "へるなり夏の草山とになひてやうやくに人ら",
-      "furigana": "へるなりなつのくさやまとになひてやうやくにひとら",
+      "furigana": "いざよへるなり\nなつのくさやまとになひて\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "帰るをなにをかもわがかなしま",
-      "furigana": "かえるをなにをかもわがかなしま",
+      "furigana": "にひとらかえるを\nなにをかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "んすゝきの葉露をおとせり",
-      "furigana": "んすのきのはろをおとせり",
+      "furigana": "わがかなしまん\nすのきの",
       "sentence_individual_grammar_level": "N5"
     },
     {

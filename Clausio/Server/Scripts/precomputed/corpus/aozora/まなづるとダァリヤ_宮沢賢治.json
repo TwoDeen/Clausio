@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "※黄色な方の一",
-      "furigana": "きごうきいろなほうのいち",
+      "furigana": "きごう\nきいろなほうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "本が、こゝろを南の青白い",
-      "furigana": "ぽんが、こころをみなみのあおじろい",
+      "furigana": "いちぽんが、こころをみなみの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "天末に投げながら、",
-      "furigana": "てんまつになげながら、",
+      "furigana": "てんまつになげながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ひとりごとのやうに云っ",
-      "furigana": "ひとりごとのやうにいっ",
+      "furigana": "、ひとりごとのやうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "たのでした。",
-      "furigana": "たのでした。",
+      "furigana": "たのでした",
       "sentence_individual_grammar_level": "N4"
     }
   ]

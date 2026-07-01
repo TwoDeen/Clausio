@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "もろの崖よりたゆみなく朽ち石まろぶ",
-      "furigana": "もろのがけより　たゆみなくくちいし",
+      "furigana": "もろのがけより　たゆみなく\nくちいし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "黒夜谷鳴きどよもせば慈悲心鳥のわれにはつら",
-      "furigana": "　くろよるたになきどよもせば　じひしんとりのわれに",
+      "furigana": "　くろよるたに\nなきどよもせば　じひしんとりの\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "き睡りかな榾組み直しものおも",
-      "furigana": "はつらき　ねむりかなほたくみなおし",
+      "furigana": "われにはつらき　ねむりかな\nほた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひものうちおもひ榾組みてはやくも東谷",
-      "furigana": "　ものおもひものうちおもひ　ほたくみて",
+      "furigana": "くみなおし　ものおもひ\nものうちおもひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "のはて雲にも朱の色立ちぬ",
-      "furigana": "はやくもひがし　たにのはてくもに",
+      "furigana": "　ほたくみて\nはやくもひがし　",
       "sentence_individual_grammar_level": "N5"
     },
     {

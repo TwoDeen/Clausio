@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "なし〕「",
-      "furigana": "なしきごうきごう",
+      "clause_text": "なし",
+      "furigana": "なし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ふん",
-      "furigana": "ふん",
+      "clause_text": "〕「",
+      "furigana": "きごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "。」",
-      "furigana": "。きごう",
+      "clause_text": "ふん。",
+      "furigana": "きごうふん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」それから若い",
-      "furigana": "きごうそれからわかい",
+      "furigana": "きごう\nそれから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "木霊は、明るい",
-      "furigana": "こだまは、あかるい",
+      "furigana": "こだまは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "枯草の丘",
-      "furigana": "かれくさのおか",
+      "furigana": "かれくさの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "の間を歩いて",
-      "furigana": "のあいだをあるいて",
+      "furigana": "おかのあいだをあるい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "furigana": "ていきました",
       "sentence_individual_grammar_level": "N5"
     },
     {

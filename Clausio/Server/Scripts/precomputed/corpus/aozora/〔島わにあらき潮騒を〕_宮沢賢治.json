@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "島わにあらき潮騒をうつつ",
-      "furigana": "しまわにあらきしおさいをうつつ",
+      "furigana": "しまわにあらきしおさいを\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の森のなかに聴き羊歯の葉しげき",
-      "furigana": "のもりのなかにききしだのはしげき",
+      "furigana": "のもりのなかにきき\nしだのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "下蔭に青き椿の実をとりぬ南の風のくるほしく",
-      "furigana": "かかげにあおきつばきのじつをとりぬみなみのかぜのくるほしく",
+      "furigana": "かかげに\nあおきつばきのじつをとりぬ\nみなみのかぜの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "波のいぶきを吹き来れば百千鳥すだき",
-      "furigana": "なみのいぶきをふきくればひゃくせんちょう　",
+      "furigana": "ほしく\nなみのいぶきをふきくれば\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "わぶる三原の山に燃ゆる火のなかばは雲に鎖されぬ",
-      "furigana": "わぶるみはらのやまにもゆるひのなかばはくもにさされ",
+      "furigana": "ひゃくせんちょう　すだきわぶる\nみはらのやまにもゆるひの\n",
       "sentence_individual_grammar_level": "N4"
     },
     {

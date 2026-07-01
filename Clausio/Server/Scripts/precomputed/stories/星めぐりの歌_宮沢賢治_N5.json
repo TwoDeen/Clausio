@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さそりひろげ",
-      "furigana": "　さそり",
+      "furigana": "　さそり\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "をいめだまの小いぬ、",
-      "furigana": "さあをいめだまの　",
+      "furigana": "つばさ\nあをいめだま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひかりのへびのとぐろ。",
-      "furigana": "こいぬ、ひかりのへびの",
+      "furigana": "の　こいぬ、\nひかりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "つゆとしもとを",
-      "furigana": "ひつゆとしもと",
+      "furigana": "ひ\nつゆと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "おとす、アンドロメダ",
-      "furigana": "を　おとす、",
+      "furigana": "を　おとす、\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "のくもはさかな",
-      "furigana": "の　くもは",
+      "furigana": "の　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "のくちのかたち。",
-      "furigana": "さかなのくちの　",
+      "furigana": "は\nさかなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "五つ",
-      "furigana": "にいつ",
+      "furigana": "に\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "のばした",
-      "furigana": "つのばし",
+      "furigana": "いつつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "はそらの",
-      "furigana": "はそら",
+      "furigana": "は\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "めぐりの",
-      "furigana": "のめぐり",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {

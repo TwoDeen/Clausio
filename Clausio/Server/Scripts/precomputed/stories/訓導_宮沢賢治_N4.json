@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "早くもひとり雪をけりはるかの吹雪をはせ行くは木鼠捕りの悦治",
-      "furigana": "はやくもひとりゆきをけりはるかのふぶきをはせいくはきねずみとりのえつじ",
+      "furigana": "はやくもひとりゆきをけり\nはるかのふぶきをはせいくは\nきねずみとりの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なり三人ひとしくはせたちて多吉ぞわらひ軋るとき寅は溜りに",
-      "furigana": "なりさんにんひとしくはせたちてたきちぞわらひきしるときとらはたまりに",
+      "furigana": "えつじなり\nさんにんひとしくはせたちて\nたきちぞわらひきしるとき\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "倒れゐし赤き毛布にくるまりて風くるごとに足小",
-      "furigana": "たおれいしあかきもうふにくるまりてかぜくるごとにあしこ",
+      "furigana": "とらはたまりにたおれいし\nあかきもうふにくるまりて\nかぜ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "刻むは十にたらざる児らなれや吹雪きたればあと",
-      "furigana": "きざむはじゅうにたらざるこらなれやふぶきたればあと",
+      "furigana": "くるごとにあしこきざむは\nじゅうにたらざるこらなれや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なる児急ぎて前にすがりつゝ一列遠くうすれ行く",
-      "furigana": "なるこいそぎてまえにすがりつついちれつとおくうすれいく",
+      "furigana": "\nふぶきたればあとなるこ\nいそぎてまえにすがり",
       "sentence_individual_grammar_level": "N4"
     },
     {

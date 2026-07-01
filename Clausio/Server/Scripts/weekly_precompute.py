@@ -5,6 +5,7 @@ import argparse
 import glob
 import json
 import os
+import shutil
 import traceback
 
 from corpus_providers import list_all_providers, get_provider
@@ -62,8 +63,65 @@ def _refresh_stories_index():
     _save(os.path.join(PRECOMPUTED_DIR, "stories_index.json"), stories_index)
 
 
-def precompute_all_corpora(limit_per_source=None, only_source: str | None = None):
-    corpus_index: dict[str, dict[str, list[dict]]] = {}
+def _clean_all_generated() -> None:
+    print("Cleaning all generated precomputed outputs...")
+
+    for path in (CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR):
+        if os.path.exists(path):
+            shutil.rmtree(path)
+
+    for path in (
+        os.path.join(PRECOMPUTED_DIR, "corpus_index.json"),
+        os.path.join(PRECOMPUTED_DIR, "stories_index.json"),
+    ):
+        if os.path.exists(path):
+            os.remove(path)
+
+    for d in (PRECOMPUTED_DIR, CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR):
+        os.makedirs(d, exist_ok=True)
+
+    print("Clean complete.")
+
+
+def _clean_source_generated(source: str) -> None:
+    print(f"Cleaning generated outputs for source: {source}")
+
+    source_dir = os.path.join(CORPUS_PRE_DIR, source)
+    if os.path.exists(source_dir):
+        shutil.rmtree(source_dir)
+
+    if source == "aozora" and os.path.exists(STORIES_PRE_DIR):
+        for p in glob.glob(os.path.join(STORIES_PRE_DIR, "*.json")):
+            try:
+                os.remove(p)
+            except FileNotFoundError:
+                pass
+
+    os.makedirs(CORPUS_PRE_DIR, exist_ok=True)
+    os.makedirs(os.path.join(CORPUS_PRE_DIR, source), exist_ok=True)
+    os.makedirs(STORIES_PRE_DIR, exist_ok=True)
+    os.makedirs(NEWS_PRE_DIR, exist_ok=True)
+
+    print(f"Cleaned source: {source}")
+
+
+def precompute_all_corpora(
+    limit_per_source=None,
+    only_source: str | None = None,
+    clean: bool = False,
+    clean_source: str | None = None,
+):
+    if clean and clean_source:
+        raise SystemExit("Use either --clean or --clean-source, not both.")
+
+    if clean:
+        _clean_all_generated()
+
+    if clean_source:
+        provider = get_provider(clean_source)
+        if provider is None:
+            raise SystemExit(f"Unknown source for --clean-source: {clean_source}")
+        _clean_source_generated(clean_source)
 
     providers = list_all_providers()
     if only_source:
@@ -73,6 +131,28 @@ def precompute_all_corpora(limit_per_source=None, only_source: str | None = None
         providers = [provider]
 
     print(f"Found {len(providers)} corpus provider(s).")
+
+    existing_corpus_index: dict[str, dict[str, list[dict]]] = {}
+    corpus_index_path = os.path.join(PRECOMPUTED_DIR, "corpus_index.json")
+
+    if os.path.exists(corpus_index_path) and not clean:
+        try:
+            existing_corpus_index = _load(corpus_index_path)
+        except Exception:
+            existing_corpus_index = {}
+
+    if only_source:
+        corpus_index = {
+            k: v for k, v in existing_corpus_index.items() if k != only_source
+        }
+    elif clean_source:
+        corpus_index = {
+            k: v for k, v in existing_corpus_index.items() if k != clean_source
+        }
+    elif clean:
+        corpus_index = {}
+    else:
+        corpus_index = existing_corpus_index
 
     for provider in providers:
         source = provider.SOURCE_ID
@@ -99,6 +179,8 @@ def precompute_all_corpora(limit_per_source=None, only_source: str | None = None
 
         print(f" Topics fetched: {len(topics)}")
 
+        source_entries: dict[str, list[dict]] = {}
+
         for i, topic in enumerate(topics, start=1):
             print(f" [{i}/{len(topics)}] {topic.title[:80]}")
 
@@ -123,6 +205,7 @@ def precompute_all_corpora(limit_per_source=None, only_source: str | None = None
 
                     corpus_path = _corpus_json_path(source, topic.id)
                     _save(corpus_path, payload)
+
                 else:
                     item = provider.fetch_sentences(topic)
                     if len(item.sentences) < 5:
@@ -144,9 +227,12 @@ def precompute_all_corpora(limit_per_source=None, only_source: str | None = None
                     corpus_path = _corpus_json_path(source, topic.id)
                     _save(corpus_path, payload)
 
-                corpus_index.setdefault(source, {}).setdefault(
-                    detected_level, []
-                ).append(
+                if not os.path.exists(corpus_path):
+                    raise FileNotFoundError(
+                        f"Expected output file missing after save: {corpus_path}"
+                    )
+
+                source_entries.setdefault(detected_level, []).append(
                     {
                         "id": topic.id,
                         "title": topic.title,
@@ -160,6 +246,8 @@ def precompute_all_corpora(limit_per_source=None, only_source: str | None = None
             except Exception as e:
                 print(f" [ERR] {e}")
                 traceback.print_exc()
+
+        corpus_index[source] = source_entries
 
     _save(os.path.join(PRECOMPUTED_DIR, "corpus_index.json"), corpus_index)
     _refresh_stories_index()
@@ -180,9 +268,22 @@ if __name__ == "__main__":
         default=None,
         help="Run only one source, e.g. nhk_general",
     )
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help="Delete all generated precomputed outputs before rebuilding",
+    )
+    parser.add_argument(
+        "--clean-source",
+        type=str,
+        default=None,
+        help="Delete generated outputs for one source before rebuilding it, e.g. nhk_easy",
+    )
     args = parser.parse_args()
 
     precompute_all_corpora(
         limit_per_source=args.limit_per_source,
         only_source=args.only_source,
+        clean=args.clean,
+        clean_source=args.clean_source,
     )

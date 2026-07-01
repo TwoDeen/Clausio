@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "のみをわぶるなにをかひとに",
-      "furigana": "のみをわぶるなにをかひとに",
+      "furigana": "のみをわぶる\nなにをかひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "うらむべき……ましろきそらにはゞたきてま",
-      "furigana": "うらむべききごうきごうましろきそらにはきごうたきてま",
+      "furigana": "にうらむべききごうきごう\nましろきそらにはきごうたき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しろきそらにたゆたひて百舌は",
-      "furigana": "しろきそらにたゆたひてもずは",
+      "furigana": "て\nましろきそらにたゆたひて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いこひをおもふらし",
-      "furigana": "いこひをおもふらし",
+      "furigana": "\nもずはいこひを",
       "sentence_individual_grammar_level": "N5"
     },
     {

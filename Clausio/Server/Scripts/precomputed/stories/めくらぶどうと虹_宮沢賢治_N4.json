@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "めくらぶどうと虹めくらぶどうと",
-      "furigana": "めくらぶどうとにじめくらぶどうと",
+      "furigana": "めくらぶどうとにじ\nめくらぶどう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "虹（にじ）宮沢賢治城（しろ）あとの",
-      "furigana": "にじみやざわけんじじょうあとの",
+      "furigana": "とにじ\nみやざわけんじ\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おおばこの実（み）は結（むす）び、赤つめ草の花は",
-      "furigana": "おおばこのじつはむすび、あかつめくさのはなは",
+      "furigana": "のおおばこのじつはむすび、あかつめくさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "枯（か）れて焦茶色（こげちゃいろ）になり、",
-      "furigana": "かれてこげちゃいろきごうこげちゃいろきごうになり、",
+      "furigana": "のはなはかれてこげちゃいろきごうこげちゃいろきごうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "畑（はたけ）の粟（あわ）は刈（か）られました。",
-      "furigana": "はたけのあわはかられました。",
+      "furigana": "なり、はたけのあわはかられ",
       "sentence_individual_grammar_level": "N4"
     },
     {

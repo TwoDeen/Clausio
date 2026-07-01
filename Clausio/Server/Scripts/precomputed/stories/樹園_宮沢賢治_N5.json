@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "髪白き山田博士が書いだき帰り往く",
-      "furigana": "かみしろきやまだはかせがかいだきかえりゆく",
+      "furigana": "かみしろきやまだはかせが\nしょいだきかえり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ころかはたれはしづに這ひ来て",
-      "furigana": "ころかはたれはしづに這ひきて",
+      "furigana": "ころ\nかはたれはしづに這ひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ふくよかに木の芽ほごるゝ鳥",
-      "furigana": "ふくよかにきのめほごるるとり",
+      "furigana": "きて\nふくよかにきのめほご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "飛びて気圧を高み守衛長〔以下未完〕",
-      "furigana": "とびてきあつをたかみしゅえいちょうきごういかみかんきごう",
+      "furigana": "るる\nとりとびてきあつをたかみ\nしゅえいちょうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ぎごちなき独乙冠詞を青々となげく窓あり",
-      "furigana": "ぎごちなきどくおつかんしをあおあおとなげくまどあり",
+      "furigana": "いかみかんきごう\nぎごちなきどくおつかんしを\nあおあお",
       "sentence_individual_grammar_level": "N5"
     },
     {

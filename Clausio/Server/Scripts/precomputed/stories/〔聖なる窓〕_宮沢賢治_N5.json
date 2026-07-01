@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "聖なる窓そらのひかりはうす",
-      "furigana": "せいなるまどそらのひかりはうす",
+      "furigana": "せいなるまど\nそらのひかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "青み汚点ある幕はひるがへるOh,",
-      "furigana": "あおみおてんあるまくはひるがへるおーえいち,",
+      "furigana": "あおみ\nおてんあるまくはひるがへる\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "myreverence",
-      "furigana": "まい",
+      "furigana": "おーえいち,まい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "!SacredSt",
-      "furigana": "!せいくりっど",
+      "furigana": "!\n",
       "sentence_individual_grammar_level": "N5"
     },
     {

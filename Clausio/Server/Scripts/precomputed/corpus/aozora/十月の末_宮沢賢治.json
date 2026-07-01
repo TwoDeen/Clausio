@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぁ、凍みだ",
-      "furigana": "ぁ、しみだ",
+      "clause_text": "ぁ、",
+      "furigana": "ぁ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "じゃ",
-      "furigana": "じゃ",
+      "clause_text": "凍みだ",
+      "furigana": "しみだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぃ。」",
-      "furigana": "ぃ。きごう",
+      "clause_text": "じゃぃ。",
+      "furigana": "じゃぃ。",
       "sentence_individual_grammar_level": "N5"
     },
     {

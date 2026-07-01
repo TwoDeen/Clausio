@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「山のうえから、青い藤蔓とってきた…西風ゴスケに北風",
-      "furigana": "きごうやまのうえから、あおいふじづるとってきた．せいふうごすけにきたかぜ",
+      "furigana": "きごうやまのうえから、あおいふじづるとってきた\nきごうせいふうごすけに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "カスケ…崖のうえから、赤い藤蔓とってきた…西風ゴスケに北風",
-      "furigana": "かすけきごうがけのうえから、あかいふじづるとってきた．せいふうごすけにきたかぜ",
+      "furigana": "かすけきごう\nがけのうえから、あかいふじづるとってきた\nきごうせいふうごすけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "カスケ…森のなかから、白い藤蔓とってきた…西風ゴスケに北風",
-      "furigana": "かすけきごうもりのなかから、しろいふじづるとってきた．せいふうごすけにきたかぜ",
+      "furigana": "にきたかぜかすけきごう\nもりのなかから、しろいふじづるとってきた\nきごうせいふう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "カスケ…洞のなかから、黒い藤蔓とってきた…西風ゴスケに北風",
-      "furigana": "かすけきごうほらのなかから、くろいふじづるとってきた．せいふうごすけにきたかぜ",
+      "furigana": "にきたかぜかすけきごう\nほらのなかから、くろいふじづるとってきた\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "カスケ…山のうえから、…」タネリが叩いているものは、冬中かかって凍らして、こまかく裂いた藤蔓でした。",
-      "furigana": "かすけきごうやまのうえから、きごうきごうたねりがたたいているものは、ふゆちゅうかかってこおらして、こまかくさいたふじづるでした。",
+      "furigana": "ごすけにきたかぜかすけきごう\nやまのうえから、きごうきごう\nたねりがたたいているものは、ふゆちゅうかかってこおらして、こまかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "た…西風ゴスケに北風カスケ…崖のうえから、赤い",
-      "furigana": "た．せいふうごすけにきたかぜかすけきごうがけのうえから、あかい",
+      "furigana": "た\nきごうせいふうごすけにきたかぜかすけきごう\nがけのうえから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "けむりがふきだした…西風ゴスケに北風カスケ…森のなかから、白い",
-      "furigana": "けむりがふきだした．せいふうごすけにきたかぜかすけきごうもりのなかから、しろい",
+      "furigana": "あかいけむりがふきだした\nきごうせいふうごすけにきたかぜかすけきごう\nもりのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "けむりがふきだした…西風ゴスケに北風",
-      "furigana": "けむりがふきだした．せいふうごすけにきたかぜ",
+      "furigana": "、しろいけむりがふきだした\nきごうせいふう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "カスケ…洞のなかから、黒いけむりがふきだした…西風ゴスケに北風カスケ…。」",
-      "furigana": "かすけきごうほらのなかから、くろいけむりがふきだした．せいふうごすけにきたかぜかすけきごう。きごう",
+      "clause_text": "カスケ…洞のなかから、黒いけむりがふきだした…西風ゴスケに北風カスケ…。",
+      "furigana": "にきたかぜかすけきごう\nほらのなかから、くろいけむりがふきだした\nきごうせいふうごすけに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」ところ",
-      "furigana": "きごうところ",
+      "furigana": "きごう\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "がタネリ",
-      "furigana": "がたねり",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "は、もう",
-      "furigana": "は、もう",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "やめてしまい",
-      "furigana": "やめてしまい",
+      "furigana": "やめて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ました。",
-      "furigana": "ました。",
+      "furigana": "ました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、「さあ行こう、さあ",
-      "furigana": "が、きごうさあいこう、さあ",
+      "clause_text": "が、「さあ",
+      "furigana": "が、きごうさあ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "行こう。」",
-      "furigana": "いこう。きごう",
+      "clause_text": "行こう、さあ行こう。",
+      "furigana": "いこう、さあいこう。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

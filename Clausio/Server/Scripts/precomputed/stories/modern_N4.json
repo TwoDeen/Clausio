@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ね。」",
-      "furigana": "ね。きごう",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "とやってみたいもんだなあ」「",
-      "furigana": "とやってみたいもんだなあきごうきごう",
+      "furigana": "とやってみたいもんだなあきごう\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "鹿の黄色い横腹なんかに、二、三発",
-      "furigana": "しかのきいろいよこばらなんかに、に、さんはつ",
+      "furigana": "きごうしかのきいろいよこばらなんかに、に、さん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "お見舞いしたら、ずいぶん",
-      "furigana": "おみまいしたら、ずいぶん",
+      "furigana": "はつおみまいしたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "痛快だろうねえ。",
-      "furigana": "つうかいだろうねえ。",
+      "furigana": "つうかいだろうねえ",
       "sentence_individual_grammar_level": "N4"
     }
   ]

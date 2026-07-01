@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "第一日曜オツベル",
-      "furigana": "だいいちにちようおつべる",
+      "furigana": "\nだいいちにちよう\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ときたら大した",
-      "furigana": "ときたらたいした",
+      "furigana": "ときたら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "もんだ。",
-      "furigana": "もんだ。",
+      "furigana": "もん",
       "sentence_individual_grammar_level": "N4"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "水はよどみて日はけぶり桜は青き夢の列汝",
-      "furigana": "みずはよどみて　　ひはけぶりさくらはあおき",
+      "furigana": "みずはよどみて　　ひはけぶり\nさくらはあおき",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "は酔ひ痴れてうちをどる泥洲",
-      "furigana": "ゆめのれつなんじはよいひしれて　",
+      "furigana": "ゆめのれつ\nなんじはよいひしれ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の上にうちをどる母をはるけき",
-      "furigana": "うちをどるどろすのうえに　　　",
+      "furigana": "て　うちをどる\nどろすのうえに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なが弟子は酔はずさびしくそらを見るその蘆生えの",
-      "furigana": "をどるははをはるけき　　ながでしはよいはず",
+      "furigana": "うちをどる\nははをはるけき　　ながでしは\nよい",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "蘆に立ちましろきそらをひとり見る",
-      "furigana": "　そらをみるそのあしせいえの　　あし",
+      "furigana": "はずさびしく　そらをみる\nそのあし",
       "sentence_individual_grammar_level": "N3"
     },
     {

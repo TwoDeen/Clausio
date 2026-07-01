@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "あなたは、ご",
-      "furigana": "にちあなたは、",
+      "furigana": "にち\nあなたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "きげんよろしい",
-      "furigana": "ごきげん",
+      "furigana": "、ごきげん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ほで、けつこです。",
-      "furigana": "ほで、けつこです",
+      "furigana": "ほで、けつこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "、おいでん",
-      "furigana": "、おいでん",
+      "furigana": "、おいで\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "なさい。",
-      "furigana": "なさい。",
+      "furigana": "んなさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "こんな",
-      "furigana": "はい",
+      "furigana": "はい\n",
       "sentence_individual_grammar_level": "N5"
     },
     {

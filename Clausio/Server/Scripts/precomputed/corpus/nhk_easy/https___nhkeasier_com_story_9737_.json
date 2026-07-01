@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "熊本県阿蘇市で、24",
-      "furigana": "くまもとけんあそしで、24",
+      "clause_text": "熊本県阿蘇市で、24日の朝、",
+      "furigana": "くまもとけんあそしで、にじゅうよっかのあさ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "日の朝、「自転車",
-      "furigana": "日のあさ、「じてんしゃ",
+      "clause_text": "「自転車に乗った人",
+      "furigana": "「じてんしゃにのったひと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "に乗った人が川に流された",
-      "furigana": "にのったひとがかわにながされた",
+      "clause_text": "が川に流され",
+      "furigana": "がかわにながされ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "」と警察に連絡が",
-      "furigana": "」とけいさつにれんらくが",
+      "clause_text": "た」と警察に連絡が",
+      "furigana": "た」とけいさつにれんらくが",
       "sentence_individual_grammar_level": "N4"
     },
     {

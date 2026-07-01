@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "スポーツ選手が",
-      "furigana": "スポーツせんしゅが",
+      "clause_text": "スポーツ選手が作った",
+      "furigana": "スポーツせんしゅがつくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "作った「がんばれ",
-      "furigana": "つくった「がんばれ",
+      "clause_text": "「がんばれ",
+      "furigana": "「がんばれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ニッポン",
-      "furigana": "ニッポン",
+      "clause_text": "ニッポン」",
+      "furigana": "ニッポン」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "」などです。",
-      "furigana": "」などです。",
+      "clause_text": "などです。",
+      "furigana": "などです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なべて葡萄に花さきて蜂のふるひのせはしきにをちこち青き",
-      "furigana": "なべてぶどうにはなさきてはちのふるひのせはしきにをちこちあおき",
+      "furigana": "なべてぶどうにはなさきて\nはちのふるひのせはしきに\nをちこち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "銅液の噴霧にひるは来りけり",
-      "furigana": "どうえきのふんむにひるはきたりけり",
+      "furigana": "あおきどうえきの\nふんむにひるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "にはかに風のうち死してあたり",
-      "furigana": "にはかにふうのうちししてあたり",
+      "furigana": "けり\nにはかにふうのうちしし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いよよにまばゆきを見ずやかしこの青き",
-      "furigana": "いよよにまばゆきをみずやかしこのあおき",
+      "furigana": "て\nあたりいよよにまばゆきを\nみずや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "そら友よいざ射て雹の雲",
-      "furigana": "そらともよいざいてひょうのくも",
+      "furigana": "かしこのあおきそら\nともよ",
       "sentence_individual_grammar_level": "N5"
     },
     {

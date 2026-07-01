@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "序ぼくは農学校の三",
-      "furigana": "じょぼくはのうがっこうのさん",
+      "furigana": "じょ\nぼくはのうがっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "年生になった",
-      "furigana": "ねんせいになった",
+      "furigana": "さんねんせいになっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ときから今日まで",
-      "furigana": "ときからきょうまで",
+      "furigana": "たときからきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "三年の間のぼくの",
-      "furigana": "さんねんのあいだのぼくの",
+      "furigana": "さんねんのあいだのぼく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "日誌を公開する。",
-      "furigana": "にっしをこうかいする。",
+      "furigana": "のにっしをこうかいする",
       "sentence_individual_grammar_level": "N5"
     },
     {

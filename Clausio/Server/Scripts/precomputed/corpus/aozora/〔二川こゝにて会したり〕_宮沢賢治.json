@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（二川こゝにて会したり）（いな、",
-      "furigana": "きごうふたかわここにてかいしたりきごうきごういな、",
+      "furigana": "きごうふたかわここにてかいしたりきごう\nきごういな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "和賀の川水雪代ふ夏油のそれの十なればその川ここに入ると",
-      "furigana": "わがのかわみずゆきしろふなつあぶらのそれのじゅうなればそのかわここにはいると",
+      "furigana": "、わがのかわみずゆきしろふ\nなつあぶらのそれのじゅうなれば\nそのかわここに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "云へ）藍と雪とのうすけぶりつらなる",
-      "furigana": "いえきごうあいとゆきとのうすけぶりつらなる",
+      "furigana": "はいるといえきごう\nあいとゆきとのうすけぶり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "尾根のかなたより夏油の川は巌",
-      "furigana": "おねのかなたよりなつあぶらのかわはいわ",
+      "furigana": "\nつらなるおねのかなたより\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "截りてましろき波をながしきぬ",
-      "furigana": "きりてましろきなみをながしきぬ",
+      "furigana": "なつあぶらのかわはいわきりて\nましろき",
       "sentence_individual_grammar_level": "N5"
     },
     {

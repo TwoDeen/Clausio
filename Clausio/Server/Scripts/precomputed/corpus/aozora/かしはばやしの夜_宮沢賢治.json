@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "声で、「欝金し",
-      "furigana": "こえで、きごううこんし",
+      "furigana": "こえで、\nきごううこん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "やつぽのカンカラカンのカアン。」",
-      "furigana": "やつぽのかんからかんのかあん。きごう",
+      "clause_text": "やつぽのカンカラカンのカアン。",
+      "furigana": "しやつぽのかんからかんのかあん",
       "sentence_individual_grammar_level": "N5"
     },
     {

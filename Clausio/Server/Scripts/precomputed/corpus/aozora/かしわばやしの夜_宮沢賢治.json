@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "もない変な声で、「欝金しゃっぽの",
-      "furigana": "もないへんなこえで、きごううこんしゃっぽの",
+      "furigana": "もないへんなこえで、\nきごううこんしゃっぽ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "カンカラカンのカアン。」",
-      "furigana": "かんからかんのかあん。きごう",
+      "clause_text": "カンカラカンのカアン。",
+      "furigana": "のかんからかんのかあん",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の木がある",
-      "furigana": "のきがある",
+      "clause_text": "の木が",
+      "furigana": "のきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "よ。」",
-      "furigana": "よ。きごう",
+      "clause_text": "あるよ。",
+      "furigana": "あるよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」藤原",
-      "furigana": "きごうふじわら",
+      "furigana": "きごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "慶次郎が",
-      "furigana": "けいじろうが",
+      "furigana": "けいじろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "だしぬけ",
-      "furigana": "だしぬけ",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "に私に",
-      "furigana": "にわたくしに",
+      "furigana": "にわたくし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "云いました。",
-      "furigana": "いいました。",
+      "furigana": "にいいました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "？」",
-      "furigana": "?きごう",
+      "clause_text": "？",
+      "furigana": "?",
       "sentence_individual_grammar_level": "N5"
     }
   ]

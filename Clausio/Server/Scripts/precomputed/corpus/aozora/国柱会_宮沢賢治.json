@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "外の面には春日うららにありとあるひびきなせるを灰いろのこの館には百の人けは",
-      "furigana": "とのもにはかすがうららにありとあるひびきなせるをはいいろのこのやかたにはひゃくのひとけは",
+      "furigana": "とのもにはかすがうららに\nありとあるひびきなせるを\nはいいろのこのやかたには\nひゃくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひだになし台の上桜はなさき行楽の士女さゞめかんこの館はひえびえ",
-      "furigana": "ひだになしだいのうえさくらはなさきこうらくのしおんなさきごうめかんこのやかたはひえびえ",
+      "furigana": "ひとけはひだになし\nだいのうえさくらはなさき\nこうらくのしおんなさきごうめかん\nこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "として泉石をうち繞りたり大居士は眼をいたみはや三月の人の",
-      "furigana": "としてせんせきをうちめぐりたりだいこじはめをいたみはやさんがつのひとの",
+      "furigana": "やかたはひえびえとして\nせんせきをうちめぐりたり\nだいこじはめを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "見るなく智応氏はのどをいたづき巾巻きて廊に按ぜり崖下にまた笛鳴りて東へととゞろき行くは",
-      "furigana": "みるなくちおうしはのどをいたづきはばまきてろうにあんぜりがけしたにまたふえなりてひがしへとときごうろきいくは",
+      "furigana": "\nはやさんがつのひとのみるなく\nちおうしはのどをいたづき\nはばまきてろうにあんぜり\nがけしたにまたふえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "北国の春の光を百里経て汽車の着きけん",
-      "furigana": "きたぐにのはるのひかりをひゃくりへてきしゃのつきけん",
+      "furigana": "て\nひがしへとときごうろきいくは\nきたぐにのはる",
       "sentence_individual_grammar_level": "N5"
     },
     {

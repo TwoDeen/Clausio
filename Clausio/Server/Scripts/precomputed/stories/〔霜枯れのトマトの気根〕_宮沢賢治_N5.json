@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "霜枯れのトマトの気根その",
-      "furigana": "しもがれのとまとのきこんその",
+      "furigana": "しもがれのとまとのきこん\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "熟れぬ青き実をとり手に裂かば",
-      "furigana": "うれぬあおきじつをとりてにさかば",
+      "furigana": "うれぬあおきじつをとり\nてに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さびしきにほひほのぼのとそらにのぼり",
-      "furigana": "さびしきにほひほのぼのとそらにのぼり",
+      "furigana": "ばさびしきにほひ\nほのぼのとそらに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "て翔け行くは二価アルコ",
-      "furigana": "てかけいくはにかあるこ",
+      "furigana": "のぼりて\nかけいくはに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ホール落ちくるは黒雲のひら",
-      "furigana": "ほーるおちくるはくろくものひら",
+      "furigana": "かあるこほーる\nおちくるは",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "その青じろき盤面にには",
-      "furigana": "そのあおじろきばんめんにには",
+      "furigana": "\nそのあおじろきばんめんに\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "かに雪の反射来てパンのかけら",
-      "furigana": "かにゆきのはんしゃきてぱんのかけら",
+      "furigana": "にはかにゆきのはんしゃきて\nぱんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "は床に落ちインクの雫",
-      "furigana": "はゆかにおちいんくのしずく",
+      "furigana": "かけらはゆかにおち\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "かわきたり",
-      "furigana": "かわきたり",
+      "furigana": "のしずく",
       "sentence_individual_grammar_level": "N5"
     },
     {

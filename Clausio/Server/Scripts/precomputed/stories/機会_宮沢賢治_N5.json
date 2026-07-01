@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "恋のはじめのおとなひはかの",
-      "furigana": "こいのはじめのおとなひはかの",
+      "furigana": "こいのはじめのおとなひは\nか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "青春に来りけりおなじき第二神",
-      "furigana": "せいしゅんにきたりけりおなじきだいにしん",
+      "furigana": "のせいしゅんにきたりけり\nおなじきだい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "来は蒼き上着にありにけりその第三は諸人の",
-      "furigana": "らいはあおきうわぎにありにけりそのだいさんはしょじんの",
+      "furigana": "にしんらいは\nあおきうわぎにありにけり\nそのだいさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "栄誉のなかに来りけりいまおゝ",
-      "furigana": "えいよのなかにきたりけりいまおの",
+      "furigana": "はしょじんの\nえいよのなかにきたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "その四愛憐は何たるぼろの中に来しぞも",
-      "furigana": "そのよんあいれんはなんたるぼろのなかにきたしぞも",
+      "furigana": "\nいまおのそのよんあいれんは\nなんたるぼろ",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "郡属伊原忠右エ門科頭に",
-      "furigana": "ぐんぞくいはらちゅうえもんかあたまに",
+      "furigana": "ぐんぞくいはらちゅうえもん\nとがあたま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ゴムの靴はきて冬の芝生をうちよぎり南ち",
-      "furigana": "ごむのくつはきてふゆのしばふをうちよぎりみなみち",
+      "furigana": "にごむのくつはきて\nふゆのしばふをうちよぎり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ゞれし綿雲に雨量計をぞ",
-      "furigana": "きごうれしわたぐもにうりょうけいをぞ",
+      "furigana": "\nみなみちきごうれしわたぐもに\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さゝげたる天狗巣病にはあらねども",
-      "furigana": "ささげたるてんぐそうびょうにはあらねども",
+      "furigana": "をぞささげたる\nてんぐそうびょうには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "あまりにしげきこずゑかな",
-      "furigana": "あまりにしげきこずえかな",
+      "furigana": "あらねども\nあまりに",
       "sentence_individual_grammar_level": "N5"
     },
     {

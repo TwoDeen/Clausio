@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "洪積の台のはてなる一",
-      "furigana": "こうせきのだいのはてなるひと",
+      "furigana": "こうせきのだいのはてなる\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひらの赤き粘土地桐の群白くひかれど枝",
-      "furigana": "ひらのあかきねんどちきりのむれしろくひかれどえだ",
+      "furigana": "ひとひらのあかきねんどち\nきりのむれしろくひかれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しげくたけ低ければ鍛冶",
-      "furigana": "しげくたけひくければたんや",
+      "furigana": "ど\nえだしげくたけひくけれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "町の米屋五助は",
-      "furigana": "ちょうのこめやごすけは",
+      "furigana": "ば\nかじちょうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "今日も来て灰を与へぬ。",
-      "furigana": "きょうもきてはいをあたへぬ。",
+      "furigana": "ごすけは\nきょうもきてはい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "かなたにてきらめく川やさてはまた遠山の雪その",
-      "furigana": "かなたにてきらめくかわやさてはまたとおやまのゆきその",
+      "furigana": "かなたにてきらめくかわや\nさてはまたとおやまのゆき\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "枝にからすとまればざんざん",
-      "furigana": "えだにからすとまればざんざん",
+      "furigana": "そのえだにからすとまれば\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "と実はうちゆるゝこのときに教諭白藤灰いろの",
-      "furigana": "とじつはうちゆるのこのときにきょうゆしらふじはいいろの",
+      "furigana": "とじつはうちゆるの\nこのときにきょうゆしらふじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "イムバネス着ていぶかしく",
-      "furigana": "いむばねすきていぶかしく",
+      "furigana": "\nはいいろのいむばねすきて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "五助をながめ粘土地をよこぎりてくる",
-      "furigana": "ごすけをながめねんどちをよこぎりてくる",
+      "furigana": "\nいぶかしくごすけをながめ\nねんどちを",
       "sentence_individual_grammar_level": "N5"
     },
     {

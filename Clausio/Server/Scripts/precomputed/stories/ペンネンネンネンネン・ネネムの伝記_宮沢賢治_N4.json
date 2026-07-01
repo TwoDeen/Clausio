@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "・ネネムの独立〔冒頭",
-      "furigana": "・ねねむのどくりつきごうぼうとう",
+      "furigana": "・ねねむのどくりつ\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "原稿数枚焼失〕の",
-      "furigana": "げんこうすうまいしょうしつきごうの",
+      "furigana": "げんこうすうまいしょうしつきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "でした。",
-      "furigana": "でした。",
+      "furigana": "のでした",
       "sentence_individual_grammar_level": "N5"
     },
     {

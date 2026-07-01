@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "百合掘ると唐鍬をかたぎつひと恋ひて林に行けば濁り田に白き日輪",
-      "furigana": "ゆりほると　　とうがをかたぎつひとこいひて　　はやしにいけばにごりでんに",
+      "furigana": "ゆりほると　　とうがをかたぎつ\nひとこいひて　　はやしにいけば\nにごり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "くるほしくうつりゆれたる友らみな大都のなかに",
-      "furigana": "　　　しろきにちりんくるほしく　　うつりゆれたるとも",
+      "furigana": "でんに　　　しろきにちりん\nくるほしく　　うつりゆれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "入学の試験するらんわれはしも身はうち疾みてこゝろはも恋に",
-      "furigana": "らみな　　　だいとのなかににゅうがくの　　　　しけんするらんわれ",
+      "furigana": "たる\nともらみな　　　だいとのなかに\nにゅうがくの　　　　しけんする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "疲れぬ森のはていづくにかあれ子ら云へる声ほのかにてはるかなる地平のあたり汽車の音行きわぶ",
-      "furigana": "も　　みはうちはやみてこころはも　　こいにつかれぬもりのはて　　　いづくにかあれこらいえる　　",
+      "furigana": "らん\nわれはしも　　みはうちはやみて\nこころはも　　こいにつかれぬ\nもりのはて　　　いづくにか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ごとしこのまひる鳩のまねして松森のうす日のなかにいとちさき百合のうろこを索めたるわれぞさびしき",
-      "furigana": "こえほのかにてはるかなる　　ちへいのあたりきしゃのおと　　　いきわぶごとしこのまひる　　はとのまねして",
+      "furigana": "\nこらいえる　　こえほのかにて\nはるかなる　　ちへいのあたり\nきしゃのおと　　　いきわぶごとし\nこの",
       "sentence_individual_grammar_level": "N5"
     },
     {

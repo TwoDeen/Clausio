@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "エレキに魚をとるのみか鳥さへ犯すしれをのこ捕らで",
-      "furigana": "えれきにさかなをとるのみかとりさへおかすしれをのことらで",
+      "furigana": "えれきにさかなをとるのみか\nとりさへおかすしれをのこ\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "やまんと駐在の戸田巡査こそいかめ",
-      "furigana": "やまんとちゅうざいのとだじゅんさこそいかめ",
+      "furigana": "でやまんとちゅうざいの\nとだじゅんさこそ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しきまこと楊に磁の乗りて",
-      "furigana": "しきまことようにじののりて",
+      "furigana": "いかめしき\nまことようにじ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "小鳥は鉄のたぐひかやひとむれさつと",
-      "furigana": "ことりはてつのたぐひかやひとむれさつと",
+      "furigana": "ののりて\nことりはてつのたぐひかや\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "落ち入りてしらむ梢ぞあやしけれ",
-      "furigana": "おちいりてしらむこずえぞあやしけれ",
+      "furigana": "むれさつとおちいりて\nしらむ",
       "sentence_individual_grammar_level": "N4"
     },
     {

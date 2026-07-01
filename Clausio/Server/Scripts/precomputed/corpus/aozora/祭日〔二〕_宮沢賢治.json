@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "アナロナビクナビ睡たく桐咲きて峡に瘧のやまひつたはる",
-      "furigana": "あなろなびくなびねむたくきりさきてかいにおこりのやまひつたはる",
+      "furigana": "あなろなびくなびねむたくきりさきて\nかいにおこりのやまひつた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ナビクナビアリナリ赤き幡もちて草",
-      "furigana": "なびくなびありなりあかきはたもちてくさ",
+      "furigana": "\nなびくなびありなりあかきはたもち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の峠を越ゆる母たちナリトナリアナロ御堂のうすあかり毘沙門",
-      "furigana": "のとうげをこしゆるははたちなりとなりあなろみどうのうすあかりびしゃもん",
+      "furigana": "て\nくさのとうげをこしゆるははたち\nなりとなりあなろみどうのうす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "像に味噌たてまつるアナロナビクナビ",
-      "furigana": "ぞうにみそたてまつるあなろなびくなび",
+      "furigana": "\nびしゃもんぞうにみそたてまつる\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "踏まるゝ天の邪鬼四方につゝどり鳴きどよむなり",
-      "furigana": "ふまるるあまのじゃくしほうにつつどりなきどよむなり",
+      "furigana": "ふまるるあまのじゃく\nしほうにつつどり",
       "sentence_individual_grammar_level": "N5"
     },
     {

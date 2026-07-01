@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "て面赤く鼻",
-      "furigana": "てめんあかくび",
+      "furigana": "て\nめんあかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "たくましきその",
-      "furigana": "たくましきその",
+      "furigana": "びたくましき\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "云ふや声肝にあり",
-      "furigana": "ゆふやこえきもにあり",
+      "furigana": "そのゆふやこえきもに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "その行くや犠を索むる",
-      "furigana": "そのいくや犠をもとむる",
+      "furigana": "あり\nそのいくや犠を",
       "sentence_individual_grammar_level": "N5"
     },
     {

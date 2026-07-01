@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ま青きそらの風をふるはしひとりはたらく脱穀機R-R-",
-      "furigana": "まあおきそらのかぜをふるはしひとりはたらくだっこくきr-r-",
+      "furigana": "まあおきそらのかぜをふるはし\nひとりはたらくだっこくき\nr-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "r-r-r-r-r-r-r脱穀小屋",
-      "furigana": "r-r-r-r-r-r-rだっこくこや",
+      "furigana": "r-r-r-r-r-r-r-r\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の庇の下に首を垂れたる二疋の馬R-R-r-r-r-r-r-r-r粉雪おぼろに",
-      "furigana": "のひさしのしたにくびをたれたるにひきのうまr-r-r-r-r-r-r-r-rこなゆきおぼろに",
+      "furigana": "こやのひさしのしたに\nくびをたれたるにひきのうま\nr-r-r-r-r-r-r-r-r\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひかりたちはるかにりりと鐘なればうなじをあぐる二疋の馬華やかなりしそのかみのよき",
-      "furigana": "ひかりたちはるかにりりとかねなればうなじをあぐるにひきのうまはなやかなりしそのかみのよき",
+      "furigana": "こなゆきおぼろにひかりたち\nはるかにりりとかねなれば\nうなじをあぐるにひきのうま\nはなやか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ギャロップをうちふみてうまやにこそは帰り行くなれ",
-      "furigana": "ぎゃろっぷをうちふみてうまやにこそはかえりいくなれ",
+      "furigana": "しそのかみの\nよきぎゃろっぷをうちふみて\nうま",
       "sentence_individual_grammar_level": "N5"
     },
     {

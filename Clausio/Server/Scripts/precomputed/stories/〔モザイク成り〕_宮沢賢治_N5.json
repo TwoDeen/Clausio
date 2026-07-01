@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "モザイク成り、佳人は窓より見るを何ぞ七面鳥",
-      "furigana": "もざいくなり、かじんはまどよりみるをなんぞしちめんちょう",
+      "furigana": "もざいくなり、\nかじんはまどよりみるを\nなんぞ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の二所をけちらし窪めしや、何の花を",
-      "furigana": "のにしょをけちらしくぼめしや、なんのはなを",
+      "furigana": "のにしょをけちらしくぼめしや、\nなん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "移してこゝを埋めん然りたゞ七面鳥なんぢそこに座して",
-      "furigana": "うつしてここをうめんしかりたきごうしちめんちょうなんぢそこにざして",
+      "furigana": "のはなをうつしてここをうめん\nしかりたきごうしちめんちょうなんぢそこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "動かざれ然り七面鳥動くも又可なりなんぢ",
-      "furigana": "うごかざれしかりしちめんちょううごくもまたかなりなんぢ",
+      "furigana": "にざしてうごかざれ\nしかりしちめんちょううごくもまた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "事務長のひいきする花",
-      "furigana": "じむちょうのひいきするはな",
+      "furigana": "\nなんぢじむちょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {

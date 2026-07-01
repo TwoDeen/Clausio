@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "廿日月かざす刃は音無しの黒業ひろごるそらのひまその",
-      "furigana": "にじゅうにちがつかざすははおとなしのくろぎょうひろごるそらのひまその",
+      "furigana": "にじゅうにちがつかざすははおとなししの\nくろぎょうひろごるそらのひま\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "竜之介風もなき修羅のさかひを行き",
-      "furigana": "りゅうのすけふうもなきしゅらのさかひをいき",
+      "furigana": "そのりゅうのすけ\nかぜもなきしゅらのさかひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "惑ひすゝきすがるゝいのじ原その雲のいろ日は沈み鳥は",
-      "furigana": "惑ひすのきすがるるいのじはらそのくものいろひはしずみとりは",
+      "furigana": "をいき惑ひ\nすのきすがるるいのじはら\nそのくものいろ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ねぐらにかへれどもひとはかへら",
-      "furigana": "ねぐらにかへれどもひとはかへら",
+      "furigana": "ひはしずみとりはねぐらにかへれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ぬ修羅の旅その竜之介",
-      "furigana": "ぬしゅらのたびそのりゅうのすけ",
+      "furigana": "\nひとはかへらぬしゅら",
       "sentence_individual_grammar_level": "N5"
     },
     {

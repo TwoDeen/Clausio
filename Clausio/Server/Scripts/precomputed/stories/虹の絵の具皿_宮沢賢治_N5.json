@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "はて、王子さま」と、年よりの",
-      "furigana": "はて、おうじさまきごうと、としよりの",
+      "furigana": "はて、おうじさまきごう\nと、としより",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "けらいが、室の",
-      "furigana": "けらいが、むろの",
+      "furigana": "のけらいが、むろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "中であっちを向いたり",
-      "furigana": "なかであっちをむいたり",
+      "furigana": "のなかであっちをむい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "こっちを向いたりして叫んでいる",
-      "furigana": "こっちをむいたりしてさけんでいる",
+      "furigana": "こっちをむいたりしてさけんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ようすでした。",
-      "furigana": "ようすでした。",
+      "furigana": "ようすでした",
       "sentence_individual_grammar_level": "N5"
     }
   ]

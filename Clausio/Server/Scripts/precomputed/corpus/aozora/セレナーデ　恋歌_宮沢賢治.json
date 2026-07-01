@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "江釣子森の右肩に雪ぞあやしくひらめけど",
-      "furigana": "えづりこもりのみぎかたにゆきぞあやしくひらめけど",
+      "furigana": "えづりこもりのみぎかたに\nゆきぞあやしくひらめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "きみはいまさずルーノの君は見えまさず夜をつまれし枕木黒く群",
-      "furigana": "きみはいまさずるーののきみはみえまさずよるをつまれしまくらぎくろくぐん",
+      "furigana": "\nきみはいまさず\nるーののきみはみえまさず\nよるをつまれし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "あちこちに安けれどきみはいまさずとゞろにしばし行きかへどきみは",
-      "furigana": "あちこちにやすけれどきみはいまさずときごうろにしばしゆきかへどきみは",
+      "furigana": "くろく\nぐんあちこちにやすけれど\nきみはいまさず\nときごうろにしばし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いまさずポイントの灯はけむれどもルーノのきみの影はなきあゝきみにびし",
-      "furigana": "いまさずぽいんとのあかりはけむれどもるーののきみのかげはなきああきみにびし",
+      "furigana": "ど\nきみはいまさず\nぽいんとのあかりはけむれども\nるーののきみのかげ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひかりもてわが青じろき額を射ばわが悩あるは癒えなんに",
-      "furigana": "ひかりもてわがあおじろきがくをいばわが悩あるはいえなんに",
+      "furigana": "はなき\nああきみにびしひかりもて\nわがあおじろきがくをい",
       "sentence_individual_grammar_level": "N5"
     },
     {

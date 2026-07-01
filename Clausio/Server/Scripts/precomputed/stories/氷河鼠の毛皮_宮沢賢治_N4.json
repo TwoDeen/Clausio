@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "×ぜんたい十二月の",
-      "furigana": "きごうぜんたいじゅうにがつの",
+      "furigana": "きごう\nぜんたいじゅうにがつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "二十六日は",
-      "furigana": "にじゅうろくにちは",
+      "furigana": "のにじゅうろくにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "イーハトヴ",
-      "furigana": "いーはとゔ",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "はひどい",
-      "furigana": "はひどい",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "吹雪でした。",
-      "furigana": "ふぶきでした。",
+      "furigana": "ふぶきでした",
       "sentence_individual_grammar_level": "N5"
     }
   ]

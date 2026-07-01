@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "んね。」",
-      "furigana": "んね。きごう",
+      "clause_text": "んね。",
+      "furigana": "んね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「鹿の黄いろ",
-      "furigana": "きごうきごうしかのきいろ",
+      "furigana": "きごう\nきごうしかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "な横つ腹なんぞに、",
-      "furigana": "なよこつはらなんぞに、",
+      "furigana": "なよこつはらなんぞに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "二三発お見舞",
-      "furigana": "にさんはつおみまい",
+      "furigana": "、にさんはつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "まうしたら、ずゐぶん",
-      "furigana": "まうしたら、ずいぶん",
+      "furigana": "まうしたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "痛快だらうねえ。",
-      "furigana": "つうかいだらうねえ。",
+      "furigana": "つうかいだらうねえ",
       "sentence_individual_grammar_level": "N4"
     }
   ]

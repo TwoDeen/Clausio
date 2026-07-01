@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "こゝろの影を恐るなとまこと",
-      "furigana": "こころのかげをおそるなとまこと",
+      "furigana": "こころのかげをおそるなと\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "にさなりさりながら",
-      "furigana": "にさなりさりながら",
+      "furigana": "にさなりさり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "こゝろの影の",
-      "furigana": "こころのかげの",
+      "furigana": "\nこころの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しばしなるそを",
-      "furigana": "しばしなるそを",
+      "furigana": "かげのしばしなる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "こそ世界現実といふ",
-      "furigana": "こそせかいげんじつといふ",
+      "furigana": "\nそをこそせかいげんじつ",
       "sentence_individual_grammar_level": "N4"
     },
     {

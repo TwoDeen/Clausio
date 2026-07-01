@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "な。」",
-      "furigana": "な。きごう",
+      "clause_text": "な。",
+      "furigana": "な。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「袴",
-      "furigana": "きごうきごうはかま",
+      "furigana": "きごう\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "どころ",
-      "furigana": "どころ",
+      "furigana": "はかま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "さ。",
-      "furigana": "さ。",
+      "furigana": "さ",
       "sentence_individual_grammar_level": "N5"
     }
   ]

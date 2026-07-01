@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "海鳴りのとゞろく日は船もより",
-      "furigana": "うみなりのときごうろくにちはふねもより",
+      "furigana": "うみなりのときごうろくにちは\nふねも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "来ぬを火の山の燃え熾りて雲の",
-      "furigana": "きぬをひのやまのもえおこりてくもの",
+      "furigana": "きぬを\nひのやまのもえおこりて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ながるゝ海鳴り",
-      "furigana": "ながるのうみなり",
+      "furigana": "\nくものながるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "寄せ来る椿の林に",
-      "furigana": "よせくるつばきのはやしに",
+      "furigana": "\nうみなりよせくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひねもす百合掘り今日もはてぬ",
-      "furigana": "ひねもすゆりほりきょうもはてぬ",
+      "furigana": "つばきのはやしに\nひねもすゆりほり\n",
       "sentence_individual_grammar_level": "N5"
     },
     {

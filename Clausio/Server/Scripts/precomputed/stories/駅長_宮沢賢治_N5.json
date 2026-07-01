@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ことことと行く汽車のはて温石いしの萱山の上にひとつの松ありてあるいは雷にうたれしや三角標に",
-      "furigana": "ことことといくきしゃのはておんじゃくいしのかややまのうえにひとつのまつありてあるいはかみなりにうたれしやさんかくひょうに",
+      "furigana": "ことことといくきしゃのはて\nおんじゃくいしのかややまの\nうえにひとつのまつありて\nあるいはかみなりにうたれしや\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "まがへりと大上段に真鍮の棒をかざしてさま",
-      "furigana": "まがへりとだいじょうだんにしんちゅうのぼうをかざしてさま",
+      "furigana": "さんかくひょうにまがへりと\nだいじょうだんにしんちゅうの\nぼうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "よへりごみのごとくにあきつとぶ高圧線のま下にて秋を",
-      "furigana": "よへりごみのごとくにあきつとぶこうあつせんのましたにてあきを",
+      "furigana": "かざしてさまよへり\nごみのごとくにあきつとぶ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さびしき白服の酒くせあしき土木技手いましも汽車を避け了へてこなた",
-      "furigana": "さびしきしろふくのさけくせあしきどぼくぎしゅいましもきしゃをさけりょうへてこなた",
+      "furigana": "のましたにて\nあきをさびしきしろふくの\nさけくせあしきどぼくぎしゅ\nいましも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "へ来るといまははた急ぎガラスを入りにけり",
-      "furigana": "へくるといまははたいそぎがらすをいりにけり",
+      "furigana": "きしゃをさけりょうへて\nこなたへくるといまは",
       "sentence_individual_grammar_level": "N5"
     },
     {

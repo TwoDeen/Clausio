@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "その見得るはずの大さは、〇、",
-      "furigana": "そのみえるはずのおおきさは、れい、",
+      "furigana": "そのみえるはずのおおきさは、\nきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "〇〇〇一四粍ですがこれ",
-      "furigana": "れいれいれいいちよんみりめーとる　　ですが",
+      "furigana": "、れいれいれいいちよんみりめーとる　　です",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "は人によって",
-      "furigana": "これはひとに",
+      "furigana": "がこれはひとに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "見えたり見えなかっ",
-      "furigana": "てみえたりみえ",
+      "furigana": "よってみえたりみえ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "たりするのです。",
-      "furigana": "たりするの",
+      "furigana": "なかったりするの",
       "sentence_individual_grammar_level": "N3"
     }
   ]

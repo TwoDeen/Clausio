@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "では、土砂災害の",
-      "furigana": "では、どしゃさいがいの",
+      "clause_text": "では、土砂災害の危険を",
+      "furigana": "では、どしゃさいがいのきけんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "危険を知らせる「レベル",
-      "furigana": "きけんをしらせる「レベル",
+      "clause_text": "知らせる「レベル",
+      "furigana": "しらせる「レベル",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "4危険警報」が出ている",
-      "furigana": "4きけんけいほう」がでている",
+      "clause_text": "4危険警報」",
+      "furigana": "4きけんけいほう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "所があります。",
-      "furigana": "ところがあります。",
+      "clause_text": "が出ている所があります。",
+      "furigana": "がでているところがあります。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

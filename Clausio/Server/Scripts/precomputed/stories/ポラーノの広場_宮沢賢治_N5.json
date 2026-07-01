@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "キュースト誌宮沢賢治",
-      "furigana": "・きゅーすとし",
+      "furigana": "・きゅーすとし\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "訳述そのころわたくしは、",
-      "furigana": "　やくじゅつそのころわたくし",
+      "furigana": "　やくじゅつ\nそのころ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "モリーオ市の博物",
-      "furigana": "は、もりーおしの",
+      "furigana": "は、もりーお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "局に勤めて居りました。",
-      "furigana": "はくぶつきょくにつとめておりまし",
+      "furigana": "しのはくぶつきょくにつとめており",
       "sentence_individual_grammar_level": "N5"
     },
     {

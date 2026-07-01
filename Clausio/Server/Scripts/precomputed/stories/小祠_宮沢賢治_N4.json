@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "赤き鳥居はあせたれど杉のうれ行く冬の雲野は殿堂の続きかな",
-      "furigana": "あかきとりいはあせたれどすぎのうれいくふゆのうんのはでんどうのつづきかな",
+      "furigana": "あかきとりいはあせたれど\nすぎのうれいくふゆのくも\nのはでんどうのつづき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "よくすかれたる日本紙は一年風に完けき",
-      "furigana": "よくすかれたるにほんしはいちねんふうにかんけき",
+      "furigana": "かな\nよくすかれたるにほんしは\nいちねんふう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "と雪の反射に知りぬべしかしこは一の篩にてひとまづそこ",
-      "furigana": "とゆきのはんしゃにしりぬべしかしこはいちのふるいにてひとまづそこ",
+      "furigana": "にかんけきと\nゆきのはんしゃにしりぬべし\nかしこはいちのふるいにて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "に香を浄み入り来るなりと云ひ伝ふ雪の堆のなかにしてりゝと軋れる",
-      "furigana": "にこうをきよしみはいりくるなりといひでんふゆきのたいのなかにしてりのときしれる",
+      "furigana": "\nひとまづそこにこうをきよみ\nいりくるなりといひでんふ\nゆきのたいのなか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "井戸車野は楽の音に充つるかな",
-      "furigana": "いどくるまのはらくのおとにあつるかな",
+      "furigana": "にして\nりのときしれるいどぐるま\n",
       "sentence_individual_grammar_level": "N4"
     },
     {

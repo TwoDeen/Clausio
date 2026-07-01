@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "〇年代処盛岡市郊外人物爾薩待正開業",
-      "furigana": "ねんだいところ　　もりおかしこうがいじんぶつ　しか",
+      "furigana": "ねんだい\nところ　　もりおかしこうがい\nじんぶつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "したての植物医師ペンキ屋徒弟農民一",
-      "furigana": "さつまち　ただし　　かいぎょうしたてのしょくぶついし",
+      "furigana": "　しかさつまち　ただし　　かいぎょうしたてのしょくぶつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "農民二農民三農民四農民五",
-      "furigana": "とていのうみん　いちのうみん　",
+      "furigana": "\nぺんきやとてい\nのうみん　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "農民六幕あく。",
-      "furigana": "にのうみん　さんのうみん",
+      "furigana": "いち\nのうみん　に\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "する）（ペンキ屋",
-      "furigana": "するきごうきごうぺんきや",
+      "furigana": "するきごう\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "徒弟登場看板を携える）爾",
-      "furigana": "とていとうじょう　かんばんをたずさえるきごう",
+      "furigana": "とていとうじょう　かんばんをたずさえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "薩待「ああ、君",
-      "furigana": "しかさつまちきごうああ、",
+      "furigana": "きごう\nしかさつまちきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "か、出来たね。",
-      "furigana": "きみか、できたね",
+      "furigana": "、きみか、でき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ペンキ屋",
-      "furigana": "きごうぺんきや",
+      "furigana": "きごう\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "（汗を拭き",
-      "furigana": "きごうあせをふき",
+      "furigana": "きごうあせを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ながら渡す）「",
-      "furigana": "ながらわたすきごうきごう",
+      "furigana": "ながらわたすきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "あの、五円三十銭で",
-      "furigana": "あの、ごえんさんじゅうせんで",
+      "furigana": "きごうあの、ごえんさんじゅうせん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ございます。",
-      "furigana": "ございます。",
+      "furigana": "でございます",
       "sentence_individual_grammar_level": "N4"
     }
   ]

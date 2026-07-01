@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "罪はいま疾にかはりたよりなくわれは騰り",
-      "furigana": "つみはいましつにかはりたよりなくわれはのぼり",
+      "furigana": "つみはいましつにかはり\nたよりなくわれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "て野のそらにひとりまどろむ太虚ひかりてはてし",
-      "furigana": "てののそらにひとりまどろむたいきょひかりてはてし",
+      "furigana": "て\nののそらにひとりまどろむ\nたいきょひかりて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なく身は水素より軽ければまた",
-      "furigana": "なくみはすいそよりかるければまた",
+      "furigana": "はてしなく\nみはすいそより",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "耕さんすべもなしせめてはかしこ黒と白",
-      "furigana": "たがやさんすべもなしせめてはかしこくろとしろ",
+      "furigana": "ば\nまたこうさんすべもなし\nせめては",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "立ち並びたる積雲を雨と崩して堕ちなんを",
-      "furigana": "たちならびたるせきうんをあめとくずしておちなんを",
+      "furigana": "かしこくろとしろ\nたちならびたるせきうんを\nあめと",
       "sentence_individual_grammar_level": "N5"
     },
     {

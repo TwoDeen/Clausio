@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "茂木外務大臣は「物の",
-      "furigana": "もてぎがいむだいじんは「ものの",
+      "clause_text": "茂木外務大臣",
+      "furigana": "もてぎがいむだいじん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "値段が上がっ",
-      "furigana": "ねだんがあがっ",
+      "clause_text": "は「物の値段が",
+      "furigana": "は「もののねだんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ているので、",
-      "furigana": "ているので、",
+      "clause_text": "上がっている",
+      "furigana": "あがっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ビザも上げる",
-      "furigana": "ビザもあげる",
+      "clause_text": "ので、ビザも上げる",
+      "furigana": "ので、ビザもあげる",
       "sentence_individual_grammar_level": "N5"
     },
     {

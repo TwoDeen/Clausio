@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "火事があったのは「",
-      "furigana": "かじがあったのは「",
+      "clause_text": "火事があったのは",
+      "furigana": "かじがあったのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "サンロードなかまち",
-      "furigana": "サンロードなかまち",
+      "clause_text": "「サンロードなかまち」",
+      "furigana": "「サンロードなかまち」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "」という商店街",
-      "furigana": "」というしょうてんがい",
+      "clause_text": "という商店街",
+      "furigana": "というしょうてんがい",
       "sentence_individual_grammar_level": "N5"
     },
     {

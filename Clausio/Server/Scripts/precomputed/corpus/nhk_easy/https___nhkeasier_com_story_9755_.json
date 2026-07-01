@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "男性は「助けてほしい",
-      "furigana": "だんせいは「たすけてほしい",
+      "clause_text": "男性は「助けて",
+      "furigana": "だんせいは「たすけて",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "」と言っ",
-      "furigana": "」といっ",
+      "clause_text": "ほしい」と言っ",
+      "furigana": "ほしい」といっ",
       "sentence_individual_grammar_level": "N3"
     },
     {

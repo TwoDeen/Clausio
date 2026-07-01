@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "樹液はしづにかはたれぬあゝこの夕",
-      "furigana": "じゅえきはしづにかはたれぬああこのゆう",
+      "furigana": "\nじゅえきはしづにかはたれぬ\nああ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "つゝましくきみと祈らばよからんをきみきたらずば",
-      "furigana": "つつましくきみといのらばよからんをきみきたらずば",
+      "furigana": "ゆうつつましく\nきみといのらばよからんを\nきみき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "わが成さんこの園つひにむなしけん西天黄ばみにご",
-      "furigana": "わがせいさんこのそのつひにむなしけんさいてんきばみにご",
+      "furigana": "たらずばわがせいさん\nこのそのつひにむなしけん\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "れるに雲の黒闇の見もあへず",
-      "furigana": "れるにくものこくあんのみもあへず",
+      "furigana": "きばみにごれるに\nくもの",
       "sentence_individual_grammar_level": "N4"
     },
     {

@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「停まれ、誰かッ」「第百二十八聯隊の伝令",
-      "furigana": "きごうとまれ、だれかっきごうきごうだいひゃくにじゅうはちれんたいのでんれい",
+      "clause_text": "「停まれ",
+      "furigana": "きごうとまれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "！」「どこへ行くか」「第五十聯隊聯隊本部」歩哨は",
-      "furigana": "!きごうきごうどこへいくかきごうきごうだいごじゅうれんたい　れんたいほんぶきごうほしょう",
+      "clause_text": "、誰かッ",
+      "furigana": "、だれかっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "スナイドル式の銃剣を、向こうの胸に斜めにつきつけ",
-      "furigana": "はすないどるしきのじゅうけんを、むこうのむねにななめに",
+      "clause_text": "」「第",
+      "furigana": "きごう\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "たまま、その眼の光りようや顎のかたち、それから上着の袖の模様",
-      "furigana": "たまま、そのめのひかりようやあごのかたち、それからうわぎのそでの",
+      "clause_text": "百二十八",
+      "furigana": "だい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "や靴のぐあい、いちいち詳しく調べます。",
-      "furigana": "やくつのぐあい、いちいちくわしくしらべます",
+      "clause_text": "聯隊の伝令！",
+      "furigana": "れんたいのでんれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「よし、通れ",
-      "furigana": "きごうよし、とおれ",
+      "clause_text": "」「どこへ行くか」「第五十聯隊聯隊本部」歩哨は",
+      "furigana": "きごう\nきごうどこへいくかきごう\nきごうだいごじゅうれんたい　れんたいほんぶきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "」伝令はいそがしく",
-      "furigana": "きごうでんれいはいそがしく",
+      "clause_text": "スナイドル式の銃剣を、向こうの胸に斜めにつきつけ",
+      "furigana": "\nほしょうはすないどるしきのじゅうけんを、むこうのむねにななめに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "羊歯の森の",
-      "furigana": "しだのもりの",
+      "clause_text": "たまま、その眼の光りようや顎の",
+      "furigana": "つきつけたまま、そのめのひかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なかへはいっ",
-      "furigana": "なかへはいっ",
+      "clause_text": "かたち、それから上着の袖の模様",
+      "furigana": "やあごのかたち、それからうわぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "て行きました。",
-      "furigana": "ていきました。",
+      "clause_text": "や靴のぐあい、いちいち詳しく調べます。",
+      "furigana": "そでのもようやくつのぐあい、いちいちくわしく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "霧の粒はだんだん小さく小さくなって、",
-      "furigana": "きりのつぶはだんだんちいさくちいさくなって、",
+      "clause_text": "「よし、通れ",
+      "furigana": "きごうよし、とおれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いまはもう、うすい乳いろの",
-      "furigana": "いまはもう、うすいちちいろの",
+      "clause_text": "」伝令はいそがしく",
+      "furigana": "きごう\nでんれいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "けむりに変わり、草や木の水を",
-      "furigana": "けむりにかわり、くさやきのみずを",
+      "clause_text": "羊歯の森の",
+      "furigana": "しだのもり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "吸いあげる音は、あっちにもこっちにも",
-      "furigana": "すいあげるおとは、あっちにもこっちにも",
+      "clause_text": "なかへはいっ",
+      "furigana": "のなかへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "忙しく聞こえだしました。",
-      "furigana": "いそがしくきこえだしました。",
+      "clause_text": "て行きました。",
+      "furigana": "ていきました",
       "sentence_individual_grammar_level": "N5"
     }
   ]

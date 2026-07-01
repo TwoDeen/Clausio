@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "七月はさやに来れど故",
-      "furigana": "なながつはさやにくれどこ",
+      "furigana": "なながつはさやにくれど\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しらに人はな",
-      "furigana": "しらににんはな",
+      "furigana": "こしらににん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ほ疾み日過ぎ来し",
-      "furigana": "ほしつみかすぎきたし",
+      "furigana": "ほしつみ\nひすぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "白雲の野は",
-      "furigana": "はくうんののは",
+      "furigana": "きたしはくうんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さびしくも掃き浄めらる",
-      "furigana": "さびしくもはききよめらる",
+      "furigana": "のは\nさびしくもはき",
       "sentence_individual_grammar_level": "N5"
     },
     {

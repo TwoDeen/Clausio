@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "雲を濾しまことあかるく",
-      "furigana": "くもをこしまことあかるく",
+      "furigana": "くもをこし\nまこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なりし空かな子ら歓呼して",
-      "furigana": "なりしそらかなこらかんこして",
+      "furigana": "なりしそらかな\nこらかんこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ことごとく走り出でしも宜なれ",
-      "furigana": "ことごとくはしりいでしもよろしなれ",
+      "furigana": "してことごとく\nはしりいでしも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "や風のひのきはみだ",
-      "furigana": "やかぜのひのきはみだ",
+      "furigana": "よろしなれや\nかぜの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "るるみだるゝ",
-      "furigana": "るるみだるる",
+      "furigana": "はみだるる",
       "sentence_individual_grammar_level": "N5"
     },
     {

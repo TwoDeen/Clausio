@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日銀は「",
-      "furigana": "にちぎんは「",
+      "clause_text": "日銀は「この",
+      "furigana": "にちぎんは「この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "このあとも",
-      "furigana": "このあとも",
+      "clause_text": "あとも利子を",
+      "furigana": "あともりしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "利子を少しずつ",
-      "furigana": "りしをすこしずつ",
+      "clause_text": "少しずつ",
+      "furigana": "すこしずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {

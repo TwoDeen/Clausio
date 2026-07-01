@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "して、「スぺパ家具」と",
-      "furigana": "して、「スぺパかぐ」と",
+      "clause_text": "して、「スぺパ",
+      "furigana": "して、「スぺパ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "呼ばれています。",
-      "furigana": "よばれています。",
+      "clause_text": "家具」と呼ばれています。",
+      "furigana": "かぐ」とよばれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {

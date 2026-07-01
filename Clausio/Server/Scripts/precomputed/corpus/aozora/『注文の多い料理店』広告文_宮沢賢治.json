@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "実在したドリームランド",
-      "furigana": "じつざいしたどりーむらんど",
+      "furigana": "じつざいした\nどりーむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "としての日本岩手県",
-      "furigana": "としてのにっぽんいわてけん",
+      "furigana": "としてのにっぽん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "である。",
-      "furigana": "である。",
+      "furigana": "である",
       "sentence_individual_grammar_level": "N5"
     },
     {

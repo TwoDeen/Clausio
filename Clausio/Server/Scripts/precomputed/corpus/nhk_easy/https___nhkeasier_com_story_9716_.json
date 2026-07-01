@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、「",
-      "furigana": "そして、「",
+      "clause_text": "そして、「イラン",
+      "furigana": "そして、「イラン",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "イランが核兵器",
-      "furigana": "イランがかくへいき",
+      "clause_text": "が核兵器を持たない",
+      "furigana": "がかくへいきをもたない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "を持たないようにする",
-      "furigana": "をもたないようにする",
+      "clause_text": "ようにする",
+      "furigana": "ようにする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことを確認した",
-      "furigana": "ことをかくにんした",
+      "clause_text": "ことを確認した」と",
+      "furigana": "ことをかくにんした」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "」と言いました。",
-      "furigana": "」といいました。",
+      "clause_text": "言いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

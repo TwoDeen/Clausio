@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "かぎりなく鳥はすだけどこゝろこそいとそゞろなれ竹",
-      "furigana": "かぎりなくとりはすだけどこころこそいとそきごうろなれたけ",
+      "furigana": "かぎりなくとりはすだけど\nこころこそいとそきごうろなれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "行李小きをになひ雲しろき飯場を",
-      "furigana": "こうりこきをになひくもしろきはんばを",
+      "furigana": "\nたけこうりこきをになひ\nくもしろき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "出でぬみちのべにしやが花さけばかうもりの柄こそ",
-      "furigana": "いでぬみちのべにしやがはなさけばかうもりのがらこそ",
+      "furigana": "はんばをいでぬ\nみちのべにしやがはなさけば\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "わびしきかすかなる霧雨ふりて丘はたゞいちめんの青谷あひ",
-      "furigana": "わびしきかすかなるきりさめふりておかはただいちめんのあおやあひ",
+      "furigana": "のがらこそわびしき\nかすかなるきりさめふりて\nおかはただ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の細き棚田に積まれつゝ廐肥もぬれたり",
-      "furigana": "のほそきたなだにつまれつつうまやこえもぬれたり",
+      "furigana": "のあお\nたにあひのほそきたなだに\nつまれ",
       "sentence_individual_grammar_level": "N4"
     },
     {

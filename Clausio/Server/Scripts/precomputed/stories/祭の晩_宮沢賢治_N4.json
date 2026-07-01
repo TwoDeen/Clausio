@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "、「おい、",
-      "furigana": "、きごうおい、",
+      "furigana": "、\nきごうおい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あんこ、早ぐ入れ。」",
-      "furigana": "あんこ、はやぐいれ。きごう",
+      "clause_text": "あんこ、早ぐ入れ。",
+      "furigana": "、あんこ、はやぐいれ",
       "sentence_individual_grammar_level": "N4"
     }
   ]

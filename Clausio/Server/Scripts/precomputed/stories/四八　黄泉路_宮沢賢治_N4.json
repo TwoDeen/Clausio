@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アリイルスチュアール一九二七（房中寒く",
-      "furigana": "ありいるすちゅあーるいちきゅうにななきごうぼうちゅうさむく",
+      "clause_text": "アリイルスチュアール",
+      "furigana": "ありいるすちゅあーる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "むなしくて灯は消え月は出でざる",
-      "furigana": "むなしくてあかりはきえつきはいでざる",
+      "clause_text": "一九二七（房中寒く",
+      "furigana": "\nいちきゅうになな\nきごうぼうちゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "に大なる恐怖の声なして",
-      "furigana": "にだいなるきょうふのこえなして",
+      "clause_text": "むなしくて灯は消え月は出でざる",
+      "furigana": "さむくむなしくて\nあかりはきえつきは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いま起ちたるはそも何ぞ！……わが",
-      "furigana": "いまたちたるはそもなんぞ!きごうきごうわが",
+      "clause_text": "に大なる恐怖の声なして",
+      "furigana": "ざるに\nだいなるきょうふの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "知るものの霊よ何とてなれは来りしや？",
-      "furigana": "しるもののれいよなんとてなれはきたりしや?",
+      "clause_text": "いま起ちたるはそも何ぞ！",
+      "furigana": "こえなして\nいまたちたるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "）（君は云へりきわが待たば君も必ず来らんと……）（愛しきされど愚かしき遙けくなれの死しけるを",
-      "furigana": "きごうきごうきみはいえりき　わがまたばきみもかならずきらんときごうきごうきごうきごういとしきされどおろかしきはるかけくなれのししける",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "……わが",
+      "furigana": "きごうきごう\n",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "亡きと生けるはもろ共に行き交ふことの許されねいざはやなれは",
-      "furigana": "をなきといけるはもろともにいきこうふことのゆるされねいざはやなれ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "知るもの",
+      "furigana": "しる",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "くらやみにわれは愛にぞ行くべかり）（ゆふべはまことしかるらん今宵はしかくあらぬなり）（",
-      "furigana": "はくらやみにわれはあいにぞいくべかりきごうきごうゆふべはまことしかるらんこよいはしかくあらぬなりきごう",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "の霊よ何",
+      "furigana": "のれいよ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "とは云へなれは何をもてひととわれとをさまたぐるそのひとまことそのむかし汝があり",
-      "furigana": "きごうとはゆへなれはなんをもてひととわれとをさまたぐるそのひとまことそのむかしなんじが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "とてなれは",
+      "furigana": "\nなんとて",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "しごと愛しきにしかも汝はいま亡きものを！）（しかも汝とていまは亡し）",
-      "furigana": "しごとあいしきにしかもなんじはいまなきものを!きごうきごうしかもなんじとていまはなし",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "来りしや？",
+      "furigana": "はきたりし",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 11,
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "）（君は云へりきわが待たば君も必ず来らんと……）（愛しきされど愚かしき遙けくなれの死しけるを",
+      "furigana": "きごう\nきごうきみはいえりき　わがまたば\nきみもかならずきらんときごうきごうきごう\nきごういとしきされどおろかしき\nはるかけくなれの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "亡きと生けるはもろ共に行き交ふことの許されねいざはやなれは",
+      "furigana": "ししけるを\nなきといけるはもろともに\nいきこうふことのゆるされね",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "造りの家が",
-      "furigana": "つくりのいえが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "くらやみにわれは愛にぞ行くべかり）（ゆふべはまことしかるらん今宵はしかくあらぬなり）（",
+      "furigana": "\nいざはやなれはくらやみに\nわれはあいにぞいくべかりきごう\nきごうゆふべはまことしかるらん\nこよい",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありまし",
-      "furigana": "ありまし",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "とは云へなれは何をもてひととわれとをさまたぐるそのひと",
+      "furigana": "はしかくあらぬなりきごう\nきごうとはゆへなれはなんをもて\nひとと",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "まことそのむかし汝がありしごと愛しきにしかも汝はいま亡きものを！",
+      "furigana": "われとをさまたぐる\nそのひとまことそのむかし\nなんじがありしごと",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "）（",
+      "furigana": "きごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "しかも",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "造りの家が",
-      "furigana": "つくりのいえが",
+      "clause_text": "汝とて",
+      "furigana": "なんじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ありまし",
-      "furigana": "ありまし",
+      "clause_text": "いまは",
+      "furigana": "いま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "亡し）",
+      "furigana": "はなし",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なんか、鳥がはじめて、天から",
-      "furigana": "なんか、とりがはじめて、てんから",
+      "furigana": "なんか、\nとりがはじめて、てん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "降って来たときは、",
-      "furigana": "ふってきたときは、",
+      "furigana": "ふってきたときは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "どいつもこいつ",
-      "furigana": "どいつもこいつ",
+      "furigana": "、\nどいつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "も、みないち様に白でした。」",
-      "furigana": "も、みないちようにしろでした。きごう",
+      "clause_text": "も、みないち様に白でした。",
+      "furigana": "も、みないちようにしろでし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」「黄金の鎌」が西のそらにかゝつ",
-      "furigana": "きごうきごうおうごんのかまきごうがにしのそらにかのつ",
+      "furigana": "きごう\nきごうおうごんのかまきごうがにしのそらにかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "て、風もないしづか",
-      "furigana": "て、かぜもないしづか",
+      "furigana": "つて、かぜもない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "な晩に、一ぴきのとしよりの梟が、林の中の",
-      "furigana": "なばんに、いちぴきのとしよりのふくろうが、はやしのなかの",
+      "furigana": "なばんに、いちぴきのとしよりのふくろうが、はやしのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "低い松の枝から、斯う私に",
-      "furigana": "ひくいまつのえだから、こうわたくしに",
+      "furigana": "のひくいまつのえだから、こうわたくし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "話しかけました。",
-      "furigana": "はなしかけました。",
+      "furigana": "にはなしかけました",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "双子の星一天の川",
-      "furigana": "ふたごのほし　いってんの",
+      "furigana": "ふたごのほし　いち\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の西の岸に",
-      "furigana": "かわのにしのきし",
+      "furigana": "のにしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "すぎなの胞子",
-      "furigana": "にすぎなの",
+      "furigana": "きしにすぎなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ほどの小さな二つ",
-      "furigana": "ほどのちいさなふた",
+      "furigana": "ほうしほどのちいさな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の星が見えます。",
-      "furigana": "つのほしがみえます",
+      "furigana": "ふたつのほしがみえ",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "［表記について］●底本に",
-      "furigana": "きごうひょうきについてきごうきごうていほんに",
+      "furigana": "きごうひょうきについてきごう\nきごうていほん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "従い、ルビは小学校１・",
-      "furigana": "したがい、るびはしょうがっこういち・",
+      "furigana": "にしたがい、るびはしょうがっこういち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "２年の学習配当",
-      "furigana": "にねんのがくしゅうはいとう",
+      "furigana": "・にねんのがくしゅう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "漢字を除き、",
-      "furigana": "かんじをのぞき、",
+      "furigana": "かんじをのぞき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "すべての漢字につけた。",
-      "furigana": "すべてのかんじにつけた。",
+      "furigana": "、すべてのかんじにつけた",
       "sentence_individual_grammar_level": "N4"
     },
     {

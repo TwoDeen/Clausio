@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "塵のごと小鳥なきすぎほこ杉の峡の奥",
-      "furigana": "ごみのごとことりなきすぎほこすぎのかいのおく",
+      "furigana": "ごみのごとことりなきすぎ\nほこすぎのかいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "よりあやしくも鳴るやみ神楽",
-      "furigana": "よりあやしくもなるや　み",
+      "furigana": "おくより\nあやしくもなるや　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いみじくも鳴るやみ神楽たゞ深し",
-      "furigana": "いみじくもなるや　みかぐらただ",
+      "furigana": "みかぐら\nいみじくもなるや　み",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "天の青原雲が燃す白金環と白金の黒",
-      "furigana": "ふかしてんのせいげんくもがもすしろきんかんとはっきん",
+      "furigana": "\nただふかしてんのせいげん\nくもがもすしろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の窟を日天子奔せ出でたまふ",
-      "furigana": "のくろのいわやをひてんし奔せでで",
+      "furigana": "きんかんと\nはっきんのくろのいわやを\nひ",
       "sentence_individual_grammar_level": "N5"
     },
     {

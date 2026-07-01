@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "会社は「今",
-      "furigana": "かいしゃは「いま",
+      "clause_text": "会社は「今なら",
+      "furigana": "かいしゃは「いまなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なら値段は",
-      "furigana": "ならねだんは",
+      "clause_text": "値段は1500",
+      "furigana": "ねだんは1500",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "1500円から",
-      "furigana": "1500えんから",
+      "clause_text": "円からです」",
+      "furigana": "えんからです」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "です」と書いてい",
-      "furigana": "です」とかいてい",
+      "clause_text": "と書い",
+      "furigana": "とかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "ていました。",
+      "furigana": "ていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

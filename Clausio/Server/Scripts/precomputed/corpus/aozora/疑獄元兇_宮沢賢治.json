@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "、今の",
-      "furigana": "、いまの",
+      "furigana": "、\nいま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "会釈は悪く",
-      "furigana": "えしゃくはわるく",
+      "furigana": "のえしゃくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ない。",
-      "furigana": "ない。",
+      "furigana": "ない",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "老った猫が）友達の",
-      "furigana": "ろうったねこがきごうともだちの",
+      "furigana": "ろうったねこがきごう\nともだち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "うちのあまり明るくない電燈の",
-      "furigana": "うちのあまりあかるくないでんとうの",
+      "furigana": "のうちのあまりあかるくないでんとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "向ふにその年老った猫が",
-      "furigana": "むこうにそのとしとったねこが",
+      "furigana": "のむこうにそのとしとったねこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しづかに顔を出した。",
-      "furigana": "しづかにかおをだした。",
+      "furigana": "がしづかにかおをだした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "）実になめらか",
-      "furigana": "きごうじつになめらか",
+      "furigana": "きごう\nじつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "による",
-      "furigana": "による",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "の気圏の底",
-      "furigana": "のきけんのそこ",
+      "furigana": "のきけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "を猫が滑って",
-      "furigana": "をねこがすべって",
+      "furigana": "そこをねこがすべっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "やって来る。",
-      "furigana": "やってくる。",
+      "furigana": "てやってくる",
       "sentence_individual_grammar_level": "N5"
     },
     {

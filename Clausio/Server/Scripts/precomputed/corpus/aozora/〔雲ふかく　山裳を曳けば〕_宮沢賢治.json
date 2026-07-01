@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "雲ふかく山裳を曳けば",
-      "furigana": "くもふかくやまもをひけば",
+      "furigana": "くもふかく\nやまもをひけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "きみ遠く去るにか",
-      "furigana": "きみとおくさるにか",
+      "furigana": "ば\nきみとおくさる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "も似ん丘群に日射し",
-      "furigana": "もにんおかぐんにひざし",
+      "furigana": "にかもにん\nおかぐんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "萌ゆればきみ",
-      "furigana": "もえゆればきみ",
+      "furigana": "\nひざしもえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "来り訪ふにも似たり",
-      "furigana": "きたりほうふにもにたり",
+      "furigana": "ば\nきみきたりほうふ",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さ霧する白き木柵幹彫れる桐のいく",
-      "furigana": "さきりするしろきもくさくみきほれるきりのいく",
+      "furigana": "さきりするしろきもくさく\nみきほれるきりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "もと剥げそめし白きペンキの木柵に人人は倚りその",
-      "furigana": "もとはげそめししろきぺんきのもくさくにひとひとはよりその",
+      "furigana": "もと\nはげそめししろきぺんきの\nもくさくにひとひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ペンキあるいは剥げあるものは庭を",
-      "furigana": "ぺんきあるいははげあるものはにわを",
+      "furigana": "\nそのぺんきあるいははげ\nある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "のぞめり一鐘のラッパが鳴りて急ぎ行く港先生白堊",
-      "furigana": "のぞめりいちしょうのらっぱがなりていそぎいくみなとせんせいはくあ",
+      "furigana": "ものはにわをのぞめり\nいちしょうのらっぱがなりて\nいそぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "城秋のガラスはひらごとにうつろなりけり",
-      "furigana": "じょうあきのがらすはひらごとにうつろなりけり",
+      "furigana": "いくみなとせんせい\nはくあじょうあきのがらすは\nひら",
       "sentence_individual_grammar_level": "N5"
     },
     {

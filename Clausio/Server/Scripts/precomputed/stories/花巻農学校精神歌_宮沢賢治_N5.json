@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（一）日ハ君臨シカガヤキハ白金ノアメソソギタリワレラハ黒キツチニ俯シマコトノクサノタネマケリ",
-      "furigana": "きごういちきごうひはくんりんし　かがやきははっきんのあめ　そそぎたりわれらはくろき　つちに俯しまことのくさの　",
+      "furigana": "きごういちきごうひはくんりんし　かがやきは\nはっきんのあめ　そそぎたり\nわれらはくろき　つちに俯し\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（二）日ハ君臨シ穹窿ニミナギリワタス青ビカリヒカリノアセヲ感ズレバ気圏ノキハミ隈モナシ",
-      "furigana": "きごうにきごうひはくんりんし　きゅうりゅうにみなぎりわたす　あおびかりひかりのあせを　かんずればきけん",
+      "furigana": "　たねまけり\nきごうにきごうひはくんりんし　きゅうりゅうに\nみなぎりわたす　あおびかり\nひかりのあせを　かん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（三）日ハ君臨シ玻璃ノマド清澄ニシテ寂カナリサアレマコトヲ索メテハ白亜ノ霧",
-      "furigana": "　くまもなしきごうさんきごうひはくんりんし　はりのまどせいちょうにして　さび",
+      "furigana": "ずれば\nきけんのきはみ　くまもなし\nきごうさんきごうひはくんりんし　はりのまど\nせいちょうにして　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "モアビヌベシ（四）日ハ君臨シカガヤキノ太陽系",
-      "furigana": "　さくめてははくあのきりも　あびぬべしきごうよんきごうひ",
+      "furigana": "さびかなり\nさあれまことを　さくめては\nはくあのきり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ハマヒルナリケハシキタビノナカニシテワレラヒカリノミチヲフム",
-      "furigana": "はくんりんし　かがやきのたいようけいは　まひるなりけはしきたびの　",
+      "furigana": "も　あびぬべし\nきごうよんきごうひはくんりんし　かがやきの\nたいようけいは　",
       "sentence_individual_grammar_level": "N5"
     },
     {

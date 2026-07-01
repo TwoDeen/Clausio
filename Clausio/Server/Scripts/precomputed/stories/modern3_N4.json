@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "#注文の多い料理店（現代語版・第1部）二人の若い紳士が、",
-      "furigana": "#ちゅうもんのおおいりょうりてんきごうげんだいごばん・だいいちぶきごうふたりのわかいしんしが",
+      "furigana": "#ちゅうもんのおおいりょうりてんきごうげんだいごばん・だいいちぶきごう\nふたりのわかいしんし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "イギリス軍の兵士のような服装をし、ぴかぴか",
-      "furigana": "、いぎりすぐんのへいしのようなふくそうをし、",
+      "furigana": "が、いぎりすぐんのへいしのようなふくそうをし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "光る猟銃を肩にかついで、",
-      "furigana": "ひかるりょうじゅうをかたにかついで",
+      "furigana": "ひかるりょうじゅうをかたにかつい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "白熊のような犬を二匹連れながら、深い",
-      "furigana": "、しろくまのようないぬをにひきつれながら、",
+      "furigana": "で、しろくまのようないぬをにひきつれながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "山の中を歩いていました。",
-      "furigana": "やまのなかをあるいていました",
+      "furigana": "ふかいやまのなかをあるいていまし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、このあたり",
-      "furigana": "、このあたり",
+      "clause_text": "、この",
+      "furigana": "、この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の山は",
-      "furigana": "のやまは",
+      "clause_text": "あたり",
+      "furigana": "あたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ひどい",
-      "furigana": "ひどい",
+      "clause_text": "の山は",
+      "furigana": "のやまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "な。」",
-      "furigana": "な。きごう",
+      "clause_text": "ひどいな。",
+      "furigana": "ひどいな。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "だな」「鹿の黄色い脇腹に二、三発",
-      "furigana": "だなきごうきごうしかのきいろいわきばらにに、さんはつ",
+      "furigana": "だなきごう\nきごうしかのきいろいわきばらにに、さん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "撃ち込んだら、さぞ",
-      "furigana": "うちこんだら、さぞ",
+      "furigana": "はつうちこんだら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "気持ちがいいだろうね。",
-      "furigana": "きもちがいいだろうね。",
+      "furigana": "きもちがいいだろうね",
       "sentence_individual_grammar_level": "N4"
     }
   ]

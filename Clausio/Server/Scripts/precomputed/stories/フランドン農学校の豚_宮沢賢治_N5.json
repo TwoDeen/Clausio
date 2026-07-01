@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "なし〕以外の物質は、",
-      "furigana": "なしきごういがいのぶっしつは、",
+      "furigana": "なしきごう\nいがいのぶっしつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "みなすべて、よく",
-      "furigana": "みなすべて、よく",
+      "furigana": "、みなすべて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "これを摂取して、脂肪",
-      "furigana": "これをせっしゅして、しぼう",
+      "furigana": "これをせっしゅして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "若くは蛋白質となし、その",
-      "furigana": "もしくわたんぱくしつとなし、その",
+      "furigana": "もしくわたんぱくしつとなし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "体内に蓄積す。",
-      "furigana": "たいないにちくせきす。",
+      "furigana": "たいないにちくせきす",
       "sentence_individual_grammar_level": "N5"
     },
     {

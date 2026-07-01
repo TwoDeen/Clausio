@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「いざ渡せかしおいぼれめいつも",
-      "furigana": "きごういざわたせかし　おいぼれめ",
+      "furigana": "きごういざわたせかし　おいぼれめ\n",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "こゝにて日を暮らす」すぱとたばこを吸ひやめ",
-      "furigana": "ここにてひをくらすきごうすぱとたばこをきゅうひ",
+      "furigana": "ここにてひをくらすきごう\nすぱとたばこをきゅう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "て何を云ふともこの飯の煮たたぬうち",
-      "furigana": "てなんをゆふともこのめしのにたたぬ",
+      "furigana": "ひやめて\nなんをゆふともこのめしの\n",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "に立つべしや芋の子頭白髪して",
-      "furigana": "に　たつべしやいものこあたまはくはつ",
+      "furigana": "ぬうちに　たつべしや\nいも",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おきなは榾を加へたり",
-      "furigana": "しておきなはほたをくわえ",
+      "furigana": "のこあたまはくはつして\nおき",
       "sentence_individual_grammar_level": "N3"
     },
     {

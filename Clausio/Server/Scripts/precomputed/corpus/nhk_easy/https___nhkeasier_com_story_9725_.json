@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほしい",
-      "furigana": "ほしい",
+      "clause_text": "ほしいです」",
+      "furigana": "ほしいです」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "です」と",
-      "furigana": "です」と",
+      "clause_text": "と話し",
+      "furigana": "とはなし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "話してい",
-      "furigana": "はなしてい",
+      "clause_text": "ていまし",
+      "furigana": "ていまし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {

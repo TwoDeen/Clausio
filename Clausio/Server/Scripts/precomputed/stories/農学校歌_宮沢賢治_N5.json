@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "日ハ君臨シカガヤキハ白金ノ雨ソソギタリワレラハ",
-      "furigana": "ひはくんりんしかがやきははっきんのあめそそぎたりわれらは",
+      "furigana": "ひはくんりんしかがやきは\nはっきんのあめそそぎたり\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "黒キ土ニ俯シマコトノ草ノタネマケリ日ハ君臨シ穹窿ニミナギリ亙ス青",
-      "furigana": "くろきつちに俯しまことのくさのたねまけりひはくんりんしきゅうりゅうにみなぎりわたるすあお",
+      "furigana": "くろきつちに俯し\nまことのくさのたねまけり\nひはくんりんしきゅうりゅうに\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ビカリ光ノ汗ヲ感ズレバ気圏ノキハミクマモナシ",
-      "furigana": "びかりひかりのあせをかんずればきけんのきはみくまもなし",
+      "furigana": "わたるすあおびかり\nひかりのあせをかんずれば\nきけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "日ハ君臨シ玻璃ノマド清澄ニシテ寂カナリサアレヤミチヲ索メテハ白堊ノ霧",
-      "furigana": "ひはくんりんしはりのまどせいちょうにしてさびかなりさあれやみちをさくめてははくあのきり",
+      "furigana": "\nひはくんりんしはりのまど\nせいちょうにしてさびかなり\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "モアビヌベシ日ハ君臨シカヾヤキノ太陽系ハマヒルナリケハシキ旅ノナカニシテワレラヒカリノミチヲフム",
-      "furigana": "もあびぬべしひはくんりんしかヾやきのたいようけいはまひるなりけはしきたびのなかにしてわれらひかりのみちをふむ",
+      "furigana": "さくめては\nはくあのきりもあびぬべし\nひはくんりんしかヾやきの\nたいようけいはまひるなり\nけはしきたび",
       "sentence_individual_grammar_level": "N5"
     },
     {

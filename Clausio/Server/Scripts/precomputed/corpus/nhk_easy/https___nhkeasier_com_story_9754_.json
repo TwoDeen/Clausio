@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "工場で作った冷凍食品",
-      "furigana": "こうじょうでつくったれいとうしょくひん",
+      "clause_text": "工場で作った",
+      "furigana": "こうじょうでつくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "やパックごはん",
-      "furigana": "やパックごはん",
+      "clause_text": "冷凍食品やパック",
+      "furigana": "れいとうしょくひんやパック",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "などの「",
-      "furigana": "などの「",
+      "clause_text": "ごはんなどの",
+      "furigana": "ごはんなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "加工食品」です。",
-      "furigana": "かこうしょくひん」です。",
+      "clause_text": "「加工食品」です。",
+      "furigana": "「かこうしょくひん」です。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "などの「",
-      "furigana": "などの「",
+      "clause_text": "などの",
+      "furigana": "などの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "調味料",
-      "furigana": "ちょうみりょう",
+      "clause_text": "「調味料」",
+      "furigana": "「ちょうみりょう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "」です。",
-      "furigana": "」です。",
+      "clause_text": "です。",
+      "furigana": "です。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

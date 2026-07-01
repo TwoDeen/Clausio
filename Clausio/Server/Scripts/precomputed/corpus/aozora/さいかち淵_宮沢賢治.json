@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さいかち",
-      "furigana": "さいかち",
+      "furigana": "\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "淵なら、",
-      "furigana": "えんなら、",
+      "furigana": "えんなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ほんたうに",
-      "furigana": "ほんたうに",
+      "furigana": "、ほんたう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おもしろい。",
-      "furigana": "おもしろい。",
+      "furigana": "におもしろい",
       "sentence_individual_grammar_level": "N5"
     },
     {

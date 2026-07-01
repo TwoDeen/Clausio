@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "羊歯にはそゝぐき",
-      "furigana": "しだにはそのぐき",
+      "furigana": "\nしだにはその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "りさめをあしきテノール",
-      "furigana": "りさめをあしきてのーる",
+      "furigana": "りさめを\nあしき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "うちなして二人の",
-      "furigana": "うちなしてふたりの",
+      "furigana": "うちなして\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "紳士森を来る",
-      "furigana": "しんし　もりを",
+      "furigana": "ふたりのしんし　",
       "sentence_individual_grammar_level": "N5"
     },
     {

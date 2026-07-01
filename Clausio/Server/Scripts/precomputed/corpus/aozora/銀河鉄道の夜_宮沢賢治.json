@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一午後の授業「ではみな",
-      "furigana": "いち　ごごのじゅぎょうきごうでは",
+      "furigana": "いち　ごごのじゅぎょう\nきごうでは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さん、さういふふうに川だと云はれ",
-      "furigana": "さん、さういふふうにかわだといは",
+      "furigana": "みなさん、さういふふうにかわだと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "たり、乳の流れたあとだと",
-      "furigana": "れたり、ちちのながれたあとだ",
+      "clause_text": "たり、乳の流れたあとだと云はれたりして",
+      "furigana": "れたり、ちちのながれたあとだといはれたり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "云はれたりしてゐた、このぼんやり",
-      "furigana": "といはれたりしていた、この",
+      "clause_text": "ゐた、このぼんやりと白いもの",
+      "furigana": "していた、このぼんやりとしろい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "と白いものが何かご承知ですか。」",
-      "furigana": "としろいものがなんかごしょうちですか。",
+      "clause_text": "が何かご承知ですか。",
+      "furigana": "ものがなんかごしょうちです",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」先生は、黒板に吊した",
-      "furigana": "きごうせんせいは、こくばんにつるした",
+      "furigana": "きごう\nせんせいは、こくばんにつるし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "大きな黒い星座の圖の、上から下へ",
-      "furigana": "おおきなくろいせいざのずの、うえからしたへ",
+      "furigana": "たおおきなくろいせいざのずの、うえからした",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "白くけぶつた銀河帶の",
-      "furigana": "しろくけぶつたぎんが帶の",
+      "furigana": "へしろくけぶつたぎんが帶",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "やうなところを指しながら、",
-      "furigana": "やうなところをさしながら、",
+      "furigana": "のやうなところをさしながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "みんなに問ひをかけました。",
-      "furigana": "みんなにとひをかけました。",
+      "furigana": "、みんなにとひをかけました",
       "sentence_individual_grammar_level": "N4"
     },
     {

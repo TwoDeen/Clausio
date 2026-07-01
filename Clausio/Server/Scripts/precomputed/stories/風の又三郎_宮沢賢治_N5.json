@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "くるみも吹きとばせ",
-      "furigana": "あおいくるみも",
+      "furigana": "\nあおいくるみも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "すっぱいかりんも吹きとばせ",
-      "furigana": "せすっぱいかりんも",
+      "furigana": "せ\nすっぱいかりんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "どっどどどどうどどどうどどどう谷川",
-      "furigana": "せどっどど　どどうど　どどうど",
+      "furigana": "ふきとばせ\nどっどど　どどうど　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の岸に小さな学校がありました。",
-      "furigana": "　どどうたにがわのきしにちいさながっこうが",
+      "furigana": "　どどう\nたにがわのきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {

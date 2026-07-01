@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "が頬は九月の雨に",
-      "furigana": "がほおはきゅうがつのあめに",
+      "furigana": "がほおは\nきゅうがつのあめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "聖くして一すぢ",
-      "furigana": "きよくしていちすぢ",
+      "furigana": "にきよくして\nいち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "遠きこのみちを草穂の",
-      "furigana": "とおきこのみちをくさほの",
+      "furigana": "すぢとおきこのみちを\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "けぶりはてもなし",
-      "furigana": "けぶりはてもなし",
+      "furigana": "くさほのけぶりはて",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "、何かしらべ",
-      "furigana": "、なんかしらべ",
+      "clause_text": "、何かしらべに来",
+      "furigana": "、なんかしらべにき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に来たの。」",
-      "furigana": "にきたの。きごう",
+      "clause_text": "たの。",
+      "furigana": "たの。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」西の山地から吹いて来た",
-      "furigana": "きごうにしのさんちからふいてきた",
+      "furigana": "きごう\nにしのさんちからふいてき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "まだ少しつめたい",
-      "furigana": "まだすこしつめたい",
+      "furigana": "たまだすこし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "風が私の見すぼらしい黄いろの上着を",
-      "furigana": "かぜがわたくしのみすぼらしいきいろのうわぎを",
+      "furigana": "かぜがわたくしのみすぼらしいきいろのうわぎ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ぱたぱたかすめながら",
-      "furigana": "ぱたぱたかすめながら",
+      "furigana": "をぱたぱたかすめ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "何べんも通って行きました。",
-      "furigana": "なんべんもかよっていきました。",
+      "furigana": "なんべんもかよっていきました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の農林学校の助手だよ",
-      "furigana": "ののうりんがっこうのじょしゅだよ",
+      "clause_text": "の農林学校の",
+      "furigana": "ののうりんがっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、だから標本を",
-      "furigana": "、だからひょうほんを",
+      "clause_text": "助手だよ",
+      "furigana": "じょしゅだよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "集めに来",
-      "furigana": "あつめにき",
+      "clause_text": "、だから標本を",
+      "furigana": "、だからひょうほんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "たんだい。」",
-      "furigana": "たんだい。きごう",
+      "clause_text": "集めに来たんだい。",
+      "furigana": "あつめにきたんだい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "たの、しらべに来たの",
-      "furigana": "たの、しらべにきたの",
+      "clause_text": "たの、しらべ",
+      "furigana": "たの、しらべ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、何かしらべ",
-      "furigana": "、なんかしらべ",
+      "clause_text": "に来たの、何か",
+      "furigana": "にきたの、なんか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に来たの。」",
-      "furigana": "にきたの。きごう",
+      "clause_text": "しらべに来たの。",
+      "furigana": "しらべにきたの。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

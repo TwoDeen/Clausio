@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "まひるつとめにまぎらひてきみが",
-      "furigana": "まひるつとめにまぎらひてきみが",
+      "furigana": "まひるつとめにまぎらひて\nきみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おもかげ来ぬひまはこころやすらひはたらき",
-      "furigana": "おもかげきぬひまはこころやすらひはたらき",
+      "furigana": "がおもかげきぬひまは\nこころやすらひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しそのことなにかねたましき新月きみがおももちをつきの梢",
-      "furigana": "しそのことなにかねたましきしんげつきみがおももちをつきのこずえ",
+      "furigana": "し\nそのことなにかねたましき\nしんげつきみがおももちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "にかゝぐれば凍れる泥をうち",
-      "furigana": "にかのぐればしばれるどろをうち",
+      "furigana": "\nつきのこずえにかのぐれば\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ふみてさびしく恋ふるこゝろかな",
-      "furigana": "ふみてさびしくこいふるこころかな",
+      "furigana": "どろをうちふみて\nさびしくこい",
       "sentence_individual_grammar_level": "N5"
     },
     {

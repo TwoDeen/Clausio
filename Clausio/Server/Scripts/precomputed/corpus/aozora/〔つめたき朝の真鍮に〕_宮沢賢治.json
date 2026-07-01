@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "つめたき朝の真鍮に胸を",
-      "furigana": "つめたきあさのしんちゅうにむねを",
+      "furigana": "つめたきあさのしんちゅうに\nむね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "くるしと盛りまつりこゝろさびしく",
-      "furigana": "くるしともりまつりこころさびしく",
+      "furigana": "をくるしともりまつり\nこころ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "をろがめばおん舎利",
-      "furigana": "をろがめばおんしゃり",
+      "furigana": "をろがめば\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ゆゑにあをじろく",
-      "furigana": "ゆえにあをじろく",
+      "furigana": "しゃりゆえにあを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "燐光をこそはなちたまへり",
-      "furigana": "りんこうをこそはなちたまへり",
+      "furigana": "じろく\nりんこうをこそはなち",
       "sentence_individual_grammar_level": "N5"
     },
     {

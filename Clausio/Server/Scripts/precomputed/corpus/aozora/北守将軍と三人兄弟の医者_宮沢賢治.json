@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "むかしラユー",
-      "furigana": "むかしらゆー",
+      "furigana": "\nむかし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "といふ首都に、",
-      "furigana": "といふしゅとに、",
+      "furigana": "といふしゅとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "兄弟三人の",
-      "furigana": "きょうだいさんにんの",
+      "furigana": "、きょうだいさんにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "医者がゐた。",
-      "furigana": "いしゃがいた。",
+      "furigana": "のいしゃがいた",
       "sentence_individual_grammar_level": "N5"
     },
     {

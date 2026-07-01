@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "雪とひのきの坂上に粗き板もてゴシック",
-      "furigana": "ゆきとひのきのさかうえにあらきいたもてごしっく",
+      "furigana": "ゆきとひのきのさかうえに\nあらきいたもて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "を辛く畳みて写真師の聖のねぐらを営み",
-      "furigana": "をつらくたたみてしゃしんしのせいのねぐらをいとなみ",
+      "furigana": "を\nつらくたたみてしゃしんしの\nひじりのねぐら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ぬぼたと名づくる雪ふりていましめさけぶ",
-      "furigana": "ぬぼたとなづくるゆきふりていましめさけぶ",
+      "furigana": "をいとなみぬ\nぼたとなづくるゆきふりて\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "橇のこらよきデュイエット",
-      "furigana": "そりのこらよきでゅいえっと",
+      "furigana": "さけぶそりのこら\nよき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "うちふるひひかりて暮るゝガラス屋根",
-      "furigana": "うちふるひひかりてくれるるがらすやね",
+      "furigana": "でゅいえっとうちふるひ\nひかりてくれ",
       "sentence_individual_grammar_level": "N5"
     },
     {

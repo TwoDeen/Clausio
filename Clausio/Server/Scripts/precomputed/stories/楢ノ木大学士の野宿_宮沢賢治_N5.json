@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "小さな家へ、「",
-      "furigana": "ちいさないえへ、きごう",
+      "furigana": "ちいさないえへ、\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "貝の火兄弟商会",
-      "furigana": "かいのひきょうだいしょうかい",
+      "furigana": "きごうかいのひきょうだい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」の、赤鼻の",
-      "furigana": "きごうの、あかはなの",
+      "furigana": "きごうの、\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "支配人がやって来た。",
-      "furigana": "しはいにんがやってきた。",
+      "furigana": "のしはいにんがやってき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "う、お探しをねがへませ",
-      "furigana": "う、おさがしをねがへませ",
+      "clause_text": "う、お探しをね",
+      "furigana": "う、おさがしをね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "んでせうか。」",
-      "furigana": "んでせうか。きごう",
+      "clause_text": "がへませんでせうか。",
+      "furigana": "がへませんでせうか。",
       "sentence_individual_grammar_level": "N5"
     },
     {

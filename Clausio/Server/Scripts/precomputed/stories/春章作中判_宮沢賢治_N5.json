@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一、ましろき蘆の花噴けば",
-      "furigana": "いち、ましろきあしのはなふけば",
+      "furigana": "いち、\nましろきあしのはなふけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "青き死相を眼にたゝへ大太刀舞はす",
-      "furigana": "あおきしそうをめにたきごうへおおだちまいはす",
+      "furigana": "ば\nあおきしそうをめにたきごうへ\nおおだち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "乱れ髪二、白紙を結ぶす",
-      "furigana": "みだれがみに、はくしをむすぶす",
+      "furigana": "まいはすみだれがみ\nに、\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "はだしや死を嘲ける青の隈雪の反射の",
-      "furigana": "はだしやしをあざけるあおのくまゆきのはんしゃの",
+      "furigana": "をむすぶすはだしや\nしをあざけるあおの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なかにして鉄の鏡をかゝげたり",
-      "furigana": "なかにしててつのかがみをかかげたり",
+      "furigana": "くま\nゆきのはんしゃのなかにして\nてつ",
       "sentence_individual_grammar_level": "N5"
     },
     {

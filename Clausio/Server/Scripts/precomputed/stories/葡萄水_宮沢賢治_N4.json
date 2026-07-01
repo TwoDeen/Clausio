@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "中横］耕平は髪も",
-      "furigana": "なかよこきごうこうへいはかみも",
+      "furigana": "なかよこきごう\nこうへいはかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "角刈りで、おとなのくせ",
-      "furigana": "かくがりで、おとなのくせ",
+      "furigana": "もかくがりで、おとなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "に、今日は朝から",
-      "furigana": "に、きょうはあさから",
+      "furigana": "に、きょうはあさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "口笛などを吹いてゐます。",
-      "furigana": "くちぶえなどをふいています。",
+      "furigana": "くちぶえなどをふいています",
       "sentence_individual_grammar_level": "N5"
     },
     {

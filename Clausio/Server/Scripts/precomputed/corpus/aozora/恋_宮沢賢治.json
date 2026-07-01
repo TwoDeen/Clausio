@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ポプラの群にかこまれて鐘塔",
-      "furigana": "ぽぷらのぐんにかこまれてしょうとう",
+      "furigana": "\nぽぷらのぐんにかこまれて\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "白き秋の館かしこ",
-      "furigana": "しろきあきのやかたかしこ",
+      "furigana": "しょうとうしろきあきのやかた\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "にひとの四年居てあるとき",
-      "furigana": "にひとのよんねんいてあるとき",
+      "furigana": "かしこにひとのよんねんいて\n",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "清くわらひけるそのこといとゞくるほしき",
-      "furigana": "きよくわらひけるそのこといときごうくるほしき",
+      "furigana": "あるとききよくわらひける\nそのこといときごう",
       "sentence_individual_grammar_level": "N4"
     },
     {

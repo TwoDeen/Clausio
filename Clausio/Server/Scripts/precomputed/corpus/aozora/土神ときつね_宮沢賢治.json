@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（一）一本木",
-      "furigana": "きごういちきごういっぽんぎ",
+      "furigana": "きごういちきごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "の野原の、北の",
-      "furigana": "ののはらの、きたの",
+      "furigana": "ののはらの、きた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "はずれに、少し",
-      "furigana": "はずれに、すこし",
+      "furigana": "のはずれに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "小高く盛りあがっ",
-      "furigana": "こだかくもりあがっ",
+      "furigana": "こだかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "た所がありました。",
-      "furigana": "たところがありました。",
+      "furigana": "たところがありました",
       "sentence_individual_grammar_level": "N5"
     },
     {

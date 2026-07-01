@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あらしのとこなんだ」「いやあだ、",
-      "furigana": "あらしのとこなんだきごうきごういやあだ、",
+      "clause_text": "あらしのとこなん",
+      "furigana": "あらしのとこなん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "あたしら、そんな帆船や",
-      "furigana": "あたしら、そんなほぶねや",
+      "clause_text": "だ」「いやあだ、あたしら、",
+      "furigana": "だきごう\nきごういやあだ、あたしら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なんかじゃないわ。」",
-      "furigana": "なんかじゃないわ。きごう",
+      "clause_text": "そんな帆船やなんかじゃないわ。",
+      "furigana": "、そんなほぶねやなんかじゃないわ",
       "sentence_individual_grammar_level": "N5"
     },
     {

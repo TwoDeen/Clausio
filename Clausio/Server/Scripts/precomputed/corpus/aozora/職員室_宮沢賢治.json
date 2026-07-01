@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "歪むガラスのかなたにて藤をまとへるさいかちや西は雪ぐも亙せるに一ひらひかる天の青ひる",
-      "furigana": "ゆがむがらすのかなたにてふじをまとへるさいかちやにしはすすぐもわたるせるにひとひらひかるてんのあおひる",
+      "furigana": "ゆがむがらすのかなたにて\nふじをまとへるさいかちや\nにしはすすぐもわたるせるに\nひとひらひかるてんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "げせはしく事終へてなにかそぐはぬひとびとの暖炉を囲みあるものはその",
-      "furigana": "げせはしくことおわりへてなにかそぐはぬひとびとのだんろをかこみあるものはその",
+      "furigana": "あお\nひるげせはしくことおわりへて\nなにかそぐはぬひとびとの\nだんろをかこみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "石墨をこそげたり業を了へたるわかものの官にあるは",
-      "furigana": "せきぼくをこそげたりごうをりょうへたるわかもののかんにあるは",
+      "furigana": "ものは\nそのせきぼくをこそげたり\nごうをりょうへたる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "卑しくて一たび村に帰りしはその音づれも聞えざりたまさかゆれし",
-      "furigana": "いやしくてひとたびむらにかえりしはそのおとづれもきこえざりたまさかゆれし",
+      "furigana": "の\nかんにあるはいやしくて\nひとたびむらにかえりしは\nそのおとづれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ひばの間を茶羅紗の肩をくすぼらし校長門を出で行けばいよよにゆがむガラスなり",
-      "furigana": "ひばのあいだをちゃらしゃのかたをくすぼらしこうちょうもんをいでいけばいよよにゆがむがらすなり",
+      "furigana": "きこえざり\nたまさかゆれしひばのあいだを\nちゃらしゃのかたをくすぼらし\nこうちょうもんをいで",
       "sentence_individual_grammar_level": "N5"
     },
     {

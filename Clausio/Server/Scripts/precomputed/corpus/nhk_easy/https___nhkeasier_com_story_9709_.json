@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "船の協会の人は「",
-      "furigana": "ふねのきょうかいのひとは「",
+      "clause_text": "船の協会の人は「今の",
+      "furigana": "ふねのきょうかいのひとは「いまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "今の情報だけで、",
-      "furigana": "いまのじょうほうだけで、",
+      "clause_text": "情報だけで、ホルムズ",
+      "furigana": "じょうほうだけで、ホルムズ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ホルムズ",
-      "furigana": "ホルムズ",
+      "clause_text": "海峡を通ることが",
+      "furigana": "かいきょうをとおることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "海峡を通ることが",
-      "furigana": "かいきょうをとおることが",
+      "clause_text": "できるか、",
+      "furigana": "できるか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "できるか、わからない。",
-      "furigana": "できるか、わからない。",
+      "clause_text": "わからない。",
+      "furigana": "わからない。",
       "sentence_individual_grammar_level": "N5"
     }
   ]
