@@ -239,15 +239,22 @@ def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
 
 @app.get("/api/debug/file-check")
 def debug_file_check(source: str, topic_id: str):
-    safe = safe_id(topic_id)
-    path = CORPUS_PRE_DIR / source / f"{safe}.json"
-    return {
-        "source": source,
-        "topic_id": topic_id,
-        "safe_id": safe,
-        "computed_path": str(path),
-        "exists": path.exists(),
-    }
+    try:
+        safe = safe_id(topic_id)   # or _safe_id(topic_id), whichever actually exists
+        path = CORPUS_PRE_DIR / source / f"{safe}.json"
+        return {
+            "source": source,
+            "topic_id": topic_id,
+            "safe_id": safe,
+            "computed_path": str(path),
+            "exists": path.exists(),
+        }
+    except Exception as e:
+        return {
+            "error": str(e),
+            "source": source,
+            "topic_id": topic_id,
+        }
 
 @app.get("/api/debug/scrape")
 def debug_info(url: str = ""):
