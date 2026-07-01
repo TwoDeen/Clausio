@@ -237,6 +237,17 @@ def fetch_corpus_puzzle(request: CorpusPuzzleRequest):
 
     return _load_json(path)
 
+@app.get("/api/debug/file-check")
+def debug_file_check():
+    topic_id = "https://nhkeasier.com/story/9731/"
+    path = CORPUS_PRE_DIR / "nhk_easy" / f"{_safe_id(topic_id)}.json"
+    return {
+        "computed_path": str(path),
+        "exists": path.exists(),
+        "safe_id": _safe_id(topic_id),
+        "cwd": str(BASE_DIR),
+    }
+
 
 @app.get("/api/debug/scrape")
 def debug_info(url: str = ""):
