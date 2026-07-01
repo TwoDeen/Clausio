@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そらのてっぺん",
-      "furigana": "そらのてっぺん",
+      "clause_text": "そらのてっぺんなんか冷たくて冷たくてまるでカチカチの灼きをかけた鋼です。",
+      "furigana": "そらのてっぺんなんかつめたくてつめたくてまるでかちかちのやきをかけたはがねです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "なんか冷たくて",
-      "furigana": "なんかつめたくて",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "冷たくてまるで",
-      "furigana": "つめたくてまるで",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "カチカチの灼き",
-      "furigana": "かちかちのやき",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をかけた鋼です。",
-      "furigana": "をかけたはがねです。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "一杯",
-      "furigana": "いっぱい",
+      "clause_text": "一杯です。",
+      "furigana": "いっぱいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "です",
-      "furigana": "です",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれども東の空はもう",
-      "furigana": "けれどもひがしのそらはもう",
+      "clause_text": "けれども",
+      "furigana": "けれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "優しい桔梗の",
-      "furigana": "やさしいききょうの",
+      "clause_text": "東の",
+      "furigana": "ひがしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "花びらのやうにあやしい",
-      "furigana": "はなびらのやうにあやしい",
+      "clause_text": "空は",
+      "furigana": "そらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "底光りをはじめ",
-      "furigana": "そこびかりをはじめ",
+      "clause_text": "もう優しい桔梗の花びらの",
+      "furigana": "もうやさしいききょうのはなびらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "やうにあやしい底光りをはじめました。",
+      "furigana": "やうにあやしいそこびかりをはじめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その明け方の空の下、",
-      "furigana": "そのあけがたのそらのもと、",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひるの鳥でも行かない高い所を鋭い",
-      "furigana": "ひるのとりでもいかないたかいところをするどい",
+      "clause_text": "明け方の",
+      "furigana": "あけがたの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "霜のかけらが風に流されて",
-      "furigana": "しものかけらがかぜにながされて",
+      "clause_text": "空の下、ひるの",
+      "furigana": "そらのもと、ひるの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "サラサラサラサラ",
-      "furigana": "さらさらさらさら",
+      "clause_text": "鳥でも行かない高い所を鋭い霜の",
+      "furigana": "とりでもいかないたかいところをするどいしもの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "南の方へ飛んで行きました。",
-      "furigana": "みなみのほうへとんでいきました。",
+      "clause_text": "かけらが風に流されてサラサラサラサラ南の方へ飛んで行きました。",
+      "furigana": "かけらがかぜにながされてさらさらさらさらみなみのほうへとんでいきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "実にその微かな音",
-      "furigana": "じつにそのかすかなおと",
+      "clause_text": "実に",
+      "furigana": "じつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が丘の上の一本い",
-      "furigana": "がおかのうえのいちぽんい",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "てふの木に",
-      "furigana": "てふのきに",
+      "clause_text": "微かな音が",
+      "furigana": "かすかなおとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "聞える位澄み",
-      "furigana": "きこえるくらいすみ",
+      "clause_text": "丘の上の一本いてふの",
+      "furigana": "おかのうえのいちぽんいてふの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "切った明け方です。",
-      "furigana": "きったあけがたです。",
+      "clause_text": "木に聞える位澄み切った明け方です。",
+      "furigana": "きにきこえるくらいすみきったあけがたです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ニュース",
-      "furigana": "ニュース",
+      "clause_text": "ニュースです。",
+      "furigana": "ニュースです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "です",
-      "furigana": "です",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "25日午前7時半",
-      "furigana": "25にちごぜん7じはん",
+      "clause_text": "25日午前7時半ごろ、青森県などで大きい地震がありました。",
+      "furigana": "25にちごぜん7じはんごろ、あおもりけんなどでおおきいじしんがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ごろ、青森県",
-      "furigana": "ごろ、あおもりけん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "などで大きい",
-      "furigana": "などでおおきい",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "地震が",
-      "furigana": "じしんが",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "青森県の",
-      "furigana": "あおもりけんの",
+      "clause_text": "青森県の階上町で震度6強、八戸市で震度6弱でした。",
+      "furigana": "あおもりけんのはしかみちょうでしんど6きょう、はちのへしでしんど6じゃくでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "階上町で震度",
-      "furigana": "はしかみちょうでしんど",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "6強、八戸市",
-      "furigana": "6きょう、はちのへし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "で震度",
-      "furigana": "でしんど",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "6弱でした。",
-      "furigana": "6じゃくでした。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "岩手県や",
-      "furigana": "いわてけんや",
+      "clause_text": "岩手県や宮城県などでも大きく揺れました。",
+      "furigana": "いわてけんやみやぎけんなどでもおおきくゆれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "宮城県",
-      "furigana": "みやぎけん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "などでも",
-      "furigana": "などでも",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "大きく",
-      "furigana": "おおきく",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "揺れました。",
-      "furigana": "ゆれました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "気象庁は、この",
-      "furigana": "きしょうちょうは、この",
+      "clause_text": "気象庁は",
+      "furigana": "きしょうちょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "地震で津波の",
-      "furigana": "じしんでつなみの",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "被害が出る",
-      "furigana": "ひがいがでる",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "心配はないと",
-      "furigana": "しんぱいはないと",
+      "clause_text": "地震で津波の被害が",
+      "furigana": "じしんでつなみのひがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "言いました。",
-      "furigana": "いいました。",
+      "clause_text": "出る心配はないと言いました。",
+      "furigana": "でるしんぱいはないといいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

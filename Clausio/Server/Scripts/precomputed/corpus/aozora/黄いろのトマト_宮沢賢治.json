@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "博物局十六等官",
-      "furigana": "はくぶつきょくじゅうろくとうかん",
+      "clause_text": "博物局十六等官キュステ誌私の",
+      "furigana": "はくぶつきょくじゅうろくとうかん\nきゅすてし\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "キュステ誌私の町の",
-      "furigana": "\nきゅすてし\nわたくしの",
+      "clause_text": "町の",
+      "furigana": "わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "博物館の、大きなガラス",
-      "furigana": "まちのはくぶつかんの、おおきな",
+      "clause_text": "博物館の、",
+      "furigana": "まちのはくぶつかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の戸棚には、剥製ですが、四疋",
-      "furigana": "のとだなには、はくせいですが、",
+      "clause_text": "大きなガラスの",
+      "furigana": "の、おおきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の蜂雀がいます。",
-      "furigana": "よんひきのはちすずめがい",
+      "clause_text": "戸棚には、剥製ですが、四疋の蜂雀がいます。",
+      "furigana": "のとだなには、はくせいですが、よんひきのはちすずめがい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "生きてたときは",
-      "furigana": "いきてたときは",
+      "clause_text": "生きてたと",
+      "furigana": "いきてた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ミィミィとなき",
-      "furigana": "みぃみぃとなき",
+      "clause_text": "きは",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "蝶のように花の蜜を",
-      "furigana": "ちょうのようにはなのみつを",
+      "clause_text": "ミィミィと",
+      "furigana": "みぃみぃと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たべるあの小さなか",
-      "furigana": "たべるあのちいさなか",
+      "clause_text": "なき蝶のように花の",
+      "furigana": "なきちょうのようにはなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あいらしい蜂雀です。",
-      "furigana": "あいらしいはちすずめです。",
+      "clause_text": "蜜をたべるあの小さなかあいらしい蜂雀です。",
+      "furigana": "みつをたべるあのちいさなかあいらしいはちすずめです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "わたくしはその四疋",
-      "furigana": "わたくしはそのよんひき",
+      "clause_text": "わたくしは",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の中でいちばん上の枝にとまっ",
-      "furigana": "のなかでいちばんうえのえだにとまっ",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "て、羽を両方ひろげ",
-      "furigana": "て、はねをりょうほうひろげ",
+      "clause_text": "四疋の中で",
+      "furigana": "よんひきのなかで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "かけ、まっ青なそらにいまにも",
-      "furigana": "かけ、まっさおなそらにいまにも",
+      "clause_text": "いちばん上の枝にとまって、羽を",
+      "furigana": "いちばんうえのえだにとまって、はねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "とび立ちそうなのを、ことにすきでした。",
-      "furigana": "とびたちそうなのを、ことにすきでした。",
+      "clause_text": "両方ひろげかけ、まっ青なそらにいまにもとび立ちそうなのを、ことにすきでした。",
+      "furigana": "りょうほうひろげかけ、まっさおなそらにいまにもとびたちそうなのを、ことにすきでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは眼が赤くてつるつる",
-      "furigana": "それはめがあかくてつるつる",
+      "clause_text": "それは",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "した緑青いろの胸をもち、その",
-      "furigana": "したみどりあおいろのむねをもち、その",
+      "clause_text": "眼が",
+      "furigana": "めが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "りんと張った胸",
-      "furigana": "りんとはったむね",
+      "clause_text": "赤くてつるつるした緑青いろの",
+      "furigana": "あかくてつるつるしたみどりあおいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "には波形のうつくしい",
-      "furigana": "にははけいのうつくしい",
+      "clause_text": "胸をもち、その",
+      "furigana": "むねをもち、その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "紋もありました。",
-      "furigana": "もんもありました。",
+      "clause_text": "りんと張った胸には波形のうつくしい紋もありました。",
+      "furigana": "りんとはったむねにははけいのうつくしいもんもありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "小さいときのことですが、ある朝",
-      "furigana": "ちいさいときのことですが、あるあさ",
+      "clause_text": "小さいと",
+      "furigana": "ちいさい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "早く、私は学校に行く前にこっそり一寸ガラス",
-      "furigana": "はやく、わたくしはがっこうにいくまえにこっそりいちすんがらす",
+      "clause_text": "きのことで",
+      "furigana": "のこと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の前に立ちましたら、その蜂雀",
-      "furigana": "のまえにたちましたら、そのはちすずめ",
+      "clause_text": "すが、ある朝早く、私は",
+      "furigana": "が、あるあさはやく、わたくしは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、銀の針の様なほそいきれいな声で、",
-      "furigana": "が、ぎんのはりのようなほそいきれいなこえで、",
+      "clause_text": "学校に行く前にこっそり一寸ガラスの前に",
+      "furigana": "がっこうにいくまえにこっそりいちすんがらすのまえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "にわかに私に言いました。",
-      "furigana": "にわかにわたくしにいいました。",
+      "clause_text": "立ちましたら、その蜂雀が、銀の針の様なほそいきれいな声で、にわかに私に言いました。",
+      "furigana": "たちましたら、そのはちすずめが、ぎんのはりのようなほそいきれいなこえで、にわかにわたくしにいいました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

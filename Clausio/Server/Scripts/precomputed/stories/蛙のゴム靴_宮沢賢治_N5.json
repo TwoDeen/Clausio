@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "松の木や",
-      "furigana": "まつのきや",
+      "clause_text": "松の",
+      "furigana": "まつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "楢の木の",
-      "furigana": "ならのきの",
+      "clause_text": "木や楢の",
+      "furigana": "きやならの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "林の下を、",
-      "furigana": "はやしのしたを、",
+      "clause_text": "木の",
+      "furigana": "きの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "深い堰が流れて",
-      "furigana": "ふかいせきがながれて",
+      "clause_text": "林の下を",
+      "furigana": "はやしのしたを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "居りました。",
-      "furigana": "おりました。",
+      "clause_text": "、深い堰が流れて居りました。",
+      "furigana": "、ふかいせきがながれておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "岸には茨やつゆ草やたでが一杯に",
-      "furigana": "きしにはうばらやつゆくさやたでがいっぱいに",
+      "clause_text": "岸に",
+      "furigana": "きしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "しげり、そのつゆくさの十本",
-      "furigana": "しげり、そのつゆくさのじゅうぽん",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ばかり集った下のあたり",
-      "furigana": "ばかりつどったしたのあたり",
+      "clause_text": "茨やつゆ草やたでが",
+      "furigana": "うばらやつゆくさやたでが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、カン蛙のうちが",
-      "furigana": "に、かんかわずのうちが",
+      "clause_text": "一杯にしげり、そのつゆくさの",
+      "furigana": "いっぱいにしげり、そのつゆくさの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "十本ばかり集った下のあたりに、カン蛙のうちがありました。",
+      "furigana": "じゅうぽんばかりつどったしたのあたりに、かんかわずのうちがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それから、林の中",
-      "furigana": "それから、はやしのなか",
+      "clause_text": "それから",
+      "furigana": "それから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の楢の木",
-      "furigana": "のならのき",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の下に、",
-      "furigana": "のしたに、",
+      "clause_text": "林の",
+      "furigana": "はやしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ブン蛙のうちが",
-      "furigana": "ぶんかわずのうちが",
+      "clause_text": "中の楢の木の下に",
+      "furigana": "なかのならのきのしたに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "、ブン蛙のうちがありました。",
+      "furigana": "、ぶんかわずのうちがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "林の向ふのすゝ",
-      "furigana": "はやしのむこうのすの",
+      "clause_text": "林の",
+      "furigana": "はやしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "きのかげには、",
-      "furigana": "きのかげには、",
+      "clause_text": "向ふの",
+      "furigana": "むこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ベン蛙の",
-      "furigana": "べんかわずの",
+      "clause_text": "すゝきの",
+      "furigana": "すのきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "うちが",
-      "furigana": "うちが",
+      "clause_text": "かげには",
+      "furigana": "かげには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "、ベン蛙のうちがありました。",
+      "furigana": "、べんかわずのうちがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "三疋は年も",
-      "furigana": "さんひきはねんも",
+      "clause_text": "三疋は",
+      "furigana": "さんひきは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "同じなら大きさも",
-      "furigana": "おなじならおおきさも",
+      "clause_text": "年も",
+      "furigana": "ねんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "大てい同じ、どれも負けず",
-      "furigana": "たいていおなじ、どれもまけず",
+      "clause_text": "同じなら大きさも",
+      "furigana": "おなじならおおきさも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "劣らず生意気",
-      "furigana": "おとらずなまいき",
+      "clause_text": "大てい同じ、どれも",
+      "furigana": "たいていおなじ、どれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、いたづらものでした。",
-      "furigana": "で、いたづらものでした。",
+      "clause_text": "負けず劣らず生意気で、いたづらものでした。",
+      "furigana": "まけずおとらずなまいきで、いたづらものでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

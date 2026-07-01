@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "雪婆んご",
-      "furigana": "ゆきばあんご",
+      "clause_text": "雪婆んごは",
+      "furigana": "ゆきばあんごは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、遠くへ",
-      "furigana": "は、とおくへ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "出かけ",
-      "furigana": "でかけ",
+      "clause_text": "遠くへ",
+      "furigana": "とおくへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "て居り",
-      "furigana": "ており",
+      "clause_text": "出かけて居りました。",
+      "furigana": "でかけておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "猫のやうな耳をもち、",
-      "furigana": "ねこのやうなみみをもち、",
+      "clause_text": "猫のやうな耳を",
+      "furigana": "ねこのやうなみみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ぼやぼやした灰いろ",
-      "furigana": "ぼやぼやしたはいいろ",
+      "clause_text": "もち、",
+      "furigana": "もち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の髪をした雪婆んごは、西の",
-      "furigana": "のかみをしたゆきばあんごは、にしの",
+      "clause_text": "ぼやぼやした灰いろの",
+      "furigana": "ぼやぼやしたはいいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "山脈の、ちぢれたぎらぎらの雲を",
-      "furigana": "さんみゃくの、ちぢれたぎらぎらのくもを",
+      "clause_text": "髪をした雪婆んごは、西の",
+      "furigana": "かみをしたゆきばあんごは、にしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "越えて、遠くへでかけてゐたのです。",
-      "furigana": "こえて、とおくへでかけていたのです。",
+      "clause_text": "山脈の、ちぢれたぎらぎらの雲を越えて、遠くへでかけてゐたのです。",
+      "furigana": "さんみゃくの、ちぢれたぎらぎらのくもをこえて、とおくへでかけていたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ひとりの子供が、赤い毛布に",
-      "furigana": "ひとりのこどもが、あかいもうふに",
+      "clause_text": "ひとりの",
+      "furigana": "ひとりの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "くるまつて、しきりにカリメラ",
-      "furigana": "くるまつて、しきりにかりめら",
+      "clause_text": "子供が",
+      "furigana": "こどもが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "のことを考へながら、大きな",
-      "furigana": "のことをかんがへながら、おおきな",
+      "clause_text": "、赤い毛布に",
+      "furigana": "、あかいもうふに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "象の頭のかたちをした、雪丘の裾を、",
-      "furigana": "ぞうのあたまのかたちをした、ゆきおかのすそを、",
+      "clause_text": "くるまつて、しきりにカリメラのことを考へなが",
+      "furigana": "くるまつて、しきりにかりめらのことをかんがへ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "せかせかうちの方へ急いで居りました。",
-      "furigana": "せかせかうちのほうへいそいでおりました。",
+      "clause_text": "ら、大きな象の頭のかたちをした、雪丘の裾を、せかせかうちの方へ急いで居りました。",
+      "furigana": "、おおきなぞうのあたまのかたちをした、ゆきおかのすそを、せかせかうちのほうへいそいでおりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "（そら、新聞紙",
-      "furigana": "きごうそら、しんぶんし",
+      "clause_text": "（そら、",
+      "furigana": "きごうそら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "を尖つたかたちに巻いて、",
-      "furigana": "を尖つたかたちにまいて、",
+      "clause_text": "新聞紙を",
+      "furigana": "しんぶんしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふうふうと吹く",
-      "furigana": "ふうふうとふく",
+      "clause_text": "尖つたかたちに",
+      "furigana": "尖つたかたちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "と、炭から",
-      "furigana": "と、すみから",
+      "clause_text": "巻いて、ふうふうと",
+      "furigana": "まいて、ふうふうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "まるで青火が燃える。",
-      "furigana": "まるであおびがもえる。",
+      "clause_text": "吹くと、炭からまるで青火が燃える。",
+      "furigana": "ふくと、すみからまるであおびがもえる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぼくはカリメラ鍋に",
-      "furigana": "ぼくはかりめらなべに",
+      "clause_text": "ぼくは",
+      "furigana": "ぼくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "赤砂糖を一つまみ",
-      "furigana": "あかざとうをひとつまみ",
+      "clause_text": "カリメラ鍋に",
+      "furigana": "かりめらなべに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れて、それから",
-      "furigana": "いれて、それから",
+      "clause_text": "赤砂糖を",
+      "furigana": "あかざとうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ザラメを一つまみ",
-      "furigana": "ざらめをひとつまみ",
+      "clause_text": "一つまみ入れて、それから",
+      "furigana": "ひとつまみいれて、それから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れる。",
-      "furigana": "いれる。",
+      "clause_text": "ザラメを一つまみ入れる。",
+      "furigana": "ざらめをひとつまみいれる。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

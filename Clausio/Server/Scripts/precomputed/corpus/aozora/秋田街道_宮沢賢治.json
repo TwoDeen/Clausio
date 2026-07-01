@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "どれもみんな",
-      "furigana": "どれもみんな",
+      "clause_text": "どれも",
+      "furigana": "どれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "肥料や薪炭を",
-      "furigana": "ひりょうやしんたんを",
+      "clause_text": "みんな肥料や薪炭を",
+      "furigana": "みんなひりょうやしんたんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "やりとりする",
-      "furigana": "やりとりする",
+      "clause_text": "やりとりするさびしい家だ。",
+      "furigana": "やりとりするさびしいいえだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "さびしい",
-      "furigana": "さびしい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "家だ。",
-      "furigana": "いえだ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ところどころ",
-      "furigana": "ところどころ",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "にちらばっ",
-      "furigana": "にちらばっ",
+      "clause_text": "ころどころに",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "て黒い小さい",
-      "furigana": "てくろいちいさい",
+      "clause_text": "ちらばって黒い小さいさびしい家だ。",
+      "furigana": "ちらばってくろいちいさいさびしいいえだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "さびしい家だ。",
-      "furigana": "さびしいいえだ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "もうみな",
-      "furigana": "もうみな",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "戸を",
-      "furigana": "とを",
+      "clause_text": "うみな戸を",
+      "furigana": "みなとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "閉め",
-      "furigana": "しめ",
+      "clause_text": "閉めた。",
+      "furigana": "しめた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "かなしく",
-      "furigana": "かなしく",
+      "clause_text": "かなしく来た方を",
+      "furigana": "かなしくきたほうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "来た方を",
-      "furigana": "きたほうを",
+      "clause_text": "ふりかへ",
+      "furigana": "ふりかへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふりかへる",
-      "furigana": "ふりかへる",
+      "clause_text": "る。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "盛岡の電燈は微かにゆらい",
-      "furigana": "もりおかのでんとうはかすかにゆらい",
+      "clause_text": "盛岡の電燈は",
+      "furigana": "もりおかのでんとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "でねむさうにならび只公園の",
-      "furigana": "でねむさうにならびただこうえんの",
+      "clause_text": "微かにゆらいで",
+      "furigana": "かすかにゆらいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "アーク燈だけ高い処で",
-      "furigana": "あーくとうだけたかいところで",
+      "clause_text": "ねむさうにならび只公園の",
+      "furigana": "ねむさうにならびただこうえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "そらぞらしい気焔の波を",
-      "furigana": "そらぞらしいきえんのなみを",
+      "clause_text": "アーク燈だけ高い処で",
+      "furigana": "あーくとうだけたかいところで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "上げてゐる。",
-      "furigana": "あげている。",
+      "clause_text": "そらぞらしい気焔の波を上げてゐる。",
+      "furigana": "そらぞらしいきえんのなみをあげている。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

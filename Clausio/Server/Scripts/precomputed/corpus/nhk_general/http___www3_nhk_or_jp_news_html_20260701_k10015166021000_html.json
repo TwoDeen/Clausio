@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アメリカ政府は、",
-      "furigana": "アメリカ政府は、",
+      "clause_text": "アメリカ政府は",
+      "furigana": "アメリカ政府は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "トランプ大統領",
-      "furigana": "トランプ大統領",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "が申告した",
-      "furigana": "が申告した",
+      "clause_text": "トランプ大統領が",
+      "furigana": "トランプ大統領が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "2025年の資産",
-      "furigana": "2025年の資産",
+      "clause_text": "申告した2025年の資産報告書を公開しました。",
+      "furigana": "申告した2025年の資産報告書を公開しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "報告書を公開しました。",
-      "furigana": "報告書を公開しました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "初の共和党",
-      "furigana": "初の共和党",
+      "clause_text": "初の",
+      "furigana": "初の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大会開催",
-      "furigana": "大会開催",
+      "clause_text": "共和党大会開催へ",
+      "furigana": "共和党大会開催へ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "へ”。",
-      "furigana": "へ”。",
+      "clause_text": "”。",
+      "furigana": "”。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "米「出生地",
-      "furigana": "米「出生地",
+      "clause_text": "米",
+      "furigana": "米",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "主義」見直しの",
-      "furigana": "主義」見直しの",
+      "clause_text": "「出生地主義」",
+      "furigana": "「出生地主義」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "大統領令連邦",
-      "furigana": "大統領令連邦",
+      "clause_text": "見直しの",
+      "furigana": "見直しの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "最高裁が認めない",
-      "furigana": "最高裁が認めない",
+      "clause_text": "大統領令連邦最高裁が",
+      "furigana": "大統領令連邦最高裁が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "判断。",
-      "furigana": "判断。",
+      "clause_text": "認めない判断。",
+      "furigana": "認めない判断。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "NYダウ",
-      "furigana": "NYダウ",
+      "clause_text": "NYダウ平均株価が",
+      "furigana": "NYダウ平均株価が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "平均株価が",
-      "furigana": "平均株価が",
+      "clause_text": "最高値更新AI需要拡大や米景気へ",
+      "furigana": "最高値更新AI需要拡大や米景気へ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "最高値更新AI",
-      "furigana": "最高値更新AI",
+      "clause_text": "の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "需要拡大や米景気",
-      "furigana": "需要拡大や米景気",
+      "clause_text": "期待で",
+      "furigana": "期待で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "への期待で。",
-      "furigana": "への期待で。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ベネズエラ",
-      "furigana": "ベネズエラ",
+      "clause_text": "ベネズエラ地震被災地大雨で",
+      "furigana": "ベネズエラ地震被災地大雨で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "地震被災地",
-      "furigana": "地震被災地",
+      "clause_text": "土砂崩れや建物倒壊の",
+      "furigana": "土砂崩れや建物倒壊の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "大雨で土砂",
-      "furigana": "大雨で土砂",
+      "clause_text": "おそれも",
+      "furigana": "おそれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "崩れや建物倒壊の",
-      "furigana": "崩れや建物倒壊の",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "おそれも。",
-      "furigana": "おそれも。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

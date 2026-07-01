@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "メジャーリーグ",
-      "furigana": "めじゃーりーぐ",
+      "clause_text": "メジャーリーグの",
+      "furigana": "めじゃーりーぐの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の大谷翔平",
-      "furigana": "のおおやしょうへい",
+      "clause_text": "大谷翔平選手が",
+      "furigana": "おおやしょうへいせんしゅが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "選手が日本の小学校に",
-      "furigana": "せんしゅがにっぽんのしょうがっこうに",
+      "clause_text": "日本の小学校にグローブを贈りました。",
+      "furigana": "にっぽんのしょうがっこうにぐろーぶをおくりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "グローブを贈り",
-      "furigana": "ぐろーぶをおくり",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "全部で約",
-      "furigana": "ぜんぶでやく",
+      "clause_text": "全部で",
+      "furigana": "ぜんぶで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "６万個の",
-      "furigana": "ろくまんこの",
+      "clause_text": "約６万個の",
+      "furigana": "やくろくまんこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "グローブ",
-      "furigana": "ぐろーぶ",
+      "clause_text": "グローブが",
+      "furigana": "ぐろーぶが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "が学校に届き",
-      "furigana": "ががっこうにとどき",
+      "clause_text": "学校に届きました。",
+      "furigana": "がっこうにとどきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "小学>校では",
-      "furigana": "しょうがくきごうこうでは",
+      "clause_text": "小学>校で",
+      "furigana": "しょうがくきごうこうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "子どもたち",
-      "furigana": "こどもたち",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "がとても喜んで",
-      "furigana": "がとてもよろこんで",
+      "clause_text": "子ども",
+      "furigana": "こども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "グローブ",
-      "furigana": "ぐろーぶ",
+      "clause_text": "たちがとても",
+      "furigana": "がとても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を使っています。",
-      "furigana": "をつかっています。",
+      "clause_text": "喜んでグローブを使っています。",
+      "furigana": "よろこんでぐろーぶをつかっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "野球を始める",
-      "furigana": "やきゅうをはじめる",
+      "clause_text": "野球を",
+      "furigana": "やきゅうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "子どもが増える",
-      "furigana": "こどもがふえる",
+      "clause_text": "始める子ども",
+      "furigana": "はじめるこども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことを大谷",
-      "furigana": "ことをおおや",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "選手は願ってい",
-      "furigana": "せんしゅはねがってい",
+      "clause_text": "増えること",
+      "furigana": "ふえること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "を大谷選手は願っています。",
+      "furigana": "をおおやせんしゅはねがっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "グローブには大谷",
-      "furigana": "ぐろーぶにはおおや",
+      "clause_text": "グローブに",
+      "furigana": "ぐろーぶに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "選手の>",
-      "furigana": "せんしゅのきごう",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "メッセージ",
-      "furigana": "めっせーじ",
+      "clause_text": "大谷選手の",
+      "furigana": "おおやせんしゅの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "も一緒に入っ",
-      "furigana": "もいっしょにはいっ",
+      "clause_text": ">メッセージも",
+      "furigana": "きごうめっせーじも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ていました。",
-      "furigana": "ていました。",
+      "clause_text": "一緒に入っていました。",
+      "furigana": "いっしょにはいっていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

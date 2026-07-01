@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "どっどどどどうどどどうどどどう青い",
-      "furigana": "どっどど　どどうど　どどうど　",
+      "clause_text": "どっどどどどうどどどうどどどう青いくるみも",
+      "furigana": "どっどど　どどうど　どどうど　どどう\nあおい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "くるみも吹きとばせ",
-      "furigana": "\nあおいくるみも",
+      "clause_text": "吹きと",
+      "furigana": "くるみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "すっぱいかりんも吹きとばせ",
-      "furigana": "せ\nすっぱいかりんも",
+      "clause_text": "ばせすっぱいかりんも",
+      "furigana": "もふきとばせ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "どっどどどどうどどどうどどどう谷川",
-      "furigana": "ふきとばせ\nどっどど　どどうど　",
+      "clause_text": "吹きと",
+      "furigana": "ふきと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の岸に小さな学校がありました。",
-      "furigana": "　どどう\nたにがわのきしに",
+      "clause_text": "ばせどっどどどどうどどどうどどどう谷川の岸に小さな学校がありました。",
+      "furigana": "もふきとばせ\nどっどど　どどうど　どどうど　どどう\nたにがわのきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "教室はたった一つでしたが生徒",
-      "furigana": "きょうしつはたったひとつでしたがせいと",
+      "clause_text": "教室はたった一つでしたが生徒は三年生がないだけで、あとは一年から六年までみんなありました。",
+      "furigana": "きょうしつはたったひとつでしたがせいとはさんねんせいがないだけで、あとはいちねんからろくねんまでみんなありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は三年生がないだけ",
-      "furigana": "はさんねんせいがないだけ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、あとは一年",
-      "furigana": "で、あとはいちねん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "から六年までみんな",
-      "furigana": "からろくねんまでみんな",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "運動場もテニスコートのくらいでしたが、",
-      "furigana": "うんどうじょうもてにすこーとのくらいでしたが、",
+      "clause_text": "運動場も",
+      "furigana": "うんどうじょうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すぐうしろは栗の木のあるきれいな草の山",
-      "furigana": "すぐうしろはくりのきのあるきれいなくさのやま",
+      "clause_text": "テニスコートの",
+      "furigana": "てにすこーとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "でしたし、運動場のすみには",
-      "furigana": "でしたし、うんどうじょうのすみには",
+      "clause_text": "くらいでしたが",
+      "furigana": "くらいでしたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ごぼごぼつめたい",
-      "furigana": "ごぼごぼつめたい",
+      "clause_text": "、すぐうしろは栗の木のあるきれいな草の",
+      "furigana": "、すぐうしろはくりのきのあるきれいなくさの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "水を噴く岩穴もあったのです。",
-      "furigana": "みずをふくいわあなもあったのです。",
+      "clause_text": "山でしたし、運動場のすみにはごぼごぼつめたい水を噴く岩穴もあったのです。",
+      "furigana": "やまでしたし、うんどうじょうのすみにはごぼごぼつめたいみずをふくいわあなもあったのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "さわやか",
-      "furigana": "さわやか",
+      "clause_text": "さわやかな",
+      "furigana": "さわやかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "な九月",
-      "furigana": "なきゅうがつ",
+      "clause_text": "九月一日の",
+      "furigana": "きゅうがつついたちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "一日の朝",
-      "furigana": "ついたちのあさ",
+      "clause_text": "朝でした。",
+      "furigana": "あさでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "でし",
-      "furigana": "でし",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "青ぞらで風が",
-      "furigana": "あおぞらでかぜが",
+      "clause_text": "青ぞらで",
+      "furigana": "あおぞらで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうと鳴り、",
-      "furigana": "どうとなり、",
+      "clause_text": "風が",
+      "furigana": "かぜが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "日光は運動場",
-      "furigana": "にっこうはうんどうじょう",
+      "clause_text": "どうと",
+      "furigana": "どうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "いっぱい",
-      "furigana": "いっぱい",
+      "clause_text": "鳴り、日光は",
+      "furigana": "なり、にっこうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "でした。",
-      "furigana": "でした。",
+      "clause_text": "運動場いっぱいでした。",
+      "furigana": "うんどうじょういっぱいでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

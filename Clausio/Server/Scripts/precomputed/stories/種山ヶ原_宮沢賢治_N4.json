@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "種山ヶ原というのは",
-      "furigana": "たねやまがはらというのは",
+      "clause_text": "種山ヶ原というのは北上山地のまん中の高原で、青黒いつるつるの蛇紋岩や、硬い橄欖岩からできています。",
+      "furigana": "たねやまがはらというのはきたかみさんちのまんなかのこうげんで、あおぐろいつるつるのじゃもんがんや、かたいかんらんがんからできています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "北上山地のまん中の高原で、",
-      "furigana": "きたかみさんちのまんなかのこうげんで、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "青黒いつるつるの蛇紋岩",
-      "furigana": "あおぐろいつるつるのじゃもんがん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "や、硬い橄欖岩",
-      "furigana": "や、かたいかんらんがん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "からできています。",
-      "furigana": "からできています。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "高原のへりから、四方",
-      "furigana": "こうげんのへりから、しほう",
+      "clause_text": "高原の",
+      "furigana": "こうげんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に出たいくつかの谷の",
-      "furigana": "にでたいくつかのたにの",
+      "clause_text": "へ",
+      "furigana": "へ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "底には、ほんの",
-      "furigana": "そこには、ほんの",
+      "clause_text": "りから、四方に",
+      "furigana": "から、しほうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "五、六軒ずつの",
-      "furigana": "ご、ろくけんずつの",
+      "clause_text": "出たいくつかの谷の底に",
+      "furigana": "でたいくつかのたにのそこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "部落があります。",
-      "furigana": "ぶらくがあります。",
+      "clause_text": "は、ほんの五、六軒ずつの部落があります。",
+      "furigana": "は、ほんのご、ろくけんずつのぶらくがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "春になると、北上の",
-      "furigana": "はるになると、ほくじょうの",
+      "clause_text": "春に",
+      "furigana": "はるに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "河谷のあちこちから、沢山",
-      "furigana": "かこくのあちこちから、たくさん",
+      "clause_text": "なると、",
+      "furigana": "なると、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の馬が連れて来",
-      "furigana": "のうまがつれてこ",
+      "clause_text": "北上の河谷の",
+      "furigana": "ほくじょうのかこくの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "られて、此の部落",
-      "furigana": "られて、このぶらく",
+      "clause_text": "あちこちから、沢山の馬が",
+      "furigana": "あちこちから、たくさんのうまが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "の人たちに預けられます。",
-      "furigana": "のひとたちにあずけられます。",
+      "clause_text": "連れて来られて、此の部落の人たちに預けられます。",
+      "furigana": "つれてこられて、このぶらくのひとたちにあずけられます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして",
-      "furigana": "そして",
+      "clause_text": "そして、",
+      "furigana": "そして、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、上の",
-      "furigana": "、うえの",
+      "clause_text": "上の",
+      "furigana": "うえの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "放され",
-      "furigana": "はなされ",
+      "clause_text": "放されます。",
+      "furigana": "はなされます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それも八月の末に",
-      "furigana": "それもはちがつのすえに",
+      "clause_text": "それも",
+      "furigana": "それも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、みんな",
-      "furigana": "は、みんな",
+      "clause_text": "八月の",
+      "furigana": "はちがつの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "めいめいの持主",
-      "furigana": "めいめいのもちぬし",
+      "clause_text": "末には",
+      "furigana": "すえには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に戻ってしまう",
-      "furigana": "にもどってしまう",
+      "clause_text": "、みんなめいめいの",
+      "furigana": "、みんなめいめいの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "持主に戻ってしまうのです。",
+      "furigana": "もちぬしにもどってしまうのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

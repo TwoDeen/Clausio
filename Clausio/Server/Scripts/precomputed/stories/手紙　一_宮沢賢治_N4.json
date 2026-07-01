@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "むかし、ある",
-      "furigana": "むかし、ある",
+      "clause_text": "むかし、",
+      "furigana": "むかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ところ",
-      "furigana": "ところ",
+      "clause_text": "あると",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "に一疋の",
-      "furigana": "にいちひきの",
+      "clause_text": "ころに",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "竜がすん",
-      "furigana": "りゅうがすん",
+      "clause_text": "一疋の竜がすんでいました。",
+      "furigana": "いちひきのりゅうがすんでいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいました。",
-      "furigana": "でいました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "力が非常に強く、かたち",
-      "furigana": "ちからがひじょうにつよく、かたち",
+      "clause_text": "力が非常に強く、かたちも大層恐ろしく、それにはげしい毒をもっていましたので、あらゆるいきものがこの竜に",
+      "furigana": "ちからがひじょうにつよく、かたちもたいそうおそろしく、それにはげしいどくをもっていましたので、あらゆるいきものがこのりゅうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "も大層恐ろしく、それにはげしい毒をもっていまし",
-      "furigana": "もたいそうおそろしく、それにはげしいどくをもっていまし",
+      "clause_text": "遭えば、弱いものは目に見ただけで気を失って倒れ、強いものでもその毒気にあたってまもなく死んでしまうほどでした。",
+      "furigana": "あえば、よわいものはめにみただけできをうしなってたおれ、つよいものでもそのどくけにあたってまもなくしんでしまうほどでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "たので、あらゆるいきものがこの竜に遭えば、弱いものは目に見ただけ",
-      "furigana": "たので、あらゆるいきものがこのりゅうにあえば、よわいものはめにみただけ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "で気を失って倒れ、強いものでもその毒気にあたっ",
-      "furigana": "できをうしなってたおれ、つよいものでもそのどくけにあたっ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "てまもなく死んでしまうほどでした。",
-      "furigana": "てまもなくしんでしまうほどでした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この竜はあるとき、",
-      "furigana": "このりゅうはあるとき、",
+      "clause_text": "この竜は",
+      "furigana": "このりゅうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "よいこころを起して、これ",
-      "furigana": "よいこころをおこして、これ",
+      "clause_text": "あると",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "からはもう悪いことをしない、すべて",
-      "furigana": "からはもうわるいことをしない、すべて",
+      "clause_text": "き、よいこころを",
+      "furigana": "、よいこころを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "のものをなやまさないと",
-      "furigana": "のものをなやまさないと",
+      "clause_text": "起して、これからはもう悪いこと",
+      "furigana": "おこして、これからはもうわるいこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "誓いました。",
-      "furigana": "ちかいました。",
+      "clause_text": "をしない、すべてのものをなやまさないと誓いました。",
+      "furigana": "をしない、すべてのものをなやまさないとちかいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして静かなところを、求め",
-      "furigana": "そしてしずかなところを、もとめ",
+      "clause_text": "そして静かなと",
+      "furigana": "そしてしずかな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "て林の中に入ってじっと",
-      "furigana": "てはやしのなかにはいってじっと",
+      "clause_text": "ころを",
+      "furigana": "を",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "道理を考えてい",
-      "furigana": "どうりをかんがえてい",
+      "clause_text": "、求めて林の",
+      "furigana": "、もとめてはやしの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ましたがとうとう",
-      "furigana": "ましたがとうとう",
+      "clause_text": "中に入ってじっと",
+      "furigana": "なかにはいってじっと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "つかれてねむりました。",
-      "furigana": "つかれてねむりました。",
+      "clause_text": "道理を考えていましたがとうとうつかれてねむりました。",
+      "furigana": "どうりをかんがえていましたがとうとうつかれてねむりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "全体、竜と",
-      "furigana": "ぜんたい、りゅうと",
+      "clause_text": "全体、",
+      "furigana": "ぜんたい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いうものはねむる",
-      "furigana": "いうものはねむる",
+      "clause_text": "竜と",
+      "furigana": "りゅうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "あいだは形",
-      "furigana": "あいだはかたち",
+      "clause_text": "いうもの",
+      "furigana": "いうもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が蛇のように",
-      "furigana": "がへびのように",
+      "clause_text": "はねむるあいだは",
+      "furigana": "はねむるあいだは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "なるのです。",
-      "furigana": "なるのです。",
+      "clause_text": "形が蛇のようになるのです。",
+      "furigana": "かたちがへびのようになるのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

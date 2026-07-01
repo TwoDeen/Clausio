@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "火皿は油煙をふりみだし",
-      "furigana": "ひざらはゆえんをふりみだし",
+      "clause_text": "火皿は油煙を",
+      "furigana": "ひざらはゆえんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、炉の向ふにはここの主人が、",
-      "furigana": "、ろのむこうにはここのしゅじんが、",
+      "clause_text": "ふりみだし、炉の",
+      "furigana": "ふりみだし、ろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "大黒柱を二きれみじかく切って",
-      "furigana": "だいこくばしらをにきれみじかくきって",
+      "clause_text": "向ふにはここの主人が、大黒柱を",
+      "furigana": "むこうにはここのしゅじんが、だいこくばしらを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "投げたといふふうにどっしりがたりと膝を",
-      "furigana": "なげたといふふうにどっしりがたりとひざを",
+      "clause_text": "二きれみじかく切って投げたといふふうに",
+      "furigana": "にきれみじかくきってなげたといふふうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "そろへて座ってゐる。",
-      "furigana": "そろへてすわっている。",
+      "clause_text": "どっしりがたりと膝をそろへて座ってゐる。",
+      "furigana": "どっしりがたりとひざをそろへてすわっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その息子",
-      "furigana": "そのむすこ",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "らがさっき",
-      "furigana": "らがさっき",
+      "clause_text": "息子らが",
+      "furigana": "むすこらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "音なく外の闇",
-      "furigana": "おとなくそとのやみ",
+      "clause_text": "さっき音なく外の",
+      "furigana": "さっきおとなくそとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "から帰っ",
-      "furigana": "からかえっ",
+      "clause_text": "闇から帰ってきた。",
+      "furigana": "やみからかえってきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "てきた。",
-      "furigana": "てきた。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "肩はばひろくけらを着て、汗ですっかり寒天みたいに黒びかり",
-      "furigana": "かたはばひろくけらをきて、あせですっかりかんてんみたいにくろびかり",
+      "clause_text": "肩はばひろくけらを",
+      "furigana": "かたはばひろくけらを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "する四匹か五匹の巨きな馬をがらんと",
-      "furigana": "するよんひきかごひきのおおきなうまをがらんと",
+      "clause_text": "着て、汗で",
+      "furigana": "きて、あせで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "くらい厩のなかへ引いて入れ、なにかいろいろまじなひ",
-      "furigana": "くらいうまやのなかへひいていれ、なにかいろいろまじなひ",
+      "clause_text": "すっかり寒天みたいに黒びかりする四匹か五匹の",
+      "furigana": "すっかりかんてんみたいにくろびかりするよんひきかごひきの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "みたいなことをしたのち土間でこっそり飯をたべ、そのまゝ",
-      "furigana": "みたいなことをしたのちどまでこっそりめしをたべ、そのまま",
+      "clause_text": "巨きな馬をがらんとくらい厩のなかへ引いて入れ、なに",
+      "furigana": "おおきなうまをがらんとくらいうまやのなかへひいていれ、なに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ころころ藁のなかだか草のなかだかうまやのちかくに寝てしまったのだ。",
-      "furigana": "ころころわらのなかだかそうのなかだかうまやのちかくにねてしまったのだ。",
+      "clause_text": "かいろいろまじなひみたいなことをしたのち土間でこっそり飯をたべ、そのまゝころころ藁のなかだか草のなかだかうまやのちかくに寝てしまったのだ。",
+      "furigana": "かいろいろまじなひみたいなことをしたのちどまでこっそりめしをたべ、そのままころころわらのなかだかそうのなかだかうまやのちかくにねてしまったのだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "もし私が何かちがったことでも云ったら、その",
-      "furigana": "もしわたくしがなんかちがったことでもいったら、その",
+      "clause_text": "もし私が",
+      "furigana": "もしわたくしが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "むすこらのどの一人でも、すぐに私を",
-      "furigana": "むすこらのどのひとりでも、すぐにわたくしを",
+      "clause_text": "何かちが",
+      "furigana": "なんか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "かた手でおもての",
-      "furigana": "かたてでおもての",
+      "clause_text": "ったことでも",
+      "furigana": "たことでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "くらやみに、連れ出すことは",
-      "furigana": "くらやみに、つれだすことは",
+      "clause_text": "云ったら、そのむすこらのどの一人でも",
+      "furigana": "いったら、そのむすこらのどのひとりでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "わけなささうだ。",
-      "furigana": "わけなささうだ。",
+      "clause_text": "、すぐに私をかた手でおもてのくらやみに、連れ出すことはわけなささうだ。",
+      "furigana": "、すぐにわたくしをかたてでおもてのくらやみに、つれだすことはわけなささうだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ねむっ",
-      "furigana": "ねむっ",
+      "clause_text": "ねむってゐる。",
+      "furigana": "ねむっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "てゐる",
-      "furigana": "ている",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

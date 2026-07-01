@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "キュースト誌宮沢賢治",
-      "furigana": "・きゅーすとし\n",
+      "clause_text": "キュースト誌宮沢賢治訳述その",
+      "furigana": "・きゅーすとし\nみやざわけんじ　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "訳述そのころわたくしは、",
-      "furigana": "　やくじゅつ\nそのころ",
+      "clause_text": "ころわたくしは、モリーオ市の博物局に勤めて居りました。",
+      "furigana": "\nそのころわたくしは、もりーおしのはくぶつきょくにつとめており",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "モリーオ市の博物",
-      "furigana": "は、もりーお",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "局に勤めて居りました。",
-      "furigana": "しのはくぶつきょくにつとめており",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "十八等官でしたから役所のなかでも、ずうっと",
-      "furigana": "じゅうはちとうかんでしたからやくしょのなかでも、ずうっと",
+      "clause_text": "十八等官で",
+      "furigana": "じゅうはちとうかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "下の方でしたし俸給もほんのわずかでし",
-      "furigana": "したのかたでしたしほうきゅうもほんのわずかでし",
+      "clause_text": "したから役所の",
+      "furigana": "たからやくしょの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "たが、受持ちが標本の採集",
-      "furigana": "たが、うけもちがひょうほんのさいしゅう",
+      "clause_text": "なかでも、ずうっと下の",
+      "furigana": "なかでも、ずうっとしたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "や整理で生れ付き好きなことでしたから、",
-      "furigana": "やせいりでうまれつきすきなことでしたから、",
+      "clause_text": "方でしたし俸給もほんのわずかでしたが、受持ちが",
+      "furigana": "かたでしたしほうきゅうもほんのわずかでしたが、うけもちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "わたくしは毎日ずいぶん愉快にはたらきました。",
-      "furigana": "わたくしはまいにちずいぶんゆかいにはたらきました。",
+      "clause_text": "標本の採集や整理で生れ付き好きなことでしたから、わたくしは毎日ずいぶん愉快にはたらきました。",
+      "furigana": "ひょうほんのさいしゅうやせいりでうまれつきすきなことでしたから、わたくしはまいにちずいぶんゆかいにはたらきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "殊にそのころ、モリーオ市では競馬場を植物園に拵え直すというので、その",
-      "furigana": "ことにそのころ、もりーおしではけいばじょうをしょくぶつえんにこしらえなおすというので、その",
+      "clause_text": "殊にそのころ、モリーオ市で",
+      "furigana": "ことにそのころ、もりーおしで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "景色のいいまわりにアカシヤを植え込んだ広い地面が、切符売場や信号所の建物のついたまま、",
-      "furigana": "けしきのいいまわりにあかしやをうえこんだひろいじめんが、きっぷうりばやしんごうしょのたてもののついたまま、",
+      "clause_text": "は競馬場を植物園に",
+      "furigana": "はけいばじょうをしょくぶつえんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "わたくしどもの役所の方へまわって来たものですから、わたくしはすぐ宿直という",
-      "furigana": "わたくしどものやくしょのほうへまわってきたものですから、わたくしはすぐしゅくちょくという",
+      "clause_text": "拵え直すというので、その景色のいいまわりに",
+      "furigana": "こしらえなおすというので、そのけしきのいいまわりに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "名前で月賦で買った小さな蓄音器と二十枚ばかりの",
-      "furigana": "なまえでげっぷでかったちいさなちくおんきとにじゅうまいばかりの",
+      "clause_text": "アカシヤを植え込んだ広い地面が、切符売場や信号所の建物のついたまま、わたくしども",
+      "furigana": "あかしやをうえこんだひろいじめんが、きっぷうりばやしんごうしょのたてもののついたまま、わたくしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "レコードをもって、その番小屋にひとり住むことになりました。",
-      "furigana": "れこーどをもって、そのばんごやにひとりすむことになりました。",
+      "clause_text": "の役所の方へまわって来たものですから、わたくしはすぐ宿直という名前で月賦で買った小さな蓄音器と二十枚ばかりのレコードをもって、その番小屋にひとり住むことになりました。",
+      "furigana": "のやくしょのほうへまわってきたものですから、わたくしはすぐしゅくちょくというなまえでげっぷでかったちいさなちくおんきとにじゅうまいばかりのれこーどをもって、そのばんごやにひとりすむことになりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "わたくしはそこの馬を",
-      "furigana": "わたくしはそこのうまを",
+      "clause_text": "わたくしはそこの馬を置く場所に板で小さなしきいをつけて一疋の山羊を飼いました。",
+      "furigana": "わたくしはそこのうまをおくばしょにいたでちいさなしきいをつけていちひきのやぎをかいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "置く場所に板で小さな",
-      "furigana": "おくばしょにいたでちいさな",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "しきいをつけ",
-      "furigana": "しきいをつけ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "て一疋の山羊を",
-      "furigana": "ていちひきのやぎを",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "飼いました。",
-      "furigana": "かいました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "毎朝その乳をしぼってつめたいパンをひたしてたべ、それから",
-      "furigana": "まいあさそのちちをしぼってつめたいぱんをひたしてたべ、それから",
+      "clause_text": "毎朝その乳を",
+      "furigana": "まいあさそのちちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "黒い革のかばんへすこしの書類や雑誌を入れ",
-      "furigana": "くろいかわのかばんへすこしのしょるいやざっしをいれ",
+      "clause_text": "しぼってつめたいパンを",
+      "furigana": "しぼってつめたいぱんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、靴もきれいにみがき、並木の",
-      "furigana": "、くつもきれいにみがき、なみきの",
+      "clause_text": "ひたしてたべ、それから",
+      "furigana": "ひたしてたべ、それから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ポプラの影法師を大股にわたって市の役所",
-      "furigana": "ぽぷらのかげぼうしをおおまたにわたってしのやくしょ",
+      "clause_text": "黒い革のかばんへすこしの書類や雑誌を",
+      "furigana": "くろいかわのかばんへすこしのしょるいやざっしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "へ出て行くのでした。",
-      "furigana": "へでていくのでした。",
+      "clause_text": "入れ、靴もきれいにみがき、並木のポプラの影法師を大股にわたって市の役所へ出て行くのでした。",
+      "furigana": "いれ、くつもきれいにみがき、なみきのぽぷらのかげぼうしをおおまたにわたってしのやくしょへでていくのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

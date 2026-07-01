@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ウクライナ",
-      "furigana": "ウクライナ",
+      "clause_text": "ウクライナに",
+      "furigana": "ウクライナに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "に攻撃を始め",
-      "furigana": "にこうげきをはじめ",
+      "clause_text": "攻撃を",
+      "furigana": "こうげきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "てから4年4",
-      "furigana": "てから4ねん4",
+      "clause_text": "始めてから4年4か月になります。",
+      "furigana": "はじめてから4ねん4かげつになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か月になります。",
-      "furigana": "かげつになります。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ウクライナのゼレンスキー",
-      "furigana": "ウクライナのゼレンスキー",
+      "clause_text": "ウクライナの",
+      "furigana": "ウクライナの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "大統領は、20",
-      "furigana": "だいとうりょうは、20",
+      "clause_text": "ゼレンスキー大統領は",
+      "furigana": "ゼレンスキーだいとうりょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "日、ロシアの西シベリア",
-      "furigana": "日、ロシアのにしシベリア",
+      "clause_text": "、20日、ロシアの",
+      "furigana": "、はつか、ロシアの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "にある石油の工場を、新しい",
-      "furigana": "にあるせきゆのこうじょうを、あたらしい",
+      "clause_text": "西シベリアに",
+      "furigana": "にしシベリアに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ドローンで攻撃したと言いました。",
-      "furigana": "ドローンでこうげきしたといいました。",
+      "clause_text": "ある石油の工場を、新しいドローンで攻撃したと言いました。",
+      "furigana": "あるせきゆのこうじょうを、あたらしいドローンでこうげきしたといいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "から2000",
-      "furigana": "から2000",
+      "clause_text": "から",
+      "furigana": "から",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "km以上",
-      "furigana": "kmいじょう",
+      "clause_text": "2000km以上遠いところです。",
+      "furigana": "2000kmいじょうとおいところです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "遠いところ",
-      "furigana": "とおいところ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "新しい",
-      "furigana": "あたらしい",
+      "clause_text": "新しいドローンは",
+      "furigana": "あたらしいドローンは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ドローンは、",
-      "furigana": "ドローンは、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ウクライナ",
-      "furigana": "ウクライナ",
+      "clause_text": "ウクライナの",
+      "furigana": "ウクライナの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の会社がつくり",
-      "furigana": "のかいしゃがつくり",
+      "clause_text": "会社がつくりました。",
+      "furigana": "かいしゃがつくりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "3000",
-      "furigana": "3000",
+      "clause_text": "3000km飛んで攻撃することができるそうです。",
+      "furigana": "3000kmとんでこうげきすることができるそうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "km飛んで",
-      "furigana": "kmとんで",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "攻撃することが",
-      "furigana": "こうげきすることが",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "できるそう",
-      "furigana": "できるそう",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

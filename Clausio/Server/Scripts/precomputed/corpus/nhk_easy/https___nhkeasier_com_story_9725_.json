@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の選手たち",
-      "furigana": "にっぽんのせんしゅたち",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、18日、次の",
-      "furigana": "は、18にち、つぎの",
+      "clause_text": "選手たちは",
+      "furigana": "せんしゅたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "試合があるメキシコの",
-      "furigana": "しあいがあるメキシコの",
+      "clause_text": "、18日、",
+      "furigana": "、18にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "モンテレイ",
-      "furigana": "モンテレイ",
+      "clause_text": "次の試合が",
+      "furigana": "つぎのしあいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に着きました。",
-      "furigana": "にききました。",
+      "clause_text": "あるメキシコのモンテレイに着きました。",
+      "furigana": "あるメキシコのモンテレイにききました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ホテルでは、",
-      "furigana": "ホテルでは、",
+      "clause_text": "ホテルで",
+      "furigana": "ホテルで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "子どもたちが日本の",
-      "furigana": "こどもたちがにっぽんの",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ユニフォーム",
-      "furigana": "ユニフォーム",
+      "clause_text": "、子ども",
+      "furigana": "、こども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を着て、選手たちを",
-      "furigana": "をきて、せんしゅたちを",
+      "clause_text": "たちが日本の",
+      "furigana": "たちがにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "迎えました。",
-      "furigana": "むかえました。",
+      "clause_text": "ユニフォームを着て、選手たちを迎えました。",
+      "furigana": "ユニフォームをきて、せんしゅたちをむかえました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "メキシコ",
-      "furigana": "メキシコ",
+      "clause_text": "メキシコに",
+      "furigana": "メキシコに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に住む日本の",
-      "furigana": "にすむにっぽんの",
+      "clause_text": "住む日本の",
+      "furigana": "すむにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "中学生は「試合",
-      "furigana": "ちゅうがくせいは「しあい",
+      "clause_text": "中学生は",
+      "furigana": "ちゅうがくせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "を見に行き",
-      "furigana": "をみにいき",
+      "clause_text": "「試合を見に行きます。",
+      "furigana": "「しあいをみにいきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本に勝って",
-      "furigana": "にっぽんにかって",
+      "clause_text": "日本に勝ってほしいです」と話していました。",
+      "furigana": "にっぽんにかってほしいです」とはなしていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほしいです」",
-      "furigana": "ほしいです」",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "と話し",
-      "furigana": "とはなし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ていまし",
-      "furigana": "ていまし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本の時間で",
-      "furigana": "にっぽんのじかんで",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "21日、日本は",
-      "furigana": "21にち、にっぽんは",
+      "clause_text": "時間で",
+      "furigana": "じかんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "チュニジア",
-      "furigana": "チュニジア",
+      "clause_text": "21日、",
+      "furigana": "21にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と試合をし",
-      "furigana": "としあいをし",
+      "clause_text": "日本は",
+      "furigana": "にっぽんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "チュニジアと試合をします。",
+      "furigana": "チュニジアとしあいをします。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

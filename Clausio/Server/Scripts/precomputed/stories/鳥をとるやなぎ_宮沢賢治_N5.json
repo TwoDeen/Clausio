@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「煙山に",
-      "furigana": "「けむりやまに",
+      "furigana": "きごうけむりやまに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "エレッキ",
-      "furigana": "えれっき",
+      "clause_text": "エレッキの",
+      "furigana": "えれっきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "のやなぎ",
-      "furigana": "のやなぎ",
+      "clause_text": "やなぎの",
+      "furigana": "やなぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の木が",
-      "furigana": "のきが",
+      "clause_text": "木が",
+      "furigana": "きが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」藤原",
-      "furigana": "」\n",
+      "clause_text": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "慶次郎が",
-      "furigana": "けいじろう",
+      "clause_text": "藤原慶次郎が",
+      "furigana": "\nふじわらけいじろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "だしぬけ",
-      "furigana": "が",
+      "clause_text": "だしぬけに",
+      "furigana": "がだしぬけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に私に",
-      "furigana": "にわたくし",
+      "clause_text": "私に云いました。",
+      "furigana": "にわたくしにいいました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "云いました。",
-      "furigana": "にいいました",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "私たちがみんな教室に",
-      "furigana": "わたしたちがみんなきょうしつに",
+      "clause_text": "私たちが",
+      "furigana": "わたしたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "入って、机に座り、",
-      "furigana": "はいって、つくえにすわり、",
+      "clause_text": "みんな教室に",
+      "furigana": "みんなきょうしつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "先生はまだ教員",
-      "furigana": "せんせいはまだきょういん",
+      "clause_text": "入って、机に",
+      "furigana": "はいって、つくえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "室に寄って",
-      "furigana": "しつによって",
+      "clause_text": "座り、先生は",
+      "furigana": "すわり、せんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "いる間でした。",
-      "furigana": "いるあいだでした。",
+      "clause_text": "まだ教員室に寄っている間でした。",
+      "furigana": "まだきょういんしつによっているあいだでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "はじめ頃だっ",
-      "furigana": "はじめころだっ",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "たと思い",
-      "furigana": "たとおもい",
+      "clause_text": "じめ頃だったと思います。",
+      "furigana": "ころだったとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「エレキ",
-      "furigana": "「えれき",
+      "clause_text": "「エレキの",
+      "furigana": "きごうえれきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の楊",
-      "furigana": "のよう",
+      "clause_text": "楊の",
+      "furigana": "ようの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "木？",
+      "furigana": "き?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "木",
-      "furigana": "き",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "？",
-      "furigana": "?",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

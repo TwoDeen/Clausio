@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "襲い",
-      "furigana": "おそい",
+      "clause_text": "襲いました。",
+      "furigana": "おそいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "17日午前6時",
-      "furigana": "17にちごぜん6じ",
+      "clause_text": "17日午前6時ごろ、石川県小松市の山の近くで、熊が80歳ぐらいの男性を襲いました。",
+      "furigana": "17にちごぜん6じごろ、いしかわけんこまつしのやまのちかくで、くまが80さいぐらいのだんせいをおそいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ごろ、石川県小松市",
-      "furigana": "ごろ、いしかわけんこまつし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の山の近くで、",
-      "furigana": "のやまのちかくで、",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "熊が80歳ぐらいの男性",
-      "furigana": "くまが80さいぐらいのだんせい",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を襲いました。",
-      "furigana": "をおそいました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "男性は顔",
-      "furigana": "だんせいはかお",
+      "clause_text": "男性は",
+      "furigana": "だんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "などに",
-      "furigana": "などに",
+      "clause_text": "顔などに",
+      "furigana": "かおなどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "けがをし",
-      "furigana": "けがをし",
+      "clause_text": "けがをしました。",
+      "furigana": "けがをしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "男性は田んぼ",
-      "furigana": "だんせいはたんぼ",
+      "clause_text": "男性は",
+      "furigana": "だんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の近く",
-      "furigana": "のちかく",
+      "clause_text": "田んぼの",
+      "furigana": "たんぼの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "を散歩",
-      "furigana": "をさんぽ",
+      "clause_text": "近くを",
+      "furigana": "ちかくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "してい",
-      "furigana": "してい",
+      "clause_text": "散歩していました。",
+      "furigana": "さんぽしていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "警察によると、",
-      "furigana": "けいさつによると、",
+      "clause_text": "警察に",
+      "furigana": "けいさつに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "男性を襲っ",
-      "furigana": "だんせいをおそっ",
+      "clause_text": "よると",
+      "furigana": "よると",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "た熊は",
-      "furigana": "たくまは",
+      "clause_text": "、男性を",
+      "furigana": "、だんせいを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "見つかっ",
-      "furigana": "みつかっ",
+      "clause_text": "襲った熊は",
+      "furigana": "おそったくまは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ていません。",
-      "furigana": "ていません。",
+      "clause_text": "見つかっていません。",
+      "furigana": "みつかっていません。",
       "sentence_individual_grammar_level": "N3"
     }
   ]

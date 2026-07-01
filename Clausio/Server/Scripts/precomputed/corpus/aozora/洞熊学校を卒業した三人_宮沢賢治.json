@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "※赤い手の長い蜘蛛と、銀",
-      "furigana": "きごう\nあかいてのながいくもと、",
+      "clause_text": "※赤い手の",
+      "furigana": "きごう\nあかいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "いろのなめくぢ",
-      "furigana": "ぎんいろの",
+      "clause_text": "長い蜘蛛と",
+      "furigana": "のながいくも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "と、顔を洗ったことのない",
-      "furigana": "と、かおをあらったことの",
+      "clause_text": "、銀いろの",
+      "furigana": "と、ぎんいろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "狸が、いっしょ",
-      "furigana": "たぬきが、",
+      "clause_text": "なめくぢと、顔を",
+      "furigana": "のなめくぢと、かお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に洞熊学校にはひりました。",
-      "furigana": "にほらくまがっこうにはひりました",
+      "clause_text": "洗ったことのない狸が、いっしょに洞熊学校にはひりました。",
+      "furigana": "をあらったことのないたぬきが、いっしょにほらくまがっこうにはひりました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "教へる",
-      "furigana": "おしえる",
+      "clause_text": "教へ",
+      "furigana": "きょうへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "こと",
-      "furigana": "こと",
+      "clause_text": "ることは三つでした。",
+      "furigana": "ことはみっつでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "は三つ",
-      "furigana": "はみっつ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "でした。",
-      "furigana": "でした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "一年生のときは、",
-      "furigana": "いちねんせいのときは、",
+      "clause_text": "一年生の",
+      "furigana": "いちねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "うさぎと亀のかけくらのことで、",
-      "furigana": "うさぎとかめのかけくらのことで、",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "も一つは大きいものが",
-      "furigana": "もひとつはおおきいものが",
+      "clause_text": "きは、うさぎと",
+      "furigana": "は、うさぎと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いちばん立派だと",
-      "furigana": "いちばんりっぱだと",
+      "clause_text": "亀のかけくらのことで、も",
+      "furigana": "かめのかけくらのことで、も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "いふことでした。",
-      "furigana": "いふことでした。",
+      "clause_text": "一つは大きいものがいちばん立派だといふことでした。",
+      "furigana": "ひとつはおおきいものがいちばんりっぱだといふことでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "三人はみんな",
-      "furigana": "さんにんはみんな",
+      "clause_text": "三人は",
+      "furigana": "さんにんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "一番にならう",
-      "furigana": "いちばんにならう",
+      "clause_text": "みんな一番に",
+      "furigana": "みんないちばんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "と一生けん命",
-      "furigana": "といっしょうけんめい",
+      "clause_text": "ならうと一生けん命競争しました。",
+      "furigana": "ならうといっしょうけんめいきょうそうしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "競争しました。",
-      "furigana": "きょうそうしました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一年生のときは、",
-      "furigana": "いちねんせいのときは、",
+      "clause_text": "一年生の",
+      "furigana": "いちねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "なめくぢと狸が",
-      "furigana": "なめくぢとたぬきが",
+      "clause_text": "ときは",
+      "furigana": "ときは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "しじゅう遅刻して",
-      "furigana": "しじゅうちこくして",
+      "clause_text": "、なめくぢと",
+      "furigana": "、なめくぢと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "罰を食ったために蜘蛛が",
-      "furigana": "ばつをくったためにくもが",
+      "clause_text": "狸がしじゅう遅刻して罰を",
+      "furigana": "たぬきがしじゅうちこくしてばつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "一番になった。",
-      "furigana": "いちばんになった。",
+      "clause_text": "食ったために蜘蛛が一番になった。",
+      "furigana": "くったためにくもがいちばんになった。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

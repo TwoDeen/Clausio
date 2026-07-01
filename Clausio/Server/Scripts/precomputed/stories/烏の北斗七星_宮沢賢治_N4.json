@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "つめたいいぢの悪い雲が、地べたに",
-      "furigana": "つめたいいぢのわるいくもが、じべたに",
+      "clause_text": "つめたいいぢの",
+      "furigana": "つめたいいぢの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "すれすれに垂れましたの",
-      "furigana": "すれすれにたれましたの",
+      "clause_text": "悪い雲が",
+      "furigana": "わるいくもが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、野はらは雪の",
-      "furigana": "で、のはらはゆきの",
+      "clause_text": "、地べたに",
+      "furigana": "、じべたに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あかりだか、日のあかり",
-      "furigana": "あかりだか、ひのあかり",
+      "clause_text": "すれすれに垂れましたので、野は",
+      "furigana": "すれすれにたれましたので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だか判らないやうになりました。",
-      "furigana": "だかわからないやうになりました。",
+      "clause_text": "らは雪のあかりだか、日のあかりだか判らないやうになりました。",
+      "furigana": "はゆきのあかりだか、ひのあかりだかわからないやうになりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "烏の義勇艦隊は、その雲に圧しつけ",
-      "furigana": "からすのぎゆうかんたいは、そのくもにおしつけ",
+      "clause_text": "烏の",
+      "furigana": "からすの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "られて、しかたなく",
-      "furigana": "られて、しかたなく",
+      "clause_text": "義勇艦隊は",
+      "furigana": "ぎゆうかんたいは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ちよつとの間、亜鉛の板をひろげ",
-      "furigana": "ちよつとのあいだ、あえんのいたをひろげ",
+      "clause_text": "、その雲に",
+      "furigana": "、そのくもに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たやうな雪の田圃のうへ",
-      "furigana": "たやうなゆきのたんぼのうへ",
+      "clause_text": "圧しつけられて、しかたなくちよつとの間、亜鉛の板を",
+      "furigana": "おしつけられて、しかたなくちよつとのあいだ、あえんのいたを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "に横にならんで仮泊といふことをやりました。",
-      "furigana": "によこにならんでかはくといふことをやりました。",
+      "clause_text": "ひろげたやうな雪の田圃のうへに横にならんで仮泊といふことをやりました。",
+      "furigana": "ひろげたやうなゆきのたんぼのうへによこにならんでかはくといふことをやりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "どの艦も",
-      "furigana": "どのかんも",
+      "clause_text": "どの",
+      "furigana": "どの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すこし",
-      "furigana": "すこし",
+      "clause_text": "艦も",
+      "furigana": "かんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "も動き",
-      "furigana": "もうごき",
+      "clause_text": "すこしも",
+      "furigana": "すこしも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ませ",
-      "furigana": "ませ",
+      "clause_text": "動きません。",
+      "furigana": "うごきません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "まつ黒くなめらか",
-      "furigana": "まつくろくなめらか",
+      "clause_text": "まつ黒くなめらかな烏の",
+      "furigana": "まつくろくなめらかなからすの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "な烏の大尉、若い艦隊",
-      "furigana": "なからすのたいい、わかいかんたい",
+      "clause_text": "大尉、",
+      "furigana": "たいい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "長もしやんと",
-      "furigana": "ちょうもしやんと",
+      "clause_text": "若い艦隊長も",
+      "furigana": "わかいかんたいちょうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "立つたまゝ",
-      "furigana": "たつたまま",
+      "clause_text": "しやんと立つたまゝうごきません。",
+      "furigana": "しやんとたつたままうごきません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "うごきません。",
-      "furigana": "うごきません。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "からすの大",
-      "furigana": "からすのだい",
+      "clause_text": "から",
+      "furigana": "から",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "監督はなほさら",
-      "furigana": "かんとくはなほさら",
+      "clause_text": "すの",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "うごきも",
-      "furigana": "うごきも",
+      "clause_text": "大監督は",
+      "furigana": "だいかんとくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゆらぎもいたし",
-      "furigana": "ゆらぎもいたし",
+      "clause_text": "なほさらうごきも",
+      "furigana": "なほさらうごきも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "ゆらぎもいたしません。",
+      "furigana": "ゆらぎもいたしません。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

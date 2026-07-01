@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "19日、",
-      "furigana": "19にち、",
+      "clause_text": "19日、東京の小学校で火事がありました。",
+      "furigana": "19にち、とうきょうのしょうがっこうでかじがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "東京の小学校",
-      "furigana": "とうきょうのしょうがっこう",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で火事",
-      "furigana": "でかじ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "があり",
-      "furigana": "があり",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "午前11時",
-      "furigana": "ごぜん11じ",
+      "clause_text": "午前11時ごろ、",
+      "furigana": "ごぜん11じごろ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ごろ、東京の",
-      "furigana": "ごろ、とうきょうの",
+      "clause_text": "東京の",
+      "furigana": "とうきょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "北区にある滝野川第三",
-      "furigana": "きたくにあるたきのがわだいさん",
+      "clause_text": "北区に",
+      "furigana": "きたくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "小学校で火事",
-      "furigana": "しょうがっこうでかじ",
+      "clause_text": "ある滝野川第三小学校で火事がありました。",
+      "furigana": "あるたきのがわだいさんしょうがっこうでかじがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "がありました。",
-      "furigana": "がありました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "4階にある",
-      "furigana": "4かいにある",
+      "clause_text": "4階に",
+      "furigana": "4かいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "音楽室の近く",
-      "furigana": "おんがくしつのちかく",
+      "clause_text": "ある音楽室の",
+      "furigana": "あるおんがくしつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "から黒い",
-      "furigana": "からくろい",
+      "clause_text": "近くから",
+      "furigana": "ちかくから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "煙が出てい",
-      "furigana": "けむりがでてい",
+      "clause_text": "黒い煙が出ていました。",
+      "furigana": "くろいけむりがでていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "消防車など75",
-      "furigana": "しょうぼうしゃなど75",
+      "clause_text": "消防車など75台が",
+      "furigana": "しょうぼうしゃなど75だいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "台が小学校",
-      "furigana": "だいがしょうがっこう",
+      "clause_text": "小学校に",
+      "furigana": "しょうがっこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "に行っ",
-      "furigana": "にいっ",
+      "clause_text": "行って、火を消しました。",
+      "furigana": "いって、ひをけしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "て、火を",
-      "furigana": "て、ひを",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "消しました。",
-      "furigana": "けしました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "小学校には、",
-      "furigana": "しょうがっこうには、",
+      "clause_text": "小学校に",
+      "furigana": "しょうがっこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "子どもや先生",
-      "furigana": "こどもやせんせい",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "などが350人",
-      "furigana": "などが350にん",
+      "clause_text": "子ども",
+      "furigana": "こども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぐらい",
-      "furigana": "ぐらい",
+      "clause_text": "や先生などが",
+      "furigana": "やせんせいなどが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "いました。",
-      "furigana": "いました。",
+      "clause_text": "350人ぐらいいました。",
+      "furigana": "350にんぐらいいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

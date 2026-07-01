@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしたちは、氷砂糖を",
-      "furigana": "わたしたちは、こおりざとうを",
+      "clause_text": "わたしたちは",
+      "furigana": "わたしたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほしいくらゐもたない",
-      "furigana": "ほしいくらいもたない",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "でも、きれいにすきとほつ",
-      "furigana": "でも、きれいにすきとほつ",
+      "clause_text": "氷砂糖を",
+      "furigana": "こおりざとうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "た風をたべ、桃いろのうつくしい",
-      "furigana": "たかぜをたべ、ももいろのうつくしい",
+      "clause_text": "ほしいくらゐもたないでも、きれいにすきと",
+      "furigana": "ほしいくらいもたないでも、きれいにすきと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "朝の日光をのむことができます。",
-      "furigana": "あさのにっこうをのむことができます。",
+      "clause_text": "ほつた風をたべ、桃いろのうつくしい朝の日光をのむことができます。",
+      "furigana": "ほつたかぜをたべ、ももいろのうつくしいあさのにっこうをのむことができます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "またわたくしは、はたけや森の中",
-      "furigana": "またわたくしは、はたけやもりのなか",
+      "clause_text": "またわたくしは",
+      "furigana": "またわたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、ひどいぼろぼろのきものが、",
-      "furigana": "で、ひどいぼろぼろのきものが、",
+      "clause_text": "、は",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いちばんすばらしいびろうどや羅紗",
-      "furigana": "いちばんすばらしいびろうどやらしゃ",
+      "clause_text": "たけや森の",
+      "furigana": "やもりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "や、宝石いりのきもの",
-      "furigana": "や、ほうせきいりのきもの",
+      "clause_text": "中で、ひどいぼろぼろのきものが",
+      "furigana": "なかで、ひどいぼろぼろのきものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、かはつてゐるのをたびたび見ました。",
-      "furigana": "に、かはつているのをたびたびみました。",
+      "clause_text": "、いちばんすばらしいびろうどや羅紗や、宝石いりのきものに、かはつてゐるのをたびたび見ました。",
+      "furigana": "、いちばんすばらしいびろうどやらしゃや、ほうせきいりのきものに、かはつているのをたびたびみました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "わたくし",
-      "furigana": "わたくし",
+      "clause_text": "わたくしは",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、さういふ",
-      "furigana": "は、さういふ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "きれいなたべもの",
-      "furigana": "きれいなたべもの",
+      "clause_text": "さういふきれいなたべも",
+      "furigana": "さういふきれいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "やきもの",
-      "furigana": "やきもの",
+      "clause_text": "のやきものをすきです。",
+      "furigana": "やきものをすきです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "をすきです。",
-      "furigana": "をすきです。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "これらのわたくし",
-      "furigana": "これらのわたくし",
+      "clause_text": "これらの",
+      "furigana": "これらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "のおはなしは、みんな",
-      "furigana": "のおはなしは、みんな",
+      "clause_text": "わたくしの",
+      "furigana": "わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "林や野はらや鉄道線路やら",
-      "furigana": "はやしやのはらやてつどうせんろやら",
+      "clause_text": "おはなしは、",
+      "furigana": "おはなしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "で、虹や月あかりからもら",
-      "furigana": "で、にじやつきあかりからもら",
+      "clause_text": "みんな林や野は",
+      "furigana": "みんなはやしや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "つてきたのです。",
-      "furigana": "つてきたのです。",
+      "clause_text": "らや鉄道線路やらで、虹や月あかりからもらつてきたのです。",
+      "furigana": "やてつどうせんろやらで、にじやつきあかりからもらつてきたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ほんたうに、かしはばやしの青い夕方を、",
-      "furigana": "ほんたうに、かしはばやしのあおいゆうがたを、",
+      "clause_text": "ほんたうに、",
+      "furigana": "ほんたうに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひとりで通りかかつたり、十一月の山の風の",
-      "furigana": "ひとりでとおりかかつたり、じゅういちがつのやまのかぜの",
+      "clause_text": "かしはばやしの",
+      "furigana": "かしはばやしの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "なかに、ふるへながら立つ",
-      "furigana": "なかに、ふるへながらたつ",
+      "clause_text": "青い夕方を、ひとりで",
+      "furigana": "あおいゆうがたを、ひとりで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "たりしますと、もうどうしてもこんな",
-      "furigana": "たりしますと、もうどうしてもこんな",
+      "clause_text": "通りかかつたり、十一月の山の風のなかに",
+      "furigana": "とおりかかつたり、じゅういちがつのやまのかぜのなかに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "気がしてしかたないのです。",
-      "furigana": "きがしてしかたないのです。",
+      "clause_text": "、ふるへながら立つたりしますと、もうどうしてもこんな気がしてしかたないのです。",
+      "furigana": "、ふるへながらたつたりしますと、もうどうしてもこんなきがしてしかたないのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

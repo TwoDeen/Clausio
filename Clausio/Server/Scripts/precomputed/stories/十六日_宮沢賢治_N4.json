@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "よく晴れ",
-      "furigana": "よくはれ",
+      "clause_text": "よく晴れて前の",
+      "furigana": "よくはれてまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "て前の谷川も",
-      "furigana": "てまえのたにがわも",
+      "clause_text": "谷川も",
+      "furigana": "たにがわも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いつもとまるで",
-      "furigana": "いつもとまるで",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ちがって楽しく",
-      "furigana": "ちがってたのしく",
+      "clause_text": "とまるで",
+      "furigana": "とまるで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ごろごろ鳴った。",
-      "furigana": "ごろごろなった。",
+      "clause_text": "ちがって楽しくごろごろ鳴った。",
+      "furigana": "ちがってたのしくごろごろなった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "盆の十六日なので鉱山も休んで給料は呉れ畑の",
-      "furigana": "ぼんのじゅうろくにちなのでこうざんもやすんできゅうりょうはくれはたけの",
+      "clause_text": "盆の十六日なの",
+      "furigana": "ぼんのじゅうろくにちなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "仕事も一段落ついて今日こそ",
-      "furigana": "しごともいちだんらくついてきょうこそ",
+      "clause_text": "で鉱山も",
+      "furigana": "でこうざんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "一日そこらの木やとうもろこし",
-      "furigana": "ついたちそこらのきやとうもろこし",
+      "clause_text": "休んで給料は呉れ畑の",
+      "furigana": "やすんできゅうりょうはくれはたけの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を吹く風も家のなかの煙に射す青い光の棒も",
-      "furigana": "をふくかぜもいえのなかのけむりにさすあおいひかりのぼうも",
+      "clause_text": "仕事も一段落ついて今日こそ一日そこらの",
+      "furigana": "しごともいちだんらくついてきょうこそついたちそこらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんな二人のものだった。",
-      "furigana": "みんなふたりのものだった。",
+      "clause_text": "木やとうもろこしを吹く風も家のなかの煙に射す青い光の棒もみんな二人のものだった。",
+      "furigana": "きやとうもろこしをふくかぜもいえのなかのけむりにさすあおいひかりのぼうもみんなふたりのものだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "おみちは朝から",
-      "furigana": "おみちはあさから",
+      "clause_text": "おみちは",
+      "furigana": "おみちは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "畑にあるもので食べ",
-      "furigana": "はたけにあるものでたべ",
+      "clause_text": "朝から",
+      "furigana": "あさから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "られるものを",
-      "furigana": "られるものを",
+      "clause_text": "畑に",
+      "furigana": "はたけに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "集めていろいろに",
-      "furigana": "あつめていろいろに",
+      "clause_text": "あるもので食べられるも",
+      "furigana": "あるものでたべられる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "取り合せてみた。",
-      "furigana": "とりあわせてみた。",
+      "clause_text": "のを集めていろいろに取り合せてみた。",
+      "furigana": "をあつめていろいろにとりあわせてみた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "嘉吉は朝いつもの時刻",
-      "furigana": "かきつはあさいつものじこく",
+      "clause_text": "嘉吉は",
+      "furigana": "かきつは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に眼をさましてから寝そべっ",
-      "furigana": "にめをさましてからねそべっ",
+      "clause_text": "朝いつも",
+      "furigana": "あさいつも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "たまま煙草を二、三服ふかし",
-      "furigana": "たままたばこをに、さんふくふかし",
+      "clause_text": "の時刻に眼を",
+      "furigana": "のじこくにめを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "てまたすうすう",
-      "furigana": "てまたすうすう",
+      "clause_text": "さましてから寝そべったまま煙草を",
+      "furigana": "さましてからねそべったままたばこを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "眠ってしまった。",
-      "furigana": "ねむってしまった。",
+      "clause_text": "二、三服ふかしてまたすうすう眠ってしまった。",
+      "furigana": "に、さんふくふかしてまたすうすうねむってしまった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "この一年に二日しかない恐らくは太陽",
-      "furigana": "このいちねんにふたかしかないおそらくはたいよう",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "からも許されそうな休みの日",
-      "furigana": "からもゆるされそうなやすみのひ",
+      "clause_text": "一年に",
+      "furigana": "いちねんに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "を外では鳥が針の",
-      "furigana": "をそとではとりがはりの",
+      "clause_text": "二日しかない恐らくは",
+      "furigana": "ふたかしかないおそらくは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ように啼き日光がしんしん",
-      "furigana": "ようになきにっこうがしんしん",
+      "clause_text": "太陽からも許されそうな休みの",
+      "furigana": "たいようからもゆるされそうなやすみの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "と降った。",
-      "furigana": "とふった。",
+      "clause_text": "日を外では鳥が針のように啼き日光がしんしんと降った。",
+      "furigana": "ひをそとではとりがはりのようになきにっこうがしんしんとふった。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

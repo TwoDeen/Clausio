@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "経済格差の拡大が社会的",
-      "furigana": "経済格差の拡大が社会的",
+      "clause_text": "経済格差の",
+      "furigana": "経済格差の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "分断を招きかね",
-      "furigana": "分断を招きかね",
+      "clause_text": "拡大が",
+      "furigana": "拡大が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ないという懸念",
-      "furigana": "ないという懸念",
+      "clause_text": "社会的分断を",
+      "furigana": "社会的分断を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が、国際社会の間で",
-      "furigana": "が、国際社会の間で",
+      "clause_text": "招きかねないと",
+      "furigana": "招きかねないと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "広がっている。",
-      "furigana": "広がっている。",
+      "clause_text": "いう懸念が、国際社会の間で広がっている。",
+      "furigana": "いう懸念が、国際社会の間で広がっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "持続可能な発展を実現する",
-      "furigana": "持続可能な発展を実現する",
+      "clause_text": "持続可能な発展を",
+      "furigana": "持続可能な発展を",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ためには、短期的な利益",
-      "furigana": "ためには、短期的な利益",
+      "clause_text": "実現するために",
+      "furigana": "実現するために",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "よりも長期的",
-      "furigana": "よりも長期的",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "な視野に立っ",
-      "furigana": "な視野に立っ",
+      "clause_text": "短期的な利益より",
+      "furigana": "短期的な利益より",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た政策が求められる。",
-      "furigana": "た政策が求められる。",
+      "clause_text": "も長期的な視野に立った政策が求められる。",
+      "furigana": "も長期的な視野に立った政策が求められる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "人工知能の急速な発展は、",
-      "furigana": "人工知能の急速な発展は、",
+      "clause_text": "人工知能の",
+      "furigana": "人工知能の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "労働市場に根本的",
-      "furigana": "労働市場に根本的",
+      "clause_text": "急速な発展は",
+      "furigana": "急速な発展は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "な変革をもたらす",
-      "furigana": "な変革をもたらす",
+      "clause_text": "、労働市場に",
+      "furigana": "、労働市場に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "と同時に、倫理的問題を",
-      "furigana": "と同時に、倫理的問題を",
+      "clause_text": "根本的な変革を",
+      "furigana": "根本的な変革を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "提起している。",
-      "furigana": "提起している。",
+      "clause_text": "もたらすと同時に、倫理的問題を提起している。",
+      "furigana": "もたらすと同時に、倫理的問題を提起している。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "国際秩序の変容に",
-      "furigana": "国際秩序の変容に",
+      "clause_text": "国際秩序の",
+      "furigana": "国際秩序の",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "伴い、これまでの外交的",
-      "furigana": "伴い、これまでの外交的",
+      "clause_text": "変容に",
+      "furigana": "変容に",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "枠組みを根本から",
-      "furigana": "枠組みを根本から",
+      "clause_text": "伴い、これまで",
+      "furigana": "伴い、これまで",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "見直す必要性が",
-      "furigana": "見直す必要性が",
+      "clause_text": "の外交的枠組みを",
+      "furigana": "の外交的枠組みを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "高まっている。",
-      "furigana": "高まっている。",
+      "clause_text": "根本から見直す必要性が高まっている。",
+      "furigana": "根本から見直す必要性が高まっている。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "複雑化する社会",
-      "furigana": "複雑化する社会",
+      "clause_text": "複雑化する社会問題に",
+      "furigana": "複雑化する社会問題に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "問題に対処する",
-      "furigana": "問題に対処する",
+      "clause_text": "対処するに",
+      "furigana": "対処するに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "には、多様な専門知識",
-      "furigana": "には、多様な専門知識",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "を持つ人々の協働が不可欠",
-      "furigana": "を持つ人々の協働が不可欠",
+      "clause_text": "多様な専門知識を",
+      "furigana": "多様な専門知識を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "となっている。",
-      "furigana": "となっている。",
+      "clause_text": "持つ人々の協働が不可欠となっている。",
+      "furigana": "持つ人々の協働が不可欠となっている。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

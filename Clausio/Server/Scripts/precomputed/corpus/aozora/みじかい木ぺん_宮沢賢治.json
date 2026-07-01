@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "一キッコの村の",
-      "furigana": "いち\nきっこのむら",
+      "clause_text": "一キッコの村の学校にはたまりがありませんでしたから雨がふるとみんなは教室で遊びました。",
+      "furigana": "いち\nきっこのむらのがっこうにはたまりがありませんでしたからあめがふるとみんなはきょうしつであそびました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "学校にはたまりがあり",
-      "furigana": "のがっこうにはたまりが",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ませんでしたから雨が",
-      "furigana": "ませんでしたからあめ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ふるとみんな",
-      "furigana": "がふると",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "は教室で遊びました。",
-      "furigana": "はきょうしつであそびました",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ですから教室は",
-      "furigana": "ですからきょうしつは",
+      "clause_text": "で",
+      "furigana": "で",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "あの水車小屋みたい",
-      "furigana": "あのすいしゃこやみたい",
+      "clause_text": "すから",
+      "furigana": "から",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "な古臭い",
-      "furigana": "なふるくさい",
+      "clause_text": "教室は",
+      "furigana": "きょうしつは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "寒天のような",
-      "furigana": "かんてんのような",
+      "clause_text": "あの",
+      "furigana": "あの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "教室でした。",
-      "furigana": "きょうしつでした。",
+      "clause_text": "水車小屋みたいな古臭い寒天のような教室でした。",
+      "furigana": "すいしゃこやみたいなふるくさいかんてんのようなきょうしつでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "みんなは胆",
-      "furigana": "みんなはたん",
+      "clause_text": "みんなは",
+      "furigana": "みんなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "取りと巡査に",
-      "furigana": "とりとじゅんさに",
+      "clause_text": "胆取りと",
+      "furigana": "たんとりと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "わかれて",
-      "furigana": "わかれて",
+      "clause_text": "巡査に",
+      "furigana": "じゅんさに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "あばれてい",
-      "furigana": "あばれてい",
+      "clause_text": "わかれてあばれています。",
+      "furigana": "わかれてあばれています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「遁げ",
-      "furigana": "「にげ",
+      "clause_text": "「遁げだ、",
+      "furigana": "きごうにげだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "だ、遁げ",
-      "furigana": "だ、にげ",
+      "clause_text": "遁げだ、",
+      "furigana": "にげだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "だ、",
-      "furigana": "だ、",
+      "clause_text": "押えろ押えろ。",
+      "furigana": "おさえろおさえろ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "押えろ",
-      "furigana": "おさえろ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "押えろ。",
-      "furigana": "おさえろ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」「わぁい",
-      "furigana": "」「わぁい",
+      "clause_text": "」「わぁい、指噛じるこなしだで",
+      "furigana": "きごうきごうわぁい、ゆび噛じるこなしだで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、指噛",
-      "furigana": "、ゆび噛",
+      "clause_text": "ぁ。",
+      "furigana": "ぁ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "じるこ",
-      "furigana": "じるこ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なしだで",
-      "furigana": "なしだで",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぁ。",
-      "furigana": "ぁ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

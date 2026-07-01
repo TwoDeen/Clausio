@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "地球温暖化",
-      "furigana": "地球温暖化",
+      "clause_text": "地球温暖化の影響で、世界各地で異常気象が増加している。",
+      "furigana": "地球温暖化の影響で、世界各地で異常気象が増加している。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の影響で、世界",
-      "furigana": "の影響で、世界",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "各地で異常気象",
-      "furigana": "各地で異常気象",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が増加して",
-      "furigana": "が増加して",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いる。",
-      "furigana": "いる。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "経済のグローバル化",
-      "furigana": "経済のグローバル化",
+      "clause_text": "経済の",
+      "furigana": "経済の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "が進む中、国内",
-      "furigana": "が進む中、国内",
+      "clause_text": "グローバル化が",
+      "furigana": "グローバル化が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "産業の競争力",
-      "furigana": "産業の競争力",
+      "clause_text": "進む中、",
+      "furigana": "進む中、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "強化が求め",
-      "furigana": "強化が求め",
+      "clause_text": "国内産業の",
+      "furigana": "国内産業の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "られている。",
-      "furigana": "られている。",
+      "clause_text": "競争力強化が求められている。",
+      "furigana": "競争力強化が求められている。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "科学技術の進歩",
-      "furigana": "科学技術の進歩",
+      "clause_text": "科学技術の",
+      "furigana": "科学技術の",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "により、かつては",
-      "furigana": "により、かつては",
+      "clause_text": "進歩に",
+      "furigana": "進歩に",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "不可能だった",
-      "furigana": "不可能だった",
+      "clause_text": "より、かつては",
+      "furigana": "より、かつては",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "医療が実現しつつ",
-      "furigana": "医療が実現しつつ",
+      "clause_text": "不可能だった医療が",
+      "furigana": "不可能だった医療が",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある。",
-      "furigana": "ある。",
+      "clause_text": "実現しつつある。",
+      "furigana": "実現しつつある。",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "環境保護と経済発展を",
-      "furigana": "環境保護と経済発展を",
+      "clause_text": "環境保護と",
+      "furigana": "環境保護と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "両立させる",
-      "furigana": "両立させる",
+      "clause_text": "経済発展を",
+      "furigana": "経済発展を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことが現代",
-      "furigana": "ことが現代",
+      "clause_text": "両立させること",
+      "furigana": "両立させること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "社会の大きな",
-      "furigana": "社会の大きな",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "課題となっている。",
-      "furigana": "課題となっている。",
+      "clause_text": "現代社会の大きな課題となっている。",
+      "furigana": "現代社会の大きな課題となっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "少子高齢化",
-      "furigana": "少子高齢化",
+      "clause_text": "少子高齢化が",
+      "furigana": "少子高齢化が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が進む日本",
-      "furigana": "が進む日本",
+      "clause_text": "進む日本で",
+      "furigana": "進む日本で",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "では、社会保障",
-      "furigana": "では、社会保障",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "制度の持続可能性",
-      "furigana": "制度の持続可能性",
+      "clause_text": "社会保障制度の",
+      "furigana": "社会保障制度の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が問われている。",
-      "furigana": "が問われている。",
+      "clause_text": "持続可能性が問われている。",
+      "furigana": "持続可能性が問われている。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

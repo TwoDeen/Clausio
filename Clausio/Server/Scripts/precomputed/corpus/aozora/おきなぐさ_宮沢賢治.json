@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ます",
-      "furigana": "ます",
+      "clause_text": "ますか。",
+      "furigana": "ますか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "うずのしゅげは、植物学では",
-      "furigana": "うずのしゅげは、しょくぶつがくでは",
+      "clause_text": "うずの",
+      "furigana": "うずの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "おきなぐさと呼ばれますが、おきなぐさ",
-      "furigana": "おきなぐさとよばれますが、おきなぐさ",
+      "clause_text": "しゅげは",
+      "furigana": "しゅげは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "という名はなんだかあのやさしい",
-      "furigana": "というなはなんだかあのやさしい",
+      "clause_text": "、植物学では",
+      "furigana": "、しょくぶつがくでは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "若い花をあらわさ",
-      "furigana": "わかいはなをあらわさ",
+      "clause_text": "おきなぐさと呼ばれますが、おきなぐさと",
+      "furigana": "おきなぐさとよばれますが、おきなぐさと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ないようにおもいます。",
-      "furigana": "ないようにおもいます。",
+      "clause_text": "いう名はなんだかあのやさしい若い花をあらわさないようにおもいます。",
+      "furigana": "いうなはなんだかあのやさしいわかいはなをあらわさないようにおもいます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんならうずのしゅ",
-      "furigana": "そんならうずのしゅ",
+      "clause_text": "そんならうずの",
+      "furigana": "そんならうずの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "げとはなんのことかと言われて",
-      "furigana": "げとはなんのことかといわれて",
+      "clause_text": "しゅげと",
+      "furigana": "しゅげと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "も私にはわかったよう",
-      "furigana": "もわたくしにはわかったよう",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "なまたわからないよう",
-      "furigana": "なまたわからないよう",
+      "clause_text": "なんのことかと言われても私に",
+      "furigana": "なんのことかといわれてもわたくしに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "な気がします。",
-      "furigana": "なきがします。",
+      "clause_text": "はわかったようなまたわからないような気がします。",
+      "furigana": "はわかったようなまたわからないようなきがします。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それはたとえば私どもの方で、",
-      "furigana": "それはたとえばわたくしどものほうで、",
+      "clause_text": "それはたと",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ねこやなぎの花芽をべん",
-      "furigana": "ねこやなぎのかがをべん",
+      "clause_text": "えば私ども",
+      "furigana": "わたくしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "べろと言いますが、そのべんべろが",
-      "furigana": "べろといいますが、そのべんべろが",
+      "clause_text": "の方で、ねこやなぎの",
+      "furigana": "のほうで、ねこやなぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なんのことかわかったような",
-      "furigana": "なんのことかわかったような",
+      "clause_text": "花芽をべんべろと言いますが、その",
+      "furigana": "かがをべんべろといいますが、その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "わからないような気がするのと全くおなじです。",
-      "furigana": "わからないようなきがするのとまったくおなじです。",
+      "clause_text": "べんべろがなんのことかわかったようなわからないような気がするのと全くおなじです。",
+      "furigana": "べんべろがなんのことかわかったようなわからないようなきがするのとまったくおなじです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "とにかくべんべろという語のひびきの中に、",
-      "furigana": "とにかくべんべろというごのひびきのちゅうに、",
+      "clause_text": "とにかくべんべろと",
+      "furigana": "とにかくべんべろと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "あの柳の花芽の銀びろうどのこころもち、なめらかな春のはじめの光のぐあい",
-      "furigana": "あのやなぎのかがのぎんびろうどのこころもち、なめらかなはるのはじめのひかりのぐあい",
+      "clause_text": "いう語のひびきの",
+      "furigana": "いうごのひびきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が実にはっきり出ているように、うずのしゅげというとき",
-      "furigana": "がじつにはっきりでているように、うずのしゅげというとき",
+      "clause_text": "中に、あの柳の花芽の銀びろうどの",
+      "furigana": "ちゅうに、あのやなぎのかがのぎんびろうどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、あの毛科のおきなぐさの黒朱子の花びら、青じろいやはり銀びろうどの刻みのある",
-      "furigana": "は、あのけかのおきなぐさのくろしゅしのはなびら、あおじろいやはりぎんびろうどのきざみのある",
+      "clause_text": "こころもち、なめらかな春のはじめの光のぐあいが実にはっきり出ているように、うずのしゅげと",
+      "furigana": "こころもち、なめらかなはるのはじめのひかりのぐあいがじつにはっきりでているように、うずのしゅげと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "葉、それから六月のつやつや光る冠毛がみなはっきりと眼にうかびます。",
-      "furigana": "は、それからろくがつのつやつやひかるかんもうがみなはっきりとめにうかびます。",
+      "clause_text": "いうときは、あの毛科のおきなぐさの黒朱子の花びら、青じろいやはり銀びろうどの刻みのある葉、それから六月のつやつや光る冠毛がみなはっきりと眼にうかびます。",
+      "furigana": "いうときは、あのけかのおきなぐさのくろしゅしのはなびら、あおじろいやはりぎんびろうどのきざみのあるは、それからろくがつのつやつやひかるかんもうがみなはっきりとめにうかびます。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

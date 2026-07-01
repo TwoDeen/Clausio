@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "火皿は油煙をふりみだし",
-      "furigana": "ひざらはゆえんをふりみだし",
+      "clause_text": "火皿は",
+      "furigana": "ひざらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、炉の向ふには",
-      "furigana": "、ろのむこうには",
+      "clause_text": "油煙を",
+      "furigana": "ゆえんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "この家の主人の膝が",
-      "furigana": "このいえのしゅじんのひざが",
+      "clause_text": "ふりみだし、炉の",
+      "furigana": "ふりみだし、ろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "大黒柱を切って投げ出しどっしり",
-      "furigana": "だいこくばしらをきってなげだしどっしり",
+      "clause_text": "向ふにはこの家の主人の膝が",
+      "furigana": "むこうにはこのいえのしゅじんのひざが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がたりと座ってゐる。",
-      "furigana": "がたりとすわっている。",
+      "clause_text": "大黒柱を切って投げ出しどっしりがたりと座ってゐる。",
+      "furigana": "だいこくばしらをきってなげだしどっしりがたりとすわっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その息子",
-      "furigana": "そのむすこ",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "らは",
-      "furigana": "らは",
+      "clause_text": "息子らは",
+      "furigana": "むすこらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "外の闇",
-      "furigana": "そとのやみ",
+      "clause_text": "外の",
+      "furigana": "そとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "から帰っ",
-      "furigana": "からかえっ",
+      "clause_text": "闇から",
+      "furigana": "やみから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "て来た。",
-      "furigana": "てきた。",
+      "clause_text": "帰って来た。",
+      "furigana": "かえってきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "肩はばがひろく",
-      "furigana": "かたはばがひろく",
+      "clause_text": "肩は",
+      "furigana": "かたは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "けらを着て馬を廐へ",
-      "furigana": "けらをきてうまをうまやへ",
+      "clause_text": "ばが",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "引いて入れ、土間でこっそり",
-      "furigana": "ひいていれ、どまでこっそり",
+      "clause_text": "ひろくけらを着て馬を",
+      "furigana": "ひろくけらをきてうまを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "飯をたべそのまゝ",
-      "furigana": "めしをたべそのまま",
+      "clause_text": "廐へ引いて入れ、土間で",
+      "furigana": "うまやへひいていれ、どまで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ころころ寝てしまった。",
-      "furigana": "ころころねてしまった。",
+      "clause_text": "こっそり飯をたべそのまゝころころ寝てしまった。",
+      "furigana": "こっそりめしをたべそのままころころねてしまった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "もし私が何かまちがっ",
-      "furigana": "もしわたくしがなんかまちがっ",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "たことを云ったらそのむすこ",
-      "furigana": "たことをいったらそのむすこ",
+      "clause_text": "し私が",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "らの一人でもすぐ",
-      "furigana": "らのひとりでもすぐ",
+      "clause_text": "何かまちがったこと",
+      "furigana": "なんかまちがったこと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "に私を外のくらやみに",
-      "furigana": "にわたくしをそとのくらやみに",
+      "clause_text": "を云ったらそのむすこらの",
+      "furigana": "をいったらそのむすこらの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "連れ出すだらう。",
-      "furigana": "つれだすだらう。",
+      "clause_text": "一人でもすぐに私を外のくらやみに連れ出すだらう。",
+      "furigana": "ひとりでもすぐにわたくしをそとのくらやみにつれだすだらう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "火皿は黒い",
-      "furigana": "ひざらはくろい",
+      "clause_text": "火皿は",
+      "furigana": "ひざらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "油煙を揚げその",
-      "furigana": "ゆえんをあげその",
+      "clause_text": "黒い油煙を",
+      "furigana": "くろいゆえんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "下で一人の女が何か",
-      "furigana": "もとでひとりのおんながなんか",
+      "clause_text": "揚げその",
+      "furigana": "あげその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しきりに仕度",
-      "furigana": "しきりにしたく",
+      "clause_text": "下で一人の",
+      "furigana": "もとでひとりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "をしてゐる。",
-      "furigana": "をしている。",
+      "clause_text": "女が何かしきりに仕度をしてゐる。",
+      "furigana": "おんながなんかしきりにしたくをしている。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

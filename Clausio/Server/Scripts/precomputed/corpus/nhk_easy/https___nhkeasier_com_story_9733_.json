@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "沖縄県では、第",
-      "furigana": "おきなわけんでは、第",
+      "clause_text": "沖縄県で",
+      "furigana": "おきなわけんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "2次世界",
-      "furigana": "2次世界",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "大戦の終わり",
-      "furigana": "大たたかのおわり",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の頃、激しい戦いが",
-      "furigana": "のころ、はげしいたたかいが",
+      "clause_text": "第2次世界大戦の",
+      "furigana": "だいにじせかいたいせんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "終わりの頃、激しい戦いがありました。",
+      "furigana": "おわりのころ、はげしいたたかいがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "亡くなり",
-      "furigana": "なくなり",
+      "clause_text": "亡くなりました。",
+      "furigana": "なくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "81",
-      "furigana": "81",
+      "clause_text": "81年に",
+      "furigana": "81ねんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "年に",
-      "furigana": "ねんに",
+      "clause_text": "なります。",
+      "furigana": "なります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "なり",
-      "furigana": "なり",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "激しい戦いがあった糸満市",
-      "furigana": "はげしいたたかいがあったいとまんし",
+      "clause_text": "激しい戦いが",
+      "furigana": "はげしいたたかいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の平和祈念公園",
-      "furigana": "のへいわきねんこうえん",
+      "clause_text": "あった糸満市の",
+      "furigana": "あったいとまんしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "では、23日、",
-      "furigana": "では、23にち、",
+      "clause_text": "平和祈念公園で",
+      "furigana": "へいわきねんこうえんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "亡くなった人たちの",
-      "furigana": "なくなったひとたちの",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ために祈る式がありました。",
-      "furigana": "ためにいのるしきがありました。",
+      "clause_text": "、23日、亡くなった人たちのために祈る式がありました。",
+      "furigana": "、23にち、なくなったひとたちのためにいのるしきがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "式では、中学2年生の",
-      "furigana": "しきでは、ちゅうがく2ねんせいの",
+      "clause_text": "式で",
+      "furigana": "しきで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "亀谷琉奈さんが自分で",
-      "furigana": "かめやるなさんがじぶんで",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "作った詩",
-      "furigana": "つくったし",
+      "clause_text": "中学2年生の",
+      "furigana": "ちゅうがく2ねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "を声を出して",
-      "furigana": "をこえをだして",
+      "clause_text": "亀谷琉奈さんが",
+      "furigana": "かめやるなさんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "読みました。",
-      "furigana": "よみました。",
+      "clause_text": "自分で作った詩を声を出して読みました。",
+      "furigana": "じぶんでつくったしをこえをだしてよみました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "京都駅",
-      "furigana": "きょうとえき",
+      "clause_text": "京都駅で",
+      "furigana": "きょうとえきで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "で列車",
-      "furigana": "でれっしゃ",
+      "clause_text": "列車の",
+      "furigana": "れっしゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の事故",
-      "furigana": "のじこ",
+      "clause_text": "事故がありました。",
+      "furigana": "じこがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "があり",
-      "furigana": "があり",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "29日午前5時",
-      "furigana": "ふた9にちごぜん5じ",
+      "clause_text": "29日午前5時すぎ、",
+      "furigana": "ふた9にちごぜん5じすぎ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "すぎ、近鉄という",
-      "furigana": "すぎ、きんてつという",
+      "clause_text": "近鉄と",
+      "furigana": "きんてつと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "鉄道会社",
-      "furigana": "てつどうかいしゃ",
+      "clause_text": "いう鉄道会社の列車が線路から外れました。",
+      "furigana": "いうてつどうかいしゃのれっしゃがせんろからはずれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の列車が線路",
-      "furigana": "のれっしゃがせんろ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "から外れました。",
-      "furigana": "からはずれました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "客が乗っ",
-      "furigana": "きゃくがのっ",
+      "clause_text": "客が",
+      "furigana": "きゃくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "てい",
-      "furigana": "てい",
+      "clause_text": "乗っていました。",
+      "furigana": "のっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "けがをし",
-      "furigana": "けがをし",
+      "clause_text": "けが",
+      "furigana": "けが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "た人はい",
-      "furigana": "たひとはい",
+      "clause_text": "を",
+      "furigana": "を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ません",
-      "furigana": "ません",
+      "clause_text": "した人は",
+      "furigana": "したひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "でし",
-      "furigana": "でし",
+      "clause_text": "いませんでした。",
+      "furigana": "いませんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "国土交通省は、列車が120ｍ",
-      "furigana": "こくどこうつうしょうは、れっしゃが1ふた0ｍ",
+      "clause_text": "国土交通省は、列車が120ｍぐらい走ったところで、2つ目と3つ目の車両が線路から外れたと言っています。",
+      "furigana": "こくどこうつうしょうは、れっしゃが1ふた0ｍぐらいはしったところで、ふたつめとみっつめのしゃりょうがせんろからはずれたといっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぐらい走ったところで、2つ",
-      "furigana": "ぐらいはしったところで、ふたつ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "目と3つ目の車両が",
-      "furigana": "めとみっつめのしゃりょうが",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "線路から外れたと",
-      "furigana": "せんろからはずれたと",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "言っています。",
-      "furigana": "いっています。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

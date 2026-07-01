@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある古い家の、",
-      "furigana": "あるふるいいえの、",
+      "clause_text": "ある古い家の",
+      "furigana": "あるふるいいえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "まっくらな天井裏に、",
-      "furigana": "まっくらなてんじょううらに、",
+      "clause_text": "、まっくらな天井裏に、",
+      "furigana": "、まっくらなてんじょううらに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「ツェ」という",
-      "furigana": "「つぇ」という",
+      "clause_text": "「ツェ」",
+      "furigana": "きごうつぇきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "名まえのねずみがすん",
-      "furigana": "なまえのねずみがすん",
+      "clause_text": "という名まえのねずみがすんでいました",
+      "furigana": "というなまえのねずみがすんでいました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいました。",
-      "furigana": "でいました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある日ツェねずみは、",
-      "furigana": "あるひつぇねずみは、",
+      "clause_text": "ある日ツェねずみは",
+      "furigana": "あるひつぇねずみは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "きょろきょろ四方を見まわし",
-      "furigana": "きょろきょろしほうをみまわし",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ながら、床下街道を歩いていますと、向こうから",
-      "furigana": "ながら、ゆかしたかいどうをあるいていますと、むこうから",
+      "clause_text": "きょろきょろ四方を",
+      "furigana": "きょろきょろしほうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "いたちが、何かいいものをたくさんもって、",
-      "furigana": "いたちが、なんかいいものをたくさんもって、",
+      "clause_text": "見まわしながら、床下街道を歩いていますと",
+      "furigana": "みまわしながら、ゆかしたかいどうをあるいていますと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "風のように走って参りました。",
-      "furigana": "かぜのようにはしってまいりました。",
+      "clause_text": "、向こうからいたちが、何かいいものをたくさんもって、風のように走って参りました。",
+      "furigana": "、むこうからいたちが、なんかいいものをたくさんもって、かぜのようにはしってまいりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そしてツェ",
-      "furigana": "そしてつぇ",
+      "clause_text": "そしてツェねずみを見て、ちょっとたちどまって早口に言いました。",
+      "furigana": "そしてつぇねずみをみて、ちょっとたちどまってはやくちにいいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ねずみを見て、",
-      "furigana": "ねずみをみて、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ちょっとたちどまっ",
-      "furigana": "ちょっとたちどまっ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "て早口に言い",
-      "furigana": "てはやくちにいい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「おい",
-      "furigana": "「おい",
+      "clause_text": "「おい、",
+      "furigana": "きごうおい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "ツェねずみ。",
+      "furigana": "つぇねずみ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ツェ",
-      "furigana": "つぇ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ねずみ",
-      "furigana": "ねずみ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "お前んとこの",
-      "furigana": "おまえんとこの",
+      "clause_text": "お前んと",
+      "furigana": "おまえん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "戸棚の穴から、",
-      "furigana": "とだなのあなから、",
+      "clause_text": "この",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "金米糖が",
-      "furigana": "こんぺいとーが",
+      "clause_text": "戸棚の",
+      "furigana": "とだなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ばらばらこぼれ",
-      "furigana": "ばらばらこぼれ",
+      "clause_text": "穴から、金米糖が",
+      "furigana": "あなから、こんぺいとーが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ているぜ。",
-      "furigana": "ているぜ。",
+      "clause_text": "ばらばらこぼれているぜ。",
+      "furigana": "ばらばらこぼれているぜ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

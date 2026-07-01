@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【プロ野球",
-      "furigana": "【プロ野球",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。",
+      "furigana": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "結果】",
-      "furigana": "結果】",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "…",
+      "furigana": "…",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ソフトバンク",
-      "furigana": "ソフトバンク",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "…",
+      "furigana": "…",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が西武に快勝",
-      "furigana": "が西武に快勝",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "…",
+      "furigana": "…",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "し首位浮上。",
-      "furigana": "し首位浮上。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "…",
+      "furigana": "…",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "カブス鈴木誠也",
-      "furigana": "カブス鈴木誠也",
+      "clause_text": "中部電力の",
+      "furigana": "中部電力の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "サヨナラタイムリー",
-      "furigana": "サヨナラタイムリー",
+      "clause_text": "株主総会会長・社長の",
+      "furigana": "株主総会会長・社長の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "今永昇太",
-      "furigana": "今永昇太",
+      "clause_text": "取締役選任案が",
+      "furigana": "取締役選任案が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "は7回途中2",
-      "furigana": "は7回途中2",
+      "clause_text": "可決。",
+      "furigana": "可決。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "失点。",
-      "furigana": "失点。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "サッカー",
-      "furigana": "サッカー",
+      "clause_text": "モバイルSuica",
+      "furigana": "モバイルSuica",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "W杯日本代表",
-      "furigana": "W杯日本代表",
+      "clause_text": "トラブルから",
+      "furigana": "トラブルから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "メンバー全員が",
-      "furigana": "メンバー全員が",
+      "clause_text": "復旧モバイルPASMOも",
+      "furigana": "復旧モバイルPASMOも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "敗退から一夜明け",
-      "furigana": "敗退から一夜明け",
+      "clause_text": "復旧。",
+      "furigana": "復旧。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "心境語る。",
-      "furigana": "心境語る。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "W杯",
-      "furigana": "W杯",
+      "clause_text": "長野東御母娘か2人死亡",
+      "furigana": "長野東御母娘か2人死亡",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ノルウェーハーランド",
-      "furigana": "ノルウェーハーランド",
+      "clause_text": "長男切りつけた疑い父親を",
+      "furigana": "長男切りつけた疑い父親を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "決勝ゴール",
-      "furigana": "決勝ゴール",
+      "clause_text": "逮捕。",
+      "furigana": "逮捕。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "コートジボワール",
-      "furigana": "コートジボワール",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "に勝利。",
-      "furigana": "に勝利。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "サッカーW杯",
-      "furigana": "サッカーW杯",
+      "clause_text": "名古屋郵便局で",
+      "furigana": "名古屋郵便局で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "フランスエムバペ",
-      "furigana": "フランスエムバペ",
+      "clause_text": "“誤ってスプレー”病院に",
+      "furigana": "“誤ってスプレー”病院に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が2ゴール",
-      "furigana": "が2ゴール",
+      "clause_text": "5人搬送。",
+      "furigana": "5人搬送。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "スウェーデン",
-      "furigana": "スウェーデン",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に勝利。",
-      "furigana": "に勝利。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

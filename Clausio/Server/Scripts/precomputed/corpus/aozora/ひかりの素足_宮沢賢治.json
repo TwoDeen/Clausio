@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "一、山小屋",
-      "furigana": "いち、やまごや",
+      "clause_text": "一、山小屋鳥の声があんまりやかましいので一郎は眼をさましました。",
+      "furigana": "いち、やまごや\nとりのこえがあんまりやかましいのでいちろうはめをさましました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "鳥の声があんまり",
-      "furigana": "\nとりのこえが",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "やかましいので一郎",
-      "furigana": "やかましいので",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "は眼をさまし",
-      "furigana": "はめを",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "もう",
-      "furigana": "もう",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "すっかり",
-      "furigana": "すっかり",
+      "clause_text": "う",
+      "furigana": "う",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "夜があけ",
-      "furigana": "よるがあけ",
+      "clause_text": "すっかり夜が",
+      "furigana": "すっかりよるが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "てゐたの",
-      "furigana": "ていたの",
+      "clause_text": "あけてゐたのです。",
+      "furigana": "あけていたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "小屋の隅から三本の",
-      "furigana": "こやのすみからさんぽんの",
+      "clause_text": "小屋の",
+      "furigana": "こやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "青い日光の棒が斜めに",
-      "furigana": "あおいにっこうのぼうがななめに",
+      "clause_text": "隅から",
+      "furigana": "すみから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "まっすぐに兄弟の頭",
-      "furigana": "まっすぐにきょうだいのあたま",
+      "clause_text": "三本の青い日光の",
+      "furigana": "さんぽんのあおいにっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "の上を越して向ふの萱の壁の",
-      "furigana": "のうえをこしてむこうのかやのかべの",
+      "clause_text": "棒が斜めにまっすぐに兄弟の頭の",
+      "furigana": "ぼうがななめにまっすぐにきょうだいのあたまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "山刀やはむばきを照らしてゐました。",
-      "furigana": "やまがたなやはむばきをてらしていました。",
+      "clause_text": "上を越して向ふの萱の壁の山刀やはむばきを照らしてゐました。",
+      "furigana": "うえをこしてむこうのかやのかべのやまがたなやはむばきをてらしていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "土間のまん中",
-      "furigana": "どまのまんなか",
+      "clause_text": "土間の",
+      "furigana": "どまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "では榾が",
-      "furigana": "ではほたが",
+      "clause_text": "まん中で",
+      "furigana": "まんなかで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "赤く燃え",
-      "furigana": "あかくもえ",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "てゐまし",
-      "furigana": "ていまし",
+      "clause_text": "榾が",
+      "furigana": "ほたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "赤く燃えてゐました。",
+      "furigana": "あかくもえていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日光の棒もそのけむり",
-      "furigana": "にっこうのぼうもそのけむり",
+      "clause_text": "日光の",
+      "furigana": "にっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "のために青く見え、またその",
-      "furigana": "のためにあおくみえ、またその",
+      "clause_text": "棒もその",
+      "furigana": "ぼうもその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "けむりはいろいろ",
-      "furigana": "けむりはいろいろ",
+      "clause_text": "けむりのために",
+      "furigana": "けむりのために",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なかたちになってついついとその",
-      "furigana": "なかたちになってついついとその",
+      "clause_text": "青く見え、またそのけむりは",
+      "furigana": "あおくみえ、またそのけむりは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "光の棒の中を通って行くのでした。",
-      "furigana": "ひかりのぼうのなかをとおっていくのでした。",
+      "clause_text": "いろいろなかたちになってついついとその光の棒の中を通って行くのでした。",
+      "furigana": "いろいろなかたちになってついついとそのひかりのぼうのなかをとおっていくのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "交通機関の運賃の支払い",
-      "furigana": "交通機関の運賃の支払い",
+      "clause_text": "交通機関の運賃の支払いなどを行うモバイルSuicaでけさからアプリでのチャージができなくなるなどのトラブルが起きていましたが、JR東日本は午後5時34分に復旧したと発表しました。",
+      "furigana": "交通機関の運賃の支払いなどを行うモバイルSuicaでけさからアプリでのチャージができなくなるなどのトラブルが起きていましたが、JR東日本は午後5時34分に復旧したと発表しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "などを行うモバイルSuicaでけさからアプリでの",
-      "furigana": "などを行うモバイルSuicaでけさからアプリでの",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "チャージができなくなるなどの",
-      "furigana": "チャージができなくなるなどの",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "トラブルが起きていましたが、JR東日本",
-      "furigana": "トラブルが起きていましたが、JR東日本",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "は午後5時34分に復旧したと発表しました。",
-      "furigana": "は午後5時34分に復旧したと発表しました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "長野東御母娘",
-      "furigana": "長野東御母娘",
+      "clause_text": "長野東御母娘か2人死亡",
+      "furigana": "長野東御母娘か2人死亡",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "か2人死亡長男",
-      "furigana": "か2人死亡長男",
+      "clause_text": "長男切りつけた疑い父親を",
+      "furigana": "長男切りつけた疑い父親を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "切りつけ",
-      "furigana": "切りつけ",
+      "clause_text": "逮捕。",
+      "furigana": "逮捕。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "た疑い父親を",
-      "furigana": "た疑い父親を",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "逮捕。",
-      "furigana": "逮捕。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "“誤って",
-      "furigana": "“誤って",
+      "clause_text": "“誤ってスプレー”病院に",
+      "furigana": "“誤ってスプレー”病院に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "スプレー”",
-      "furigana": "スプレー”",
+      "clause_text": "5人搬送。",
+      "furigana": "5人搬送。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "病院に5人",
-      "furigana": "病院に5人",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "搬送。",
-      "furigana": "搬送。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "高校生の就職活動",
-      "furigana": "高校生の就職活動",
+      "clause_text": "高校生の",
+      "furigana": "高校生の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "が事実上",
-      "furigana": "が事実上",
+      "clause_text": "就職活動が",
+      "furigana": "就職活動が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "スタート",
-      "furigana": "スタート",
+      "clause_text": "事実上スタート“初任給30万円”企業も",
+      "furigana": "事実上スタート“初任給30万円”企業も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "“初任給30万",
-      "furigana": "“初任給30万",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "円”企業も。",
-      "furigana": "円”企業も。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "米大統領",
-      "furigana": "米大統領",
+      "clause_text": "米大統領資産報告書",
+      "furigana": "米大統領資産報告書",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "資産報告書",
-      "furigana": "資産報告書",
+      "clause_text": "公開“主要収益は",
+      "furigana": "公開“主要収益は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "公開“主要収益は",
-      "furigana": "公開“主要収益は",
+      "clause_text": "暗号資産関連2300億円”。",
+      "furigana": "暗号資産関連2300億円”。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "暗号資産関連",
-      "furigana": "暗号資産関連",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "2300億円”。",
-      "furigana": "2300億円”。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "九月一日どっどどどどうどどどうど",
-      "furigana": "きゅうがつついたち\nどっどどどどうど　",
+      "clause_text": "九月一日どっどどどどうどどどうどどどう、",
+      "furigana": "きゅうがつついたち\nどっどどどどうど　どどうど　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "どどう、ああまいざくろも",
-      "furigana": "　どどう、\nああまい",
+      "clause_text": "ああまいざくろも",
+      "furigana": "、\nああまい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "吹きとばせすっぱいざくろも",
-      "furigana": "ざくろもふきとばせ\n",
+      "clause_text": "吹きと",
+      "furigana": "ざくろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ふきとばせどっどどどどうどどどうどどどう谷川",
-      "furigana": "ざくろもふきとばせ\nどっどどどどうど　",
+      "clause_text": "ばせすっぱいざくろも",
+      "furigana": "もふきとばせ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の岸に小さな四角な学校がありました。",
-      "furigana": "　どどう\nたにがわのきしにちいさなしかくな",
+      "clause_text": "ふきとばせどっどどどどうどどどうどどどう谷川の岸に小さな四角な学校がありました。",
+      "furigana": "ざくろもふきとばせ\nどっどどどどうど　どどうど　どどう\nたにがわのきしにちいさなしかくな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "学校といっても入口とあとは",
-      "furigana": "がっこうといってもいりぐちとあとは",
+      "clause_text": "学校といっても入口とあとはガラス窓の三つついた教室がひとつあるきりでほかには溜りも教員室もなく運動場はテニスコートのくらいでした。",
+      "furigana": "がっこうといってもいりぐちとあとはがらすまどのみっつついたきょうしつがひとつあるきりでほかにはたまりもきょういんしつもなくうんどうじょうはてにすこーとのくらいでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ガラス窓の三つついた教室がひとつある",
-      "furigana": "がらすまどのみっつついたきょうしつがひとつある",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きりでほかには溜りも教員室もなく",
-      "furigana": "きりでほかにはたまりもきょういんしつもなく",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "運動場はテニスコート",
-      "furigana": "うんどうじょうはてにすこーと",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のくらいでした。",
-      "furigana": "のくらいでした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "先生はたった",
-      "furigana": "せんせいはたった",
+      "clause_text": "先生は",
+      "furigana": "せんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人で、",
-      "furigana": "ひとりで、",
+      "clause_text": "たった一人で",
+      "furigana": "たったひとりで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "五つの級を",
-      "furigana": "いつつのきゅうを",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "教える",
-      "furigana": "おしえる",
+      "clause_text": "五つの",
+      "furigana": "いつつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "級を教えるのでした。",
+      "furigana": "きゅうをおしえるのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは",
-      "furigana": "それは",
+      "clause_text": "それはみんなでちょうど二十人になるのです。",
+      "furigana": "それはみんなでちょうどにじゅうにんになるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "みんなで",
-      "furigana": "みんなで",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ちょうど",
-      "furigana": "ちょうど",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "二十人になる",
-      "furigana": "にじゅうにんになる",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひとり",
-      "furigana": "ひとり",
+      "clause_text": "ひと",
+      "furigana": "ひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "もあり",
-      "furigana": "もあり",
+      "clause_text": "りもありません。",
+      "furigana": "もありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ませ",
-      "furigana": "ませ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

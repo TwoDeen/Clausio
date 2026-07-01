@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "盛岡の産物の",
-      "furigana": "もりおかのさんぶつの",
+      "clause_text": "盛岡の",
+      "furigana": "もりおかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "なかに、",
-      "furigana": "なかに、",
+      "clause_text": "産物の",
+      "furigana": "さんぶつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "紫紺染と",
-      "furigana": "しこんそめと",
+      "clause_text": "なかに、",
+      "furigana": "なかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いうものが",
-      "furigana": "いうものが",
+      "clause_text": "紫紺染と",
+      "furigana": "しこんそめと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "いうものがあります。",
+      "furigana": "いうものがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これは、紫紺という",
-      "furigana": "これは、しこんという",
+      "clause_text": "これは",
+      "furigana": "これは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "桔梗によく似た",
-      "furigana": "ききょうによくにた",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "草の根を、灰で",
-      "furigana": "くさのねを、はいで",
+      "clause_text": "紫紺と",
+      "furigana": "しこんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "煮出して染める",
-      "furigana": "にだしてそめる",
+      "clause_text": "いう桔梗によく似た草の",
+      "furigana": "いうききょうによくにた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "根を、灰で煮出して染めるのです。",
+      "furigana": "を、はいでにだしてそめるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "南部の紫紺染は、昔は大へん名高いもの",
-      "furigana": "なんぶのしこんそめは、むかしはたいへんなだかいもの",
+      "clause_text": "南部の",
+      "furigana": "なんぶの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "だったそうですが、明治に",
-      "furigana": "だったそうですが、めいじに",
+      "clause_text": "紫紺染は、",
+      "furigana": "しこんそめは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なってからは、西洋からやすい",
-      "furigana": "なってからは、せいようからやすい",
+      "clause_text": "昔は大へん名高いもの",
+      "furigana": "むかしはたいへんなだかいもの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "アニリン色素がどんどんはいって来ましたので、",
-      "furigana": "あにりんしきそがどんどんはいってきましたので、",
+      "clause_text": "だったそうですが、明治になってからは、西洋から",
+      "furigana": "だったそうですが、めいじになってからは、せいようから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "一向はやらなくなってしまいました。",
-      "furigana": "いっこうはやらなくなってしまいました。",
+      "clause_text": "やすいアニリン色素がどんどんはいって来ましたので、一向はやらなくなってしまいました。",
+      "furigana": "やすいあにりんしきそがどんどんはいってきましたので、いっこうはやらなくなってしまいました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それが、ごく",
-      "furigana": "それが、ごく",
+      "clause_text": "それ",
+      "furigana": "それ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ちかごろ",
-      "furigana": "ちかごろ",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、またさわぎ",
-      "furigana": "、またさわぎ",
+      "clause_text": "、ごくちかごろ、またさわぎ出されました。",
+      "furigana": "、ごくちかごろ、またさわぎだされました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "出され",
-      "furigana": "だされ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "けれどもなにぶん、",
-      "furigana": "けれどもなにぶん、",
+      "clause_text": "けれどもなにぶん、しばらくすたれていたものですから、製法も染方も一向わかりませんでした。",
+      "furigana": "けれどもなにぶん、しばらくすたれていたものですから、せいほうもしみかたもいっこうわかりませんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "しばらくすたれていた",
-      "furigana": "しばらくすたれていた",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものですから、",
-      "furigana": "ものですから、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "製法も染方も一向",
-      "furigana": "せいほうもしみかたもいっこう",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "わかりませんでした。",
-      "furigana": "わかりませんでした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

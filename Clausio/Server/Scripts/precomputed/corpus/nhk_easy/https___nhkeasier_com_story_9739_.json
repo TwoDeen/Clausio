@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "先月、日本は",
-      "furigana": "せんげつ、にっぽんは",
+      "clause_text": "先月、",
+      "furigana": "せんげつ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "気温の",
-      "furigana": "きおんの",
+      "clause_text": "日本は",
+      "furigana": "にっぽんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "高い日が",
-      "furigana": "たかいひが",
+      "clause_text": "気温の",
+      "furigana": "きおんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "多くなり",
-      "furigana": "おおくなり",
+      "clause_text": "高い日が多くなりました。",
+      "furigana": "たかいひがおおくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "4000",
-      "furigana": "4000",
+      "clause_text": "4000人以上が熱中症で病院に運ばれました。",
+      "furigana": "4000ひといじょうがねっちゅうしょうでびょういんにはこばれました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "人以上が",
-      "furigana": "ひといじょうが",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "熱中症で病院",
-      "furigana": "ねっちゅうしょうでびょういん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に運ば",
-      "furigana": "にはこば",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "れました。",
-      "furigana": "れました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "5月では",
-      "furigana": "5がつでは",
+      "clause_text": "5月で",
+      "furigana": "5がつで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "今までで2",
-      "furigana": "いままでで2",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "番目に",
-      "furigana": "ばんめに",
+      "clause_text": "今まで",
+      "furigana": "いままで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "多くなり",
-      "furigana": "おおくなり",
+      "clause_text": "で2番目に",
+      "furigana": "で2ばんめに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "多くなりました。",
+      "furigana": "おおくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "具合が悪く",
-      "furigana": "ぐあいがわるく",
+      "clause_text": "具合が",
+      "furigana": "ぐあいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なった場所は、",
-      "furigana": "なったばしょは、",
+      "clause_text": "悪くなった場所は",
+      "furigana": "わるくなったばしょは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「家の中」が",
-      "furigana": "「いえのなか」が",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いちばん多くて、",
-      "furigana": "いちばんおおくて、",
+      "clause_text": "「家の中」",
+      "furigana": "「いえのなか」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "30％ぐらいでした。",
-      "furigana": "30％ぐらいでした。",
+      "clause_text": "がいちばん多くて、30％ぐらいでした。",
+      "furigana": "がいちばんおおくて、30％ぐらいでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "年齢では、",
-      "furigana": "ねんれいでは、",
+      "clause_text": "年齢で",
+      "furigana": "ねんれいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "65歳以上",
-      "furigana": "65さいいじょう",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の人が60%",
-      "furigana": "のひとが60%",
+      "clause_text": "、65歳以上の",
+      "furigana": "、65さいいじょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぐらいでいちばん",
-      "furigana": "ぐらいでいちばん",
+      "clause_text": "人が",
+      "furigana": "ひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "多くなっています。",
-      "furigana": "おおくなっています。",
+      "clause_text": "60%ぐらいでいちばん多くなっています。",
+      "furigana": "60%ぐらいでいちばんおおくなっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

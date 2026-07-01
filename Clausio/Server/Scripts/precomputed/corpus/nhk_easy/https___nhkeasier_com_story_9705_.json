@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "政府が、",
-      "furigana": "せいふが、",
+      "clause_text": "政府が",
+      "furigana": "せいふが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "地震の被害を",
-      "furigana": "じしんのひがいを",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "小さくする",
-      "furigana": "ちいさくする",
+      "clause_text": "地震の",
+      "furigana": "じしんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "目標を",
-      "furigana": "もくひょうを",
+      "clause_text": "被害を",
+      "furigana": "ひがいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "決めました。",
-      "furigana": "きめました。",
+      "clause_text": "小さくする目標を決めました。",
+      "furigana": "ちいさくするもくひょうをきめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京やその周り",
-      "furigana": "とうきょうやそのまわり",
+      "clause_text": "東京やその",
+      "furigana": "とうきょうやその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "では、とても",
-      "furigana": "では、とても",
+      "clause_text": "周りで",
+      "furigana": "まわりで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きな地震が",
-      "furigana": "おおきなじしんが",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "起こる可能性",
-      "furigana": "おこるかのうせい",
+      "clause_text": "、とても",
+      "furigana": "、とても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "があります。",
-      "furigana": "があります。",
+      "clause_text": "大きな地震が起こる可能性があります。",
+      "furigana": "おおきなじしんがおこるかのうせいがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この地震は",
-      "furigana": "このじしんは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「首都直下",
-      "furigana": "「首都直下",
+      "clause_text": "地震は",
+      "furigana": "じしんは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "地震」と呼ば",
-      "furigana": "じしん」とよば",
+      "clause_text": "「首都直下地震」",
+      "furigana": "「しゅとちょっかじしん」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "れてい",
-      "furigana": "れてい",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "呼ばれています。",
+      "furigana": "よばれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この地震が起こると、",
-      "furigana": "このじしんがおこると、",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "1万8000",
-      "furigana": "1まん8000",
+      "clause_text": "地震が",
+      "furigana": "じしんが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人ぐらいが亡くなる",
-      "furigana": "にんぐらいがなくなる",
+      "clause_text": "起こると",
+      "furigana": "おこると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "かもしれないと",
-      "furigana": "かもしれないと",
+      "clause_text": "、1万8000人ぐらいが",
+      "furigana": "、1まん8000にんぐらいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "考えられています。",
-      "furigana": "かんがえられています。",
+      "clause_text": "亡くなるかもしれないと考えられています。",
+      "furigana": "なくなるかもしれないとかんがえられています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "40万ぐらい",
-      "furigana": "40まんぐらい",
+      "clause_text": "40万ぐらいの家や建物が壊れたり、火事で燃えたりするかもしれません。",
+      "furigana": "40まんぐらいのいえやたてものがこわれたり、かじでもえたりするかもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の家や建物が壊れ",
-      "furigana": "のいえやたてものがこわれ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "たり、火事で",
-      "furigana": "たり、かじで",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "燃えたりするかも",
-      "furigana": "もえたりするかも",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "しれません。",
-      "furigana": "しれません。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "山梨県のワインを、",
-      "furigana": "やまなしけんのワインを、",
+      "clause_text": "山梨県の",
+      "furigana": "やまなしけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ブラジルに初めて",
-      "furigana": "ブラジルにはじめて",
+      "clause_text": "ワインを",
+      "furigana": "ワインを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん",
-      "furigana": "たくさん",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "輸出することに",
-      "furigana": "ゆしゅつすることに",
+      "clause_text": "ブラジルに",
+      "furigana": "ブラジルに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "初めてたくさん輸出することになりました。",
+      "furigana": "はじめてたくさんゆしゅつすることになりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "今までイギリスや",
-      "furigana": "いままでイギリスや",
+      "clause_text": "今までイギリスやアメリカなどには、たくさん輸出していましたが",
+      "furigana": "いままでイギリスやアメリカなどには、たくさんゆしゅつしていましたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "アメリカなどには、",
-      "furigana": "アメリカなどには、",
+      "clause_text": "、ブラジルには去年300本だけでした。",
+      "furigana": "、ブラジルにはきょねん300ぼんだけでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "たくさん輸出してい",
-      "furigana": "たくさんゆしゅつしてい",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ましたが、ブラジルには去年",
-      "furigana": "ましたが、ブラジルにはきょねん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "300本だけでした。",
-      "furigana": "300ぼんだけでした。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "今年は、山梨県",
-      "furigana": "ことしは、やまなしけん",
+      "clause_text": "今年は",
+      "furigana": "ことしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の5つの会社が",
-      "furigana": "の5つのかいしゃが",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "つくった6000",
-      "furigana": "つくった6000",
+      "clause_text": "山梨県の",
+      "furigana": "やまなしけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "本ぐらいを輸出",
-      "furigana": "ぼんぐらいをゆしゅつ",
+      "clause_text": "5つの会社が",
+      "furigana": "5つのかいしゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "つくった6000本ぐらいを輸出します。",
+      "furigana": "つくった6000ぼんぐらいをゆしゅつします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "いちばん多いのは",
-      "furigana": "いちばんおおいのは",
+      "clause_text": "いちばん多いの",
+      "furigana": "いちばんおおいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "「甲州」という",
-      "furigana": "「こうしゅう」という",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぶどうから",
-      "furigana": "ぶどうから",
+      "clause_text": "「甲州」",
+      "furigana": "「こうしゅう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "つくった",
-      "furigana": "つくった",
+      "clause_text": "というぶどうからつくったワインです",
+      "furigana": "というぶどうからつくったワインです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ワインです。",
-      "furigana": "ワインです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "17日は、",
-      "furigana": "17にちは、",
+      "clause_text": "17日は",
+      "furigana": "17にちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "笛吹市で、",
-      "furigana": "ふえふきしで、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ワインを入れ",
-      "furigana": "ワインをいれ",
+      "clause_text": "笛吹市で",
+      "furigana": "ふえふきしで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "た箱をトラック",
-      "furigana": "たはこをトラック",
+      "clause_text": "、ワインを",
+      "furigana": "、ワインを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に積みました。",
-      "furigana": "につみました。",
+      "clause_text": "入れた箱をトラックに積みました。",
+      "furigana": "いれたはこをトラックにつみました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

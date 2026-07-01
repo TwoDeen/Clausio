@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "山男は、金いろの眼",
-      "furigana": "やまおとこは、きんいろのめ",
+      "clause_text": "山男は",
+      "furigana": "やまおとこは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "を皿のやうにし、せなかを",
-      "furigana": "をさらのやうにし、せなかを",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "かがめて、にしね山の",
-      "furigana": "かがめて、にしねやまの",
+      "clause_text": "金いろの眼を皿の",
+      "furigana": "きんいろのめをさらの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ひのき林のなかを、兎を",
-      "furigana": "ひのきばやしのなかを、うさぎを",
+      "clause_text": "やうにし、せなかをかがめて、に",
+      "furigana": "やうにし、せなかをかがめて、に",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ねらつてあるいてゐました。",
-      "furigana": "ねらつてあるいていました。",
+      "clause_text": "しね山のひのき林のなかを、兎をねらつてあるいてゐました。",
+      "furigana": "しねやまのひのきばやしのなかを、うさぎをねらつてあるいていました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ところが、兎は",
-      "furigana": "ところが、うさぎは",
+      "clause_text": "ところが、兎はとれないで、山鳥がとれたのです。",
+      "furigana": "ところが、うさぎはとれないで、やまどりがとれたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "とれない",
-      "furigana": "とれない",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、山鳥が",
-      "furigana": "で、やまどりが",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "とれたの",
-      "furigana": "とれたの",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それは山鳥が、びつくりして",
-      "furigana": "それはやまどりが、びつくりして",
+      "clause_text": "それは",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "飛びあがるとこへ、",
-      "furigana": "とびあがるとこへ、",
+      "clause_text": "山鳥が、",
+      "furigana": "やまどりが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "山男が両手をちぢめて、鉄砲だまのやうに",
-      "furigana": "やまおとこがりょうてをちぢめて、てっぽうだまのやうに",
+      "clause_text": "びつくりして飛びあがるとこへ",
+      "furigana": "びつくりしてとびあがるとこへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "からだを投げつけたものです",
-      "furigana": "からだをなげつけたものです",
+      "clause_text": "、山男が両手をちぢめて、鉄砲だまの",
+      "furigana": "、やまおとこがりょうてをちぢめて、てっぽうだまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "から、山鳥ははんぶん潰れてしまひました。",
-      "furigana": "から、やまどりははんぶんつぶれてしまひました。",
+      "clause_text": "やうにからだを投げつけたものですから、山鳥ははんぶん潰れてしまひました。",
+      "furigana": "やうにからだをなげつけたものですから、やまどりははんぶんつぶれてしまひました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "山男は顔をまつ赤にし、",
-      "furigana": "やまおとこはかおをまつかにし、",
+      "clause_text": "山男は顔を",
+      "furigana": "やまおとこはかおを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "大きな口をにやにやまげて",
-      "furigana": "おおきなくちをにやにやまげて",
+      "clause_text": "まつ赤に",
+      "furigana": "まつかに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "よろこんで、そのぐつたり首を垂れた",
-      "furigana": "よろこんで、そのぐつたりくびをたれた",
+      "clause_text": "し、大きな口を",
+      "furigana": "し、おおきなくちを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "山鳥を、ぶらぶら",
-      "furigana": "やまどりを、ぶらぶら",
+      "clause_text": "にやにやまげてよろこんで、その",
+      "furigana": "にやにやまげてよろこんで、その",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "振りまはしながら森から出てきました。",
-      "furigana": "ふりまはしながらもりからでてきました。",
+      "clause_text": "ぐつたり首を垂れた山鳥を、ぶらぶら振りまはしながら森から出てきました。",
+      "furigana": "ぐつたりくびをたれたやまどりを、ぶらぶらふりまはしながらもりからでてきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして日あたりのいゝ南向きの",
-      "furigana": "そしてひあたりのいいみなみむきの",
+      "clause_text": "そして日あたりの",
+      "furigana": "そしてひあたりの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "かれ芝の上に、いきなり獲物を投げだして、",
-      "furigana": "かれしばのうえに、いきなりえものをなげだして、",
+      "clause_text": "いゝ南向きの",
+      "furigana": "いいみなみむきの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ばさばさの赤い髪毛",
-      "furigana": "ばさばさのあかいかみのけ",
+      "clause_text": "かれ芝の上に",
+      "furigana": "かれしばのうえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "を指でかきまはしながら、肩を円くして",
-      "furigana": "をゆびでかきまはしながら、かたをまるくして",
+      "clause_text": "、いきなり獲物を投げだして、ばさばさの",
+      "furigana": "、いきなりえものをなげだして、ばさばさの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ごろりと寝ころびました。",
-      "furigana": "ごろりとねころびました。",
+      "clause_text": "赤い髪毛を指でかきまはしながら、肩を円くしてごろりと寝ころびました。",
+      "furigana": "あかいかみのけをゆびでかきまはしながら、かたをまるくしてごろりとねころびました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

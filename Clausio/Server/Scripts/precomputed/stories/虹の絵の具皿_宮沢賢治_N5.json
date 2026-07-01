@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "むかし",
-      "furigana": "むかし",
+      "clause_text": "むかし、",
+      "furigana": "むかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、ある霧の",
-      "furigana": "、あるきりの",
+      "clause_text": "ある霧の",
+      "furigana": "あるきりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ふかい",
-      "furigana": "ふかい",
+      "clause_text": "ふかい朝でした。",
+      "furigana": "ふかいあさでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "朝でし",
-      "furigana": "あさでし",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "王子はみんなが",
-      "furigana": "おうじはみんなが",
+      "clause_text": "王子はみんながちょっといなくなったひまに、玻璃でたたんだ自分のお室から、ひょいっと芝生へ飛びおりました。",
+      "furigana": "おうじはみんながちょっといなくなったひまに、はりでたたんだじぶんのおむろから、ひょいっとしばふへとびおりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ちょっといなくなった",
-      "furigana": "ちょっといなくなった",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひまに、玻璃でたたん",
-      "furigana": "ひまに、はりでたたん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "だ自分のお室から、ひょいっ",
-      "furigana": "だじぶんのおむろから、ひょいっ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と芝生へ飛びおりました。",
-      "furigana": "としばふへとびおりました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして蜂雀のついた青い",
-      "furigana": "そしてはちすずめのついたあおい",
+      "clause_text": "そして蜂雀のついた青い大きな帽子を急いでかぶって、どんどん向こうへかけ出しました。",
+      "furigana": "そしてはちすずめのついたあおいおおきなぼうしをいそいでかぶって、どんどんむこうへかけだしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きな帽子を",
-      "furigana": "おおきなぼうしを",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "急いでかぶって、",
-      "furigana": "いそいでかぶって、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "どんどん向こうへ",
-      "furigana": "どんどんむこうへ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "かけ出しました。",
-      "furigana": "かけだしました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "どちら",
-      "furigana": "どちら",
+      "clause_text": "どちらに",
+      "furigana": "どちらに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に",
-      "furigana": "に",
+      "clause_text": "いらっしゃい",
+      "furigana": "いらっしゃい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いらっしゃい",
-      "furigana": "いらっしゃい",
+      "clause_text": "ますか。",
+      "furigana": "ますか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます",
-      "furigana": "ます",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "はて、王子さま」と、",
-      "furigana": "はて、おうじさま」\nと",
+      "clause_text": "はて、",
+      "furigana": "はて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "年よりのけらいが、室の中であっち",
-      "furigana": "、としよりのけらいが、むろのなかで",
+      "clause_text": "王子さま」",
+      "furigana": "おうじさまきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "を向いたりこっちを向い",
-      "furigana": "をむいたりこっちを",
+      "clause_text": "と、年より",
+      "furigana": "\nと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "たりして叫んでいる",
-      "furigana": "たりしてさけんで",
+      "clause_text": "のけらいが、室の中であっちを",
+      "furigana": "のけらいが、むろのなかであっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ようすでした。",
-      "furigana": "ようすでした",
+      "clause_text": "向いたりこっちを向いたりして叫んでいるようすでした。",
+      "furigana": "をむいたりこっちをむいたりしてさけんでいるようすでした",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "1日朝、長野県東御市の住宅でこの家に住む親子とみ",
-      "furigana": "1日朝、長野県東御市の住宅でこの家に住む親子とみ",
+      "clause_text": "1日朝、",
+      "furigana": "1日朝、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "られる女性と女の子の2人",
-      "furigana": "られる女性と女の子の2人",
+      "clause_text": "長野県東御市の",
+      "furigana": "長野県東御市の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "が死亡し、近くで、中学生",
-      "furigana": "が死亡し、近くで、中学生",
+      "clause_text": "住宅でこの家に",
+      "furigana": "住宅でこの家に",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の長男が刃物で切りつけられてけが",
-      "furigana": "の長男が刃物で切りつけられてけが",
+      "clause_text": "住む親子とみられる女性と女の子の2人が",
+      "furigana": "住む親子とみられる女性と女の子の2人が",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をした状態で見つかりました。",
-      "furigana": "をした状態で見つかりました。",
+      "clause_text": "死亡し、近くで、中学生の長男が刃物で切りつけられてけがをした状態で見つかりました。",
+      "furigana": "死亡し、近くで、中学生の長男が刃物で切りつけられてけがをした状態で見つかりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "動画配信中",
-      "furigana": "動画配信中",
+      "clause_text": "動画配信中の",
+      "furigana": "動画配信中の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の女性殺害事件",
-      "furigana": "の女性殺害事件",
+      "clause_text": "女性殺害事件被告は",
+      "furigana": "女性殺害事件被告は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "被告は初公判",
-      "furigana": "被告は初公判",
+      "clause_text": "初公判で",
+      "furigana": "初公判で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "で起訴内容",
-      "furigana": "で起訴内容",
+      "clause_text": "起訴内容認める。",
+      "furigana": "起訴内容認める。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "認める。",
-      "furigana": "認める。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "“誤って",
-      "furigana": "“誤って",
+      "clause_text": "“誤ってスプレー”病院に",
+      "furigana": "“誤ってスプレー”病院に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "スプレー”",
-      "furigana": "スプレー”",
+      "clause_text": "5人搬送。",
+      "furigana": "5人搬送。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "病院に5人",
-      "furigana": "病院に5人",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "搬送。",
-      "furigana": "搬送。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "トラブルから復旧",
-      "furigana": "トラブルから復旧",
+      "clause_text": "トラブルから",
+      "furigana": "トラブルから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "モバイル",
-      "furigana": "モバイル",
+      "clause_text": "復旧モバイルPASMOも",
+      "furigana": "復旧モバイルPASMOも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "PASMO",
-      "furigana": "PASMO",
+      "clause_text": "復旧。",
+      "furigana": "復旧。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "も復旧。",
-      "furigana": "も復旧。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "“出国税”",
-      "furigana": "“出国税”",
+      "clause_text": "“出国税”きょうから",
+      "furigana": "“出国税”きょうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "きょうから引き上げ",
-      "furigana": "きょうから引き上げ",
+      "clause_text": "引き上げ1人当たり1000円が",
+      "furigana": "引き上げ1人当たり1000円が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "1人当たり",
-      "furigana": "1人当たり",
+      "clause_text": "3000円に",
+      "furigana": "3000円に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "1000円が",
-      "furigana": "1000円が",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "3000円に。",
-      "furigana": "3000円に。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

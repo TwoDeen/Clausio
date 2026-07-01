@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "一午後の授業「ではみな",
-      "furigana": "いち　ごごのじゅぎょう\n「では",
+      "clause_text": "一午後の",
+      "furigana": "いち　ごご",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "さん、さういふふうに川だと云はれ",
-      "furigana": "みなさん、さういふふうにかわだと",
+      "clause_text": "授業「ではみなさん、",
+      "furigana": "のじゅぎょう\nきごうではみな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "たり、乳の流れたあとだと云はれたりして",
-      "furigana": "れたり、ちちのながれたあとだといはれたり",
+      "clause_text": "さういふふうに",
+      "furigana": "、さういふ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ゐた、このぼんやりと白いもの",
-      "furigana": "していた、このぼんやりとしろい",
+      "clause_text": "川だと云はれたり、乳の流れたあと",
+      "furigana": "にかわだといはれたり、ちちのながれた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が何かご承知ですか。",
-      "furigana": "ものがなんかごしょうちです",
+      "clause_text": "だと云はれたりしてゐた、このぼんやりと白いものが何かご承知ですか。",
+      "furigana": "あとだといはれたりしていた、このぼんやりとしろいものがなんかごしょうちです",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」先生は、黒板に吊した",
-      "furigana": "」\nせんせいは、こくばんにつるし",
+      "clause_text": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きな黒い星座の圖の、上から下へ",
-      "furigana": "たおおきなくろいせいざのずの、うえからした",
+      "clause_text": "先生は",
+      "furigana": "\nせんせい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "白くけぶつた銀河帶の",
-      "furigana": "へしろくけぶつたぎんが帶",
+      "clause_text": "、黒板に",
+      "furigana": "は、こくばん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "やうなところを指しながら、",
-      "furigana": "のやうなところをさしながら",
+      "clause_text": "吊した大きな黒い星座の圖の、上から下へ",
+      "furigana": "につるしたおおきなくろいせいざのずの、うえからした",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんなに問ひをかけました。",
-      "furigana": "、みんなにとひをかけました",
+      "clause_text": "白くけぶつた銀河帶のやうなところを指しながら、みんなに問ひをかけました。",
+      "furigana": "へしろくけぶつたぎんが帶のやうなところをさしながら、みんなにとひをかけました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "が手を",
-      "furigana": "がてを",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あげ",
-      "furigana": "あげ",
+      "clause_text": "手をあげました。",
+      "furigana": "てをあげました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "四五",
-      "furigana": "よんご",
+      "clause_text": "四五人手を",
+      "furigana": "よんごにんしゅを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人手を",
-      "furigana": "にんしゅを",
+      "clause_text": "あげました。",
+      "furigana": "あげました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "あげまし",
-      "furigana": "あげまし",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ジヨバンニ",
-      "furigana": "じよばんに",
+      "clause_text": "ジヨバンニも",
+      "furigana": "じよばんにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "も手をあげよう",
-      "furigana": "もてをあげよう",
+      "clause_text": "手を",
+      "furigana": "てを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "として、急いで",
-      "furigana": "として、いそいで",
+      "clause_text": "あげようと",
+      "furigana": "あげようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのまま",
-      "furigana": "そのまま",
+      "clause_text": "して、急いでそのままやめました。",
+      "furigana": "して、いそいでそのままやめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "やめました。",
-      "furigana": "やめました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

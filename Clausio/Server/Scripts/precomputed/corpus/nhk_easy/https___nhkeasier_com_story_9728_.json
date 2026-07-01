@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アメリカとイラン",
-      "furigana": "アメリカとイラン",
+      "clause_text": "アメリカと",
+      "furigana": "アメリカと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は17日、戦いを終わり",
-      "furigana": "は17にち、たたかいをおわり",
+      "clause_text": "イランは",
+      "furigana": "イランは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "にするための",
-      "furigana": "にするための",
+      "clause_text": "17日、",
+      "furigana": "17にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "書類にサイン",
-      "furigana": "しょるいにサイン",
+      "clause_text": "戦いを",
+      "furigana": "たたかいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "終わりにするための書類にサインしました。",
+      "furigana": "おわりにするためのしょるいにサインしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "2つの国は、戦いを",
-      "furigana": "ふたつのくには、たたかいを",
+      "clause_text": "2つの",
+      "furigana": "ふたつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "全部終わり",
-      "furigana": "ぜんぶおわり",
+      "clause_text": "国は",
+      "furigana": "くには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "にする話し合い",
-      "furigana": "にするはなしあい",
+      "clause_text": "、戦いを",
+      "furigana": "、たたかいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を21日から",
-      "furigana": "をふた1にちから",
+      "clause_text": "全部終わりにする話し合いを",
+      "furigana": "ぜんぶおわりにするはなしあいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "スイスで始めました。",
-      "furigana": "スイスではじめました。",
+      "clause_text": "21日からスイスで始めました。",
+      "furigana": "ふた1にちからスイスではじめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "パキスタンも戦いを",
-      "furigana": "パキスタンもたたかいを",
+      "clause_text": "パキスタンも",
+      "furigana": "パキスタンも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わりにしたいと考えてい",
-      "furigana": "おわりにしたいとかんがえてい",
+      "clause_text": "戦いを",
+      "furigana": "たたかいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "て、一緒に話をし",
-      "furigana": "て、いっしょにはなをし",
+      "clause_text": "終わりに",
+      "furigana": "おわりに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "したいと考えていて、一緒に話をしました。",
+      "furigana": "したいとかんがえていて、いっしょにはなをしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "パキスタン",
-      "furigana": "パキスタン",
+      "clause_text": "パキスタンは",
+      "furigana": "パキスタンは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、いい",
-      "furigana": "は、いい",
+      "clause_text": "、いい話し合いができたと言いました。",
+      "furigana": "、いいはなしあいができたといいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "話し合いができ",
-      "furigana": "はなしあいができ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "たと言いました。",
-      "furigana": "たといいました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "これからグループ",
-      "furigana": "これからグループ",
+      "clause_text": "これから",
+      "furigana": "これから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "をつくって、核の",
-      "furigana": "をつくって、かくの",
+      "clause_text": "グループを",
+      "furigana": "グループを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "問題などの話し合い",
-      "furigana": "もんだいなどのはなしあい",
+      "clause_text": "つくって、",
+      "furigana": "つくって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が始まると言い",
-      "furigana": "がはじまるといい",
+      "clause_text": "核の",
+      "furigana": "かくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "問題などの話し合いが始まると言いました。",
+      "furigana": "もんだいなどのはなしあいがはじまるといいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

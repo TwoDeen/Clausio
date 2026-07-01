@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "その頃の風穂の",
-      "furigana": "そのころのかほの",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "野はらは、",
-      "furigana": "のはらは、",
+      "clause_text": "頃の",
+      "furigana": "ころの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほんたう",
-      "furigana": "ほんたう",
+      "clause_text": "風穂の",
+      "furigana": "かほの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に立派",
-      "furigana": "にりっぱ",
+      "clause_text": "野はらは",
+      "furigana": "のはらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "でした。",
-      "furigana": "でした。",
+      "clause_text": "、ほんたうに立派でした。",
+      "furigana": "、ほんたうにりっぱでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "青い萱や光る茨や",
-      "furigana": "あおいかややひかるうばらや",
+      "clause_text": "青い萱や光る茨やけむりの",
+      "furigana": "あおいかややひかるうばらやけむりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "けむりのやうな穂を出す草で",
-      "furigana": "けむりのやうなほをだすくさで",
+      "clause_text": "やうな穂を",
+      "furigana": "やうなほを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "一ぱい、それに",
-      "furigana": "いっぱい、それに",
+      "clause_text": "出す草で",
+      "furigana": "だすくさで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あちこちには栗の木や",
-      "furigana": "あちこちにはくりのきや",
+      "clause_text": "一ぱい、それに",
+      "furigana": "いっぱい、それに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "はんの木の小さな林もありました。",
-      "furigana": "はんのきのちいさなはやしもありました。",
+      "clause_text": "あちこちには栗の木やはんの木の小さな林もありました。",
+      "furigana": "あちこちにはくりのきやはんのきのちいさなはやしもありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "野原は今は練兵場や粟の畑や",
-      "furigana": "のはらはいまはれんぺいじょうやあわのはたけや",
+      "clause_text": "野原は今は",
+      "furigana": "のはらはいまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "苗圃などになってそれでも",
-      "furigana": "びょうほなどになってそれでも",
+      "clause_text": "練兵場や粟の",
+      "furigana": "れんぺいじょうやあわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "騎兵の馬が光ったり、白いシャツの人が働い",
-      "furigana": "きへいのうまがひかったり、しろいしゃつのひとがはたらい",
+      "clause_text": "畑や苗圃などに",
+      "furigana": "はたけやびょうほなどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "たり、汽車で通ってもなかなか奇麗ですけれど",
-      "furigana": "たり、きしゃでかよってもなかなかきれいですけれど",
+      "clause_text": "なってそれでも騎兵の馬が光ったり、白いシャツの",
+      "furigana": "なってそれでもきへいのうまがひかったり、しろいしゃつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "も、前はまだまだ立派でした。",
-      "furigana": "も、まえはまだまだりっぱでした。",
+      "clause_text": "人が働いたり、汽車で通ってもなかなか奇麗ですけれども、前はまだまだ立派でした。",
+      "furigana": "ひとがはたらいたり、きしゃでかよってもなかなかきれいですけれども、まえはまだまだりっぱでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なると私",
-      "furigana": "なるとわたくし",
+      "clause_text": "なると",
+      "furigana": "なると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どもは毎日",
-      "furigana": "どもはまいにち",
+      "clause_text": "私ども",
+      "furigana": "わたくしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "野原に出掛け",
-      "furigana": "のはらにでかけ",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "毎日野原に出掛けました。",
+      "furigana": "まいにちのはらにでかけました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "殊に私は藤原",
-      "furigana": "ことにわたくしはふじわら",
+      "clause_text": "殊に",
+      "furigana": "ことに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "慶次郎と",
-      "furigana": "けいじろうと",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いっしょ",
-      "furigana": "いっしょ",
+      "clause_text": "藤原慶次郎と",
+      "furigana": "ふじわらけいじろうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に出て",
-      "furigana": "にでて",
+      "clause_text": "いっしょに出て行きました。",
+      "furigana": "いっしょにでていきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

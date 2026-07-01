@@ -1,22 +1,126 @@
 {
   "nhk_easy": {
+    "N3": [
+      {
+        "id": "https://nhkeasier.com/story/9744/",
+        "title": "2つの台風が来ている　雨と風に気をつけて",
+        "link": "https://nhkeasier.com/story/9744/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9737/",
+        "title": "熊本県と鹿児島県　たくさん雨が降った所で被害が出た",
+        "link": "https://nhkeasier.com/story/9737/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9732/",
+        "title": "西日本で大雨に気をつけて　2つの台風も来るかもしれない",
+        "link": "https://nhkeasier.com/story/9732/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9717/",
+        "title": "石川県と奈良県　熊が人を襲って2人がけがをした",
+        "link": "https://nhkeasier.com/story/9717/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9709/",
+        "title": "ホルムズ海峡はどうなるか",
+        "link": "https://nhkeasier.com/story/9709/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9754/",
+        "title": "7月は2500以上の食べ物や飲み物の値段が上がる",
+        "link": "https://nhkeasier.com/story/9754/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9755/",
+        "title": "栃木県　男性が畑で熊に襲われてひどいけがをした",
+        "link": "https://nhkeasier.com/story/9755/",
+        "detected_level": "N3"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9734/",
+        "title": "エアコンの修理　悪い会社を選ばないように気をつけて",
+        "link": "https://nhkeasier.com/story/9734/",
+        "detected_level": "N3"
+      }
+    ],
     "N5": [
       {
-        "id": "https://nhkeasier.com/story/9716/",
-        "title": "G7「イランが核兵器を持たないようにすることを確認した」",
-        "link": "https://nhkeasier.com/story/9716/",
+        "id": "https://nhkeasier.com/story/9749/",
+        "title": "ベネズエラで大きい地震 「28日までに1450人が亡くなった」",
+        "link": "https://nhkeasier.com/story/9749/",
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9724/",
-        "title": "東京の小学校で火事　11人が病院に運ばれた",
-        "link": "https://nhkeasier.com/story/9724/",
+        "id": "https://nhkeasier.com/story/9736/",
+        "title": "四国や九州でたくさん雨が降っている　災害に気をつけて",
+        "link": "https://nhkeasier.com/story/9736/",
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9710/",
-        "title": "サッカーのワールドカップ　日本はオランダと2対2で引き分け",
-        "link": "https://nhkeasier.com/story/9710/",
+        "id": "https://nhkeasier.com/story/9713/",
+        "title": "日経平均株価　初めて7万円より高くなった",
+        "link": "https://nhkeasier.com/story/9713/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9742/",
+        "title": "青森県で震度6強の大きい地震があった",
+        "link": "https://nhkeasier.com/story/9742/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9704/",
+        "title": "日本のH3ロケット　打ち上げが成功",
+        "link": "https://nhkeasier.com/story/9704/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9751/",
+        "title": "ヨーロッパでとても暑い日が続いている",
+        "link": "https://nhkeasier.com/story/9751/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9738/",
+        "title": "島根県出雲市の商店街で火事があった",
+        "link": "https://nhkeasier.com/story/9738/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9733/",
+        "title": "沖縄の戦いから81年　亡くなった人たちのために祈る",
+        "link": "https://nhkeasier.com/story/9733/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9740/",
+        "title": "九州地方などでたくさん雨が降っている　災害に気をつけて",
+        "link": "https://nhkeasier.com/story/9740/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9718/",
+        "title": "16日関東地方で震度5弱の地震　1週間ぐらい気をつけて",
+        "link": "https://nhkeasier.com/story/9718/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9748/",
+        "title": "京都駅で列車が線路から外れた　けがをした人はいない",
+        "link": "https://nhkeasier.com/story/9748/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9723/",
+        "title": "災害にあった人たちを元気に　CDをつくるため高校生が演奏",
+        "link": "https://nhkeasier.com/story/9723/",
         "detected_level": "N5"
       },
       {
@@ -32,15 +136,9 @@
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9713/",
-        "title": "日経平均株価　初めて7万円より高くなった",
-        "link": "https://nhkeasier.com/story/9713/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9721/",
-        "title": "株の価格　7万1000円以上　今まででいちばん高くなった",
-        "link": "https://nhkeasier.com/story/9721/",
+        "id": "https://nhkeasier.com/story/9731/",
+        "title": "日本のビザを取るときに払うお金　7月から5倍に上がる",
+        "link": "https://nhkeasier.com/story/9731/",
         "detected_level": "N5"
       },
       {
@@ -50,69 +148,9 @@
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9704/",
-        "title": "日本のH3ロケット　打ち上げが成功",
-        "link": "https://nhkeasier.com/story/9704/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9708/",
-        "title": "アメリカとイランの戦いが終わるかもしれない",
-        "link": "https://nhkeasier.com/story/9708/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9747/",
-        "title": "サッカーのワールドカップ　日本は決勝トーナメントへ進む",
-        "link": "https://nhkeasier.com/story/9747/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9749/",
-        "title": "ベネズエラで大きい地震 「28日までに1450人が亡くなった」",
-        "link": "https://nhkeasier.com/story/9749/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9753/",
-        "title": "1ドル=162円台　円がとても安くなっている",
-        "link": "https://nhkeasier.com/story/9753/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9733/",
-        "title": "沖縄の戦いから81年　亡くなった人たちのために祈る",
-        "link": "https://nhkeasier.com/story/9733/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9736/",
-        "title": "四国や九州でたくさん雨が降っている　災害に気をつけて",
-        "link": "https://nhkeasier.com/story/9736/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9730/",
-        "title": "ウクライナ　ロシアの石油の工場を攻撃",
-        "link": "https://nhkeasier.com/story/9730/",
-        "detected_level": "N5"
-      },
-      {
         "id": "https://nhkeasier.com/story/9720/",
         "title": "アメリカとイランの大統領　戦いを終わりにする書類にサイン",
         "link": "https://nhkeasier.com/story/9720/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9741/",
-        "title": "台風が近づいている　27日ぐらいまでたくさん雨が降りそうだ",
-        "link": "https://nhkeasier.com/story/9741/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9718/",
-        "title": "16日関東地方で震度5弱の地震　1週間ぐらい気をつけて",
-        "link": "https://nhkeasier.com/story/9718/",
         "detected_level": "N5"
       },
       {
@@ -122,39 +160,9 @@
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9751/",
-        "title": "ヨーロッパでとても暑い日が続いている",
-        "link": "https://nhkeasier.com/story/9751/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9723/",
-        "title": "災害にあった人たちを元気に　CDをつくるため高校生が演奏",
-        "link": "https://nhkeasier.com/story/9723/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9731/",
-        "title": "日本のビザを取るときに払うお金　7月から5倍に上がる",
-        "link": "https://nhkeasier.com/story/9731/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9728/",
-        "title": "アメリカとイラン　戦いを終わりにする話し合いを始めた",
-        "link": "https://nhkeasier.com/story/9728/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9743/",
-        "title": "東北地方　地震でけがをした人がいる",
-        "link": "https://nhkeasier.com/story/9743/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9740/",
-        "title": "九州地方などでたくさん雨が降っている　災害に気をつけて",
-        "link": "https://nhkeasier.com/story/9740/",
+        "id": "https://nhkeasier.com/story/9724/",
+        "title": "東京の小学校で火事　11人が病院に運ばれた",
+        "link": "https://nhkeasier.com/story/9724/",
         "detected_level": "N5"
       },
       {
@@ -164,21 +172,51 @@
         "detected_level": "N5"
       },
       {
+        "id": "https://nhkeasier.com/story/9728/",
+        "title": "アメリカとイラン　戦いを終わりにする話し合いを始めた",
+        "link": "https://nhkeasier.com/story/9728/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9750/",
+        "title": "山梨県で震度6弱の大きい地震があった",
+        "link": "https://nhkeasier.com/story/9750/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9743/",
+        "title": "東北地方　地震でけがをした人がいる",
+        "link": "https://nhkeasier.com/story/9743/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9710/",
+        "title": "サッカーのワールドカップ　日本はオランダと2対2で引き分け",
+        "link": "https://nhkeasier.com/story/9710/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9741/",
+        "title": "台風が近づいている　27日ぐらいまでたくさん雨が降りそうだ",
+        "link": "https://nhkeasier.com/story/9741/",
+        "detected_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9753/",
+        "title": "1ドル=162円台　円がとても安くなっている",
+        "link": "https://nhkeasier.com/story/9753/",
+        "detected_level": "N5"
+      },
+      {
         "id": "https://nhkeasier.com/story/9715/",
         "title": "北海道　昔から続く「ホッカイシマエビ漁」が始まった",
         "link": "https://nhkeasier.com/story/9715/",
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9748/",
-        "title": "京都駅で列車が線路から外れた　けがをした人はいない",
-        "link": "https://nhkeasier.com/story/9748/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9738/",
-        "title": "島根県出雲市の商店街で火事があった",
-        "link": "https://nhkeasier.com/story/9738/",
+        "id": "https://nhkeasier.com/story/9716/",
+        "title": "G7「イランが核兵器を持たないようにすることを確認した」",
+        "link": "https://nhkeasier.com/story/9716/",
         "detected_level": "N5"
       },
       {
@@ -188,97 +226,35 @@
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9742/",
-        "title": "青森県で震度6強の大きい地震があった",
-        "link": "https://nhkeasier.com/story/9742/",
+        "id": "https://nhkeasier.com/story/9721/",
+        "title": "株の価格　7万1000円以上　今まででいちばん高くなった",
+        "link": "https://nhkeasier.com/story/9721/",
         "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9750/",
-        "title": "山梨県で震度6弱の大きい地震があった",
-        "link": "https://nhkeasier.com/story/9750/",
+        "id": "https://nhkeasier.com/story/9747/",
+        "title": "サッカーのワールドカップ　日本は決勝トーナメントへ進む",
+        "link": "https://nhkeasier.com/story/9747/",
         "detected_level": "N5"
-      }
-    ],
-    "N3": [
-      {
-        "id": "https://nhkeasier.com/story/9754/",
-        "title": "7月は2500以上の食べ物や飲み物の値段が上がる",
-        "link": "https://nhkeasier.com/story/9754/",
-        "detected_level": "N3"
       },
       {
-        "id": "https://nhkeasier.com/story/9732/",
-        "title": "西日本で大雨に気をつけて　2つの台風も来るかもしれない",
-        "link": "https://nhkeasier.com/story/9732/",
-        "detected_level": "N3"
+        "id": "https://nhkeasier.com/story/9708/",
+        "title": "アメリカとイランの戦いが終わるかもしれない",
+        "link": "https://nhkeasier.com/story/9708/",
+        "detected_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9737/",
-        "title": "熊本県と鹿児島県　たくさん雨が降った所で被害が出た",
-        "link": "https://nhkeasier.com/story/9737/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9755/",
-        "title": "栃木県　男性が畑で熊に襲われてひどいけがをした",
-        "link": "https://nhkeasier.com/story/9755/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9709/",
-        "title": "ホルムズ海峡はどうなるか",
-        "link": "https://nhkeasier.com/story/9709/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9744/",
-        "title": "2つの台風が来ている　雨と風に気をつけて",
-        "link": "https://nhkeasier.com/story/9744/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9717/",
-        "title": "石川県と奈良県　熊が人を襲って2人がけがをした",
-        "link": "https://nhkeasier.com/story/9717/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9734/",
-        "title": "エアコンの修理　悪い会社を選ばないように気をつけて",
-        "link": "https://nhkeasier.com/story/9734/",
-        "detected_level": "N3"
+        "id": "https://nhkeasier.com/story/9730/",
+        "title": "ウクライナ　ロシアの石油の工場を攻撃",
+        "link": "https://nhkeasier.com/story/9730/",
+        "detected_level": "N5"
       }
     ],
     "N4": [
       {
-        "id": "https://nhkeasier.com/story/9705/",
-        "title": "「首都直下地震」　被害を小さくする目標を決めた",
-        "link": "https://nhkeasier.com/story/9705/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9712/",
-        "title": "日本銀行が利子を1%にすることを決めた",
-        "link": "https://nhkeasier.com/story/9712/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9739/",
-        "title": "今年5月　熱中症で4000人以上が病院に運ばれた",
-        "link": "https://nhkeasier.com/story/9739/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9746/",
-        "title": "大きい地震があった青森県で学校の授業が始まる",
-        "link": "https://nhkeasier.com/story/9746/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9745/",
-        "title": "気象庁の「時系列情報」を見て災害の危険な時間を調べてほしい",
-        "link": "https://nhkeasier.com/story/9745/",
+        "id": "https://nhkeasier.com/story/9714/",
+        "title": "アイスクリームの値段　6つの会社が相談して決めていた疑い",
+        "link": "https://nhkeasier.com/story/9714/",
         "detected_level": "N4"
       },
       {
@@ -288,15 +264,33 @@
         "detected_level": "N4"
       },
       {
-        "id": "https://nhkeasier.com/story/9719/",
-        "title": "滋賀県甲賀市　「忍者」の試験があった",
-        "link": "https://nhkeasier.com/story/9719/",
+        "id": "https://nhkeasier.com/story/9745/",
+        "title": "気象庁の「時系列情報」を見て災害の危険な時間を調べてほしい",
+        "link": "https://nhkeasier.com/story/9745/",
         "detected_level": "N4"
       },
       {
-        "id": "https://nhkeasier.com/story/9714/",
-        "title": "アイスクリームの値段　6つの会社が相談して決めていた疑い",
-        "link": "https://nhkeasier.com/story/9714/",
+        "id": "https://nhkeasier.com/story/9746/",
+        "title": "大きい地震があった青森県で学校の授業が始まる",
+        "link": "https://nhkeasier.com/story/9746/",
+        "detected_level": "N4"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9712/",
+        "title": "日本銀行が利子を1%にすることを決めた",
+        "link": "https://nhkeasier.com/story/9712/",
+        "detected_level": "N4"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9705/",
+        "title": "「首都直下地震」　被害を小さくする目標を決めた",
+        "link": "https://nhkeasier.com/story/9705/",
+        "detected_level": "N4"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9739/",
+        "title": "今年5月　熱中症で4000人以上が病院に運ばれた",
+        "link": "https://nhkeasier.com/story/9739/",
         "detected_level": "N4"
       },
       {
@@ -304,30 +298,16 @@
         "title": "サッカーのワールドカップ　日本はブラジルに1対2で負けた",
         "link": "https://nhkeasier.com/story/9752/",
         "detected_level": "N4"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9719/",
+        "title": "滋賀県甲賀市　「忍者」の試験があった",
+        "link": "https://nhkeasier.com/story/9719/",
+        "detected_level": "N4"
       }
     ]
   },
   "nhk_general": {
-    "N5": [
-      {
-        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015166011000.html",
-        "title": "プロ野球「奇跡のバックホーム」横田慎太郎さんの母校に顕彰碑",
-        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166011000.html",
-        "detected_level": "N5"
-      },
-      {
-        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
-        "title": "モバイルSuica トラブルから復旧 モバイルPASMOも復旧",
-        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
-        "detected_level": "N5"
-      },
-      {
-        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
-        "title": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
-        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
-        "detected_level": "N5"
-      }
-    ],
     "N4": [
       {
         "id": "http://www3.nhk.or.jp/news/html/20260701/k10015165761000.html",
@@ -339,6 +319,12 @@
         "id": "http://www3.nhk.or.jp/news/html/20260701/k10015165681000.html",
         "title": "長野 東御 母娘か2人死亡 長男切りつけた疑い 父親を逮捕",
         "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165681000.html",
+        "detected_level": "N4"
+      },
+      {
+        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015166151000.html",
+        "title": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166151000.html",
         "detected_level": "N4"
       }
     ],
@@ -354,6 +340,20 @@
         "title": "鹿児島 奄美地方が梅雨明け 西日本中心に2日にかけ大雨おそれ",
         "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165491000.html",
         "detected_level": "N3"
+      }
+    ],
+    "N5": [
+      {
+        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
+        "title": "モバイルSuica トラブルから復旧 モバイルPASMOも復旧",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
+        "detected_level": "N5"
+      },
+      {
+        "id": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
+        "title": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
+        "detected_level": "N5"
       }
     ]
   },

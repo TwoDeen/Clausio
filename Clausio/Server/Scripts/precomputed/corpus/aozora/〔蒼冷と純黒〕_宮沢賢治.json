@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "〔冒頭",
-      "furigana": "きごうぼうとう",
+      "clause_text": "〔冒頭欠〕たいエゴイストだ。",
+      "furigana": "きごうぼうとうけつきごう\nたいえごいすとだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "欠〕",
-      "furigana": "けつきごう",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "たい",
-      "furigana": "\n",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "エゴイスト",
-      "furigana": "えごいすと",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だ。",
-      "furigana": "だ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "たゞ神のみ名による",
-      "furigana": "ただかみのみなによる",
+      "clause_text": "たゞ神の",
+      "furigana": "ただかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "エゴイスト",
-      "furigana": "えごいすと",
+      "clause_text": "み名に",
+      "furigana": "なに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "だと、君は",
-      "furigana": "だと、きみは",
+      "clause_text": "よるエゴイストだと",
+      "furigana": "よるえごいすとだと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "もう一遍、",
-      "furigana": "もういっぺん、",
+      "clause_text": "、君はもう一遍、",
+      "furigana": "、きみはもういっぺん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "さうでなくて",
-      "furigana": "さうでなくて",
+      "clause_text": "さうで",
+      "furigana": "さうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "さへ、俺",
-      "furigana": "さへ、おれ",
+      "clause_text": "なくてさへ",
+      "furigana": "なくてさへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の胸は裂け",
-      "furigana": "のむねはさけ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "やうと",
-      "furigana": "やうと",
+      "clause_text": "俺の",
+      "furigana": "おれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "する。",
-      "furigana": "する。",
+      "clause_text": "胸は裂けやうとする。",
+      "furigana": "むねはさけやうとする。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "裂け",
-      "furigana": "も",
+      "clause_text": "裂けやうと",
+      "furigana": "もさけやう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "やうと",
-      "furigana": "やう",
+      "clause_text": "する。",
+      "furigana": "とする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "する。",
-      "furigana": "とする",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "町はづれの",
-      "furigana": "まちはづれの",
+      "clause_text": "町は",
+      "furigana": "まちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "たそがれの家で、",
-      "furigana": "たそがれのいえで、",
+      "clause_text": "づれの",
+      "furigana": "づれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "顔のまっ赤",
-      "furigana": "かおのまっか",
+      "clause_text": "たそがれの",
+      "furigana": "たそがれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "な女が、一人で、",
-      "furigana": "なおんなが、ひとりで、",
+      "clause_text": "家で、顔のまっ赤な女が",
+      "furigana": "いえで、かおのまっかなおんなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "せわしく飯をかき込んだ。",
-      "furigana": "せわしくめしをかきこんだ。",
+      "clause_text": "、一人で、せわしく飯をかき込んだ。",
+      "furigana": "、ひとりで、せわしくめしをかきこんだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

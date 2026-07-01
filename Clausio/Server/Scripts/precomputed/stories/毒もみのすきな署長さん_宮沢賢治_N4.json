@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "四つのつめたい谷川が、カラコン",
-      "furigana": "よんつのつめたいたにがわが、からこん",
+      "clause_text": "四つの",
+      "furigana": "よんつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "山の氷河から出て、",
-      "furigana": "さんのひょうがからでて、",
+      "clause_text": "つめたい谷川が",
+      "furigana": "つめたいたにがわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ごうごう白い泡を",
-      "furigana": "ごうごうしろいあわを",
+      "clause_text": "、カラコン山の",
+      "furigana": "、からこんさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "はいて、プハラ",
-      "furigana": "はいて、ぷはら",
+      "clause_text": "氷河から",
+      "furigana": "ひょうがから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の国にはいるのでした。",
-      "furigana": "のくににはいるのでした。",
+      "clause_text": "出て、ごうごう白い泡をはいて、プハラの国にはいるのでした。",
+      "furigana": "でて、ごうごうしろいあわをはいて、ぷはらのくににはいるのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "四つの川は",
-      "furigana": "よんつのかわは",
+      "clause_text": "四つの",
+      "furigana": "よんつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "プハラの町で",
-      "furigana": "ぷはらのまちで",
+      "clause_text": "川は",
+      "furigana": "かわは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "集って一つの大きな",
-      "furigana": "つどってひとつのおおきな",
+      "clause_text": "プハラの",
+      "furigana": "ぷはらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "しずかな川に",
-      "furigana": "しずかなかわに",
+      "clause_text": "町で集って一つの",
+      "furigana": "まちでつどってひとつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "大きなしずかな川になりました。",
+      "furigana": "おおきなしずかなかわになりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その川はふだんは水もすきとおり、淵には雲や樹の",
-      "furigana": "そのかわはふだんはみずもすきとおり、ふちにはくもやきの",
+      "clause_text": "その川は",
+      "furigana": "そのかわは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "影もうつるのでしたが、一",
-      "furigana": "かげもうつるのでしたが、いち",
+      "clause_text": "ふだんは水も",
+      "furigana": "ふだんはみずも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ぺん洪水になると、幅十町も",
-      "furigana": "ぺんこうずいになると、はばじゅうちょうも",
+      "clause_text": "すきとおり、淵には雲や樹の",
+      "furigana": "すきとおり、ふちにはくもやきの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある楊の生えた広い河原が、恐ろしく",
-      "furigana": "あるようのはえたひろいかわらが、おそろしく",
+      "clause_text": "影もうつるのでしたが、一ぺん洪水になると",
+      "furigana": "かげもうつるのでしたが、いちぺんこうずいになると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "咆える水で、いっぱいになってしまったのです。",
-      "furigana": "ほえるみずで、いっぱいになってしまったのです。",
+      "clause_text": "、幅十町もある楊の生えた広い河原が、恐ろしく咆える水で、いっぱいになってしまったのです。",
+      "furigana": "、はばじゅうちょうもあるようのはえたひろいかわらが、おそろしくほえるみずで、いっぱいになってしまったのです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "けれども水が",
-      "furigana": "けれどもみずが",
+      "clause_text": "けれども水が退きますと、もとのきれいな、白い河原があらわれました。",
+      "furigana": "けれどもみずがしりぞきますと、もとのきれいな、しろいかわらがあらわれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "退きますと、もとの",
-      "furigana": "しりぞきますと、もとの",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "きれいな、白い",
-      "furigana": "きれいな、しろい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "河原があらわれ",
-      "furigana": "かわらがあらわれ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その河原のところどころ",
-      "furigana": "そのかわらのところどころ",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "には、蘆やがまなどの岸に",
-      "furigana": "には、あしやがまなどのきしに",
+      "clause_text": "河原のと",
+      "furigana": "かわらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "生えた、ほそ長い",
-      "furigana": "はえた、ほそながい",
+      "clause_text": "ころどころに",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "沼のようなものが",
-      "furigana": "ぬまのようなものが",
+      "clause_text": "は、蘆やがまなどの岸に",
+      "furigana": "は、あしやがまなどのきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "生えた、ほそ長い沼のようなものがありました。",
+      "furigana": "はえた、ほそながいぬまのようなものがありました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "林は夜の",
-      "furigana": "はやしはよるの",
+      "clause_text": "林は",
+      "furigana": "はやしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "空気の底の",
-      "furigana": "くうきのそこの",
+      "clause_text": "夜の",
+      "furigana": "よるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "すさまじい",
-      "furigana": "すさまじい",
+      "clause_text": "空気の",
+      "furigana": "くうきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "藻の群落",
-      "furigana": "ものぐんらく",
+      "clause_text": "底の",
+      "furigana": "そこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "すさまじい藻の群落だ。",
+      "furigana": "すさまじいものぐんらくだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんな",
-      "furigana": "みんな",
+      "clause_text": "みんなだまって",
+      "furigana": "みんなだまって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "だまっ",
-      "furigana": "だまっ",
+      "clause_text": "急いで",
+      "furigana": "いそいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "て急い",
-      "furigana": "ていそい",
+      "clause_text": "ゐる。",
+      "furigana": "いる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "でゐる",
-      "furigana": "でいる",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "通り抜けよう",
-      "furigana": "とおりぬけよう",
+      "clause_text": "通り抜けようと",
+      "furigana": "とおりぬけようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "として",
-      "furigana": "として",
+      "clause_text": "してゐる。",
+      "furigana": "している。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ゐる",
-      "furigana": "いる",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "俄に空が",
-      "furigana": "にわかにそらが",
+      "clause_text": "俄に",
+      "furigana": "にわかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "はっきり",
-      "furigana": "はっきり",
+      "clause_text": "空が",
+      "furigana": "そらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "開け星が",
-      "furigana": "あけほしが",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いっぱい耀めき",
-      "furigana": "いっぱい耀めき",
+      "clause_text": "っきり開け星が",
+      "furigana": "あけほしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "出した。",
-      "furigana": "だした。",
+      "clause_text": "いっぱい耀めき出した。",
+      "furigana": "いっぱい耀めきだした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たゞその空のところどころ",
-      "furigana": "ただそのそらのところどころ",
+      "clause_text": "たゞその",
+      "furigana": "ただその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "中風にでもかかった",
-      "furigana": "ちゅうぶにでもかかった",
+      "clause_text": "空のと",
+      "furigana": "そらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "らしく変に淀んで暗いのは",
-      "furigana": "らしくへんによどんでくらいのは",
+      "clause_text": "ころどころ中風に",
+      "furigana": "ちゅうぶに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "幾片か雲が浮んでゐるのに",
-      "furigana": "いくひらかくもがうかんでいるのに",
+      "clause_text": "でもかかったらしく変に",
+      "furigana": "でもかかったらしくへんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ちがひない。",
-      "furigana": "ちがひない。",
+      "clause_text": "淀んで暗いのは幾片か雲が浮んでゐるのにちがひない。",
+      "furigana": "よどんでくらいのはいくひらかくもがうかんでいるのにちがひない。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

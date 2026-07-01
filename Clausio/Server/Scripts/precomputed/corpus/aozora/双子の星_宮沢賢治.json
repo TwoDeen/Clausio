@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "双子の星一天の川",
-      "furigana": "ふたごのほし　いち\n",
+      "clause_text": "双子の",
+      "furigana": "ふたごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の西の岸に",
-      "furigana": "のにしの",
+      "clause_text": "星一天の",
+      "furigana": "ほし　いち\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "すぎなの胞子",
-      "furigana": "きしにすぎなの",
+      "clause_text": "川の",
+      "furigana": "かわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほどの小さな二つ",
-      "furigana": "ほうしほどのちいさな",
+      "clause_text": "西の岸にすぎなの",
+      "furigana": "のにしのきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の星が見えます。",
-      "furigana": "ふたつのほしがみえ",
+      "clause_text": "胞子ほどの小さな二つの星が見えます。",
+      "furigana": "のほうしほどのちいさなふたつのほしがみえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "あれはチュンセ童子とポウセ",
-      "furigana": "あれはちゅんせどうじとぽうせ",
+      "clause_text": "あれは",
+      "furigana": "あれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "童子という双子",
-      "furigana": "どうじというふたご",
+      "clause_text": "チュンセ童子と",
+      "furigana": "ちゅんせどうじと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のお星さまの",
-      "furigana": "のおほしさまの",
+      "clause_text": "ポウセ童子と",
+      "furigana": "ぽうせどうじと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "住んでいる小さな水精",
-      "furigana": "すんでいるちいさなみなもり",
+      "clause_text": "いう双子の",
+      "furigana": "いうふたごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のお宮です。",
-      "furigana": "のおみやです。",
+      "clause_text": "お星さまの住んでいる小さな水精のお宮です。",
+      "furigana": "おほしさまのすんでいるちいさなみなもりのおみやです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "このすきとおる",
-      "furigana": "このすきとおる",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "二つのお宮は、",
-      "furigana": "ふたつのおみやは、",
+      "clause_text": "すきと",
+      "furigana": "すきと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "まっすぐに",
-      "furigana": "まっすぐに",
+      "clause_text": "おる二つの",
+      "furigana": "ふたつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "向い合っ",
-      "furigana": "むかいあっ",
+      "clause_text": "お宮は",
+      "furigana": "おみやは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ています。",
-      "furigana": "ています。",
+      "clause_text": "、まっすぐに向い合っています。",
+      "furigana": "、まっすぐにむかいあっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "夜は二人とも、きっと",
-      "furigana": "よるはふたりとも、きっと",
+      "clause_text": "夜は",
+      "furigana": "よるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "お宮に帰って、",
-      "furigana": "おみやにかえって、",
+      "clause_text": "二人とも",
+      "furigana": "ふたりとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "きちんと座り、空の",
-      "furigana": "きちんとすわり、そらの",
+      "clause_text": "、きっとお宮に",
+      "furigana": "、きっとおみやに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "星めぐりの歌に",
-      "furigana": "ほしめぐりのうたに",
+      "clause_text": "帰って、きちんと座り、空の",
+      "furigana": "かえって、きちんとすわり、そらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "合せて、一晩銀笛を吹くのです。",
-      "furigana": "あわせて、いちばんぎんてきをふくのです。",
+      "clause_text": "星めぐりの歌に合せて、一晩銀笛を吹くのです。",
+      "furigana": "ほしめぐりのうたにあわせて、いちばんぎんてきをふくのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "この双子",
-      "furigana": "このふたご",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "のお星様の",
-      "furigana": "のおほしさまの",
+      "clause_text": "双子の",
+      "furigana": "ふたごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "役目でし",
-      "furigana": "やくめでし",
+      "clause_text": "お星様の役目でした。",
+      "furigana": "おほしさまのやくめでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

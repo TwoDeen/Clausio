@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "外国人が日本",
-      "furigana": "がいこくじんがにっぽん",
+      "clause_text": "外国人が",
+      "furigana": "がいこくじんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "のビザを取る",
-      "furigana": "のビザをとる",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ときに払うお金",
-      "furigana": "ときにはらうおかね",
+      "clause_text": "ビザを",
+      "furigana": "ビザを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が、7月から今まで",
-      "furigana": "が、7がつからいままで",
+      "clause_text": "取るときに払うお金が",
+      "furigana": "とるときにはらうおかねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "の5倍に上がります。",
-      "furigana": "の5ばいにあがります。",
+      "clause_text": "、7月から今までの5倍に上がります。",
+      "furigana": "、7がつからいままでの5ばいにあがります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "1回だけ日本に入る",
-      "furigana": "1かいだけにっぽんにはいる",
+      "clause_text": "1回だけ日本に",
+      "furigana": "1かいだけにっぽんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことができる",
-      "furigana": "ことができる",
+      "clause_text": "入ること",
+      "furigana": "はいること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ビザが3000",
-      "furigana": "ビザが3000",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "円から1万5000",
-      "furigana": "えんから1まん5000",
+      "clause_text": "できるビザが",
+      "furigana": "できるビザが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "円になります。",
-      "furigana": "えんになります。",
+      "clause_text": "3000円から1万5000円になります。",
+      "furigana": "3000えんから1まん5000えんになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "何回も日本に入る",
-      "furigana": "なんかいもにっぽんにはいる",
+      "clause_text": "何回も",
+      "furigana": "なんかいも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ことができる",
-      "furigana": "ことができる",
+      "clause_text": "日本に",
+      "furigana": "にっぽんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ビザは6000",
-      "furigana": "ビザは6000",
+      "clause_text": "入ること",
+      "furigana": "はいること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "円から3万円に",
-      "furigana": "えんから3まんえんに",
+      "clause_text": "ができるビザは",
+      "furigana": "ができるビザは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なります。",
-      "furigana": "なります。",
+      "clause_text": "6000円から3万円になります。",
+      "furigana": "6000えんから3まんえんになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本のビザを取る",
-      "furigana": "にっぽんのビザをとる",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときに払うお金",
-      "furigana": "ときにはらうおかね",
+      "clause_text": "ビザを",
+      "furigana": "ビザを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、今まで",
-      "furigana": "は、いままで",
+      "clause_text": "取るときに",
+      "furigana": "とるときに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "50年ぐらい",
-      "furigana": "50ねんぐらい",
+      "clause_text": "払うお金は",
+      "furigana": "はらうおかねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "同じでした。",
-      "furigana": "おなじでした。",
+      "clause_text": "、今まで50年ぐらい同じでした。",
+      "furigana": "、いままで50ねんぐらいおなじでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "茂木外務大臣",
-      "furigana": "もてぎがいむだいじん",
+      "clause_text": "茂木外務大臣は",
+      "furigana": "もてぎがいむだいじんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は「物の値段が",
-      "furigana": "は「もののねだんが",
+      "clause_text": "「物の",
+      "furigana": "「ものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "上がっている",
-      "furigana": "あがっている",
+      "clause_text": "値段が上が",
+      "furigana": "ねだんがあが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ので、ビザも上げる",
-      "furigana": "ので、ビザもあげる",
+      "clause_text": "っているので、ビザも",
+      "furigana": "っているので、ビザも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことにした。",
-      "furigana": "ことにした。",
+      "clause_text": "上げることにした。",
+      "furigana": "あげることにした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

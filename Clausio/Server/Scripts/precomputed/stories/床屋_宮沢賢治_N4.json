@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、床屋の弟子の微かな",
-      "furigana": "たので、とこやのでしの",
+      "clause_text": "で、床屋の弟子の",
+      "furigana": "たので、とこやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "疲れと睡気とがふっと青白く鏡に",
-      "furigana": "なつかれとねむけとがふっとあおじろく",
+      "clause_text": "微かな疲れと",
+      "furigana": "のかすかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "かゝり、室は何",
-      "furigana": "かがみにかかり、むろ",
+      "clause_text": "睡気とがふっと青白く鏡に",
+      "furigana": "とねむけとがふっとあおじろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だかがらんとしてゐる。",
-      "furigana": "はなんだかがらんとして",
+      "clause_text": "かゝり、室は何だかがらんとしてゐる。",
+      "furigana": "かがみにかかり、むろはなんだかがらんとして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「俺は小さい",
-      "furigana": "「おれはちいさい",
+      "clause_text": "「俺は",
+      "furigana": "きごうおれは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "時分何でも馬の",
-      "furigana": "じぶんなんでもうまの",
+      "clause_text": "小さい時分何で",
+      "furigana": "ちいさいじぶんなんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "バリカン",
-      "furigana": "ばりかん",
+      "clause_text": "も馬の",
+      "furigana": "もうまの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "で刈られた",
-      "furigana": "でかられた",
+      "clause_text": "バリカンで",
+      "furigana": "ばりかんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことがあるな。",
-      "furigana": "ことがあるな。",
+      "clause_text": "刈られたことがあるな。",
+      "furigana": "かられたことがあるな。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」「えゝ",
-      "furigana": "」\n「",
+      "clause_text": "」「えゝ、ございませう。",
+      "furigana": "きごう\nきごうええ、ございませう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ござい",
-      "furigana": "、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ませ",
-      "furigana": "ませ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "う。",
-      "furigana": "う",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "あのバリカン",
-      "furigana": "あのばりかん",
+      "clause_text": "あの",
+      "furigana": "あの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は今でも中国の方",
-      "furigana": "はいまでもちゅうごくのほう",
+      "clause_text": "バリカンは",
+      "furigana": "ばりかんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ではみな",
-      "furigana": "ではみな",
+      "clause_text": "今でも",
+      "furigana": "いまでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "使って居り",
-      "furigana": "つかっており",
+      "clause_text": "中国の",
+      "furigana": "ちゅうごくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "方ではみな使って居ります。",
+      "furigana": "ほうではみなつかっております。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」",
-      "furigana": "」",
+      "clause_text": "」「さうです。",
+      "furigana": "きごう\nきごうさうです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「さう",
-      "furigana": "\n「",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "です",
-      "furigana": "です",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "",
-      "furigana": "",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

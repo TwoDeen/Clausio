@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "北海道の別海町で、",
-      "furigana": "ほっかいどうのべつかいちょうで、",
+      "clause_text": "北海道の",
+      "furigana": "ほっかいどうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「ホッカイシマエビ」",
-      "furigana": "「ホッカイシマエビ」",
+      "clause_text": "別海町で、",
+      "furigana": "べつかいちょうで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "というエビを",
-      "furigana": "というエビを",
+      "clause_text": "「ホッカイシマエビ」",
+      "furigana": "「ホッカイシマエビ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "取る漁が始まり",
-      "furigana": "とるりょうがはじまり",
+      "clause_text": "というエビを取る漁が始まりました",
+      "furigana": "というエビをとるりょうがはじまりました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この漁は",
-      "furigana": "このりょうは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、昔から",
-      "furigana": "、むかしから",
+      "clause_text": "漁は",
+      "furigana": "りょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "風の力で",
-      "furigana": "かぜのちからで",
+      "clause_text": "、昔から",
+      "furigana": "、むかしから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "進む舟を",
-      "furigana": "すすむふねを",
+      "clause_text": "風の",
+      "furigana": "かぜの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "使います。",
-      "furigana": "つかいます。",
+      "clause_text": "力で進む舟を使います。",
+      "furigana": "ちからですすむふねをつかいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "エビが住む所の",
-      "furigana": "エビがすむところの",
+      "clause_text": "エビが",
+      "furigana": "エビが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "海草を",
-      "furigana": "かいそうを",
+      "clause_text": "住む所の",
+      "furigana": "すむところの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "傷つけない",
-      "furigana": "きずつけない",
+      "clause_text": "海草を",
+      "furigana": "かいそうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ようにするため",
-      "furigana": "ようにするため",
+      "clause_text": "傷つけないようにするためです。",
+      "furigana": "きずつけないようにするためです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "夏になっ",
-      "furigana": "なつになっ",
+      "clause_text": "夏に",
+      "furigana": "なつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "て、15日",
-      "furigana": "て、15にち",
+      "clause_text": "なって、",
+      "furigana": "なって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "から今年",
-      "furigana": "からことし",
+      "clause_text": "15日から",
+      "furigana": "15にちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の漁が始まり",
-      "furigana": "のりょうがはじまり",
+      "clause_text": "今年の漁が始まりました。",
+      "furigana": "ことしのりょうがはじまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "20",
-      "furigana": "20",
+      "clause_text": "20ぐらいの",
+      "furigana": "20ぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぐらい",
-      "furigana": "ぐらい",
+      "clause_text": "舟が",
+      "furigana": "ふねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の舟が海",
-      "furigana": "のふねがうみ",
+      "clause_text": "海に出ました。",
+      "furigana": "うみにでました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に出まし",
-      "furigana": "にでまし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     }
   ]

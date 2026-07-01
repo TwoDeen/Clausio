@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あった青森県の",
-      "furigana": "あったあおもりけんの",
+      "clause_text": "あった青森県のニュースです。",
+      "furigana": "あったあおもりけんのニュースです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ニュース",
-      "furigana": "ニュース",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "強く揺れた青森県の",
-      "furigana": "つよくゆれたあおもりけんの",
+      "clause_text": "強く揺れた青森県の階上町と八戸市では25日、学校が休みになりました。",
+      "furigana": "つよくゆれたあおもりけんのはしかみちょうとはちのへしでは25にち、がっこうがやすみになりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "階上町と八戸市",
-      "furigana": "はしかみちょうとはちのへし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "では25",
-      "furigana": "では25",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "日、学校が休みに",
-      "furigana": "にち、がっこうがやすみに",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "学校は、",
-      "furigana": "がっこうは、",
+      "clause_text": "学校は",
+      "furigana": "がっこうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "26日の朝",
-      "furigana": "26にちのあさ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "から授業を",
-      "furigana": "からじゅぎょうを",
+      "clause_text": "26日の",
+      "furigana": "26にちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "始めまし",
-      "furigana": "はじめまし",
+      "clause_text": "朝から",
+      "furigana": "あさから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "授業を始めました。",
+      "furigana": "じゅぎょうをはじめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "教室では、",
-      "furigana": "きょうしつでは、",
+      "clause_text": "教室で",
+      "furigana": "きょうしつで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "先生が「地震が",
-      "furigana": "せんせいが「じしんが",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "起こったら、机",
-      "furigana": "おこったら、つくえ",
+      "clause_text": "先生が「地震が",
+      "furigana": "せんせいが「じしんが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の下に入って",
-      "furigana": "のしたにはいって",
+      "clause_text": "起こったら、机の",
+      "furigana": "おこったら、つくえの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ください。",
-      "furigana": "ください。",
+      "clause_text": "下に入ってください。",
+      "furigana": "したにはいってください。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "避難するときは、",
-      "furigana": "ひなんするときは、",
+      "clause_text": "避難すると",
+      "furigana": "ひなんすると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "走ったり人を押し",
-      "furigana": "はしったりひとをおし",
+      "clause_text": "きは",
+      "furigana": "きは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "たりしないで",
-      "furigana": "たりしないで",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ください」",
-      "furigana": "ください」",
+      "clause_text": "走ったり人を",
+      "furigana": "はしったりひとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "と話しました。",
-      "furigana": "とはなしました。",
+      "clause_text": "押したりしないでください」と話しました。",
+      "furigana": "おしたりしないでください」とはなしました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

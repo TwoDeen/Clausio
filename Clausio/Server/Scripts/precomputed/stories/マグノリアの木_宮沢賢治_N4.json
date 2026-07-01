@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "じめじめ",
-      "furigana": "じめじめ",
+      "clause_text": "じめじめ降っていた。",
+      "furigana": "じめじめふっていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "降っ",
-      "furigana": "ふっ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "てい",
-      "furigana": "てい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "諒安は、その霧の底を",
-      "furigana": "りょうやすは、そのきりのそこを",
+      "clause_text": "諒安は",
+      "furigana": "りょうやすは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひとり、険しい",
-      "furigana": "ひとり、けわしい",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "山谷の、",
-      "furigana": "さんやの、",
+      "clause_text": "その霧の底を",
+      "furigana": "そのきりのそこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "刻みを渉って",
-      "furigana": "きざみをわたって",
+      "clause_text": "ひとり、険しい山谷の",
+      "furigana": "ひとり、けわしいさんやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "clause_text": "、刻みを渉って行きました。",
+      "furigana": "、きざみをわたっていきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "沓の底を半分踏み抜いてしまい",
-      "furigana": "くつのそこをはんぶんふみぬいてしまい",
+      "clause_text": "沓の",
+      "furigana": "くつの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ながらそのいちばん高い処からいちばん",
-      "furigana": "ながらそのいちばんたかいところからいちばん",
+      "clause_text": "底を",
+      "furigana": "そこを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "暗い深いところへまたその",
-      "furigana": "くらいふかいところへまたその",
+      "clause_text": "半分踏み抜いてしまいながらその",
+      "furigana": "はんぶんふみぬいてしまいながらその",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "谷の底から霧に吸いこまれた次の",
-      "furigana": "たにのそこからきりにすいこまれたつぎの",
+      "clause_text": "いちばん高い処からいちばん暗い深いところへ",
+      "furigana": "いちばんたかいところからいちばんくらいふかいところへ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "峯へと一生けんめい伝って行きました。",
-      "furigana": "みねへといっしょうけんめいでんっていきました。",
+      "clause_text": "またその谷の底から霧に吸いこまれた次の峯へと一生けんめい伝って行きました。",
+      "furigana": "またそのたにのそこからきりにすいこまれたつぎのみねへといっしょうけんめいでんっていきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "もしもほんの少しのはり合で霧を泳いで行くことが",
-      "furigana": "もしもほんのすこしのはりあいできりをおよいでいくことが",
+      "clause_text": "もしもほんの少しの",
+      "furigana": "もしもほんのすこしの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "できたら一つの峯から次の巌へずいぶん雑作もなく行けるのだが私はやっぱり",
-      "furigana": "できたらひとつのみねからつぎのいわへずいぶんぞうさもなくいけるのだがわたくしはやっぱり",
+      "clause_text": "はり合で霧を泳いで",
+      "furigana": "はりあいできりをおよいで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "この意地悪い大きな彫刻の表面に沿ってけわしい",
-      "furigana": "このいじわるいおおきなちょうこくのひょうめんにそってけわしい",
+      "clause_text": "行くことができたら一つの峯から次の",
+      "furigana": "いくことができたらひとつのみねからつぎの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "処ではからだが燃えるようになり少しの平らなところではほっと息をつき",
-      "furigana": "ところではからだがもえるようになりすこしのたいらなところではほっといきをつき",
+      "clause_text": "巌へずいぶん雑作もなく行けるのだが私はやっぱりこの意地悪い大きな彫刻の",
+      "furigana": "いわへずいぶんぞうさもなくいけるのだがわたくしはやっぱりこのいじわるいおおきなちょうこくの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ながら地面を這わなければならないと諒安は思いました。",
-      "furigana": "ながらじめんをはわなければならないとりょうやすはおもいました。",
+      "clause_text": "表面に沿ってけわしい処ではからだが燃えるようになり少しの平らなところではほっと息をつきながら地面を這わなければならないと諒安は思いました。",
+      "furigana": "ひょうめんにそってけわしいところではからだがもえるようになりすこしのたいらなところではほっといきをつきながらじめんをはわなければならないとりょうやすはおもいました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "全く峯にはまっ黒のガツガツした巌が",
-      "furigana": "まったくみねにはまっくろのがつがつしたいわが",
+      "clause_text": "全く峯に",
+      "furigana": "まったくみねに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "冷たい霧を吹いて",
-      "furigana": "つめたいきりをふいて",
+      "clause_text": "はまっ黒の",
+      "furigana": "はまっくろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "そらうそぶき折角いっしん",
-      "furigana": "そらうそぶきせっかくいっしん",
+      "clause_text": "ガツガツした巌が",
+      "furigana": "がつがつしたいわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に登って行ってもまるでよるべ",
-      "furigana": "にのぼっていってもまるでよるべ",
+      "clause_text": "冷たい霧を吹いてそらうそぶき折角いっしんに",
+      "furigana": "つめたいきりをふいてそらうそぶきせっかくいっしんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "もなくさびしいのでした。",
-      "furigana": "もなくさびしいのでした。",
+      "clause_text": "登って行ってもまるでよるべもなくさびしいのでした。",
+      "furigana": "のぼっていってもまるでよるべもなくさびしいのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

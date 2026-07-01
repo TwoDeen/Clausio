@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "八月十三日",
-      "furigana": "はちがつじゅうさんにち",
+      "clause_text": "八月十三日さいかち淵なら、",
+      "furigana": "はちがつじゅうさんにち\nさいかちえんなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "さいかち",
-      "furigana": "\n",
+      "clause_text": "ほんたうに",
+      "furigana": "、ほんたう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "淵なら、",
-      "furigana": "えんなら",
+      "clause_text": "おも",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほんたうに",
-      "furigana": "、ほんたう",
+      "clause_text": "しろい。",
+      "furigana": "しろい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "おもしろい。",
-      "furigana": "におもしろい",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "しゅ",
-      "furigana": "しゅ",
+      "clause_text": "しゅっこだ",
+      "furigana": "しゅっこだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "っこだ",
-      "furigana": "っこだ",
+      "clause_text": "って毎日行く。",
+      "furigana": "ってまいにちいく。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "って",
-      "furigana": "って",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "毎日",
-      "furigana": "まいにち",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "行く。",
-      "furigana": "いく。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "しゅっこ",
-      "furigana": "しゅっこ",
+      "clause_text": "しゅっこは",
+      "furigana": "しゅっこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、舜一なんだ",
-      "furigana": "は、しゅんいちなんだ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれども、みんな",
-      "furigana": "けれども、みんな",
+      "clause_text": "舜一なんだけれども",
+      "furigana": "しゅんいちなんだけれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "はいつでも",
-      "furigana": "はいつでも",
+      "clause_text": "、みんなはいつで",
+      "furigana": "、みんなはいつで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "しゅっこといふ。",
-      "furigana": "しゅっこといふ。",
+      "clause_text": "もしゅっこといふ。",
+      "furigana": "もしゅっこといふ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "れても、",
-      "furigana": "れても、",
+      "clause_text": "れても",
+      "furigana": "れても",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "しゅっこは",
-      "furigana": "しゅっこは",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "少しも怒ら",
-      "furigana": "すこしもおこら",
+      "clause_text": "しゅっこは",
+      "furigana": "しゅっこは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ない。",
-      "furigana": "ない。",
+      "clause_text": "少しも怒らない。",
+      "furigana": "すこしもおこらない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "だからみんな",
-      "furigana": "だからみんな",
+      "clause_text": "だから",
+      "furigana": "だから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、いつ",
-      "furigana": "は、いつ",
+      "clause_text": "みんなは",
+      "furigana": "みんなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "でもしゅ",
-      "furigana": "でもしゅ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "っこしゅ",
-      "furigana": "っこしゅ",
+      "clause_text": "いつでも",
+      "furigana": "いつでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "っこといふ。",
-      "furigana": "っこといふ。",
+      "clause_text": "しゅっこしゅっこといふ。",
+      "furigana": "しゅっこしゅっこといふ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

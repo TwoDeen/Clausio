@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "なめとこ",
-      "furigana": "なめとこ",
+      "clause_text": "なめと",
+      "furigana": "なめと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "山の熊の",
-      "furigana": "やまのくまの",
+      "clause_text": "こ山の",
+      "furigana": "やまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことなら",
-      "furigana": "ことなら",
+      "clause_text": "熊の",
+      "furigana": "くまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "おもしろい",
-      "furigana": "おもしろい",
+      "clause_text": "こと",
+      "furigana": "こと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "ならおもしろい。",
+      "furigana": "ならおもしろい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "なめとこ",
-      "furigana": "なめとこ",
+      "clause_text": "なめと",
+      "furigana": "なめと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "山は",
-      "furigana": "やまは",
+      "clause_text": "こ",
+      "furigana": "こ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きな",
-      "furigana": "おおきな",
+      "clause_text": "山は",
+      "furigana": "やまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "山だ",
-      "furigana": "やまだ",
+      "clause_text": "大きな山だ。",
+      "furigana": "おおきなやまだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "なめとこ",
-      "furigana": "なめとこ",
+      "clause_text": "なめと",
+      "furigana": "なめと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,7 +153,7 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "山から",
+      "clause_text": "こ山から",
       "furigana": "やまから",
       "sentence_individual_grammar_level": "N5"
     },
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "出て",
-      "furigana": "でて",
+      "clause_text": "出て来る。",
+      "furigana": "でてくる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "来る。",
-      "furigana": "くる。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "なめとこ山は一年の",
-      "furigana": "なめとこやまはいちねんの",
+      "clause_text": "なめと",
+      "furigana": "なめと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "うち大ていの日はつめたい",
-      "furigana": "うちたいていのひはつめたい",
+      "clause_text": "こ山は",
+      "furigana": "やまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "霧か雲かを",
-      "furigana": "きりかくもかを",
+      "clause_text": "一年の",
+      "furigana": "いちねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "吸ったり吐いたり",
-      "furigana": "すったりはいたり",
+      "clause_text": "うち大ていの日は",
+      "furigana": "うちたいていのひは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "している。",
-      "furigana": "している。",
+      "clause_text": "つめたい霧か雲かを吸ったり吐いたりしている。",
+      "furigana": "つめたいきりかくもかをすったりはいたりしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "みんな青黒い",
-      "furigana": "みんなあおぐろい",
+      "clause_text": "みんな青黒いなまこや海坊主の",
+      "furigana": "みんなあおぐろいなまこやうみぼうずの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "なまこや",
-      "furigana": "なまこや",
+      "clause_text": "ような山だ。",
+      "furigana": "ようなやまだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "海坊主のよう",
-      "furigana": "うみぼうずのよう",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "な山だ。",
-      "furigana": "なやまだ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

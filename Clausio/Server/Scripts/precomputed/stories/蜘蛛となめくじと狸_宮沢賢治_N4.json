@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "蜘蛛と、銀色の",
-      "furigana": "くもと、ぎんいろの",
+      "clause_text": "蜘蛛と",
+      "furigana": "くもと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "なめくじとそれ",
-      "furigana": "なめくじとそれ",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "から顔を洗ったことのない",
-      "furigana": "からかおをあらったことのない",
+      "clause_text": "銀色の",
+      "furigana": "ぎんいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "狸とはみんな立派な",
-      "furigana": "たぬきとはみんなりっぱな",
+      "clause_text": "なめくじとそれから顔を",
+      "furigana": "なめくじとそれからかおを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "選手でした。",
-      "furigana": "せんしゅでした。",
+      "clause_text": "洗ったことのない狸とはみんな立派な選手でした。",
+      "furigana": "あらったことのないたぬきとはみんなりっぱなせんしゅでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "けれども一体",
-      "furigana": "けれどもいったい",
+      "clause_text": "けれども",
+      "furigana": "けれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "何の選手",
-      "furigana": "なんのせんしゅ",
+      "clause_text": "一体何の",
+      "furigana": "いったいなんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "だったのか私は",
-      "furigana": "だったのかわたくしは",
+      "clause_text": "選手だったの",
+      "furigana": "せんしゅだったの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "よく知り",
-      "furigana": "よくしり",
+      "clause_text": "か私はよく知りません。",
+      "furigana": "かわたくしはよくしりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "山猫が申しまし",
-      "furigana": "やまねこがもうしまし",
+      "clause_text": "山猫が",
+      "furigana": "やまねこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "たが三人はそれはそれ",
-      "furigana": "たがさんにんはそれはそれ",
+      "clause_text": "申しましたが",
+      "furigana": "もうしましたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は実に本気の",
-      "furigana": "はじつにほんきの",
+      "clause_text": "三人は",
+      "furigana": "さんにんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "競争をしていたのだ",
-      "furigana": "きょうそうをしていたのだ",
+      "clause_text": "それはそれは",
+      "furigana": "それはそれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "そうです。",
-      "furigana": "そうです。",
+      "clause_text": "実に本気の競争をしていたのだそうです。",
+      "furigana": "じつにほんきのきょうそうをしていたのだそうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "一体何の競争をしていたのか、私は三人が",
-      "furigana": "いったいなんのきょうそうをしていたのか、わたくしはさんにんが",
+      "clause_text": "一体何の",
+      "furigana": "いったいなんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ならんでかける所も見",
-      "furigana": "ならんでかけるところもみ",
+      "clause_text": "競争を",
+      "furigana": "きょうそうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ませんし学校の試験で",
-      "furigana": "ませんしがっこうのしけんで",
+      "clause_text": "していたの",
+      "furigana": "していたの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "一番二番三番ときめ",
-      "furigana": "いちばんにばんさんばんときめ",
+      "clause_text": "か、私は三人がならんでかける所も",
+      "furigana": "か、わたくしはさんにんがならんでかけるところも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "られたことも聞きません。",
-      "furigana": "られたこともききません。",
+      "clause_text": "見ませんし学校の試験で一番二番三番ときめられたことも聞きません。",
+      "furigana": "みませんしがっこうのしけんでいちばんにばんさんばんときめられたこともききません。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一体何の競争をしていたのでしょう",
-      "furigana": "いったいなんのきょうそうをしていたのでしょう",
+      "clause_text": "一体何の競争をしていたのでしょう、蜘蛛は",
+      "furigana": "いったいなんのきょうそうをしていたのでしょう、くもは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、蜘蛛は手も足も赤くて長く、胸には「ナンペ」",
-      "furigana": "、くもはてもあしもあかくてながく、むねには「なんぺ」",
+      "clause_text": "手も足も赤くて長く、胸には",
+      "furigana": "てもあしもあかくてながく、むねには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "と書いた蜘蛛文字のマークをつけ",
-      "furigana": "とかいたくももじのまーくをつけ",
+      "clause_text": "「ナンペ」",
+      "furigana": "きごうなんぺきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ていましたしなめくじはいつも",
-      "furigana": "ていましたしなめくじはいつも",
+      "clause_text": "と書いた蜘蛛文字のマークをつけていましたしなめくじは",
+      "furigana": "とかいたくももじのまーくをつけていましたしなめくじは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "銀いろのゴムの靴をはいていました。",
-      "furigana": "ぎんいろのごむのくつをはいていました。",
+      "clause_text": "いつも銀いろのゴムの靴をはいていました。",
+      "furigana": "いつもぎんいろのごむのくつをはいていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -3,186 +3,25 @@ import re
 import spacy
 
 
-LEADING_CLOSERS = "」』】）》］〕〙〗〟’”）】"
-TRAILING_OPENERS = "「『【《［〔〘〖〝‘“（【"
-
-BAD_PREV_TOKENS = {
-    "は", "が", "を", "に", "で", "と", "へ", "も", "の", "や", "か", "ね", "よ", "ぞ", "さ",
-    "て", "で", "な", "し", "ては", "では"
-}
-
-BAD_NEXT_TOKENS = {
-    "た", "だ", "です", "ます", "ない", "たい", "られる", "れる",
-    "て", "で", "う", "よう", "そう"
-}
-
-BAD_POS_CHAINS = {"AUX", "VERB", "SCONJ", "CCONJ", "PART"}
+CASE_PARTICLES = ("は", "が", "を", "に", "へ", "で", "と", "も", "から", "まで", "より", "の")
+BOUNDARY_ENDINGS = CASE_PARTICLES + ("、", "」")
+PREDICATE_ENDINGS = (
+    "ました。", "ます。", "でした。", "です。", "だ。", "だった。",
+    "ません。", "ない。", "なかった。", "ている。", "ていた。",
+    "てきた。", "てきました。", "している。", "していた。"
+)
 
 
-def _load_nlp():
-    try:
-        return spacy.load("ja_ginza")
-    except OSError:
-        print(
-            "Error: GiNZA model not found. Please install it using: pip install ja-ginza",
-            file=sys.stderr
-        )
-        return None
+def normalize_text(text: str) -> str:
+    return re.sub(r"\s+", "", text).strip()
 
 
-def _normalize_text(text: str) -> str:
-    return re.sub(r"\s+", "", text or "").strip()
-
-
-def _rebalance_quotes_and_punct(clauses: list[str]) -> list[str]:
-    if not clauses:
-        return clauses
-
-    out = clauses[:]
-
-    # Move leading closing punctuation back to previous clause
-    for i in range(1, len(out)):
-        while out[i] and out[i][0] in LEADING_CLOSERS:
-            ch = out[i][0]
-            out[i] = out[i][1:]
-            out[i - 1] += ch
-
-    # Move trailing opening quotes forward to next clause
-    for i in range(len(out) - 1):
-        while out[i] and out[i][-1] in TRAILING_OPENERS:
-            ch = out[i][-1]
-            out[i] = out[i][:-1]
-            out[i + 1] = ch + out[i + 1]
-
-    # Trim empties if punctuation shuffling created any
-    out = [c for c in out if c]
-
-    return out
-
-
-def _safe_split_points(text: str, nlp) -> list[int]:
-    doc = nlp(text)
-    points = []
-
-    for i in range(len(doc) - 1):
-        token = doc[i]
-        nxt = doc[i + 1]
-
-        split_idx = token.idx + len(token.text)
-
-        if split_idx <= 0 or split_idx >= len(text):
-            continue
-
-        # Do not let next clause start with closing punctuation
-        while split_idx < len(text) and text[split_idx] in LEADING_CLOSERS + "、。！？":
-            split_idx += 1
-
-        if split_idx <= 0 or split_idx >= len(text):
-            continue
-
-        prev_text = token.text
-        next_text = nxt.text
-        prev_pos = token.pos_
-        next_pos = nxt.pos_
-
-        # Avoid splits after dangling particles/connectors
-        if prev_text in BAD_PREV_TOKENS:
-            continue
-
-        # Avoid starting next clause with auxiliaries / endings
-        if next_text in BAD_NEXT_TOKENS:
-            continue
-
-        # Avoid splitting inside verb/aux chains
-        if prev_pos in BAD_POS_CHAINS and next_pos in BAD_POS_CHAINS:
-            continue
-
-        # Avoid splits right around quote glue like と言っ / 」と言っ
-        if prev_text in {"と", "って"}:
-            continue
-        if next_text in {"言っ", "いっ", "言う", "いう", "て", "た"}:
-            continue
-
-        points.append(split_idx)
-
-    return sorted(set(points))
-
-
-def split_longest_clause(clauses: list[str], nlp) -> list[str]:
-    if not clauses:
-        return clauses
-
-    longest_idx = max(range(len(clauses)), key=lambda i: len(clauses[i]))
-    text_to_split = clauses[longest_idx]
-
-    if len(text_to_split) <= 1:
-        return clauses
-
-    best_split_idx = -1
-    min_dist_to_mid = float("inf")
-    mid_point = len(text_to_split) / 2
-
-    for split_idx in _safe_split_points(text_to_split, nlp):
-        dist = abs(split_idx - mid_point)
-        if dist < min_dist_to_mid:
-            min_dist_to_mid = dist
-            best_split_idx = split_idx
-
-    if best_split_idx == -1:
-        doc = nlp(text_to_split)
-        bunsetsu_like = []
-        try:
-            for span in doc._.bunsetsus:
-                bunsetsu_like.append(span.text)
-        except AttributeError:
-            bunsetsu_like = [t.text for t in doc]
-
-        if len(bunsetsu_like) >= 2:
-            running = 0
-            best_boundary = -1
-            best_dist = float("inf")
-
-            for part in bunsetsu_like[:-1]:
-                running += len(part)
-                if running <= 0 or running >= len(text_to_split):
-                    continue
-                if text_to_split[running:running+1] in LEADING_CLOSERS:
-                    continue
-                dist = abs(running - mid_point)
-                if dist < best_dist:
-                    best_dist = dist
-                    best_boundary = running
-
-            best_split_idx = best_boundary
-
-    if best_split_idx == -1:
-        mid = max(1, len(text_to_split) // 2)
-
-        while mid < len(text_to_split) and text_to_split[mid] in LEADING_CLOSERS + "、。！？":
-            mid += 1
-
-        if mid >= len(text_to_split):
-            mid = max(1, len(text_to_split) // 2)
-
-        best_split_idx = mid
-
-    part1 = text_to_split[:best_split_idx]
-    part2 = text_to_split[best_split_idx:]
-
-    new_parts = _rebalance_quotes_and_punct([part1, part2])
-
-    if len(new_parts) == 2 and all(new_parts):
-        clauses[longest_idx:longest_idx + 1] = new_parts
-
-    return _rebalance_quotes_and_punct(clauses)
-
-
-def merge_shortest_adjacent(clauses: list[str]) -> list[str]:
-    if len(clauses) <= 1:
+def merge_shortest_adjacent(clauses):
+    if len(clauses) < 2:
         return clauses
 
     min_len = float("inf")
-    merge_idx = -1
+    merge_idx = 0
 
     for i in range(len(clauses) - 1):
         combined_len = len(clauses[i]) + len(clauses[i + 1])
@@ -192,87 +31,296 @@ def merge_shortest_adjacent(clauses: list[str]) -> list[str]:
 
     clauses[merge_idx] = clauses[merge_idx] + clauses[merge_idx + 1]
     del clauses[merge_idx + 1]
+    return clauses
 
-    return _rebalance_quotes_and_punct(clauses)
+
+def is_complete_quote(text: str) -> bool:
+    return "「" in text and "」" in text
 
 
-def _initial_bunsetsu_clauses(text: str, nlp) -> list[str]:
+def is_protected_predicate(text: str) -> bool:
+    s = text.strip()
+
+    if s.endswith(PREDICATE_ENDINGS):
+        return True
+
+    protected_patterns = (
+        "てきました", "ていました", "てしまいました", "と言って", "といって",
+        "と言いました", "と話しました", "と思います", "になりました",
+        "していました", "されました", "してきました"
+    )
+    return any(p in s for p in protected_patterns)
+
+
+def split_quoted_span(text: str):
+    m = re.search(r"「[^」]+」", text)
+    if not m:
+        return None
+
+    left = text[:m.start()]
+    quoted = text[m.start():m.end()]
+    right = text[m.end():]
+
+    out = []
+    if left:
+        out.append(left)
+    out.append(quoted)
+    if right:
+        out.append(right)
+    return out
+
+
+def split_after_best_particle(text: str):
+    candidates = []
+
+    for p in CASE_PARTICLES:
+        start = 0
+        while True:
+            idx = text.find(p, start)
+            if idx == -1:
+                break
+
+            split_idx = idx + len(p)
+            if 0 < split_idx < len(text):
+                left = text[:split_idx]
+                right = text[split_idx:]
+                if left and right:
+                    score = abs(len(text) / 2 - split_idx)
+                    candidates.append((score, left, right))
+            start = idx + 1
+
+    if not candidates:
+        return [text]
+
+    _, left, right = sorted(candidates, key=lambda x: x[0])[0]
+    return [left, right]
+
+
+def merge_special_units(clauses):
+    out = []
+    i = 0
+
+    while i < len(clauses):
+        cur = clauses[i]
+
+        # Merge quote + と言って... as separate desired units:
+        # keep 「...」 intact, but allow following clause to begin with と言...
+        if i + 1 < len(clauses):
+            nxt = clauses[i + 1]
+
+            # Merge broken quotative phrase
+            if cur == "と" and (nxt.startswith("言") or nxt.startswith("い")):
+                out.append(cur + nxt)
+                i += 2
+                continue
+
+            # Merge broken predicate chain
+            if (
+                cur.endswith(("言っ", "いっ", "逃げ", "見", "し", "て", "で", "き"))
+                or nxt.startswith(("て", "で", "き", "きま", "きました", "ました", "ます", "た", "だ"))
+            ):
+                combined = cur + nxt
+                if is_protected_predicate(combined) or not cur.endswith(BOUNDARY_ENDINGS):
+                    out.append(combined)
+                    i += 2
+                    continue
+
+        out.append(cur)
+        i += 1
+
+    return out
+
+
+def initial_rule_based_split(text: str):
+    quoted = split_quoted_span(text)
+
+    if quoted:
+        clauses = []
+        left = ""
+        quote = ""
+        right = ""
+
+        if len(quoted) == 3:
+            left, quote, right = quoted
+        elif len(quoted) == 2:
+            if quoted[0].startswith("「"):
+                quote, right = quoted
+            else:
+                left, quote = quoted
+        else:
+            quote = quoted[0]
+
+        if left:
+            clauses.extend(split_after_best_particle(left))
+
+        clauses.append(quote)
+
+        if right:
+            # Prefer separating と言って、 first
+            m = re.match(r"^(と(?:言|い)[^、。]*[、]?)", right)
+            if m:
+                first = m.group(1)
+                rest = right[len(first):]
+                clauses.append(first)
+                if rest:
+                    clauses.extend(split_after_best_particle(rest))
+            else:
+                clauses.extend(split_after_best_particle(right))
+
+        return [c for c in clauses if c]
+
+    return split_after_best_particle(text)
+
+
+def rank_split_candidates(text: str, nlp):
     doc = nlp(text)
-    initial_clauses = []
+    candidates = []
 
+    for token in doc:
+        split_idx = token.idx + len(token.text)
+
+        if not (0 < split_idx < len(text)):
+            continue
+
+        left = text[:split_idx]
+        right = text[split_idx:]
+
+        if not left or not right:
+            continue
+
+        # Never split inside complete quote
+        if ("「" in left and "」" not in left) or ("」" in right and "「" not in right):
+            continue
+
+        # Strongly prefer left chunks that end on particles/punctuation
+        quality = 100
+
+        if left.endswith(CASE_PARTICLES):
+            quality = 0
+        elif left.endswith(("、", "」")):
+            quality = 1
+        elif token.text in CASE_PARTICLES:
+            quality = 2
+
+        # Protect predicate on the right
+        if is_protected_predicate(right):
+            quality -= 10
+
+        # Avoid ugly predicate break like 近くの家に逃 | げてきました。
+        if right.startswith(("げ", "き", "まし", "ました", "て", "で", "た", "だ")) and not left.endswith(BOUNDARY_ENDINGS):
+            continue
+
+        candidates.append((quality, abs(len(text) / 2 - split_idx), split_idx))
+
+    return sorted(candidates)
+
+
+def split_longest_clause_safely(clauses, nlp):
+    eligible = []
+
+    for i, clause in enumerate(clauses):
+        s = clause.strip()
+
+        if len(s) <= 2:
+            continue
+        if is_complete_quote(s):
+            continue
+        if is_protected_predicate(s):
+            continue
+
+        eligible.append(i)
+
+    if not eligible:
+        return clauses
+
+    idx = max(eligible, key=lambda i: len(clauses[i]))
+    target = clauses[idx]
+
+    candidates = rank_split_candidates(target, nlp)
+    if not candidates:
+        return clauses
+
+    split_idx = candidates[0][2]
+    left = target[:split_idx]
+    right = target[split_idx:]
+
+    if not left or not right:
+        return clauses
+
+    clauses[idx:idx + 1] = [left, right]
+    return clauses
+
+
+def decompose_into_clauses_fallback(text):
     try:
-        for span in doc._.bunsetsus:
-            if span.text:
-                initial_clauses.append(span.text)
-    except AttributeError:
-        for token in doc:
-            if token.text:
-                initial_clauses.append(token.text)
-
-    if not initial_clauses:
-        initial_clauses = [text]
-
-    return _rebalance_quotes_and_punct(initial_clauses)
-
-
-def decompose_into_clauses_fallback(text: str) -> list[str]:
-    nlp = _load_nlp()
-    if nlp is None:
+        nlp = spacy.load("ja_ginza")
+    except OSError:
+        print("Error: GiNZA model not found. Please install it using: pip install ja-ginza", file=sys.stderr)
         return []
 
-    text = _normalize_text(text)
-    if not text:
-        return []
+    text = normalize_text(text)
+    clauses = initial_rule_based_split(text)
 
-    clauses = _initial_bunsetsu_clauses(text, nlp)
+    prev = None
+    while prev != clauses:
+        prev = clauses[:]
+        clauses = merge_special_units(clauses)
 
     while len(clauses) > 5:
         clauses = merge_shortest_adjacent(clauses)
 
     guard = 0
-    while len(clauses) < 5 and guard < 20:
-        before = clauses[:]
-        clauses = split_longest_clause(clauses, nlp)
-        clauses = _rebalance_quotes_and_punct(clauses)
-        if clauses == before:
+    while len(clauses) < 5 and guard < 10:
+        new_clauses = split_longest_clause_safely(clauses, nlp)
+        if new_clauses == clauses:
+            break
+        clauses = new_clauses
+        guard += 1
+
+    # Final fallback: only split at safe visible boundaries, never midpoint-chop predicates
+    guard = 0
+    while len(clauses) < 5 and guard < 10:
+        changed = False
+
+        for i, clause in enumerate(clauses):
+            s = clause.strip()
+
+            if is_complete_quote(s) or is_protected_predicate(s):
+                continue
+
+            split_points = []
+            for j in range(1, len(s)):
+                left = s[:j]
+                right = s[j:]
+                if left.endswith(BOUNDARY_ENDINGS) and right:
+                    split_points.append((abs(len(s) / 2 - j), j))
+
+            if split_points:
+                j = sorted(split_points, key=lambda x: x[0])[0][1]
+                clauses[i:i + 1] = [s[:j], s[j:]]
+                changed = True
+                break
+
+        if not changed:
             break
         guard += 1
 
-    clauses = [c.strip() for c in clauses if c and c.strip()]
-    clauses = _rebalance_quotes_and_punct(clauses)
-
-    # Last-resort exact-5 enforcement
-    while len(clauses) > 5:
-        clauses = merge_shortest_adjacent(clauses)
-
+    # Absolute contract fallback for pipeline compatibility
     while len(clauses) < 5:
-        longest_idx = max(range(len(clauses)), key=lambda i: len(clauses[i]))
-        chunk = clauses[longest_idx]
+        clauses.append("")
 
-        if len(chunk) <= 1:
-            break
+    clauses = clauses[:5]
 
-        split_at = max(1, len(chunk) // 2)
-        while split_at < len(chunk) and chunk[split_at] in LEADING_CLOSERS + "、。！？":
-            split_at += 1
-        if split_at >= len(chunk):
-            split_at = max(1, len(chunk) // 2)
+    # Avoid empty strings reaching the grid if possible
+    for i, c in enumerate(clauses):
+        if not c:
+            clauses[i] = "…"
 
-        part1 = chunk[:split_at]
-        part2 = chunk[split_at:]
-        repaired = _rebalance_quotes_and_punct([part1, part2])
-
-        if len(repaired) != 2 or not repaired[0] or not repaired[1]:
-            break
-
-        clauses[longest_idx:longest_idx + 1] = repaired
-        clauses = _rebalance_quotes_and_punct(clauses)
-
-    return clauses[:5]
+    return clauses
 
 
 if __name__ == "__main__":
-    sample_text = "男性は「助けてほしい」と言って、近くの家に逃げてきました。"
+    sample_text = "雨が降っていたので、傘を買って家に帰りました。"
     if len(sys.argv) > 1:
         sample_text = sys.argv[1]
 

@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "フランス",
-      "furigana": "フランス",
+      "clause_text": "フランスでありました。",
+      "furigana": "フランスでありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "であり",
-      "furigana": "であり",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "イギリス、フランス",
-      "furigana": "イギリス、フランス",
+      "clause_text": "イギリス、",
+      "furigana": "イギリス、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "など7つの国の",
-      "furigana": "などななつのくにの",
+      "clause_text": "フランスなど7つの",
+      "furigana": "フランスなどななつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "リーダーなどが集まり",
-      "furigana": "リーダーなどがあつまり",
+      "clause_text": "国のリーダーなどが集まりました。",
+      "furigana": "くにのリーダーなどがあつまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "リーダーたちは17日、アメリカ",
-      "furigana": "リーダーたちは1ななにち、アメリカ",
+      "clause_text": "リーダーたちは",
+      "furigana": "リーダーたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "とイランが戦いを",
-      "furigana": "とイランがたたかいを",
+      "clause_text": "17日、",
+      "furigana": "1ななにち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わりにしようとして",
-      "furigana": "おわりにしようとして",
+      "clause_text": "アメリカと",
+      "furigana": "アメリカと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いることは、いい",
-      "furigana": "いることは、いい",
+      "clause_text": "イランが戦いを終わりに",
+      "furigana": "イランがたたかいをおわりに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ことだと言いました。",
-      "furigana": "ことだといいました。",
+      "clause_text": "しようとしていることは、いいことだと言いました。",
+      "furigana": "しようとしていることは、いいことだといいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、「イラン",
-      "furigana": "そして、「イラン",
+      "clause_text": "そして",
+      "furigana": "そして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "が核兵器を持たない",
-      "furigana": "がかくへいきをもたない",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ようにする",
-      "furigana": "ようにする",
+      "clause_text": "「イランが核兵器を持たないようにすることを確認した」",
+      "furigana": "「イランがかくへいきをもたないようにすることをかくにんした」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことを確認した」と",
-      "furigana": "ことをかくにんした」と",
+      "clause_text": "と言いました",
+      "furigana": "といいました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "言いました。",
-      "furigana": "いいました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "リーダーたちは、",
-      "furigana": "リーダーたちは、",
+      "clause_text": "リーダーたちは",
+      "furigana": "リーダーたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ホルムズ海峡では",
-      "furigana": "ホルムズかいきょうでは",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、船が安全に自由に通る",
-      "furigana": "、ふねがあんぜんにじゆうにとおる",
+      "clause_text": "ホルムズ海峡で",
+      "furigana": "ホルムズかいきょうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことが大切だと",
-      "furigana": "ことがたいせつだと",
+      "clause_text": "は、船が",
+      "furigana": "は、ふねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "言いました。",
-      "furigana": "いいました。",
+      "clause_text": "安全に自由に通ることが大切だと言いました。",
+      "furigana": "あんぜんにじゆうにとおることがたいせつだといいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

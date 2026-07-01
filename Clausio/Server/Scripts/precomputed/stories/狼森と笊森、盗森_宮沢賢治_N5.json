@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "小岩井農場の北",
-      "furigana": "こいわいのうじょうのきた",
+      "clause_text": "小岩井農場の",
+      "furigana": "こいわいのうじょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "に、黒い",
-      "furigana": "に、くろい",
+      "clause_text": "北に",
+      "furigana": "きたに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "松の森が",
-      "furigana": "まつのもりが",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "四つあり",
-      "furigana": "よんつあり",
+      "clause_text": "黒い松の",
+      "furigana": "くろいまつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "森が四つあります。",
+      "furigana": "もりがよんつあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "いちばん南が狼森",
-      "furigana": "いちばんみなみがおいのもり",
+      "clause_text": "いちばん南が",
+      "furigana": "いちばんみなみが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、その",
-      "furigana": "で、その",
+      "clause_text": "狼森で",
+      "furigana": "おいのもりで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "次が笊森、次は",
-      "furigana": "つぎがざるもり、つぎは",
+      "clause_text": "、その次が",
+      "furigana": "、そのつぎが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "黒坂森、北のはづれ",
-      "furigana": "くろさかもり、きたのはづれ",
+      "clause_text": "笊森、次は",
+      "furigana": "ざるもり、つぎは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "は盗森です。",
-      "furigana": "はぬすともりです。",
+      "clause_text": "黒坂森、北のはづれは盗森です。",
+      "furigana": "くろさかもり、きたのはづれはぬすともりです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この森がいつごろどうしてできたのか、どうしてこんな奇体な名前が",
-      "furigana": "このもりがいつごろどうしてできたのか、どうしてこんなきたいななまえが",
+      "clause_text": "この森が",
+      "furigana": "このもりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ついたのか、それをいちばんはじめから、",
-      "furigana": "ついたのか、それをいちばんはじめから、",
+      "clause_text": "いつごろどうしてできたの",
+      "furigana": "いつごろどうしてできたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "すつかり知つてゐるものは、おれ",
-      "furigana": "すつかりちつているものは、おれ",
+      "clause_text": "か、どうしてこんな奇体な名前が",
+      "furigana": "か、どうしてこんなきたいななまえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人だと黒坂森のまんなかの巨きな巌が、",
-      "furigana": "ひとりだとくろさかもりのまんなかのおおきないわが、",
+      "clause_text": "ついたのか、それをいちばんはじめから、すつかり知つてゐるも",
+      "furigana": "ついたのか、それをいちばんはじめから、すつかりちつている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある日、威張つてこのおはなしをわたくしに聞かせました。",
-      "furigana": "あるひ、いばりつてこのおはなしをわたくしにきかせました。",
+      "clause_text": "のは、おれ一人だと黒坂森のまんなかの巨きな巌が、ある日、威張つてこのおはなしをわたくしに聞かせました。",
+      "furigana": "は、おれひとりだとくろさかもりのまんなかのおおきないわが、あるひ、いばりつてこのおはなしをわたくしにきかせました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "昔、岩手山",
-      "furigana": "むかし、いわてやま",
+      "clause_text": "昔、",
+      "furigana": "むかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "が、何べんも",
-      "furigana": "が、なんべんも",
+      "clause_text": "岩手山が",
+      "furigana": "いわてやまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "噴火し",
-      "furigana": "ふんかし",
+      "clause_text": "、何べんも噴火しました。",
+      "furigana": "、なんべんもふんかしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その灰で",
-      "furigana": "そのはいで",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこらは",
-      "furigana": "そこらは",
+      "clause_text": "灰で",
+      "furigana": "はいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "すつかり",
-      "furigana": "すつかり",
+      "clause_text": "そこらは",
+      "furigana": "そこらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "埋まり",
-      "furigana": "うまり",
+      "clause_text": "すつかり埋まりました。",
+      "furigana": "すつかりうまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

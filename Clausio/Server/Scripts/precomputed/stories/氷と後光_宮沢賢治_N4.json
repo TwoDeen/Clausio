@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "」雪と月あかり",
-      "furigana": "」\nゆきと",
+      "clause_text": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の中を、汽車は",
-      "furigana": "のなかを、きしゃ",
+      "clause_text": "雪と",
+      "furigana": "\nゆき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いっしん",
-      "furigana": "は",
+      "clause_text": "月あかりの",
+      "furigana": "とつきあかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に走っ",
-      "furigana": "に",
+      "clause_text": "中を、汽車は",
+      "furigana": "のなかを、きしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "てゐました。",
-      "furigana": "ていました",
+      "clause_text": "いっしんに走ってゐました。",
+      "furigana": "はいっしんにはしっていました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "赤い天鵞絨の頭巾をかぶっ",
-      "furigana": "あかいびろうどのずきんをかぶっ",
+      "clause_text": "赤い天鵞絨の頭巾をかぶったちひさな子が、毛布につつまれて窓の下の飴色の壁に上手にたてかけられ、まるで寢床に居るやうに、足をこっちにのばしてすやすやと睡ってゐます。",
+      "furigana": "あかいびろうどのずきんをかぶったちひさなこが、もうふにつつまれてまどのしたのあめいろのかべにじょうずにたてかけられ、まるで寢床にいるやうに、あしをこっちにのばしてすやすやとねむっています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "たちひさな子が、毛布につつま",
-      "furigana": "たちひさなこが、もうふにつつま",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "れて窓の下の飴色の壁に上手にたてかけ",
-      "furigana": "れてまどのしたのあめいろのかべにじょうずにたてかけ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "られ、まるで寢床に居るやう",
-      "furigana": "られ、まるで寢床にいるやう",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、足をこっちにのばしてすやすやと睡ってゐます。",
-      "furigana": "に、あしをこっちにのばしてすやすやとねむっています。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "窓のガラス",
-      "furigana": "まどのがらす",
+      "clause_text": "窓の",
+      "furigana": "まどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "はすきとほり",
-      "furigana": "はすきとほり",
+      "clause_text": "ガラスは",
+      "furigana": "がらすは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、外はがらん",
-      "furigana": "、そとはがらん",
+      "clause_text": "すきと",
+      "furigana": "すきと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "として青く明るく",
-      "furigana": "としてあおくあかるく",
+      "clause_text": "ほり、外はが",
+      "furigana": "ほり、そとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "見えました。",
-      "furigana": "みえました。",
+      "clause_text": "らんとして青く明るく見えました。",
+      "furigana": "としてあおくあかるくみえました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「まだ",
-      "furigana": "「まだ",
+      "clause_text": "「まだ八時間あるよ。",
+      "furigana": "きごうまだはちじかんあるよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "八",
-      "furigana": "はち",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間",
-      "furigana": "じかん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある",
-      "furigana": "ある",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "よ。",
-      "furigana": "よ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」若いお父さん",
-      "furigana": "」\nわかい",
+      "clause_text": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、その青白い時計を",
-      "furigana": "は、そのあおじろいとけい",
+      "clause_text": "若いお父さんは",
+      "furigana": "\nわかいおとうさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "チョッキのポケット",
-      "furigana": "をちょっきの",
+      "clause_text": "、その",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "にはさんで靴を",
-      "furigana": "にはさんでくつ",
+      "clause_text": "青白い時計をチョッキの",
+      "furigana": "あおじろいとけいをちょっき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "かたっと鳴らしました。",
-      "furigana": "をかたっとならしました",
+      "clause_text": "ポケットにはさんで靴をかたっと鳴らしました。",
+      "furigana": "のぽけっとにはさんでくつをかたっとならしました",
       "sentence_individual_grammar_level": "N5"
     }
   ]

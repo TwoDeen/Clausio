@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "楢夫は夕方",
-      "furigana": "ならおっとはゆうがた",
+      "clause_text": "楢夫は",
+      "furigana": "ならおっとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、裏の大きな",
-      "furigana": "、うらのおおきな",
+      "clause_text": "夕方、",
+      "furigana": "ゆうがた、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "栗の木の",
-      "furigana": "くりのきの",
+      "clause_text": "裏の",
+      "furigana": "うらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "下に行き",
-      "furigana": "したにいき",
+      "clause_text": "大きな栗の",
+      "furigana": "おおきなくりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "木の下に行きました。",
+      "furigana": "きのしたにいきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その幹の、丁度楢夫",
-      "furigana": "そのみきの、ちょうどならおっと",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の目位高い",
-      "furigana": "のめいたかい",
+      "clause_text": "幹の、",
+      "furigana": "みきの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "所に、白い",
-      "furigana": "ところに、しろい",
+      "clause_text": "丁度楢夫の",
+      "furigana": "ちょうどならおっとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "きのこが三つ",
-      "furigana": "きのこがみっつ",
+      "clause_text": "目位高い所に",
+      "furigana": "めいたかいところに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "できていました。",
-      "furigana": "できていました。",
+      "clause_text": "、白いきのこが三つできていました。",
+      "furigana": "、しろいきのこがみっつできていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "まん中のは",
-      "furigana": "まんなかのは",
+      "clause_text": "まん中の",
+      "furigana": "まんなかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きく、両がわ",
-      "furigana": "おおきく、りょうがわ",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の二つはずっと",
-      "furigana": "のふたつはずっと",
+      "clause_text": "大きく、両が",
+      "furigana": "おおきく、りょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "小さく、そして少し",
-      "furigana": "ちいさく、そしてすこし",
+      "clause_text": "わの二つは",
+      "furigana": "のふたつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "低いのでした。",
-      "furigana": "ひくいのでした。",
+      "clause_text": "ずっと小さく、そして少し低いのでした。",
+      "furigana": "ずっとちいさく、そしてすこしひくいのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "楢夫は、",
-      "furigana": "ならおっとは、",
+      "clause_text": "楢夫は",
+      "furigana": "ならおっとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "じっとそれを",
-      "furigana": "じっとそれを",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "眺めて、",
-      "furigana": "ながめて、",
+      "clause_text": "じっと",
+      "furigana": "じっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひとりごと",
-      "furigana": "ひとりごと",
+      "clause_text": "それを",
+      "furigana": "それを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "を言いました。",
-      "furigana": "をいいました。",
+      "clause_text": "眺めて、ひとりごとを言いました。",
+      "furigana": "ながめて、ひとりごとをいいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「ははあ",
-      "furigana": "「ははあ",
+      "clause_text": "「は",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、これ",
-      "furigana": "、これ",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が",
-      "furigana": "が",
+      "clause_text": "あ、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "さるのこしかけ",
-      "furigana": "さるのこしかけ",
+      "clause_text": "これが",
+      "furigana": "これが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "さるのこしかけだ。",
+      "furigana": "さるのこしかけだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

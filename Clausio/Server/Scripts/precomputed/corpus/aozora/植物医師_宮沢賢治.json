@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "時一九二",
-      "furigana": "とき　　",
+      "clause_text": "時一九二〇年代処盛岡市郊外人物爾薩待正開業したての",
+      "furigana": "とき　　いちきゅうにれいねんだい\nところ　　もりおかしこうがい\nじんぶつ　しかさつまち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "〇年代処盛岡市郊外人物爾薩待正開業",
-      "furigana": "ねんだい\nところ　　もりおかしこうがい\nじんぶつ",
+      "clause_text": "植物医師ペンキ屋徒弟農民一農民二",
+      "furigana": "　ただし　　かいぎょうしたてのしょくぶついし\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "したての植物医師ペンキ屋徒弟農民一",
-      "furigana": "　しかさつまち　ただし　　かいぎょうしたてのしょくぶつ",
+      "clause_text": "農民三農民四農民五農民六幕あく。",
+      "furigana": "とてい\nのうみん　いち\nのうみん　に\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "農民二農民三農民四農民五",
-      "furigana": "\nぺんきやとてい\nのうみん　",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "農民六幕あく。",
-      "furigana": "いち\nのうみん　に\n",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "粗末なバラック室、卓子",
-      "furigana": "そまつなばらっくしつ、たくし",
+      "clause_text": "粗末なバラック室、",
+      "furigana": "そまつなばらっくしつ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "二、一は顕微鏡を載せ一は",
-      "furigana": "に、いちはけんびきょうをのせいちは",
+      "clause_text": "卓子二、",
+      "furigana": "たくしに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "客用、椅子二、爾薩待正椅子に",
-      "furigana": "きゃくよう、いすに、しかさつまちせい　いす",
+      "clause_text": "一は顕微鏡を載せ一は",
+      "furigana": "いちはけんびきょうをのせいちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "坐り心配そうに新聞",
-      "furigana": "にすわりしんぱいそうに",
+      "clause_text": "客用、椅子二、爾薩待正椅子に",
+      "furigana": "きゃくよう、いすに、しかさつまちせい　いす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を見て居る。",
-      "furigana": "をみている",
+      "clause_text": "坐り心配そうに新聞を見て居る。",
+      "furigana": "にすわりしんぱいそうにしんぶんをみている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "立って",
-      "furigana": "たって",
+      "clause_text": "立ってそわそわ",
+      "furigana": "たってそわそわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "そわそわ",
-      "furigana": "そわそわ",
+      "clause_text": "そこらを",
+      "furigana": "そこらを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "そこらを",
-      "furigana": "そこらを",
+      "clause_text": "直したりする。",
+      "furigana": "なおしたりする。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "直したり",
-      "furigana": "なおしたり",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "する。",
-      "furigana": "する。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」（爾薩待忙しく",
-      "furigana": "」きごうしかさつまちいそがしく",
+      "clause_text": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "身づくろいする）",
-      "furigana": "みづくろいするきごう",
+      "clause_text": "（爾薩待忙しく身づくろいする）（ペンキ屋徒弟登場看板を",
+      "furigana": "きごうしかさつまちいそがしくみづくろいするきごう\nきごうぺんきやとていとうじょう　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "（ペンキ屋徒弟登場看板を",
-      "furigana": "\nきごうぺんきやとていとうじょう　",
+      "clause_text": "携える）爾薩待「ああ、",
+      "furigana": "をたずさえるきごう\nしかさつまちきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "携える）爾薩待「ああ",
-      "furigana": "をたずさえるきごう\nしかさつまち",
+      "clause_text": "君か、",
+      "furigana": "ああ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、君か、出来たね。",
-      "furigana": "「ああ、きみか、でき",
+      "clause_text": "出来たね。",
+      "furigana": "きみか、でき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」ペンキ屋（汗を拭き",
-      "furigana": "」\nぺんきやきごうあせを",
+      "clause_text": "」ペンキ屋（汗を拭きながら渡す）「あの",
+      "furigana": "きごう\nぺんきやきごうあせをふきながらわたすきごうきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ながら渡す）",
-      "furigana": "ながらわたす",
+      "clause_text": "、五円三十銭でございます。",
+      "furigana": "、ごえんさんじゅうせんでございます",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「あの、五円",
-      "furigana": "きごう「あの、ご",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "三十銭で",
-      "furigana": "えんさんじゅうせん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ございます。",
-      "furigana": "でございます",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "私は今日の",
-      "furigana": "わたくしはきょうの",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ひるすぎ、",
-      "furigana": "ひるすぎ、",
+      "clause_text": "今日の",
+      "furigana": "きょうの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "イーハトブ",
-      "furigana": "いーはとぶ",
+      "clause_text": "ひるすぎ、",
+      "furigana": "ひるすぎ、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "地方への出張から",
-      "furigana": "ちほうへのしゅっちょうから",
+      "clause_text": "イーハトブ地方へ",
+      "furigana": "いーはとぶちほうへ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "帰ったばかりです。",
-      "furigana": "かえったばかりです。",
+      "clause_text": "の出張から帰ったばかりです。",
+      "furigana": "のしゅっちょうからかえったばかりです。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "私は文部局の巡回",
-      "furigana": "わたくしはもんぶきょくのじゅんかい",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "視学官です",
-      "furigana": "しがくかんです",
+      "clause_text": "文部局の",
+      "furigana": "もんぶきょくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "から、どう",
-      "furigana": "から、どう",
+      "clause_text": "巡回視学官で",
+      "furigana": "じゅんかいしがくかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "しても始終出張",
-      "furigana": "してもしじゅうしゅっちょう",
+      "clause_text": "すから",
+      "furigana": "から",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ばかりしてゐます。",
-      "furigana": "ばかりしています。",
+      "clause_text": "、どうしても始終出張ばかりしてゐます。",
+      "furigana": "、どうしてもしじゅうしゅっちょうばかりしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "私が行くと、どこの",
-      "furigana": "わたくしがいくと、どこの",
+      "clause_text": "私が",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "学校でも、",
-      "furigana": "がっこうでも、",
+      "clause_text": "行くと",
+      "furigana": "いくと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "先生も生徒も、",
-      "furigana": "せんせいもせいとも、",
+      "clause_text": "、どこの",
+      "furigana": "、どこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "大へん緊張し",
-      "furigana": "たいへんきんちょうし",
+      "clause_text": "学校でも",
+      "furigana": "がっこうでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "、先生も生徒も、大へん緊張します。",
+      "furigana": "、せんせいもせいとも、たいへんきんちょうします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "さて、今度のイーハトブ",
-      "furigana": "さて、こんどのいーはとぶ",
+      "clause_text": "さて、",
+      "furigana": "さて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の旅行中で、私は",
-      "furigana": "のりょこうちゅうで、わたくしは",
+      "clause_text": "今度の",
+      "furigana": "こんどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "大へんめづ",
-      "furigana": "たいへんめづ",
+      "clause_text": "イーハトブの",
+      "furigana": "いーはとぶの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "らしいものを見",
-      "furigana": "らしいものをみ",
+      "clause_text": "旅行中で、私は",
+      "furigana": "りょこうちゅうで、わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "大へんめづらしいものを見ました。",
+      "furigana": "たいへんめづらしいものをみました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "新聞にも盛んに出",
-      "furigana": "しんぶんにもさかんにで",
+      "clause_text": "新聞にも盛んに出てゐましたが、あの毒蛾です、あれが実にひどくあの地方に発生したのです。",
+      "furigana": "しんぶんにもさかんにでていましたが、あのどくがです、あれがじつにひどくあのちほうにはっせいしたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "てゐましたが、あの毒蛾",
-      "furigana": "ていましたが、あのどくが",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "です、あれが実に",
-      "furigana": "です、あれがじつに",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひどくあの地方に発生",
-      "furigana": "ひどくあのちほうにはっせい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "したのです。",
-      "furigana": "したのです。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

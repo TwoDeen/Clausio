@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "おれはその時その",
-      "furigana": "おれはそのときその",
+      "clause_text": "おれは",
+      "furigana": "おれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "青黒く淀んだ室",
-      "furigana": "あおぐろくよどんだむろ",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の中の堅い灰色の自分",
-      "furigana": "のなかのかたいはいいろのじぶん",
+      "clause_text": "時その",
+      "furigana": "ときその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の席にそわそわ",
-      "furigana": "のせきにそわそわ",
+      "clause_text": "青黒く淀んだ室の中の堅い灰色の",
+      "furigana": "あおぐろくよどんだむろのなかのかたいはいいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "立ったり座ったりしてゐた。",
-      "furigana": "たったりすわったりしていた。",
+      "clause_text": "自分の席にそわそわ立ったり座ったりしてゐた。",
+      "furigana": "じぶんのせきにそわそわたったりすわったりしていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "二人",
-      "furigana": "ふたり",
+      "clause_text": "二人の",
+      "furigana": "ふたりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の男が",
-      "furigana": "のおとこが",
+      "clause_text": "男が",
+      "furigana": "おとこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "その室の",
-      "furigana": "そのむろの",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "中に",
-      "furigana": "なかに",
+      "clause_text": "室の中に",
+      "furigana": "むろのなかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人はたしか",
-      "furigana": "ひとりはたしか",
+      "clause_text": "一人は",
+      "furigana": "ひとりは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に獣医の有本でも",
-      "furigana": "にじゅういのありもとでも",
+      "clause_text": "たしかに",
+      "furigana": "たしかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人はさまざま",
-      "furigana": "ひとりはさまざま",
+      "clause_text": "獣医の",
+      "furigana": "じゅういの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "のやつらのもやもや",
-      "furigana": "のやつらのもやもや",
+      "clause_text": "有本でも一人はさまざまの",
+      "furigana": "ありもとでもひとりはさまざまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "した区分キメラであった。",
-      "furigana": "したくぶんきめらであった。",
+      "clause_text": "やつらのもやもやした区分キメラであった。",
+      "furigana": "やつらのもやもやしたくぶんきめらであった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "おれはどこかへ",
-      "furigana": "おれはどこかへ",
+      "clause_text": "おれは",
+      "furigana": "おれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "出て行か",
-      "furigana": "でていか",
+      "clause_text": "どこかへ",
+      "furigana": "どこかへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "うと考へて",
-      "furigana": "うとかんがえて",
+      "clause_text": "出て行かうと",
+      "furigana": "でていかうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ゐるらしかっ",
-      "furigana": "いるらしかっ",
+      "clause_text": "考へ",
+      "furigana": "かんがえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "てゐるらしかった。",
+      "furigana": "ているらしかった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "飛ぶんだぞ霧の中を",
-      "furigana": "とぶんだぞきりのなかを",
+      "clause_text": "飛ぶんだぞ霧の",
+      "furigana": "とぶんだぞきりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "きいっと",
-      "furigana": "きいっと",
+      "clause_text": "中を",
+      "furigana": "なかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ふっとんでやる",
-      "furigana": "ふっとんでやる",
+      "clause_text": "きいっと",
+      "furigana": "きいっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "んだなどと頭の奥で",
-      "furigana": "んだなどとあたまのおくで",
+      "clause_text": "ふっとんで",
+      "furigana": "ふっとんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "叫んでゐた。",
-      "furigana": "さけんでいた。",
+      "clause_text": "やるんだなどと頭の奥で叫んでゐた。",
+      "furigana": "やるんだなどとあたまのおくでさけんでいた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

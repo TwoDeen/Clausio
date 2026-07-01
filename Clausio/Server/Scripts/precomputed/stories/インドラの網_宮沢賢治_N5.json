@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そのとき私は大へん",
-      "furigana": "そのときわたくしはたいへん",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ひどく疲れていてたしか",
-      "furigana": "ひどくつかれていてたしか",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "風と草穂との底に",
-      "furigana": "かぜとくさほとのそこに",
+      "clause_text": "き私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "倒れていたのだと",
-      "furigana": "たおれていたのだと",
+      "clause_text": "大へんひどく疲れていてたしか風と",
+      "furigana": "たいへんひどくつかれていてたしかかぜと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "おもいます。",
-      "furigana": "おもいます。",
+      "clause_text": "草穂との底に倒れていたのだとおもいます。",
+      "furigana": "くさほとのそこにたおれていたのだとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その秋風の昏倒の中で私は私",
-      "furigana": "そのあきかぜのこんとうのなかでわたくしはわたくし",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の錫いろの影法師に",
-      "furigana": "のすずいろのかげぼうしに",
+      "clause_text": "秋風の",
+      "furigana": "あきかぜの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ずいぶん馬鹿ていねい",
-      "furigana": "ずいぶんばかていねい",
+      "clause_text": "昏倒の中で",
+      "furigana": "こんとうのなかで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "な別れの挨拶をやっ",
-      "furigana": "なわかれのあいさつをやっ",
+      "clause_text": "私は私の錫いろの影法師に",
+      "furigana": "わたくしはわたくしのすずいろのかげぼうしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ていました。",
-      "furigana": "ていました。",
+      "clause_text": "ずいぶん馬鹿ていねいな別れの挨拶をやっていました。",
+      "furigana": "ずいぶんばかていねいなわかれのあいさつをやっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そしてただひとり暗いこけ",
-      "furigana": "そしてただひとりくらいこけ",
+      "clause_text": "そしてただひと",
+      "furigana": "そしてただ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ももの敷物を",
-      "furigana": "もものしきものを",
+      "clause_text": "り暗いこけも",
+      "furigana": "くらいこけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "踏んでツェラ",
-      "furigana": "ふんでつぇら",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "高原をあるい",
-      "furigana": "こうげんをあるい",
+      "clause_text": "の敷物を",
+      "furigana": "のしきものを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "て行きました。",
-      "furigana": "ていきました。",
+      "clause_text": "踏んでツェラ高原をあるいて行きました。",
+      "furigana": "ふんでつぇらこうげんをあるいていきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "こけもも",
-      "furigana": "こけもも",
+      "clause_text": "こけも",
+      "furigana": "こけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "には赤い",
-      "furigana": "にはあかい",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "実もつい",
-      "furigana": "じつもつい",
+      "clause_text": "に",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ていたの",
-      "furigana": "ていたの",
+      "clause_text": "は赤い実も",
+      "furigana": "はあかいじつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "ついていたのです。",
+      "furigana": "ついていたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "高原の上いっぱい",
-      "furigana": "こうげんのうえいっぱい",
+      "clause_text": "高原の",
+      "furigana": "こうげんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に張って高陵産の磁器より",
-      "furigana": "にはってこうりょうさんのじきより",
+      "clause_text": "上いっぱいに",
+      "furigana": "うえいっぱいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "もっと冷たく",
-      "furigana": "もっとつめたく",
+      "clause_text": "張って高陵産の",
+      "furigana": "はってこうりょうさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "白いのでした。",
-      "furigana": "しろいのでした。",
+      "clause_text": "磁器よりもっと冷たく白いのでした。",
+      "furigana": "じきよりもっとつめたくしろいのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

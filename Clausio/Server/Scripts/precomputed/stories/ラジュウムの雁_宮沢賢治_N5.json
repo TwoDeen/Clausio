@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "水底に少しばかりの星が",
-      "furigana": "みなそこにすこしばかりのほしが",
+      "clause_text": "水底に",
+      "furigana": "みなそこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "またたき出し、胡桃や桑の木は薄",
-      "furigana": "またたきだし、くるみやくわのきはうす",
+      "clause_text": "少しばかりの",
+      "furigana": "すこしばかりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "くらがりにそっと",
-      "furigana": "くらがりにそっと",
+      "clause_text": "星がまたたき出し、胡桃や桑の",
+      "furigana": "ほしがまたたきだし、くるみやくわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "手をあげごく曖昧に祈ってゐる。",
-      "furigana": "てをあげごくあいまいにいのっている。",
+      "clause_text": "木は薄くらがりにそっと手をあげごく曖昧に祈ってゐる。",
+      "furigana": "きはうすくらがりにそっとてをあげごくあいまいにいのっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "杜の杉にはふくろふの滑らか",
-      "furigana": "もりのすぎにはふくろふのなめらか",
+      "clause_text": "杜の杉には",
+      "furigana": "もりのすぎには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "さ、昆布の",
-      "furigana": "さ、こんぶの",
+      "clause_text": "ふくろふの",
+      "furigana": "ふくろふの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "黒びかり、しづか",
-      "furigana": "くろびかり、しづか",
+      "clause_text": "滑らかさ、昆布の",
+      "furigana": "なめらかさ、こんぶの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "にしづかに",
-      "furigana": "にしづかに",
+      "clause_text": "黒びかり、しづかに",
+      "furigana": "くろびかり、しづかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "溶け込んで行く。",
-      "furigana": "とけこんでいく。",
+      "clause_text": "しづかに溶け込んで行く。",
+      "furigana": "しづかにとけこんでいく。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれども西にはまだ",
-      "furigana": "けれどもにしにはまだ",
+      "clause_text": "けれども",
+      "furigana": "けれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "たそがれ",
-      "furigana": "たそがれ",
+      "clause_text": "西に",
+      "furigana": "にしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "が殘ってゐて",
-      "furigana": "がのこっていて",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まるで沼の水",
-      "furigana": "まるでぬまのみず",
+      "clause_text": "まだたそがれが",
+      "furigana": "まだたそがれが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あかりだ。",
-      "furigana": "あかりだ。",
+      "clause_text": "殘ってゐてまるで沼の水あかりだ。",
+      "furigana": "のこっていてまるでぬまのみずあかりだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「やっぱり",
-      "furigana": "「やっぱり",
+      "clause_text": "「やっぱり袴を",
+      "furigana": "きごうやっぱりはかまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "袴を",
-      "furigana": "はかまを",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "はいて",
-      "furigana": "はいて",
+      "clause_text": "いて行くの",
+      "furigana": "ていくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "行くのか",
-      "furigana": "いくのか",
+      "clause_text": "かな。",
+      "furigana": "かな。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "な。",
-      "furigana": "な。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」「袴",
-      "furigana": "」\n「",
+      "clause_text": "」「袴どころぢゃないさ。",
+      "furigana": "きごう\nきごうはかまどころぢゃないさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どころ",
-      "furigana": "はかま",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぢゃ",
-      "furigana": "ぢゃ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない",
-      "furigana": "ない",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "さ。",
-      "furigana": "さ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

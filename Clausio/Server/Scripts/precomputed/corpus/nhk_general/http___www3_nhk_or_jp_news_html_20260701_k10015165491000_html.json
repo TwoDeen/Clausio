@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "気象庁は7月1日",
-      "furigana": "気象庁は7月1日",
+      "clause_text": "気象庁は",
+      "furigana": "気象庁は",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "午前、「鹿児島県",
-      "furigana": "午前、「鹿児島県",
+      "clause_text": "7月1日午前、",
+      "furigana": "7月1日午前、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の奄美地方が",
-      "furigana": "の奄美地方が",
+      "clause_text": "「鹿児島県の奄美地方が梅雨明けしたとみられる」",
+      "furigana": "「鹿児島県の奄美地方が梅雨明けしたとみられる」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "梅雨明けしたとみ",
-      "furigana": "梅雨明けしたとみ",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "られる」と発表しました。",
-      "furigana": "られる」と発表しました。",
+      "clause_text": "発表しました。",
+      "furigana": "発表しました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "今週再び",
-      "furigana": "今週再び",
+      "clause_text": "今週再び大雨の",
+      "furigana": "今週再び大雨の",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大雨の",
-      "furigana": "大雨の",
+      "clause_text": "おそれ。",
+      "furigana": "おそれ。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "おそれ。",
-      "furigana": "おそれ。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "製造業の景気",
-      "furigana": "製造業の景気",
+      "clause_text": "製造業の",
+      "furigana": "製造業の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "判断示す",
-      "furigana": "判断示す",
+      "clause_text": "景気判断示す指数5期連続の",
+      "furigana": "景気判断示す指数5期連続の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "指数5期",
-      "furigana": "指数5期",
+      "clause_text": "改善。",
+      "furigana": "改善。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "連続の改善。",
-      "furigana": "連続の改善。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "“出国税”",
-      "furigana": "“出国税”",
+      "clause_text": "“出国税”きょうから",
+      "furigana": "“出国税”きょうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "きょうから引き上げ",
-      "furigana": "きょうから引き上げ",
+      "clause_text": "引き上げ1人当たり1000円が",
+      "furigana": "引き上げ1人当たり1000円が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "1人当たり",
-      "furigana": "1人当たり",
+      "clause_text": "3000円に",
+      "furigana": "3000円に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "1000円が",
-      "furigana": "1000円が",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "3000円に。",
-      "furigana": "3000円に。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "皇室典範",
-      "furigana": "皇室典範",
+      "clause_text": "皇室典範改正案養子の",
+      "furigana": "皇室典範改正案養子の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "改正案養子の",
-      "furigana": "改正案養子の",
+      "clause_text": "男の",
+      "furigana": "男の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "男の子に皇位",
-      "furigana": "男の子に皇位",
+      "clause_text": "子に",
+      "furigana": "子に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "継承資格審議で",
-      "furigana": "継承資格審議で",
+      "clause_text": "皇位継承資格審議で",
+      "furigana": "皇位継承資格審議で",
       "sentence_individual_grammar_level": "N5"
     },
     {

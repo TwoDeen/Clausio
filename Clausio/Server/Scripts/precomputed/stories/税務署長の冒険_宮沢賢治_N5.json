@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "一、濁密防止講演会〔冒頭原稿数枚",
-      "furigana": "いち、じょくみつぼうしこうえんかい\nきごうぼうとうげんこうすう",
+      "clause_text": "一、",
+      "furigana": "いち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "なし〕イギリスの大学の試験",
-      "furigana": "まいなしきごう\nいぎりすのだいがくの",
+      "clause_text": "濁密防止講演会〔冒頭原稿数枚なし〕イギリスの",
+      "furigana": "じょくみつぼうしこうえんかい\nきごうぼうとうげんこうすうまいなしきごう\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "では牛でさへ酒を",
-      "furigana": "しけんではうしでさへ",
+      "clause_text": "大学の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "呑ませると目方が",
-      "furigana": "さけをのませると",
+      "clause_text": "試験では牛でさへ酒を呑ませると目方が増すと云ひます。",
+      "furigana": "のしけんではうしでさへさけをのませるとめかたがますといひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "増すと云ひます。",
-      "furigana": "がますといひ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "又これ",
-      "furigana": "またこれ",
+      "clause_text": "又これは",
+      "furigana": "またこれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は実に人間",
-      "furigana": "はじつににんげん",
+      "clause_text": "実に",
+      "furigana": "じつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "エネルギー",
-      "furigana": "えねるぎー",
+      "clause_text": "人間エネルギーの根元です。",
+      "furigana": "にんげんえねるぎーのねもとです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の根元",
-      "furigana": "のねもと",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "酒は圧縮",
-      "furigana": "さけはあっしゅく",
+      "clause_text": "酒は",
+      "furigana": "さけは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "せる液体の",
-      "furigana": "せるえきたいの",
+      "clause_text": "圧縮せる液体の",
+      "furigana": "あっしゅくせるえきたいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "パンと云ふのは",
-      "furigana": "ぱんとゆふのは",
+      "clause_text": "パンと",
+      "furigana": "ぱんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "実に名言",
-      "furigana": "じつにめいげん",
+      "clause_text": "云ふのは実に名言です。",
+      "furigana": "ゆふのはじつにめいげんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "堀部安兵衛が高田",
-      "furigana": "ほりべやすべえがたかだ",
+      "clause_text": "堀部安兵衛が",
+      "furigana": "ほりべやすべえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の馬場で三十人の仇討ち",
-      "furigana": "のばばでさんじゅうにんのあだうち",
+      "clause_text": "高田の",
+      "furigana": "たかだの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "さへ出来たのも実に酒の為に",
-      "furigana": "さへできたのもじつにさけのために",
+      "clause_text": "馬場で",
+      "furigana": "ばばで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "エネルギーが沢山",
-      "furigana": "えねるぎーがたくさん",
+      "clause_text": "三十人の仇討ちさへ出来たの",
+      "furigana": "さんじゅうにんのあだうちさへできたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あったからです。",
-      "furigana": "あったからです。",
+      "clause_text": "も実に酒の為にエネルギーが沢山あったからです。",
+      "furigana": "もじつにさけのためにえねるぎーがたくさんあったからです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "国家のため",
-      "furigana": "こっかのため",
+      "clause_text": "国家の",
+      "furigana": "こっかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "世界のため大に",
-      "furigana": "せかいのためおおいに",
+      "clause_text": "ため世界の",
+      "furigana": "ためせかいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "酒を呑んで",
-      "furigana": "さけをのんで",
+      "clause_text": "ため大に酒を",
+      "furigana": "ためおおいにさけを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "下さい。",
-      "furigana": "ください。",
+      "clause_text": "呑んで下さい。",
+      "furigana": "のんでください。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

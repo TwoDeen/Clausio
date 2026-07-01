@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「ああ",
-      "furigana": "「ああ",
+      "clause_text": "「ああそうで",
+      "furigana": "きごうああそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "そうですか、",
-      "furigana": "そうですか、",
+      "clause_text": "すか、",
+      "furigana": "か、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ご存じ",
-      "furigana": "ごぞんじ",
+      "clause_text": "ご存じなんで",
+      "furigana": "ごぞんじなん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なんですか。",
-      "furigana": "なんですか。",
+      "clause_text": "すか。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」「知っ",
-      "furigana": "」\n「",
+      "clause_text": "」「知ってますと",
+      "furigana": "きごう\nきごうしってます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "てます",
-      "furigana": "て",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "とも、",
-      "furigana": "とも",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "知って",
-      "furigana": "、しっ",
+      "clause_text": "知ってますよ。",
+      "furigana": "、しってますよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ますよ。",
-      "furigana": "てますよ",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」",
-      "furigana": "」",
+      "clause_text": "」「バキチを",
+      "furigana": "きごう\nきごうばきち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「バキチ",
-      "furigana": "\n「",
+      "clause_text": "ご存じな",
+      "furigana": "をごぞんじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "をご存じ",
-      "furigana": "を",
+      "clause_text": "んで",
+      "furigana": "なん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "なんです",
-      "furigana": "なん",
+      "clause_text": "すか。",
+      "furigana": "ですか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "か。",
-      "furigana": "か",
+      "clause_text": "…",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "小学校でご一緒",
-      "furigana": "しょうがっこうでごいっしょ",
+      "clause_text": "小学校で",
+      "furigana": "しょうがっこうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ですか、",
-      "furigana": "ですか、",
+      "clause_text": "ご一緒で",
+      "furigana": "ごいっしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "中学校",
-      "furigana": "ちゅうがっこう",
+      "clause_text": "すか、",
+      "furigana": "か、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "でご一緒",
-      "furigana": "でごいっしょ",
+      "clause_text": "中学校で",
+      "furigana": "ちゅうがっこうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ですか。",
-      "furigana": "ですか。",
+      "clause_text": "ご一緒ですか。",
+      "furigana": "ごいっしょですか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "中学校なんど",
-      "furigana": "ちゅうがっこうなんど",
+      "clause_text": "中学校なんど入りやしない。",
+      "furigana": "ちゅうがっこうなんどはいりやしない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "入りやし",
-      "furigana": "はいりやし",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない。",
-      "furigana": "ない。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

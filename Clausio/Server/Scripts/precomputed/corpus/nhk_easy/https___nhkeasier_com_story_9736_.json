@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "四国や",
-      "furigana": "しこくや",
+      "clause_text": "四国や九州で",
+      "furigana": "しこくやきゅうしゅうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "九州で",
-      "furigana": "きゅうしゅうで",
+      "clause_text": "たくさん雨が",
+      "furigana": "たくさんあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん",
-      "furigana": "たくさん",
+      "clause_text": "降っています。",
+      "furigana": "ふっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "雨が降っ",
-      "furigana": "あめがふっ",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ています。",
-      "furigana": "ています。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "雨がたくさん",
-      "furigana": "あめがたくさん",
+      "clause_text": "雨が",
+      "furigana": "あめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "降った鹿児島県",
-      "furigana": "ふったかごしまけん",
+      "clause_text": "たくさん降った鹿児島県で",
+      "furigana": "たくさんふったかごしまけんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "では、山が崩れる",
-      "furigana": "では、やまがくずれる",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "危険があり",
-      "furigana": "きけんがあり",
+      "clause_text": "、山が崩れる危険があります。",
+      "furigana": "、やまがくずれるきけんがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そのため、土砂災害の",
-      "furigana": "そのため、どしゃさいがいの",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "危険を知らせる",
-      "furigana": "きけんをしらせる",
+      "clause_text": "ため、",
+      "furigana": "ため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "レベル4危険警報",
-      "furigana": "レベル4きけんけいほう",
+      "clause_text": "土砂災害の",
+      "furigana": "どしゃさいがいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "が出ている所が",
-      "furigana": "がでているところが",
+      "clause_text": "危険を",
+      "furigana": "きけんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "知らせるレベル4危険警報が出ている所があります。",
+      "furigana": "しらせるレベル4きけんけいほうがでているところがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "九州と四国では",
-      "furigana": "きゅうしゅうとしこくでは",
+      "clause_text": "九州と",
+      "furigana": "きゅうしゅうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "24日から25日、東海と",
-      "furigana": "にじゅうよっかから25にち、とうかいと",
+      "clause_text": "四国で",
+      "furigana": "しこくで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "近畿、東京の伊豆諸島",
-      "furigana": "きんき、とうきょうのいずしょとう",
+      "clause_text": "は24日から",
+      "furigana": "はにじゅうよっかから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "では25日、",
-      "furigana": "では25にち、",
+      "clause_text": "25日、東海と近畿、東京の",
+      "furigana": "25にち、とうかいときんき、とうきょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさん雨が降りそうです。",
-      "furigana": "たくさんあめがふりそうです。",
+      "clause_text": "伊豆諸島では25日、たくさん雨が降りそうです。",
+      "furigana": "いずしょとうでは25にち、たくさんあめがふりそうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "山が崩れ",
-      "furigana": "やまがくずれ",
+      "clause_text": "山が",
+      "furigana": "やまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "たり、家に水が",
-      "furigana": "たり、いえにみずが",
+      "clause_text": "崩れたり、",
+      "furigana": "くずれたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "入ったり、川の水が",
-      "furigana": "はいったり、かわのみずが",
+      "clause_text": "家に",
+      "furigana": "いえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "増えたりする危険が",
-      "furigana": "ふえたりするきけんが",
+      "clause_text": "水が入ったり、川の",
+      "furigana": "みずがはいったり、かわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "水が増えたりする危険があります。",
+      "furigana": "みずがふえたりするきけんがあります。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

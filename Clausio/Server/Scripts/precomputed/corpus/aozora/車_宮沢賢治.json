@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ハーシュは籠を頭に",
-      "furigana": "はーしゅはかごをあたまに",
+      "clause_text": "ハーシュは",
+      "furigana": "はーしゅは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "載っけて午前中町かど",
-      "furigana": "のっけてごぜんちゅうまちかど",
+      "clause_text": "籠を",
+      "furigana": "かごを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "に立ってゐましたがどう云ふわけ",
-      "furigana": "にたっていましたがどうゆふわけ",
+      "clause_text": "頭に",
+      "furigana": "あたまに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "か一つも仕事があり",
-      "furigana": "かひとつもしごとがあり",
+      "clause_text": "載っけて午前中町かどに立ってゐましたが",
+      "furigana": "のっけてごぜんちゅうまちかどにたっていましたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ませんでした。",
-      "furigana": "ませんでした。",
+      "clause_text": "どう云ふわけか一つも仕事がありませんでした。",
+      "furigana": "どうゆふわけかひとつもしごとがありませんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "呆れて籠をおろし",
-      "furigana": "あきれてかごをおろし",
+      "clause_text": "呆れて籠を",
+      "furigana": "あきれてかごを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "て腰をかけ弁当をたべ",
-      "furigana": "てこしをかけべんとうをたべ",
+      "clause_text": "おろして腰を",
+      "furigana": "おろしてこしを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "はじめましたら一人の赤髯の男",
-      "furigana": "はじめましたらひとりのあかひげのおとこ",
+      "clause_text": "かけ弁当を",
+      "furigana": "かけべんとうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "がせはしさうに",
-      "furigana": "がせはしさうに",
+      "clause_text": "たべは",
+      "furigana": "たべ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "やって来ました。",
-      "furigana": "やってきました。",
+      "clause_text": "じめましたら一人の赤髯の男がせはしさうにやって来ました。",
+      "furigana": "ましたらひとりのあかひげのおとこがせはしさうにやってきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「おい",
-      "furigana": "「おい",
+      "clause_text": "「おい、大急ぎだ。",
+      "furigana": "きごうおい、おおいそぎだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "大急ぎ",
-      "furigana": "おおいそぎ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "だ",
-      "furigana": "だ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "兵営の普請に",
-      "furigana": "へいえいのふしんに",
+      "clause_text": "兵営の",
+      "furigana": "へいえいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "足りなくなったから",
-      "furigana": "たりなくなったから",
+      "clause_text": "普請に",
+      "furigana": "ふしんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "テレピン油を工場",
-      "furigana": "てれぴんあぶらをこうじょう",
+      "clause_text": "足りなくなったから",
+      "furigana": "たりなくなったから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "から買っ",
-      "furigana": "からかっ",
+      "clause_text": "テレピン油を工場から",
+      "furigana": "てれぴんあぶらをこうじょうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "て来て呉れ。",
-      "furigana": "てきてくれ。",
+      "clause_text": "買って来て呉れ。",
+      "furigana": "かってきてくれ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そら、あすこ",
-      "furigana": "そら、あすこ",
+      "clause_text": "そら、",
+      "furigana": "そら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "にある車をひい",
-      "furigana": "にあるくるまをひい",
+      "clause_text": "あすこに",
+      "furigana": "あすこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "てね、四罐",
-      "furigana": "てね、よんかん",
+      "clause_text": "ある車を",
+      "furigana": "あるくるまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "だけ、この名刺を",
-      "furigana": "だけ、このめいしを",
+      "clause_text": "ひいてね、四罐だけ、この名刺を持って行くんだ。",
+      "furigana": "ひいてね、よんかんだけ、このめいしをもっていくんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "持って行くんだ。",
-      "furigana": "もっていくんだ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

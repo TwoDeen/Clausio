@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そのとき西のぎらぎらのちぢれ",
-      "furigana": "そのときにしのぎらぎらのちぢれ",
+      "clause_text": "そのと",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "た雲のあひだから、夕陽は赤くなゝ",
-      "furigana": "たくものあひだから、ゆうひはあかくなの",
+      "clause_text": "き西の",
+      "furigana": "にしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "めに苔の野原に注ぎ、",
-      "furigana": "めにこけののはらにそそぎ、",
+      "clause_text": "ぎらぎらのちぢれた雲の",
+      "furigana": "ぎらぎらのちぢれたくもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "すすきはみんな",
-      "furigana": "すすきはみんな",
+      "clause_text": "あひだから、夕陽は赤くなゝめに",
+      "furigana": "あひだから、ゆうひはあかくなのめに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "白い火のやうにゆれて光りました。",
-      "furigana": "しろいひのやうにゆれてひかりました。",
+      "clause_text": "苔の野原に注ぎ、すすきはみんな白い火のやうにゆれて光りました。",
+      "furigana": "こけののはらにそそぎ、すすきはみんなしろいひのやうにゆれてひかりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "わたくしが疲れてそこに睡りますと、ざあざあ吹いてゐ",
-      "furigana": "わたくしがつかれてそこにねむりますと、ざあざあふいてい",
+      "clause_text": "わたくしが疲れてそこに睡りますと、ざあざあ吹いてゐた風が、だんだん人のことばにきこえ、やがてそれは、いま北上の山の方や、野原に行はれてゐた鹿踊りの、ほんたうの精神を語りました。",
+      "furigana": "わたくしがつかれてそこにねむりますと、ざあざあふいていたかぜが、だんだんひとのことばにきこえ、やがてそれは、いまほくじょうのやまのほうや、のはらにおこなはれていたしかおどりの、ほんたうのせいしんをかたりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "た風が、だんだん人のことばにきこえ、やがて",
-      "furigana": "たかぜが、だんだんひとのことばにきこえ、やがて",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "それは、いま北上の山の方や、野原に",
-      "furigana": "それは、いまほくじょうのやまのほうや、のはらに",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "行はれてゐた鹿踊りの、ほんたう",
-      "furigana": "おこなはれていたしかおどりの、ほんたう",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "の精神を語りました。",
-      "furigana": "のせいしんをかたりました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そこらがまだまるつきり、丈高い草や黒い",
-      "furigana": "そこらがまだまるつきり、たけたかいくさやくろい",
+      "clause_text": "そこらが",
+      "furigana": "そこらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "林のままだつたとき、嘉十はお",
-      "furigana": "はやしのままだつたとき、かじゅうはお",
+      "clause_text": "まだまるつきり、",
+      "furigana": "まだまるつきり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ぢいさんたちと北上",
-      "furigana": "ぢいさんたちときたかみ",
+      "clause_text": "丈高い草や黒い林の",
+      "furigana": "たけたかいくさやくろいはやしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "川の東から移つてきて、小さな",
-      "furigana": "かわのひがしから移つてきて、ちいさな",
+      "clause_text": "ままだつたとき、嘉十はおぢいさんたちと",
+      "furigana": "ままだつたとき、かじゅうはおぢいさんたちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "畑を開いて、粟や稗をつくつてゐました。",
-      "furigana": "はたけをひらいて、あわやひえをつくつていました。",
+      "clause_text": "北上川の東から移つてきて、小さな畑を開いて、粟や稗をつくつてゐました。",
+      "furigana": "きたかみかわのひがしから移つてきて、ちいさなはたけをひらいて、あわやひえをつくつていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "あるとき",
-      "furigana": "あるとき",
+      "clause_text": "あると",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "嘉十は、栗の木",
-      "furigana": "よしみじゅうは、くりのき",
+      "clause_text": "き嘉十は",
+      "furigana": "よしみじゅうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "から落ちて、少し",
-      "furigana": "からおちて、すこし",
+      "clause_text": "、栗の",
+      "furigana": "、くりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "左の膝を悪くし",
-      "furigana": "ひだりのひざをわるくし",
+      "clause_text": "木から",
+      "furigana": "きから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "落ちて、少し左の膝を悪くしました。",
+      "furigana": "おちて、すこしひだりのひざをわるくしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そんなときみんなはいつ",
-      "furigana": "そんなときみんなはいつ",
+      "clause_text": "そんなと",
+      "furigana": "そんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも、西の山の中",
-      "furigana": "でも、にしのやまのなか",
+      "clause_text": "きみんなは",
+      "furigana": "みんなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の湯の湧くとこへ行つて、",
-      "furigana": "のゆのわくとこへおこなつて、",
+      "clause_text": "いつで",
+      "furigana": "いつで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "小屋をかけて泊",
-      "furigana": "こやをかけてとまり",
+      "clause_text": "も、西の山の中の湯の湧くと",
+      "furigana": "も、にしのやまのなかのゆのわく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "つて療すのでした。",
-      "furigana": "つてなおすのでした。",
+      "clause_text": "こへ行つて、小屋をかけて泊つて療すのでした。",
+      "furigana": "へおこなつて、こやをかけてとまりつてなおすのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

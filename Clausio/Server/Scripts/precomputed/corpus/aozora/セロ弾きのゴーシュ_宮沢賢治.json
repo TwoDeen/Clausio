@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ゴーシュ",
-      "furigana": "ごーしゅ",
+      "clause_text": "ゴーシュは町の活動写真館でセロを弾く係りでした。",
+      "furigana": "ごーしゅはまちのかつどうしゃしんかんでせろをひくかかりでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は町の活動",
-      "furigana": "はまちのかつどう",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "写真館でセロ",
-      "furigana": "しゃしんかんでせろ",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "を弾く",
-      "furigana": "をひく",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "係りでした。",
-      "furigana": "かかりでした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "けれども",
-      "furigana": "けれども",
+      "clause_text": "けれどもあんまり上手でないという評判でした。",
+      "furigana": "けれどもあんまりじょうずでないというひょうばんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "あんまり",
-      "furigana": "あんまり",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "上手でないと",
-      "furigana": "じょうずでないと",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "いう評判",
-      "furigana": "いうひょうばん",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "でした。",
-      "furigana": "でした。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "上手でないどころではなく",
-      "furigana": "じょうずでないどころではなく",
+      "clause_text": "上手で",
+      "furigana": "じょうずで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "実は仲間の楽手の",
-      "furigana": "じつはなかまのらくしゅの",
+      "clause_text": "ないどころで",
+      "furigana": "ないどころで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なかではいちばん",
-      "furigana": "なかではいちばん",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "下手でしたから、いつでも",
-      "furigana": "へたでしたから、いつでも",
+      "clause_text": "なく実は仲間の楽手のなかでは",
+      "furigana": "なくじつはなかまのらくしゅのなかでは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "楽長にいじめられるのでした。",
-      "furigana": "がくちょうにいじめられるのでした。",
+      "clause_text": "いちばん下手でしたから、いつでも楽長にいじめられるのでした。",
+      "furigana": "いちばんへたでしたから、いつでもがくちょうにいじめられるのでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひるすぎみんなは楽屋",
-      "furigana": "ひるすぎみんなはがくや",
+      "clause_text": "ひるすぎみんなは",
+      "furigana": "ひるすぎみんなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に円くならんで今度の町の",
-      "furigana": "にまるくならんでこんどのまちの",
+      "clause_text": "楽屋に",
+      "furigana": "がくやに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "音楽会へ出す第六",
-      "furigana": "おんがくかいへだすだいろく",
+      "clause_text": "円くならんで",
+      "furigana": "まるくならんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "交響曲の練習",
-      "furigana": "こうきょうきょくのれんしゅう",
+      "clause_text": "今度の町の",
+      "furigana": "こんどのまちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "をしていました。",
-      "furigana": "をしていました。",
+      "clause_text": "音楽会へ出す第六交響曲の練習をしていました。",
+      "furigana": "おんがくかいへだすだいろくこうきょうきょくのれんしゅうをしていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は一生",
-      "furigana": "はいっしょう",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "けん命",
-      "furigana": "けんめい",
+      "clause_text": "一生けん命歌っています。",
+      "furigana": "いっしょうけんめいうたっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "歌ってい",
-      "furigana": "うたってい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     }
   ]

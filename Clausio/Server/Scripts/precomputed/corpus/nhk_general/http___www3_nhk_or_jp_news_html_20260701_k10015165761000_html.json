@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "1日正午前、名古屋市の繁華街",
-      "furigana": "1日正午前、名古屋市の繁華街",
+      "clause_text": "1日正午前、名古屋市の",
+      "furigana": "1日正午前、名古屋市の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の近くにある郵便局で「スプレー",
-      "furigana": "の近くにある郵便局で「スプレー",
+      "clause_text": "繁華街の近くにある郵便局で",
+      "furigana": "繁華街の近くにある郵便局で",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "がまかれた」という通報があり、5人が病院に",
-      "furigana": "がまかれた」という通報があり、5人が病院に",
+      "clause_text": "「スプレーがまかれた」という通報があり、",
+      "furigana": "「スプレーがまかれた」という通報があり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "搬送されましたが、命に別状は",
-      "furigana": "搬送されましたが、命に別状は",
+      "clause_text": "5人が病院に搬送されましたが",
+      "furigana": "5人が病院に搬送されましたが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ないということです。",
-      "furigana": "ないということです。",
+      "clause_text": "、命に別状はないということです。",
+      "furigana": "、命に別状はないということです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "“出国税”",
-      "furigana": "“出国税”",
+      "clause_text": "“出国税”きょうから",
+      "furigana": "“出国税”きょうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "きょうから引き上げ",
-      "furigana": "きょうから引き上げ",
+      "clause_text": "引き上げ1人当たり1000円が",
+      "furigana": "引き上げ1人当たり1000円が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "1人当たり",
-      "furigana": "1人当たり",
+      "clause_text": "3000円に",
+      "furigana": "3000円に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "1000円が",
-      "furigana": "1000円が",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "3000円に。",
-      "furigana": "3000円に。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "皇室典範",
-      "furigana": "皇室典範",
+      "clause_text": "皇室典範改正案養子の",
+      "furigana": "皇室典範改正案養子の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "改正案養子の",
-      "furigana": "改正案養子の",
+      "clause_text": "男の",
+      "furigana": "男の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "男の子に皇位",
-      "furigana": "男の子に皇位",
+      "clause_text": "子に",
+      "furigana": "子に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "継承資格審議で",
-      "furigana": "継承資格審議で",
+      "clause_text": "皇位継承資格審議で",
+      "furigana": "皇位継承資格審議で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "米「出生地",
-      "furigana": "米「出生地",
+      "clause_text": "米",
+      "furigana": "米",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "主義」見直しの",
-      "furigana": "主義」見直しの",
+      "clause_text": "「出生地主義」",
+      "furigana": "「出生地主義」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "大統領令連邦",
-      "furigana": "大統領令連邦",
+      "clause_text": "見直しの",
+      "furigana": "見直しの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "最高裁が認めない",
-      "furigana": "最高裁が認めない",
+      "clause_text": "大統領令連邦最高裁が",
+      "furigana": "大統領令連邦最高裁が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "判断。",
-      "furigana": "判断。",
+      "clause_text": "認めない判断。",
+      "furigana": "認めない判断。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "1ドル＝",
-      "furigana": "1ドル＝",
+      "clause_text": "1ドル＝162円台後半に",
+      "furigana": "1ドル＝162円台後半に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "162円台",
-      "furigana": "162円台",
+      "clause_text": "値下が",
+      "furigana": "値下が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "後半に値下がり",
-      "furigana": "後半に値下がり",
+      "clause_text": "り日米の",
+      "furigana": "り日米の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "日米の金利差",
-      "furigana": "日米の金利差",
+      "clause_text": "金利差拡大などで",
+      "furigana": "金利差拡大などで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "拡大などで。",
-      "furigana": "拡大などで。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "石ヶ森の方は硬くて瘠せて灰色の骨",
-      "furigana": "いしがもりのほうはかたくてやせてはいいろのほね",
+      "clause_text": "石ヶ森の",
+      "furigana": "いしがもりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "を露はし大森は黒く松をこめ",
-      "furigana": "をろはしおおもりはくろくまつをこめ",
+      "clause_text": "方は",
+      "furigana": "ほうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぜいたくさうに",
-      "furigana": "ぜいたくさうに",
+      "clause_text": "硬くて瘠せて灰色の",
+      "furigana": "かたくてやせてはいいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "肥ってゐるが実はどっち",
-      "furigana": "ふとっているがじつはどっち",
+      "clause_text": "骨を露はし大森は黒く松を",
+      "furigana": "ほねをろはしおおもりはくろくまつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "も石英安山岩だ。",
-      "furigana": "もせきえいあんざんがんだ。",
+      "clause_text": "こめぜいたくさうに肥ってゐるが実はどっちも石英安山岩だ。",
+      "furigana": "こめぜいたくさうにふとっているがじつはどっちもせきえいあんざんがんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "丘はうしろで",
-      "furigana": "おかはうしろで",
+      "clause_text": "丘は",
+      "furigana": "おかは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "あつまっ",
-      "furigana": "あつまっ",
+      "clause_text": "うしろで",
+      "furigana": "うしろで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "て一つの",
-      "furigana": "てひとつの",
+      "clause_text": "あつまって一つの",
+      "furigana": "あつまってひとつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "平らをこしら",
-      "furigana": "たいらをこしら",
+      "clause_text": "平らを",
+      "furigana": "たいらを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "へる。",
-      "furigana": "へる。",
+      "clause_text": "こしらへる。",
+      "furigana": "こしらへる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "もう暮れ",
-      "furigana": "もうくれ",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "近く草がそよぎ",
-      "furigana": "ちかくくさがそよぎ",
+      "clause_text": "う暮れ",
+      "furigana": "くれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "防火線も",
-      "furigana": "ぼうかせんも",
+      "clause_text": "近く草が",
+      "furigana": "ちかくくさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "さびしい",
-      "furigana": "さびしい",
+      "clause_text": "そよぎ防火線もさびしいのだ。",
+      "furigana": "そよぎぼうかせんもさびしいのだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のだ。",
-      "furigana": "のだ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "たよりも",
-      "furigana": "たよりも",
+      "clause_text": "たより",
+      "furigana": "たより",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "さびしい",
-      "furigana": "さびしい",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "こと",
-      "furigana": "こと",
+      "clause_text": "さびしいことだ。",
+      "furigana": "さびしいことだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いふものも",
-      "furigana": "いふものも",
+      "clause_text": "いふも",
+      "furigana": "いふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "なかなか",
-      "furigana": "なかなか",
+      "clause_text": "の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "広い草っ原",
-      "furigana": "ひろいくさっぱら",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "なかなか広い草っ原だ。",
+      "furigana": "なかなかひろいくさっぱらだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

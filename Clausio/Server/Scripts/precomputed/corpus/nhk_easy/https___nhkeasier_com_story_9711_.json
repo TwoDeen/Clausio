@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "フランス",
-      "furigana": "フランス",
+      "clause_text": "フランスのパリで大相撲がありました。",
+      "furigana": "フランスのパリでおおずもうがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "のパリで大",
-      "furigana": "のパリでおお",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "相撲が",
-      "furigana": "すもうが",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ありまし",
-      "furigana": "ありまし",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "パリでは",
-      "furigana": "パリでは",
+      "clause_text": "パリで",
+      "furigana": "パリで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "1995",
-      "furigana": "1995",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "年に大相撲が",
-      "furigana": "ねんにおおずもうが",
+      "clause_text": "1995年に",
+      "furigana": "1995ねんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ありまし",
-      "furigana": "ありまし",
+      "clause_text": "大相撲がありました。",
+      "furigana": "おおずもうがありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "久しぶり",
-      "furigana": "ひさしぶり",
+      "clause_text": "久しぶりの",
+      "furigana": "ひさしぶりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の大相撲に",
-      "furigana": "のおおずもうに",
+      "clause_text": "大相撲に",
+      "furigana": "おおずもうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "1万5000",
-      "furigana": "1まん5000",
+      "clause_text": "1万5000人ぐらいの人が来ました。",
+      "furigana": "1まん5000ひとぐらいのひとがきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "人ぐらいの人が来",
-      "furigana": "ひとぐらいのひとがき",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "大関琴櫻が優勝し、",
-      "furigana": "おおぜきことざくらがゆうしょうし、",
+      "clause_text": "大関琴櫻が",
+      "furigana": "おおぜきことざくらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "見ていた人たちは、",
-      "furigana": "みていたひとたちは、",
+      "clause_text": "優勝し、",
+      "furigana": "ゆうしょうし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "立ち上がったり、手を",
-      "furigana": "たちあがったり、てを",
+      "clause_text": "見ていた人たちは",
+      "furigana": "みていたひとたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "たたいたりして",
-      "furigana": "たたいたりして",
+      "clause_text": "、立ち上が",
+      "furigana": "、たちあが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "喜びました。",
-      "furigana": "よろこびました。",
+      "clause_text": "ったり、手をたたいたりして喜びました。",
+      "furigana": "ったり、てをたたいたりしてよろこびました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "相撲が終わっ",
-      "furigana": "すもうがおわっ",
+      "clause_text": "相撲が",
+      "furigana": "すもうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "たあと、客は力士",
-      "furigana": "たあと、きゃくはりきし",
+      "clause_text": "終わったあと",
+      "furigana": "おわったあと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "たちと一緒に",
-      "furigana": "たちといっしょに",
+      "clause_text": "、客は",
+      "furigana": "、きゃくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "写真をとって",
-      "furigana": "しゃしんをとって",
+      "clause_text": "力士たちと",
+      "furigana": "りきしたちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "楽しみました。",
-      "furigana": "たのしみました。",
+      "clause_text": "一緒に写真をとって楽しみました。",
+      "furigana": "いっしょにしゃしんをとってたのしみました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "九州地方や中国地方、",
-      "furigana": "きゅうしゅうちほうやちゅうごくちほう、",
+      "clause_text": "九州地方や中国地方、四国地方などで、梅雨のときの雨がたくさん降っています。",
+      "furigana": "きゅうしゅうちほうやちゅうごくちほう、しこくちほうなどで、つゆのときのあめがたくさんふっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "四国地方などで、",
-      "furigana": "しこくちほうなどで、",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "梅雨のとき",
-      "furigana": "つゆのとき",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の雨がたくさん",
-      "furigana": "のあめがたくさん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "降っています。",
-      "furigana": "ふっています。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "台風も近づい",
-      "furigana": "たいふうもちかづい",
+      "clause_text": "台風も近づいているため、もっとたくさん雨が降りそうです。",
+      "furigana": "たいふうもちかづいているため、もっとたくさんあめがふりそうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ているため、",
-      "furigana": "ているため、",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "もっとたくさん",
-      "furigana": "もっとたくさん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "雨が降り",
-      "furigana": "あめがふり",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "そうです。",
-      "furigana": "そうです。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "長崎県福江空港",
-      "furigana": "ながさきけんふくえくうこう",
+      "clause_text": "長崎県福江空港で",
+      "furigana": "ながさきけんふくえくうこうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "では、3",
-      "furigana": "では、3",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "日間に540",
-      "furigana": "日かんに540",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ミリ以上の雨が",
-      "furigana": "ミリいじょうのあめが",
+      "clause_text": "3日間に",
+      "furigana": "みっかかんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "降りました。",
-      "furigana": "ふりました。",
+      "clause_text": "540ミリ以上の雨が降りました。",
+      "furigana": "540ミリいじょうのあめがふりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "これは、",
-      "furigana": "これは、",
+      "clause_text": "これは、今まででいちばん多い雨の量です。",
+      "furigana": "これは、いままででいちばんおおいあめのりょうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "今までで",
-      "furigana": "いままでで",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いちばん",
-      "furigana": "いちばん",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "多い雨の量",
-      "furigana": "おおいあめのりょう",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "…",
+      "furigana": "…",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "今までの雨で、長崎県と佐賀県",
-      "furigana": "いままでのあめで、ながさきけんとさがけん",
+      "clause_text": "今までの雨で、長崎県と佐賀県で",
+      "furigana": "いままでのあめで、ながさきけんとさがけんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "では、土砂災害の危険を",
-      "furigana": "では、どしゃさいがいのきけんを",
+      "clause_text": "は、土砂災害の危険を知らせる",
+      "furigana": "は、どしゃさいがいのきけんをしらせる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "知らせる「レベル",
-      "furigana": "しらせる「レベル",
+      "clause_text": "「レベル4危険警報」",
+      "furigana": "「レベル4きけんけいほう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "4危険警報」",
-      "furigana": "4きけんけいほう」",
+      "clause_text": "が出ている所が",
+      "furigana": "がでているところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が出ている所があります。",
-      "furigana": "がでているところがあります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

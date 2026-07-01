@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "くだものの畑の丘のいただきに、ひま",
-      "furigana": "くだもののはたけのおかのいただきに、ひま",
+      "clause_text": "くだも",
+      "furigana": "くだも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "はりぐらゐせいの高い、",
-      "furigana": "はりぐらいせいのたかい、",
+      "clause_text": "のの畑の",
+      "furigana": "のはたけの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "黄色なダァリヤの花が二本と、",
-      "furigana": "きいろなだぁりやのはながにぽんと、",
+      "clause_text": "丘のいただきに",
+      "furigana": "おかのいただきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "まだたけ高く、赤い大きな花をつけた一本の",
-      "furigana": "まだたけたかく、あかいおおきなはなをつけたいちぽんの",
+      "clause_text": "、ひまはりぐらゐせいの高い、黄色なダァリヤの花が",
+      "furigana": "、ひまはりぐらいせいのたかい、きいろなだぁりやのはなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ダァリヤの花がありました。",
-      "furigana": "だぁりやのはながありました。",
+      "clause_text": "二本と、まだたけ高く、赤い大きな花をつけた一本のダァリヤの花がありました。",
+      "furigana": "にぽんと、まだたけたかく、あかいおおきなはなをつけたいちぽんのだぁりやのはながありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この赤い",
-      "furigana": "このあかい",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ダァリヤ",
-      "furigana": "だぁりや",
+      "clause_text": "赤いダァリヤは",
+      "furigana": "あかいだぁりやは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は花の女王に",
-      "furigana": "ははなのじょおうに",
+      "clause_text": "花の",
+      "furigana": "はなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ならうと思っ",
-      "furigana": "ならうとおもっ",
+      "clause_text": "女王に",
+      "furigana": "じょおうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "てゐました。",
-      "furigana": "ていました。",
+      "clause_text": "ならうと思ってゐました。",
+      "furigana": "ならうとおもっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "風が南からあばれて来て、木にも花にも大きな",
-      "furigana": "かぜがみなみからあばれてきて、きにもはなにもおおきな",
+      "clause_text": "風が南からあばれて来て、木にも花にも大きな雨のつぶを叩きつけ、丘の小さな栗の木からさへ、青いいがや小枝をむしってけたたましく笑って行く中で、この立派な三木のダァリヤの花は、しづかにからだをゆすりながら、かへっていつもよりかゞやいて見えて居りました。",
+      "furigana": "かぜがみなみからあばれてきて、きにもはなにもおおきなあめのつぶをたたきつけ、おかのちいさなくりのきからさへ、あおいいがやこえだをむしってけたたましくわらっていくなかで、このりっぱなみきのだぁりやのはなは、しづかにからだをゆすりながら、かへっていつもよりかきごうやいてみえておりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "雨のつぶを叩きつけ、丘の小さな栗の木からさへ、青い",
-      "furigana": "あめのつぶをたたきつけ、おかのちいさなくりのきからさへ、あおい",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いがや小枝をむしってけたたましく",
-      "furigana": "いがやこえだをむしってけたたましく",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "笑って行く中で、この立派な三木のダァリヤの花は、",
-      "furigana": "わらっていくなかで、このりっぱなみきのだぁりやのはなは、",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "しづかにからだをゆすりながら、かへっていつもよりかゞやいて見えて居りました。",
-      "furigana": "しづかにからだをゆすりながら、かへっていつもよりかきごうやいてみえておりました。",
+      "clause_text": "…",
+      "furigana": "．",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それから今度は北風又三郎が、今年はじめて笛のやうに",
-      "furigana": "それからこんどはきたかぜまたさぶろうが、ことしはじめてふえのやうに",
+      "clause_text": "それから今度は",
+      "furigana": "それからこんどは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "青ぞらを叫んで過ぎた時、丘のふもとのやまならしの木はせはしく",
-      "furigana": "あおぞらをさけんですぎたとき、おかのふもとのやまならしのきはせはしく",
+      "clause_text": "北風又三郎が",
+      "furigana": "きたかぜまたさぶろうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひらめき、果物畑の梨の実は落ちましたが、",
-      "furigana": "ひらめき、くだものばたけのなしのじつはおちましたが、",
+      "clause_text": "、今年はじめて笛のやうに",
+      "furigana": "、ことしはじめてふえのやうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "此のたけ高い三本のダァリヤは、ほんの",
-      "furigana": "このたけたかいさんぽんのだぁりやは、ほんの",
+      "clause_text": "青ぞらを叫んで過ぎた時、丘のふもとのやまならしの木はせは",
+      "furigana": "あおぞらをさけんですぎたとき、おかのふもとのやまならしのきはせは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "わづか、きらびやかなわらひを揚げただけでした。",
-      "furigana": "わづか、きらびやかなわらひをあげただけでした。",
+      "clause_text": "しくひらめき、果物畑の梨の実は落ちましたが、此のたけ高い三本のダァリヤは、ほんのわづか、きらびやかなわらひを揚げただけでした。",
+      "furigana": "しくひらめき、くだものばたけのなしのじつはおちましたが、このたけたかいさんぽんのだぁりやは、ほんのわづか、きらびやかなわらひをあげただけでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "※黄色な方の一",
-      "furigana": "きごう\nきいろなほうの",
+      "clause_text": "※黄色な方の",
+      "furigana": "きごう\nきいろなほう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "本が、こゝろを南の青白い",
-      "furigana": "いちぽんが、こころをみなみの",
+      "clause_text": "一本が",
+      "furigana": "のいちぽん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "天末に投げながら、",
-      "furigana": "てんまつになげながら",
+      "clause_text": "、こゝろを南の",
+      "furigana": "が、こころをみなみ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひとりごとのやうに云っ",
-      "furigana": "、ひとりごとのやうに",
+      "clause_text": "青白い天末に",
+      "furigana": "のあおじろいてんまつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "たのでした。",
-      "furigana": "たのでした",
+      "clause_text": "投げながら、ひとりごとのやうに云ったのでした。",
+      "furigana": "になげながら、ひとりごとのやうにいったのでした",
       "sentence_individual_grammar_level": "N4"
     }
   ]
