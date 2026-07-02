@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」（爾薩待忙しく身づくろい",
-      "furigana": "」きごうしかさつまちいそがしくみづくろい",
+      "furigana": "きごうきごうしかさつまちいそがしくみづくろい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「ああ、君か、出来たね。",
-      "furigana": "「ああ、きみか、できたね。",
+      "furigana": "きごうああ、きみか、できたね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ペンキ屋",
-      "furigana": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「あの、五円三十銭でございます。",
-      "furigana": "「あの、ごえんさんじゅうせんでございます。",
+      "furigana": "きごうあの、ごえんさんじゅうせんでございます。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

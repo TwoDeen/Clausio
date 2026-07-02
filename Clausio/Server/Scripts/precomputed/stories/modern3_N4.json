@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「まったく、",
-      "furigana": "「まったく、",
+      "furigana": "きごうまったく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ものだな」",
-      "furigana": "ものだな」",
+      "furigana": "ものだなきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「鹿の黄色い脇腹に二、三発撃ち込んだら、さぞ気持ちがいいだろうね。",
-      "furigana": "「しかのきいろいわきばらにに、さんはつうちこんだら、さぞきもちがいいだろうね。",
+      "furigana": "きごうしかのきいろいわきばらにに、さんはつうちこんだら、さぞきもちがいいだろうね。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

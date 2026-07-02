@@ -306,10 +306,15 @@ def _select_five_sentences_from_text(raw_content: str) -> List[str]:
 
     filtered_sentences = [s for s in safe_sentences if len(s) >= 8]
 
-    selected_sentences = filtered_sentences[:5]
-    while len(selected_sentences) < 5:
-        selected_sentences.append("立派な一軒の西洋造りの家がありました。")
+    #selected_sentences = filtered_sentences[:5]
+    #while len(selected_sentences) < 5:
+    #    selected_sentences.append("立派な一軒の西洋造りの家がありました。")
 
+    selected_sentences = filtered_sentences[:5]
+    if len(selected_sentences) < 5:
+       raise ValueError(
+           f"Only found {len(selected_sentences)} usable sentences; need 5."
+       )
     return selected_sentences
 
 
@@ -323,7 +328,12 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     with open(raw_txt_path, "r", encoding="utf-8") as f:
         raw_content = f.read()
 
-    selected_sentences = _select_five_sentences_from_text(raw_content)
+    #selected_sentences = _select_five_sentences_from_text(raw_content)
+    try:
+        selected_sentences = _select_five_sentences_from_text(raw_content)
+    except ValueError as e:
+        print(f"[ERR] {e}", file=sys.stderr)
+        return {}
 
     highest_weight_encountered = 1
     puzzle_grid = []
@@ -410,9 +420,16 @@ def build_puzzle_from_news_tokens(
 
     highest_weight_encountered = 1
 
+
     normalized_sentences = list(five_sentences_list[:5])
-    while len(normalized_sentences) < 5:
-        normalized_sentences.append("")
+    if len(normalized_sentences) < 5:
+      raise ValueError(
+          f"Only received {len(normalized_sentences)} news sentences; need 5."
+      )
+
+    #normalized_sentences = list(five_sentences_list[:5])
+    #while len(normalized_sentences) < 5:
+    #    normalized_sentences.append("")
 
     for row_idx, sentence_text in enumerate(normalized_sentences):
         sentence_id = row_idx + 1

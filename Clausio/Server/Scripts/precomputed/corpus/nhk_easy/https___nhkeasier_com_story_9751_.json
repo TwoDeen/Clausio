@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "暑さが",
-      "furigana": "あつさが",
+      "clause_text": "暑",
+      "furigana": "あつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "原因で",
-      "furigana": "げんいんで",
+      "clause_text": "さが",
+      "furigana": "さが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "亡くなった",
-      "furigana": "なくなった",
+      "clause_text": "原因で亡くなった",
+      "furigana": "げんいんでなくなった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「ヨーロッパで、暑さが原因で亡くなった人は、いつもの年より1300人以上多くなっている」と",
-      "furigana": "「よーろっぱで、あつさがげんいんでなくなったひとは、いつものとしよりいちさんれいれいにんいじょうおおくなっている」と",
+      "furigana": "きごうよーろっぱで、あつさがげんいんでなくなったひとは、いつものとしよりいちさんれいれいにんいじょうおおくなっているきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "そして「",
-      "furigana": "そして「",
+      "furigana": "そしてきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「ああそうで",
-      "furigana": "「ああそう",
+      "furigana": "きごうああそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」「知って",
-      "furigana": "」\n「しっ",
+      "furigana": "きごう\nきごうしっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」「",
-      "furigana": "」",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {

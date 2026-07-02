@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "地球温暖化の影響で、",
-      "furigana": "ちきゅうおんだんかのえいきょうで、",
+      "clause_text": "地球温暖化の",
+      "furigana": "ちきゅうおんだんかの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界",
-      "furigana": "せかい",
+      "clause_text": "影響で、",
+      "furigana": "えいきょうで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "各地で異常気象が",
-      "furigana": "かくちでいじょうきしょうが",
+      "clause_text": "世界各地で異常",
+      "furigana": "せかいかくちでいじょう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "増加",
-      "furigana": "ぞうか",
+      "clause_text": "気象が増加",
+      "furigana": "きしょうがぞうか",
       "sentence_individual_grammar_level": "N3"
     },
     {

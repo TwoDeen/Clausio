@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「いったい、",
-      "furigana": "「いったい、",
+      "furigana": "きごういったい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "んだなあ」",
-      "furigana": "だなあ」",
+      "furigana": "だなあきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「鹿の黄色い横腹なんかに、二、三発お見舞いしたら、ずいぶん痛快だろうねえ。",
-      "furigana": "「しかのきいろいよこばらなんかに、に、さんはつおみまいしたら、ずいぶんつうかいだろうねえ。",
+      "furigana": "きごうしかのきいろいよこばらなんかに、に、さんはつおみまいしたら、ずいぶんつうかいだろうねえ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

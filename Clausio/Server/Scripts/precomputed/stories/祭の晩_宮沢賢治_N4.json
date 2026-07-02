@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「空気獣」",
-      "furigana": "「くうきじゅう」",
+      "furigana": "きごうくうきじゅうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「さあ、みんな、入れ入れ」と",
-      "furigana": "「さあ、みんな、いれいれ」と",
+      "furigana": "きごうさあ、みんな、いれいれきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「おい、あんこ、早ぐ入れ。",
-      "furigana": "「おい、あんこ、はやぐいれ。",
+      "furigana": "きごうおい、あんこ、はやぐいれ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「おまえたちはみんなまっ赤な",
-      "furigana": "「おまえたちはみんなまっかな",
+      "furigana": "きごうおまえたちはみんなまっかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "帆船でね、いまがあらしのとこなんだ」",
-      "furigana": "ほぶねでね、いまがあらしのとこなんだ」",
+      "furigana": "ほぶねでね、いまがあらしのとこなんだきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「いやあだ、",
-      "furigana": "「いやあだ、",
+      "furigana": "きごういやあだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ひなげしども",
-      "furigana": "」ひなげしども",
+      "furigana": "きごうひなげしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
