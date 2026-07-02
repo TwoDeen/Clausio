@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "流沙の",
-      "furigana": "るさの",
+      "clause_text": "流沙の南の、",
+      "furigana": "るさのみなみの、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "南の",
-      "furigana": "みなみの",
+      "clause_text": "楊で囲まれた小さな泉で、",
+      "furigana": "ようでかこまれたちいさないずみで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、楊で",
-      "furigana": "、ようで",
+      "clause_text": "私は、",
+      "furigana": "わたくしは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "囲まれた小さな泉で、私は",
-      "furigana": "かこまれたちいさないずみで、わたくしは",
+      "clause_text": "いった麦粉を水にといて、",
+      "furigana": "いったむぎこをみずにといて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "、いった麦粉を水にといて、昼の食事をしておりました。",
-      "furigana": "、いったむぎこをみずにといて、ひるのしょくじをしておりました。",
+      "clause_text": "昼の食事をしておりました。",
+      "furigana": "ひるのしょくじをしておりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのとき、",
+      "furigana": "そのとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "一人の巡礼のおじいさん",
+      "furigana": "ひとりのじゅんれいのおじいさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "き、一人の",
-      "furigana": "、ひとりの",
+      "clause_text": "が、やっぱり食事のために、",
+      "furigana": "が、やっぱりしょくじのために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "巡礼のおじいさんが",
-      "furigana": "じゅんれいのおじいさんが",
+      "clause_text": "そこへや",
+      "furigana": "そこへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "、やっぱり食事のために、そこへやって来ました。",
-      "furigana": "、やっぱりしょくじのために、そこへやってきました。",
+      "clause_text": "って来ました。",
+      "furigana": "てきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "だまって軽く礼を",
-      "furigana": "だまってかるくれいを",
+      "clause_text": "だまっ",
+      "furigana": "だまっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "て軽く",
+      "furigana": "てかるく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "礼を",
+      "furigana": "れいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "けれども、半日まるっきり人にも出会わないそんな旅でしたから、私は食事がすんでも、すぐに泉とその年老った巡礼とから、別れてしまいたくはありませんでした。",
-      "furigana": "けれども、はんにちまるっきりひとにもであわないそんなたびでしたから、わたくしはしょくじがすんでも、すぐにいずみとそのとしとったじゅんれいとから、わかれてしまいたくはありませんでした。",
+      "clause_text": "けれども、",
+      "furigana": "けれども、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "半日まるっきり人にも出会わないそんな旅でしたから、",
+      "furigana": "はんにちまるっきりひとにもであわないそんなたびでしたから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "私は食事がすんでも、",
+      "furigana": "わたくしはしょくじがすんでも、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "すぐに泉とその年老った巡礼とから、",
+      "furigana": "すぐにいずみとそのとしとったじゅんれいとから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "別れてしまいたくはありませんでした。",
+      "furigana": "わかれてしまいたくはありませんでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は",
-      "furigana": "わたくしは",
+      "clause_text": "私はしばらくその老人の、",
+      "furigana": "わたくしはしばらくそのろうじんの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "しばらくその",
-      "furigana": "しばらくその",
+      "clause_text": "高い咽喉仏のぎく",
+      "furigana": "たかいいんこうふつのぎく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "老人の、",
-      "furigana": "ろうじんの、",
+      "clause_text": "ぎく動くのを、",
+      "furigana": "ぎくうごくのを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "高い咽喉仏の",
-      "furigana": "たかいいんこうふつ",
+      "clause_text": "見るともなしに",
+      "furigana": "みるともなしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぎくぎく動くのを、見るともなしに見ていました。",
-      "furigana": "ぎくうごくのを、みるともなしにみていました。",
+      "clause_text": "見ていました。",
+      "furigana": "みていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

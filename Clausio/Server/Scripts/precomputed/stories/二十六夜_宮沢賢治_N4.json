@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "六月二十四日の",
-      "furigana": "のろくがつにじゅうよんか",
+      "clause_text": "六月",
+      "furigana": "のろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "晩でした。",
-      "furigana": "のばんでした",
+      "clause_text": "二十四",
+      "furigana": "がつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "日の",
+      "furigana": "か",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "晩でした。",
+      "furigana": "のばんでした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "北上川の",
-      "furigana": "きたかみかわの",
+      "clause_text": "北上川の水は黒の寒天よりももっと",
+      "furigana": "きたかみかわのみずはくろのかんてんよりももっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "水は",
-      "furigana": "みずは",
+      "clause_text": "なめらかにすべり獅子鼻は",
+      "furigana": "なめらかにすべりししはなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "黒の寒天よりも",
-      "furigana": "くろのかんてんよりも",
+      "clause_text": "微かな星のあかりの底に",
+      "furigana": "かすかなほしのあかりのそこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "もっとなめらかにすべり獅子鼻は",
-      "furigana": "もっとなめらかにすべりししはなは",
+      "clause_text": "まっくろに",
+      "furigana": "まっくろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "微かな星のあかりの底にまっくろに突き出ていました。",
-      "furigana": "かすかなほしのあかりのそこにまっくろにつきでていました。",
+      "clause_text": "突き出ていました。",
+      "furigana": "つきでていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "獅子鼻の上の",
-      "furigana": "ししはなのうえの",
+      "clause_text": "獅子鼻の上の松林は、もちろんもちろん、",
+      "furigana": "ししはなのうえのまつばやしは、もちろんもちろん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "松林は、も",
-      "furigana": "まつばやしは、",
+      "clause_text": "まっ黒でしたがそれでも林の中に入って行きますと、",
+      "furigana": "まっくろでしたがそれでもはやしのなかにはいっていきますと、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ちろんもちろん、まっ黒でしたが",
-      "furigana": "もちろん、まっくろでしたが",
+      "clause_text": "その脚の長い松の木の高い梢が、",
+      "furigana": "そのあしのながいまつのきのたかいこずえが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "それでも林の中に入って行きますと",
-      "furigana": "それでもはやしのなかにはいっていきますと",
+      "clause_text": "一本一本空の天の川や、",
+      "furigana": "いちぽんいちぽんそらのあまのがわや、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、その脚の長い松の木の高い梢が、一本一本空の天の川や、星座にすかし出されて見えていました。",
-      "furigana": "、そのあしのながいまつのきのたかいこずえが、いちぽんいちぽんそらのあまのがわや、せいざにすかしだされてみえていました。",
+      "clause_text": "星座にすかし出されて見えていました。",
+      "furigana": "せいざにすかしだされてみえていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "松かさだか鳥だかわからない黒いものがたくさんその梢にとまっているようでした。",
-      "furigana": "まつかさだかとりだかわからないくろいものがたくさんそのこずえにとまっているようでした。",
+      "clause_text": "松かさだか鳥だか",
+      "furigana": "まつかさだかとりだか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "わからない黒い",
+      "furigana": "わからないくろい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ものがたくさん",
+      "furigana": "ものがたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "その梢にとまっているよ",
+      "furigana": "そのこずえにとまっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "うでした。",
+      "furigana": "でした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "底の",
-      "furigana": "そこの",
+      "clause_text": "底の萱の",
+      "furigana": "そこのかやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "萱の",
-      "furigana": "かやの",
+      "clause_text": "葉は夏の夜の",
+      "furigana": "ははなつのよるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "葉は夏の夜の雫を",
-      "furigana": "ははなつのよるのしずくを",
+      "clause_text": "雫をもうポトポト",
+      "furigana": "しずくをもうぽとぽと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "もうポトポト落して居りました。",
-      "furigana": "もうぽとぽとおとしておりました。",
+      "clause_text": "落して居りました。",
+      "furigana": "おとしておりました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

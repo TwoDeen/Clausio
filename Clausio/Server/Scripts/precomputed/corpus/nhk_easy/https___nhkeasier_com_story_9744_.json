@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "九州から関東地方まで、いろいろな場所で、雨がたくさん降っています。",
-      "furigana": "きゅうしゅうからかんとうちほうまで、いろいろなばしょで、あめがたくさんふっています。",
+      "clause_text": "九州から",
+      "furigana": "きゅうしゅうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "関東地方まで、",
+      "furigana": "かんとうちほうまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "いろいろな場所で、",
+      "furigana": "いろいろなばしょで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "雨がたくさん",
+      "furigana": "あめがたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "降っています。",
+      "furigana": "ふっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "2つの",
-      "furigana": "ふたつの",
+      "clause_text": "2つの台風が近くに",
+      "furigana": "ふたつのたいふうがちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "台風が",
-      "furigana": "たいふうが",
+      "clause_text": "来ているため、",
+      "furigana": "きているため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "近くに",
-      "furigana": "ちかくに",
+      "clause_text": "これから雨がもっと",
+      "furigana": "これからあめがもっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "来ているため、これから",
-      "furigana": "きているため、これから",
+      "clause_text": "多くなり",
+      "furigana": "おおくなり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "雨がもっと多くなりそうです。",
-      "furigana": "あめがもっとおおくなりそうです。",
+      "clause_text": "そうです。",
+      "furigana": "そうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "気象庁によると、26日の午後6時半に広島県と香川県、山口県では、レベル4の土砂災害危険警報が出ている所があります。",
-      "furigana": "きしょうちょうによると、ふた6にちのごご6じはんにひろしまけんとかがわけん、やまぐちけんでは、レベル4のどしゃさいがいきけんけいほうがでているところがあります。",
+      "clause_text": "気象庁によると、",
+      "furigana": "きしょうちょうによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "26日の午後6時半に広島県と香川県、",
+      "furigana": "ふた6にちのごご6じはんにひろしまけんとかがわけん、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "山口県では、",
+      "furigana": "やまぐちけんでは、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "レベル4の土砂災害危険警報が出ている所が",
+      "furigana": "レベル4のどしゃさいがいきけんけいほうがでているところが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "雨が",
-      "furigana": "あめが",
+      "clause_text": "雨がたくさん降って、",
+      "furigana": "あめがたくさんふって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさん降って、",
-      "furigana": "たくさんふって、",
+      "clause_text": "山などが",
+      "furigana": "やまなどが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "山などが",
-      "furigana": "やまなどが",
+      "clause_text": "崩れる危険が",
+      "furigana": "くずれるきけんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "崩れる危険がとても高くなっています。",
-      "furigana": "くずれるきけんがとてもたかくなっています。",
+      "clause_text": "とても高く",
+      "furigana": "とてもたかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "沖縄県や鹿児島県の",
-      "furigana": "おきなわけんやかごしまけんの",
+      "clause_text": "沖縄県や鹿児島県の奄美",
+      "furigana": "おきなわけんやかごしまけんの奄美",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "奄美地方で",
-      "furigana": "あまみちほうで",
+      "clause_text": "地方では、",
+      "furigana": "地方では、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "台風7号が近くに",
+      "furigana": "たいふう7ごうがちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、台風7号が",
-      "furigana": "、たいふう7ごうが",
+      "clause_text": "来て風が強く",
+      "furigana": "きてかぜがつよく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "近くに来て風が強くなっています。",
-      "furigana": "ちかくにきてかぜがつよくなっています。",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "東京株式市場で",
-      "furigana": "とうきょうかぶしきしじょうで",
+      "clause_text": "東京株式市場で18",
+      "furigana": "とうきょうかぶしきしじょうで18",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "18日、",
-      "furigana": "18にち、",
+      "clause_text": "日、",
+      "furigana": "にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "7万1000円以上になりました。",
-      "furigana": "7まん1000えんいじょうになりました。",
+      "clause_text": "7万1000円以上に",
+      "furigana": "7まん1000えんいじょうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日経平均株価は",
-      "furigana": "にっけいへいきんかぶかは",
+      "clause_text": "日経平均",
+      "furigana": "にち経へいきん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "株価は、",
+      "furigana": "かぶ価は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "平均の値段です。",
-      "furigana": "へいきんのねだんです。",
+      "clause_text": "平均の",
+      "furigana": "へいきんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "値段です。",
+      "furigana": "ねだんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "今まででいちばん高くなりました。",
-      "furigana": "いままででいちばんたかくなりました。",
+      "clause_text": "今までで",
+      "furigana": "いままでで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "いちばん",
+      "furigana": "いちばん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "高くなり",
+      "furigana": "たかくなり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "アメリカと",
-      "furigana": "アメリカと",
+      "clause_text": "アメリカとイランが、",
+      "furigana": "アメリカとイランが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "イランが",
-      "furigana": "イランが",
+      "clause_text": "戦いを終わりに",
+      "furigana": "たたかいをおわりに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、戦いを終わりに",
-      "furigana": "、たたかいをおわりに",
+      "clause_text": "するための書類にサイン",
+      "furigana": "するためのしょるいにサイン",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "するための",
-      "furigana": "するための",
+      "clause_text": "したことなどが",
+      "furigana": "したことなどが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "書類にサインしたことなどが伝わったためです。",
-      "furigana": "しょるいにサインしたことなどがつたわったためです。",
+      "clause_text": "伝わったためです。",
+      "furigana": "つたわったためです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "会社の",
-      "furigana": "かいしゃの",
+      "clause_text": "会社の株を",
+      "furigana": "かいしゃのかぶを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "株を買おうという注文が増えました。",
-      "furigana": "かぶをかおうというちゅうもんがふえました。",
+      "clause_text": "買おうという注文が",
+      "furigana": "かおうというちゅうもんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "増えました。",
+      "furigana": "ふえました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるうちに",
-      "furigana": "あるうちに",
+      "clause_text": "ある",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "一つの",
-      "furigana": "ひとつの",
+      "clause_text": "うちに",
+      "furigana": "うちに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "鳥かごがありました。",
-      "furigana": "とりかごがありました。",
+      "clause_text": "一つの",
+      "furigana": "ひとつの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "鳥かごが",
+      "furigana": "とりかごが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "云ふより",
-      "furigana": "ゆふより",
+      "clause_text": "云ふよりは、",
+      "furigana": "ゆふよりは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、鳥箱と",
-      "furigana": "は、とりばこと",
+      "clause_text": "鳥箱といふ方",
+      "furigana": "とりばこといふかた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "いふ方が",
-      "furigana": "いふかたが",
+      "clause_text": "が、よくわかる",
+      "furigana": "が、よくわかる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "、よくわかるかもしれません。",
-      "furigana": "、よくわかるかもしれません。",
+      "clause_text": "かもしれません。",
+      "furigana": "かもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それは、天井と、底と、三方の壁とが、無暗に厚い板でできてゐて、正面丈けが、針がねの網でこさへた戸になってゐました。",
-      "furigana": "それは、てんじょうと、そこと、みかたのかべとが、むやみにあついいたでできていて、しょうめんだけが、はりがねのあみでこさへたとになっていました。",
+      "clause_text": "それは、天井と、底と、",
+      "furigana": "それは、てんじょうと、そこと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "三方の壁とが、",
+      "furigana": "みかたのかべとが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "無暗に厚い板でできてゐて、",
+      "furigana": "むやみにあついいたでできていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "正面丈けが、",
+      "furigana": "しょうめんだけが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "針がねの網でこさへた戸になってゐました。",
+      "furigana": "はりがねのあみでこさへたとになっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして小さなガラスの",
-      "furigana": "そしてちいさながらすの",
+      "clause_text": "そして小さな",
+      "furigana": "そしてちいさな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "窓が",
-      "furigana": "まどが",
+      "clause_text": "ガラスの",
+      "furigana": "がらすの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "横の方についてゐました。",
-      "furigana": "よこのほうについていました。",
+      "clause_text": "窓が横の",
+      "furigana": "まどがよこの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "方に",
+      "furigana": "ほうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ついてゐました。",
+      "furigana": "ついていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ある日一疋の",
-      "furigana": "あるひいちひきの",
+      "clause_text": "ある日一",
+      "furigana": "あるひいち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "子供の",
-      "furigana": "こどもの",
+      "clause_text": "疋の子供の",
+      "furigana": "ひきのこどもの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "その中に入れられました。",
-      "furigana": "そのなかにいれられました。",
+      "clause_text": "その中に入れ",
+      "furigana": "そのなかにいれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "られました。",
+      "furigana": "られました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N3",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "1日正午前、名古屋市の",
-      "furigana": "1日正午前、名古屋市の",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "鹿児島県の",
+      "furigana": "かごしまけんの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "繁華街の近くにある郵便局で",
-      "furigana": "繁華街の近くにある郵便局で",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "奄美地方は",
+      "furigana": "あまみちほうは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「スプレーがまかれた」という通報があり、",
-      "furigana": "「スプレーがまかれた」という通報があり、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "7月1日、",
+      "furigana": "7がつついたち、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "5人が病院に搬送されましたが",
-      "furigana": "5人が病院に搬送されましたが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "晴れていい天気に",
+      "furigana": "はれていいてんきに",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "、命に別状はないということです。",
-      "furigana": "、命に別状はないということです。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "“出国税”きょうから",
-      "furigana": "“出国税”きょうから",
+      "clause_text": "気象庁は、",
+      "furigana": "きしょうちょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "引き上げ1人当たり1000円が",
-      "furigana": "引き上げ1人当たり1000円が",
+      "clause_text": "奄美",
+      "furigana": "奄美",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "3000円に",
-      "furigana": "3000円に",
+      "clause_text": "地方で梅雨が",
+      "furigana": "地方でつゆが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "終わったようだ",
+      "furigana": "おわったようだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "と言いました。",
+      "furigana": "といいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "皇室典範改正案養子の",
-      "furigana": "皇室典範改正案養子の",
+      "clause_text": "しかし、",
+      "furigana": "しかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "男の",
-      "furigana": "男の",
+      "clause_text": "九州地方や中国地方、",
+      "furigana": "きゅうしゅうちほうやちゅうごくちほう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "子に",
-      "furigana": "子に",
+      "clause_text": "近畿地方など西日本で、",
+      "furigana": "きんきちほうなどにしにほんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "皇位継承資格審議で",
-      "furigana": "皇位継承資格審議で",
+      "clause_text": "1日も梅雨の雨が",
+      "furigana": "ついたちもつゆのあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "論点に。",
-      "furigana": "論点に。",
+      "clause_text": "続いています。",
+      "furigana": "つづいています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "米",
-      "furigana": "米",
+      "clause_text": "長崎県などで、",
+      "furigana": "ながさきけんなどで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "「出生地主義」",
-      "furigana": "「出生地主義」",
+      "clause_text": "とても強く",
+      "furigana": "とてもつよく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "見直しの",
-      "furigana": "見直しの",
+      "clause_text": "降った",
+      "furigana": "ふった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "大統領令連邦最高裁が",
-      "furigana": "大統領令連邦最高裁が",
+      "clause_text": "ところが",
+      "furigana": "ところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "認めない判断。",
-      "furigana": "認めない判断。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "1ドル＝162円台後半に",
-      "furigana": "1ドル＝162円台後半に",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "気象庁によると、",
+      "furigana": "きしょうちょうによると、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "値下が",
-      "furigana": "値下が",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "西日本で1",
+      "furigana": "にしにほんで1",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "り日米の",
-      "furigana": "り日米の",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "日と2日は",
+      "furigana": "日とふつかは",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "金利差拡大などで",
-      "furigana": "金利差拡大などで",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "雨がたくさん降り",
+      "furigana": "あめがたくさんふり",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "そうです。",
+      "furigana": "そうです。",
+      "sentence_individual_grammar_level": "N3"
     }
   ]
 }

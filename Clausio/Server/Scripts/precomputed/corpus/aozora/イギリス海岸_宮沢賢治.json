@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "夏休みの",
-      "furigana": "なつやすみの",
+      "clause_text": "夏休みの十五日の農場実習の間に、",
+      "furigana": "なつやすみのじゅうごにちののうじょうじっしゅうのあいだに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "十五日の",
-      "furigana": "じゅうごにちの",
+      "clause_text": "私どもがイギリス海岸とあだ名をつけて、",
+      "furigana": "わたくしどもがいぎりすかいがんとあだなをつけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "農場実習の間に",
-      "furigana": "のうじょうじっしゅうのあいだに",
+      "clause_text": "二日か三日ごと、",
+      "furigana": "ふたかかみっかごと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "、私どもがイギリス海岸とあだ名を",
-      "furigana": "、わたくしどもがいぎりすかいがんとあだなを",
+      "clause_text": "仕事が一きりつくたびに、よく遊びに行った処が",
+      "furigana": "しごとがいちきりつくたびに、よくあそびにいったところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "つけて、二日か三日ごと、仕事が一きりつくたびに、よく遊びに行った処がありました。",
-      "furigana": "つけて、ふたかかみっかごと、しごとがいちきりつくたびに、よくあそびにいったところがありました。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "それは",
-      "furigana": "それは",
+      "clause_text": "それは本たうは",
+      "furigana": "それはほんたうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "本たうは",
-      "furigana": "ほんたうは",
+      "clause_text": "海岸ではなくて、",
+      "furigana": "かいがんではなくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "海岸で",
-      "furigana": "かいがんで",
+      "clause_text": "いかにも海岸の",
+      "furigana": "いかにもかいがんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "はなくて、いかに",
-      "furigana": "はなくて、いかに",
+      "clause_text": "風をした川の",
+      "furigana": "かぜをしたかわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "も海岸の風をした川の岸です。",
-      "furigana": "もかいがんのかぜをしたかわのきしです。",
+      "clause_text": "岸です。",
+      "furigana": "きしです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "西岸でした。",
-      "furigana": "せいがんでした。",
+      "clause_text": "西岸で",
+      "furigana": "せいがん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "し",
+      "furigana": "し",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "東の",
-      "furigana": "ひがしの",
+      "clause_text": "東の仙人峠から、",
+      "furigana": "ひがしのせんにんとうげから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "仙人峠から",
-      "furigana": "せんにんとうげから",
+      "clause_text": "遠野を通り土沢を過ぎ、",
+      "furigana": "とおのをとおりつちざわをすぎ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、遠野を",
-      "furigana": "、とおのを",
+      "clause_text": "北上山地を横截って来る冷たい猿ヶ石川の、",
+      "furigana": "きたかみさんちをおうせつってくるつめたいさるがいしかわの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "通り土沢を過ぎ、北上山地を",
-      "furigana": "とおりつちざわをすぎ、きたかみさんちを",
+      "clause_text": "北上川への落合から、",
+      "furigana": "きたかみかわへのおちあいから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "横截って来る冷たい猿ヶ石川の、北上川への落合から、少し下流の西岸でした。",
-      "furigana": "おうせつってくるつめたいさるがいしかわの、きたかみかわへのおちあいから、すこしかりゅうのせいがんでした。",
+      "clause_text": "少し下流の西岸でした。",
+      "furigana": "すこしかりゅうのせいがんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "イギリス海岸に",
-      "furigana": "いぎりすかいがんに",
+      "clause_text": "イギリス海岸には、青白い凝灰質の泥岩が、",
+      "furigana": "いぎりすかいがんには、あおじろいぎょうかいしつのでいがんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "川に沿ってずゐぶん広く露出し、",
+      "furigana": "かわにそってずいぶんひろくろしゅつし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "青白い凝灰質の泥岩が",
-      "furigana": "あおじろいぎょうかいしつのでいがんが",
+      "clause_text": "その南のはじに立ちますと、",
+      "furigana": "そのみなみのはじにたちますと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、川に沿ってずゐぶん広く露出し、その南の",
-      "furigana": "、かわにそってずいぶんひろくろしゅつし、そのみなみの",
+      "clause_text": "北のはづれに居る人は、",
+      "furigana": "きたのはづれにいるひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "はじに立ちますと、北のはづれに居る人は、小指の先よりもっと小さく見えました。",
-      "furigana": "はじにたちますと、きたのはづれにいるひとは、こゆびのさきよりもっとちいさくみえました。",
+      "clause_text": "小指の先よりもっと小さく見えました。",
+      "furigana": "こゆびのさきよりもっとちいさくみえました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

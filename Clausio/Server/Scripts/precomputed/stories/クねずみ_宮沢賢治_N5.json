@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "クと",
-      "furigana": "くと",
+      "clause_text": "ク",
+      "furigana": "く",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "いう名前の",
-      "furigana": "いうなまえの",
+      "clause_text": "という",
+      "furigana": "という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ねずみがありました。",
-      "furigana": "ねずみがありました。",
+      "clause_text": "名前のね",
+      "furigana": "なまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ずみが",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "たいへ",
-      "furigana": "たいへ",
+      "clause_text": "たいへん高慢でそれに",
+      "furigana": "たいへんこうまんでそれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ん高慢で",
-      "furigana": "こうまんで",
+      "clause_text": "そねみ深くって、",
+      "furigana": "そねみふかくって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "それに",
-      "furigana": "それに",
+      "clause_text": "自分をねずみの仲間の",
+      "furigana": "じぶんをねずみのなかまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "そねみ深くって、自分を",
-      "furigana": "そねみふかくって、じぶんを",
+      "clause_text": "一番の学者と",
+      "furigana": "いちばんのがくしゃと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ねずみの仲間の一番の学者と思っていました。",
-      "furigana": "ねずみのなかまのいちばんのがくしゃとおもっていました。",
+      "clause_text": "思っていました。",
+      "furigana": "おもっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ほかの",
-      "furigana": "ほかの",
+      "clause_text": "ほかのねずみが何か",
+      "furigana": "ほかのねずみがなんか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ねずみが",
-      "furigana": "ねずみが",
+      "clause_text": "生意気なことを言うと",
+      "furigana": "なまいきなことをゆうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "何か生意気なこと",
-      "furigana": "なんかなまいきなこと",
+      "clause_text": "エヘンエヘン",
+      "furigana": "えへんえへん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "を",
-      "furigana": "を",
+      "clause_text": "と言うのが",
+      "furigana": "というのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "言うとエヘンエヘンと言うのが癖でした。",
-      "furigana": "ゆうとえへんえへんというのがくせでした。",
+      "clause_text": "癖でした。",
+      "furigana": "くせでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "クねずみの",
-      "furigana": "くねずみの",
+      "clause_text": "クねずみのうちへ、",
+      "furigana": "くねずみのうちへ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "うちへ",
-      "furigana": "うちへ",
+      "clause_text": "ある日、",
+      "furigana": "あるひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、ある日、",
-      "furigana": "、あるひ、",
+      "clause_text": "友だちのタね",
+      "furigana": "ともだちのた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "友だちの",
-      "furigana": "ともだちの",
+      "clause_text": "ずみがや",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "タねずみがやって来ました。",
-      "furigana": "たねずみがやってきました。",
+      "clause_text": "って来ました。",
+      "furigana": "てきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,7 +241,7 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "さてタ",
+      "clause_text": "さてタね",
       "furigana": "さてた",
       "sentence_individual_grammar_level": "N5"
     },
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ねずみは",
-      "furigana": "ねずみは",
+      "clause_text": "ずみは",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "クねずみに言いました。",
-      "furigana": "くねずみにいいました。",
+      "clause_text": "クね",
+      "furigana": "く",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ずみに",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "言いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

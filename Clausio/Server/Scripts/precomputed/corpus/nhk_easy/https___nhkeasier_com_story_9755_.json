@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "6月30日の朝早く、栃木県那須塩原市で、73歳の男性が熊に襲われました。",
-      "furigana": "6がつ30にちのあさはやく、とちぎけんなすしおばらしで、73さいのだんせいがくまにおそわれました。",
+      "clause_text": "6月30日の朝早く、",
+      "furigana": "6がつ30にちのあさはやく、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "栃木県那須塩原市で、",
+      "furigana": "とちぎけんなすしおばらしで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "73歳の男性が",
+      "furigana": "73さいのだんせいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "熊に襲わ",
+      "furigana": "くまにおそわ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "れました。",
+      "furigana": "れました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "男性は山の近くの畑で仕事をしていました。",
-      "furigana": "だんせいはやまのちかくのはたけでしごとをしていました。",
+      "clause_text": "男性は",
+      "furigana": "だんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "山の",
+      "furigana": "やまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "近くの",
+      "furigana": "ちかくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "畑で仕事を",
+      "furigana": "はたけでしごとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "していました。",
+      "furigana": "していました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "警察によると、男性は",
-      "furigana": "けいさつによると、だんせいは",
+      "clause_text": "警察によると、",
+      "furigana": "けいさつによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「助けてほしい」",
-      "furigana": "「たすけてほしい」",
+      "clause_text": "男性は「助けてほしい」",
+      "furigana": "だんせいは「たすけてほしい」",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひどいけが",
-      "furigana": "ひどいけが",
+      "clause_text": "ひどい",
+      "furigana": "ひどい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "をしていました。",
-      "furigana": "をしていました。",
+      "clause_text": "けがを",
+      "furigana": "けがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "してい",
+      "furigana": "してい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "近くに",
-      "furigana": "ちかくに",
+      "clause_text": "近くには",
+      "furigana": "ちかくには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "学校が",
+      "furigana": "がっこうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "学校が",
-      "furigana": "がっこうが",
+      "clause_text": "あり",
+      "furigana": "あり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     }
   ]

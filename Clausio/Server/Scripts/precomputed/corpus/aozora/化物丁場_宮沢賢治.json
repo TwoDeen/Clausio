@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "五六日続いた雨の",
-      "furigana": "ごろくにちつづいたあめの",
+      "clause_text": "五六日",
+      "furigana": "ごろくにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "続いた雨",
+      "furigana": "つづいたあめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "やっと",
-      "furigana": "やっと",
+      "clause_text": "の、やっと",
+      "furigana": "の、やっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あがった朝でした。",
-      "furigana": "あがったあさでした。",
+      "clause_text": "あがった",
+      "furigana": "あがった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "朝でした。",
+      "furigana": "あさでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "黄金の日光が",
-      "furigana": "おうごんのにっこうが",
+      "clause_text": "黄金の日光が、青い木や稲を、",
+      "furigana": "おうごんのにっこうが、あおいきやいねを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、青い木や稲を",
-      "furigana": "、あおいきやいねを",
+      "clause_text": "照してはゐましたが、空には、",
+      "furigana": "てらししてはいましたが、そらには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、照してはゐましたが",
-      "furigana": "、てらししてはいましたが",
+      "clause_text": "方角の決まらない雲がふらふら飛び、",
+      "furigana": "ほうがくのきまらないくもがふらふらとび、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、空には、方角の決まらない雲がふらふら飛び、山脈も",
-      "furigana": "、そらには、ほうがくのきまらないくもがふらふらとび、さんみゃくも",
+      "clause_text": "山脈も非常に近く見えて、",
+      "furigana": "さんみゃくもひじょうにちかくみえて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "非常に近く見えて、なんだかまだほんたうに霽れたといふやうな気がしませんでした。",
-      "furigana": "ひじょうにちかくみえて、なんだかまだほんたうにはれたといふやうなきがしませんでした。",
+      "clause_text": "なんだかまだほんたうに霽れたといふやうな気がしませんでした。",
+      "furigana": "なんだかまだほんたうにはれたといふやうなきがしませんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "私は、西の仙人鉱山に、小さな用事がありましたので、黒沢尻で、軽便鉄道に乗りかへました。",
-      "furigana": "わたくしは、にしのせんにんこうざんに、ちいさなようじがありましたので、くろさわじりで、けいべんてつどうにのりかへました。",
+      "clause_text": "私は、",
+      "furigana": "わたくしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "西の仙人鉱山に、",
+      "furigana": "にしのせんにんこうざんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "小さな用事がありましたので、",
+      "furigana": "ちいさなようじがありましたので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "黒沢尻で、",
+      "furigana": "くろさわじりで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "軽便鉄道に乗りかへました。",
+      "furigana": "けいべんてつどうにのりかへました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "中は",
-      "furigana": "なかは",
+      "clause_text": "中",
+      "furigana": "なか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、割合空いて居りました。",
-      "furigana": "、わりあいあいておりました。",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "割合",
+      "furigana": "わりあい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "空いて居りました。",
+      "furigana": "あいておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それで",
-      "furigana": "それで",
+      "clause_text": "それでもや",
+      "furigana": "それでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "っぱり二十人",
+      "furigana": "にじゅうにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "やっぱり二十人ぐらゐは",
-      "furigana": "やっぱりにじゅうにんぐらいは",
+      "clause_text": "ぐらゐは",
+      "furigana": "ぐらいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "あったで",
-      "furigana": "あったで",
+      "clause_text": "あったでせ",
+      "furigana": "あったでせ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "せう。",
-      "furigana": "せう。",
+      "clause_text": "う。",
+      "furigana": "う。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

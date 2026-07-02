@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "フランスのパリで大相撲がありました。",
-      "furigana": "フランスのパリでおおずもうがありました。",
+      "clause_text": "大リーグ、",
+      "furigana": "大リーグ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "カブスの鈴木誠也選手はパドレス戦で大リーグ通算100号の",
+      "furigana": "カブスの鈴木誠也選手はパドレス戦で大リーグ通算100号の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ホームランを打って3安打3打点と活躍し、",
+      "furigana": "ホームランを打って3安打3打点と活躍し、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "チームは5連勝",
+      "furigana": "チームは5連勝",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "パリで",
-      "furigana": "パリで",
+      "clause_text": "W杯日本",
+      "furigana": "W杯日本",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "代表が帰国へ",
+      "furigana": "代表が帰国へ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "1995年に",
-      "furigana": "1995ねんに",
+      "clause_text": "森保監督",
+      "furigana": "森保監督",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大相撲がありました。",
-      "furigana": "おおずもうがありました。",
+      "clause_text": "去就は",
+      "furigana": "去就は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "「何も聞いていない」。",
+      "furigana": "「何も聞いていない」。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "久しぶりの",
-      "furigana": "ひさしぶりの",
+      "clause_text": "NPBSNSでの",
+      "furigana": "NPBSNSでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大相撲に",
-      "furigana": "おおずもうに",
+      "clause_text": "審判員に",
+      "furigana": "審判員に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "1万5000人ぐらいの人が来ました。",
-      "furigana": "1まん5000ひとぐらいのひとがきました。",
+      "clause_text": "対する",
+      "furigana": "対する",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "「ひぼう中傷監視システム」",
+      "furigana": "「ひぼう中傷監視システム」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "導入。",
+      "furigana": "導入。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "大関琴櫻が",
-      "furigana": "おおぜきことざくらが",
+      "clause_text": "【プロ野球",
+      "furigana": "【プロ野球",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "優勝し、",
-      "furigana": "ゆうしょうし、",
+      "clause_text": "結果】",
+      "furigana": "結果】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "見ていた人たちは",
-      "furigana": "みていたひとたちは",
+      "clause_text": "ソフトバンクが",
+      "furigana": "ソフトバンクが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、立ち上が",
-      "furigana": "、たちあが",
+      "clause_text": "快勝で首位",
+      "furigana": "快勝で首位",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ったり、手をたたいたりして喜びました。",
-      "furigana": "ったり、てをたたいたりしてよろこびました。",
+      "clause_text": "キープ。",
+      "furigana": "キープ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "相撲が",
-      "furigana": "すもうが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "佐々木",
+      "furigana": "佐々木",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "終わったあと",
-      "furigana": "おわったあと",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "麟太郎選手",
+      "furigana": "麟太郎選手",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、客は",
-      "furigana": "、きゃくは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ソフトバンクから",
+      "furigana": "ソフトバンクから",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "力士たちと",
-      "furigana": "りきしたちと",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "背番号「1」",
+      "furigana": "背番号「1」",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "一緒に写真をとって楽しみました。",
-      "furigana": "いっしょにしゃしんをとってたのしみました。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "提示される。",
+      "furigana": "提示される。",
+      "sentence_individual_grammar_level": "N4"
     }
   ]
 }

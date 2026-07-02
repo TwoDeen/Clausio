@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "一つの",
-      "furigana": "ひとつの",
+      "clause_text": "一",
+      "furigana": "ひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "地名で",
-      "furigana": "ちめいで",
+      "clause_text": "つの",
+      "furigana": "つの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある。",
-      "furigana": "ある。",
+      "clause_text": "地名で",
+      "furigana": "ちめいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "しいて、その地点を",
-      "furigana": "しいて、そのちてんを",
+      "clause_text": "しいて、その地点を求むるならば、",
+      "furigana": "しいて、そのちてんをもとむるならば、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "求むるならば、それは、",
-      "furigana": "もとむるならば、それは、",
+      "clause_text": "それは、大小クラウスたちの耕していた、野原や、",
+      "furigana": "それは、だいしょうくらうすたちのたがやしていた、のはらや、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "大小クラウスたちの耕していた、野原や、少女アリスが",
-      "furigana": "だいしょうくらうすたちのたがやしていた、のはらや、しょうじょありすが",
+      "clause_text": "少女アリスがたどった鏡の国と同じ世界の中、",
+      "furigana": "しょうじょありすがたどったかがみのくにとおなじせかいのなか、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たどった鏡の国と同じ世界の中、テパーンタール砂漠の",
-      "furigana": "たどったかがみのくにとおなじせかいのなか、てぱーんたーるさばくの",
+      "clause_text": "テパーンタール砂漠のはるかな北東、",
+      "furigana": "てぱーんたーるさばくのはるかなほくとう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "はるかな北東、イヴン王国の遠い東と考えられる。",
-      "furigana": "はるかなほくとう、いゔんおうこくのとおいひがしとかんがえられる。",
+      "clause_text": "イヴン王国の遠い東と考えられる。",
+      "furigana": "いゔんおうこくのとおいひがしとかんがえられる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "じつにこれは",
-      "furigana": "じつにこれは",
+      "clause_text": "じつにこれは著者の心象中に、",
+      "furigana": "じつにこれはちょしゃのしんしょうちゅうに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "著者の心象中に",
-      "furigana": "ちょしゃのしんしょうちゅうに",
+      "clause_text": "このような状景をも",
+      "furigana": "このようなじょうけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、このような状景をも",
-      "furigana": "、このようなじょうけいを",
+      "clause_text": "って実在した",
+      "furigana": "てじつざいした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "って実在したドリームランドと",
-      "furigana": "てじつざいしたどりーむらんどと",
+      "clause_text": "ドリームランドと",
+      "furigana": "どりーむらんどと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そこで",
-      "furigana": "そこで",
+      "clause_text": "そこでは、",
+      "furigana": "そこでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "あらゆる",
+      "furigana": "あらゆる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "ことが",
+      "furigana": "ことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "あらゆること",
-      "furigana": "あらゆること",
+      "clause_text": "可能で",
+      "furigana": "かのうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "が可能である。",
-      "furigana": "がかのうである。",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "人は一瞬に",
-      "furigana": "ひとはいっしゅんに",
+      "clause_text": "人は一瞬にして氷雲の上に",
+      "furigana": "ひとはいっしゅんにしてこおりくものうえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "して氷雲の上に",
-      "furigana": "してこおりくものうえに",
+      "clause_text": "飛躍し大循環の風を従えて北に",
+      "furigana": "ひやくしだいじゅんかんのかぜをしたがえてきたに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "飛躍し大循環の風を従えて北に",
-      "furigana": "ひやくしだいじゅんかんのかぜをしたがえてきたに",
+      "clause_text": "旅することもあれば、",
+      "furigana": "たびすることもあれば、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "旅することもあれば、赤い花杯の",
-      "furigana": "たびすることもあれば、あかいはなさかずきの",
+      "clause_text": "赤い花杯の下を",
+      "furigana": "あかいはなさかずきのしたを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "下を行く蟻と語ることもできる。",
-      "furigana": "したをいくありとかたることもできる。",
+      "clause_text": "行く蟻と語ることもできる。",
+      "furigana": "いくありとかたることもできる。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

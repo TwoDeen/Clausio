@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "〔ここまで",
-      "furigana": "きごうここまで",
+      "clause_text": "〔ここまで原稿なし〕そして青い橄※［＃「木＋覧」、",
+      "furigana": "きごうここまでげんこうなしきごう\nそしてあおい橄きごうきごう#「ききごうらん」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "原稿なし〕そして青い橄※［＃",
-      "furigana": "げんこうなしきごう\nそしてあおい橄きごうきごう",
+      "clause_text": "16-3］の森が見えない天の川の向ふにさめざめと光りながらだんだんうしろの方へ行ってしまひ",
+      "furigana": "、いちろく-さんきごうのもりがみえないあまのがわのむこうにさめざめとひかりながらだんだんうしろのほうへいって",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「木＋覧」",
-      "furigana": "#きごうききごうらん",
+      "clause_text": "そこから流れて来るあやしい楽器の音ももう",
+      "furigana": "そこからながれてくるあやしいがっきのおとも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "、16-3］の森が見えない天の川の向ふにさめざめと光りながらだんだんうしろの方へ行ってしまひそこから",
-      "furigana": "きごう、いちろく-さんきごうのもりがみえないあまのがわのむこうにさめざめとひかりながらだんだんうしろのほうへいってしまひそこ",
+      "clause_text": "汽車のひゞきや風の音にすり耗らされて聞えないやうに",
+      "furigana": "きしゃのひきごうきやかぜのおとにすりへらされてきこえないやう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "流れて来るあやしい楽器の音ももう汽車のひゞきや風の音にすり耗らされて聞えないやうになりました。",
-      "furigana": "ながれてくるあやしいがっきのおとももうきしゃのひきごうきやかぜのおとにすりへらされてきこえないやうになりました",
+      "clause_text": "なりました。",
+      "furigana": "になりました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「あの",
-      "furigana": "きごうあの",
+      "furigana": "「あの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "せう。",
-      "furigana": "せう。",
+      "clause_text": "せ",
+      "furigana": "せ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "う。",
+      "furigana": "う。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あたしきっと",
-      "furigana": "あたしきっと",
+      "clause_text": "あたしきっとあの森の中に立派",
+      "furigana": "あたしきっとあのもりのなかにりっぱ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "あの森の",
-      "furigana": "あのもりの",
+      "clause_text": "なお姫さまが立って竪琴を鳴らしてゐ",
+      "furigana": "なおひめさまがたってたてごとをならしてい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "中に立派なお姫さまが",
-      "furigana": "なかにりっぱなおひめさまが",
+      "clause_text": "らっしゃると思ふわ、",
+      "furigana": "らっしゃるとおもふわ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "立って竪琴を鳴らしてゐらっしゃると",
-      "furigana": "たってたてごとをならしていらっしゃると",
+      "clause_text": "お附きの腰元や何かが青い孔雀の",
+      "furigana": "おつきのこしもとやなんかがあおいくじゃくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "思ふわ、お附きの腰元や何かが青い孔雀の羽でうしろからあをいであげてゐるわ。",
-      "furigana": "おもふわ、おつきのこしもとやなんかがあおいくじゃくのはねでうしろからあをいであげているわ。",
+      "clause_text": "羽でうしろからあをいであげてゐるわ。",
+      "furigana": "はねでうしろからあをいであげているわ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "カムパネルラの",
-      "furigana": "\nかむぱねるら",
+      "clause_text": "カムパネルラのと",
+      "furigana": "\nかむぱねるらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "と",
-      "furigana": "の",
+      "clause_text": "なりに居た",
+      "furigana": "となりにい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なりに",
-      "furigana": "となり",
+      "clause_text": "女の子が",
+      "furigana": "たおんなのこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "居た女の子が云ひました。",
-      "furigana": "にいたおんなのこがいひました",
+      "clause_text": "云ひました。",
+      "furigana": "がいひました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "誰に",
-      "furigana": "だれに",
+      "clause_text": "誰にもそんな",
+      "furigana": "だれにもそんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "気持ちがする",
+      "furigana": "きもちがする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "そんな気持ちがするのでした。",
-      "furigana": "そんなきもちがするのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

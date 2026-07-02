@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある死火山のすそ野の",
-      "furigana": "あるしかざんのすそのの",
+      "clause_text": "ある死火山の",
+      "furigana": "あるしかざんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "かしはの木のかげに、「ベゴ」",
-      "furigana": "かしはのきのかげに、きごうべごきごう",
+      "clause_text": "すそ野のか",
+      "furigana": "すそのの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "といふあだ名の大きな黒い石が、",
-      "furigana": "といふあだなのおおきなくろいいしが、",
+      "clause_text": "しはの木のか",
+      "furigana": "はのきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "永いことじぃっと",
-      "furigana": "ながいことじぃっと",
+      "clause_text": "げに、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "座ってゐました。",
-      "furigana": "すわっていました。",
+      "clause_text": "「ベゴ」",
+      "furigana": "「べご」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「ベゴ」",
-      "furigana": "きごうべごきごう",
+      "clause_text": "「ベゴ」と",
+      "furigana": "「べご」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "と云ふ名は、",
-      "furigana": "とゆふなは、",
+      "clause_text": "云ふ名は、",
+      "furigana": "ゆふなは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "その辺の草の",
-      "furigana": "そのへんのくさの",
+      "clause_text": "その辺の草の中に",
+      "furigana": "そのへんのくさのなかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "中にあちこち散らばった、稜の",
-      "furigana": "なかにあちこちちらばった、りょうの",
+      "clause_text": "あちこち",
+      "furigana": "あちこち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あるあまり大きくない黒い石どもが、つけたのでした。",
-      "furigana": "あるあまりおおきくないくろいいしどもが、つけたのでした。",
+      "clause_text": "散らばった、",
+      "furigana": "ちらばった、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ほかに、立派な、本たうの",
-      "furigana": "ほかに、りっぱな、ほんたうの",
+      "clause_text": "ほかに、",
+      "furigana": "ほかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "名前もあったのでしたが、",
-      "furigana": "なまえもあったのでしたが、",
+      "clause_text": "立派な、",
+      "furigana": "りっぱな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「ベゴ」",
-      "furigana": "きごうべごきごう",
+      "clause_text": "本たうの名前もあったのでしたが、",
+      "furigana": "ほんたうのなまえもあったのでしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "石もそれを",
-      "furigana": "いしもそれを",
+      "clause_text": "「ベゴ」石もそれを知りませ",
+      "furigana": "「べご」いしもそれをしりませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "知りませんでした。",
-      "furigana": "しりませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ベゴ石は",
-      "furigana": "べごいしは",
+      "clause_text": "ベゴ石は、",
+      "furigana": "べごいしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "稜がなくて、",
+      "furigana": "りょうがなくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "稜が",
-      "furigana": "りょうが",
+      "clause_text": "丁度卵の両はじを、",
+      "furigana": "ちょうどたまごのりょうはじを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なくて、丁度卵の両はじを",
-      "furigana": "なくて、ちょうどたまごのりょうはじを",
+      "clause_text": "少しひらたくのばしたやうな",
+      "furigana": "すこしひらたくのばしたやうな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、少しひらたくのばしたやうな形でした。",
-      "furigana": "、すこしひらたくのばしたやうなかたちでした。",
+      "clause_text": "形でした。",
+      "furigana": "かたちでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ななめに",
-      "furigana": "ななめに",
+      "clause_text": "ななめに二本の石の",
+      "furigana": "ななめににぽんのいしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "二本の石の",
-      "furigana": "にぽんのいしの",
+      "clause_text": "帯のやうなもの",
+      "furigana": "おびのやうなもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "帯のやうなも",
-      "furigana": "おびのやうな",
+      "clause_text": "が、からだを",
+      "furigana": "が、からだを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のが、からだを巻いてありました。",
-      "furigana": "が、からだをまいてありました。",
+      "clause_text": "巻いてありました。",
+      "furigana": "まいてありました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "サッカー、ワールドカップの決勝トーナメントで、日本はブラジルと試合をしました。",
-      "furigana": "サッカー、ワールドカップのけっしょうトーナメントで、にっぽんはブラジルとしあいをしました。",
+      "clause_text": "サッカー、",
+      "furigana": "サッカー、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ワールドカップの決勝",
+      "furigana": "ワールドカップのけっしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "トーナメントで、",
+      "furigana": "トーナメントで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "日本はブラジルと試合を",
+      "furigana": "にっぽんはブラジルとしあいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "世界で",
-      "furigana": "せかいで",
+      "clause_text": "世界での強さの",
+      "furigana": "せかいでのつよさの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "順番は、",
+      "furigana": "じゅんばんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "強さの",
-      "furigana": "つよさの",
+      "clause_text": "ブラジルが6番、",
+      "furigana": "ブラジルが6ばん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "順番は、ブラジルが",
-      "furigana": "じゅんばんは、ブラジルが",
+      "clause_text": "日本が18",
+      "furigana": "にっぽんが18",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "6番、日本が18番です。",
-      "furigana": "6ばん、にっぽんが18ばんです。",
+      "clause_text": "番です。",
+      "furigana": "ばんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本は",
-      "furigana": "にっぽんは",
+      "clause_text": "日本は前半、",
+      "furigana": "にっぽんはぜんはん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "前半、",
-      "furigana": "ぜんはん、",
+      "clause_text": "みんなでよく",
+      "furigana": "みんなでよく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "みんなで",
-      "furigana": "みんなで",
+      "clause_text": "守ってブラジルに",
+      "furigana": "まもってブラジルに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "よく守ってブラジルに",
-      "furigana": "よくまもってブラジルに",
+      "clause_text": "点を取られませ",
+      "furigana": "てんをとられませ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "点を取られませんでした。",
-      "furigana": "てんをとられませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "佐野海舟選手が",
-      "furigana": "さのかいしゅうせんしゅが",
+      "clause_text": "佐野海舟選手が素晴らしい",
+      "furigana": "さのかいしゅうせんしゅがすばらしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "素晴らしいシュートを",
-      "furigana": "すばらしいシュートを",
+      "clause_text": "シュートを決めて、",
+      "furigana": "シュートをきめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "決めて、先に1点を取りました。",
-      "furigana": "きめて、さきに1てんをとりました。",
+      "clause_text": "先に1点を",
+      "furigana": "さきに1てんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "取りました。",
+      "furigana": "とりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかしブラジルは",
-      "furigana": "しかしブラジルは",
+      "clause_text": "しかしブラジルは、",
+      "furigana": "しかしブラジルは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "後半が始まるとシュートを決めて、",
+      "furigana": "こうはんがはじまるとシュートをきめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "後半が",
-      "furigana": "こうはんが",
+      "clause_text": "後半が終わる",
+      "furigana": "こうはんがおわる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "始まるとシュートを決めて、後半が",
-      "furigana": "はじまるとシュートをきめて、こうはんが",
+      "clause_text": "少し前に2点目のシュートを",
+      "furigana": "すこしまえに2てんめのシュートを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "終わる少し前に2点目のシュートを決めました。",
-      "furigana": "おわるすこしまえに2てんめのシュートをきめました。",
+      "clause_text": "決めました。",
+      "furigana": "きめました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

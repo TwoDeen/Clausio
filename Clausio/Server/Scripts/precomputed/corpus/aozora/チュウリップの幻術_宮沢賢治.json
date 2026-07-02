@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この農園の",
+      "furigana": "こののうえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "農園の",
-      "furigana": "のうえんの",
+      "clause_text": "すもものかきねは",
+      "furigana": "すもものかきねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "すももの",
-      "furigana": "すももの",
+      "clause_text": "いっぱいに",
+      "furigana": "いっぱいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "かきねは",
-      "furigana": "かきねは",
+      "clause_text": "青じろい花を",
+      "furigana": "あおじろいはなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いっぱいに青じろい花をつけています。",
-      "furigana": "いっぱいにあおじろいはなをつけています。",
+      "clause_text": "つけています。",
+      "furigana": "つけています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "光って立派な玉髄の",
-      "furigana": "ひかってりっぱなぎょくずいの",
+      "clause_text": "光って立派",
+      "furigana": "ひかってりっぱ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "置物です。",
-      "furigana": "おきものです。",
+      "clause_text": "な",
+      "furigana": "な",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "玉髄の",
+      "furigana": "ぎょくずいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "置物です。",
+      "furigana": "おきものです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "繞ります。",
-      "furigana": "めぐります。",
+      "clause_text": "繞り",
+      "furigana": "めぐり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "すももの",
-      "furigana": "すももの",
+      "clause_text": "すもものかきねのはずれから一人の洋傘",
+      "furigana": "すもものかきねのはずれからひとりのようがさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "かきねの",
-      "furigana": "かきねの",
+      "clause_text": "直しが荷物をしょって、",
+      "furigana": "なおしがにもつをしょって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "はずれから",
-      "furigana": "はずれから",
+      "clause_text": "この月光をちりばめた",
+      "furigana": "このげっこうをちりばめた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "一人の洋傘直しが荷物を",
-      "furigana": "ひとりのようがさなおしがにもつを",
+      "clause_text": "緑の障壁に沿ってや",
+      "furigana": "みどりのしょうへきにそって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "しょって、この月光をちりばめた緑の障壁に沿ってやって来ます。",
-      "furigana": "しょって、このげっこうをちりばめたみどりのしょうへきにそってやってきます。",
+      "clause_text": "って来ます。",
+      "furigana": "てきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "てくてくあるいてくるその黒い細い脚はたしかに鹿に肖ています。",
-      "furigana": "てくてくあるいてくるそのくろいほそいあしはたしかにしかににています。",
+      "clause_text": "てくてく",
+      "furigana": "てくてく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "あるいてくる",
+      "furigana": "あるいてくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "その黒い細い",
+      "furigana": "そのくろいほそい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "脚はたしかに鹿に",
+      "furigana": "あしはたしかにしかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "肖ています。",
+      "furigana": "にています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

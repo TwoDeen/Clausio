@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "龍の",
-      "furigana": "りゅうの",
+      "clause_text": "龍のチャーナタは",
+      "furigana": "りゅうのちゃーなたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "チャーナタは",
-      "furigana": "ちゃーなたは",
+      "clause_text": "洞のなかへさして來る",
+      "furigana": "ほらのなかへさしてきたる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "洞のなかへ",
-      "furigana": "ほらのなかへ",
+      "clause_text": "上げ潮からからだを",
+      "furigana": "あげしおからからだを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "さして來る上げ潮から",
-      "furigana": "さしてきたるあげしおから",
+      "clause_text": "うねり",
+      "furigana": "うねり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "からだをうねり出した。",
-      "furigana": "からだをうねりだした。",
+      "clause_text": "出した。",
+      "furigana": "だした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "洞の隙間から",
-      "furigana": "ほらのすきまから",
+      "clause_text": "洞の隙間から朝日がきらきら",
+      "furigana": "ほらのすきまからあさひがきらきら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "朝日が",
-      "furigana": "あさひが",
+      "clause_text": "射して來て水底の岩の凹凸をはっきり",
+      "furigana": "さして來てすいていのいわのおうとつをはっきり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きらきら射して來て水底の",
-      "furigana": "きらきらさして來てすいていの",
+      "clause_text": "陰影で浮き出させ、",
+      "furigana": "いんえいでうきださせ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "岩の凹凸をはっきり陰影で",
-      "furigana": "いわのおうとつをはっきりいんえいで",
+      "clause_text": "またその岩につくたくさんの赤や白の動物を",
+      "furigana": "またそのいわにつくたくさんのあかやしろのどうぶつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "浮き出させ、またその岩につくたくさんの赤や白の動物を寫し出した。",
-      "furigana": "うきださせ、またそのいわにつくたくさんのあかやしろのどうぶつをうつしだした。",
+      "clause_text": "寫し出した。",
+      "furigana": "うつしだした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "うっと",
-      "furigana": "うっと",
+      "clause_text": "うっとり",
+      "furigana": "うっとり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "りその",
-      "furigana": "その",
+      "clause_text": "その青く",
+      "furigana": "そのあおく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "青くすこし朧ろな水を",
-      "furigana": "あおくすこしおぼろなみずを",
+      "clause_text": "すこし朧ろ",
+      "furigana": "すこしおぼろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "見た。",
-      "furigana": "みた。",
+      "clause_text": "な水を見た。",
+      "furigana": "なみずをみた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それから",
-      "furigana": "それから",
+      "clause_text": "それから洞のすきまを",
+      "furigana": "それからほらのすきまを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "洞の",
-      "furigana": "ほらの",
+      "clause_text": "通して火のやうにきらきら",
+      "furigana": "とおしてひのやうにきらきら",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "すきまを通して火の",
-      "furigana": "すきまをとおしてひの",
+      "clause_text": "光る海の水を淺",
+      "furigana": "ひかるうみのみずをあさ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "やうにきらきら光る海の",
-      "furigana": "やうにきらきらひかるうみの",
+      "clause_text": "黄いろの天末にかかる",
+      "furigana": "きいろのてんまつにかかる",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "水を淺黄いろの天末にかかる火球日天子の座を見た。",
-      "furigana": "みずをあさきいろのてんまつにかかるかきゅうにちてんしのざをみた。",
+      "clause_text": "火球日天子の座を見た。",
+      "furigana": "かきゅうにちてんしのざをみた。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "（おれは",
-      "furigana": "きごうおれは",
+      "clause_text": "（おれはその幾千",
+      "furigana": "きごうおれはそのいくせん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "由旬の海を自由に漕ぎ、",
+      "furigana": "ゆじゅんのうみをじゆうにこぎ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "幾千由旬の海を",
-      "furigana": "いくせんゆじゅんのうみを",
+      "clause_text": "その清いそらを絶え絶え息して黒雲を",
+      "furigana": "そのきよいそらをたえだえいきしてくろくもを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "自由に漕ぎ、その清いそらを",
-      "furigana": "じゆうにこぎ、そのきよいそらを",
+      "clause_text": "卷きながら翔け",
+      "furigana": "まききながらかけ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "絶え絶え息して黒雲を卷きながら翔けれるのだ。",
-      "furigana": "たえだえいきしてくろくもをまききながらかけれるのだ。",
+      "clause_text": "れるのだ。",
+      "furigana": "れるのだ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

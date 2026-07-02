@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "麻が",
-      "furigana": "あさが",
+      "clause_text": "麻が刈られましたので、",
+      "furigana": "あさがかられましたので、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "刈られましたの",
-      "furigana": "かられましたの",
+      "clause_text": "畑のへりに一列に植ゑ",
+      "furigana": "はたけのへりにかずなみにうえ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、畑の",
-      "furigana": "で、はたけの",
+      "clause_text": "られてゐたたうもろこしは、",
+      "furigana": "られていたたうもろこしは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "へりに一列に植ゑられてゐたたうも",
-      "furigana": "へりにかずなみにうえられていた",
+      "clause_text": "大へん立派に",
+      "furigana": "たいへんりっぱに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ろこしは、大へん立派に目立ってきました。",
-      "furigana": "は、たいへんりっぱにめだってきました。",
+      "clause_text": "目立ってきました。",
+      "furigana": "めだってきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "小さな虻だの",
-      "furigana": "ちいさなあぶだの",
+      "clause_text": "小さな虻だのべっ甲いろの",
+      "furigana": "ちいさなあぶだのべっこういろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "べっ甲いろの",
-      "furigana": "べっこういろの",
+      "clause_text": "すきとほった羽虫だのみんな",
+      "furigana": "すきとほったはむしだのみんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "すきと",
-      "furigana": "すきと",
+      "clause_text": "かはるがはる",
+      "furigana": "かはるがはる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ほった羽虫だの",
-      "furigana": "ほったはむしだの",
+      "clause_text": "来て挨拶して行く",
+      "furigana": "きてあいさつしていく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんなかはるがはる来て挨拶して行くのでした。",
-      "furigana": "みんなかはるがはるきてあいさつしていくのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "たうも",
-      "furigana": "たうも",
+      "clause_text": "たうもろこしには、もう頂上にひらひら",
+      "furigana": "たうもろこしには、もうちょうじょうにひらひら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ろこしに",
-      "furigana": "に",
+      "clause_text": "した穂が立ち、",
+      "furigana": "したほがたち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "大きな縮れた葉のつけ",
+      "furigana": "おおきなちぢれたはのつけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、もう頂上にひらひらした穂が",
-      "furigana": "、もうちょうじょうにひらひらしたほが",
+      "clause_text": "ねには尖った青いさや",
+      "furigana": "ねにはとがったあおいさや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "立ち、大きな縮れた葉のつけねには尖った青いさやができてゐました。",
-      "furigana": "たち、おおきなちぢれたはのつけねにはとがったあおいさやができていました。",
+      "clause_text": "ができてゐました。",
+      "furigana": "ができていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ざわざわ鳴りました。",
-      "furigana": "ざわざわなりました。",
+      "clause_text": "ざわざわ",
+      "furigana": "ざわざわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "鳴りまし",
+      "furigana": "なりまし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一疋の蛙が刈った畑の向ふまで跳んで来て、いきなり、このたうもろこしの列を見て、びっくりして云ひました。",
-      "furigana": "いちひきのかわずがかったはたけのむこうまでとんできて、いきなり、このたうもろこしのれつをみて、びっくりしていひました。",
+      "clause_text": "一疋の蛙が刈った畑の向ふまで跳んで来て、",
+      "furigana": "いちひきのかわずがかったはたけのむこうまでとんできて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "いきなり、",
+      "furigana": "いきなり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "このたうもろこしの列を見て、",
+      "furigana": "このたうもろこしのれつをみて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "びっくり",
+      "furigana": "びっくり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "して云ひました。",
+      "furigana": "していひました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

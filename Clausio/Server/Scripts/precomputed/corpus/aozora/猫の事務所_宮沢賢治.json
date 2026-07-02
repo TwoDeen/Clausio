@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ちかくに",
-      "furigana": "ちかくに",
+      "clause_text": "ちかくに、",
+      "furigana": "ちかくに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "、猫の第六事務所がありました。",
-      "furigana": "、ねこのだいろくじむしょがありました。",
+      "clause_text": "猫の第六事務所が",
+      "furigana": "ねこのだいろくじむしょが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ここは",
-      "furigana": "ここは",
+      "clause_text": "ここは主に、",
+      "furigana": "ここはおもに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "主に",
-      "furigana": "おもに",
+      "clause_text": "猫の歴史と",
+      "furigana": "ねこのれきしと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、猫の",
-      "furigana": "、ねこの",
+      "clause_text": "地理を",
+      "furigana": "ちりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "歴史と地理を",
-      "furigana": "れきしとちりを",
+      "clause_text": "しらべる",
+      "furigana": "しらべる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "しらべるところでした。",
-      "furigana": "しらべるところでした。",
+      "clause_text": "ところでした。",
+      "furigana": "ところでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "書記はみな、短い黒の繻子の服を着て、それに大へんみんなに尊敬されましたから、何かの都合で書記を",
-      "furigana": "しょきはみな、みじかいくろのしゅすのふくをきて、それにたいへんみんなにそんけいされましたから、なんかのつごうでしょきを",
+      "clause_text": "書記はみな、短い黒の繻子の服を着て、",
+      "furigana": "しょきはみな、みじかいくろのしゅすのふくをきて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "やめるものがあると、そこらの若い猫は、どれもどれも、みんなそのあとへ入りたがつてばたばたしました。",
-      "furigana": "やめるものがあると、そこらのわかいねこは、どれもどれも、みんなそのあとへはいりたがつてばたばたしました。",
+      "clause_text": "それに大へんみんなに尊敬されましたから、",
+      "furigana": "それにたいへんみんなにそんけいされましたから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "何かの都合で書記をやめるものがあると、",
+      "furigana": "なんかのつごうでしょきをやめるものがあると、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "そこらの若い猫は、どれもどれも、",
+      "furigana": "そこらのわかいねこは、どれもどれも、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "みんなそのあとへ入りたがつてばたばたしました。",
+      "furigana": "みんなそのあとへはいりたがつてばたばたしました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "この事務所の",
-      "furigana": "このじむしょの",
+      "clause_text": "この事務所の書記の数はいつもただ四人ときまつてゐましたから、",
+      "furigana": "このじむしょのしょきのかずはいつもただよんにんときまつていましたから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "書記の数はいつも",
-      "furigana": "しょきのかずはいつも",
+      "clause_text": "その沢山の中で一番字がうまく詩の読めるものが、",
+      "furigana": "そのたくさんのなかでいちばんじがうまくしのよめるものが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ただ四人ときまつてゐましたから、その",
-      "furigana": "ただよんにんときまつていましたから、その",
+      "clause_text": "一人やつとえらば",
+      "furigana": "ひとりやつとえらば",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "沢山の中で一番字がうまく詩の読めるものが、一人やつとえらばれるだけでした。",
-      "furigana": "たくさんのなかでいちばんじがうまくしのよめるものが、ひとりやつとえらばれるだけでした。",
+      "clause_text": "れるだけでした。",
+      "furigana": "れるだけでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "事務長は",
-      "furigana": "じむちょうは",
+      "clause_text": "事務長は大きな黒猫で、",
+      "furigana": "じむちょうはおおきなくろねこで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "大きな黒猫で",
-      "furigana": "おおきなくろねこで",
+      "clause_text": "少しもうろくしてはゐましたが、",
+      "furigana": "すこしもうろくしてはいましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、少しもうろくしては",
-      "furigana": "、すこしもうろくしては",
+      "clause_text": "眼などは中に銅線が幾重も張つてあるかのやうに、",
+      "furigana": "めなどはなかにどうせんがいくえもちょうつてあるかのやうに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゐましたが、眼などは中に",
-      "furigana": "いましたが、めなどはなかに",
+      "clause_text": "じつに立派",
+      "furigana": "じつにりっぱ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "銅線が幾重も張つてあるかのやうに、じつに立派にできてゐました。",
-      "furigana": "どうせんがいくえもちょうつてあるかのやうに、じつにりっぱにできていました。",
+      "clause_text": "にできてゐました。",
+      "furigana": "にできていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

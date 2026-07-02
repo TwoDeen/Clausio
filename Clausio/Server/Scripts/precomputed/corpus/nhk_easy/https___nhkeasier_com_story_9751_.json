@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ヨーロッパで",
-      "furigana": "ヨーロッパで",
+      "clause_text": "ヨーロッパで、",
+      "furigana": "ヨーロッパで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "とても",
+      "furigana": "とても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "暑い",
+      "furigana": "あつい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ても",
-      "furigana": "ても",
+      "clause_text": "日が",
+      "furigana": "にちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "暑い日が続いています。",
-      "furigana": "あついにちがつづいています。",
+      "clause_text": "続いています。",
+      "furigana": "つづいています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "チェコで",
-      "furigana": "チェコで",
+      "clause_text": "チェコでは、",
+      "furigana": "チェコでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "気温が40℃",
+      "furigana": "きおんが40℃",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、気温が40℃以上の日もありました。",
-      "furigana": "、きおんが40℃いじょうのにちもありました。",
+      "clause_text": "以上の日も",
+      "furigana": "いじょうのにちも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "暑さが原因で亡くなった人がたくさんいます。",
-      "furigana": "あつさがげんいんでなくなったひとがたくさんいます。",
+      "clause_text": "暑さが",
+      "furigana": "あつさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "原因で",
+      "furigana": "げんいんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "亡くなった",
+      "furigana": "なくなった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "人がたくさん",
+      "furigana": "ひとがたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "28日、WHO＝世界保健機関の",
-      "furigana": "28にち、WHO＝せかいほけんきかんの",
+      "clause_text": "28日、",
+      "furigana": "28にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "事務局長は、",
-      "furigana": "じむきょくちょうは、",
+      "clause_text": "WHO＝世界保健機関の事務局長は、",
+      "furigana": "WHO＝せかいほけんきかんのじむきょくちょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「ヨーロッパで、暑さが原因で亡くなった人は、いつもの年より1300人以上多くなっている」",
-      "furigana": "「ヨーロッパで、あつさがげんいんでなくなったひとは、いつものとしより1300ひといじょうおおくなっている」",
+      "clause_text": "「ヨーロッパで、暑さが原因で亡くなった人は、いつもの年より1300人以上多くなっている」と",
+      "furigana": "「ヨーロッパで、あつさがげんいんでなくなったひとは、いつものとしより1300ひといじょうおおくなっている」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "とSNSに",
-      "furigana": "とSNSに",
+      "clause_text": "SNSに",
+      "furigana": "SNSに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして",
-      "furigana": "そして",
+      "clause_text": "そして「",
+      "furigana": "そして「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「ヨーロッパは",
-      "furigana": "「ヨーロッパは",
+      "clause_text": "ヨーロッパは",
+      "furigana": "ヨーロッパは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "とても",
-      "furigana": "とても",
+      "clause_text": "とても早く進んで",
+      "furigana": "とてもはやくすすんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "早く進んでいる。",
-      "furigana": "はやくすすんでいる。",
+      "clause_text": "いる。",
+      "furigana": "いる。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

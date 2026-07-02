@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "これが",
-      "furigana": "これが",
+      "clause_text": "これが今日のおしまいだろう、と",
+      "furigana": "これがきょうのおしまいだろう、と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "今日の",
-      "furigana": "きょうの",
+      "clause_text": "云いながら斉田は青じろい",
+      "furigana": "いいながらさいだはあおじろい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "おしまいだろう、と",
-      "furigana": "おしまいだろう、と",
+      "clause_text": "薄明の流れはじめた県道に立って崖に",
+      "furigana": "はくめいのながれはじめたけんどうにたってがけに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "云いながら斉田は青じろい薄明の流れは",
-      "furigana": "いいながらさいだはあおじろいはくめいのながれ",
+      "clause_text": "露出した石英斑岩から一かけの標本をとって新聞紙に",
+      "furigana": "ろしゅつしたせきえいはんがんからいちかけのひょうほんをとってしんぶんしに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "じめた県道に立って崖に露出した石英斑岩から一かけの標本をとって新聞紙に包んだ。",
-      "furigana": "たけんどうにたってがけにろしゅつしたせきえいはんがんからいちかけのひょうほんをとってしんぶんしにつつんだ。",
+      "clause_text": "包んだ。",
+      "furigana": "つつんだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "富沢は",
-      "furigana": "とみざわは",
+      "clause_text": "富沢は地図の",
+      "furigana": "とみざわはちずの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "地図の",
-      "furigana": "ちずの",
+      "clause_text": "その点に橙を",
+      "furigana": "そのてんにだいだいを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "塗って番号を",
+      "furigana": "ぬってばんごうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "点に橙を",
-      "furigana": "てんにだいだいを",
+      "clause_text": "書きながら",
+      "furigana": "かきながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "塗って番号を書きながら読んだ。",
-      "furigana": "ぬってばんごうをかきながらよんだ。",
+      "clause_text": "読んだ。",
+      "furigana": "よんだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "二人は",
-      "furigana": "ふたりは",
+      "clause_text": "二人は早く重い",
+      "furigana": "ふたりははやくおもい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "早く重い岩石の",
-      "furigana": "はやくおもいがんせきの",
+      "clause_text": "岩石の袋を",
+      "furigana": "がんせきのふくろを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "袋を",
-      "furigana": "ふくろを",
+      "clause_text": "おろしたさに",
+      "furigana": "おろしたさに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "おろしたさに",
-      "furigana": "おろしたさに",
+      "clause_text": "あとはだまって県道を",
+      "furigana": "あとはだまってけんどうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あとはだまって県道を北へ下った。",
-      "furigana": "あとはだまってけんどうをきたへくだった。",
+      "clause_text": "北へ下った。",
+      "furigana": "きたへくだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "道の",
-      "furigana": "みちの",
+      "clause_text": "道の左には地図にある",
+      "furigana": "みちのひだりにはちずにある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "左には",
-      "furigana": "ひだりには",
+      "clause_text": "通りの細い沖積地が青金の鉱山を",
+      "furigana": "とおりのほそいちゅうせきちがあおがねのこうざんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "地図にある通りの",
-      "furigana": "ちずにあるとおりの",
+      "clause_text": "通って来る川に",
+      "furigana": "とおってくるかわに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "細い沖積地が青金の鉱山を",
-      "furigana": "ほそいちゅうせきちがあおがねのこうざんを",
+      "clause_text": "沿って青くけむった稲を載せて北へ",
+      "furigana": "そってあおくけむったいねをのせてきたへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "通って来る川に沿って青くけむった稲を載せて北へ続いていた。",
-      "furigana": "とおってくるかわにそってあおくけむったいねをのせてきたへつづいていた。",
+      "clause_text": "続いていた。",
+      "furigana": "つづいていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "三人兄弟の",
-      "furigana": "さんにんきょうだいの",
+      "clause_text": "三人兄弟の医者",
+      "furigana": "さんにんきょうだいのいしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "医者むかしラユーと",
-      "furigana": "いしゃ\nむかしらゆー",
+      "clause_text": "むかしラユー",
+      "furigana": "\nむかし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いふ首都に、兄弟三人の",
-      "furigana": "といふしゅとに、きょうだいさんにん",
+      "clause_text": "といふ首都に、",
+      "furigana": "といふしゅとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "医者がゐた。",
-      "furigana": "のいしゃがいた",
+      "clause_text": "兄弟三人の医者がゐた。",
+      "furigana": "、きょうだいさんにんのいしゃがいた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "リンパーは",
-      "furigana": "りんぱーは",
+      "clause_text": "リンパー",
+      "furigana": "りんぱー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、普通の",
-      "furigana": "、ふつうの",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "人の",
-      "furigana": "ひとの",
+      "clause_text": "普通の人の",
+      "furigana": "ふつうのひとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その弟の",
+      "furigana": "そのおとうとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "弟の",
-      "furigana": "おとうとの",
+      "clause_text": "リンプー",
+      "furigana": "りんぷー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "リンプーは",
-      "furigana": "りんぷーは",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、馬や羊の",
-      "furigana": "、うまやひつじの",
+      "clause_text": "馬や羊の",
+      "furigana": "うまやひつじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "リンポーは",
-      "furigana": "りんぽーは",
+      "clause_text": "リンポーは、",
+      "furigana": "りんぽーは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、草だの",
-      "furigana": "、くさだの",
+      "clause_text": "草だの",
+      "furigana": "くさだの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "木だの",
-      "furigana": "きだの",
+      "clause_text": "木だのの",
+      "furigana": "きだのの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "の医者だつた。",
-      "furigana": "のいしゃだつた。",
+      "clause_text": "医者だつた。",
+      "furigana": "いしゃだつた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして兄弟三人は",
-      "furigana": "そしてきょうだいさんにんは",
+      "clause_text": "そして兄弟三人は、",
+      "furigana": "そしてきょうだいさんにんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、町の",
-      "furigana": "、まちの",
+      "clause_text": "町のいちばん南にあたる、",
+      "furigana": "まちのいちばんみなみにあたる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いちばん南に",
-      "furigana": "いちばんみなみに",
+      "clause_text": "黄いろな崖のとつぱなへ、青い瓦の病院を、",
+      "furigana": "きいろながけのとつぱなへ、あおいかわらのびょういんを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "あたる、黄いろな崖のとつぱなへ、青い瓦の病院を",
-      "furigana": "あたる、きいろながけのとつぱなへ、あおいかわらのびょういんを",
+      "clause_text": "三つならべて建ててゐて、てんでに白や朱の旗を、",
+      "furigana": "みっつならべてたてていて、てんでにしろやしゅのはたを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、三つならべて建ててゐて、てんでに白や朱の旗を、風にぱたぱた云はせてゐた。",
-      "furigana": "、みっつならべてたてていて、てんでにしろやしゅのはたを、ふうにぱたぱたいはせていた。",
+      "clause_text": "風にぱたぱた云はせてゐた。",
+      "furigana": "ふうにぱたぱたいはせていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ひなげしは",
-      "furigana": "ひなげしは",
+      "clause_text": "ひなげしはみんなまっ赤に",
+      "furigana": "ひなげしはみんなまっかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "みんなまっ赤に",
-      "furigana": "みんなまっかに",
+      "clause_text": "燃えあがり、",
+      "furigana": "もえあがり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "燃えあがり、",
-      "furigana": "もえあがり、",
+      "clause_text": "めいめい風にぐらぐらゆれて、",
+      "furigana": "めいめいふうにぐらぐらゆれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "めいめい風に",
-      "furigana": "めいめいふうに",
+      "clause_text": "息もつけないよ",
+      "furigana": "いきもつけない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぐらぐらゆれて、息もつけないようでした。",
-      "furigana": "ぐらぐらゆれて、いきもつけないようでした。",
+      "clause_text": "うでした。",
+      "furigana": "でした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのひなげしのうしろの方で、や",
+      "furigana": "そのひなげしのうしろのほうで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひなげしの",
-      "furigana": "ひなげしの",
+      "clause_text": "っぱり風に髪もからだも、",
+      "furigana": "ふうにかみもからだも、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "うしろの方で",
-      "furigana": "うしろのほうで",
+      "clause_text": "いちめんもまれて立ち",
+      "furigana": "いちめんもまれてたち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、やっぱり風に髪もからだも",
-      "furigana": "、やっぱりふうにかみもからだも",
+      "clause_text": "ながら若いひのきが",
+      "furigana": "ながらわかいひのきが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "、いちめんもまれて立ちながら若いひのきが云いました。",
-      "furigana": "、いちめんもまれてたちながらわかいひのきがいいました。",
+      "clause_text": "云いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「おまえたちはみんなまっ赤な帆船でね、いまがあらしのとこなんだ」",
-      "furigana": "きごうおまえたちはみんなまっかなほぶねでね、いまがあらしのとこなんだきごう",
+      "clause_text": "「おまえたちはみんな",
+      "furigana": "「おまえたちはみんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「いやあだ、",
-      "furigana": "\nきごういやあだ",
+      "clause_text": "まっ赤な帆船でね、",
+      "furigana": "まっかなほぶねでね、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あたしら、",
-      "furigana": "、あたしら",
+      "clause_text": "いまがあらしのと",
+      "furigana": "いまがあらしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんな帆船やなんかじゃないわ。",
-      "furigana": "、そんなほぶねやなんかじゃないわ",
+      "clause_text": "こなんだ」",
+      "furigana": "なんだ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "「いやあだ、あたしら、そんな帆船やなんかじゃないわ。",
+      "furigana": "\n「いやあだ、あたしら、そんなほぶねやなんかじゃないわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "せだけ高くて",
-      "furigana": "せだけたかくて",
+      "clause_text": "せだけ",
+      "furigana": "せだけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ばかあなひの",
-      "furigana": "ばかあな",
+      "clause_text": "高くて",
+      "furigana": "たかくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "き。",
-      "furigana": "。",
+      "clause_text": "ばか",
+      "furigana": "ばか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "あな",
+      "furigana": "あな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ひのき。",
+      "furigana": "ひのき。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」ひなげしども",
+      "furigana": "」ひなげしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひなげしども",
-      "furigana": "ひなげしども",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "みんな",
+      "furigana": "みんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、みんないっしょに云いました。",
-      "furigana": "、みんないっしょにいいました。",
+      "clause_text": "いっしょに",
+      "furigana": "いっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "云いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

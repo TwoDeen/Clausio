@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "#注文の",
-      "furigana": "#ちゅうもん",
+      "clause_text": "#注文の多い料理店（現代語版・第1部）二人の若い紳士が、",
+      "furigana": "#ちゅうもんのおおいりょうりてんきごうげんだいごばん・だいいちぶきごう\nふたりのわかいしんし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "多い料理店（現代語版・第1部）二人の",
-      "furigana": "のおおいりょうりてんきごうげんだいごばん・だいいちぶきごう\n",
+      "clause_text": "イギリス軍の兵士のような服装をし、",
+      "furigana": "が、いぎりすぐんのへいしのようなふくそうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "若い紳士が、イギリス軍の",
-      "furigana": "のわかいしんしが、いぎりす",
+      "clause_text": "ぴかぴか光る猟銃を肩にかついで、",
+      "furigana": "し、ぴかぴかひかるりょうじゅうをかたにかつい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "兵士のような服装を",
-      "furigana": "ぐんのへいしのような",
+      "clause_text": "白熊のような犬を二匹連れながら、",
+      "furigana": "で、しろくまのようないぬをにひきつれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "し、ぴかぴか光る猟銃を肩にかついで、白熊のような犬を二匹連れながら、深い山の中を歩いていました。",
-      "furigana": "をし、ぴかぴかひかるりょうじゅうをかたにかついで、しろくまのようないぬをにひきつれながら、ふかいやまのなかをあるいていまし",
+      "clause_text": "深い山の中を歩いていました。",
+      "furigana": "、ふかいやまのなかをあるいていまし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "落ち葉が",
-      "furigana": "おちばが",
+      "clause_text": "落ち葉がカサカサと",
+      "furigana": "おちばがかさかさと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "カサカサと",
-      "furigana": "かさかさと",
+      "clause_text": "音を立てる",
+      "furigana": "おとをたてる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "音を立てる道を",
-      "furigana": "おとをたてるみちを",
+      "clause_text": "道を進みながら、",
+      "furigana": "みちをすすみながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "進みなが",
-      "furigana": "すすみ",
+      "clause_text": "二人はこんな話を",
+      "furigana": "ふたりはこんなはなしを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ら、二人はこんな話をしていました。",
-      "furigana": "、ふたりはこんなはなしをしていました。",
+      "clause_text": "していました。",
+      "furigana": "していました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「まったく、",
-      "furigana": "きごうまったく、",
+      "furigana": "「まったく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "山は",
-      "furigana": "やまは",
+      "clause_text": "山はひどい",
+      "furigana": "やまはひどい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ひどいな。",
-      "furigana": "ひどいな。",
+      "clause_text": "な。",
+      "furigana": "な。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "鳥も",
-      "furigana": "とりも",
+      "clause_text": "鳥も獣も一",
+      "furigana": "とりもけものもいち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "獣も",
-      "furigana": "けものも",
+      "clause_text": "匹も",
+      "furigana": "ひきも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "一匹も",
-      "furigana": "いちひきも",
+      "clause_text": "いない",
+      "furigana": "いない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いないじゃ",
-      "furigana": "いないじゃ",
+      "clause_text": "じゃない",
+      "furigana": "じゃない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ないか。",
-      "furigana": "ないか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "何でもいいから、早く一発撃ってみたいものだな」「鹿の",
-      "furigana": "なんでもいいから、はやくいちはつうってみたいものだなきごう\nきごうしか",
+      "clause_text": "何でもいいから、",
+      "furigana": "なんでもいいから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "黄色い脇腹に",
-      "furigana": "のきいろいわきばら",
+      "clause_text": "早く一発",
+      "furigana": "はやくいちはつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "二、",
-      "furigana": "にに",
+      "clause_text": "撃ってみたい",
+      "furigana": "うってみたい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "三発撃ち込んだら、さぞ気持ちが",
-      "furigana": "、さんはつうちこんだら、さぞきもち",
+      "clause_text": "ものだな」",
+      "furigana": "ものだな」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "いいだろうね。",
-      "furigana": "がいいだろうね",
+      "clause_text": "「鹿の黄色い脇腹に二、三発撃ち込んだら、さぞ気持ちがいいだろうね。",
+      "furigana": "\n「しかのきいろいわきばらにに、さんはつうちこんだら、さぞきもちがいいだろうね",
       "sentence_individual_grammar_level": "N4"
     }
   ]

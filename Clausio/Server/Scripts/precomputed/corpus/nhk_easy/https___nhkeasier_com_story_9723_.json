@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "災害に",
-      "furigana": "さいがいに",
+      "clause_text": "災害にあった",
+      "furigana": "さいがいにあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "あった人たちを",
-      "furigana": "あったひとたちを",
+      "clause_text": "人たちを元気に",
+      "furigana": "ひとたちをげんきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "元気に",
-      "furigana": "げんきに",
+      "clause_text": "するため、",
+      "furigana": "するため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "するため、高校生たちが音楽を演奏しました。",
-      "furigana": "するため、こうこうせいたちがおんがくをえんそうしました。",
+      "clause_text": "高校生たちが音楽を演奏",
+      "furigana": "こうこうせいたちがおんがくをえんそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京の",
-      "furigana": "とうきょうの",
+      "clause_text": "東京のNPOは、",
+      "furigana": "とうきょうのNPOは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "NPOは",
-      "furigana": "NPOは",
+      "clause_text": "東日本大震災など",
+      "furigana": "ひがしにほんだいしんさいなど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、東日本大震災など災害に",
-      "furigana": "、ひがしにほんだいしんさいなどさいがいに",
+      "clause_text": "災害にあった人たちを助けるために、",
+      "furigana": "さいがいにあったひとたちをたすけるために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あった人たちを",
-      "furigana": "あったひとたちを",
+      "clause_text": "音楽のCDを",
+      "furigana": "おんがくのCDを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "助けるために、音楽のCDを作っています。",
-      "furigana": "たすけるために、おんがくのCDをつくっています。",
+      "clause_text": "作っています。",
+      "furigana": "つくっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "売り上げを",
-      "furigana": "うりあげを",
+      "clause_text": "売り上げを、",
+      "furigana": "うりあげを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "災害にあった",
+      "furigana": "さいがいにあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "災害に",
-      "furigana": "さいがいに",
+      "clause_text": "子どもたちに寄付",
+      "furigana": "こどもたちにきふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あった子どもたちに寄付しています。",
-      "furigana": "あったこどもたちにきふしています。",
+      "clause_text": "しています。",
+      "furigana": "しています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "新しいCDを作るために16日、岩手県盛岡市で、高校生のオーケストラが演奏しました。",
-      "furigana": "あたらしいCDをつくるために16にち、いわてけんもりおかしで、こうこうせいのオーケストラがえんそうしました。",
+      "clause_text": "新しいCDを",
+      "furigana": "あたらしいCDを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "作るために16日、",
+      "furigana": "つくるために16にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "岩手県盛岡市で、",
+      "furigana": "いわてけんもりおかしで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "高校生のオーケストラが演奏",
+      "furigana": "こうこうせいのオーケストラがえんそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "演奏したのは",
-      "furigana": "えんそうしたのは",
+      "clause_text": "演奏したのは、",
+      "furigana": "えんそうしたのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、有名なスポーツ選手が",
-      "furigana": "、ゆうめいなスポーツせんしゅが",
+      "clause_text": "有名なスポーツ",
+      "furigana": "ゆうめいなスポーツ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "作った",
-      "furigana": "つくった",
+      "clause_text": "選手が作った",
+      "furigana": "せんしゅがつくった",
       "sentence_individual_grammar_level": "N5"
     },
     {

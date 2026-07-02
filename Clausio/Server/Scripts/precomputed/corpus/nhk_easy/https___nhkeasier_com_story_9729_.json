@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ワールドカップで",
-      "furigana": "ワールドカップで",
+      "clause_text": "ワールドカップで20日、",
+      "furigana": "ワールドカップではつか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "20日、",
-      "furigana": "はつか、",
+      "clause_text": "日本とチュニジアの",
+      "furigana": "にっぽんとチュニジアの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本と",
-      "furigana": "にっぽんと",
+      "clause_text": "試合が",
+      "furigana": "しあいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "チュニジアの試合がメキシコでありました。",
-      "furigana": "チュニジアのしあいがメキシコでありました。",
+      "clause_text": "メキシコでありました。",
+      "furigana": "メキシコでありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "始まってすぐに",
-      "furigana": "はじまってすぐに",
+      "clause_text": "始まってすぐ",
+      "furigana": "はじまってすぐ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、日本は1点を取りました。",
-      "furigana": "、にっぽんはひとてんをとりました。",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "日本は1点を",
+      "furigana": "にっぽんはひとてんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "取りました。",
+      "furigana": "とりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのあと、",
+      "furigana": "そのあと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "あと、",
-      "furigana": "あと、",
+      "clause_text": "上田綺世選手が2",
+      "furigana": "うえだあやせせんしゅがふた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "上田綺世選手が",
-      "furigana": "うえだあやせせんしゅが",
+      "clause_text": "点をとって、",
+      "furigana": "てんをとって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "2点をとって、最後は",
-      "furigana": "ふたてんをとって、さいごは",
+      "clause_text": "最後は4対0でチュニジアに",
+      "furigana": "さいごは4たい0でチュニジアに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "4対0でチュニジアに勝ちました。",
-      "furigana": "4たい0でチュニジアにかちました。",
+      "clause_text": "勝ちました。",
+      "furigana": "かちました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ワールドカップで",
-      "furigana": "ワールドカップで",
+      "clause_text": "ワールドカップで、",
+      "furigana": "ワールドカップで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "日本が1つの",
+      "furigana": "にっぽんがひとつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本が",
-      "furigana": "にっぽんが",
+      "clause_text": "試合で4点を",
+      "furigana": "しあいで4てんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "1つの",
-      "furigana": "ひとつの",
+      "clause_text": "取ったのは",
+      "furigana": "とったのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "試合で4点を取ったのは初めてです。",
-      "furigana": "しあいで4てんをとったのははじめてです。",
+      "clause_text": "初めてです。",
+      "furigana": "はじめてです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本は",
-      "furigana": "にっぽんは",
+      "clause_text": "日本は今まで、",
+      "furigana": "にっぽんはいままで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "今まで",
-      "furigana": "いままで",
+      "clause_text": "2つの試合を",
+      "furigana": "ふたつのしあいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、2つの",
-      "furigana": "、ふたつの",
+      "clause_text": "して1つ",
+      "furigana": "してひとつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "試合を",
-      "furigana": "しあいを",
+      "clause_text": "勝って1つ",
+      "furigana": "かってひとつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "して1つ勝って1つ引き分けです。",
-      "furigana": "してひとつかってひとつひきわけです。",
+      "clause_text": "引き分けです。",
+      "furigana": "ひきわけです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

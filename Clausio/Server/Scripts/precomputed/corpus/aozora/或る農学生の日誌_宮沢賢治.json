@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "序ぼくは",
-      "furigana": "じょ\nぼく",
+      "clause_text": "序ぼくは農学校の",
+      "furigana": "じょ\nぼくはのうがっこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "農学校の",
-      "furigana": "はのうがっこう",
+      "clause_text": "三年生になったときから",
+      "furigana": "のさんねんせいになったとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "三年生になったときから",
-      "furigana": "のさんねんせいになったとき",
+      "clause_text": "今日まで三年の間のぼくの",
+      "furigana": "きょうまでさんねんのあいだのぼく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "今日まで三年の間の",
-      "furigana": "きょうまでさんねんのあいだ",
+      "clause_text": "日誌を公開",
+      "furigana": "のにっしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぼくの日誌を公開する。",
-      "furigana": "のぼくのにっしをこうかいする",
+      "clause_text": "する。",
+      "furigana": "する",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうせぼくは",
-      "furigana": "どうせぼくは",
+      "clause_text": "どうせ",
+      "furigana": "どうせ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "字も",
-      "furigana": "じも",
+      "clause_text": "ぼくは",
+      "furigana": "ぼくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "文章も下手だ。",
-      "furigana": "ぶんしょうもへただ。",
+      "clause_text": "字も",
+      "furigana": "じも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "文章も",
+      "furigana": "ぶんしょうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "下手だ。",
+      "furigana": "へただ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ぼくと同じように本気に仕事にかかった人でなかったらこんなもの実に厭な面白くもないものにちがいない。",
-      "furigana": "ぼくとおなじようにほんきにしごとにかかったひとでなかったらこんなものじつにいやなおもしろくもないものにちがいない。",
+      "clause_text": "ぼくと同じように",
+      "furigana": "ぼくとおなじように",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "本気に仕事にかかった",
+      "furigana": "ほんきにしごとにかかった",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "人でなかったらこんなもの実に厭な",
+      "furigana": "ひとでなかったらこんなものじつにいやな",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "面白くもないものに",
+      "furigana": "おもしろくもないものに",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ちがいない。",
+      "furigana": "ちがいない。",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "いまぼくが",
-      "furigana": "いまぼくが",
+      "clause_text": "いまぼくが読み返してみてさえ",
+      "furigana": "いまぼくがよみかえしてみてさえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "読み返してみてさえ実に",
-      "furigana": "よみかえしてみてさえじつに",
+      "clause_text": "実に意気地",
+      "furigana": "じつにいくじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "意気地なく野蛮なような気のするところがたくさんあるのだ。",
-      "furigana": "いくじなくやばんなようなきのするところがたくさんあるのだ。",
+      "clause_text": "なく野蛮なような気のする",
+      "furigana": "なくやばんなようなきのする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ところがたくさん",
+      "furigana": "ところがたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "あるのだ。",
+      "furigana": "あるのだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "読本の",
-      "furigana": "とくほんの",
+      "clause_text": "読本の村のことを書いた",
+      "furigana": "とくほんのむらのことをかいた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "村の",
-      "furigana": "むらの",
+      "clause_text": "ところのようにじつにうそ",
+      "furigana": "ところのようにじつにうそ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことを書いたところのように",
-      "furigana": "ことをかいたところのように",
+      "clause_text": "らしくてわざとらしくていやなところが",
+      "furigana": "らしくてわざとらしくていやなところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "じつにうそらしくてわざとらしくていやなところがあるのだ。",
-      "furigana": "じつにうそらしくてわざとらしくていやなところがあるのだ。",
+      "clause_text": "あるのだ。",
+      "furigana": "あるのだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

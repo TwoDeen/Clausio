@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "うすい鼠が",
-      "furigana": "うすいねずみ",
+      "clause_text": "うすい鼠がかった",
+      "furigana": "うすいねずみがかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "かった光が",
-      "furigana": "たひかりが",
+      "clause_text": "光がそこら",
+      "furigana": "ひかりがそこら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "そこらいちめんほの",
-      "furigana": "そこらいちめん",
+      "clause_text": "いちめん",
+      "furigana": "いちめん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "かに",
-      "furigana": "に",
+      "clause_text": "ほのかに",
+      "furigana": "ほのかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そこは",
-      "furigana": "そこは",
+      "clause_text": "そこはカムチャッカの横の方の地図で見ると",
+      "furigana": "そこはかむちゃっかのよこのほうのちずでみると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "カムチャッカの横の",
-      "furigana": "かむちゃっかのよこの",
+      "clause_text": "山脈の褐色のケバが明るく",
+      "furigana": "さんみゃくのかっしょくのけばがあかるく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "方の地図で見ると山脈の",
-      "furigana": "ほうのちずでみるとさんみゃくの",
+      "clause_text": "つらなってゐるあたりらしかったが",
+      "furigana": "つらなっているあたりらしかったが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "褐色のケバが明るくつらなってゐるあたりらしかったが",
-      "furigana": "かっしょくのけばがあかるくつらなっているあたりらしかったが",
+      "clause_text": "実際はそんな山も見えず却ってでこぼこの",
+      "furigana": "じっさいはそんなやまもみえずかえってでこぼこの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "実際はそんな山も見えず却ってでこぼこの野原のやうに思はれた。",
-      "furigana": "じっさいはそんなやまもみえずかえってでこぼこののはらのやうにおもはれた。",
+      "clause_text": "野原のやうに思はれた。",
+      "furigana": "のはらのやうにおもはれた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "とにかく",
+      "furigana": "とにかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に",
-      "furigana": "に",
+      "clause_text": "私は粗末な",
+      "furigana": "わたくしはそまつな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "かく私は",
-      "furigana": "わたくしは",
+      "clause_text": "白木の小屋の",
+      "furigana": "しろきのこやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "粗末な白木の",
-      "furigana": "そまつなしろきの",
+      "clause_text": "入口に",
+      "furigana": "いりぐちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "小屋の入口に座ってゐた。",
-      "furigana": "こやのいりぐちにすわっていた。",
+      "clause_text": "座ってゐた。",
+      "furigana": "すわっていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その小屋といふのも",
+      "furigana": "そのこやといふのも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "小屋と",
-      "furigana": "こやと",
+      "clause_text": "南の方は明けっぱなしで壁も",
+      "furigana": "みなみのほうはあけっぱなしでかべも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いふのも南の方は",
-      "furigana": "いふのもみなみのほうは",
+      "clause_text": "なく窓もなくたゞ二尺",
+      "furigana": "なくまどもなくただにしゃく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "明けっぱなしで壁もなく窓も",
-      "furigana": "あけっぱなしでかべもなくまども",
+      "clause_text": "ばかりの腰板がぎしぎし張ってある",
+      "furigana": "ばかりのこしいたがぎしぎしはってある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "なくたゞ二尺ばかりの腰板がぎしぎし張ってあるばかりだった。",
-      "furigana": "なくただにしゃくばかりのこしいたがぎしぎしはってあるばかりだった。",
+      "clause_text": "ばかりだった。",
+      "furigana": "ばかりだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一人の",
-      "furigana": "ひとりの",
+      "clause_text": "一人の髪のも",
+      "furigana": "ひとりのかみのも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "髪の",
-      "furigana": "かみの",
+      "clause_text": "ぢゃもぢゃした",
+      "furigana": "ぢゃもぢゃした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "女と私は",
+      "furigana": "おんなとわたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぢゃもぢゃした女と",
-      "furigana": "ぢゃもぢゃしたおんなと",
+      "clause_text": "何か談",
+      "furigana": "なんかだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は何か談してゐた。",
-      "furigana": "わたくしはなんかだんしていた。",
+      "clause_text": "してゐた。",
+      "furigana": "していた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "私が茨海の",
-      "furigana": "わたくしがうばらかいの",
+      "clause_text": "私が茨海の野原に行ったのは、",
+      "furigana": "わたくしがうばらかいののはらにいったのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "野原に",
-      "furigana": "のはらに",
+      "clause_text": "火山弾の手頃な標本を採るためと、",
+      "furigana": "かざんだんのてごろなひょうほんをとるためと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "行ったのは、火山弾の",
-      "furigana": "いったのは、かざんだんの",
+      "clause_text": "それから、",
+      "furigana": "それから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "手頃な標本を採るためと、それから",
-      "furigana": "てごろなひょうほんをとるためと、それから",
+      "clause_text": "あそこに野生の浜茄が生えているという噂を、",
+      "furigana": "あそこにやせいのはまなすがはえているといううわさを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "、あそこに野生の浜茄が生えているという噂を、確めるためとでした。",
-      "furigana": "、あそこにやせいのはまなすがはえているといううわさを、たしかめるためとでした。",
+      "clause_text": "確めるためとでした。",
+      "furigana": "たしかめるためとでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,7 +87,7 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ご承知の",
+      "clause_text": "ご承知のと",
       "furigana": "ごしょうちの",
       "sentence_individual_grammar_level": "N5"
     },
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "とおり、",
-      "furigana": "とおり、",
+      "clause_text": "おり、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "海岸に",
-      "furigana": "かいがんに",
+      "clause_text": "海岸に生える",
+      "furigana": "かいがんにはえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "生える植物です。",
-      "furigana": "はえるしょくぶつです。",
+      "clause_text": "植物です。",
+      "furigana": "しょくぶつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それが",
-      "furigana": "それが",
+      "clause_text": "それが、",
+      "furigana": "それが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "あんな、",
+      "furigana": "あんな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あんな、海から",
-      "furigana": "あんな、うみから",
+      "clause_text": "海から三十里もある山脈を隔てた野原などに生えるのは、",
+      "furigana": "うみからみどりもあるさんみゃくをへだてたのはらなどにはえるのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "三十里もある山脈を",
-      "furigana": "みどりもあるさんみゃくを",
+      "clause_text": "おかしいとみんな云う",
+      "furigana": "おかしいとみんないう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "隔てた野原などに生えるのは、おかしいとみんな云うのです。",
-      "furigana": "へだてたのはらなどにはえるのは、おかしいとみんないうのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある人は",
-      "furigana": "あるひとは",
+      "clause_text": "ある人は、",
+      "furigana": "あるひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、新聞に",
-      "furigana": "、しんぶんに",
+      "clause_text": "新聞に三つの理由をあげて、",
+      "furigana": "しんぶんにみっつのりゆうをあげて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "三つの理由を",
-      "furigana": "みっつのりゆうを",
+      "clause_text": "あの茨海の野原は、",
+      "furigana": "あのうばらかいののはらは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "あげて、あの茨海の野原は",
-      "furigana": "あげて、あのうばらかいののはらは",
+      "clause_text": "すぐ先頃まで海だったということを",
+      "furigana": "すぐさきごろまでうみだったということを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、すぐ先頃まで海だったということを論じました。",
-      "furigana": "、すぐさきごろまでうみだったということをろんじました。",
+      "clause_text": "論じました。",
+      "furigana": "ろんじました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それは第一に",
-      "furigana": "それはだいいちに",
+      "clause_text": "それは第一に、",
+      "furigana": "それはだいいちに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、その茨海と",
-      "furigana": "、そのうばらかいと",
+      "clause_text": "その茨海という名前、",
+      "furigana": "そのうばらかいというなまえ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いう名前、第二に浜茄の",
-      "furigana": "いうなまえ、だいににはまなすの",
+      "clause_text": "第二に浜茄の生えていること、",
+      "furigana": "だいににはまなすのはえていること、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "生えていること、第三にあすこの土を嘗めてみると、たしかに",
-      "furigana": "はえていること、だいさんにあすこのつちをなめてみると、たしかに",
+      "clause_text": "第三にあすこの土を嘗めてみると、たしかに少し鹹いような気がすること、とこう云うのですけれども、",
+      "furigana": "だいさんにあすこのつちをなめてみると、たしかにすこしからいようなきがすること、とこういうのですけれども、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "少し鹹いような気がすること、とこう云うのですけれども、私はそんなことはどれも証拠にならないと思います。",
-      "furigana": "すこしからいようなきがすること、とこういうのですけれども、わたくしはそんなことはどれもしょうこにならないとおもいます。",
+      "clause_text": "私はそんなことはどれも証拠にならないと思います。",
+      "furigana": "わたくしはそんなことはどれもしょうこにならないとおもいます。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

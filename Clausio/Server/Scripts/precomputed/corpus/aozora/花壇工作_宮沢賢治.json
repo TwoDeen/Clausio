@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "おれ",
-      "furigana": "おれ",
+      "clause_text": "おれは",
+      "furigana": "おれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "設計図なぞ",
+      "furigana": "せっけいずなぞ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "設計図なぞ持って行かなかった。",
-      "furigana": "せっけいずなぞもっていかなかった。",
+      "clause_text": "持って行か",
+      "furigana": "もっていか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なかっ",
+      "furigana": "なかっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "それは書くの",
-      "furigana": "それはかくの",
+      "clause_text": "それは書くのが面倒なのと、もひとつは現場ですぐ",
+      "furigana": "それはかくのがめんどうなのと、もひとつはげんばですぐ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "が面倒なのと、",
-      "furigana": "がめんどうなのと、",
+      "clause_text": "工作をする誰かの式を気取ったのと、",
+      "furigana": "こうさくをするだれかのしきをきどったのと、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "もひとつは現場ですぐ工作を",
-      "furigana": "もひとつはげんばですぐこうさくを",
+      "clause_text": "さう二っつがおれを仕事着のまゝ支那の将軍のやうにその病院の二つの",
+      "furigana": "さうにっつがおれをしごとぎのまましなのしょうぐんのやうにそのびょういんのふたつの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "する誰かの式を気取ったのと、さう二っつがおれを",
-      "furigana": "するだれかのしきをきどったのと、さうにっつがおれを",
+      "clause_text": "棟にはさまれた緑いろした中庭にテープを持って立た",
+      "furigana": "むねにはさまれたみどりいろしたなかにわにてーぷをもってたた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "仕事着のまゝ支那の将軍のやうにその病院の二つの棟にはさまれた緑いろした中庭にテープを持って立たせたのだ。",
-      "furigana": "しごとぎのまましなのしょうぐんのやうにそのびょういんのふたつのむねにはさまれたみどりいろしたなかにわにてーぷをもってたたせたのだ。",
+      "clause_text": "せたのだ。",
+      "furigana": "せたのだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "草取りに",
-      "furigana": "くさとりに",
+      "clause_text": "草取りに来てゐた",
+      "furigana": "くさとりにきていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "来てゐた人も",
-      "furigana": "きていたひとも",
+      "clause_text": "人も院長の車夫もレントゲンの",
+      "furigana": "ひともいんちょうのしゃふもれんとげんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "院長の車夫も",
-      "furigana": "いんちょうのしゃふも",
+      "clause_text": "助手もみな面白が",
+      "furigana": "じょしゅもみなおもしろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "レントゲンの",
-      "furigana": "れんとげんの",
+      "clause_text": "って手伝ひに",
+      "furigana": "ててつだいひに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "助手もみな面白がって手伝ひに来た。",
-      "furigana": "じょしゅもみなおもしろがっててつだいひにきた。",
+      "clause_text": "来た。",
+      "furigana": "きた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そこで",
-      "furigana": "そこで",
+      "clause_text": "そこでたちまち",
+      "furigana": "そこでたちまち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "たちまち箱を",
-      "furigana": "たちまちばこを",
+      "clause_text": "箱を割って拵えた小さな白い杭",
+      "furigana": "ばこをわってこしらえたちいさなしろいくい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "割って拵えた小さな白い杭もで",
-      "furigana": "わってこしらえたちいさなしろいくいも",
+      "clause_text": "もできほうたいをと",
+      "furigana": "もでき　ほうたいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "きほうたいをとった残りの晒しの",
-      "furigana": "　ほうたいをとったのこりのさらし",
+      "clause_text": "った残りの晒しの縁のまっ白な毬も",
+      "furigana": "とったのこりのさらしのえんのまっしろなかさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "縁のまっ白な毬も出て来た。",
-      "furigana": "のえんのまっしろなかさもでてきた",
+      "clause_text": "出て来た。",
+      "furigana": "もでてきた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこでおれは",
-      "furigana": "そこでおれは",
+      "clause_text": "そこでおれは美しい正方形の",
+      "furigana": "そこでおれはうつくしいせいほうけいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "美しい正方形のつめくさの",
-      "furigana": "うつくしいせいほうけいのつめくさの",
+      "clause_text": "つめくさの絨氈の上で夕方までいろいろ",
+      "furigana": "つめくさの絨氈のうえでゆうがたまでいろいろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "絨氈の上で夕方までいろいろ踊るといふのは",
-      "furigana": "絨氈のうえでゆうがたまでいろいろおどるといふのは",
+      "clause_text": "踊るといふのはどうだあんな",
+      "furigana": "おどるといふのはどうだ　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうだあんな単調で暑苦しい蔬菜畑の仕事に",
-      "furigana": "どうだ　あんなたんちょうであつくるしいそさいはたけのしごと",
+      "clause_text": "単調で暑苦しい蔬菜畑の仕事に",
+      "furigana": "たんちょうであつくるしいそさいはたけのしごと",
       "sentence_individual_grammar_level": "N5"
     },
     {

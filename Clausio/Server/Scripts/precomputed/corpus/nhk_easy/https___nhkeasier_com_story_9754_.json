@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "食べ物や飲み物の",
-      "furigana": "たべものやのみものの",
+      "clause_text": "食べ物や",
+      "furigana": "たべものや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "値段が上がっています。",
-      "furigana": "ねだんがあがっています。",
+      "clause_text": "飲み物の",
+      "furigana": "のみものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "値段が",
+      "furigana": "ねだんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "上がっています。",
+      "furigana": "あがっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "帝国データバンクと",
-      "furigana": "ていこくデータバンクと",
+      "clause_text": "帝国データバンク",
+      "furigana": "ていこくデータバンク",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いう会社に",
-      "furigana": "いうかいしゃに",
+      "clause_text": "という会社によると、",
+      "furigana": "というかいしゃによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "よると",
-      "furigana": "よると",
+      "clause_text": "7月は、",
+      "furigana": "7がつは、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、7月は",
-      "furigana": "、7がつは",
+      "clause_text": "2566の品物の値段が",
+      "furigana": "2566のしなもののねだんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "、2566の品物の値段が上がります。",
-      "furigana": "、2566のしなもののねだんがあがります。",
+      "clause_text": "上がります。",
+      "furigana": "あがります。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "こと",
-      "furigana": "こと",
+      "clause_text": "ことしは11月までに、",
+      "furigana": "ことしは11がつまでに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "しは",
-      "furigana": "しは",
+      "clause_text": "1万4902の",
+      "furigana": "1まん4902の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "11月まで",
-      "furigana": "11がつまで",
+      "clause_text": "食べ物などの",
+      "furigana": "たべものなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、1万4902の",
-      "furigana": "に、1まん4902の",
+      "clause_text": "値段が上がる",
+      "furigana": "ねだんがあがる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "食べ物などの値段が上がると言っています。",
-      "furigana": "たべものなどのねだんがあがるといっています。",
+      "clause_text": "と言っています。",
+      "furigana": "といっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "いちばん多いの",
-      "furigana": "いちばんおおいの",
+      "clause_text": "いちばん多いのは、",
+      "furigana": "いちばんおおいのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、工場で",
-      "furigana": "は、こうじょうで",
+      "clause_text": "工場で作った",
+      "furigana": "こうじょうでつくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "作った冷凍食品や",
-      "furigana": "つくったれいとうしょくひんや",
+      "clause_text": "冷凍食品や",
+      "furigana": "れいとうしょくひんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "次に",
-      "furigana": "つぎに",
+      "clause_text": "次に多いの",
+      "furigana": "つぎにおおいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "多いのは",
-      "furigana": "おおいのは",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "しょうゆ",
+      "furigana": "しょうゆ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しょうゆなどの",
-      "furigana": "しょうゆなどの",
+      "clause_text": "などの",
+      "furigana": "などの",
       "sentence_individual_grammar_level": "N5"
     },
     {

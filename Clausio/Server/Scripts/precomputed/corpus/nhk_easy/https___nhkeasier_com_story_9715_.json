@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "北海道の",
-      "furigana": "ほっかいどうの",
+      "clause_text": "北海道の別海町で、",
+      "furigana": "ほっかいどうのべつかいちょうで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "別海町で、",
-      "furigana": "べつかいちょうで、",
+      "clause_text": "「ホッカイシマエビ」",
+      "furigana": "「ホッカイシマエビ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「ホッカイシマエビ」",
-      "furigana": "「ホッカイシマエビ」",
+      "clause_text": "というエビを",
+      "furigana": "というエビを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "というエビを取る漁が始まりました",
-      "furigana": "というエビをとるりょうがはじまりました",
+      "clause_text": "取る漁が",
+      "furigana": "とるりょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "始まりました。",
+      "furigana": "はじまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この漁は、",
+      "furigana": "このりょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "漁は",
-      "furigana": "りょうは",
+      "clause_text": "昔から風の",
+      "furigana": "むかしからかぜの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、昔から",
-      "furigana": "、むかしから",
+      "clause_text": "力で進む",
+      "furigana": "ちからですすむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "風の",
-      "furigana": "かぜの",
+      "clause_text": "舟を",
+      "furigana": "ふねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "力で進む舟を使います。",
-      "furigana": "ちからですすむふねをつかいます。",
+      "clause_text": "使います。",
+      "furigana": "つかいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "エビが",
-      "furigana": "エビが",
+      "clause_text": "エビが住む所の",
+      "furigana": "エビがすむところの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "住む所の",
-      "furigana": "すむところの",
+      "clause_text": "海草を",
+      "furigana": "かいそうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "海草を",
-      "furigana": "かいそうを",
+      "clause_text": "傷つけないよ",
+      "furigana": "きずつけないよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "傷つけないようにするためです。",
-      "furigana": "きずつけないようにするためです。",
+      "clause_text": "うに",
+      "furigana": "うに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "するためです。",
+      "furigana": "するためです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "今年の漁が始まりました。",
-      "furigana": "ことしのりょうがはじまりました。",
+      "clause_text": "今年の漁が",
+      "furigana": "ことしのりょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "始まりました。",
+      "furigana": "はじまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "海に出ました。",
-      "furigana": "うみにでました。",
+      "clause_text": "海に出",
+      "furigana": "うみにで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

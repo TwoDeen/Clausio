@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "二人の",
-      "furigana": "ふたりの",
+      "clause_text": "二人の若い紳士が、すつかりイギリスの兵隊のかたちをして、",
+      "furigana": "ふたりのわかいしんしが、すつかりいぎりすのへいたいのかたちをして、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "若い紳士が、",
-      "furigana": "わかいしんしが、",
+      "clause_text": "ぴか／＼する鉄砲をかついで、",
+      "furigana": "ぴかきごうきごうするてっぽうをかついで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "すつかりイギリスの兵隊のかたちを",
-      "furigana": "すつかりいぎりすのへいたいのかたちを",
+      "clause_text": "白熊のやうな犬を二疋つれて、だいぶ山奥の、",
+      "furigana": "しろくまのやうないぬをにひきつれて、だいぶやまおくの、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "して、ぴか／＼する鉄砲をかついで、白熊のやうな犬を",
-      "furigana": "して、ぴかきごうきごうするてっぽうをかついで、しろくまのやうないぬを",
+      "clause_text": "木の葉のかさ／＼したとこを、こんなことを云ひながら、",
+      "furigana": "このはのかさきごうきごうしたとこを、こんなことをいひながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "二疋つれて、だいぶ山奥の、木の葉のかさ／＼したとこを、こんなことを云ひながら、あるいてをりました。",
-      "furigana": "にひきつれて、だいぶやまおくの、このはのかさきごうきごうしたとこを、こんなことをいひながら、あるいてをりました。",
+      "clause_text": "あるいてをりました。",
+      "furigana": "あるいてをりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「ぜんたい、",
-      "furigana": "きごうぜんたい、",
+      "furigana": "「ぜんたい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "獣も",
-      "furigana": "けものも",
+      "clause_text": "獣も一",
+      "furigana": "けものもいち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "一疋も",
-      "furigana": "いちひきも",
+      "clause_text": "疋も居",
+      "furigana": "ひきもい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "居やが",
-      "furigana": "い",
+      "clause_text": "やがら",
+      "furigana": "やがら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,7 +175,7 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "らん。",
+      "clause_text": "ん。",
       "furigana": "ん。",
       "sentence_individual_grammar_level": "N5"
     },
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "なんで",
-      "furigana": "なんで",
+      "clause_text": "なんでも構はないから、",
+      "furigana": "なんでもかまえはないから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "早くタンタ",
+      "furigana": "はやくたんた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "構はないから",
-      "furigana": "かまえはないから",
+      "clause_text": "アーンと、や",
+      "furigana": "あーんと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、早くタンタアーンと",
-      "furigana": "、はやくたんたあーんと",
+      "clause_text": "つて見たいも",
+      "furigana": "てみたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、やつて見たいもんだなあ。",
-      "furigana": "、やつてみたいもんだなあ。",
+      "clause_text": "んだなあ。",
+      "furigana": "だなあ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」「鹿の黄いろな横つ腹なんぞに",
-      "furigana": "きごう\nきごうしかのきいろなよこつはらなんぞ",
+      "clause_text": "」「鹿の黄いろ",
+      "furigana": "」\n「しかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "に",
+      "clause_text": "な横つ腹なんぞに、",
+      "furigana": "なよこつはらなんぞに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ずゐぶん痛快だらうねえ。",
-      "furigana": "、ずいぶんつうかいだらうねえ",
+      "clause_text": "ずゐぶん痛快だら",
+      "furigana": "、ずいぶんつうかい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "うねえ。",
+      "furigana": "うねえ",
       "sentence_individual_grammar_level": "N4"
     }
   ]

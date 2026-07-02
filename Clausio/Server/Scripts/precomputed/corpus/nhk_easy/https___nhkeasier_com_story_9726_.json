@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "狭い部屋で",
-      "furigana": "せまいへやで",
+      "clause_text": "狭い部屋で、",
+      "furigana": "せまいへやで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "スペースを",
+      "furigana": "スペースを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "スペースを",
-      "furigana": "スペースを",
+      "clause_text": "うまく使うこと",
+      "furigana": "うまくつかうこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "うまく使うこと",
-      "furigana": "うまくつかうこと",
+      "clause_text": "ができる家具が人気に",
+      "furigana": "ができるかぐがにんきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ができる家具が人気になっています。",
-      "furigana": "ができるかぐがにんきになっています。",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろな使い方がで",
-      "furigana": "いろいろなつかいかたがで",
+      "clause_text": "いろいろな使い方",
+      "furigana": "いろいろなつかいかた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "きたり、小さくなったりして、",
-      "furigana": "きたり、ちいさくなったりして、",
+      "clause_text": "ができたり、",
+      "furigana": "ができたり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「スぺパ家具」",
-      "furigana": "「スぺパかぐ」",
+      "clause_text": "小さくなったりして、",
+      "furigana": "ちいさくなったりして、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "「スぺパ家具」と",
+      "furigana": "「スぺパかぐ」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "呼ばれています。",
-      "furigana": "よばれています。",
+      "clause_text": "呼ば",
+      "furigana": "よば",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いいという意味です。",
-      "furigana": "いいといういみです。",
+      "clause_text": "いい",
+      "furigana": "いい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "という",
+      "furigana": "という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "意味です。",
+      "furigana": "いみです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "東京など大きいまちで",
-      "furigana": "とうきょうなどおおきいまちで",
+      "clause_text": "東京など大きいまちでは、",
+      "furigana": "とうきょうなどおおきいまちでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "土地やマンションの値段が高くなって、",
+      "furigana": "とちやマンションのねだんがたかくなって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、土地やマンションの",
-      "furigana": "、とちやマンションの",
+      "clause_text": "狭い家が増えているため、",
+      "furigana": "せまいいえがふえているため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "値段が",
-      "furigana": "ねだんが",
+      "clause_text": "人気に",
+      "furigana": "にんきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "高くなって、狭い家が増えているため、人気になっています。",
-      "furigana": "たかくなって、せまいいえがふえているため、にんきになっています。",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "スウェーデンから",
-      "furigana": "スウェーデンから",
+      "clause_text": "スウェーデンから来た会社は、",
+      "furigana": "スウェーデンからきたかいしゃは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "来た会社は",
-      "furigana": "きたかいしゃは",
+      "clause_text": "1つで、ソファー、",
+      "furigana": "ひとつで、ソファー、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、1つで",
-      "furigana": "、ひとつで",
+      "clause_text": "シングルベッド、",
+      "furigana": "シングルベッド、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、ソファー、シングルベッド、ダブルベッド、服などを",
-      "furigana": "、ソファー、シングルベッド、ダブルベッド、ふくなどを",
+      "clause_text": "ダブルベッド、",
+      "furigana": "ダブルベッド、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れる収納になる家具を売っています。",
-      "furigana": "いれるしゅうのうになるかぐをうっています。",
+      "clause_text": "服などを入れる収納になる家具を売っています。",
+      "furigana": "ふくなどをいれるしゅうのうになるかぐをうっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

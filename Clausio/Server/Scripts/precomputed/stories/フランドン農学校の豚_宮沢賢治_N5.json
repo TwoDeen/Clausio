@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "〔冒頭",
-      "furigana": "きごうぼうとう",
+      "clause_text": "〔",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "原稿一枚？",
-      "furigana": "げんこういちまい?",
+      "clause_text": "冒頭",
+      "furigana": "ぼうとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "原稿",
+      "furigana": "げんこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "一",
+      "furigana": "いち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "枚？",
+      "furigana": "まい?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "なし〕以外の",
-      "furigana": "なしきごう\nいがい",
+      "clause_text": "なし〕以外の物質は、",
+      "furigana": "なしきごう\nいがいのぶっしつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "物質は、",
-      "furigana": "のぶっしつは",
+      "clause_text": "みなすべて、よ",
+      "furigana": "、みなすべて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "みなすべて、よくこれを",
-      "furigana": "、みなすべて、よくこれ",
+      "clause_text": "くこれを摂取して、",
+      "furigana": "よくこれをせっしゅして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "摂取して、脂肪若くは蛋白質と",
-      "furigana": "をせっしゅして、しぼうもしくわたんぱくしつ",
+      "clause_text": "脂肪若くは蛋白質となし、",
+      "furigana": "、しぼうもしくわたんぱくしつとなし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "なし、その体内に蓄積す。",
-      "furigana": "となし、そのたいないにちくせきす",
+      "clause_text": "その体内に蓄積す。",
+      "furigana": "、そのたいないにちくせきす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」とこう書いてあったから、農学校の畜産の、助手や又小使などは金石でないものならばどんなものでも片っ端から、持って来てほうり出したのだ。",
-      "furigana": "きごうとこうかいてあったから、のうがっこうのちくさんの、じょしゅやまたこづかいなどはかねいしでないものならばどんなものでもかたっぱしから、もってきてほうりだしたのだ。",
+      "clause_text": "」と",
+      "furigana": "」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "こう",
+      "furigana": "こう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "書いてあったか",
+      "furigana": "かいてあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ら、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "農学校の",
+      "furigana": "のうがっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "尤も",
-      "furigana": "もっとも",
+      "clause_text": "尤もこれは豚の方では、",
+      "furigana": "もっともこれはぶたのほうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "これは豚の",
-      "furigana": "これはぶたの",
+      "clause_text": "それが生れつきなのだし、",
+      "furigana": "それがうまれつきなのだし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "方では、それが",
-      "furigana": "ほうでは、それが",
+      "clause_text": "充分によくなれていたから、",
+      "furigana": "じゅうぶんによくなれていたから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "生れつきなのだし、充分に",
-      "furigana": "うまれつきなのだし、じゅうぶんに",
+      "clause_text": "けしていやだとも",
+      "furigana": "けしていやだとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "よくなれていたから、けしていやだとも思わなかった。",
-      "furigana": "よくなれていたから、けしていやだともおもわなかった。",
+      "clause_text": "思わなかった。",
+      "furigana": "おもわなかった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "却ってある夕方などは",
-      "furigana": "かえってあるゆうがたなどは",
+      "clause_text": "却ってある夕方などは、",
+      "furigana": "かえってあるゆうがたなどは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、殊に",
-      "furigana": "、ことに",
+      "clause_text": "殊に豚は自分の幸福を、",
+      "furigana": "ことにぶたはじぶんのこうふくを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "豚は",
-      "furigana": "ぶたは",
+      "clause_text": "感じて、",
+      "furigana": "かんじて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "自分の幸福を",
-      "furigana": "じぶんのこうふくを",
+      "clause_text": "天上に向いて感謝",
+      "furigana": "てんじょうにむいてかんしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、感じて、天上に向いて感謝していた。",
-      "furigana": "、かんじて、てんじょうにむいてかんしゃしていた。",
+      "clause_text": "していた。",
+      "furigana": "していた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

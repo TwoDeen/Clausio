@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘉ッコは",
-      "furigana": "よしみっこは",
+      "clause_text": "嘉ッコは、",
+      "furigana": "よしみっこは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "小さなわらじをはいて、",
+      "furigana": "ちいさなわらじをはいて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "小さなわらじを",
-      "furigana": "ちいさなわらじを",
+      "clause_text": "赤いげんこを二つ顔の前にそろえて、",
+      "furigana": "あかいげんこをふたつかおのまえにそろえて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "はいて、赤いげんこを二つ顔の前に",
-      "furigana": "はいて、あかいげんこをふたつかおのまえに",
+      "clause_text": "ふっふっと息をふきかけながら、",
+      "furigana": "ふっふっといきをふきかけながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "そろえて、ふっふっと息をふきかけながら、土間から外へ飛び出しました。",
-      "furigana": "そろえて、ふっふっといきをふきかけながら、どまからそとへとびだしました。",
+      "clause_text": "土間から外へ飛び出しました。",
+      "furigana": "どまからそとへとびだしました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "外は",
-      "furigana": "そとは",
+      "clause_text": "外はつめたく",
+      "furigana": "そとはつめたく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "つめたくて明るくて、",
-      "furigana": "つめたくてあかるくて、",
+      "clause_text": "て明るく",
+      "furigana": "てあかるく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "そしてしんと",
-      "furigana": "そしてしんと",
+      "clause_text": "て、",
+      "furigana": "て、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "しています。",
-      "furigana": "しています。",
+      "clause_text": "そしてしんと",
+      "furigana": "そしてしんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しています。",
+      "furigana": "しています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "嘉ッコの",
-      "furigana": "よしみっこの",
+      "clause_text": "嘉ッコのお母さんは、",
+      "furigana": "よしみっこのおかあさんは、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "お母さんは",
-      "furigana": "おかあさんは",
+      "clause_text": "大きなけらを着て、",
+      "furigana": "おおきなけらをきて、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、大きなけらを",
-      "furigana": "、おおきなけらを",
+      "clause_text": "縄を肩にかけて、",
+      "furigana": "なわをかたにかけて、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "着て、縄を",
-      "furigana": "きて、なわを",
+      "clause_text": "そのあとから",
+      "furigana": "そのあとから",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "肩にかけて、そのあとから出て来ました。",
-      "furigana": "かたにかけて、そのあとからでてきました。",
+      "clause_text": "出て来ました。",
+      "furigana": "でてきました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「母、",
-      "furigana": "きごうはは、",
+      "furigana": "「はは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "凍みだじゃぃ。",
-      "furigana": "しみだじゃぃ。",
+      "clause_text": "凍みだ",
+      "furigana": "しみだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "じゃぃ。",
+      "furigana": "じゃぃ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」嘉ッコはしめった",
+      "furigana": "」よしみっこはしめった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "嘉ッコは",
-      "furigana": "よしみっこは",
+      "clause_text": "黒い地面を、",
+      "furigana": "くろいじめんを、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "しめった黒い地面を",
-      "furigana": "しめったくろいじめんを",
+      "clause_text": "ばたばた",
+      "furigana": "ばたばた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、ばたばた踏みながら云いました。",
-      "furigana": "、ばたばたふみながらいいました。",
+      "clause_text": "踏みながら",
+      "furigana": "ふみながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "云いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "雨が",
-      "furigana": "\nあめ",
+      "clause_text": "雨がぽ",
+      "furigana": "\nあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぽしゃぽしゃ降ってゐます。",
-      "furigana": "がぽしゃぽしゃふっています",
+      "clause_text": "しゃぽ",
+      "furigana": "ぽしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "しゃ",
+      "furigana": "ぽ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "降ってゐます。",
+      "furigana": "ふっています",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "明滅を",
-      "furigana": "めいめつを",
+      "clause_text": "明滅をきれぎれに",
+      "furigana": "めいめつをきれぎれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きれぎれに",
-      "furigana": "きれぎれに",
+      "clause_text": "降る",
+      "furigana": "ふる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "降る透明な雨です。",
-      "furigana": "ふるとうめいなあめです。",
+      "clause_text": "透明な",
+      "furigana": "とうめいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "雨です。",
+      "furigana": "あめです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ぬれるのはすぎなやすいば、ひのきの髪は延び過ぎました。",
-      "furigana": "ぬれるのはすぎなやすいば、\nひのきのかみはのびすぎました",
+      "clause_text": "ぬれるのは",
+      "furigana": "ぬれるのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "すぎなやすいば、",
+      "furigana": "すぎなやすいば、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ひのきの",
+      "furigana": "\nひのき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "髪は延び",
+      "furigana": "のかみは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "過ぎました。",
+      "furigana": "すぎました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "私の",
-      "furigana": "わたくしの",
+      "clause_text": "私の胸腔は",
+      "furigana": "わたくしのきょうこうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "胸腔は",
-      "furigana": "きょうこうは",
+      "clause_text": "暗くて熱くも",
+      "furigana": "くらくてあつく\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "暗くて熱くも",
-      "furigana": "くらくてあつく\n",
+      "clause_text": "う醗酵をはじめたん",
+      "furigana": "もうはっこうをはじめた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "う醗酵をは",
-      "furigana": "もうはっこうを",
+      "clause_text": "ぢゃないかと",
+      "furigana": "んぢゃないか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "じめたんぢゃないかと思ひます。",
-      "furigana": "はじめたんぢゃないかとおもひます",
+      "clause_text": "思ひます。",
+      "furigana": "とおもひます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "雨に",
-      "furigana": "あめに",
+      "clause_text": "雨にぬれた緑のどてのこっちを",
+      "furigana": "あめにぬれたみどりのどてのこっちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぬれた緑の",
-      "furigana": "ぬれたみどりの",
+      "clause_text": "ゴム引きの青泥いろの",
+      "furigana": "\nごむひきのあおどろいろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "どてのこっちを",
-      "furigana": "どてのこっちを",
+      "clause_text": "マントがゆっくりゆっくり行く",
+      "furigana": "のまんとが\nゆっくりゆっくり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゴム引きの青泥いろのマントが",
-      "furigana": "\nごむひきのあおどろいろのまんと",
+      "clause_text": "といふのは実にこれはつらいことな",
+      "furigana": "いくといふのは\nじつにこれはつらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゆっくりゆっくり行くといふのは実にこれはつらいことなのです。",
-      "furigana": "が\nゆっくりゆっくりいくといふのは\nじつにこれはつらいことなの",
+      "clause_text": "のです。",
+      "furigana": "ことなの",
       "sentence_individual_grammar_level": "N5"
     }
   ]

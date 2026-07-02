@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「わたしらの先祖やなんか、鳥がはじめて、天から降って来たときは、どいつもこいつも、みないち様に白でした。",
-      "furigana": "きごうわたしらのせんぞやなんか、\nとりがはじめて、てんからふってきたときは、\nどいつもこいつも、みないちようにしろでし",
+      "clause_text": "「わたしらの先祖やなんか、",
+      "furigana": "「わたしらのせんぞやなんか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "た",
+      "clause_text": "鳥がはじめて、",
+      "furigana": "\nとりがはじめて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "天から降って来たときは、",
+      "furigana": "、てんからふってきたときは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "どいつもこいつも、",
+      "furigana": "、\nどいつもこいつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "みないち様に白でした。",
+      "furigana": "も、みないちようにしろでし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」「黄金の鎌」が西のそらにかゝつて、",
+      "furigana": "」\n「おうごんのかま」がにしのそらにかのつて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「黄金の鎌」",
-      "furigana": "\nきごうおうごんのかま",
+      "clause_text": "風もないしづかな晩に、",
+      "furigana": "、かぜもないしづかなばんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "が西のそらにかゝつて、風も",
-      "furigana": "きごうがにしのそらにかのつて、かぜ",
+      "clause_text": "一ぴきのとしよりの梟が、",
+      "furigana": "、いちぴきのとしよりのふくろうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ないしづかな晩に、一ぴきのとしより",
-      "furigana": "もないしづかなばんに、いちぴきの",
+      "clause_text": "林の中の低い松の枝から、",
+      "furigana": "、はやしのなかのひくいまつのえだから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "の梟が、林の中の低い松の枝から、斯う私に話しかけました。",
-      "furigana": "のふくろうが、はやしのなかのひくいまつのえだから、こうわたくしにはなしかけました",
+      "clause_text": "斯う私に話しかけました。",
+      "furigana": "、こうわたくしにはなしかけました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "ところが私は梟",
+      "furigana": "ところがわたくしはふくろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ころが",
-      "furigana": "が",
+      "clause_text": "などを、",
+      "furigana": "などを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "私は",
-      "furigana": "わたくしは",
+      "clause_text": "あんまり",
+      "furigana": "あんまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "梟などを",
-      "furigana": "ふくろうなどを",
+      "clause_text": "信用しませ",
+      "furigana": "しんようしませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、あんまり信用しませんでした。",
-      "furigana": "、あんまりしんようしませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ちょっと見ると",
-      "furigana": "ちょっとみると",
+      "clause_text": "ちょっと見ると梟は、",
+      "furigana": "ちょっとみるとふくろうは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "梟は、いつでも頬を",
-      "furigana": "ふくろうは、いつでもほおを",
+      "clause_text": "いつでも頬をふくらせて、",
+      "furigana": "いつでもほおをふくらせて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふくらせて、滅多にしゃべらず、たまたま云へ",
-      "furigana": "ふくらせて、めったにしゃべらず、たまたまゆへ",
+      "clause_text": "滅多にしゃべらず、たまたま云へば声もどっしりしてますし、",
+      "furigana": "めったにしゃべらず、たまたまゆへばこえもどっしりしてますし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ば声もどっしりしてますし、眼も話す間ははっきり大きく開いてゐます、又木の",
-      "furigana": "ばこえもどっしりしてますし、めもはなすあいだははっきりおおきくひらいています、またきの",
+      "clause_text": "眼も話す間ははっきり大きく開いてゐます、",
+      "furigana": "めもはなすあいだははっきりおおきくひらいています、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "陰の青ぐろいとこなどで、尤もらしく肥った首をまげたりなんかするとこは、いかにもこゝろもまっすぐらしく、誰も一ペんは欺されさうです。",
-      "furigana": "かげのあおぐろいとこなどで、もっともらしくふとったくびをまげたりなんかするとこは、いかにもこころもまっすぐらしく、だれもいちぺんはだまされさうです。",
+      "clause_text": "又木の陰の青ぐろいとこなどで、",
+      "furigana": "またきのかげのあおぐろいとこなどで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "仲々信用しませんでした。",
-      "furigana": "なかなかしんようしませんでした。",
+      "clause_text": "仲々信用",
+      "furigana": "なかなかしんよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しませ",
+      "furigana": "しませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

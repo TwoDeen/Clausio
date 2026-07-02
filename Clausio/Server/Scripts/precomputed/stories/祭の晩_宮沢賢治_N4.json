@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "山の",
-      "furigana": "やまの",
+      "clause_text": "山の神の",
+      "furigana": "やまのかみの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "神の",
-      "furigana": "の",
+      "clause_text": "秋の",
+      "furigana": "あきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "秋の",
-      "furigana": "あきの",
+      "clause_text": "祭りの",
+      "furigana": "まつりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "祭りの晩でした。",
-      "furigana": "まつりのばんでした。",
+      "clause_text": "晩でし",
+      "furigana": "ばんでし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "亮二は",
-      "furigana": "りょうじは",
+      "clause_text": "亮二はあたらしい",
+      "furigana": "りょうじはあたらしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "あたらしい水色の",
-      "furigana": "あたらしいみずいろの",
+      "clause_text": "水色のしごきをしめて、",
+      "furigana": "みずいろのしごきをしめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "しごきを",
-      "furigana": "しごきを",
+      "clause_text": "それに十五銭もらって、",
+      "furigana": "それにじゅうごせんもらって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "しめて、それに",
-      "furigana": "しめて、それに",
+      "clause_text": "お旅屋",
+      "furigana": "おたびや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "十五銭もらって、お旅屋にでかけました。",
-      "furigana": "じゅうごせんもらって、おたびやにでかけました。",
+      "clause_text": "にでかけました。",
+      "furigana": "にでかけました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「空気獣」",
-      "furigana": "きごうくうきじゅうきごう",
+      "furigana": "「くうきじゅう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "という",
+      "furigana": "という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いう見世物が",
-      "furigana": "いうみせものが",
+      "clause_text": "見世物が",
+      "furigana": "みせものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "大繁盛でした",
-      "furigana": "だいはんじょうでした",
+      "clause_text": "大",
+      "furigana": "だい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "繁盛でした。",
+      "furigana": "はんじょうでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは、髪を",
-      "furigana": "それは、かみを",
+      "clause_text": "それは、",
+      "furigana": "それは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "長くして、だぶだぶのずぼんをは",
-      "furigana": "ながくして、だぶだぶのずぼんを",
+      "clause_text": "髪を長くして、だぶだぶの",
+      "furigana": "かみをながくして、だぶだぶの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いたあばたな男が、小屋の幕の前に立って、",
-      "furigana": "たあばたなおとこが、こやのまくのまえにたって、",
+      "clause_text": "ずぼんをはいたあばたな男が、",
+      "furigana": "ずぼんをはいたあばたなおとこが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "「さあ、みんな、入れ入れ」",
-      "furigana": "きごうさあ、みんな、いれいれきごう",
+      "clause_text": "小屋の幕の前に立って、",
+      "furigana": "こやのまくのまえにたって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "と大威張りでどなっているのでした。",
-      "furigana": "とおおいばりでどなっているのでした。",
+      "clause_text": "「さあ、みんな、入れ入れ」と",
+      "furigana": "「さあ、みんな、いれいれ」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "亮二が",
-      "furigana": "りょうじが",
+      "clause_text": "亮二が思わず看板の",
+      "furigana": "りょうじがおもわずかんばんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "思わず看板の",
-      "furigana": "おもわずかんばんの",
+      "clause_text": "近くまで行きましたら、",
+      "furigana": "ちかくまでいきましたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "近くまで",
-      "furigana": "ちかくまで",
+      "clause_text": "いきなり",
+      "furigana": "いきなり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "行きましたら、いきなりその",
-      "furigana": "いきましたら、いきなりその",
+      "clause_text": "その男が、",
+      "furigana": "そのおとこが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "男が、「おい、あんこ、早ぐ入れ。",
-      "furigana": "おとこが、\nきごうおい、あんこ、はやぐいれ",
+      "clause_text": "「おい、あんこ、早ぐ入れ。",
+      "furigana": "\n「おい、あんこ、はやぐいれ",
       "sentence_individual_grammar_level": "N4"
     }
   ]

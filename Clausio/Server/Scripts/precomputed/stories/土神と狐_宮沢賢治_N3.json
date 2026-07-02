@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（一）［＃",
-      "furigana": "きごういちきごうきごう#",
+      "clause_text": "（一）［＃「（一）」は",
+      "furigana": "きごういちきごうきごう#「きごういちきごう」は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「（一）」",
-      "furigana": "きごうきごういちきごうきごう",
+      "clause_text": "縦中横］一本木の野原の、",
+      "furigana": "たてなかよこきごう\nいっぽんぎののはらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "は縦中横］一本木の",
-      "furigana": "はたてなかよこきごう\nいっぽんぎ",
+      "clause_text": "北のはづれに、",
+      "furigana": "、きたのはづれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "野原の、北のはづれに",
-      "furigana": "ののはらの、きたのはづれ",
+      "clause_text": "少し小高く盛りあがった所が",
+      "furigana": "、すこしこだかくもりあがったところ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "、少し小高く盛りあがった所がありました。",
-      "furigana": "に、すこしこだかくもりあがったところがありました",
+      "clause_text": "ありました。",
+      "furigana": "がありました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "いの",
-      "furigana": "いの",
+      "clause_text": "いのころぐさが",
+      "furigana": "いのころぐさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ころぐさが",
-      "furigana": "ぐさが",
+      "clause_text": "いっぱいに生え、",
+      "furigana": "いっぱいにはえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いっぱいに",
-      "furigana": "いっぱいに",
+      "clause_text": "そのまん中には",
+      "furigana": "そのまんなかには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "生え、そのまん中に",
-      "furigana": "はえ、そのまんなかに",
+      "clause_text": "一本の奇麗な女の樺の木が",
+      "furigana": "いちぽんのきれいなおんなのかばのきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "は一本の奇麗な女の樺の木がありました。",
-      "furigana": "はいちぽんのきれいなおんなのかばのきがありました。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それはそんなに",
-      "furigana": "それはそんなに",
+      "clause_text": "それはそんなに大きくはありませんでしたが幹はてかてか黒く光り、",
+      "furigana": "それはそんなにおおきくはありませんでしたがみきはてかてかくろくひかり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きくは",
-      "furigana": "おおきくは",
+      "clause_text": "枝は美しく伸びて、",
+      "furigana": "えだはうつくしくのびて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありませんでしたが",
-      "furigana": "ありませんでしたが",
+      "clause_text": "五月には白き雲をつけ、",
+      "furigana": "ごがつにはしろきくもをつけ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "幹はてかてか黒く光り、枝は",
-      "furigana": "みきはてかてかくろくひかり、えだは",
+      "clause_text": "秋は黄金や紅やいろいろの葉を降ら",
+      "furigana": "あきはおうごんやくれないやいろいろのはをふら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "美しく伸びて、五月には白き雲をつけ、秋は黄金や紅やいろいろの葉を降らせました。",
-      "furigana": "うつくしくのびて、ごがつにはしろきくもをつけ、あきはおうごんやくれないやいろいろのはをふらせました。",
+      "clause_text": "せました。",
+      "furigana": "せました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "で",
-      "furigana": "で",
+      "clause_text": "ですから渡り鳥の",
+      "furigana": "ですからわたりどり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "すから",
-      "furigana": "から",
+      "clause_text": "くゎくこうや百舌も、",
+      "furigana": "ゎくこうやもずも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "渡り鳥の",
-      "furigana": "わたりどり",
+      "clause_text": "又小さなみそさゞ",
+      "furigana": "またちいさなみそさきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "くゎくこうや百舌も",
-      "furigana": "ゎくこうやもずも",
+      "clause_text": "いや目白もみんなこの木に",
+      "furigana": "いやめじろもみんなこのきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、又小さなみそさゞいや目白もみんなこの木に停まりました。",
-      "furigana": "、またちいさなみそさきごういやめじろもみんなこのきにとまりました。",
+      "clause_text": "停まりました。",
+      "furigana": "とまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たゞも",
-      "furigana": "ただ",
+      "clause_text": "たゞもしも若い鷹などが",
+      "furigana": "ただもしもわかいたかなどが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "しも",
-      "furigana": "も",
+      "clause_text": "来てゐるときは小さな鳥は",
+      "furigana": "きているときはちいさなとりは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "若い鷹などが",
-      "furigana": "わかいたかなどが",
+      "clause_text": "遠くからそれを",
+      "furigana": "とおくからそれを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "来てゐるときは小さな鳥は",
-      "furigana": "きているときはちいさなとりは",
+      "clause_text": "見付けて決して近くへ寄りませ",
+      "furigana": "みつけてけっしてちかくへよりませ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "遠くからそれを見付けて決して近くへ寄りませんでした。",
-      "furigana": "とおくからそれをみつけてけっしてちかくへよりませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N3"
     }
   ]

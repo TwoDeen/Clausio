@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたくしは",
-      "furigana": "わたくしは",
+      "clause_text": "わたくしはあるひとから",
+      "furigana": "わたくしはあるひとから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるひと",
-      "furigana": "あるひと",
+      "clause_text": "云いつけられて、",
+      "furigana": "いいつけられて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "から",
-      "furigana": "から",
+      "clause_text": "この手紙を印刷",
+      "furigana": "このてがみをいんさつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "云いつけられて、この",
-      "furigana": "いいつけられて、この",
+      "clause_text": "してあなたがたにお",
+      "furigana": "してあなたがたにお",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "手紙を印刷してあなたがたにおわたしします。",
-      "furigana": "てがみをいんさつしてあなたがたにおわたしします。",
+      "clause_text": "わたしします。",
+      "furigana": "わたしします。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ポーセが",
-      "furigana": "ぽーせが",
+      "clause_text": "ポーセがほんとうに",
+      "furigana": "ぽーせがほんとうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ほんとうに",
-      "furigana": "ほんとうに",
+      "clause_text": "どうなったか、",
+      "furigana": "どうなったか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうなったか、知っているかたは",
-      "furigana": "どうなったか、しっているかたは",
+      "clause_text": "知っているかたは",
+      "furigana": "しっているかたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "チュンセがさっぱりごはんもたべないで毎日考えてばかりいるのです。",
-      "furigana": "ちゅんせがさっぱりごはんもたべないでまいにちかんがえてばかりいるのです。",
+      "clause_text": "チュンセが",
+      "furigana": "ちゅんせが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "さっぱり",
+      "furigana": "さっぱり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ごはんもたべないで毎日",
+      "furigana": "ごはんもたべないでまいにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "考えてばかりいる",
+      "furigana": "かんがえてばかりいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ポーセは",
-      "furigana": "ぽーせは",
+      "clause_text": "ポーセはチュンセの小さな",
+      "furigana": "ぽーせはちゅんせのちいさな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "チュンセの",
-      "furigana": "ちゅんせの",
+      "clause_text": "妹ですが、",
+      "furigana": "いもうとですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さな妹で",
-      "furigana": "ちいさないもうと",
+      "clause_text": "チュンセは",
+      "furigana": "ちゅんせは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "すが",
-      "furigana": "が",
+      "clause_text": "いつもいじ悪ばかり",
+      "furigana": "いつもいじあくばかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、チュンセはいつもいじ悪ばかりしました。",
-      "furigana": "、ちゅんせはいつもいじあくばかりしました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ポーセがせっかく植えて、水をかけた小さな桃の木になめくじをたけておいたり、ポーセの靴に甲虫を飼って、二月もそれをかくしておいたりしました。",
-      "furigana": "ぽーせがせっかくうえて、みずをかけたちいさなもものきになめくじをたけておいたり、ぽーせのくつにかぶとむしをかって、にがつもそれをかくしておいたりしました。",
+      "clause_text": "ポーセがせっかく植えて、",
+      "furigana": "ぽーせがせっかくうえて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "水をかけた小さな桃の木になめくじをたけておいたり、",
+      "furigana": "みずをかけたちいさなもものきになめくじをたけておいたり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ポーセの靴に甲虫を飼って、",
+      "furigana": "ぽーせのくつにかぶとむしをかって、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "二月もそれをかくしておいたり",
+      "furigana": "にがつもそれをかくしておいたり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

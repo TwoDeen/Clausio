@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（二川こゝに",
-      "furigana": "きごうふたかわここ",
+      "clause_text": "（二川こゝにて会したり）（いな、",
+      "furigana": "きごうふたかわここにてかいしたりきごう\nきごういな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "て会したり）（いな、",
-      "furigana": "かいしたりきごう\nきごういな",
+      "clause_text": "和賀の川水雪代ふ夏油のそれの十なればその川ここに入ると",
+      "furigana": "、わがのかわみずゆきしろふ\nなつあぶらのそれのじゅうなれば\nそのかわここに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "和賀の",
-      "furigana": "、わが",
+      "clause_text": "云へ）藍と雪とのうすけぶりつらなる",
+      "furigana": "はいるといえきごう\nあいとゆきとのうすけぶり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "川水雪代ふ夏油のそれの十なればその川ここに入ると云へ",
-      "furigana": "のかわみずゆきしろふ\nなつあぶらのそれのじゅうなれば\nそのかわここにはいる",
+      "clause_text": "尾根のかなたより夏油の川は巌",
+      "furigana": "\nつらなるおねのかなたより\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "）藍と雪とのうすけぶりつらなる尾根のかなたより夏油の川は巌截りてましろき波をながしきぬ",
-      "furigana": "といえきごう\nあいとゆきとのうすけぶり\nつらなるおねのかなたより\nなつあぶらのかわはいわきりて\nましろき",
+      "clause_text": "截りてましろき波をながしきぬ",
+      "furigana": "なつあぶらのかわはいわきりて\nましろき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "立派な一軒の",
-      "furigana": "りっぱないちけんの",
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "西洋造りの",
-      "furigana": "せいようつくりの",
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "家がありました。",
-      "furigana": "いえがありました。",
+      "clause_text": "造りの",
+      "furigana": "つくりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "家が",
+      "furigana": "いえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "立派な一軒の",
-      "furigana": "りっぱないちけんの",
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "西洋造りの",
-      "furigana": "せいようつくりの",
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "家がありました。",
-      "furigana": "いえがありました。",
+      "clause_text": "造りの",
+      "furigana": "つくりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "家が",
+      "furigana": "いえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "立派な一軒の",
-      "furigana": "りっぱないちけんの",
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "西洋造りの",
-      "furigana": "せいようつくりの",
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "家がありました。",
-      "furigana": "いえがありました。",
+      "clause_text": "造りの",
+      "furigana": "つくりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "家が",
+      "furigana": "いえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "立派な一軒の",
-      "furigana": "りっぱないちけんの",
+      "clause_text": "立派な一",
+      "furigana": "りっぱないち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "西洋造りの",
-      "furigana": "せいようつくりの",
+      "clause_text": "軒の西洋",
+      "furigana": "けんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "家がありました。",
-      "furigana": "いえがありました。",
+      "clause_text": "造りの",
+      "furigana": "つくりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "家が",
+      "furigana": "いえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

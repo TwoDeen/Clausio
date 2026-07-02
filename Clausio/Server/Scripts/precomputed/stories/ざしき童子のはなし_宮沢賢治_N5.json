@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぼくらの",
-      "furigana": "ぼくらの",
+      "clause_text": "ぼく",
+      "furigana": "ぼく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "方の",
-      "furigana": "ほうの",
+      "clause_text": "らの方",
+      "furigana": "らのほう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、ざしき童子のはなしです。",
-      "furigana": "、ざしきどうじのはなしです。",
+      "clause_text": "の、",
+      "furigana": "の、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ざしき童子のは",
+      "furigana": "ざしきどうじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なしです。",
+      "furigana": "です。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "山へは",
-      "furigana": "やまへ",
+      "clause_text": "山へはたらきに出て、",
+      "furigana": "やまへはたらきにでて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たらきに",
-      "furigana": "に",
+      "clause_text": "こどもがふたり、",
+      "furigana": "こどもがふたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "出て、こどもがふたり、庭であそんでおりました。",
-      "furigana": "でて、こどもがふたり、にわであそんでおりました。",
+      "clause_text": "庭であそんでおりました。",
+      "furigana": "にわであそんでおりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きな家にだれもおりませんでしたから、そこらはしんとしています。",
-      "furigana": "おおきないえにだれもおりませんでしたから、そこらはしんとしています。",
+      "clause_text": "大きな家にだれも",
+      "furigana": "おおきないえにだれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "おりませ",
+      "furigana": "おりませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んでしたから、",
+      "furigana": "んでしたから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "そこらはしんと",
+      "furigana": "そこらはしんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しています。",
+      "furigana": "しています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ところが家の、どこかのざしきで、ざわっざわっと箒の音がしたのです。",
-      "furigana": "ところがいえの、どこかのざしきで、ざわっざわっとほうきのおとがしたのです。",
+      "clause_text": "ところが家の、",
+      "furigana": "ところがいえの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "どこかのざしきで、",
+      "furigana": "どこかのざしきで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ざわっざわっと",
+      "furigana": "ざわっざわっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "箒の音がした",
+      "furigana": "ほうきのおとがした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ふたりのこども",
-      "furigana": "ふたりのこども",
+      "clause_text": "ふたりのこどもは、",
+      "furigana": "ふたりのこどもは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、おたが",
-      "furigana": "は、お",
+      "clause_text": "おたがい肩にしっかりと手を組みあって、",
+      "furigana": "おたがいかたにしっかりとてをくみあって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "い肩にしっかりと手を",
-      "furigana": "かたにしっかりとてを",
+      "clause_text": "こっそり行ってみましたが、どのざしきにもたれもいず、",
+      "furigana": "こっそりいってみましたが、どのざしきにもたれもいず、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "組みあって、こっそり行ってみましたが、どのざしきにもたれも",
-      "furigana": "くみあって、こっそりいってみましたが、どのざしきにもたれも",
+      "clause_text": "刀の箱もひっそりとして、かきねの檜が、",
+      "furigana": "かたなのばこもひっそりとして、かきねのひのきが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "いず、刀の箱もひっそりとして、かきねの檜が、いよいよ青く見えるきり、たれもどこにもいませんでした。",
-      "furigana": "いず、かたなのばこもひっそりとして、かきねのひのきが、いよいよあおくみえるきり、たれもどこにもいませんでした。",
+      "clause_text": "いよいよ青く見えるきり、たれもどこにもいませんでした。",
+      "furigana": "いよいよあおくみえるきり、たれもどこにもいませんでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

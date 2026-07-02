@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "政府が",
-      "furigana": "せいふが",
+      "clause_text": "2日の東京株式市場、",
+      "furigana": "2日の東京株式市場、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "日経平均株価は一時、",
+      "furigana": "日経平均株価は一時、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "地震の",
-      "furigana": "じしんの",
+      "clause_text": "1500円以上",
+      "furigana": "1500円以上",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "被害を",
-      "furigana": "ひがいを",
+      "clause_text": "値下がり",
+      "furigana": "値下がり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "小さくする目標を決めました。",
-      "furigana": "ちいさくするもくひょうをきめました。",
+      "clause_text": "しています。",
+      "furigana": "しています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京やその",
-      "furigana": "とうきょうやその",
+      "clause_text": "1日のニューヨーク",
+      "furigana": "1日のニューヨーク",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "周りで",
-      "furigana": "まわりで",
+      "clause_text": "市場でAIや半導体関連の",
+      "furigana": "市場でAIや半導体関連の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "銘柄が下落した流れを受けて、",
+      "furigana": "銘柄が下落した流れを受けて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、とても",
-      "furigana": "、とても",
+      "clause_text": "東京市場でも同様の銘柄を中心に売り注文が",
+      "furigana": "東京市場でも同様の銘柄を中心に売り注文が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きな地震が起こる可能性があります。",
-      "furigana": "おおきなじしんがおこるかのうせいがあります。",
+      "clause_text": "広がっています。",
+      "furigana": "広がっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この",
-      "furigana": "この",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "九州",
+      "furigana": "九州",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "地震は",
-      "furigana": "じしんは",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "北部で線状降水帯",
+      "furigana": "北部で線状降水帯",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「首都直下地震」",
-      "furigana": "「しゅとちょっかじしん」",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "発生土砂",
+      "furigana": "発生土砂",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "と",
-      "furigana": "と",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "崩れや氾濫の",
+      "furigana": "崩れや氾濫の",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "呼ばれています。",
-      "furigana": "よばれています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "発生も警戒を。",
+      "furigana": "発生も警戒を。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この",
-      "furigana": "この",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "熊本小国町筑後川",
+      "furigana": "熊本小国町筑後川",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "地震が",
-      "furigana": "じしんが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "「杖立橋」",
+      "furigana": "「杖立橋」",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "起こると",
-      "furigana": "おこると",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "付近で氾濫",
+      "furigana": "付近で氾濫",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、1万8000人ぐらいが",
-      "furigana": "、1まん8000にんぐらいが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "発生最大級の",
+      "furigana": "発生最大級の",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "亡くなるかもしれないと考えられています。",
-      "furigana": "なくなるかもしれないとかんがえられています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "警戒を。",
+      "furigana": "警戒を。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 21,
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "40万ぐらいの家や建物が壊れたり、火事で燃えたりするかもしれません。",
-      "furigana": "40まんぐらいのいえやたてものがこわれたり、かじでもえたりするかもしれません。",
+      "clause_text": "「スロースリップ」",
+      "furigana": "「スロースリップ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "活発な領域東北",
+      "furigana": "活発な領域東北",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "沖で拡大か",
+      "furigana": "沖で拡大か",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "地震への",
+      "furigana": "地震への",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "備えを。",
+      "furigana": "備えを。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

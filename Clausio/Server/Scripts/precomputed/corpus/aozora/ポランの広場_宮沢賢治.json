@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "時、一千九百二十年代、",
-      "furigana": "とき、いちせんきゅうひゃくにじゅうねんだい、",
+      "clause_text": "時、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "六月三十日夜、",
-      "furigana": "ろくがつさんとうかよる、",
+      "clause_text": "一千九百二十年代、",
+      "furigana": "いちせんきゅうひゃくにじゅうねんだい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "処、イーハトヴ地方、人物、",
-      "furigana": "\nところ、いーはとゔちほう、\n",
+      "clause_text": "六月三十日夜、",
+      "furigana": "ろくがつさんとうかよる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "キュステ博物局十六等官ファゼロファリーズ小学校生徒山猫博士牧者葡萄園農夫衣裳係オーケストラ指揮者弦楽手鼓器楽手給仕其他曠原紳士、村の",
-      "furigana": "、きゅすて　はくぶつきょくじゅうろくとうかん\nふぁぜろ　ふぁりーずしょうがっこうせいと\nやまねこはかせ\nぼくしゃ\nぶどうえんのうふ\nいしょうかかり\nおーけすとらしきしゃ\nげんがくしゅ\nつづみきがく",
+      "clause_text": "処、",
+      "furigana": "\nところ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "娘多勢、ベル、人数の歓声、Hacienda,thesocietyTangoのレコード、オーケストラ演奏、甲虫の翅音、幕あく。",
-      "furigana": "しゅ\nきゅうじ\nそのた　曠原しんし、むらのむすめ　おおぜい、\nべる、\nにんずうのかんせい、あしえんだ,ざそさえてぃーたんごの",
+      "clause_text": "イーハトヴ地方、",
+      "furigana": "、いーはとゔちほう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "中央よりも",
-      "furigana": "ちゅうおうよりも",
+      "clause_text": "中央よりも少し右手に、",
+      "furigana": "ちゅうおうよりもすこしみぎてに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "少し右手に、赤楊の",
-      "furigana": "すこしみぎてに、あかようの",
+      "clause_text": "赤楊の木二本、",
+      "furigana": "あかようのきにぽん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "木二本、電燈やモールで",
-      "furigana": "きにぽん、でんとうやもーるで",
+      "clause_text": "電燈やモールで美しく",
+      "furigana": "でんとうやもーるでうつくしく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "美しく飾られる。",
-      "furigana": "うつくしくかざられる。",
+      "clause_text": "飾られる。",
+      "furigana": "かざられる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その左に小さな演壇、",
+      "furigana": "そのひだりにちいさなえんだん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "左に",
-      "furigana": "ひだりに",
+      "clause_text": "右手にオーケストラ",
+      "furigana": "\nみぎてに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "小さな演壇、右手に",
-      "furigana": "ちいさなえんだん、\nみぎて",
+      "clause_text": "バンド、",
+      "furigana": "ばんど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "オーケストラバンド、指揮者と",
-      "furigana": "におーけすとらばんど、しきしゃ",
+      "clause_text": "指揮者と楽手二名だけ",
+      "furigana": "、しきしゃとらくしゅにめい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "楽手二名だけ見える。",
-      "furigana": "とらくしゅにめいだけみえる",
+      "clause_text": "見える。",
+      "furigana": "みえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのこっち側右手前列に白布をか",
+      "furigana": "そのこっちがわ　みぎてぜんれつに　しろぬの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "こっち側右手前列に",
-      "furigana": "こっちがわ　みぎてぜんれつ",
+      "clause_text": "けた卓子と椅子、",
+      "furigana": "をかけたたくしと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "白布を",
-      "furigana": "に　",
+      "clause_text": "給仕が立ち、",
+      "furigana": "、きゅうじが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "かけた卓子と椅子、給仕が",
-      "furigana": "をかけたたくしといす、",
+      "clause_text": "山猫博士がコップをなめながら",
+      "furigana": "、やまねこはかせがこっぷをなめ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "立ち、山猫博士がコップをなめながら腰掛けて見てゐる。",
-      "furigana": "がたち、やまねこはかせがこっぷをなめながらこしかけてみて",
+      "clause_text": "腰掛けて見てゐる。",
+      "furigana": "こしかけてみて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "村の",
-      "furigana": "むらの",
+      "clause_text": "村の娘たち、",
+      "furigana": "むらのむすめたち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "娘たち、",
-      "furigana": "むすめたち、",
+      "clause_text": "牧者、",
+      "furigana": "ぼくしゃ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "牧者、",
-      "furigana": "ぼくしゃ、",
+      "clause_text": "葡萄園農夫等",
+      "furigana": "ぶどうえんのうふとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "葡萄園農夫等円舞。",
-      "furigana": "ぶどうえんのうふとう　えんぶ",
+      "clause_text": "円舞。",
+      "furigana": "　えんぶ",
       "sentence_individual_grammar_level": "N5"
     }
   ]

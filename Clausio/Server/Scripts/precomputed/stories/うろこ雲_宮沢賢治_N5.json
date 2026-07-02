@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "浮かび月は",
-      "furigana": "うかびつきは",
+      "clause_text": "浮かび月はその一切れに",
+      "furigana": "うかびつきはそのいちきれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "その一切れに",
-      "furigana": "そのいちきれに",
+      "clause_text": "入って鈍い",
+      "furigana": "はいってにぶい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "入って鈍い虹を掲げる。",
-      "furigana": "はいってにぶいにじをかかげる。",
+      "clause_text": "虹を掲げる。",
+      "furigana": "にじをかかげる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "町の曲り角の屋敷にある木は脊高の梨の木で高くその柔らかな葉を動かしてゐるのだ。",
-      "furigana": "まちのまがりかどのやしきにあるきはせだかのなしのきでたかくそのやわらかなはをうごかしているのだ。",
+      "clause_text": "町の曲り角の屋敷にある",
+      "furigana": "まちのまがりかどのやしきにある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "木は脊高の梨の",
+      "furigana": "きはせだかのなしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "木で高く",
+      "furigana": "きでたかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "その柔らかな葉を",
+      "furigana": "そのやわらかなはを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "動かしてゐるのだ。",
+      "furigana": "うごかしているのだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "雲の",
-      "furigana": "くもの",
+      "clause_text": "雲のきれ間にせは",
+      "furigana": "くものきれかんにせは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "きれ間に",
-      "furigana": "きれかん",
+      "clause_text": "しく青く",
+      "furigana": "しくあおく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "せは",
-      "furigana": "は",
+      "clause_text": "またたくや",
+      "furigana": "またたく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "しく青くまたたくやつは",
-      "furigana": "しくあおくまたたくやつは",
+      "clause_text": "つはそれも何だか",
+      "furigana": "はそれもなんだか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "それも何だかわからない。",
-      "furigana": "それもなんだかわからない。",
+      "clause_text": "わからない。",
+      "furigana": "わからない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どうしたかな。",
-      "furigana": "どうしたかな。",
+      "clause_text": "どう",
+      "furigana": "どう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "したか",
+      "furigana": "したか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "な。",
+      "furigana": "な。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "八時頃から",
-      "furigana": "はちじころから",
+      "clause_text": "八時頃からどこでも",
+      "furigana": "はちじころからどこでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どこで",
-      "furigana": "どこで",
+      "clause_text": "みんな戸を",
+      "furigana": "みんなとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "閉めて通りを",
+      "furigana": "しめてとおりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "みんな戸を",
-      "furigana": "みんなとを",
+      "clause_text": "一人も",
+      "furigana": "ひとりも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "閉めて通りを一人も歩かない。",
-      "furigana": "しめてとおりをひとりもあるかない。",
+      "clause_text": "歩かない。",
+      "furigana": "あるかない。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

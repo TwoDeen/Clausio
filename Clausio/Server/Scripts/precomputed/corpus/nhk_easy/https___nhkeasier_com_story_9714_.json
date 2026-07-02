@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "作っている6つの",
-      "furigana": "つくっているむっつの",
+      "clause_text": "作っている",
+      "furigana": "つくっている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "大きい会社についてのニュースです。",
-      "furigana": "おおきいかいしゃについてのニュースです。",
+      "clause_text": "6つの大きい",
+      "furigana": "むっつのおおきい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "会社についての",
+      "furigana": "かいしゃについての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ニュースです。",
+      "furigana": "ニュースです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "公正取引委員会は",
-      "furigana": "こうせいとりひきいいんかいは",
+      "clause_text": "公正取引委員会は、",
+      "furigana": "こうせいとりひきいいんかいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "6つの会社が",
+      "furigana": "むっつのかいしゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "6つの",
-      "furigana": "むっつの",
+      "clause_text": "アイスクリームの値段を相談",
+      "furigana": "アイスクリームのねだんをそうだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "会社がアイスクリームの",
-      "furigana": "かいしゃがアイスクリームの",
+      "clause_text": "して決めていたと",
+      "furigana": "してきめていたと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "値段を相談して決めていたと考えています。",
-      "furigana": "ねだんをそうだんしてきめていたとかんがえています。",
+      "clause_text": "考えています。",
+      "furigana": "かんがえています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "法律に違反して、競争をしないで決めていた疑いがあります。",
-      "furigana": "ほうりつにいはんして、きょうそうをしないできめていたうたがいがあります。",
+      "clause_text": "法律に違反して、",
+      "furigana": "ほうりつにいはんして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "競争を",
+      "furigana": "きょうそうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しないで決めていた",
+      "furigana": "しないできめていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "疑いが",
+      "furigana": "うたがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "このため、",
+      "furigana": "このため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ため、",
-      "furigana": "ため、",
+      "clause_text": "16日から",
+      "furigana": "1むっにちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "16日から",
-      "furigana": "1むっにちから",
+      "clause_text": "厳しい",
+      "furigana": "きびしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "厳しいチェックを始めました。",
-      "furigana": "きびしいチェックをはじめました。",
+      "clause_text": "チェックを",
+      "furigana": "チェックを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "始めました。",
+      "furigana": "はじめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "6つの",
-      "furigana": "むっつの",
+      "clause_text": "6つの会社は、",
+      "furigana": "むっつのかいしゃは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "会社は",
-      "furigana": "かいしゃは",
+      "clause_text": "毎年1回か2回、",
+      "furigana": "まいとし1かいか2かい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、毎年1回か2回、",
-      "furigana": "、まいとし1かいか2かい、",
+      "clause_text": "アイスクリームの",
+      "furigana": "アイスクリームの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "アイスクリームの",
-      "furigana": "アイスクリームの",
+      "clause_text": "値段を5%から10%ぐらい",
+      "furigana": "ねだんを5%から10%ぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "値段を5%から10%ぐらい上げてきました。",
-      "furigana": "ねだんを5%から10%ぐらいあげてきました。",
+      "clause_text": "上げてきました。",
+      "furigana": "あげてきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

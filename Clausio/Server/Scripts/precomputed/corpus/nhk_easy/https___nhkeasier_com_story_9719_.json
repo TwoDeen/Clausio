@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、昔、忍者が住んでいました。",
-      "furigana": "、むかし、にんじゃがすんでいました。",
+      "clause_text": "昔、",
+      "furigana": "むかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "忍者が",
+      "furigana": "にんじゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "住んでいました。",
+      "furigana": "すんでいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "このまちで、",
+      "furigana": "このまちで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "まちで",
-      "furigana": "まちで",
+      "clause_text": "忍者に",
+      "furigana": "にんじゃに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "ついての",
+      "furigana": "ついての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "忍者に",
-      "furigana": "にんじゃに",
+      "clause_text": "試験が",
+      "furigana": "しけんが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ついての試験がありました。",
-      "furigana": "ついてのしけんがありました。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "76歳まで",
-      "furigana": "76さいまで",
+      "clause_text": "76歳までの",
+      "furigana": "76さいまでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "130",
+      "furigana": "130",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "130人ぐらいが、集まりました。",
-      "furigana": "130ひとぐらいが、あつまりました。",
+      "clause_text": "人ぐらいが、",
+      "furigana": "ひとぐらいが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "集まりました。",
+      "furigana": "あつまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほと",
-      "furigana": "ほと",
+      "clause_text": "ほとんどの",
+      "furigana": "ほとんどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "んどの",
-      "furigana": "んどの",
+      "clause_text": "人が",
+      "furigana": "ひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人が",
-      "furigana": "ひとが",
+      "clause_text": "忍者の",
+      "furigana": "にんじゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "忍者の",
-      "furigana": "にんじゃの",
+      "clause_text": "服を",
+      "furigana": "ふくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "服を着ていました。",
-      "furigana": "ふくをきていました。",
+      "clause_text": "着ていました。",
+      "furigana": "きていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "点が",
-      "furigana": "てんが",
+      "clause_text": "点がも",
+      "furigana": "てんがも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "らえる",
+      "furigana": "らえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "らえるためです。",
-      "furigana": "らえるためです。",
+      "clause_text": "ためで",
+      "furigana": "ためで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "す。",
+      "furigana": "す。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

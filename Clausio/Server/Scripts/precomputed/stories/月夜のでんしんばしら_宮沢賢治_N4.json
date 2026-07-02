@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "恭一は",
-      "furigana": "きょういちは",
+      "clause_text": "恭一はざうりをはいて、",
+      "furigana": "きょういちはざうりをはいて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ざうりを",
-      "furigana": "ざうりを",
+      "clause_text": "すたすた鉄道線路の",
+      "furigana": "すたすたてつどうせんろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "はいて、すたすた鉄道線路の",
-      "furigana": "はいて、すたすたてつどうせんろの",
+      "clause_text": "横の平らなところを",
+      "furigana": "よこのたいらなところを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "横の平らなところをあるいて居りました。",
-      "furigana": "よこのたいらなところをあるいておりました。",
+      "clause_text": "あるいて居りました。",
+      "furigana": "あるいておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "罰金です。",
-      "furigana": "ばっきんです。",
+      "clause_text": "罰金で",
+      "furigana": "ばっきん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "す。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "おまけに",
-      "furigana": "おまけに",
+      "clause_text": "おまけにもし汽車がきて、",
+      "furigana": "おまけにもしきしゃがきて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "もし汽車が",
-      "furigana": "もしきしゃが",
+      "clause_text": "窓から長い棒などが",
+      "furigana": "まどからながいぼうなどが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "きて、窓から長い棒などが",
-      "furigana": "きて、まどからながいぼうなどが",
+      "clause_text": "出てゐたら、",
+      "furigana": "でていたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "出てゐたら、一ぺんに",
-      "furigana": "でていたら、いちぺんに",
+      "clause_text": "一ぺんになぐり殺さ",
+      "furigana": "いちぺんになぐりころさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なぐり殺されてしまつたでせう。",
-      "furigana": "なぐりころされてしまつたでせう。",
+      "clause_text": "れてしまつたでせう。",
+      "furigana": "れてしまつたでせう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "ところがその晩は、",
+      "furigana": "ところがそのばんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ころが",
-      "furigana": "が",
+      "clause_text": "線路見まはりの工夫もこず、",
+      "furigana": "せんろみまはりのくふうもこず、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "その晩は",
-      "furigana": "そのばんは",
+      "clause_text": "窓から棒の出た",
+      "furigana": "まどからぼうのでた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、線路見まはりの工夫も",
-      "furigana": "、せんろみまはりのくふうも",
+      "clause_text": "汽車にもあひませ",
+      "furigana": "きしゃにもあひませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "こず、窓から棒の出た汽車にもあひませんでした。",
-      "furigana": "こず、まどからぼうのでたきしゃにもあひませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのかはり、",
+      "furigana": "そのかはり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "かは",
-      "furigana": "か",
+      "clause_text": "どうもじつに",
+      "furigana": "どうもじつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "り、どうも",
-      "furigana": "、どうも",
+      "clause_text": "変てこな",
+      "furigana": "へんてこな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "じつに",
-      "furigana": "じつに",
+      "clause_text": "ものを見た",
+      "furigana": "ものをみた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "変てこなものを見たのです。",
-      "furigana": "へんてこなものをみたのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

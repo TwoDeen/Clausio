@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の",
-      "furigana": "にっぽんの",
+      "clause_text": "外国に行く人は、",
+      "furigana": "がいこくにいくひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "時間で",
-      "furigana": "じかんで",
+      "clause_text": "日本を",
+      "furigana": "にっぽんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "15日の",
-      "furigana": "15にちの",
+      "clause_text": "出るときに",
+      "furigana": "でるときに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "朝、日本の",
-      "furigana": "あさ、にっぽんの",
+      "clause_text": "お金を",
+      "furigana": "おかねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "最初の試合が、アメリカでありました。",
-      "furigana": "さいしょのしあいが、アメリカでありました。",
+      "clause_text": "払います。",
+      "furigana": "はらいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "オランダと",
-      "furigana": "オランダと",
+      "clause_text": "そのお金",
+      "furigana": "そのおかね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "試合を",
-      "furigana": "しあいを",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "7月",
+      "furigana": "7がつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "1日から",
+      "furigana": "ついたちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "上がりました。",
+      "furigana": "あがりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "世界の",
-      "furigana": "せかいの",
+      "clause_text": "今までは1人",
+      "furigana": "いままではひとり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "サッカーの",
-      "furigana": "サッカーの",
+      "clause_text": "1000",
+      "furigana": "1000",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "中で、",
-      "furigana": "なかで、",
+      "clause_text": "円でしたが",
+      "furigana": "えんでしたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本は",
-      "furigana": "にっぽんは",
+      "clause_text": "3000円に",
+      "furigana": "3000えんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "18番目に強いです。",
-      "furigana": "18ばんめにつよいです。",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "オランダは8番で、とても強いです。",
-      "furigana": "オランダは8ばんで、とてもつよいです。",
+      "clause_text": "日本人も",
+      "furigana": "にっぽんじんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "外国人も",
+      "furigana": "がいこくじんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "払う",
+      "furigana": "はらう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "必要が",
+      "furigana": "ひつようが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "前半は",
-      "furigana": "ぜんはんは",
+      "clause_text": "飛行機",
+      "furigana": "ひこうき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "などの",
+      "furigana": "などの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本も",
-      "furigana": "にっぽんも",
+      "clause_text": "チケットを",
+      "furigana": "チケットを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "オランダも",
-      "furigana": "オランダも",
+      "clause_text": "買うときに",
+      "furigana": "かうときに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "点が取れませんでした。",
-      "furigana": "てんがとれませんでした。",
+      "clause_text": "払います。",
+      "furigana": "はらいます。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

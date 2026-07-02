@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "戦いが",
-      "furigana": "たたかいが",
+      "clause_text": "戦いが終わる",
+      "furigana": "たたかいがおわる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "終わるかもしれません。",
-      "furigana": "おわるかもしれません。",
+      "clause_text": "かもしれ",
+      "furigana": "かもしれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ません。",
+      "furigana": "ません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "トランプ大統領は",
-      "furigana": "トランプだいとうりょうは",
+      "clause_text": "トランプ大統領は14日、",
+      "furigana": "トランプだいとうりょうはじゅうよっか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "14日、",
-      "furigana": "じゅうよっか、",
+      "clause_text": "どうやって戦いを終わりにするか、",
+      "furigana": "どうやってたたかいをおわりにするか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうやって戦いを",
-      "furigana": "どうやってたたかいを",
+      "clause_text": "イランと同じ考えに",
+      "furigana": "イランとおなじかんがえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "終わりに",
-      "furigana": "おわりに",
+      "clause_text": "なったとSNSに",
+      "furigana": "なったとSNSに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "するか、イランと同じ考えになったとSNSに書きました。",
-      "furigana": "するか、イランとおなじかんがえになったとSNSにかきました。",
+      "clause_text": "書きました。",
+      "furigana": "かきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わりに",
-      "furigana": "おわりに",
+      "clause_text": "終わりにする方法を",
+      "furigana": "おわりにするほうほうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "する方法を",
-      "furigana": "するほうほうを",
+      "clause_text": "書いた書類に",
+      "furigana": "かいたしょるいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "書いた書類に",
-      "furigana": "かいたしょるいに",
+      "clause_text": "19日にサイン",
+      "furigana": "19にちにサイン",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "19日にサインする。",
-      "furigana": "19にちにサインする。",
+      "clause_text": "する。",
+      "furigana": "する。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ホルムズ海峡を船が通ることができるようになるだろうと書きました。",
-      "furigana": "ホルムズかいきょうをふねがとおることができるようになるだろうとかきました。",
+      "clause_text": "ホルムズ海峡を",
+      "furigana": "ホルムズかいきょうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "船が通ること",
+      "furigana": "ふねがとおること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ができるように",
+      "furigana": "ができるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なるだろうと",
+      "furigana": "なるだろうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "書きました。",
+      "furigana": "かきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「すべての戦いは止まる」",
-      "furigana": "「すべてのたたかいはとまる」",
+      "clause_text": "「すべての戦いは止まる」と",
+      "furigana": "「すべてのたたかいはとまる」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "発表",
+      "furigana": "はっぴょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "発表しました。",
-      "furigana": "はっぴょうしました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

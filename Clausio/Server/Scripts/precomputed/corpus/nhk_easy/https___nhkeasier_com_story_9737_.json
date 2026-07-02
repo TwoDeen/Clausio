@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん雨が降った所で、被害が出ています。",
-      "furigana": "たくさんあめがふったところで、ひがいがでています。",
+      "clause_text": "たくさん",
+      "furigana": "たくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "雨が降った",
+      "furigana": "あめがふった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "所で、",
+      "furigana": "ところで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "被害が",
+      "furigana": "ひがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "出ています。",
+      "furigana": "でています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "熊本県阿蘇市で",
-      "furigana": "くまもとけんあそしで",
+      "clause_text": "熊本県阿蘇市で、",
+      "furigana": "くまもとけんあそしで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、24日の朝、",
-      "furigana": "、にじゅうよっかのあさ、",
+      "clause_text": "24日の朝、",
+      "furigana": "にじゅうよっかのあさ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「自転車に乗った人が川に流された」",
-      "furigana": "「じてんしゃにのったひとがかわにながされた」",
+      "clause_text": "「自転車に乗った人が川に流された」と",
+      "furigana": "「じてんしゃにのったひとがかわにながされた」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "と警察に連絡が",
-      "furigana": "とけいさつにれんらくが",
+      "clause_text": "警察に連絡が",
+      "furigana": "けいさつにれんらくが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "警察によると、水が増えた川のそばで、流された女性が木につかまっていました。",
-      "furigana": "けいさつによると、みずがふえたかわのそばで、ながされたじょせいがきにつかまっていました。",
+      "clause_text": "警察によると、",
+      "furigana": "けいさつによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "水が増えた",
+      "furigana": "みずがふえた",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "川のそばで、",
+      "furigana": "かわのそばで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "流された女性が木に",
+      "furigana": "ながされたじょせいがきに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "つかまっていました。",
+      "furigana": "つかまっていました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "女性は",
-      "furigana": "じょせいは",
+      "clause_text": "女性は、",
+      "furigana": "じょせいは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "1",
+      "furigana": "1",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "1時間ぐらい後に",
-      "furigana": "1じかんぐらいあとに",
+      "clause_text": "時間ぐらい",
+      "furigana": "じかんぐらい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "助けられました。",
-      "furigana": "たすけられました。",
+      "clause_text": "後に助け",
+      "furigana": "あとにたすけ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "られました。",
+      "furigana": "られました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "鹿児島県薩摩川内市で",
-      "furigana": "かごしまけんさつませんだいしで",
+      "clause_text": "鹿児島県薩摩川内市では、",
+      "furigana": "かごしまけんさつませんだいしでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "24日午前9時までの1時間に、",
+      "furigana": "にじゅうよっかごぜん9じまでの1じかんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、24日午前9時まで",
-      "furigana": "、にじゅうよっかごぜん9じまで",
+      "clause_text": "108ミリの",
+      "furigana": "108ミリの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "の1時間に",
-      "furigana": "の1じかんに",
+      "clause_text": "とてもたくさんの雨が",
+      "furigana": "とてもたくさんのあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、108ミリのとてもたくさんの雨が降りました。",
-      "furigana": "、108ミリのとてもたくさんのあめがふりました。",
+      "clause_text": "降りました。",
+      "furigana": "ふりました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

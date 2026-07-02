@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "今は",
-      "furigana": "いまは",
+      "clause_text": "今は兎たちは、",
+      "furigana": "いまはうさぎたちは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "兎たちは",
-      "furigana": "うさぎたちは",
+      "clause_text": "みんな",
+      "furigana": "みんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、みんなみじかい茶色の着物です。",
-      "furigana": "、みんなみじかいちゃいろのきものです。",
+      "clause_text": "みじかい",
+      "furigana": "みじかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "茶色の",
+      "furigana": "ちゃいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "着物です。",
+      "furigana": "きものです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "野原の",
-      "furigana": "のはらの",
+      "clause_text": "野原の草はきらきら",
+      "furigana": "のはらのくさはきらきら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "草は",
-      "furigana": "くさは",
+      "clause_text": "光り、",
+      "furigana": "ひかり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きらきら光り、",
-      "furigana": "きらきらひかり、",
+      "clause_text": "あちこちの",
+      "furigana": "あちこちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あちこちの",
-      "furigana": "あちこちの",
+      "clause_text": "樺の木は白い花を",
+      "furigana": "かばのきはしろいはなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "樺の木は白い花をつけました。",
-      "furigana": "かばのきはしろいはなをつけました。",
+      "clause_text": "つけました。",
+      "furigana": "つけました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "実に",
-      "furigana": "じつに",
+      "clause_text": "実に野原は",
+      "furigana": "じつにのはらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "野原は",
-      "furigana": "のはらは",
+      "clause_text": "いいに",
+      "furigana": "いい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いいに",
-      "furigana": "いい",
+      "clause_text": "おいで",
+      "furigana": "で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "おいでいっぱいです。",
-      "furigana": "でいっぱいです。",
+      "clause_text": "いっぱいで",
+      "furigana": "いっぱい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "す。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "子兎のホモイは、悦んでぴんぴん踊りながら申しました。",
-      "furigana": "こうさぎのほもいは、よろこんでぴんぴんおどりながらもうしました。",
+      "clause_text": "子兎の",
+      "furigana": "こうさぎの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ホモイは、",
+      "furigana": "ほもいは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "悦んでぴんぴん",
+      "furigana": "よろこんでぴんぴん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "踊りながら",
+      "furigana": "おどりながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "申しました。",
+      "furigana": "もうしました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「ふん、",
-      "furigana": "きごうふん、",
+      "clause_text": "「",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いいに",
-      "furigana": "いい",
+      "clause_text": "ふん、",
+      "furigana": "ふん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "おいだなあ。",
-      "furigana": "だなあ。",
+      "clause_text": "いいに",
+      "furigana": "いい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "おいだ",
+      "furigana": "だ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なあ。",
+      "furigana": "なあ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

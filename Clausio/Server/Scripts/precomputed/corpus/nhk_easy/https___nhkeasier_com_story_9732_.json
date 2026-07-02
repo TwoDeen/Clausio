@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "気象庁に",
-      "furigana": "きしょうちょうに",
+      "clause_text": "気象庁によると、",
+      "furigana": "きしょうちょうによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "よると",
-      "furigana": "よると",
+      "clause_text": "九州や四国地方",
+      "furigana": "きゅうしゅうやしこくちほう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "などの西日本では",
+      "furigana": "などのにしにほんでは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "九州や四国地方などの",
-      "furigana": "きゅうしゅうやしこくちほうなどの",
+      "clause_text": "これから大雨になり",
+      "furigana": "これからおおあめになり",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "西日本ではこれから大雨になりそうです。",
-      "furigana": "にしにほんではこれからおおあめになりそうです。",
+      "clause_text": "そうです。",
+      "furigana": "そうです。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "特に長崎県や熊本県では、23日の夜遅くから24日の昼ごろまで、同じ場所で雨がたくさん降って急に危険になる心配があります。",
-      "furigana": "とくにながさきけんやくまもとけんでは、ふた3にちのよるおそくからにじゅうよっかのひるごろまで、おなじばしょであめがたくさんふってきゅうにきけんになるしんぱいがあります。",
+      "clause_text": "特に長崎県や熊本県では、",
+      "furigana": "とくにながさきけんやくまもとけんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "23日の夜遅くから24日の昼ごろまで、",
+      "furigana": "ふた3にちのよるおそくからにじゅうよっかのひるごろまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "同じ場所で雨がたくさん",
+      "furigana": "おなじばしょであめがたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "降って急に危険になる心配が",
+      "furigana": "ふってきゅうにきけんになるしんぱいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "山が",
-      "furigana": "やまが",
+      "clause_text": "山が崩れたり",
+      "furigana": "やまがくずれたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "崩れたり川の",
-      "furigana": "くずれたりかわの",
+      "clause_text": "川の水が",
+      "furigana": "かわのみずが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "水が",
-      "furigana": "みずが",
+      "clause_text": "増えたり",
+      "furigana": "ふえたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "増えたりするかもしれません。",
-      "furigana": "ふえたりするかもしれません。",
+      "clause_text": "するかも",
+      "furigana": "するかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しれません。",
+      "furigana": "しれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "つけて",
-      "furigana": "つけて",
+      "clause_text": "つけ",
+      "furigana": "つけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ください。",
-      "furigana": "ください。",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ください。",
+      "furigana": "ください。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本の",
-      "furigana": "にっぽんの",
+      "clause_text": "日本の南の海には台風7",
+      "furigana": "にっぽんのみなみのうみにはたいふうなな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "南の海に",
-      "furigana": "みなみのうみに",
+      "clause_text": "号と8号の2つの",
+      "furigana": "ごうと8ごうのふたつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "は台風7号と",
-      "furigana": "はたいふうななごうと",
+      "clause_text": "台風があって、",
+      "furigana": "たいふうがあって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "8号の2つの台風が",
-      "furigana": "8ごうのふたつのたいふうが",
+      "clause_text": "日本の近くに来るかも",
+      "furigana": "にっぽんのちかくにきるかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あって、日本の近くに来るかもしれません。",
-      "furigana": "あって、にっぽんのちかくにきるかもしれません。",
+      "clause_text": "しれません。",
+      "furigana": "しれません。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

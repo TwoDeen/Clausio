@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N3",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "交通機関の運賃の支払いなどを行うモバイルSuicaでけさからアプリでのチャージができなくなるなどのトラブルが起きていましたが、JR東日本は午後5時34分に復旧したと発表しました。",
-      "furigana": "交通機関の運賃の支払いなどを行うモバイルSuicaでけさからアプリでのチャージができなくなるなどのトラブルが起きていましたが、JR東日本は午後5時34分に復旧したと発表しました。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "警察によりますと、",
+      "furigana": "警察によりますと、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "2日午前5時半ごろ、",
+      "furigana": "2日午前5時半ごろ、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "大津市富士見台の住宅街近くの片側1車線の市道沿いで、",
+      "furigana": "大津市富士見台の住宅街近くの片側1車線の市道沿いで、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "およそ10メートルにわたって土砂崩れが発生して付近の道路をふさぎ、",
+      "furigana": "およそ10メートルにわたって土砂崩れが発生して付近の道路をふさぎ、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "通行できなくなっているということです。",
+      "furigana": "通行できなくなっているということです。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "長野東御母娘か2人死亡",
-      "furigana": "長野東御母娘か2人死亡",
+      "clause_text": "九州",
+      "furigana": "九州",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "長男切りつけた疑い父親を",
-      "furigana": "長男切りつけた疑い父親を",
+      "clause_text": "北部で線状降水帯",
+      "furigana": "北部で線状降水帯",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "逮捕。",
-      "furigana": "逮捕。",
+      "clause_text": "発生土砂",
+      "furigana": "発生土砂",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "崩れや氾濫の",
+      "furigana": "崩れや氾濫の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "発生も警戒を。",
+      "furigana": "発生も警戒を。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "名古屋郵便局で",
-      "furigana": "名古屋郵便局で",
+      "clause_text": "長野東御で母娘",
+      "furigana": "長野東御で母娘",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "“誤ってスプレー”病院に",
-      "furigana": "“誤ってスプレー”病院に",
+      "clause_text": "2人死亡長男",
+      "furigana": "2人死亡長男",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "5人搬送。",
-      "furigana": "5人搬送。",
+      "clause_text": "切りつけた",
+      "furigana": "切りつけた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "疑い46",
+      "furigana": "疑い46",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "歳の父親を逮捕。",
+      "furigana": "歳の父親を逮捕。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "高校生の",
-      "furigana": "高校生の",
+      "clause_text": "名古屋",
+      "furigana": "名古屋",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "就職活動が",
-      "furigana": "就職活動が",
+      "clause_text": "郵便局で“",
+      "furigana": "郵便局で“",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "事実上スタート“初任給30万円”企業も",
-      "furigana": "事実上スタート“初任給30万円”企業も",
+      "clause_text": "誤ってスプレー",
+      "furigana": "誤ってスプレー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "”病院に",
+      "furigana": "”病院に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "5人搬送。",
+      "furigana": "5人搬送。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "米大統領資産報告書",
-      "furigana": "米大統領資産報告書",
+      "clause_text": "浜岡原発データ",
+      "furigana": "浜岡原発データ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "公開“主要収益は",
-      "furigana": "公開“主要収益は",
+      "clause_text": "不正問題",
+      "furigana": "不正問題",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "暗号資産関連2300億円”。",
-      "furigana": "暗号資産関連2300億円”。",
+      "clause_text": "中部電力が",
+      "furigana": "中部電力が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "規制委指摘後も",
+      "furigana": "規制委指摘後も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "データ操作。",
+      "furigana": "データ操作。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

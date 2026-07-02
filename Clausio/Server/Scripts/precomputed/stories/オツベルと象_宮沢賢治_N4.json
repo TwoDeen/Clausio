@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "……ある牛飼いがものがたる第一日曜オツベルときたら大したもんだ。",
-      "furigana": "きごうきごうあるうしかいがものがたる\nだいいちにちよう\nおつべるときたらたいしたもん",
+      "clause_text": "……ある牛飼いが",
+      "furigana": "……あるうしかいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "だ",
+      "clause_text": "ものがたる第一日曜",
+      "furigana": "ものがたる\nだいいち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "オツベルときたら",
+      "furigana": "\nおつべるとき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "大したも",
+      "furigana": "たら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んだ。",
+      "furigana": "もん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "稲扱器械の",
-      "furigana": "いねこききかいの",
+      "clause_text": "稲扱器械の六台も",
+      "furigana": "いねこききかいのろくだいも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "六台も",
-      "furigana": "ろくだいも",
+      "clause_text": "据えつけて、の",
+      "furigana": "すえつけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "据えつけて、の",
-      "furigana": "すえつけて、",
+      "clause_text": "んのんのんのんのんのんと、",
+      "furigana": "のんのんのんのんのんと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "んのんのんのんの",
-      "furigana": "のんのんのん",
+      "clause_text": "大そろしない",
+      "furigana": "おおそろしない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "んのんと、大そろしない音をたててやっている。",
-      "furigana": "のんと、おおそろしないおとをたててやっている。",
+      "clause_text": "音をたててやっている。",
+      "furigana": "おとをたててやっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "十六人の",
-      "furigana": "じゅうろくにんの",
+      "clause_text": "十六人の百姓どもが、",
+      "furigana": "じゅうろくにんのひゃくしょうどもが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "百姓ども",
-      "furigana": "ひゃくしょうども",
+      "clause_text": "顔をまるっきりまっ赤に",
+      "furigana": "かおをまるっきりまっかに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "が、顔を",
-      "furigana": "が、かおを",
+      "clause_text": "して足で踏んで器械をまわし、",
+      "furigana": "してあしでふんできかいをまわし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まるっきりまっ赤にして足で踏んで器械を",
-      "furigana": "まるっきりまっかにしてあしでふんできかいを",
+      "clause_text": "小山のように積ま",
+      "furigana": "こやまのようにつま",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "まわし、小山のように積まれた稲を片っぱしから扱いて行く。",
-      "furigana": "まわし、こやまのようにつまれたいねをかたっぱしからしごいていく。",
+      "clause_text": "れた稲を片っぱしから扱いて行く。",
+      "furigana": "れたいねをかたっぱしからしごいていく。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "藁は",
-      "furigana": "わらは",
+      "clause_text": "藁はどんどん",
+      "furigana": "わらはどんどん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "どんどんうしろの",
-      "furigana": "どんどんうしろの",
+      "clause_text": "うしろの方へ投げ",
+      "furigana": "うしろのほうへなげ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "方へ",
-      "furigana": "ほうへ",
+      "clause_text": "られて、",
+      "furigana": "られて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "投げられて、また新らしい山に",
-      "furigana": "なげられて、またあたらしいやまに",
+      "clause_text": "また新らしい",
+      "furigana": "またあたらしい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "なる。",
-      "furigana": "なる。",
+      "clause_text": "山になる。",
+      "furigana": "やまになる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこらは",
-      "furigana": "そこらは",
+      "clause_text": "そこらは、",
+      "furigana": "そこらは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "籾や藁から発ったこまかな塵で、",
+      "furigana": "もみやわらからたったこまかなごみで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "籾や藁から",
-      "furigana": "もみやわらから",
+      "clause_text": "変にぼうっと黄いろになり、",
+      "furigana": "へんにぼうっときいろになり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "発ったこまかな塵で、変に",
-      "furigana": "たったこまかなごみで、へんに",
+      "clause_text": "まるで沙漠のけむりのよ",
+      "furigana": "まるでさばくのけむりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぼうっと黄いろになり、まるで沙漠のけむりのようだ。",
-      "furigana": "ぼうっときいろになり、まるでさばくのけむりのようだ。",
+      "clause_text": "うだ。",
+      "furigana": "だ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の円が、お金の市場でとても安くなっています。",
-      "furigana": "にっぽんのえんが、おかねのしじょうでとてもやすくなっています。",
+      "clause_text": "日本の円が、",
+      "furigana": "にっぽんのえんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "お金の",
+      "furigana": "おかねの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "市場でとても",
+      "furigana": "しじょうでとても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "安く",
+      "furigana": "やすく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京外国為替市場で",
-      "furigana": "とうきょうがいこくかわせしじょうで",
+      "clause_text": "東京外国為替市場で、",
+      "furigana": "とうきょうがいこくかわせしじょうで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "6月30日の午前、",
+      "furigana": "6がつ30にちのごぜん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "6月30日の",
-      "furigana": "6がつ30にちの",
+      "clause_text": "1ドルが",
+      "furigana": "1ドルが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "午前、1ドルが162円台になりました。",
-      "furigana": "ごぜん、1ドルが162えんだいになりました。",
+      "clause_text": "162円台に",
+      "furigana": "162えんだいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "前に",
-      "furigana": "まえに",
+      "clause_text": "前に162",
+      "furigana": "まえに162",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "162円台に",
-      "furigana": "162えんだいに",
+      "clause_text": "円台に",
+      "furigana": "えんだいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なったの",
-      "furigana": "なったの",
+      "clause_text": "なったのは",
+      "furigana": "なったのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "1986年12",
+      "furigana": "1986ねん12",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "1986年12月でした。",
-      "furigana": "1986ねん12がつでした。",
+      "clause_text": "月でした。",
+      "furigana": "がつでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのあと39年ずっと、",
+      "furigana": "そのあと39ねんずっと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "あと",
-      "furigana": "あと",
+      "clause_text": "円がこれほど",
+      "furigana": "えんがこれほど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "39年ずっと",
-      "furigana": "39ねんずっと",
+      "clause_text": "安くなった",
+      "furigana": "やすくなった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、円が",
-      "furigana": "、えんが",
+      "clause_text": "ことはありませ",
+      "furigana": "ことはありませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "これほど安くなったことはありませんでした。",
-      "furigana": "これほどやすくなったことはありませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "今年は",
-      "furigana": "ことしは",
+      "clause_text": "今年は、",
+      "furigana": "ことしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "アメリカなどと",
+      "furigana": "アメリカなどと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "アメリカなどと",
-      "furigana": "アメリカなどと",
+      "clause_text": "イランの戦いが起こって、",
+      "furigana": "イランのたたかいがおこって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "イランの戦いが",
-      "furigana": "イランのたたかいが",
+      "clause_text": "いろいろな物の値段が",
+      "furigana": "いろいろなもののねだんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "起こって、いろいろな物の値段が上がっています。",
-      "furigana": "おこって、いろいろなもののねだんがあがっています。",
+      "clause_text": "上がっています。",
+      "furigana": "あがっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

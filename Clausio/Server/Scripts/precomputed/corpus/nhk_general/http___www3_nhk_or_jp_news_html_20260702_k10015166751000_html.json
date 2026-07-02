@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。",
-      "furigana": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "ミュトス",
+      "furigana": "ミュトス",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "提供再開“",
+      "furigana": "提供再開“",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "情報収集",
+      "furigana": "情報収集",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "進める”国内",
+      "furigana": "進める”国内",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "金融機関。",
+      "furigana": "金融機関。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "中部電力の",
-      "furigana": "中部電力の",
+      "clause_text": "九州",
+      "furigana": "九州",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "株主総会会長・社長の",
-      "furigana": "株主総会会長・社長の",
+      "clause_text": "北部で線状降水帯",
+      "furigana": "北部で線状降水帯",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "取締役選任案が",
-      "furigana": "取締役選任案が",
+      "clause_text": "発生土砂",
+      "furigana": "発生土砂",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "可決。",
-      "furigana": "可決。",
+      "clause_text": "崩れや氾濫の",
+      "furigana": "崩れや氾濫の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "発生も警戒を。",
+      "furigana": "発生も警戒を。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "モバイルSuica",
-      "furigana": "モバイルSuica",
+      "clause_text": "アメリカと",
+      "furigana": "アメリカと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "トラブルから",
-      "furigana": "トラブルから",
+      "clause_text": "イラン双方の",
+      "furigana": "イラン双方の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "復旧モバイルPASMOも",
-      "furigana": "復旧モバイルPASMOも",
+      "clause_text": "担当者それぞれ",
+      "furigana": "担当者それぞれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "復旧。",
-      "furigana": "復旧。",
+      "clause_text": "仲介国カタールと",
+      "furigana": "仲介国カタールと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "協議。",
+      "furigana": "協議。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "長野東御母娘か2人死亡",
-      "furigana": "長野東御母娘か2人死亡",
+      "clause_text": "米大統領",
+      "furigana": "米大統領",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "長男切りつけた疑い父親を",
-      "furigana": "長男切りつけた疑い父親を",
+      "clause_text": "資産報告書",
+      "furigana": "資産報告書",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "逮捕。",
-      "furigana": "逮捕。",
+      "clause_text": "公開“主要収益は",
+      "furigana": "公開“主要収益は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "暗号資産関連",
+      "furigana": "暗号資産関連",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "2300億円”。",
+      "furigana": "2300億円”。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "名古屋郵便局で",
-      "furigana": "名古屋郵便局で",
+      "clause_text": "米中",
+      "furigana": "米中",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "“誤ってスプレー”病院に",
-      "furigana": "“誤ってスプレー”病院に",
+      "clause_text": "外相が",
+      "furigana": "外相が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "5人搬送。",
-      "furigana": "5人搬送。",
+      "clause_text": "電話会談",
+      "furigana": "電話会談",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "王毅外相",
+      "furigana": "王毅外相",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "「台湾問題は慎重に」。",
+      "furigana": "「台湾問題は慎重に」。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

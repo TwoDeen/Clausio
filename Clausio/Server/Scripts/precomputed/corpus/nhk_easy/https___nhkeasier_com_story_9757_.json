@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "1日朝、",
-      "furigana": "1日朝、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "富士山は、",
+      "furigana": "ふじさんは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "長野県東御市の",
-      "furigana": "長野県東御市の",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "7月1日から",
+      "furigana": "7がつついたちから",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "住宅でこの家に",
-      "furigana": "住宅でこの家に",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "いちばん",
+      "furigana": "いちばん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "住む親子とみられる女性と女の子の2人が",
-      "furigana": "住む親子とみられる女性と女の子の2人が",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "上まで登ること",
+      "furigana": "うえまでのぼること",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "死亡し、近くで、中学生の長男が刃物で切りつけられてけがをした状態で見つかりました。",
-      "furigana": "死亡し、近くで、中学生の長男が刃物で切りつけられてけがをした状態で見つかりました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "ができます。",
+      "furigana": "ができます。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "動画配信中の",
-      "furigana": "動画配信中の",
+      "clause_text": "登ること",
+      "furigana": "のぼること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "女性殺害事件被告は",
-      "furigana": "女性殺害事件被告は",
+      "clause_text": "ができるのは、",
+      "furigana": "ができるのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "初公判で",
-      "furigana": "初公判で",
+      "clause_text": "山梨県側と静岡県",
+      "furigana": "やまなしけんがわとしずおかけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "起訴内容認める。",
-      "furigana": "起訴内容認める。",
+      "clause_text": "側の2つの",
+      "furigana": "がわのふたつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "ルートです。",
+      "furigana": "ルートです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "名古屋郵便局で",
-      "furigana": "名古屋郵便局で",
+      "clause_text": "富士山には、",
+      "furigana": "ふじさんには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "“誤ってスプレー”病院に",
-      "furigana": "“誤ってスプレー”病院に",
+      "clause_text": "夜休まないで、",
+      "furigana": "よるやすまないで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "5人搬送。",
-      "furigana": "5人搬送。",
+      "clause_text": "ずっと",
+      "furigana": "ずっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "登る人が",
+      "furigana": "のぼるひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "モバイルSuica",
-      "furigana": "モバイルSuica",
+      "clause_text": "この登り方は危ないため、",
+      "furigana": "こののぼりかたはあぶないため、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "トラブルから",
-      "furigana": "トラブルから",
+      "clause_text": "山梨県は午後2時から",
+      "furigana": "やまなしけんはごごふたじから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "復旧モバイルPASMOも",
-      "furigana": "復旧モバイルPASMOも",
+      "clause_text": "朝3時まで、",
+      "furigana": "あさ3じまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "復旧。",
-      "furigana": "復旧。",
+      "clause_text": "5合目のゲートを",
+      "furigana": "5ごうめのゲートを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "閉めます。",
+      "furigana": "しめます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "“出国税”きょうから",
-      "furigana": "“出国税”きょうから",
+      "clause_text": "登る人は",
+      "furigana": "のぼるひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "引き上げ1人当たり1000円が",
-      "furigana": "引き上げ1人当たり1000円が",
+      "clause_text": "山梨県",
+      "furigana": "やまなしけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "3000円に",
-      "furigana": "3000円に",
+      "clause_text": "側で1日に",
+      "furigana": "がわでついたちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "4000人",
+      "furigana": "4000ひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "までです。",
+      "furigana": "までです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

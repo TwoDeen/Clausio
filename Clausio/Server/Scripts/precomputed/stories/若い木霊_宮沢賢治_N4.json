@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "〔冒頭原稿数枚",
-      "furigana": "きごうぼうとうげんこうすうまい",
+      "clause_text": "〔冒頭",
+      "furigana": "きごうぼうとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "なし〕「ふん。",
-      "furigana": "なしきごう\nきごうふん",
+      "clause_text": "原稿",
+      "furigana": "げんこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "数枚",
+      "furigana": "すうまい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なし〕",
+      "furigana": "なしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "「ふん。",
+      "furigana": "\n「ふん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ざわざわざわざわ云っていたの",
-      "furigana": "ざわざわざわざわいっていたの",
+      "clause_text": "ざわざわざわざわ",
+      "furigana": "ざわざわざわざわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、ほんの",
-      "furigana": "は、ほんの",
+      "clause_text": "云っていたのは、",
+      "furigana": "いっていたのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "昨日の",
-      "furigana": "きのうの",
+      "clause_text": "ほんの昨日のよ",
+      "furigana": "ほんのきのうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ようだったがなあ。",
-      "furigana": "ようだったがなあ。",
+      "clause_text": "うだったがなあ。",
+      "furigana": "だったがなあ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "潰されて",
-      "furigana": "つぶされて",
+      "clause_text": "潰さ",
+      "furigana": "つぶさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "しまったんだな。",
-      "furigana": "しまったんだな。",
+      "clause_text": "れてしまった",
+      "furigana": "れてしまった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んだ",
+      "furigana": "んだ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "な。",
+      "furigana": "な。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」それから",
+      "furigana": "」\nそれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "それから",
-      "furigana": "\nそれ",
+      "clause_text": "若い木霊は、",
+      "furigana": "わかいこだまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "若い木霊は",
-      "furigana": "わかいこだま",
+      "clause_text": "明るい枯草の",
+      "furigana": "、あかるいかれくさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、明るい枯草の",
-      "furigana": "は、あかるいかれくさ",
+      "clause_text": "丘の間を",
+      "furigana": "のおかのあいだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "丘の間を歩いて行きました。",
-      "furigana": "のおかのあいだをあるいていきました",
+      "clause_text": "歩いて行きました。",
+      "furigana": "をあるいていきました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "丘の",
-      "furigana": "おかの",
+      "clause_text": "丘の窪みや皺に、",
+      "furigana": "おかのくぼみやしわに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "窪みや皺に",
-      "furigana": "くぼみやしわに",
+      "clause_text": "一きれ二きれの",
+      "furigana": "いちきれにきれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、一きれ二きれの",
-      "furigana": "、いちきれにきれの",
+      "clause_text": "消え残りの雪が、",
+      "furigana": "きえのこりのゆきが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "消え残りの",
-      "furigana": "きえのこりの",
+      "clause_text": "まっしろに",
+      "furigana": "まっしろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "雪が、まっしろにかがやいて居ります。",
-      "furigana": "ゆきが、まっしろにかがやいております。",
+      "clause_text": "かがやいて居ります。",
+      "furigana": "かがやいております。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

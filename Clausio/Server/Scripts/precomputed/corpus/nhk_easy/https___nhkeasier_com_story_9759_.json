@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の",
-      "furigana": "にっぽんの",
+      "clause_text": "熊が",
+      "furigana": "くまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "H3ロケットの",
-      "furigana": "H3ロケットの",
+      "clause_text": "人を",
+      "furigana": "ひとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "打ち上げが成功しました。",
-      "furigana": "うちあげがせいこうしました。",
+      "clause_text": "襲う",
+      "furigana": "おそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "被害が",
+      "furigana": "ひがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "増えています。",
+      "furigana": "ふえています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "JAXAは",
-      "furigana": "JAXAは",
+      "clause_text": "環境省は、",
+      "furigana": "かんきょうしょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "12日、",
-      "furigana": "12にち、",
+      "clause_text": "東北地方の6つの県と",
+      "furigana": "とうほくちほうのむっつのけんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "H3ロケットを",
-      "furigana": "H3ロケットを",
+      "clause_text": "新潟県で、",
+      "furigana": "にいがたけんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "鹿児島県の種子島から打ち上げました。",
-      "furigana": "かごしまけんのたねがしまからうちあげました。",
+      "clause_text": "熊がどのくらいいるか新しいや",
+      "furigana": "くまがどのくらいいるかあたらしいや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "り方で調べます。",
+      "furigana": "りかたでしらべます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "山の中",
+      "furigana": "やまのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "あと",
-      "furigana": "あと",
+      "clause_text": "などに、",
+      "furigana": "などに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、ロケットは",
-      "furigana": "、ロケットは",
+      "clause_text": "熊が好きなは",
+      "furigana": "くまがすきなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "6つの",
-      "furigana": "むっつの",
+      "clause_text": "ちみつを",
+      "furigana": "ちみつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "人工衛星を軌道に入れました。",
-      "furigana": "じんこうえいせいをきどうにいれました。",
+      "clause_text": "置きます。",
+      "furigana": "おきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "H3ロケットは",
-      "furigana": "H3ロケットは",
+      "clause_text": "そして、",
+      "furigana": "そして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "近くの木に",
+      "furigana": "ちかくのきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "去年12月に",
-      "furigana": "きょねん12がつに",
+      "clause_text": "カメラを付けて、",
+      "furigana": "カメラをつけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "熊を",
+      "furigana": "くまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "打ち上げましたが、失敗しました。",
-      "furigana": "うちあげましたが、しっぱいしました。",
+      "clause_text": "写します。",
+      "furigana": "うつします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "JAXAは",
-      "furigana": "JAXAは",
+      "clause_text": "胸の模様が",
+      "furigana": "むねのもようが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "みんな違うので、",
+      "furigana": "みんなちがうので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "失敗の",
-      "furigana": "しっぱいの",
+      "clause_text": "熊がどのくらいいる",
+      "furigana": "くまがどのくらいいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "原因になった所を",
-      "furigana": "げんいんになったところを",
+      "clause_text": "かが",
+      "furigana": "かが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "直して、12日、打ち上げました。",
-      "furigana": "なおして、12にち、うちあげました。",
+      "clause_text": "わかります。",
+      "furigana": "わかります。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

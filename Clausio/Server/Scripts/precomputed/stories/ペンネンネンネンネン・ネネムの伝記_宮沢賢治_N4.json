@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ペンネンネンネンネン・ネネムの",
-      "furigana": "ぺんねんねんねんねん・ねねむの",
+      "clause_text": "ペンネンネンネンネン",
+      "furigana": "ぺんねんねんねんねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "独立〔冒頭原稿数枚焼失〕のでした。",
-      "furigana": "どくりつ\nきごうぼうとうげんこうすうまいしょうしつきごうのでした",
+      "clause_text": "・ネネムの独立〔冒頭原稿",
+      "furigana": "・ねねむのどくりつ\nきごうぼうとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "数枚焼失〕",
+      "furigana": "すうまいしょうしつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のでした。",
+      "furigana": "きごうのでした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "実際、東の",
-      "furigana": "じっさい、ひがしの",
+      "clause_text": "実際、",
+      "furigana": "じっさい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "そらは、お",
-      "furigana": "そらは、お",
+      "clause_text": "東のそらは、",
+      "furigana": "ひがしのそらは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「キレ」",
-      "furigana": "きごうきれきごう",
+      "clause_text": "お「キレ」さまの出る前に、",
+      "furigana": "お「きれ」さまのでるまえに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "さまの出る前に、琥珀色の",
-      "furigana": "さまのでるまえに、こはくしょくの",
+      "clause_text": "琥珀色のビールで一杯になる",
+      "furigana": "こはくしょくのびーるでいっぱいになる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ビールで一杯になるのでした。",
-      "furigana": "びーるでいっぱいになるのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ところが、そのまま夏になりましたが",
-      "furigana": "ところが、そのままなつになりましたが",
+      "clause_text": "ところが、",
+      "furigana": "ところが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、ばけものたちはみんな騒ぎはじめました。",
-      "furigana": "、ばけものたちはみんなさわぎはじめました。",
+      "clause_text": "そのまま夏になりましたが、",
+      "furigana": "そのままなつになりましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ばけものたちは",
+      "furigana": "ばけものたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "みんな騒ぎは",
+      "furigana": "みんなさわぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "じめました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのわけ〔十七字不明〕",
+      "furigana": "そのわけきごうじゅうななじふめいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "わけ〔十七字不明〕ばけも",
-      "furigana": "わけきごうじゅうななじふめいきごう",
+      "clause_text": "ばけもの麦も一向みのらず、",
+      "furigana": "ばけものむぎもいっこうみのらず、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "大〔六字不明〕が咲いただけで一",
+      "furigana": "だいきごうろくじふめいきごうがさいただけでひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "麦も一向みのらず、大〔六字不明〕が",
-      "furigana": "むぎもいっこうみのらず、だいきごうろくじふめいきごうが",
+      "clause_text": "つぶも実になりませ",
+      "furigana": "つぶもじつになりませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "咲いただけで一つぶも実になりませんでした。",
-      "furigana": "さいただけでひとつぶもじつになりませんでした。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "秋に",
-      "furigana": "あきに",
+      "clause_text": "秋になっても全くその通〔七字",
+      "furigana": "あきになってもまったくそのつうきごうななじ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "なっても",
-      "furigana": "なっても",
+      "clause_text": "不明〕栗の木さえ、ただ",
+      "furigana": "ふめいきごうくりのきさえ、ただ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "全くその",
-      "furigana": "まったくその",
+      "clause_text": "青いいがばかり、",
+      "furigana": "あおいいがばかり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "通〔七字不明〕栗の木さえ、ただ青いいが",
-      "furigana": "つうきごうななじふめいきごうくりのきさえ、ただあおいいが",
+      "clause_text": "〔八字不明〕飢饉に",
+      "furigana": "きごうはちじふめいきごうききんに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ばかり、〔八字不明〕飢饉になってしまいました。",
-      "furigana": "ばかり、きごうはちじふめいきごうききんになってしまいました。",
+      "clause_text": "なってしまいました。",
+      "furigana": "なってしまいました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -1,6 +1,10 @@
 from __future__ import annotations
 from id_utils import safe_id
 
+import faulthandler
+faulthandler.enable()
+faulthandler.dump_traceback_later(30, repeat=True)
+
 import argparse
 import glob
 import json

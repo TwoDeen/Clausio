@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ドツテテド、で",
-      "furigana": "どつててど、\n",
+      "clause_text": "ドツテテド、でんしんばしらのぐんたいははやさ",
+      "furigana": "どつててど、\nでんしんばしらのぐんたいは\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "んしんばしらのぐんたいははやさせかいに",
-      "furigana": "でんしんばしらのぐんたいは\nはやさ",
+      "clause_text": "せかいにたぐひなしドツテテドツテテ、",
+      "furigana": "させかいにたぐひなし\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "たぐひなしドツテテドツテテ、ドツテテドでんしんばしらの",
-      "furigana": "にたぐひなし\nどつててどつてて、どつててど\nでんしん",
+      "clause_text": "ドツテテドでんしんばしらのぐんたいはきり",
+      "furigana": "、どつててど\nでんしんばしらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぐんたいはきりつせかいにならびなし。",
-      "furigana": "ばしらのぐんたいは\nきりつせかいに",
+      "clause_text": "つせかいにならびなし。",
+      "furigana": "は\nきりつせかいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ドツテテド二本うで",
-      "furigana": "どつててど\nにぽん",
+      "clause_text": "ドツテテド二本うで木の工兵隊六本うで木の竜騎兵ドツテテドツテテ、",
+      "furigana": "どつててど\nにぽんうできのこうへいたい\nろくぽんうできのりゅうきへい\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "木の工兵隊六本うで",
-      "furigana": "きのこうへいたい\nろくぽん",
+      "clause_text": "ドツテテドいちれつ一万五千人は",
+      "furigana": "、どつててど\nいちれつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "木の竜騎兵ドツテテドツテテ、ドツテテドいちれつ一万五千人は",
-      "furigana": "うできのりゅうきへい\nどつててどつてて、どつててど\nいちれつ",
+      "clause_text": "りがねかたくむすびたりドツテテドツテテ、",
+      "furigana": "にん\nはりがねかたくむすびたり\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "りがねかたくむすびたりドツテテドツテテ、ドツテテドやりをかざれるとたん帽すねははしらのごとくなり。",
-      "furigana": "にん\nはりがねかたくむすびたり\nどつててどつてて、どつててど\nやりをかざれるとたんぼう\nすねは",
+      "clause_text": "ドツテテドやりをかざれるとたん帽すねははしらのごとくなり。",
+      "furigana": "、どつててど\nやりをかざれるとたんぼう\nすねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ドツテテド肩に",
-      "furigana": "どつててど\nかた",
+      "clause_text": "ドツテテド肩にかけたる",
+      "furigana": "どつててど\nかたにかけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "かけたるエボレツト重きつと",
-      "furigana": "にかけたるえぼれつと\nおもき",
+      "clause_text": "エボレツト",
+      "furigana": "えぼれつと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "めを",
-      "furigana": "めを",
+      "clause_text": "重きつとめを",
+      "furigana": "\nおもき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "寒さはだへをつんざくもなどて腕木を",
-      "furigana": "\nさむさはだへをつんざくも\nなどて",
+      "clause_text": "寒さはだへをつんざくもなどて腕木をおろす",
+      "furigana": "\nさむさはだへをつんざくも\nなどてうでぎを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "おろすべきドツテテドツテテ、ドツテテド暑さ硫黄を",
-      "furigana": "をおろすべき\nどつててどつてて、どつててど\nあつ",
+      "clause_text": "べきドツテテドツテテ、",
+      "furigana": "べき\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "とかすともいかでおとさんエボレツト。",
-      "furigana": "さいおうをとかすとも\nいかでおとさん",
+      "clause_text": "ドツテテド暑さ硫黄をとかすともいかでおとさんエボレツト。",
+      "furigana": "、どつててど\nあつさいおうをとかすとも\nいかでおとさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "右と",
-      "furigana": "\nみぎ",
+      "clause_text": "右とひだりの",
+      "furigana": "\nみぎとひだり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひだりのサアベルはたぐひも",
-      "furigana": "とひだりのさあべるは\nたぐ",
+      "clause_text": "サアベルはた",
+      "furigana": "のさあべるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あらぬ細身なり。",
-      "furigana": "ひもあらぬほそみ",
+      "clause_text": "ぐひもあらぬ細身なり。",
+      "furigana": "\nたぐひもあらぬほそみ",
       "sentence_individual_grammar_level": "N5"
     }
   ]

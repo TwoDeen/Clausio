@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "［表記に",
-      "furigana": "きごうひょうきに",
+      "clause_text": "［表記について］",
+      "furigana": "きごうひょうきについてきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついて］●底本に",
-      "furigana": "ついてきごう\nきごうていほん",
+      "clause_text": "●底本に従い、",
+      "furigana": "\nきごうていほんにしたがい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "従い、ルビは",
-      "furigana": "にしたがい、るび",
+      "clause_text": "ルビは小学校１・２年の学習",
+      "furigana": "、るびはしょうがっこういち・にねんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "小学校１・２年の",
-      "furigana": "はしょうがっこういち・にねん",
+      "clause_text": "配当漢字を除き、",
+      "furigana": "はいとうかんじをのぞき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "学習配当漢字を除き、すべての漢字につけた。",
-      "furigana": "のがくしゅうはいとうかんじをのぞき、すべてのかんじにつけた",
+      "clause_text": "すべての漢字につけた。",
+      "furigana": "、すべてのかんじにつけた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "本テキスト中で",
-      "furigana": "ほんてきすとちゅうで",
+      "clause_text": "本テキスト中では、",
+      "furigana": "ほんてきすとちゅうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "初出のみに",
+      "furigana": "しょしゅつのみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、初出のみに",
-      "furigana": "、しょしゅつのみに",
+      "clause_text": "つける方法と",
+      "furigana": "つけるほうほうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "つける方法とした。",
-      "furigana": "つけるほうほうとした。",
+      "clause_text": "した。",
+      "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "●ルビは「」の",
-      "furigana": "きごうるびはきごうきごうの",
+      "clause_text": "●",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "形式で",
-      "furigana": "けいしきで",
+      "clause_text": "ルビは",
+      "furigana": "るびは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "処理した。",
-      "furigana": "しょりした。",
+      "clause_text": "「」の",
+      "furigana": "「」の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "形式で処理",
+      "furigana": "けいしきでしょり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "した。",
+      "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "●ルビのない熟語（漢字）にルビの",
-      "furigana": "きごうるびのないじゅくごきごうかんじきごうにるびの",
+      "clause_text": "●ルビのない",
+      "furigana": "きごうるびのない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある熟語（漢字）が続く場合は、",
-      "furigana": "あるじゅくごきごうかんじきごうがつづくばあいは、",
+      "clause_text": "熟語（漢字）にルビのある",
+      "furigana": "じゅくごきごうかんじきごうにるびのある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「｜」",
-      "furigana": "きごうきごうきごう",
+      "clause_text": "熟語（漢字）が続く場合は、",
+      "furigana": "じゅくごきごうかんじきごうがつづくばあいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の区切り線を",
-      "furigana": "のくぎりせんを",
+      "clause_text": "「｜」の区切り線を",
+      "furigana": "「きごう」のくぎりせんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "●［※１〜６］は",
-      "furigana": "きごうきごうきごういちきごうろくきごうは",
+      "clause_text": "●［※１",
+      "furigana": "きごうきごうきごういち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "〜６］は、",
+      "furigana": "きごうろくきごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {

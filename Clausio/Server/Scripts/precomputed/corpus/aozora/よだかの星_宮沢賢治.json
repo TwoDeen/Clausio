@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "よだかは",
-      "furigana": "よだかは",
+      "clause_text": "よだか",
+      "furigana": "よだか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "みにくい鳥です。",
-      "furigana": "みにくいとりです。",
+      "clause_text": "みにくい",
+      "furigana": "みにくい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "鳥です。",
+      "furigana": "とりです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "顔は、ところどころ、味噌をつけたようにまだらで、くちばしは、ひらたくて、耳までさけています。",
-      "furigana": "かおは、ところどころ、みそをつけたようにまだらで、くちばしは、ひらたくて、みみまでさけています。",
+      "clause_text": "顔は、ところどころ、",
+      "furigana": "かおは、ところどころ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "味噌をつけたようにまだらで、",
+      "furigana": "みそをつけたようにまだらで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "くちばしは、",
+      "furigana": "くちばしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ひらたくて、",
+      "furigana": "ひらたくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "耳までさけています。",
+      "furigana": "みみまでさけています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "足は、まるでよぼよぼで、一間とも歩けません。",
-      "furigana": "あしは、まるでよぼよぼで、いちけんともあるけません。",
+      "clause_text": "足は、",
+      "furigana": "あしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "まるでよぼよぼで、",
+      "furigana": "まるでよぼよぼで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "一間とも",
+      "furigana": "いちけんとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "歩けませ",
+      "furigana": "あるけませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ん。",
+      "furigana": "ん。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほかの鳥は、もう、よだかの顔を見ただけでも、いやになってしまうという工合でした。",
-      "furigana": "ほかのとりは、もう、よだかのかおをみただけでも、いやになってしまうというぐあいでした。",
+      "clause_text": "ほかの鳥は、も",
+      "furigana": "ほかのとりは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "う、よだかの顔を",
+      "furigana": "、よだかのかおを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "見ただけでも、",
+      "furigana": "みただけでも、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "いやになってしまうという",
+      "furigana": "いやになってしまうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "工合でした。",
+      "furigana": "ぐあいでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たとえば、ひばりも、あまり美しい鳥ではありませんが、よだかよりは、ずっと上だと思っていましたので、夕方など、よだかにあうと、さもさもいやそうに、しんねりと目をつぶりながら、首をそっ方へ向けるのでした。",
-      "furigana": "たとえば、ひばりも、あまりうつくしいとりではありませんが、よだかよりは、ずっとうえだとおもっていましたので、ゆうがたなど、よだかにあうと、さもさもいやそうに、しんねりとめをつぶりながら、くびをそっほうへむけるのでした。",
+      "clause_text": "たとえば、ひばりも、あまり美しい鳥ではありませんが、よだかよりは、",
+      "furigana": "たとえば、ひばりも、あまりうつくしいとりではありませんが、よだかよりは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ずっと上だと思っていましたので、",
+      "furigana": "ずっとうえだとおもっていましたので、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "夕方など、よだかにあうと、さもさもいやそうに、",
+      "furigana": "ゆうがたなど、よだかにあうと、さもさもいやそうに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "しんねりと目をつぶりながら、",
+      "furigana": "しんねりとめをつぶりながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "首をそっ方へ向けるのでした。",
+      "furigana": "くびをそっほうへむけるのでした。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

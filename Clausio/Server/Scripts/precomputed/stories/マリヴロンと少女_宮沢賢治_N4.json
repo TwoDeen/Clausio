@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "城あとのおおばこの",
-      "furigana": "しろあとのおおばこの",
+      "clause_text": "城あとのおおばこの実は結び、",
+      "furigana": "しろあとのおおばこのじつはむすび、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "実は結び、赤つめ草の",
-      "furigana": "じつはむすび、あかつめくさの",
+      "clause_text": "赤つめ草の花は枯れて焦茶色になって、",
+      "furigana": "あかつめくさのはなはかれてこげちゃいろになって、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "花は枯れて焦茶色になって、畑の粟は刈りと",
-      "furigana": "はなはかれてこげちゃいろになって、はたけのあわは",
+      "clause_text": "畑の粟は刈りとられ、",
+      "furigana": "はたけのあわはかりとられ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "られ、畑のすみから一寸顔を出した野鼠は",
-      "furigana": "れ、はたけのすみからちょっとかおをだしたのねずみは",
+      "clause_text": "畑のすみから一寸顔を出した野鼠はびっくりしたように又",
+      "furigana": "はたけのすみからちょっとかおをだしたのねずみはびっくりしたようにまた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "びっくりしたように又急いで穴の中へひっこむ。",
-      "furigana": "びっくりしたようにまたいそいであなのなかへひっこむ。",
+      "clause_text": "急いで穴の中へひっこむ。",
+      "furigana": "いそいであなのなかへひっこむ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "崖やほりに",
-      "furigana": "がけやほりに",
+      "clause_text": "崖やほりには、",
+      "furigana": "がけやほりには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "まばゆい銀の",
+      "furigana": "まばゆいぎんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、まばゆい銀の",
-      "furigana": "、まばゆいぎんの",
+      "clause_text": "すすきの穂が、",
+      "furigana": "すすきのほが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "すすきの",
-      "furigana": "すすきの",
+      "clause_text": "いちめん風に",
+      "furigana": "いちめんふうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "穂が、いちめん風に波立っている。",
-      "furigana": "ほが、いちめんふうになみだっている。",
+      "clause_text": "波立っている。",
+      "furigana": "なみだっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その城あとのまん中の、",
+      "furigana": "そのしろあとのまんなかの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "城あと",
-      "furigana": "しろあと",
+      "clause_text": "小さな四っ角山の上に、",
+      "furigana": "ちいさなよんっつのやまのうえに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "のまん中の",
-      "furigana": "のまんなかの",
+      "clause_text": "めくらぶどうのやぶが",
+      "furigana": "めくらぶどうのやぶが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、小さな四っ角山の上に",
-      "furigana": "、ちいさなよんっつのやまのうえに",
+      "clause_text": "あってその実がすっかり",
+      "furigana": "あってそのじつがすっかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、めくらぶどうのやぶがあってその実がすっかり熟している。",
-      "furigana": "、めくらぶどうのやぶがあってそのじつがすっかりじゅくしている。",
+      "clause_text": "熟している。",
+      "furigana": "じゅくしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ひと",
-      "furigana": "ひと",
+      "clause_text": "ひとりの少女が",
+      "furigana": "ひとりのしょうじょが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "りの",
-      "furigana": "の",
+      "clause_text": "楽譜をも",
+      "furigana": "がくふを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "少女が楽譜を",
-      "furigana": "しょうじょががくふを",
+      "clause_text": "ってためいきしながら",
+      "furigana": "てためいきしながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "もってためいきしなが",
-      "furigana": "もってためいきし",
+      "clause_text": "藪のそばの",
+      "furigana": "やぶのそばの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ら藪のそばの草にすわる。",
-      "furigana": "やぶのそばのくさにすわる。",
+      "clause_text": "草にすわる。",
+      "furigana": "くさにすわる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "かすかなかすかな日照り雨が",
-      "furigana": "かすかなかすかなひでりあめが",
+      "clause_text": "かすかなかすかな",
+      "furigana": "かすかなかすかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "降って、",
-      "furigana": "ふって、",
+      "clause_text": "日照り雨が降って、",
+      "furigana": "ひでりあめがふって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "草は",
-      "furigana": "くさは",
+      "clause_text": "草はきらきら光り、",
+      "furigana": "くさはきらきらひかり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "きらきら光り、",
-      "furigana": "きらきらひかり、",
+      "clause_text": "向うの山は暗く",
+      "furigana": "むこうのやまはくらく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "向うの山は暗くなる。",
-      "furigana": "むこうのやまはくらくなる。",
+      "clause_text": "なる。",
+      "furigana": "なる。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

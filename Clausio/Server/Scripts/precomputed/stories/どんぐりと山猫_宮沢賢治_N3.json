@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "を",
-      "furigana": "を",
+      "clause_text": "をかしなはがきが、",
+      "furigana": "をかしなはがきが、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "かしなは",
-      "furigana": "かしなは",
+      "clause_text": "ある土曜日の",
+      "furigana": "あるどようびの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "がきが",
-      "furigana": "が",
+      "clause_text": "夕がた、",
+      "furigana": "ゆうがた、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "、ある土曜日の",
-      "furigana": "、あるどようびの",
+      "clause_text": "一郎の",
+      "furigana": "いちろうの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "夕がた、一郎のうちにきました。",
-      "furigana": "ゆうがた、いちろうのうちにきました。",
+      "clause_text": "うちにきました。",
+      "furigana": "うちにきました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "かねた一郎さま九",
-      "furigana": "かねたいちろうさま　",
+      "clause_text": "かねた一郎さま",
+      "furigana": "かねたいちろうさま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "月十九日あなたは",
-      "furigana": "きゅうがつじゅうきゅうにち\n",
+      "clause_text": "九月十九日あなたは、",
+      "furigana": "　きゅうがつじゅうきゅうにち\nあなた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、ごきげんよろしいほで、けつこです。",
-      "furigana": "は、ごきげんよろしいほで、けつこ",
+      "clause_text": "ごきげんよろしいほで、",
+      "furigana": "は、ごきげんよろしいほ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "け",
+      "furigana": "で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "つこです。",
+      "furigana": "、けつこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "めんどなさいばんしますから",
-      "furigana": "めんどなさいばんしますから",
+      "clause_text": "めんどなさいばん",
+      "furigana": "めんどなさいばん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "しますから、",
+      "furigana": "しますから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "おいで",
-      "furigana": "おいで",
+      "clause_text": "おいでん",
+      "furigana": "おいで\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "んなさい。",
-      "furigana": "\nんなさい",
+      "clause_text": "なさい。",
+      "furigana": "んなさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "とびど",
+      "furigana": "とびど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "びどぐ",
-      "furigana": "ど",
+      "clause_text": "ぐもた",
+      "furigana": "ぐもた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "も",
-      "furigana": "も",
+      "clause_text": "ないで",
+      "furigana": "ない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "たないで",
-      "furigana": "たない",
+      "clause_text": "く",
+      "furigana": "く",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,7 +230,7 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "くなさい。",
+      "clause_text": "なさい。",
       "furigana": "なさい。",
       "sentence_individual_grammar_level": "N5"
     },
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "山ねこ拝こんなのです。",
-      "furigana": "やまねこ　はい\nこんなの",
+      "clause_text": "山ねこ",
+      "furigana": "やまねこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "拝",
+      "furigana": "　",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "こんなので",
+      "furigana": "はい\nこんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "す。",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     }
   ]

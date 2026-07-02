@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "第一双の",
-      "furigana": "だいいちそうの",
+      "clause_text": "第一双の眼の",
+      "furigana": "だいいちそうのめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "眼の",
-      "furigana": "めの",
+      "clause_text": "所有者（",
+      "furigana": "しょゆうしゃ\n",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "所有者（むしゃくしゃ",
-      "furigana": "しょゆうしゃ\nきごう",
+      "clause_text": "むしゃくしゃ",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "した若い古物商。",
-      "furigana": "したわかいこぶつしょう",
+      "clause_text": "した若い",
+      "furigana": "した",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "古物商。",
+      "furigana": "こぶつしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "紋付と",
-      "furigana": "もんつきと",
+      "clause_text": "紋付と黄の",
+      "furigana": "もんつきときの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "黄の",
-      "furigana": "きの",
+      "clause_text": "風呂敷）",
+      "furigana": "ふろしききごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "風呂敷）第二双の",
-      "furigana": "ふろしききごう\nだいにそう",
+      "clause_text": "第二双の眼の",
+      "furigana": "\nだいにそうのめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "眼の",
-      "furigana": "のめ",
+      "clause_text": "所有者（",
+      "furigana": "のしょゆうしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "所有者（大学生。",
-      "furigana": "のしょゆうしゃ\nきごう",
+      "clause_text": "大学生。",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いらっしゃい、今日は",
-      "furigana": "、いらっしゃい、きょう",
+      "clause_text": "いらっしゃい、",
+      "furigana": "、いらっしゃい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "。",
-      "furigana": "は",
+      "clause_text": "今日は。",
+      "furigana": "、きょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "よいお天気でございます。",
-      "furigana": "よいおてんきでございます。",
+      "clause_text": "よい",
+      "furigana": "よい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "お",
+      "furigana": "お",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "天気で",
+      "furigana": "てんきで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ござい",
+      "furigana": "ござい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "）第二双の",
-      "furigana": "きごう\nだいにそう",
+      "clause_text": "）第二",
+      "furigana": "きごう\nだい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "眼（何を",
-      "furigana": "のめきごうなん",
+      "clause_text": "双の眼（",
+      "furigana": "にそうのめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "哂ってやがるんだ。",
-      "furigana": "を哂ってやがるんだ",
+      "clause_text": "何を哂",
+      "furigana": "きごうなんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "ってやがる",
+      "furigana": "哂って",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んだ。",
+      "furigana": "んだ",
       "sentence_individual_grammar_level": "N5"
     }
   ]

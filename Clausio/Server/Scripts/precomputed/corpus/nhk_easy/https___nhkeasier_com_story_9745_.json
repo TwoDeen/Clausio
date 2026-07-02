@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "災害が起こりそうなとき、どうしたらいいか、専門家に聞きました。",
-      "furigana": "さいがいがおこりそうなとき、どうしたらいいか、せんもんかにききました。",
+      "clause_text": "災害が起こりそう",
+      "furigana": "さいがいがおこりそう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なとき、",
+      "furigana": "なとき、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "どうしたらいいか、",
+      "furigana": "どうしたらいいか、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "専門家に",
+      "furigana": "せんもんかに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "聞きました。",
+      "furigana": "ききました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "静岡大学の牛山素行教授は",
-      "furigana": "しずおかだいがくのうしやまもとゆききょうじゅは",
+      "clause_text": "静岡大学の牛山素行教授は、",
+      "furigana": "しずおかだいがくのうしやまもとゆききょうじゅは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、気象庁のウェブサイトにある",
-      "furigana": "、きしょうちょうのウェブサイトにある",
+      "clause_text": "気象庁の",
+      "furigana": "きしょうちょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「時系列情報」",
-      "furigana": "「じけいれつじょうほう」",
+      "clause_text": "ウェブサイトにある",
+      "furigana": "ウェブサイトにある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "が役に立つと",
-      "furigana": "がやくにたつと",
+      "clause_text": "「時系列情報」が役に立つ",
+      "furigana": "「じけいれつじょうほう」がやくにたつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "言っています。",
-      "furigana": "いっています。",
+      "clause_text": "と言っています。",
+      "furigana": "といっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この情報は、",
+      "furigana": "このじょうほうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "情報は",
-      "furigana": "じょうほうは",
+      "clause_text": "雨や風などの",
+      "furigana": "あめやかぜなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、雨や風などの",
-      "furigana": "、あめやかぜなどの",
+      "clause_text": "危険がいつごろ",
+      "furigana": "きけんがいつごろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "危険が",
-      "furigana": "きけんが",
+      "clause_text": "高くなるか、",
+      "furigana": "たかくなるか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "いつごろ高くなるか、わかります。",
-      "furigana": "いつごろたかくなるか、わかります。",
+      "clause_text": "わかります。",
+      "furigana": "わかります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "危険が高くなる時間を、次の日まで、3時間ずつ分けて伝えています。",
-      "furigana": "きけんがたかくなるじかんを、つぎのひまで、3じかんずつわけてつたえています。",
+      "clause_text": "危険が高くなる",
+      "furigana": "きけんがたかくなる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "時間を、",
+      "furigana": "じかんを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "次の日まで、",
+      "furigana": "つぎのひまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "3時間ずつ",
+      "furigana": "3じかんずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "分けて伝えています。",
+      "furigana": "わけてつたえています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「この",
-      "furigana": "「この",
+      "clause_text": "「この情報を見て、",
+      "furigana": "「このじょうほうをみて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "情報を見て、予定を",
-      "furigana": "じょうほうをみて、よていを",
+      "clause_text": "予定を変えたり、",
+      "furigana": "よていをかえたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "変えたり、早く安全な所に",
-      "furigana": "かえたり、はやくあんぜんなところに",
+      "clause_text": "早く安全な所に行ったりする",
+      "furigana": "はやくあんぜんなところにいったりする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "行ったりすることを考えてください。",
-      "furigana": "いったりすることをかんがえてください。",
+      "clause_text": "ことを考えてください。",
+      "furigana": "ことをかんがえてください。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

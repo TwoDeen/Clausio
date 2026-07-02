@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "父赤い眼、",
-      "furigana": "ちちあかいめ、",
+      "clause_text": "父赤い",
+      "furigana": "ちちあかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ばくち。",
-      "furigana": "ばくち。",
+      "clause_text": "眼、",
+      "furigana": "め、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ばくち。",
+      "furigana": "ばくち。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ノルデは",
-      "furigana": "のるでは",
+      "clause_text": "ノルデはそれから",
+      "furigana": "のるではそれから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "それから",
-      "furigana": "それから",
+      "clause_text": "また十二年、",
+      "furigana": "またじゅうにねん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "また十二年、森の",
-      "furigana": "またじゅうにねん、もりの",
+      "clause_text": "森のなかで昆布とりを",
+      "furigana": "もりのなかでこんぬのとりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なかで昆布とりをした。",
-      "furigana": "なかでこんぬのとりをした。",
+      "clause_text": "した。",
+      "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ノルデは",
-      "furigana": "のるでは",
+      "clause_text": "ノルデは書記に",
+      "furigana": "のるではしょきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "書記になろうと",
-      "furigana": "しょきになろうと",
+      "clause_text": "なろうと",
+      "furigana": "なろうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "氷羊歯の",
-      "furigana": "こおりしだの",
+      "clause_text": "氷",
+      "furigana": "こおり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "汽車、",
-      "furigana": "きしゃ、",
+      "clause_text": "羊歯の",
+      "furigana": "しだの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "恋人、",
-      "furigana": "こいびと、",
+      "clause_text": "汽車、",
+      "furigana": "きしゃ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "アルネ。",
-      "furigana": "あるね。",
+      "clause_text": "恋人、",
+      "furigana": "こいびと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "アルネ。",
+      "furigana": "あるね。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

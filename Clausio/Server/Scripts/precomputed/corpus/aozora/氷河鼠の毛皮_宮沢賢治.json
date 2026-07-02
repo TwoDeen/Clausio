@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "このおはなしは、ずゐぶん北の方の寒いところからきれぎれに風に吹きとばされて来たのです。",
-      "furigana": "このおはなしは、ずいぶんきたのほうのさむいところからきれぎれにかぜにふきとばされてきたのです。",
+      "clause_text": "このおはなしは、",
+      "furigana": "このおはなしは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ずゐぶん北の方の寒い",
+      "furigana": "ずいぶんきたのほうのさむい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ところからきれぎれに",
+      "furigana": "ところからきれぎれに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "風に吹きとばされて来た",
+      "furigana": "かぜにふきとばされてきた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "氷が",
-      "furigana": "こおりが",
+      "clause_text": "氷がひとでや海月やさまざまの",
+      "furigana": "こおりがひとでやかいげつやさまざまの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひとで",
-      "furigana": "ひとで",
+      "clause_text": "お菓子の形を",
+      "furigana": "おかしのかたちを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "や海月やさまざまの",
-      "furigana": "やかいげつやさまざまの",
+      "clause_text": "してゐる位寒い北の",
+      "furigana": "しているくらいさむいきたの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "お菓子の形を",
-      "furigana": "おかしのかたちを",
+      "clause_text": "方から飛ばされてやつて来た",
+      "furigana": "ほうからとばされてやつてきた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "してゐる位寒い北の方から飛ばされてやつて来たのです。",
-      "furigana": "しているくらいさむいきたのほうからとばされてやつてきたのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "十二月の二十六日の",
-      "furigana": "じゅうにがつのにじゅうろくにちの",
+      "clause_text": "十二月の二十六日の夜八時",
+      "furigana": "じゅうにがつのにじゅうろくにちのよるはちじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "夜八時ベーリング行の",
-      "furigana": "よるはちじべーりんぐぎょうの",
+      "clause_text": "ベーリング行の列車に乗",
+      "furigana": "べーりんぐぎょうのれっしゃにのり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "列車に乗つてイーハトヴを",
-      "furigana": "れっしゃにのりつていーはとゔを",
+      "clause_text": "つてイーハトヴを発つた人たちが、",
+      "furigana": "つていーはとゔをたつたひとたちが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "発つた人たちが、どんな眼に",
-      "furigana": "たつたひとたちが、どんなめに",
+      "clause_text": "どんな眼にあつたかきつとどなたも",
+      "furigana": "どんなめにあつたかきつとどなたも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あつたかきつとどなたも知りたいでせう。",
-      "furigana": "あつたかきつとどなたもしりたいでせう。",
+      "clause_text": "知りたいでせう。",
+      "furigana": "しりたいでせう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なしです。",
-      "furigana": "です。",
+      "clause_text": "なしで",
+      "furigana": "なしで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "す。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "イーハトヴはひどい吹雪でした。",
-      "furigana": "はいーはとゔはひどいふぶきでした",
+      "clause_text": "イーハトヴは",
+      "furigana": "はいーはとゔ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "。",
+      "clause_text": "ひどい",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "吹雪でした。",
+      "furigana": "ふぶきでした",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "授業「ではみなさん、",
-      "furigana": "のじゅぎょう\nきごうではみな",
+      "clause_text": "授業「では",
+      "furigana": "のじゅぎょう\n「",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "さういふふうに",
-      "furigana": "、さういふ",
+      "clause_text": "みなさん、",
+      "furigana": "ではみな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "川だと云はれたり、乳の流れたあと",
-      "furigana": "にかわだといはれたり、ちちのながれた",
+      "clause_text": "さういふ",
+      "furigana": "、さう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だと云はれたりしてゐた、このぼんやりと白いものが何かご承知ですか。",
-      "furigana": "あとだといはれたりしていた、このぼんやりとしろいものがなんかごしょうちです",
+      "clause_text": "ふうに川だと",
+      "furigana": "いふふうにかわ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」先生は、",
+      "furigana": "」\nせんせいは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "先生は",
-      "furigana": "\nせんせい",
+      "clause_text": "黒板に吊した大きな黒い星座の圖の、",
+      "furigana": "、こくばんにつるしたおおきなくろいせいざのずの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、黒板に",
-      "furigana": "は、こくばん",
+      "clause_text": "上から下へ白くけぶつた銀河帶のやうなところを指しながら、",
+      "furigana": "、うえからしたへしろくけぶつたぎんが帶のやうなところをさしながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "吊した大きな黒い星座の圖の、上から下へ",
-      "furigana": "につるしたおおきなくろいせいざのずの、うえからした",
+      "clause_text": "みんなに問ひをか",
+      "furigana": "、みんなにとひを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "白くけぶつた銀河帶のやうなところを指しながら、みんなに問ひをかけました。",
-      "furigana": "へしろくけぶつたぎんが帶のやうなところをさしながら、みんなにとひをかけました",
+      "clause_text": "けました。",
+      "furigana": "かけました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "カムパネルラ",
-      "furigana": "かむぱねるら",
+      "clause_text": "カムパネルラが",
+      "furigana": "かむぱねるらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "が",
-      "furigana": "が",
+      "clause_text": "手を",
+      "furigana": "てを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "手をあげました。",
-      "furigana": "てをあげました。",
+      "clause_text": "あげ",
+      "furigana": "あげ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "四五人手を",
-      "furigana": "よんごにんしゅを",
+      "clause_text": "四五",
+      "furigana": "よんご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "あげました。",
-      "furigana": "あげました。",
+      "clause_text": "人",
+      "furigana": "にん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "手を",
+      "furigana": "しゅを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "あげました。",
+      "furigana": "あげました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "手を",
-      "furigana": "てを",
+      "clause_text": "手をあげようと",
+      "furigana": "てをあげようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "あげようと",
-      "furigana": "あげようと",
+      "clause_text": "して、",
+      "furigana": "して、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "して、急いでそのままやめました。",
-      "furigana": "して、いそいでそのままやめました。",
+      "clause_text": "急いでそのままや",
+      "furigana": "いそいでそのまま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "めました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "虔十は",
-      "furigana": "けんじゅうは",
+      "clause_text": "虔十はいつも繩の帯を",
+      "furigana": "けんじゅうはいつもなわのおびを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "しめてわらって杜の",
+      "furigana": "しめてわらってもりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "繩の帯を",
-      "furigana": "なわのおびを",
+      "clause_text": "中や畑の間をゆっくり",
+      "furigana": "なかやはたけのあいだをゆっくり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "しめてわらって杜の",
-      "furigana": "しめてわらってもりの",
+      "clause_text": "あるいてゐる",
+      "furigana": "あるいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "中や畑の間をゆっくりあるいてゐるのでした。",
-      "furigana": "なかやはたけのあいだをゆっくりあるいているのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "雨の中の",
-      "furigana": "あめのなかの",
+      "clause_text": "雨の中の青い藪を見てはよろこんで目を",
+      "furigana": "あめのなかのあおいやぶをみてはよろこんでめを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "青い藪を",
-      "furigana": "あおいやぶを",
+      "clause_text": "パチパチさせ青ぞらをどこまでも",
+      "furigana": "ぱちぱちさせあおぞらをどこまでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "見てはよろこんで",
-      "furigana": "みてはよろこんで",
+      "clause_text": "翔けて行く鷹を見付けては",
+      "furigana": "かけていくたかをみつけては",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "目をパチパチさせ青ぞらをどこまでも",
-      "furigana": "めをぱちぱちさせあおぞらをどこまでも",
+      "clause_text": "はねあがって手をたゝいてみんなに知ら",
+      "furigana": "はねあがっててをたのいてみんなにしら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "翔けて行く鷹を見付けてははねあがって手をたゝいてみんなに知らせました。",
-      "furigana": "かけていくたかをみつけてははねあがっててをたのいてみんなにしらせました。",
+      "clause_text": "せました。",
+      "furigana": "せました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれどもあんまり子供らが虔十をばかにして笑ふものですから虔十はだんだん笑はないふりをするやうになりました。",
-      "furigana": "けれどもあんまりこどもらがけんじゅうをばかにしてわらいふものですからけんじゅうはだんだんわらいはないふりをするやうになりました。",
+      "clause_text": "けれどもあんまり",
+      "furigana": "けれどもあんまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "子供らが虔十をばかに",
+      "furigana": "こどもらがけんじゅうをばかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "して笑ふものですから虔十はだんだん",
+      "furigana": "してわらいふものですからけんじゅうはだんだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "笑はないふりをするやうに",
+      "furigana": "わらいはないふりをするやうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "風がどうと",
-      "furigana": "かぜがどうと",
+      "clause_text": "風がどうと吹いてぶなの葉がチラチラ光るときなどは虔十はもう",
+      "furigana": "かぜがどうとふいてぶなのはがちらちらひかるときなどはけんじゅうはもう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "吹いてぶなの葉が",
-      "furigana": "ふいてぶなのはが",
+      "clause_text": "うれしくてうれしくてひとりでに笑へて仕方ないのを、",
+      "furigana": "うれしくてうれしくてひとりでにわらいへてしかたないのを、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "チラチラ光るときなどは虔十は",
-      "furigana": "ちらちらひかるときなどはけんじゅうは",
+      "clause_text": "無理やり大きく口をあき、はあはあ息だけ",
+      "furigana": "むりやりおおきくくちをあき、はあはあいきだけ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "もううれしくてうれしくてひとりでに笑へて仕方ないのを",
-      "furigana": "もううれしくてうれしくてひとりでにわらいへてしかたないのを",
+      "clause_text": "ついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立ってゐる",
+      "furigana": "ついてごまかしながらいつまでもいつまでもそのぶなのきをみあげてたっている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、無理やり大きく口をあき、はあはあ息だけついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立ってゐるのでした。",
-      "furigana": "、むりやりおおきくくちをあき、はあはあいきだけついてごまかしながらいつまでもいつまでもそのぶなのきをみあげてたっているのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "時に",
-      "furigana": "ときに",
+      "clause_text": "時にはその大きくあいた",
+      "furigana": "ときにはそのおおきくあいた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "はその",
-      "furigana": "はその",
+      "clause_text": "口の横わきをさも",
+      "furigana": "くちのよこわきをさも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "大きくあいた口の",
-      "furigana": "おおきくあいたくちの",
+      "clause_text": "痒いやうなふりを",
+      "furigana": "かゆいやうなふりを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "横わきをさも痒いやうなふりを",
-      "furigana": "よこわきをさもかゆいやうなふりを",
+      "clause_text": "して指でこすりながらはあはあ",
+      "furigana": "してゆびでこすりながらはあはあ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "して指でこすりながらはあはあ息だけで笑ひました。",
-      "furigana": "してゆびでこすりながらはあはあいきだけでわらいました。",
+      "clause_text": "息だけで笑ひました。",
+      "furigana": "いきだけでわらいました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

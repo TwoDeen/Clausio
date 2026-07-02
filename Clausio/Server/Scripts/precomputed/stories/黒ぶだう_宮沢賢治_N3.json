@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "仔牛が",
-      "furigana": "こうしが",
+      "clause_text": "仔牛が厭きて頭をぶらぶら",
+      "furigana": "こうしがあきてあたまをぶらぶら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "厭きて頭を",
-      "furigana": "あきてあたまを",
+      "clause_text": "振ってゐましたら",
+      "furigana": "ふっていましたら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぶらぶら振ってゐましたら向ふの",
-      "furigana": "ぶらぶらふっていましたらむこうの",
+      "clause_text": "向ふの丘の上を通りかかった",
+      "furigana": "むこうのおかのうえをとおりかかった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "丘の",
-      "furigana": "おかの",
+      "clause_text": "赤狐が風のやうに",
+      "furigana": "あかきつねがかぜのやうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "上を通りかかった赤狐が風のやうに走って来ました。",
-      "furigana": "うえをとおりかかったあかきつねがかぜのやうにはしってきました。",
+      "clause_text": "走って来ました。",
+      "furigana": "はしってきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「おい、",
-      "furigana": "きごうおい、",
+      "furigana": "「おい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "出ようぢゃ",
-      "furigana": "でようぢゃ",
+      "clause_text": "出よう",
+      "furigana": "でよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ないか。",
-      "furigana": "ないか。",
+      "clause_text": "ぢゃない",
+      "furigana": "ぢゃない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "僕が",
-      "furigana": "ぼくが",
+      "clause_text": "僕がこの柵を",
+      "furigana": "ぼくがこのさくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "持ちあげてゐるから",
+      "furigana": "もちあげているから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "柵を",
-      "furigana": "さくを",
+      "clause_text": "早く",
+      "furigana": "はやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "持ちあげてゐるから",
-      "furigana": "もちあげているから",
+      "clause_text": "くぐってお",
+      "furigana": "くぐってお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "早くくぐっておしまひ。",
-      "furigana": "はやくくぐっておしまひ。",
+      "clause_text": "しまひ。",
+      "furigana": "しまひ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」仔牛は",
-      "furigana": "きごう\nこうし",
+      "clause_text": "」仔牛は云はれた通りまづ前肢を",
+      "furigana": "」\nこうしはいはれたとおりまづまえあし",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "云は",
-      "furigana": "は",
+      "clause_text": "折って生え出したばかりの角を大事にく",
+      "furigana": "をおってはえだしたばかりのかどをだいじ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "れた通りまづ前肢を",
-      "furigana": "れたとおりまづまえあし",
+      "clause_text": "ぐしそれから後肢を",
+      "furigana": "ぐしそれからあとあし",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "折って生え出したばかりの角を",
-      "furigana": "をおってはえだしたばかりのかど",
+      "clause_text": "ちゞめて首尾よく柵を",
+      "furigana": "をちぢめてしゅびよくさく",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "大事にくぐしそれから後肢をちゞめて首尾よく柵を抜けました。",
-      "furigana": "をだいじにくぐしそれからあとあしをちぢめてしゅびよくさくをぬけました",
+      "clause_text": "抜けました。",
+      "furigana": "をぬけました",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "林の",
-      "furigana": "はやしの",
+      "clause_text": "林の方へ",
+      "furigana": "はやしのほうへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "方へ",
-      "furigana": "ほうへ",
+      "clause_text": "行き",
+      "furigana": "いき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

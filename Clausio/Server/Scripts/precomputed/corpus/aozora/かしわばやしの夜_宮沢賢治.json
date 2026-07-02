@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "日暮れだぞと",
-      "furigana": "ひぐれだぞと",
+      "clause_text": "日暮れだぞと云いながら、",
+      "furigana": "ひぐれだぞといいながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "云いなが",
-      "furigana": "いい",
+      "clause_text": "稗の根もとにせっせと土をか",
+      "furigana": "ひえのねもとにせっせとつちを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ら、稗の根もとにせっせと土をかけていました。",
-      "furigana": "、ひえのねもとにせっせとつちをかけていました。",
+      "clause_text": "けていました。",
+      "furigana": "ていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そのと",
-      "furigana": "その",
+      "clause_text": "そのときはもう、",
+      "furigana": "そのときはもう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "きはもう、",
-      "furigana": "はもう、",
+      "clause_text": "銅づくりのお日さまが、",
+      "furigana": "どうづくりのおひさまが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "銅づくりのお日さまが、南の",
-      "furigana": "どうづくりのおひさまが、みなみの",
+      "clause_text": "南の山裾の群青いろをしたとこに落ちて、",
+      "furigana": "みなみのやますそのぐんあおいろをしたとこにおちて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "山裾の群青いろをしたとこに落ちて、野は",
-      "furigana": "やますそのぐんあおいろをしたとこにおちて、",
+      "clause_text": "野はらはへんにさびしくなり、",
+      "furigana": "のはらはへんにさびしくなり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "らはへんにさびしくなり、白樺の幹などもなにか粉を噴いているようでした。",
-      "furigana": "はへんにさびしくなり、しらかばのみきなどもなにかこなをふいているようでした。",
+      "clause_text": "白樺の幹などもなにか粉を噴いているようでした。",
+      "furigana": "しらかばのみきなどもなにかこなをふいているようでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "向うの",
-      "furigana": "むこうの",
+      "clause_text": "向うの柏ばやしの方から、",
+      "furigana": "むこうのかしわばやしのほうから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "柏ばやしの",
-      "furigana": "かしわばやしの",
+      "clause_text": "まるで調子は",
+      "furigana": "まるでちょうし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "方から、まるで調子はずれの途方も",
-      "furigana": "ほうから、まるでちょうしはずれのとほうも",
+      "clause_text": "ずれの途方もない変な声で、",
+      "furigana": "のとほうもないへんなこえで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ない変な声で、「欝金しゃっぽのカンカラカンのカアン。",
-      "furigana": "ないへんなこえで、\nきごううこんしゃっぽのかんからかんのかあん",
+      "clause_text": "「欝金しゃっぽのカンカラカンのカアン。",
+      "furigana": "\n「うこんしゃっぽのかんからかんのかあん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "」とどなるのがきこえました。",
-      "furigana": "きごうとどなるのがきこえました。",
+      "clause_text": "」と",
+      "furigana": "」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ど",
+      "furigana": "ど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "なるのが",
+      "furigana": "のが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "きこえ",
+      "furigana": "きこえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "清作はびっくりして顔いろを変え、鍬をなげすてて、足音をたてないように、そっとそっちへ走って行きました。",
-      "furigana": "せいさくはびっくりしてかおいろをかえ、くわをなげすてて、あしおとをたてないように、そっとそっちへはしっていきました。",
+      "clause_text": "清作はびっくりして顔いろを変え、",
+      "furigana": "せいさくはびっくりしてかおいろをかえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "鍬をなげすてて、",
+      "furigana": "くわをなげすてて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "足音をたてないように、",
+      "furigana": "あしおとをたてないように、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "そっとそっちへ",
+      "furigana": "そっとそっちへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "走って行きました。",
+      "furigana": "はしっていきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

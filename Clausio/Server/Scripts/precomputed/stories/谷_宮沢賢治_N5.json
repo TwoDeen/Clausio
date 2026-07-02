@@ -21,7 +21,7 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "楢渡の",
+      "clause_text": "楢渡のと",
       "furigana": "ならわたりの",
       "sentence_individual_grammar_level": "N5"
     },
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "この",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "この",
-      "furigana": "の",
+      "clause_text": "崖は",
+      "furigana": "がけは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "崖は",
-      "furigana": "がけは",
+      "clause_text": "まっ赤で",
+      "furigana": "まっか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "まっ赤でした。",
-      "furigana": "まっかでした。",
+      "clause_text": "した。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "それに",
-      "furigana": "それに",
+      "clause_text": "それにひどく",
+      "furigana": "それにひどく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひどく深くて急で",
-      "furigana": "ひどくふかくてきゅう",
+      "clause_text": "深くて急でしたからの",
+      "furigana": "ふかくてきゅうでしたから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "したから",
-      "furigana": "たから",
+      "clause_text": "ぞいて見ると",
+      "furigana": "てみると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "全くくるくるする",
+      "furigana": "まったくくるくるする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ぞいて見ると全くくるくるするのでした。",
-      "furigana": "てみるとまったくくるくるするのでした。",
+      "clause_text": "のでした。",
+      "furigana": "のでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "谷底に",
-      "furigana": "たにそこに",
+      "clause_text": "谷底には水も",
+      "furigana": "たにそこにはみずも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "なんにもなくてただ",
+      "furigana": "なんにもなくてただ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "水もなんに",
-      "furigana": "みずもなんに",
+      "clause_text": "青い梢と白樺などの",
+      "furigana": "あおいこずえとしらかばなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "もなくてただ青い梢と",
-      "furigana": "もなくてただあおいこずえと",
+      "clause_text": "幹が短く",
+      "furigana": "みきがみじかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "白樺などの幹が短く見えるだけでした。",
-      "furigana": "しらかばなどのみきがみじかくみえるだけでした。",
+      "clause_text": "見えるだけでした。",
+      "furigana": "みえるだけでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "向う側も",
-      "furigana": "むこうがわも",
+      "clause_text": "向う側もやっぱり",
+      "furigana": "むこうがわもやっぱり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "やっぱりこっち側と",
-      "furigana": "やっぱりこっちがわと",
+      "clause_text": "こっち側と同じようでその",
+      "furigana": "こっちがわとおなじようでその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "同じようでその",
-      "furigana": "おなじようでその",
+      "clause_text": "毒々しく赤い崖には",
+      "furigana": "どくどくしくあかいがけには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "毒々しく赤い崖に",
-      "furigana": "どくどくしくあかいがけに",
+      "clause_text": "横に五本の灰いろの太い線が",
+      "furigana": "よこにごほんのはいいろのふといせんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "は横に五本の灰いろの太い線が入っていました。",
-      "furigana": "はよこにごほんのはいいろのふといせんがはいっていました。",
+      "clause_text": "入っていました。",
+      "furigana": "はいっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "なって赤い土から",
-      "furigana": "なってあかいつちから",
+      "clause_text": "なって赤い",
+      "furigana": "なってあかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "喰み出していたのです。",
-      "furigana": "はみだしていたのです。",
+      "clause_text": "土から喰み",
+      "furigana": "つちからはみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "出していた",
+      "furigana": "だしていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

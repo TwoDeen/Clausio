@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "うたは",
-      "furigana": "うたは",
+      "clause_text": "うたはもう青ぞらいっぱい、",
+      "furigana": "うたはもうあおぞらいっぱい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "もう青ぞらいっぱい、",
-      "furigana": "もうあおぞらいっぱい、",
+      "clause_text": "ひっきりなしに",
+      "furigana": "ひっきりなしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ひっきりなしに",
-      "furigana": "ひっきりなしに",
+      "clause_text": "ごうごうごうごう",
+      "furigana": "ごうごうごうごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ごうごうごうごう鳴っています。",
-      "furigana": "ごうごうごうごうなっています。",
+      "clause_text": "鳴っています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "わたしたちは",
-      "furigana": "わたしたちは",
+      "clause_text": "わたしたちは黄いろの",
+      "furigana": "わたしたちはきいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "黄いろの",
-      "furigana": "きいろの",
+      "clause_text": "実習服を着て、",
+      "furigana": "じっしゅうふくをきて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "実習服を",
-      "furigana": "じっしゅうふくを",
+      "clause_text": "くずれかかった",
+      "furigana": "くずれかかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "着て、くずれかかった煉瓦の肥溜のとこへあつまりました。",
-      "furigana": "きて、くずれかかったれんがのこえだめのとこへあつまりました。",
+      "clause_text": "煉瓦の肥溜のとこへ",
+      "furigana": "れんがのこえだめのとこへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "あつまりました。",
+      "furigana": "あつまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "冬中いつも",
-      "furigana": "ふゆちゅういつも",
+      "clause_text": "冬中いつも唇が青ざめて、がたがた",
+      "furigana": "ふゆちゅういつもくちびるがあおざめて、がたがた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "唇が",
-      "furigana": "くちびるが",
+      "clause_text": "ふるえていた阿部時夫などが、",
+      "furigana": "ふるえていたあべときおなどが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "青ざめて、がたが",
-      "furigana": "あおざめて、",
+      "clause_text": "今日はまるでいきいきした",
+      "furigana": "きょうはまるでいきいきした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "たふるえていた阿部時夫などが、今日は",
-      "furigana": "ふるえていたあべときおなどが、きょうは",
+      "clause_text": "顔いろになってにかにかにかにか",
+      "furigana": "かおいろになってにかにかにかにか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "まるでいきいきした顔いろになってにかにかにかにか笑っています。",
-      "furigana": "まるでいきいきしたかおいろになってにかにかにかにかわらっています。",
+      "clause_text": "笑っています。",
+      "furigana": "わらっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほんとうに阿部時夫なら、冬の間からだが悪かったのではなくて、シャツを一枚しかもっていなかったのです。",
-      "furigana": "ほんとうにあべときおなら、ふゆのあいだからだがわるかったのではなくて、しゃつをいちまいしかもっていなかったのです。",
+      "clause_text": "ほんとうに阿部時夫なら、",
+      "furigana": "ほんとうにあべときおなら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "冬の間からだが",
+      "furigana": "ふゆのあいだからだが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "悪かったのではなくて、",
+      "furigana": "わるかったのではなくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "シャツを一枚しかもっていなかった",
+      "furigana": "しゃつをいちまいしかもっていなかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それに",
-      "furigana": "それに",
+      "clause_text": "それにせいが高いので、",
+      "furigana": "それにせいがたかいので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "せいが",
-      "furigana": "せいが",
+      "clause_text": "教室でもいちばん",
+      "furigana": "きょうしつでもいちばん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "高いので、教室で",
-      "furigana": "たかいので、きょうしつで",
+      "clause_text": "火に遠いこわれた戸のすきまから風の",
+      "furigana": "ひにとおいこわれたとのすきまからかぜの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "もいちばん火に遠いこわれた戸の",
-      "furigana": "もいちばんひにとおいこわれたとの",
+      "clause_text": "ひゅうひゅう入って来る北東の隅だった",
+      "furigana": "ひゅうひゅうはいってくるほくとうのすみだった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "すきまから風のひゅうひゅう入って来る北東の隅だったのです。",
-      "furigana": "すきまからかぜのひゅうひゅうはいってくるほくとうのすみだったのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

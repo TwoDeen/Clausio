@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "（四月の",
-      "furigana": "きごうよんがつの",
+      "clause_text": "（四月の夜、とし老",
+      "furigana": "きごうよんがつのよる、としろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "夜、と",
-      "furigana": "よる、と",
+      "clause_text": "った猫が）友達のうちの",
+      "furigana": "ったねこがきごう\nともだちのうち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "し老った猫が）友達の",
-      "furigana": "しろうったねこがきごう\nともだち",
+      "clause_text": "あまり明るくない電燈の向ふにその",
+      "furigana": "のあまりあかるくないでんとうのむこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "うちのあまり明るくない電燈の",
-      "furigana": "のうちのあまりあかるくないでんとう",
+      "clause_text": "年老った猫がしづかに顔を",
+      "furigana": "としとったねこがしづかにかお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "向ふにその年老った猫がしづかに顔を出した。",
-      "furigana": "のむこうにそのとしとったねこがしづかにかおをだした",
+      "clause_text": "出した。",
+      "furigana": "をだした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "（アンデルゼンの",
-      "furigana": "きごうあんでるぜんの",
+      "clause_text": "（",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "猫を",
-      "furigana": "ねこを",
+      "clause_text": "アンデルゼンの",
+      "furigana": "あんでるぜんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "知ってゐますか。",
-      "furigana": "しっていますか。",
+      "clause_text": "猫を",
+      "furigana": "ねこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "知ってゐます",
+      "furigana": "しっています",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "暗闇で",
-      "furigana": "くらやみで",
+      "clause_text": "暗闇で毛を",
+      "furigana": "くらやみでけを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "毛を",
-      "furigana": "けを",
+      "clause_text": "逆立てゝパチパチ",
+      "furigana": "さかたてのぱちぱち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "逆立てゝパチパチ火花を",
-      "furigana": "さかたてのぱちぱちひばなを",
+      "clause_text": "火花を出す",
+      "furigana": "ひばなをだす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "出すアンデルゼンの",
-      "furigana": "だすあんでるぜんの",
+      "clause_text": "アンデルゼンの",
+      "furigana": "あんでるぜんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なめらかに",
-      "furigana": "になめらか",
+      "clause_text": "なめらかによ",
+      "furigana": "になめらかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "よるの",
-      "furigana": "による",
+      "clause_text": "るの気圏の",
+      "furigana": "よるのきけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "気圏の",
-      "furigana": "のきけん",
+      "clause_text": "底を猫が滑ってや",
+      "furigana": "のそこをねこがすべって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "底を猫が滑ってやって来る。",
-      "furigana": "のそこをねこがすべってやってくる",
+      "clause_text": "って来る。",
+      "furigana": "やってくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "（私は",
-      "furigana": "きごうわたくしは",
+      "clause_text": "（",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "猫は",
-      "furigana": "ねこは",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "大嫌ひです。",
-      "furigana": "だいきらいです。",
+      "clause_text": "猫は",
+      "furigana": "ねこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "大嫌ひで",
+      "furigana": "だいきらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "す。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

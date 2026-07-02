@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "普通中学校などに",
-      "furigana": "ふつうちゅうがっこうなどに",
+      "clause_text": "普通中学校などに備え付けてある顕微鏡は、",
+      "furigana": "ふつうちゅうがっこうなどにそなえつけてあるけんびきょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "備え付けてある顕微鏡は",
-      "furigana": "そなえつけてあるけんびきょうは",
+      "clause_text": "拡大度が六百倍乃至八百倍ぐらいまでですから、",
+      "furigana": "かくだいどがろくひゃくばいないしはちひゃくばいぐらいまでですから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、拡大度が",
-      "furigana": "、かくだいどが",
+      "clause_text": "蝶の翅の鱗片や馬鈴薯の澱粉粒などは",
+      "furigana": "ちょうのはねのりんぺんやばれいしょのでんぷんつぶなどは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "六百倍乃至八百倍ぐらいまでですから、蝶の翅の",
-      "furigana": "ろくひゃくばいないしはちひゃくばいぐらいまでですから、ちょうのはねの",
+      "clause_text": "実にはっきり見えますが、",
+      "furigana": "じつにはっきりみえますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "鱗片や馬鈴薯の澱粉粒などは実にはっきり見えますが、割合に小さな細菌などはよくわかりません。",
-      "furigana": "りんぺんやばれいしょのでんぷんつぶなどはじつにはっきりみえますが、わりあいにちいさなさいきんなどはよくわかりません。",
+      "clause_text": "割合に小さな細菌などはよくわかりません。",
+      "furigana": "わりあいにちいさなさいきんなどはよくわかりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "千倍ぐらいに",
-      "furigana": "せんばいぐらいに",
+      "clause_text": "千倍ぐらいになりますと、",
+      "furigana": "せんばいぐらいになりますと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりますと",
-      "furigana": "なりますと",
+      "clause_text": "下のレンズの直径が非常に小さくなり、",
+      "furigana": "したのれんずのちょっけいがひじょうにちいさくなり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、下のレンズの直径が",
-      "furigana": "、したのれんずのちょっけいが",
+      "clause_text": "従って視野に光があまりはいらなくなりますので、",
+      "furigana": "したがってしやにひかりがあまりはいらなくなりますので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "非常に小さくなり、従って視野に光があまりは",
-      "furigana": "ひじょうにちいさくなり、したがってしやにひかりがあまり",
+      "clause_text": "下のレンズを油に浸してなるべく多くの光を入れて物が見えるように",
+      "furigana": "したのれんずをあぶらにひたしてなるべくおおくのひかりをいれてものがみえるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "いらなくなりますので、下のレンズを油に浸してなるべく多くの光を入れて物が見えるようにします。",
-      "furigana": "なくなりますので、したのれんずをあぶらにひたしてなるべくおおくのひかりをいれてものがみえるようにします。",
+      "clause_text": "します。",
+      "furigana": "します。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "二千倍と",
-      "furigana": "にせんばいと",
+      "clause_text": "二千倍という顕微鏡は、",
+      "furigana": "にせんばいというけんびきょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "いう顕微鏡は",
-      "furigana": "いうけんびきょうは",
+      "clause_text": "数も少くまたこれを",
+      "furigana": "すうもすくなくまたこれを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、数も",
-      "furigana": "、すうも",
+      "clause_text": "調節すること",
+      "furigana": "ちょうせつすること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "少くまたこれを",
-      "furigana": "すくなくまたこれを",
+      "clause_text": "ができる人も幾人もない",
+      "furigana": "ができるひともいくにんもない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "調節することができる人も幾人もないそうです。",
-      "furigana": "ちょうせつすることができるひともいくにんもないそうです。",
+      "clause_text": "そうです。",
+      "furigana": "そうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "一番度の",
-      "furigana": "いちばんどの",
+      "clause_text": "一番度の高いものは",
+      "furigana": "いちばんどのたかいものは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "高いも",
-      "furigana": "たかい",
+      "clause_text": "二千二百五十倍或は",
+      "furigana": "にせんにひゃくごじゅうばいあるいわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "のは",
-      "furigana": "は",
+      "clause_text": "二千四百倍と",
+      "furigana": "にせんよんひゃくばいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "二千二百五十倍或は二千四百倍と云います。",
-      "furigana": "にせんにひゃくごじゅうばいあるいわにせんよんひゃくばいといいます。",
+      "clause_text": "云います。",
+      "furigana": "いいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その見得るはずの大さは、",
+      "furigana": "そのみえるはずのおおきさは、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "見得るは",
-      "furigana": "みえる",
+      "clause_text": "〇、",
+      "furigana": "\nきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ずの大さは",
-      "furigana": "のおおきさは",
+      "clause_text": "〇〇〇一四粍ですがこれは人によって見えたり",
+      "furigana": "、れいれいれいいちよんみりめーとる　　ですがこれはひとによって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、〇、〇〇〇一四粍ですが",
-      "furigana": "、\nきごう、れいれいれいいちよんみりめーとる　　",
+      "clause_text": "見えなかったりする",
+      "furigana": "たりみえなかっ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "これは人によって見えたり見えなかったりするのです。",
-      "furigana": "ですがこれはひとによってみえたりみえなかったりするの",
+      "clause_text": "のです。",
+      "furigana": "するの",
       "sentence_individual_grammar_level": "N3"
     }
   ]

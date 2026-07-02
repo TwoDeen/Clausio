@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ホルムズ海峡を",
-      "furigana": "ホルムズかいきょうを",
+      "clause_text": "ホルムズ",
+      "furigana": "ホルムズ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "船は",
-      "furigana": "ふねは",
+      "clause_text": "海峡を船は",
+      "furigana": "かいきょうをふねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いつから",
-      "furigana": "いつから",
+      "clause_text": "いつから通ること",
+      "furigana": "いつからとおること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "通ることが",
-      "furigana": "とおることが",
+      "clause_text": "ができるでしょう",
+      "furigana": "ができるでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "できるでしょうか。",
-      "furigana": "できるでしょうか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "イランの",
-      "furigana": "イランの",
+      "clause_text": "イランの通信社は、",
+      "furigana": "イランのつうしんしゃは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "通信社は",
-      "furigana": "つうしんしゃは",
+      "clause_text": "19日にアメリカと",
+      "furigana": "19にちにアメリカと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、19日に",
-      "furigana": "、19にちに",
+      "clause_text": "イランが書類に",
+      "furigana": "イランがしょるいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "アメリカとイランが",
-      "furigana": "アメリカとイランが",
+      "clause_text": "サインしたあとから",
+      "furigana": "サインしたあとから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "書類にサインしたあとからと言っています。",
-      "furigana": "しょるいにサインしたあとからといっています。",
+      "clause_text": "と言っています。",
+      "furigana": "といっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本の",
-      "furigana": "にっぽんの",
+      "clause_text": "日本の船の",
+      "furigana": "にっぽんのふねの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "船の",
-      "furigana": "ふねの",
+      "clause_text": "会社の協会によると、",
+      "furigana": "かいしゃのきょうかいによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "会社の協会に",
-      "furigana": "かいしゃのきょうかいに",
+      "clause_text": "ペルシャ湾には、",
+      "furigana": "ペルシャわんには、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "よると、ペルシャ湾には",
-      "furigana": "よると、ペルシャわんには",
+      "clause_text": "日本と関係がある38の船が",
+      "furigana": "にっぽんとかんけいがある38のふねが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、日本と関係がある38の船が残っています。",
-      "furigana": "、にっぽんとかんけいがある38のふねがのこっています。",
+      "clause_text": "残っています。",
+      "furigana": "のこっています。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "運ぶ船です。",
-      "furigana": "はこぶふねです。",
+      "clause_text": "運ぶ",
+      "furigana": "はこぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "船で",
+      "furigana": "ふねで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "す。",
+      "furigana": "す。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "船の",
-      "furigana": "ふねの",
+      "clause_text": "船の協会の人は「今の情報だけで、",
+      "furigana": "ふねのきょうかいのひとは「いまのじょうほうだけで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "協会の",
-      "furigana": "きょうかいの",
+      "clause_text": "ホルムズ海峡を通る",
+      "furigana": "ホルムズかいきょうをとおる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "人は",
-      "furigana": "ひとは",
+      "clause_text": "ことができるか、",
+      "furigana": "ことができるか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「今の情報だけで、ホルムズ海峡を",
-      "furigana": "「いまのじょうほうだけで、ホルムズかいきょうを",
+      "clause_text": "わから",
+      "furigana": "わから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "通ることができるか、わからない。",
-      "furigana": "とおることができるか、わからない。",
+      "clause_text": "ない。",
+      "furigana": "ない。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "去年、東京高田馬場の路上で動画配信中の22歳の女性を",
-      "furigana": "去年、東京高田馬場の路上で動画配信中の22歳の女性を",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "梅雨前線や低気圧の影響で九州",
+      "furigana": "梅雨前線や低気圧の影響で九州",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "殺害した罪に問われている44歳の被告の初公判が開かれ、被告は",
-      "furigana": "殺害した罪に問われている44歳の被告の初公判が開かれ、被告は",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "北部では2日未明から明け方にかけて、",
+      "furigana": "北部では2日未明から明け方にかけて、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「間違いありません」",
-      "furigana": "「間違いありません」",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "線状降水帯が相次いで発生するなど大雨となり、",
+      "furigana": "線状降水帯が相次いで発生するなど大雨となり、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "と述べて起訴された内容を",
-      "furigana": "と述べて起訴された内容を",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "土砂崩れや川の氾濫などの被害が",
+      "furigana": "土砂崩れや川の氾濫などの被害が",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "認めました。",
-      "furigana": "認めました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "出ています。",
+      "furigana": "出ています。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "野党が",
-      "furigana": "野党が",
+      "clause_text": "天気防災マップ",
+      "furigana": "天気防災マップ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "欠席する中で",
-      "furigana": "欠席する中で",
+      "clause_text": "ふだんの雨雲",
+      "furigana": "ふだんの雨雲",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "質疑定数削減法案と",
-      "furigana": "質疑定数削減法案と",
+      "clause_text": "予想から災害時の",
+      "furigana": "予想から災害時の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "「副首都」",
-      "furigana": "「副首都」",
+      "clause_text": "リスク情報",
+      "furigana": "リスク情報",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "構想法案。",
-      "furigana": "構想法案。",
+      "clause_text": "まで。",
+      "furigana": "まで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "鹿児島奄美地方が",
-      "furigana": "鹿児島奄美地方が",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "災害に",
+      "furigana": "災害に",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "梅雨明け西日本中心に",
-      "furigana": "梅雨明け西日本中心に",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "遭う",
+      "furigana": "遭う",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "2日に",
-      "furigana": "2日に",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "前に",
+      "furigana": "前に",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "かけ大雨おそれ。",
-      "furigana": "かけ大雨おそれ。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "ハザードマップで危険を",
+      "furigana": "ハザードマップで危険を",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "知る。",
+      "furigana": "知る。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日銀短観大企業の",
-      "furigana": "日銀短観大企業の",
+      "clause_text": "【最新の",
+      "furigana": "【最新の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "製造業の",
-      "furigana": "製造業の",
+      "clause_text": "避難情報】",
+      "furigana": "避難情報】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "景気判断示す指数5期連続の",
-      "furigana": "景気判断示す指数5期連続の",
+      "clause_text": "こちらから",
+      "furigana": "こちらから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "改善。",
-      "furigana": "改善。",
+      "clause_text": "地域別でご覧に",
+      "furigana": "地域別でご覧に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なれます。",
+      "furigana": "なれます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "1ドル＝162円台後半に",
-      "furigana": "1ドル＝162円台後半に",
+      "clause_text": "【最新の",
+      "furigana": "【最新の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "値下が",
-      "furigana": "値下が",
+      "clause_text": "河川情報】",
+      "furigana": "河川情報】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "り日米の",
-      "furigana": "り日米の",
+      "clause_text": "こちらから",
+      "furigana": "こちらから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "金利差拡大などで",
-      "furigana": "金利差拡大などで",
+      "clause_text": "一覧でご覧に",
+      "furigana": "一覧でご覧に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "。",
-      "furigana": "。",
+      "clause_text": "なれます。",
+      "furigana": "なれます。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

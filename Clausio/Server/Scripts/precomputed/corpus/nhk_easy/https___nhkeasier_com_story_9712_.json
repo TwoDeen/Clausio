@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日銀は",
-      "furigana": "にちぎんは",
+      "clause_text": "日銀は、",
+      "furigana": "にちぎんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、16日、",
-      "furigana": "、16にち、",
+      "clause_text": "16日、",
+      "furigana": "16にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "利子を",
-      "furigana": "りしを",
+      "clause_text": "利子を上げることを",
+      "furigana": "りしをあげることを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "上げることを決めました。",
-      "furigana": "あげることをきめました。",
+      "clause_text": "決めました。",
+      "furigana": "きめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "今まで",
-      "furigana": "いままで",
+      "clause_text": "今までの",
+      "furigana": "いままでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "0.75",
+      "furigana": "0.75",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "0.75%ぐらいから",
-      "furigana": "0.75%ぐらいから",
+      "clause_text": "%ぐらいから",
+      "furigana": "%ぐらいから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "1％ぐらいにします。",
-      "furigana": "1％ぐらいにします。",
+      "clause_text": "1％ぐらいに",
+      "furigana": "1％ぐらいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "します。",
+      "furigana": "します。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "同じぐらい高い利子に",
-      "furigana": "おなじぐらいたかいりしに",
+      "clause_text": "同じぐらい",
+      "furigana": "おなじぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なります。",
-      "furigana": "なります。",
+      "clause_text": "高い",
+      "furigana": "たかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "利子に",
+      "furigana": "りしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "なります。",
+      "furigana": "なります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "利子を",
-      "furigana": "りしを",
+      "clause_text": "利子を上げた理由について、",
+      "furigana": "りしをあげたりゆうについて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "上げた理由に",
-      "furigana": "あげたりゆうに",
+      "clause_text": "日銀は、",
+      "furigana": "にちぎんは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ついて、日銀は",
-      "furigana": "ついて、にちぎんは",
+      "clause_text": "物の値段が上がり",
+      "furigana": "もののねだんがあがり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、物の値段が",
-      "furigana": "、もののねだんが",
+      "clause_text": "すぎないようにするためだ",
+      "furigana": "すぎないようにするためだ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "上がりすぎないようにするためだと言っています。",
-      "furigana": "あがりすぎないようにするためだといっています。",
+      "clause_text": "と言っています。",
+      "furigana": "といっています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日銀は",
-      "furigana": "にちぎんは",
+      "clause_text": "日銀は「この",
+      "furigana": "にちぎんは「この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「この",
-      "furigana": "「この",
+      "clause_text": "あとも利子を",
+      "furigana": "あともりしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "あと",
-      "furigana": "あと",
+      "clause_text": "少しずつ",
+      "furigana": "すこしずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "も利子を",
-      "furigana": "もりしを",
+      "clause_text": "上げていき",
+      "furigana": "あげていき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "少しずつ上げていきたい。",
-      "furigana": "すこしずつあげていきたい。",
+      "clause_text": "たい。",
+      "furigana": "たい。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

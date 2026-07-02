@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "十日の月が西の煉瓦塀にかくれるまで、もう一時間しかありませんでした。",
-      "furigana": "とうかのつきがにしのれんがへいにかくれるまで、もういちじかんしかありませんでした。",
+      "clause_text": "十日の月が西の",
+      "furigana": "とうかのつきがにしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "煉瓦塀にか",
+      "furigana": "れんがへいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "くれるまで、も",
+      "furigana": "まで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "う一時間しかありませ",
+      "furigana": "いちじかんしかありませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その青じろい月の",
-      "furigana": "そのあおじろいつきの",
+      "clause_text": "その青じろい月の明りを浴びて、",
+      "furigana": "そのあおじろいつきのあかりをあびて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "明りを",
-      "furigana": "あかりを",
+      "clause_text": "獅子は檻のなかをのそのそあるいて居りましたが、",
+      "furigana": "ししはおりのなかをのそのそあるいておりましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "浴びて、獅子は檻のなかを",
-      "furigana": "あびて、ししはおりのなかを",
+      "clause_text": "ほかのけだものどもは、",
+      "furigana": "ほかのけだものどもは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "のそのそあるいて居りましたが、ほかのけだも",
-      "furigana": "のそのそあるいておりましたが、ほかの",
+      "clause_text": "頭をまげて前あしにのせたり、",
+      "furigana": "あたまをまげてまえあしにのせたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のどもは、頭をまげて前あしにのせたり、横にごろっとねころんだりしづかに睡ってゐました。",
-      "furigana": "どもは、あたまをまげてまえあしにのせたり、よこにごろっとねころんだりしづかにねむっていました。",
+      "clause_text": "横にごろっとねころんだりしづかに睡ってゐました。",
+      "furigana": "よこにごろっとねころんだりしづかにねむっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "夜中まで",
-      "furigana": "よなかまで",
+      "clause_text": "夜中まで檻の中をうろうろ",
+      "furigana": "よなかまでおりのなかをうろうろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "檻の",
-      "furigana": "おりの",
+      "clause_text": "うろうろしてゐた狐さへ、",
+      "furigana": "うろうろしていたきつねさへ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "中を",
-      "furigana": "なかを",
+      "clause_text": "をかしな顔をしてね",
+      "furigana": "をかしなかおをして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "うろうろうろうろしてゐた狐さへ",
-      "furigana": "うろうろうろうろしていたきつねさへ",
+      "clause_text": "むってゐるや",
+      "furigana": "ている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、をかしな顔をしてねむってゐるやうでした。",
-      "furigana": "、をかしなかおをしてねむっているやうでした。",
+      "clause_text": "うでした。",
+      "furigana": "でした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "獅子の",
-      "furigana": "ししの",
+      "clause_text": "獅子の檻のところに",
+      "furigana": "ししのおりのところに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "檻のと",
-      "furigana": "おりの",
+      "clause_text": "戻って来て前の",
+      "furigana": "もどってきてまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ころに",
-      "furigana": "に",
+      "clause_text": "ベンチに",
+      "furigana": "べんちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "戻って来て前のベンチにこしかけました。",
-      "furigana": "もどってきてまえのべんちにこしかけました。",
+      "clause_text": "こしかけました。",
+      "furigana": "こしかけました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "すると",
-      "furigana": "すると",
+      "clause_text": "するとそこらがぼうっと",
+      "furigana": "するとそこらがぼうっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこらが",
-      "furigana": "そこらが",
+      "clause_text": "けむりのやうになってわたくしも",
+      "furigana": "けむりのやうになってわたくしも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぼうっとけむりの",
-      "furigana": "ぼうっとけむりの",
+      "clause_text": "そのけむりだか",
+      "furigana": "そのけむりだか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "やうになってわたくしもその",
-      "furigana": "やうになってわたくしもその",
+      "clause_text": "月のあかりだかわからなく",
+      "furigana": "つきのあかりだかわからなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "けむりだか月のあかりだかわからなくなってしまひました。",
-      "furigana": "けむりだかつきのあかりだかわからなくなってしまひました。",
+      "clause_text": "なってしまひました。",
+      "furigana": "なってしまひました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

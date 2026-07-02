@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "こつこつと",
-      "furigana": "こつこつと",
+      "clause_text": "こつこつと扉を叩いた",
+      "furigana": "こつこつととびらをたたいた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "扉を叩いたの",
-      "furigana": "とびらをたたいたの",
+      "clause_text": "のでさっきから大礼服を着て二階の",
+      "furigana": "のでさっきからだいれいふくをきてにかいの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "でさっきから大礼服を",
-      "furigana": "でさっきからだいれいふくを",
+      "clause_text": "式場で学生たちの入ったり整列したり",
+      "furigana": "しきじょうでがくせいたちのはいったりせいれつしたり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "着て二階の式場で学生たちの入ったり整列したりする音を",
-      "furigana": "きてにかいのしきじょうでがくせいたちのはいったりせいれつしたりするおとを",
+      "clause_text": "する音を聞きながらストウヴの近くできうくつに",
+      "furigana": "するおとをききながらすとうゔのちかくできうくつに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "聞きながらストウヴの近くできうくつに待ってゐた校長は低くよしと答へた。",
-      "furigana": "ききながらすとうゔのちかくできうくつにまっていたこうちょうは　ひくく　よし　と",
+      "clause_text": "待ってゐた校長は低くよしと答へた。",
+      "furigana": "まっていたこうちょうは　ひくく　よし　と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "旗手が",
-      "furigana": "きしゅが",
+      "clause_text": "旗手が新らしい白い",
+      "furigana": "きしゅがあたらしいしろい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "新らしい白い手袋を",
-      "furigana": "あたらしいしろいてぶくろを",
+      "clause_text": "手袋をはめてそのあとから",
+      "furigana": "てぶくろをはめてそのあとから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "はめてその",
-      "furigana": "はめてその",
+      "clause_text": "剣をつけた鉄砲を",
+      "furigana": "けんをつけたてっぽうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あとから剣を",
-      "furigana": "あとからけんを",
+      "clause_text": "持って三人の級長がは",
+      "furigana": "もってさんにんのきゅうちょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "つけた鉄砲を持って三人の級長がはいって来た。",
-      "furigana": "つけたてっぽうをもってさんにんのきゅうちょうがはいってきた。",
+      "clause_text": "いって来た。",
+      "furigana": "てきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "校長は",
-      "furigana": "こうちょうは",
+      "clause_text": "校長は雪から",
+      "furigana": "こうちょうはゆきから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "雪から",
-      "furigana": "ゆきから",
+      "clause_text": "来る強い反射を",
+      "furigana": "くるつよいはんしゃを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "来る強い反射を",
-      "furigana": "くるつよいはんしゃを",
+      "clause_text": "透して鋭く",
+      "furigana": "とおしてするどく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "透して鋭くまっさきの",
-      "furigana": "とおしてするどくまっさきの",
+      "clause_text": "まっさきの",
+      "furigana": "まっさきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは",
-      "furigana": "それは",
+      "clause_text": "それは数週前いきなり掲示場には",
+      "furigana": "それはすうしゅうまえいきなりけいじじょうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "数週前いきなり掲示場に",
-      "furigana": "すうしゅうまえいきなりけいじじょうに",
+      "clause_text": "りつけられた〔〕われらはわれらの信ぜざることを",
+      "furigana": "られたきごうきごうわれらはわれらのしんぜざることを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "はりつけられた〔〕われらは",
-      "furigana": "はりつけられたきごうきごうわれらは",
+      "clause_text": "なさずといった風の宣言めいた",
+      "furigana": "なさず　といったかぜのせんげんめい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "われらの信ぜざることをなさずと",
-      "furigana": "われらのしんぜざることをなさず　",
+      "clause_text": "ものの〔〕十幾人かの",
+      "furigana": "たもののきごうきごうじゅういくにんか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "いった風の宣言めいたものの〔〕十幾人かの聯名のその最后に記された富沢であった。",
-      "furigana": "といったかぜのせんげんめいたもののきごうきごうじゅういくにんかの聯名のそのさいこうにしるされたとみざわであった",
+      "clause_text": "聯名のその最后に記された富沢であった。",
+      "furigana": "の聯名のそのさいこうにしるされたとみざわであった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それについてのごたごたや調査で校長はひどく頭を悩ました。",
-      "furigana": "それについてのごたごたやちょうさでこうちょうはひどくあたまをなやました。",
+      "clause_text": "それについての",
+      "furigana": "それについての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ごたごたや",
+      "furigana": "ごたごたや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "調査で校長は",
+      "furigana": "ちょうさでこうちょうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ひどく頭を",
+      "furigana": "ひどくあたまを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "悩ました。",
+      "furigana": "なやました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

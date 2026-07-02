@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "花巻温泉で",
-      "furigana": "はなまきおんせんで",
+      "clause_text": "花巻温泉で第",
+      "furigana": "はなまきおんせんでだい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "第十七回極東ビジテリアン大会が",
-      "furigana": "だいじゅうななかいきょくとうびじてりあんたいかいが",
+      "clause_text": "十七回極東",
+      "furigana": "じゅうななかいきょくとう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "行は",
-      "furigana": "おこなは",
+      "clause_text": "ビジテリアン",
+      "furigana": "びじてりあん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "れた。",
-      "furigana": "れた。",
+      "clause_text": "大会が行はれた。",
+      "furigana": "たいかいがおこなはれた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これは世界の",
-      "furigana": "これはせかいの",
+      "clause_text": "これは世界の食糧問題に対する相当の",
+      "furigana": "これはせかいのしょくりょうもんだいにたいするそうとうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "食糧問題に",
-      "furigana": "しょくりょうもんだいに",
+      "clause_text": "陰謀をも含むもので昔は極めて秘密に開催されたものである",
+      "furigana": "いんぼうをもふくむものでむかしはきわめてひみつにかいさいされたものである",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "対する相当の陰謀を",
-      "furigana": "たいするそうとうのいんぼうを",
+      "clause_text": "さうであるが今年は公開こそは",
+      "furigana": "さうであるがことしはこうかいこそは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "も含むもので昔は極めて秘密に開催されたも",
-      "furigana": "もふくむものでむかしはきわめてひみつにかいさいされた",
+      "clause_text": "しなかったが別にかくしもしなかったや",
+      "furigana": "しなかったがべつにかくしもしなかった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のであるさうであるが今年は公開こそはしなかったが別にかくしもしなかったやうだ。",
-      "furigana": "であるさうであるがことしはこうかいこそはしなかったがべつにかくしもしなかったやうだ。",
+      "clause_text": "うだ。",
+      "furigana": "だ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "たぶんそれは",
-      "furigana": "たぶんそれは",
+      "clause_text": "たぶんそれは世界革命の陰謀などに",
+      "furigana": "たぶんそれはせかいかくめいのいんぼうなどに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "世界革命の",
-      "furigana": "せかいかくめいの",
+      "clause_text": "くらべると余りこども",
+      "furigana": "くらべるとあまりこども",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "陰謀などに",
-      "furigana": "いんぼうなどに",
+      "clause_text": "じみたものなので誰もびっくり",
+      "furigana": "じみたものなのでだれもびっくり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "くらべると余りこどもじみたも",
-      "furigana": "くらべるとあまりこどもじみた",
+      "clause_text": "しないためであったら",
+      "furigana": "しないためであったら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のなので誰もびっくりしないためであったらうと思はれる。",
-      "furigana": "なのでだれもびっくりしないためであったらうとおもはれる。",
+      "clause_text": "うと思はれる。",
+      "furigana": "うとおもはれる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その代りその会合たるや",
+      "furigana": "そのかわりそのかいごうたるや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "代りその",
-      "furigana": "かわりその",
+      "clause_text": "極めて古典的で当時",
+      "furigana": "きわめてこてんてきでとうじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "会合たるや極めて古典的で当時温泉に",
-      "furigana": "かいごうたるやきわめてこてんてきでとうじおんせんに",
+      "clause_text": "温泉に浴してこれを",
+      "furigana": "おんせんによくしてこれを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "浴してこれを見聞した筆者の",
-      "furigana": "よくしてこれをけんぶんしたひっしゃの",
+      "clause_text": "見聞した筆者の無為を",
+      "furigana": "けんぶんしたひっしゃのむいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "無為を慰すること甚大であった。",
-      "furigana": "むいをいすることじんだいであった。",
+      "clause_text": "慰すること甚大であった。",
+      "furigana": "いすることじんだいであった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "元来ご承知のごと",
-      "furigana": "がんらいごしょうちの",
+      "clause_text": "元来ご承知のごとくビヂテリアンといふのは",
+      "furigana": "がんらいごしょうちのごとくびぢてりあんといふのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "くビヂテリアンといふのは動物質の",
-      "furigana": "びぢてりあんといふのはどうぶつしつの",
+      "clause_text": "動物質のものを食べないといふ考のものの団結であり、",
+      "furigana": "どうぶつしつのものをたべないといふかんがえのもののだんけつであり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものを食べないといふ考のものの団結であり、日本では",
-      "furigana": "ものをたべないといふかんがえのもののだんけつであり、にっぽんでは",
+      "clause_text": "日本では菜食主義者と訳するけれども主義者といふよりは、",
+      "furigana": "にっぽんではさいしょくしゅぎしゃとわけするけれどもしゅぎしゃといふよりは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "菜食主義者と訳するけれども主義者といふよりは",
-      "furigana": "さいしょくしゅぎしゃとわけするけれどもしゅぎしゃといふよりは",
+      "clause_text": "〔〕むしろ菜食信者といふ方",
+      "furigana": "きごうきごうむしろさいしょくしんじゃといふかた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、〔〕むしろ菜食信者といふ方が、よく実際に適ってゐるとも思はれる。",
-      "furigana": "、きごうきごうむしろさいしょくしんじゃといふかたが、よくじっさいにかなっているともおもはれる。",
+      "clause_text": "が、よく実際に適ってゐるとも思はれる。",
+      "furigana": "が、よくじっさいにかなっているともおもはれる。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "おれは",
-      "furigana": "おれは",
+      "clause_text": "おれはやっとの",
+      "furigana": "おれはやっとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "やっと",
-      "furigana": "やっと",
+      "clause_text": "ことで十",
+      "furigana": "ことでじゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "のこと",
-      "furigana": "のこと",
+      "clause_text": "階の床を",
+      "furigana": "かいのゆかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "で十階の",
-      "furigana": "でじゅうかいの",
+      "clause_text": "ふんで汗を",
+      "furigana": "ふんであせを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "床をふんで汗を拭った。",
-      "furigana": "ゆかをふんであせをぬぐった。",
+      "clause_text": "拭った。",
+      "furigana": "ぬぐった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なく高かった。",
-      "furigana": "なくたかかった。",
+      "clause_text": "なく",
+      "furigana": "なく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "高かった。",
+      "furigana": "たかかった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "全體その",
-      "furigana": "ぜんたいその",
+      "clause_text": "全體その天井や壁が灰色の",
+      "furigana": "ぜんたいそのてんじょうやかべがはいいろの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "天井や壁が",
-      "furigana": "てんじょうやかべが",
+      "clause_text": "陰影だけで出來てゐるのか、",
+      "furigana": "いんえいだけでできているのか、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "灰色の",
-      "furigana": "はいいろの",
+      "clause_text": "つめたい漆喰で固めあげ",
+      "furigana": "つめたいしっくいでかためあげ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "陰影だけで出來てゐるの",
-      "furigana": "いんえいだけでできているの",
+      "clause_text": "られてゐるのか",
+      "furigana": "られているのか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "か、つめたい漆喰で固めあげられてゐるのかわからなかった。",
-      "furigana": "か、つめたいしっくいでかためあげられているのかわからなかった。",
+      "clause_text": "わからなかった。",
+      "furigana": "わからなかった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この巨きな",
+      "furigana": "このおおきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "巨きな室に",
-      "furigana": "おおきなむろに",
+      "clause_text": "室に",
+      "furigana": "むろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ダルゲが居るんだ。",
-      "furigana": "だるげがいるんだ。",
+      "clause_text": "ダルゲが",
+      "furigana": "だるげが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "居る",
+      "furigana": "いる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んだ。",
+      "furigana": "んだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "こそ會へ",
-      "furigana": "こそかい",
+      "clause_text": "こそ",
+      "furigana": "こそ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "るんだ。",
-      "furigana": "んだ。",
+      "clause_text": "會へ",
+      "furigana": "かい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "る",
+      "furigana": "る",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "んだ。",
+      "furigana": "んだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "地震で",
-      "furigana": "じしんで",
+      "clause_text": "地震で、",
+      "furigana": "じしんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "けがを",
+      "furigana": "けがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "けが",
-      "furigana": "けが",
+      "clause_text": "した人が",
+      "furigana": "したひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をした人がいます。",
-      "furigana": "をしたひとがいます。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "岩手県の釜石市では、女性が家で転んで腕の骨を折るけがをしました。",
-      "furigana": "いわてけんのかまいししでは、じょせいがいえでころんでうでのほねをおるけがをしました。",
+      "clause_text": "岩手県の釜石市では、",
+      "furigana": "いわてけんのかまいししでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "女性が",
+      "furigana": "じょせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "家で転んで腕の",
+      "furigana": "いえでころんでうでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "骨を折るけがを",
+      "furigana": "ほねをおるけがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "青森県の",
-      "furigana": "あおもりけんの",
+      "clause_text": "青森県の階上町や",
+      "furigana": "あおもりけんのはしかみちょうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "階上町や八戸市で",
-      "furigana": "はしかみちょうやはちのへしで",
+      "clause_text": "八戸市では、",
+      "furigana": "はちのへしでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "逃げようと",
+      "furigana": "にげようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "逃げようと",
-      "furigana": "にげようと",
+      "clause_text": "して転んでけがをした人が",
+      "furigana": "してころんでけがをしたひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "して転んでけがをした人がいます。",
-      "furigana": "してころんでけがをしたひとがいます。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "八戸市で",
-      "furigana": "はちのへしで",
+      "clause_text": "八戸市では、",
+      "furigana": "はちのへしでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "家の周りの壁が",
+      "furigana": "いえのまわりのかべが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、家の",
-      "furigana": "、いえの",
+      "clause_text": "壊れたり、",
+      "furigana": "こわれたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "周りの壁が",
-      "furigana": "まわりのかべが",
+      "clause_text": "窓のガラスが割れたり",
+      "furigana": "まどのガラスがわれたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "壊れたり、窓のガラスが割れたりしました。",
-      "furigana": "こわれたり、まどのガラスがわれたりしました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "階上町で",
-      "furigana": "はしかみちょうで",
+      "clause_text": "階上町では、",
+      "furigana": "はしかみちょうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "学校の食事を",
+      "furigana": "がっこうのしょくじを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、学校の",
-      "furigana": "、がっこうの",
+      "clause_text": "作っている給食",
+      "furigana": "つくっているきゅうしょく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "食事を",
-      "furigana": "しょくじを",
+      "clause_text": "センターで水が使えなく",
+      "furigana": "センターでみずがつかえなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "作っている給食センターで水が使えなくなりました。",
-      "furigana": "つくっているきゅうしょくセンターでみずがつかえなくなりました。",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

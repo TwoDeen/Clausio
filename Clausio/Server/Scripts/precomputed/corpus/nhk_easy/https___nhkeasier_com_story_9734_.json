@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "直すと",
-      "furigana": "なおすと",
+      "clause_text": "直すとき、",
+      "furigana": "なおすとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "き、悪い会社を",
-      "furigana": "き、わるいかいしゃを",
+      "clause_text": "悪い会社を",
+      "furigana": "わるいかいしゃを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "国民生活センターに",
-      "furigana": "こくみんせいかつセンターに",
+      "clause_text": "国民生活センターによると、",
+      "furigana": "こくみんせいかつセンターによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "よると",
-      "furigana": "よると",
+      "clause_text": "最近、",
+      "furigana": "さいきん、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、最近、",
-      "furigana": "、さいきん、",
+      "clause_text": "インターネットで会社を",
+      "furigana": "インターネットでかいしゃを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "インターネットで会社を",
-      "furigana": "インターネットでかいしゃを",
+      "clause_text": "選んだ人からトラブルになったという相談が",
+      "furigana": "えらんだひとからトラブルになったというそうだんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "選んだ人からトラブルになったという相談が増えています。",
-      "furigana": "えらんだひとからトラブルになったというそうだんがふえています。",
+      "clause_text": "増えています。",
+      "furigana": "ふえています。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "40歳ぐらいの",
-      "furigana": "40さいぐらいの",
+      "clause_text": "40歳ぐらいの女性は、",
+      "furigana": "40さいぐらいのじょせいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "女性は",
-      "furigana": "じょせいは",
+      "clause_text": "インターネットに",
+      "furigana": "インターネットに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "出ていた会社にエアコンを",
+      "furigana": "でていたかいしゃにエアコンを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "インターネットに",
-      "furigana": "インターネットに",
+      "clause_text": "直してほしいと",
+      "furigana": "なおしてほしいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "出ていた会社にエアコンを直してほしいと頼みました。",
-      "furigana": "でていたかいしゃにエアコンをなおしてほしいとたのみました。",
+      "clause_text": "頼みました。",
+      "furigana": "たのみました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "会社",
-      "furigana": "かいしゃ",
+      "clause_text": "会社は「今なら",
+      "furigana": "かいしゃは「いまなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "値段は1500",
+      "furigana": "ねだんは1500",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「今なら値段は1500円からです」",
-      "furigana": "「いまならねだんは1500えんからです」",
+      "clause_text": "円からで",
+      "furigana": "えんからで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "す」と",
+      "furigana": "す」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "会社の",
-      "furigana": "かいしゃの",
+      "clause_text": "会社の人は",
+      "furigana": "かいしゃのひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "人は修理が",
-      "furigana": "ひとはしゅうりが",
+      "clause_text": "修理が終わると",
+      "furigana": "しゅうりがおわると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "終わると",
-      "furigana": "おわると",
+      "clause_text": "7万円払ってほしい",
+      "furigana": "7まんえんはらってほしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "7万円払ってほしいと言いました。",
-      "furigana": "7まんえんはらってほしいといいました。",
+      "clause_text": "と言いました。",
+      "furigana": "といいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

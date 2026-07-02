@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「父の日」です。",
-      "furigana": "「とうのにち」です。",
+      "clause_text": "「",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "父の日」で",
+      "furigana": "とうのにち」で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "す。",
+      "furigana": "す。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "18日、岩手県盛岡市の郵便局で、子どもたちがお父さんに手紙を出しました。",
-      "furigana": "18にち、いわてけんもりおかしのゆうびんきょくで、こどもたちがおとうさんにてがみをだしました。",
+      "clause_text": "18日、",
+      "furigana": "18にち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "岩手県盛岡市の郵便局で、",
+      "furigana": "いわてけんもりおかしのゆうびんきょくで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "子どもたちが",
+      "furigana": "こどもたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "お父さんに手紙を",
+      "furigana": "おとうさんにてがみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "出しました。",
+      "furigana": "だしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "英語を",
-      "furigana": "えいごを",
+      "clause_text": "英語を習っている",
+      "furigana": "えいごをならっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "習っている3歳から",
-      "furigana": "ならっている3さいから",
+      "clause_text": "3歳から6歳の子どもたちが、",
+      "furigana": "3さいから6さいのこどもたちが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "6歳の子ども",
-      "furigana": "6さいのこども",
+      "clause_text": "お父さんにありがとうの",
+      "furigana": "おとうさんにありがとうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "たちが、お父さんに",
-      "furigana": "たちが、おとうさんに",
+      "clause_text": "気持ちを伝える英語の歌を",
+      "furigana": "きもちをつたえるえいごのうたを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありがとうの気持ちを伝える英語の歌を歌いました。",
-      "furigana": "ありがとうのきもちをつたえるえいごのうたをうたいました。",
+      "clause_text": "歌いました。",
+      "furigana": "うたいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "自分たちで",
-      "furigana": "じぶんたちで",
+      "clause_text": "自分たちで切手を",
+      "furigana": "じぶんたちできってを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "切手を",
-      "furigana": "きってを",
+      "clause_text": "買って、",
+      "furigana": "かって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "買って、ポストに手紙を入れました。",
-      "furigana": "かって、ポストにてがみをはいれました。",
+      "clause_text": "ポストに手紙を",
+      "furigana": "ポストにてがみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "…",
+      "clause_text": "入れました。",
+      "furigana": "はいれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "手紙に",
-      "furigana": "てがみに",
+      "clause_text": "手紙には、",
+      "furigana": "てがみには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "お父さんと",
+      "furigana": "おとうさんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、お父さんと",
-      "furigana": "、おとうさんと",
+      "clause_text": "一緒に撮った",
+      "furigana": "いっしょにとった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "一緒に",
-      "furigana": "いっしょに",
+      "clause_text": "写真が",
+      "furigana": "しゃしんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "撮った写真が入っています。",
-      "furigana": "とったしゃしんがはいっています。",
+      "clause_text": "入っています。",
+      "furigana": "はいっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

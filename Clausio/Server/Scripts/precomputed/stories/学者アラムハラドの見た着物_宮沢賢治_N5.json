@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある年十一人の",
-      "furigana": "あるとしじゅういちにんの",
+      "clause_text": "ある年",
+      "furigana": "あるとし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "子を教えておりました。",
-      "furigana": "こをおしえておりました。",
+      "clause_text": "十一人の子を",
+      "furigana": "じゅういちにんのこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "教えておりました。",
+      "furigana": "おしえておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんな立派",
-      "furigana": "みんなりっぱ",
+      "clause_text": "みんな",
+      "furigana": "みんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "なうちの",
-      "furigana": "なうちの",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "子どもらばかりでした。",
-      "furigana": "こどもらばかりでした。",
+      "clause_text": "うちの",
+      "furigana": "うちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "子どもら",
+      "furigana": "こどもら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ばかりでした。",
+      "furigana": "ばかりでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "王さまの",
-      "furigana": "おうさまの",
+      "clause_text": "王さまのすぐ下の",
+      "furigana": "おうさまのすぐしたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すぐ下の",
-      "furigana": "すぐしたの",
+      "clause_text": "裁判官の子も",
+      "furigana": "さいばんかんのこも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "裁判官の",
-      "furigana": "さいばんかんの",
+      "clause_text": "ありましたし農商の",
+      "furigana": "ありましたしのうしょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "子も",
-      "furigana": "こも",
+      "clause_text": "大臣の子も",
+      "furigana": "だいじんのこも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありましたし農商の大臣の子も居ました。",
-      "furigana": "ありましたしのうしょうのだいじんのこもいました。",
+      "clause_text": "居ました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "土地から",
-      "furigana": "とちから",
+      "clause_text": "土地から十石の",
+      "furigana": "とちからじゅうこくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "十石の",
-      "furigana": "じゅうこくの",
+      "clause_text": "香油さえ穫る長者の",
+      "furigana": "こうゆさえかるちょうじゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "香油さえ穫る長者のいちばん目の子も居たのです。",
-      "furigana": "こうゆさえかるちょうじゃのいちばんめのこもいたのです。",
+      "clause_text": "いちばん目の子も居た",
+      "furigana": "いちばんめのこもいた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "けれども",
-      "furigana": "けれども",
+      "clause_text": "けれども学者の",
+      "furigana": "けれどもがくしゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "学者の",
-      "furigana": "がくしゃの",
+      "clause_text": "アラムハラドは",
+      "furigana": "あらむはらどは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "アラムハラドは",
-      "furigana": "あらむはらどは",
+      "clause_text": "小さなセララバアド",
+      "furigana": "ちいさなせららばあど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "小さなセララバアドという子がすきでした。",
-      "furigana": "ちいさなせららばあどというこがすきでした。",
+      "clause_text": "という子が",
+      "furigana": "というこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "すきでした。",
+      "furigana": "すきでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

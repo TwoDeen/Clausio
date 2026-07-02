@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "私は昨年九月四日、ニュウファウンドランド島の小さな山村、ヒルテイで行われた、ビジテリアン大祭に、日本の信者一同を代表して列席して参りました。",
-      "furigana": "わたくしはさくねんきゅうがつよんか、にゅうふぁうんどらんどとうのちいさなさんそん、ひるていでおこなわれた、びじてりあんたいさいに、にっぽんのしんじゃいちどうをだいひょうしてれっせきしてまいりました。",
+      "clause_text": "私は昨年九月四日、",
+      "furigana": "わたくしはさくねんきゅうがつよんか、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ニュウファウンドランド島の小さな山村、",
+      "furigana": "にゅうふぁうんどらんどとうのちいさなさんそん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ヒルテイで行われた、",
+      "furigana": "ひるていでおこなわれた、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "ビジテリアン大祭に、",
+      "furigana": "びじてりあんたいさいに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "…",
-      "furigana": "．",
+      "clause_text": "日本の信者一同を代表して列席して参りました。",
+      "furigana": "にっぽんのしんじゃいちどうをだいひょうしてれっせきしてまいりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "私たちビジテリアンと",
-      "furigana": "わたしたちびじてりあんと",
+      "clause_text": "私たちビジテリアンというのは、",
+      "furigana": "わたしたちびじてりあんというのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いうのは、ご存知の方も",
-      "furigana": "いうのは、ごぞんじのほうも",
+      "clause_text": "ご存知の方も多いでしょうが、",
+      "furigana": "ごぞんじのほうもおおいでしょうが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "多いでしょうが、実は動物質のものを食べないという考のものの",
-      "furigana": "おおいでしょうが、じつはどうぶつしつのものをたべないというかんがえのものの",
+      "clause_text": "実は動物質のものを食べないという考のものの団結でありまして、",
+      "furigana": "じつはどうぶつしつのものをたべないというかんがえのもののだんけつでありまして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "団結でありまして、日本では菜食主義者と訳しますが主義者というよりは、も少し意味の強いことが多いのであります。",
-      "furigana": "だんけつでありまして、にっぽんではさいしょくしゅぎしゃとやくしますがしゅぎしゃというよりは、もすこしいみのつよいことがおおいのであります。",
+      "clause_text": "日本では菜食主義者と訳しますが主義者というよりは、も少し意味の強いことが多いのであります。",
+      "furigana": "にっぽんではさいしょくしゅぎしゃとやくしますがしゅぎしゃというよりは、もすこしいみのつよいことがおおいのであります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "菜食信者と",
-      "furigana": "さいしょくしんじゃと",
+      "clause_text": "菜食信者と訳したら、",
+      "furigana": "さいしょくしんじゃとやくしたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "訳したら、",
-      "furigana": "やくしたら、",
+      "clause_text": "或は少し強すぎるかも知れませんが、",
+      "furigana": "あるいわすこしつよすぎるかもしれませんが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "或は",
-      "furigana": "あるいわ",
+      "clause_text": "主義者というより",
+      "furigana": "しゅぎしゃというより",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "少し強すぎるかも知れませんが",
-      "furigana": "すこしつよすぎるかもしれませんが",
+      "clause_text": "は、よく実際に適っていると",
+      "furigana": "は、よくじっさいにかなっていると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "、主義者というよりは、よく実際に適っていると思います。",
-      "furigana": "、しゅぎしゃというよりは、よくじっさいにかなっているとおもいます。",
+      "clause_text": "思います。",
+      "furigana": "おもいます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "もっとも",
-      "furigana": "もっとも",
+      "clause_text": "もっともその中にも",
+      "furigana": "もっともそのなかにも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "その中に",
-      "furigana": "そのなかに",
+      "clause_text": "いろいろ派がありますが、",
+      "furigana": "いろいろはがありますが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "もいろいろ派が",
-      "furigana": "もいろいろはが",
+      "clause_text": "まあその精神について大きくわけますと、",
+      "furigana": "まあそのせいしんについておおきくわけますと、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ありますが、まあその精神に",
-      "furigana": "ありますが、まあそのせいしんに",
+      "clause_text": "同情派と予防派との二つに",
+      "furigana": "どうじょうはとよぼうはとのふたつに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ついて大きくわけますと、同情派と予防派との二つになります。",
-      "furigana": "ついておおきくわけますと、どうじょうはとよぼうはとのふたつになります。",
+      "clause_text": "なります。",
+      "furigana": "なります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この名前は横から",
+      "furigana": "このなまえはよこから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "名前は",
-      "furigana": "なまえは",
+      "clause_text": "ひやかしにつけたのですが、",
+      "furigana": "ひやかしにつけたのですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "横からひやかしに",
-      "furigana": "よこからひやかしに",
+      "clause_text": "大へんうまく要領を云いあらわしていますか",
+      "furigana": "たいへんうまくようりょうをいいあらわしています",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "つけたのですが、大へんうまく要領を",
-      "furigana": "つけたのですが、たいへんうまくようりょうを",
+      "clause_text": "ら、かまわず私どもも使う",
+      "furigana": "、かまわずわたくしどももつかう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "云いあらわしていますから、かまわず私どもも使うのです。",
-      "furigana": "いいあらわしていますから、かまわずわたくしどももつかうのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

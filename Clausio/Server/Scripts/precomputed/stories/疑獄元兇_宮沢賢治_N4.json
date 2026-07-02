@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "とにかく",
+      "furigana": "とにかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "に",
-      "furigana": "に",
+      "clause_text": "向ふは検事の",
+      "furigana": "むこうはけんじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "かく向ふは",
-      "furigana": "むこうは",
+      "clause_text": "立場、",
+      "furigana": "たちば、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "検事の",
-      "furigana": "けんじの",
+      "clause_text": "今の会釈は",
+      "furigana": "\nいまのえしゃく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "立場、今の会釈は悪くない。",
-      "furigana": "たちば、\nいまのえしゃくはわるくない",
+      "clause_text": "悪くない。",
+      "furigana": "はわるくない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "勲績の",
-      "furigana": "くんいさおの",
+      "clause_text": "勲績のある上長として、",
+      "furigana": "くんいさおのあるじょうちょうとして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある上長と",
-      "furigana": "あるじょうちょうと",
+      "clause_text": "盛名のある",
+      "furigana": "せいめいのある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "して、盛名の",
-      "furigana": "して、せいめいの",
+      "clause_text": "君子として、",
+      "furigana": "くんしとして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある君子と",
-      "furigana": "あるくんしと",
+      "clause_text": "礼を尽した",
+      "furigana": "れいをつくした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "して、礼を尽した態度であった。",
-      "furigana": "して、れいをつくしたたいどであった。",
+      "clause_text": "態度であった。",
+      "furigana": "たいどであった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "方も",
-      "furigana": "ほうも",
+      "clause_text": "方も声音か",
+      "furigana": "ほうもこわね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "声音から",
-      "furigana": "こわねから",
+      "clause_text": "ら、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、動作一般自然で",
-      "furigana": "、どうさいっぱんしぜんで",
+      "clause_text": "動作一般",
+      "furigana": "どうさいっぱん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あった。",
-      "furigana": "あった。",
+      "clause_text": "自然であった。",
+      "furigana": "しぜんであった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "或ひは",
-      "furigana": "あるいわ",
+      "clause_text": "或ひはかういふ",
+      "furigana": "あるいわかういふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "かういふ調子で",
-      "furigana": "かういふちょうしで",
+      "clause_text": "調子でもって、",
+      "furigana": "ちょうしでもって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "もって、",
-      "furigana": "もって、",
+      "clause_text": "政治の実といふものを、",
+      "furigana": "せいじのじつといふものを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "政治の実と",
-      "furigana": "せいじのじつと",
+      "clause_text": "容易に了解する",
+      "furigana": "よういにりょうかいする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "いふものを、容易に了解するかも知れん。",
-      "furigana": "いふものを、よういにりょうかいするかもしれん。",
+      "clause_text": "かも知れん。",
+      "furigana": "かもしれん。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それならわたしは",
-      "furigana": "それならわたしは",
+      "clause_text": "それならわたしは、",
+      "furigana": "それならわたしは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、",
-      "furigana": "、",
+      "clause_text": "畢竟党から撰ばれて、",
+      "furigana": "ひっきょうとうからえらばれて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "畢竟党から",
-      "furigana": "ひっきょうとうから",
+      "clause_text": "若手検事の腕利きといふこの青年を対告に、",
+      "furigana": "わかてけんじのうでききといふ　このせいねんをたいごうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "撰ばれて、若手検事の腕利きといふこの",
-      "furigana": "えらばれて、わかてけんじのうでききといふ　",
+      "clause_text": "社会一般教育のため、",
+      "furigana": "、しゃかいいっぱんきょういくのため",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "青年を対告に、社会一般教育のため、こゝへ来たとも云ひ得やう。",
-      "furigana": "せいねんをたいごうに、しゃかいいっぱんきょういくのため、ここへきたともいひえやう",
+      "clause_text": "こゝへ来たとも云ひ得やう。",
+      "furigana": "、ここへきたともいひえやう",
       "sentence_individual_grammar_level": "N4"
     }
   ]
