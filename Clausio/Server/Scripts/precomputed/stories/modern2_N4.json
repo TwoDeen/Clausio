@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "訳。",
-      "furigana": "わけ",
+      "furigana": "わけ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "獣も一",
-      "furigana": "けものもいち",
+      "clause_text": "獣も",
+      "furigana": "けものも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "匹も",
-      "furigana": "ひきも",
+      "clause_text": "一匹も",
+      "furigana": "いちひきも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「鹿の黄色い横腹なんかに、二、三発お見舞いしたら、ずいぶん痛快だろうねえ。",
-      "furigana": "\n「しかのきいろいよこばらなんかに、に、さんはつおみまいしたら、ずいぶんつうかいだろうねえ",
+      "furigana": "「しかのきいろいよこばらなんかに、に、さんはつおみまいしたら、ずいぶんつうかいだろうねえ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

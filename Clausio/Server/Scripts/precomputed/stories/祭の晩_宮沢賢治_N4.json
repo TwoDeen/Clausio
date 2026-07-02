@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "髪を長くして、だぶだぶの",
-      "furigana": "かみをながくして、だぶだぶの",
+      "clause_text": "髪を長くして、だぶだぶのずぼんをはいたあばたな男が、",
+      "furigana": "かみをながくして、だぶだぶのずぼんをはいたあばたなおとこが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずぼんをはいたあばたな男が、",
-      "furigana": "ずぼんをはいたあばたなおとこが、",
+      "clause_text": "小屋の幕の前に立って、",
+      "furigana": "こやのまくのまえにたって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "小屋の幕の前に立って、",
-      "furigana": "こやのまくのまえにたって、",
+      "clause_text": "「さあ、みんな、入れ入れ」と",
+      "furigana": "「さあ、みんな、いれいれ」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「さあ、みんな、入れ入れ」と",
-      "furigana": "「さあ、みんな、いれいれ」と",
+      "clause_text": "大威張りでどなっているのでした。",
+      "furigana": "おおいばりでどなっているのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「おい、あんこ、早ぐ入れ。",
-      "furigana": "\n「おい、あんこ、はやぐいれ",
+      "furigana": "「おい、あんこ、はやぐいれ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

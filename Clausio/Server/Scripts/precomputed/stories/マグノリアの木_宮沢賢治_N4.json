@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "てい",
-      "furigana": "てい",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "いた。",
+      "furigana": "いた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "まるでよるべもなくさびしい",
-      "furigana": "まるでよるべもなくさびしい",
+      "clause_text": "まるでよるべもなく",
+      "furigana": "まるでよるべもなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "さびしいのでした。",
+      "furigana": "さびしいのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

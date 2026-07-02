@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "地球温暖化の影響で、",
-      "furigana": "地球温暖化の影響で、",
+      "furigana": "ちきゅうおんだんかのえいきょうで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "世界",
-      "furigana": "世界",
+      "furigana": "せかい",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "各地で異常気象が",
-      "furigana": "各地で異常気象が",
+      "furigana": "かくちでいじょうきしょうが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "増加",
-      "furigana": "増加",
+      "furigana": "ぞうか",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "経済のグローバル化が",
-      "furigana": "経済のグローバル化が",
+      "furigana": "けいざいのぐろーばるかが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "進む中、",
-      "furigana": "進む中、",
+      "furigana": "すすむなか、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "国内産業の競争力",
-      "furigana": "国内産業の競争力",
+      "furigana": "こくないさんぎょうのきょうそうりょく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "強化が求め",
-      "furigana": "強化が求め",
+      "furigana": "きょうかがもとめ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "科学技術の進歩によ",
-      "furigana": "科学技術の進歩によ",
+      "furigana": "かがくぎじゅつのしんぽによ",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "不可能だった",
-      "furigana": "不可能だった",
+      "furigana": "ふかのうだった",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "医療が実現",
-      "furigana": "医療が実現",
+      "furigana": "いりょうがじつげん",
       "sentence_individual_grammar_level": "N2"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "環境保護と経済発展を",
-      "furigana": "環境保護と経済発展を",
+      "furigana": "かんきょうほごとけいざいはってんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "両立させる",
-      "furigana": "両立させる",
+      "furigana": "りょうりつさせる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ことが現代",
-      "furigana": "ことが現代",
+      "furigana": "ことがげんだい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "社会の大きな課題と",
-      "furigana": "社会の大きな課題と",
+      "furigana": "しゃかいのおおきなかだいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "少子高齢化が",
-      "furigana": "少子高齢化が",
+      "furigana": "しょうしこうれいかが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "進む日本では、",
-      "furigana": "進む日本では、",
+      "furigana": "すすむにっぽんでは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "社会保障制度の",
-      "furigana": "社会保障制度の",
+      "furigana": "しゃかいほしょうせいどの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "持続可能性が問わ",
-      "furigana": "持続可能性が問わ",
+      "furigana": "じぞくかのうせいがとわ",
       "sentence_individual_grammar_level": "N4"
     },
     {

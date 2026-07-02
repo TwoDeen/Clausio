@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いつでも楽長にいじめられる",
-      "furigana": "いつでもがくちょうにいじめられる",
+      "clause_text": "いつでも楽長にいじめ",
+      "furigana": "いつでもがくちょうにいじめ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "られるのでした。",
+      "furigana": "られるのでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "歌ってい",
-      "furigana": "うたってい",
+      "clause_text": "歌って",
+      "furigana": "うたって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

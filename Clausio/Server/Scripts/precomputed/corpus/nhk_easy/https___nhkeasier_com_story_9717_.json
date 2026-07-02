@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "また熊が",
-      "furigana": "またくまが",
+      "clause_text": "また",
+      "furigana": "また",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "人を",
-      "furigana": "ひとを",
+      "clause_text": "熊が",
+      "furigana": "くまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "襲い",
-      "furigana": "おそい",
+      "clause_text": "人を",
+      "furigana": "ひとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "襲",
+      "furigana": "かさね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "17日午前6時ごろ、",
-      "furigana": "17にちごぜん6じごろ、",
+      "furigana": "いちななかごぜんろくじごろ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "熊が80歳ぐらいの男性を",
-      "furigana": "くまが80さいぐらいのだんせいを",
+      "furigana": "くまがはちれいさいぐらいのだんせいを",
       "sentence_individual_grammar_level": "N5"
     },
     {

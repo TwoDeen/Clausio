@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "みなさん、",
-      "furigana": "ではみな",
+      "furigana": "みなさん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さういふ",
-      "furigana": "、さう",
+      "furigana": "さういふ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ふうに川だと",
-      "furigana": "いふふうにかわ",
+      "furigana": "ふうにかわだと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "黒板に吊した大きな黒い星座の圖の、",
-      "furigana": "、こくばんにつるしたおおきなくろいせいざのずの",
+      "furigana": "こくばんにつるしたおおきなくろいせいざのずの、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "上から下へ白くけぶつた銀河帶のやうなところを指しながら、",
-      "furigana": "、うえからしたへしろくけぶつたぎんが帶のやうなところをさしながら",
+      "furigana": "うえからしたへしろくけぶつたぎんが帶のやうなところをさしながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "みんなに問ひをか",
-      "furigana": "、みんなにとひを",
+      "furigana": "みんなにとひを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "けました。",
-      "furigana": "かけました",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "四五",
-      "furigana": "よんご",
+      "clause_text": "四五人",
+      "furigana": "よんごにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人",
-      "furigana": "にん",
+      "clause_text": "手をあげ",
+      "furigana": "しゅをあげ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "手を",
-      "furigana": "しゅを",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あげました。",
-      "furigana": "あげました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {

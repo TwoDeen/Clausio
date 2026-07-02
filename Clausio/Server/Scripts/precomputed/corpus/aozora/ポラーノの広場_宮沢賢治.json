@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "キュースト誌宮沢賢治",
-      "furigana": "・きゅーすとし\n",
+      "furigana": "・きゅーすとし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "訳述そのころわたくしは、",
-      "furigana": "　やくじゅつ\nそのころ",
+      "furigana": "やくじゅつ\nそのころ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "モリーオ市の博物局に",
-      "furigana": "は、もりーおしの",
+      "furigana": "もりーおしのはくぶつきょくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "勤めて居りました。",
-      "furigana": "はくぶつきょくにつとめており",
+      "furigana": "つとめておりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "その景色のいいまわりに",
-      "furigana": "そのけしきのいいまわりに",
+      "clause_text": "その景色のいいまわりにアカシヤを植え込んだ広い地面が、",
+      "furigana": "そのけしきのいいまわりにあかしやをうえこんだひろいじめんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "アカシヤを植え込んだ広い地面が、",
-      "furigana": "あかしやをうえこんだひろいじめんが、",
+      "clause_text": "切符売場や信号所の建物のついたまま、",
+      "furigana": "きっぷうりばやしんごうしょのたてもののついたまま、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "切符売場や信号所の建物のついたまま、",
-      "furigana": "きっぷうりばやしんごうしょのたてもののついたまま、",
+      "clause_text": "わたくしどもの役所の方へまわって来たものですから、",
+      "furigana": "わたくしどものやくしょのほうへまわってきたものですから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "並木のポプラの影法師を大股にわたって市の役所へ出て行く",
-      "furigana": "なみきのぽぷらのかげぼうしをおおまたにわたってしのやくしょへでていく",
+      "clause_text": "並木のポプラの影法師を大股にわたって市の役所へ",
+      "furigana": "なみきのぽぷらのかげぼうしをおおまたにわたってしのやくしょへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "出て行くのでした。",
+      "furigana": "でていくのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

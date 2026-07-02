@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "濁密防止講演会〔冒頭原稿数枚なし〕イギリスの",
-      "furigana": "じょくみつぼうしこうえんかい\nきごうぼうとうげんこうすうまいなしきごう\n",
+      "furigana": "じょくみつぼうしこうえんかい\nきごうぼうとうげんこうすうまいなしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "大学の試験では牛でさへ酒を呑ま",
-      "furigana": "のだいがくのしけんではうしでさへさけを",
+      "furigana": "だいがくのしけんではうしでさへさけをのま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "せると目方が増すと",
-      "furigana": "のませるとめかたが",
+      "furigana": "せるとめかたがますと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "云ひます。",
-      "furigana": "といひ",
+      "furigana": "いひます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "堀部安兵衛が高田の馬場で三",
-      "furigana": "ほりべやすべえがたかだのばばでさん",
+      "clause_text": "堀部安兵衛が高田の馬場で三十人の",
+      "furigana": "ほりべやすべえがたかだのばばでさんじゅうにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "十人の仇討ちさへ",
-      "furigana": "じゅうにんのあだうちさへ",
+      "clause_text": "仇討ちさへ出来たのも",
+      "furigana": "あだうちさへできたのも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "出来たのも実に酒の為に",
-      "furigana": "できたのもじつにさけのために",
+      "clause_text": "実に酒の為にエネルギーが",
+      "furigana": "じつにさけのためにえねるぎーが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "エネルギーが沢山あったか",
-      "furigana": "えねるぎーがたくさんあった",
+      "clause_text": "沢山あったか",
+      "furigana": "たくさんあった",
       "sentence_individual_grammar_level": "N5"
     },
     {

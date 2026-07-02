@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "風が",
-      "furigana": "に\n",
+      "furigana": "かぜが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "吹いてゐる",
-      "furigana": "かぜがふいて",
+      "furigana": "ふいている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "といふ",
-      "furigana": "いると",
+      "furigana": "といふ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ことであるたけにぐさの",
-      "furigana": "いふことである\n",
+      "furigana": "ことである\nたけにぐさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "］〔",
-      "furigana": "きごう\n",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N1"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ひるすぎの",
-      "furigana": "きごうひるすぎ",
+      "furigana": "ひるすぎの",
       "sentence_individual_grammar_level": "N1"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "三",
-      "furigana": "の",
+      "clause_text": "三時と",
+      "furigana": "さんじと",
       "sentence_individual_grammar_level": "N1"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "なくてぼろ",
-      "furigana": "がなくて\n",
+      "furigana": "がなくて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "んと一音",
-      "furigana": "ぼろんと",
+      "furigana": "んといちおん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ハープが",
-      "furigana": "いちおん",
+      "furigana": "はーぷが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "鳴る［＃",
-      "furigana": "がなる",
+      "furigana": "なる\nきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "※［＃",
-      "furigana": "をきごうきごう",
+      "furigana": "きごうきごう#",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "感嘆符",
-      "furigana": "#",
+      "furigana": "かんたんふ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "三つ、",
-      "furigana": "みっつ",
+      "furigana": "みっつ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "541",
-      "furigana": "、",
+      "furigana": "ごよんいち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {

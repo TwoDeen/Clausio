@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "29日午前5時すぎ、",
-      "furigana": "ふた9にちごぜん5じすぎ、",
+      "furigana": "にここのかごぜんごじすぎ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "30人の",
-      "furigana": "みっ0ひとの",
+      "furigana": "さんれいにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "客が乗っ",
-      "furigana": "きゃくがのっ",
+      "clause_text": "客が",
+      "furigana": "きゃくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "てい",
-      "furigana": "てい",
+      "clause_text": "乗っ",
+      "furigana": "のっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "列車が120ｍぐらい走ったところで、",
-      "furigana": "れっしゃが1ふた0ｍぐらいはしったところで、",
+      "furigana": "れっしゃがいちにれいめーとるぐらいはしったところで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "2つ目と3つ目の車両が",
-      "furigana": "ふたつめとみっつめのしゃりょうが",
+      "furigana": "ふつつめとみっつめのしゃりょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {

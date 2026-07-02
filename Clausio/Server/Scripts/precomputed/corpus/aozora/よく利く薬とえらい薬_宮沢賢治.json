@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "どうで",
-      "furigana": "　どう",
+      "furigana": "どう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "か。",
-      "furigana": "か",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "まだ",
-      "furigana": "　",
+      "furigana": "まだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "あります",
-      "furigana": "あり",
+      "furigana": "あります",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "か。",
-      "furigana": "か",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

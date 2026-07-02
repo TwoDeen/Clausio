@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「第",
-      "furigana": "\n「",
+      "furigana": "「だい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "百二十八",
-      "furigana": "だい",
+      "furigana": "ひゃくにじゅうはち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "聯隊の",
-      "furigana": "れんたい",
+      "furigana": "れんたいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "伝令！",
-      "furigana": "のでんれい",
+      "furigana": "でんれい!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "向こうの胸に斜めにつきつけたまま、",
-      "furigana": "じゅうけんを、むこうのむねにななめにつきつけ",
+      "furigana": "むこうのむねにななめにつきつけたまま、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "その眼の光りようや顎のかたち、",
-      "furigana": "たまま、そのめのひかりようやあごの",
+      "furigana": "そのめのひかりようやあごのかたち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "それから上着の袖の模様や靴のぐあい、",
-      "furigana": "かたち、それからうわぎのそでのもようやくつの",
+      "furigana": "それからうわぎのそでのもようやくつのぐあい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "いちいち詳しく調べます。",
-      "furigana": "ぐあい、いちいちくわしく",
+      "furigana": "いちいちくわしくしらべます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "伝令はいそがしく",
-      "furigana": "\nでんれいは",
+      "furigana": "でんれいはいそがしく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "羊歯の森の",
-      "furigana": "しだのもり",
+      "furigana": "しだのもりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "なかへは",
-      "furigana": "のなかへ",
+      "furigana": "なかへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "いって行きました。",
-      "furigana": "はいっていきました",
+      "furigana": "ていきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

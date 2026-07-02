@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "2日の東京株式市場、",
-      "furigana": "2日の東京株式市場、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "1日、",
+      "furigana": "ついたち、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日経平均株価は一時、",
-      "furigana": "日経平均株価は一時、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "海上保安庁の測量船が、",
+      "furigana": "かいじょうほあんちょうのそくりょうせんが、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "1500円以上",
-      "furigana": "1500円以上",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "沖縄県の尖閣諸島沖の日本のEEZ＝排他的経済水域で海洋調査を行っていた際に、",
+      "furigana": "おきなわけんのせんかくしょとうおきのにっぽんのいーいーぜっと_はいたてきけいざいすいいきでかいようちょうさをおこなっていたさいに、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "値下がり",
-      "furigana": "値下がり",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "中国海警局の船から調査の中止を要求されたことが",
+      "furigana": "ちゅうごくかいけいきょくのふねからちょうさのちゅうしをようきゅうされたことが",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しています。",
-      "furigana": "しています。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "わかりました。",
+      "furigana": "わかりました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "1日のニューヨーク",
-      "furigana": "1日のニューヨーク",
+      "clause_text": "中国で拘束の",
+      "furigana": "ちゅうごくでこうそくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "市場でAIや半導体関連の",
-      "furigana": "市場でAIや半導体関連の",
+      "clause_text": "日本人2人",
+      "furigana": "にほんじんふたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "銘柄が下落した流れを受けて、",
-      "furigana": "銘柄が下落した流れを受けて、",
+      "clause_text": "正式に逮捕",
+      "furigana": "せいしきにたいほ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京市場でも同様の銘柄を中心に売り注文が",
-      "furigana": "東京市場でも同様の銘柄を中心に売り注文が",
+      "clause_text": "レアアース",
+      "furigana": "れああーす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "広がっています。",
-      "furigana": "広がっています。",
+      "clause_text": "輸出関連疑いか。",
+      "furigana": "ゆしゅつかんれんうたがいか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "九州",
-      "furigana": "九州",
+      "clause_text": "中国軍民",
+      "furigana": "ちゅうごくぐんみん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "北部で線状降水帯",
-      "furigana": "北部で線状降水帯",
+      "clause_text": "両用品目の",
+      "furigana": "りょうようひんもくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "発生土砂",
-      "furigana": "発生土砂",
+      "clause_text": "対日輸出禁止発表",
+      "furigana": "たいにちゆしゅつきんしはっぴょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "崩れや氾濫の",
-      "furigana": "崩れや氾濫の",
+      "clause_text": "日本の20の",
+      "furigana": "にっぽんのにれいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "発生も警戒を。",
-      "furigana": "発生も警戒を。",
+      "clause_text": "企業など追加。",
+      "furigana": "きぎょうなどついか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "熊本小国町筑後川",
-      "furigana": "熊本小国町筑後川",
+      "clause_text": "米中",
+      "furigana": "べいちゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "「杖立橋」",
-      "furigana": "「杖立橋」",
+      "clause_text": "外相が",
+      "furigana": "がいしょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "付近で氾濫",
-      "furigana": "付近で氾濫",
+      "clause_text": "電話会談",
+      "furigana": "でんわかいだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "発生最大級の",
-      "furigana": "発生最大級の",
+      "clause_text": "王毅外相",
+      "furigana": "おうきがいしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "警戒を。",
-      "furigana": "警戒を。",
+      "clause_text": "「台湾問題は慎重に」。",
+      "furigana": "「たいわんもんだいはしんちょうに」。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「スロースリップ」",
-      "furigana": "「スロースリップ」",
+      "clause_text": "九州北部で土砂",
+      "furigana": "きゅうしゅうほくぶでどしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "活発な領域東北",
-      "furigana": "活発な領域東北",
+      "clause_text": "崩れや",
+      "furigana": "くずれや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "沖で拡大か",
-      "furigana": "沖で拡大か",
+      "clause_text": "氾濫も雨の",
+      "furigana": "はんらんもあめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "地震への",
-      "furigana": "地震への",
+      "clause_text": "ピーク過ぎるも",
+      "furigana": "ぴーくすぎるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "備えを。",
-      "furigana": "備えを。",
+      "clause_text": "十分注意を。",
+      "furigana": "じゅうぶんちゅういを。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

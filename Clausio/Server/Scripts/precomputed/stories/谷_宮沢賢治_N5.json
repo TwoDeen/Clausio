@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "全くくるくるする",
-      "furigana": "まったくくるくるする",
+      "clause_text": "全くくるくる",
+      "furigana": "まったくくるくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "するのでした。",
+      "furigana": "するのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "土から喰み",
-      "furigana": "つちからはみ",
+      "clause_text": "土から",
+      "furigana": "つちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "出していた",
-      "furigana": "だしていた",
+      "clause_text": "喰み",
+      "furigana": "はみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "出していたのです。",
+      "furigana": "だしていたのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

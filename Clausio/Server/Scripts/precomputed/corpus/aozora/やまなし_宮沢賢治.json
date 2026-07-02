@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "子供らが",
-      "furigana": "のこどもら",
+      "furigana": "こどもらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "青じろい水の",
-      "furigana": "があおじろいみず",
+      "furigana": "あおじろいみずの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "底で話てゐました。",
-      "furigana": "のそこではなしていました",
+      "furigana": "そこではなしていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "』『",
-      "furigana": "きごう\n",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "クラムボンはか",
-      "furigana": "きごうくらむぼんは",
+      "furigana": "くらむぼんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "わらつた",
-      "furigana": "わら",
+      "furigana": "わらつた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "よ。",
-      "furigana": "よ",
+      "furigana": "よ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "』『",
-      "furigana": "きごう\n",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "クラムボンは",
-      "furigana": "きごうくらむぼん",
+      "furigana": "くらむぼんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "跳てわら",
-      "furigana": "はとべて",
+      "furigana": "とべてわら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "つた",
-      "furigana": "つ",
+      "furigana": "つた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "よ。",
-      "furigana": "たよ",
+      "furigana": "よ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "24日の朝、",
-      "furigana": "にじゅうよっかのあさ、",
+      "furigana": "によんかのあさ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "1",
-      "furigana": "1",
+      "clause_text": "1時間ぐらい",
+      "furigana": "いちじかんぐらい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間ぐらい",
-      "furigana": "じかんぐらい",
+      "clause_text": "後に",
+      "furigana": "あとに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "後に助け",
-      "furigana": "あとにたすけ",
+      "clause_text": "助け",
+      "furigana": "たすけ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "24日午前9時までの1時間に、",
-      "furigana": "にじゅうよっかごぜん9じまでの1じかんに、",
+      "furigana": "によんかごぜんきゅうじまでのいちじかんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "108ミリの",
-      "furigana": "108ミリの",
+      "furigana": "いちれいはちみりの",
       "sentence_individual_grammar_level": "N5"
     },
     {

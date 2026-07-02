@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "北のはづれに、",
-      "furigana": "、きたのはづれに",
+      "furigana": "きたのはづれに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "少し小高く盛りあがった所が",
-      "furigana": "、すこしこだかくもりあがったところ",
+      "furigana": "すこしこだかくもりあがったところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ありました。",
-      "furigana": "がありました",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

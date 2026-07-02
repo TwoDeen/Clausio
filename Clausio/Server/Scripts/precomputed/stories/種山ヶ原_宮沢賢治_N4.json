@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "持主に戻ってしまう",
-      "furigana": "もちぬしにもどってしまう",
+      "clause_text": "持主に",
+      "furigana": "もちぬしに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "戻ってしまうのです。",
+      "furigana": "もどってしまうのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

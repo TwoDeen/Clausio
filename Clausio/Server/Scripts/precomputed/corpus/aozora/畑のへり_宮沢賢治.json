@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "すきとほった羽虫だのみんな",
-      "furigana": "すきとほったはむしだのみんな",
+      "clause_text": "すきとほった",
+      "furigana": "すきとほった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "かはるがはる",
-      "furigana": "かはるがはる",
+      "clause_text": "羽虫だのみんな",
+      "furigana": "はむしだのみんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "来て挨拶して行く",
-      "furigana": "きてあいさつしていく",
+      "clause_text": "かはるがはる来て挨拶",
+      "furigana": "かはるがはるきてあいさつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "して行くのでした。",
+      "furigana": "していくのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {

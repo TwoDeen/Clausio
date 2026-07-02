@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "サッカー、",
-      "furigana": "サッカー、",
+      "furigana": "さっかー、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ワールドカップで、",
-      "furigana": "ワールドカップで、",
+      "furigana": "わーるどかっぷで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "日本とスウェーデンが",
-      "furigana": "にっぽんとスウェーデンが",
+      "furigana": "にっぽんとすうぇーでんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "後半に前田大然",
-      "furigana": "こうはんにまえだだいぜん",
+      "furigana": "こうはんにまえだおおじかり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "選手がシュートを決めて、",
-      "furigana": "せんしゅがシュートをきめて、",
+      "furigana": "せんしゅがしゅーとをきめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "スウェーデンもシュートを決めて、",
-      "furigana": "スウェーデンもシュートをきめて、",
+      "furigana": "すうぇーでんもしゅーとをきめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "1－1の引き分けに",
-      "furigana": "1－1のひきわけに",
+      "furigana": "いち-いちのひきわけに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "グループFの2番に",
-      "furigana": "グループFの2ばんに",
+      "furigana": "ぐるーぷfのにばんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "決勝トーナメントに",
-      "furigana": "けっしょうトーナメントに",
+      "furigana": "けっしょうとーなめんとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本の時間で30",
-      "furigana": "にっぽんのじかんで30",
+      "clause_text": "日本の時間で30日の",
+      "furigana": "にっぽんのじかんでさんれいにちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "日の午前2時から、",
-      "furigana": "にちのごぜん2じから、",
+      "clause_text": "午前2時から、",
+      "furigana": "ごぜんにじから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ブラジルと試合を",
-      "furigana": "ブラジルとしあいを",
+      "furigana": "ぶらじるとしあいを",
       "sentence_individual_grammar_level": "N5"
     },
     {

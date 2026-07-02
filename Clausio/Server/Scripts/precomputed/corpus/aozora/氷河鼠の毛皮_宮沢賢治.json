@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "風に吹きとばされて来た",
-      "furigana": "かぜにふきとばされてきた",
+      "clause_text": "風に吹きとばさ",
+      "furigana": "かぜにふきとばさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "れて来たのです。",
+      "furigana": "れてきたのです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "方から飛ばされてやつて来た",
-      "furigana": "ほうからとばされてやつてきた",
+      "clause_text": "方から飛ばされてや",
+      "furigana": "ほうからとばされて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "つて来たのです。",
+      "furigana": "てきたのです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "二十六日は",
-      "furigana": "のにじゅうろくにち",
+      "furigana": "にじゅうろくにちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "イーハトヴは",
-      "furigana": "はいーはとゔ",
+      "furigana": "いーはとゔは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ひどい",
-      "furigana": "は",
+      "furigana": "ひどい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "吹雪でした。",
-      "furigana": "ふぶきでした",
+      "furigana": "ふぶきでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

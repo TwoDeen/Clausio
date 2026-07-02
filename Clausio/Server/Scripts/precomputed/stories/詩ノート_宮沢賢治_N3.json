@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "病院",
-      "furigana": "　　",
+      "furigana": "びょういん",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一九二六、",
-      "furigana": "びょういん\n",
+      "furigana": "いちきゅうにろく、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一一、",
-      "furigana": "、",
+      "furigana": "いちいち、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "四、",
-      "furigana": "いちいち",
+      "furigana": "よん、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "切りひらく",
-      "furigana": "きりひらく",
+      "clause_text": "切りひらくのであります",
+      "furigana": "きりひらくのであります",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "のであります",
-      "furigana": "のであります",
+      "clause_text": "そしてここでは",
+      "furigana": "そして\nここ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "そしてここでは",
-      "furigana": "\nそして\nここ",
+      "clause_text": "蕎麦が",
+      "furigana": "そばが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "蕎麦が",
-      "furigana": "では",
+      "clause_text": "二斗",
+      "furigana": "にと",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "二斗",
-      "furigana": "が",
+      "clause_text": "ま",
+      "furigana": "ま",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ぃでの",
-      "furigana": "ぃで\n",
+      "furigana": "ぃで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "もので。",
-      "furigana": "もので",
+      "furigana": "もので。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」世界",
-      "furigana": "」\n",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "っても",
-      "furigana": "やって",
+      "furigana": "ても",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "間に",
-      "furigana": "もま",
+      "furigana": "まに",
       "sentence_individual_grammar_level": "N3"
     },
     {

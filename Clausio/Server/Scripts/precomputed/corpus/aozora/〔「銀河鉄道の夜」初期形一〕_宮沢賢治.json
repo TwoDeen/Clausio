@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "16-3］の森が見えない天の川の向ふにさめざめと光りながらだんだんうしろの方へ行ってしまひ",
-      "furigana": "、いちろく-さんきごうのもりがみえないあまのがわのむこうにさめざめとひかりながらだんだんうしろのほうへいって",
+      "furigana": "いちろく-さんきごうのもりがみえないあまのがわのむこうにさめざめとひかりながらだんだんうしろのほうへいってしまひ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "そこから流れて来るあやしい楽器の音ももう",
-      "furigana": "そこからながれてくるあやしいがっきのおとも",
+      "furigana": "そこからながれてくるあやしいがっきのおとももう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "汽車のひゞきや風の音にすり耗らされて聞えないやうに",
-      "furigana": "きしゃのひきごうきやかぜのおとにすりへらされてきこえないやう",
+      "furigana": "きしゃのひきごうきやかぜのおとにすりへらされてきこえないやうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なりました。",
-      "furigana": "になりました",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "カムパネルラのと",
-      "furigana": "\nかむぱねるらの",
+      "furigana": "かむぱねるらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "なりに居た",
-      "furigana": "となりにい",
+      "furigana": "にいた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "女の子が",
-      "furigana": "たおんなのこ",
+      "furigana": "おんなのこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "云ひました。",
-      "furigana": "がいひました",
+      "furigana": "いひました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "気持ちがする",
-      "furigana": "きもちがする",
+      "clause_text": "気持ちが",
+      "furigana": "きもちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "するのでした。",
+      "furigana": "するのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

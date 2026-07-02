@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "小岩井農場グランド電柱東岩手火山無聲慟哭オホーツク挽歌風景とオルゴール宮澤賢治生誕１００年を記念して、",
-      "furigana": "\nしんくうようばい\nこいわいのうじょう\nぐらんどでんちゅう\nひがしいわてかざん\nむ聲どうこく\nおほーつくばんか\nふうけいとおるごーる\nみやざわけんじ",
+      "furigana": "しんくうようばい\nこいわいのうじょう\nぐらんどでんちゅう\nひがしいわてかざん\nむ聲どうこく\nおほーつくばんか\nふうけいとおるごーる\nみやざわけんじ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "国立国会図書館から発見された、",
-      "furigana": "せいたんいちれいれいねんをきねんして、こくりつ",
+      "furigana": "こくりつこっかいとしょかんからはっけんされた、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「春と修羅」初版本が復刻出版さ",
-      "furigana": "としょかんからはっけんされた、「はると",
+      "furigana": "「はるとしゅら」しょはんほんがふっこくしゅっぱんさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "れました。",
-      "furigana": "しゅら」しょはん",
+      "furigana": "れました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "0序",
-      "furigana": "\nれい",
+      "furigana": "れい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "----------",
-      "furigana": "\n序",
+      "furigana": "ー",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "山梨県のワインを、",
-      "furigana": "やまなしけんのワインを、",
+      "furigana": "やまなしけんのわいんを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ブラジルに",
-      "furigana": "ブラジルに",
+      "furigana": "ぶらじるに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "今までイギリスやアメリカなどに",
-      "furigana": "いままでイギリスやアメリカなどに",
+      "furigana": "いままでいぎりすやあめりかなどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ブラジルには去年300",
-      "furigana": "ブラジルにはきょねん300",
+      "clause_text": "ブラジルには去年300本",
+      "furigana": "ぶらじるにはきょねんさんれいれいぽん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "本だけでした。",
-      "furigana": "ぼんだけでした。",
+      "clause_text": "だけでした。",
+      "furigana": "だけでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "山梨県の5つの会社が",
-      "furigana": "やまなしけんの5つのかいしゃが",
+      "furigana": "やまなしけんのいつつのかいしゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "つくった6000",
-      "furigana": "つくった6000",
+      "clause_text": "つくった",
+      "furigana": "つくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "本ぐらいを輸出",
-      "furigana": "ぼんぐらいをゆしゅつ",
+      "clause_text": "6000本ぐらいを輸出",
+      "furigana": "ろくれいれいれいぽんぐらいをゆしゅつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ワインです。",
-      "furigana": "ワインです。",
+      "furigana": "わいんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "17日は、",
-      "furigana": "17にちは、",
+      "furigana": "いちななかは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ワインを入れた箱を",
-      "furigana": "ワインをいれたはこを",
+      "furigana": "わいんをいれたばこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "トラックに",
-      "furigana": "トラックに",
+      "furigana": "とらっくに",
       "sentence_individual_grammar_level": "N5"
     },
     {

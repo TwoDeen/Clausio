@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "処、",
-      "furigana": "\nところ",
+      "furigana": "ところ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "イーハトヴ地方、",
-      "furigana": "、いーはとゔちほう",
+      "furigana": "いーはとゔちほう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "右手にオーケストラ",
-      "furigana": "\nみぎてに",
+      "furigana": "みぎてにおーけすとら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "バンド、",
-      "furigana": "ばんど",
+      "furigana": "ばんど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "指揮者と楽手二名だけ",
-      "furigana": "、しきしゃとらくしゅにめい",
+      "furigana": "しきしゃとらくしゅにめいだけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "見える。",
-      "furigana": "みえる",
+      "furigana": "みえる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "けた卓子と椅子、",
-      "furigana": "をかけたたくしと",
+      "furigana": "たたくしといす、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "給仕が立ち、",
-      "furigana": "、きゅうじが",
+      "furigana": "きゅうじがたち、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "山猫博士がコップをなめながら",
-      "furigana": "、やまねこはかせがこっぷをなめ",
+      "furigana": "やまねこはかせがこっぷをなめながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "腰掛けて見てゐる。",
-      "furigana": "こしかけてみて",
+      "furigana": "こしかけてみている。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "円舞。",
-      "furigana": "　えんぶ",
+      "furigana": "えんぶ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "イギリス軍の兵士のような服装をし、",
-      "furigana": "が、いぎりすぐんのへいしのようなふくそうを",
+      "furigana": "いぎりすぐんのへいしのようなふくそうをし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ぴかぴか光る猟銃を肩にかついで、",
-      "furigana": "し、ぴかぴかひかるりょうじゅうをかたにかつい",
+      "furigana": "ぴかぴかひかるりょうじゅうをかたにかついで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "白熊のような犬を二匹連れながら、",
-      "furigana": "で、しろくまのようないぬをにひきつれ",
+      "furigana": "しろくまのようないぬをにひきつれながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "深い山の中を歩いていました。",
-      "furigana": "、ふかいやまのなかをあるいていまし",
+      "furigana": "ふかいやまのなかをあるいていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "鳥も獣も一",
-      "furigana": "とりもけものもいち",
+      "clause_text": "鳥も獣も",
+      "furigana": "とりもけものも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "匹も",
-      "furigana": "ひきも",
+      "clause_text": "一匹も",
+      "furigana": "いちひきも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「鹿の黄色い脇腹に二、三発撃ち込んだら、さぞ気持ちがいいだろうね。",
-      "furigana": "\n「しかのきいろいわきばらにに、さんはつうちこんだら、さぞきもちがいいだろうね",
+      "furigana": "「しかのきいろいわきばらにに、さんはつうちこんだら、さぞきもちがいいだろうね。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

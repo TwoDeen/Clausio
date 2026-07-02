@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "梅雨前線や低気圧の影響で九州",
-      "furigana": "梅雨前線や低気圧の影響で九州",
+      "clause_text": "梅雨前線や低気圧の影響で、",
+      "furigana": "つゆぜんせんやていきあつのえいきょうで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "北部では2日未明から明け方にかけて、",
-      "furigana": "北部では2日未明から明け方にかけて、",
+      "clause_text": "九州北部では2日未明から明け方にかけて、",
+      "furigana": "きゅうしゅうほくぶではふつかみめいからあけがたにかけて、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "線状降水帯が相次いで発生するなど大雨となり、",
-      "furigana": "線状降水帯が相次いで発生するなど大雨となり、",
+      "furigana": "せんじょうこうすいたいがあいついではっせいするなどおおあめとなり、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "土砂崩れや川の氾濫などの被害が",
-      "furigana": "土砂崩れや川の氾濫などの被害が",
+      "furigana": "どしゃくずれやかわのはんらんなどのひがいが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "出ています。",
-      "furigana": "出ています。",
+      "clause_text": "出ました。",
+      "furigana": "でました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "天気防災マップ",
-      "furigana": "天気防災マップ",
+      "clause_text": "【大雨】",
+      "furigana": "【おおあめ】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ふだんの雨雲",
-      "furigana": "ふだんの雨雲",
+      "clause_text": "各地で被害熊本の",
+      "furigana": "かくちでひがいくまもとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "予想から災害時の",
-      "furigana": "予想から災害時の",
+      "clause_text": "旅館で浸水",
+      "furigana": "りょかんでしんすい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "リスク情報",
-      "furigana": "リスク情報",
+      "clause_text": "長崎や大分でも",
+      "furigana": "ながさきやおおいたでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "まで。",
-      "furigana": "まで。",
+      "clause_text": "土砂崩れ。",
+      "furigana": "どしゃくずれ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "災害に",
-      "furigana": "災害に",
+      "clause_text": "天気防災マップ",
+      "furigana": "てんきぼうさいまっぷ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "遭う",
-      "furigana": "遭う",
+      "clause_text": "ふだんの雨雲",
+      "furigana": "ふだんのあまぐも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "前に",
-      "furigana": "前に",
+      "clause_text": "予想から災害時の",
+      "furigana": "よそうからさいがいじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ハザードマップで危険を",
-      "furigana": "ハザードマップで危険を",
+      "clause_text": "リスク情報",
+      "furigana": "りすくじょうほう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "知る。",
-      "furigana": "知る。",
+      "clause_text": "まで。",
+      "furigana": "まで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "【最新の",
-      "furigana": "【最新の",
+      "clause_text": "災害に",
+      "furigana": "さいがいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "避難情報】",
-      "furigana": "避難情報】",
+      "clause_text": "遭う",
+      "furigana": "あう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "こちらから",
-      "furigana": "こちらから",
+      "clause_text": "前に",
+      "furigana": "まえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "地域別でご覧に",
-      "furigana": "地域別でご覧に",
+      "clause_text": "ハザードマップで危険を",
+      "furigana": "はざーどまっぷできけんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "なれます。",
-      "furigana": "なれます。",
+      "clause_text": "知る。",
+      "furigana": "しる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "【最新の",
-      "furigana": "【最新の",
+      "furigana": "【さいしんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "河川情報】",
-      "furigana": "河川情報】",
+      "clause_text": "避難情報】",
+      "furigana": "ひなんじょうほう】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "一覧でご覧に",
-      "furigana": "一覧でご覧に",
+      "clause_text": "地域別でご覧に",
+      "furigana": "ちいきべつでごらんに",
       "sentence_individual_grammar_level": "N5"
     },
     {

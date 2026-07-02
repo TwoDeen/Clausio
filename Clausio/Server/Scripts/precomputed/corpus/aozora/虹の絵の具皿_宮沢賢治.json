@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "と、",
-      "furigana": "\nと",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "年よりの",
-      "furigana": "、としより",
+      "furigana": "としよりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "けらいが、",
-      "furigana": "のけらいが",
+      "furigana": "けらいが、",
       "sentence_individual_grammar_level": "N5"
     }
   ]

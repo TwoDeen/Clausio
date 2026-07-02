@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "あいだは形が蛇のよ",
-      "furigana": "あいだはかたちがへびの",
+      "clause_text": "あいだは",
+      "furigana": "あいだは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "うになる",
-      "furigana": "になる",
+      "clause_text": "形が蛇のように",
+      "furigana": "かたちがへびのように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "なるのです。",
+      "furigana": "なるのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

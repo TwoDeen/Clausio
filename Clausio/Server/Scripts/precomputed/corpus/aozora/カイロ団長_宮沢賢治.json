@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "それはそれは上手に可愛らしくつくってある",
-      "furigana": "それはそれはじょうずにかわいらしくつくってある",
+      "clause_text": "それはそれは上手に可愛らしく",
+      "furigana": "それはそれはじょうずにかわいらしく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "つくってあるのです。",
+      "furigana": "つくってあるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

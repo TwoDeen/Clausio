@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "なめとこ山は一",
-      "furigana": "なめとこやまはいち",
+      "clause_text": "なめとこ山は一年の",
+      "furigana": "なめとこやまはいちねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "年のうち大ていの日は",
-      "furigana": "ねんのうちたいていのひは",
+      "clause_text": "うち大ていの",
+      "furigana": "うちたいていの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "つめたい霧か雲かを",
-      "furigana": "つめたいきりかくもかを",
+      "clause_text": "日はつめたい霧か雲かを",
+      "furigana": "ひはつめたいきりかくもかを",
       "sentence_individual_grammar_level": "N5"
     },
     {

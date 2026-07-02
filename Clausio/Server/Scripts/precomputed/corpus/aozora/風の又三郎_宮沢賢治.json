@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "どっどどどどうどどどうどどどう",
-      "furigana": "どっどど　どどうど　どどうど　",
+      "furigana": "どっどど　どどうど　どどうど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "谷川の岸に小さな学校が",
-      "furigana": "　どどうど　どどう\n",
+      "furigana": "たにがわのきしにちいさながっこうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ありました。",
-      "furigana": "のきしに",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すぐうしろは栗の木のあるきれいな草の山でしたし、",
-      "furigana": "すぐうしろはくりのきのあるきれいなくさのやまでしたし、",
+      "clause_text": "すぐうしろは栗の木の",
+      "furigana": "すぐうしろはくりのきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "運動場のすみにはごぼごぼつめたい",
-      "furigana": "うんどうじょうのすみにはごぼごぼつめたい",
+      "clause_text": "あるきれいな草の山でしたし、",
+      "furigana": "あるきれいなくさのやまでしたし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "水を噴く岩穴もあった",
-      "furigana": "みずをふくいわあなもあった",
+      "clause_text": "運動場のすみにはごぼごぼつめたい水を噴く岩穴も",
+      "furigana": "うんどうじょうのすみにはごぼごぼつめたいみずをふくいわあなも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "あったのです。",
+      "furigana": "あったのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "な九",
-      "furigana": "なきゅう",
+      "clause_text": "な",
+      "furigana": "な",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "月",
-      "furigana": "がつ",
+      "clause_text": "九月",
+      "furigana": "きゅうがつ",
       "sentence_individual_grammar_level": "N5"
     },
     {

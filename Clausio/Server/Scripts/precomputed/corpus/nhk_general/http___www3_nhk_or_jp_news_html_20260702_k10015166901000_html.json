@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界的なヒット曲",
-      "furigana": "世界的なヒット曲",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "昨年度の国の税収は",
+      "furigana": "さくねんどのくにのぜいしゅうは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「Y.M.C.A.」などで知られる",
-      "furigana": "「Y.M.C.A.」などで知られる",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "前の年度からおよそ9兆円増加",
+      "furigana": "まえのねんどからおよそきゅうちょうえんぞうか",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "アメリカの音楽グループ「ビレッジ・ピープル」の",
-      "furigana": "アメリカの音楽グループ「ビレッジ・ピープル」の",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "して84兆2000億円程度となり、",
+      "furigana": "してはちよんちょうにれいれいれいおくえんていどとなり、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ビクター・ウィリスさんが",
-      "furigana": "ビクター・ウィリスさんが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "過去最高を更新する見通しとなったことが",
+      "furigana": "かこさいこうをこうしんするみとおしとなったことが",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "亡くなりました。",
-      "furigana": "亡くなりました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "わかりました。",
+      "furigana": "わかりました。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "追悼",
-      "furigana": "追悼",
+      "clause_text": "賃金の増加や",
+      "furigana": "ちんぎんのぞうかや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2026",
-      "furigana": "2026",
+      "clause_text": "好調な企業",
+      "furigana": "こうちょうなきぎょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "年に",
-      "furigana": "年に",
+      "clause_text": "業績を背景に所得税や",
+      "furigana": "ぎょうせきをはいけいにしょとくぜいや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "亡くなった",
-      "furigana": "亡くなった",
+      "clause_text": "法人税の税収が",
+      "furigana": "ほうじんぜいのぜいしゅうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "方々。",
-      "furigana": "方々。",
+      "clause_text": "伸びました。",
+      "furigana": "のびました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "アメリカと",
-      "furigana": "アメリカと",
+      "clause_text": "九州北部で土砂",
+      "furigana": "きゅうしゅうほくぶでどしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "イラン双方の",
-      "furigana": "イラン双方の",
+      "clause_text": "崩れや",
+      "furigana": "くずれや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "担当者それぞれ",
-      "furigana": "担当者それぞれ",
+      "clause_text": "氾濫も雨の",
+      "furigana": "はんらんもあめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "仲介国カタールと",
-      "furigana": "仲介国カタールと",
+      "clause_text": "ピーク過ぎるも",
+      "furigana": "ぴーくすぎるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "協議。",
-      "furigana": "協議。",
+      "clause_text": "十分注意を。",
+      "furigana": "じゅうぶんちゅういを。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "“アメリカと",
-      "furigana": "“アメリカと",
+      "clause_text": "熊本小国町筑後川",
+      "furigana": "くまもとおぐにまちちくごかわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "イラン交渉",
-      "furigana": "イラン交渉",
+      "clause_text": "「杖立橋」",
+      "furigana": "「つえたてはし」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "60日超の",
-      "furigana": "60日超の",
+      "clause_text": "付近で氾濫",
+      "furigana": "ふきんではんらん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "可能性”米",
-      "furigana": "可能性”米",
+      "clause_text": "発生最大級の",
+      "furigana": "はっせいさいだいきゅうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "メディア指摘。",
-      "furigana": "メディア指摘。",
+      "clause_text": "警戒を。",
+      "furigana": "けいかいを。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "米大統領",
-      "furigana": "米大統領",
+      "clause_text": "まもなく",
+      "furigana": "まもなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "資産報告書",
-      "furigana": "資産報告書",
+      "clause_text": "日印首脳会談",
+      "furigana": "にちいんしゅのうかいだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "公開“主要収益は",
-      "furigana": "公開“主要収益は",
+      "clause_text": "インドで2兆円超の",
+      "furigana": "いんどでにちょうえんちょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "暗号資産関連",
-      "furigana": "暗号資産関連",
+      "clause_text": "事業創出発表",
+      "furigana": "じぎょうそうしゅつはっぴょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "2300億円”。",
-      "furigana": "2300億円”。",
+      "clause_text": "見通し。",
+      "furigana": "みとおし。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

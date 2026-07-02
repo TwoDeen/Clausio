@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "つはずっと小さく、",
-      "furigana": "つはずっとちいさく、",
+      "clause_text": "つはずっと",
+      "furigana": "つはずっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして少し低い",
-      "furigana": "そしてすこしひくい",
+      "clause_text": "小さく、",
+      "furigana": "ちいさく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "そして少し低いのでした。",
+      "furigana": "そしてすこしひくいのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {

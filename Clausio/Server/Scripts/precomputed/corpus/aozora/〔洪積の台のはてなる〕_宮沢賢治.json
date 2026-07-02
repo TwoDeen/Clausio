@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一ひらの赤き粘土地桐の",
-      "furigana": "\nひとひらのあかきねんどち\n",
+      "furigana": "ひとひらのあかきねんどち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "低ければ鍛冶町の米屋",
-      "furigana": "たけひくければ\n",
+      "furigana": "たけひくければ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "すとまればざんざんと",
-      "furigana": "からすとまれば\n",
+      "furigana": "からすとまれば",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "イムバネス着ていぶかしく",
-      "furigana": "\nはいいろのいむばねすきて",
+      "furigana": "はいいろのいむばねすきて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "五助をながめ粘土地をよこぎりてくる",
-      "furigana": "\nいぶかしくごすけをながめ\nねんどちを",
+      "furigana": "いぶかしくごすけをながめ\nねんどちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {

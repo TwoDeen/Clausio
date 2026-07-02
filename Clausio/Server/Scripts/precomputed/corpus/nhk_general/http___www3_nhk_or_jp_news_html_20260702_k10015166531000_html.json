@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ミュトス",
-      "furigana": "ミュトス",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "南米ベネズエラでマグニチュード",
+      "furigana": "なんべいべねずえらでまぐにちゅーど",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "提供再開“",
-      "furigana": "提供再開“",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "7を超える地震が",
+      "furigana": "ななをこえるじしんが",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "情報収集",
-      "furigana": "情報収集",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "起きて1週間となり、",
+      "furigana": "おきていちしゅうかんとなり、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "進める”国内",
-      "furigana": "進める”国内",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "死亡が確認された人は2295人と",
+      "furigana": "しぼうがかくにんされたひとはににきゅうごにんと",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "金融機関。",
-      "furigana": "金融機関。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "九州",
-      "furigana": "九州",
+      "clause_text": "ベネズエラ",
+      "furigana": "べねずえら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "北部で線状降水帯",
-      "furigana": "北部で線状降水帯",
+      "clause_text": "地震被災地",
+      "furigana": "じしんひさいち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "発生土砂",
-      "furigana": "発生土砂",
+      "clause_text": "大雨で土砂",
+      "furigana": "おおあめでどしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "崩れや氾濫の",
-      "furigana": "崩れや氾濫の",
+      "clause_text": "崩れや建物倒壊の",
+      "furigana": "くずれやたてものとうかいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "発生も警戒を。",
-      "furigana": "発生も警戒を。",
+      "clause_text": "おそれも。",
+      "furigana": "おそれも。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "アメリカと",
-      "furigana": "アメリカと",
+      "clause_text": "トランプ大統領",
+      "furigana": "とらんぷだいとうりょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "イラン双方の",
-      "furigana": "イラン双方の",
+      "clause_text": "“中間選挙前に",
+      "furigana": "きごうちゅうかんせんきょまえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "担当者それぞれ",
-      "furigana": "担当者それぞれ",
+      "clause_text": "初の共和党",
+      "furigana": "はつのきょうわとう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "仲介国カタールと",
-      "furigana": "仲介国カタールと",
+      "clause_text": "大会開催へ",
+      "furigana": "たいかいかいさいへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "協議。",
-      "furigana": "協議。",
+      "clause_text": "”。",
+      "furigana": "きごう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "米大統領",
-      "furigana": "米大統領",
+      "clause_text": "“アメリカと",
+      "furigana": "きごうあめりかと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "資産報告書",
-      "furigana": "資産報告書",
+      "clause_text": "イラン交渉",
+      "furigana": "いらんこうしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "公開“主要収益は",
-      "furigana": "公開“主要収益は",
+      "clause_text": "60日超の",
+      "furigana": "ろくれいにちちょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "暗号資産関連",
-      "furigana": "暗号資産関連",
+      "clause_text": "可能性”米",
+      "furigana": "かのうせいきごうべい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "2300億円”。",
-      "furigana": "2300億円”。",
+      "clause_text": "メディア指摘。",
+      "furigana": "めでぃあしてき。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "米中",
-      "furigana": "米中",
+      "clause_text": "米大統領",
+      "furigana": "べいだいとうりょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "外相が",
-      "furigana": "外相が",
+      "clause_text": "資産報告書",
+      "furigana": "しさんほうこくしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "電話会談",
-      "furigana": "電話会談",
+      "clause_text": "公開“主要収益は",
+      "furigana": "こうかいきごうしゅようしゅうえきは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "王毅外相",
-      "furigana": "王毅外相",
+      "clause_text": "暗号資産関連",
+      "furigana": "あんごうしさんかんれん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "「台湾問題は慎重に」。",
-      "furigana": "「台湾問題は慎重に」。",
+      "clause_text": "2300億円”。",
+      "furigana": "にさんれいれいおくえんきごう。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

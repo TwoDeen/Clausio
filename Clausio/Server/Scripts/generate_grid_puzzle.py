@@ -2,135 +2,41 @@ import sys
 import os
 import json
 import re
+from typing import List, Dict, Optional
 
 try:
     from clausify import decompose_into_clauses_fallback
     from complete_jlpt_analyzer import analyze_sentence_grammar
 except ImportError as e:
     print(f"Error: Missing dependency script. {e}", file=sys.stderr)
-    print("Please ensure 'clausify.py' and 'complete_jlpt_analyzer.py' are in this root folder.", file=sys.stderr)
+    print(
+        "Please ensure 'clausify.py' and 'complete_jlpt_analyzer.py' are in this root folder.",
+        file=sys.stderr,
+    )
     sys.exit(1)
 
-# ─── Sudachi byte-limit guard ────────────────────────────────────────────────
+
 MAX_SUDACHI_BYTES = 45_000
+LEVEL_HIERARCHY = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
+REVERSE_HIERARCHY = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
+
+_NLP = None
 
 
 def _utf8_len(text: str) -> int:
     return len(text.encode("utf-8"))
 
 
-def _chunk_text_for_sudachi(text: str, max_bytes: int = MAX_SUDACHI_BYTES) -> list:
-    """Split text into chunks that are each safely under Sudachi's byte limit."""
-    text = text.strip()
-    if not text:
-        return []
-    if _utf8_len(text) <= max_bytes:
-        return [text]
+def _get_nlp():
+    global _NLP
+    if _NLP is not None:
+        return _NLP
 
-    # First try splitting on sentence-ending punctuation
-    pieces = [p.strip() for p in re.split(r'(?<=[。！？])', text) if p.strip()]
-
-    chunks = []
-    current = ""
-    for piece in pieces:
-        candidate = current + piece
-        if current and _utf8_len(candidate) > max_bytes:
-            chunks.append(current)
-            current = piece
-        else:
-            current = candidate
-    if current:
-        chunks.append(current)
-
-    # Hard character-count fallback for any chunk still too large
-    final_chunks = []
-    for chunk in chunks:
-        if _utf8_len(chunk) <= max_bytes:
-            final_chunks.append(chunk)
-            continue
-        start = 0
-        while start < len(chunk):
-            end = start
-            current_bytes = 0
-            while end < len(chunk):
-                char_bytes = len(chunk[end].encode("utf-8"))
-                if current_bytes + char_bytes > max_bytes:
-                    break
-                current_bytes += char_bytes
-                end += 1
-            final_chunks.append(chunk[start:end])
-            start = end
-
-    return [c for c in final_chunks if c.strip()]
-# ─────────────────────────────────────────────────────────────────────────────
-
-
-def _katakana_to_hiragana(text: str) -> str:
-    return "".join(
-        chr(ord(char) - 0x60) if 0x30A1 <= ord(char) <= 0x30F6 else char
-        for char in text
-    )
-
-
-def _extract_reading(token) -> str:
-    """Try every available reading source on a GiNZa token; return '' on failure."""
-    reading = ""
-
-    if token.tag_ and "," in token.tag_:
-        features = token.tag_.split(",")
-        if len(features) >= 7 and features[6] != "*":
-            reading = features[6]
-
-    if not reading:
-        if hasattr(token._, "reading") and token._.reading:
-            reading = token._.reading
-        elif hasattr(token._, "sudachi_morph") and token._.sudachi_morph:
-            try:
-                reading = token._.sudachi_morph.reading()
-            except Exception:
-                pass
-
-    if not reading and token.morph and token.morph.get("Reading"):
-        reading_list = token.morph.get("Reading")
-        if reading_list:
-            reading = reading_list[0]
-
-    return reading
-
-
-def _kana_for_clause(clause_text: str, full_doc, start_bound: int, end_bound: int, nlp) -> str:
-    """
-    Build a hiragana reading for clause_text using the pre-tokenised full_doc.
-    Falls back to a fresh nlp() call on the clause if the full_doc yields no readings.
-    """
-    kana_tokens = []
-    for token in full_doc:
-        token_start = token.idx
-        token_end = token_start + len(token.text)
-        if token_start >= start_bound and token_end <= end_bound:
-            reading = _extract_reading(token)
-            kana_tokens.append(_katakana_to_hiragana(reading) if reading else token.text)
-
-    kana_reading = "".join(kana_tokens) if kana_tokens else clause_text
-
-    # Fallback: if reading == raw text, re-tokenise just the clause
-    if kana_reading == clause_text and _utf8_len(clause_text) <= MAX_SUDACHI_BYTES:
-        fallback_doc = nlp(clause_text)
-        fresh_tokens = []
-        for t in fallback_doc:
-            r = _extract_reading(t)
-            fresh_tokens.append(_katakana_to_hiragana(r) if r else t.text)
-        kana_reading = "".join(fresh_tokens)
-
-    return kana_reading
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# PUBLIC API
-# ─────────────────────────────────────────────────────────────────────────────
-
-def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> dict:
-    import spacy
+    try:
+        import spacy
+    except Exception as e:
+        print(f"Error importing spaCy: {e}", file=sys.stderr)
+        return None
 
     config = {
         "components": {
@@ -141,37 +47,259 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     }
 
     try:
-        nlp = spacy.load("ja_ginza", config=config)
-    except Exception as nlp_err:
-        print(f"Error loading GiNZa pipeline: {nlp_err}", file=sys.stderr)
-        return {}
+        _NLP = spacy.load("ja_ginza", config=config)
+    except Exception as e:
+        print(f"Error loading GiNZa pipeline: {e}", file=sys.stderr)
+        _NLP = None
 
-    target_level = target_level.upper().strip()
+    return _NLP
 
-    # --- STEP 1: READ AND SEGMENT ---
-    with open(raw_txt_path, "r", encoding="utf-8") as f:
-        raw_content = f.read()
 
+def _chunk_text_for_sudachi(text: str, max_bytes: int = MAX_SUDACHI_BYTES) -> List[str]:
+    text = text.strip()
+    if not text:
+        return []
+
+    if _utf8_len(text) <= max_bytes:
+        return [text]
+
+    pieces = [p.strip() for p in re.split(r"(?<=[。！？])", text) if p.strip()]
+
+    chunks = []
+    current = ""
+
+    for piece in pieces:
+        candidate = current + piece
+        if current and _utf8_len(candidate) > max_bytes:
+            chunks.append(current)
+            current = piece
+        else:
+            current = candidate
+
+    if current:
+        chunks.append(current)
+
+    final_chunks = []
+    for chunk in chunks:
+        if _utf8_len(chunk) <= max_bytes:
+            final_chunks.append(chunk)
+            continue
+
+        start = 0
+        while start < len(chunk):
+            end = start
+            current_bytes = 0
+            while end < len(chunk):
+                char_bytes = len(chunk[end].encode("utf-8"))
+                if current_bytes + char_bytes > max_bytes:
+                    break
+                current_bytes += char_bytes
+                end += 1
+
+            piece = chunk[start:end].strip()
+            if piece:
+                final_chunks.append(piece)
+
+            if end == start:
+                end += 1
+            start = end
+
+    return [c for c in final_chunks if c.strip()]
+
+
+def _katakana_to_hiragana(text: str) -> str:
+    return "".join(
+        chr(ord(char) - 0x60) if 0x30A1 <= ord(char) <= 0x30F6 else char
+        for char in text
+    )
+
+
+def _extract_reading(token) -> str:
+    reading = ""
+
+    try:
+        if token.tag_ and "," in token.tag_:
+            features = token.tag_.split(",")
+            if len(features) >= 8 and features[7] != "*":
+                reading = features[7]
+            elif len(features) >= 7 and features[6] != "*":
+                reading = features[6]
+    except Exception:
+        pass
+
+    if not reading:
+        try:
+            if hasattr(token._, "reading") and token._.reading:
+                reading = token._.reading
+        except Exception:
+            pass
+
+    if not reading:
+        try:
+            if hasattr(token._, "sudachi_morph") and token._.sudachi_morph:
+                reading = token._.sudachi_morph.reading()
+        except Exception:
+            pass
+
+    if not reading:
+        try:
+            if token.morph and token.morph.get("Reading"):
+                reading_list = token.morph.get("Reading")
+                if reading_list:
+                    reading = reading_list[0]
+        except Exception:
+            pass
+
+    return reading or ""
+
+
+def _reading_or_surface(token) -> str:
+    reading = _extract_reading(token)
+    return _katakana_to_hiragana(reading) if reading else token.text
+
+
+def _safe_detect_level(doc) -> str:
+    try:
+        detected_level, _ = analyze_sentence_grammar(doc)
+        detected_level = str(detected_level).upper().strip()
+        return detected_level if detected_level in LEVEL_HIERARCHY else "N5"
+    except Exception:
+        return "N5"
+
+
+def _normalize_clauses(sentence_text: str) -> List[str]:
+    try:
+        clauses = decompose_into_clauses_fallback(sentence_text)
+    except Exception:
+        clauses = []
+
+    if not clauses:
+        clauses = [sentence_text]
+
+    clauses = clauses[:5]
+    while len(clauses) < 5:
+        clauses.append("")
+
+    return clauses
+
+
+def _clause_bounds_from_sentence(sentence_text: str, clauses: List[str]) -> List[tuple[int, int]]:
+    bounds = []
+    cursor = 0
+
+    for clause in clauses:
+        if not clause:
+            bounds.append((cursor, cursor))
+            continue
+
+        idx = sentence_text.find(clause, cursor)
+        if idx == -1:
+            idx = cursor
+
+        start = idx
+        end = start + len(clause)
+        bounds.append((start, end))
+        cursor = end
+
+    return bounds
+
+
+def _kana_for_clause(clause_text: str, full_doc, start_bound: int, end_bound: int, nlp) -> str:
+    if not clause_text:
+        return ""
+
+    kana_tokens = []
+    for token in full_doc:
+        token_start = token.idx
+        token_end = token_start + len(token.text)
+        if token_start >= start_bound and token_end <= end_bound:
+            kana_tokens.append(_reading_or_surface(token))
+
+    kana_reading = "".join(kana_tokens).strip() if kana_tokens else clause_text
+
+    if kana_reading == clause_text and _utf8_len(clause_text) <= MAX_SUDACHI_BYTES and nlp is not None:
+        try:
+            fallback_doc = nlp(clause_text)
+            fresh_tokens = [_reading_or_surface(t) for t in fallback_doc]
+            fallback_reading = "".join(fresh_tokens).strip()
+            if fallback_reading:
+                kana_reading = fallback_reading
+        except Exception:
+            pass
+
+    return kana_reading
+
+
+def _sentence_furigana_from_doc(sentence_text: str, nlp) -> Optional[str]:
+    if nlp is None or not sentence_text or _utf8_len(sentence_text) > MAX_SUDACHI_BYTES:
+        return None
+
+    try:
+        doc = nlp(sentence_text)
+        parts = [_reading_or_surface(t) for t in doc]
+        return "".join(parts)
+    except Exception:
+        return None
+
+
+def _dictionary_furigana_replace(text: str, furigana_dict: Dict[str, str]) -> str:
+    if not text:
+        return ""
+
+    out = text
+    for kanji in sorted(furigana_dict.keys(), key=len, reverse=True):
+        reading = furigana_dict.get(kanji)
+        if not reading:
+            continue
+        if kanji in out:
+            out = out.replace(kanji, reading)
+    return out
+
+
+def _news_clause_furigana(clause_text: str, furigana_dict: Dict[str, str], nlp) -> str:
+    if not clause_text:
+        return ""
+
+    by_doc = _sentence_furigana_from_doc(clause_text, nlp)
+    if by_doc and by_doc != clause_text:
+        return by_doc
+
+    return _dictionary_furigana_replace(clause_text, furigana_dict)
+
+
+def _clean_source_lines(raw_content: str) -> List[str]:
     lines = [line.strip() for line in raw_content.splitlines() if line.strip()]
     cleaned_lines = []
+
+    skip_prefixes = [
+        "Title:",
+        "Author:",
+        "Source URL:",
+        "---",
+        "RESTAURANT",
+        "西洋料理店",
+        "WILDCAT HOUSE",
+        "山猫軒",
+    ]
+
     for line in lines:
-        if any(line.startswith(prefix) for prefix in [
-            "Title:", "Author:", "Source URL:", "---",
-            "RESTAURANT", "西洋料理店", "WILDCAT HOUSE", "山猫軒",
-        ]):
+        if any(line.startswith(prefix) for prefix in skip_prefixes):
             continue
         cleaned_lines.append(line)
 
-    # Join with newline so paragraph breaks survive as natural split points
+    return cleaned_lines
+
+
+def _select_five_sentences_from_text(raw_content: str) -> List[str]:
+    cleaned_lines = _clean_source_lines(raw_content)
     combined_raw_text = "\n".join(cleaned_lines)
 
     raw_sentences = [
         s.strip()
-        for s in re.split(r'(?<=[。！？])', combined_raw_text)
+        for s in re.split(r"(?<=[。！？])", combined_raw_text)
         if s.strip()
     ]
 
-    # Apply Sudachi byte-limit chunking to every candidate sentence
     safe_sentences = []
     for s in raw_sentences:
         safe_sentences.extend(_chunk_text_for_sudachi(s))
@@ -182,45 +310,54 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     while len(selected_sentences) < 5:
         selected_sentences.append("立派な一軒の西洋造りの家がありました。")
 
-    level_hierarchy = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
-    reverse_hierarchy = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
-    highest_weight_encountered = 1
+    return selected_sentences
 
+
+def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> dict:
+    nlp = _get_nlp()
+    if nlp is None:
+        return {}
+
+    target_level = target_level.upper().strip()
+
+    with open(raw_txt_path, "r", encoding="utf-8") as f:
+        raw_content = f.read()
+
+    selected_sentences = _select_five_sentences_from_text(raw_content)
+
+    highest_weight_encountered = 1
     puzzle_grid = []
 
     print("\n--- Processing Matrix Grid Chunks Incremental Loop ---")
 
-    # --- STEP 2: LOOP AND DECOMPOSE INTO COLUMNS ---
     for row_idx, sentence_text in enumerate(selected_sentences):
         sentence_id = row_idx + 1
 
-        # Hard guard — should never trigger after chunking, but keeps us safe
         if _utf8_len(sentence_text) > MAX_SUDACHI_BYTES:
-            print(f" [SKIP] Row {sentence_id} still too long after chunking "
-                  f"({_utf8_len(sentence_text)} bytes), skipping.")
+            print(
+                f" [SKIP] Row {sentence_id} still too long after chunking "
+                f"({_utf8_len(sentence_text)} bytes), skipping."
+            )
             continue
 
-        full_sentence_doc = nlp(sentence_text)
+        try:
+            full_sentence_doc = nlp(sentence_text)
+        except Exception as e:
+            print(f" [ERR] NLP failed on row {sentence_id}: {e}")
+            continue
 
-        detected_level, _ = analyze_sentence_grammar(full_sentence_doc)
-        current_weight = level_hierarchy.get(detected_level, 1)
+        detected_level = _safe_detect_level(full_sentence_doc)
+        current_weight = LEVEL_HIERARCHY.get(detected_level, 1)
         if current_weight > highest_weight_encountered:
             highest_weight_encountered = current_weight
 
-        clauses = decompose_into_clauses_fallback(sentence_text)
-        clauses = clauses[:5]
-        while len(clauses) < 5:
-            clauses.append("")
+        clauses = _normalize_clauses(sentence_text)
+        bounds = _clause_bounds_from_sentence(sentence_text, clauses)
 
         print(f" -> Line #{sentence_id} sliced into 5 game puzzle matrix columns.")
 
-        current_char_offset = 0
-
         for col_idx, clause_text in enumerate(clauses):
-            clause_len = len(clause_text)
-            start_bound = current_char_offset
-            end_bound = start_bound + clause_len
-
+            start_bound, end_bound = bounds[col_idx]
             kana_reading = _kana_for_clause(
                 clause_text, full_sentence_doc, start_bound, end_bound, nlp
             )
@@ -236,14 +373,11 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
                 "furigana": kana_reading,
                 "sentence_individual_grammar_level": detected_level,
             }
-
             puzzle_grid.append(clause_node)
-            current_char_offset += clause_len
 
-    # --- STEP 3: ASSEMBLE PAYLOAD ---
     game_payload = {
         "target_level_requested": target_level,
-        "highest_grammar_level_encountered": reverse_hierarchy[highest_weight_encountered],
+        "highest_grammar_level_encountered": REVERSE_HIERARCHY[highest_weight_encountered],
         "passage_extraction_strategy": "Incremental On-The-Fly Tokenization Slicing",
         "total_grid_clauses": len(puzzle_grid),
         "puzzle_solution_flow": {
@@ -254,6 +388,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     }
 
     try:
+        os.makedirs(output_dir, exist_ok=True)
         base_id = os.path.basename(raw_txt_path).replace(".txt", "")
         debug_output_path = os.path.join(output_dir, f"{base_id}_incremental_debug.json")
         with open(debug_output_path, "w", encoding="utf-8") as dbg_out:
@@ -269,59 +404,44 @@ def build_puzzle_from_news_tokens(
     furigana_dict: dict,
     target_level: str,
 ) -> dict:
-    import spacy
-
-    config = {
-        "components": {
-            "compound_splitter": {
-                "split_mode": "C",
-            }
-        }
-    }
-
-    try:
-        nlp = spacy.load("ja_ginza", config=config)
-    except Exception as e:
-        print(f"Error loading GiNZa in news module: {e}", file=sys.stderr)
-        nlp = None
-
+    nlp = _get_nlp()
     target_level = target_level.upper().strip()
     puzzle_grid = []
 
-    level_hierarchy = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
-    reverse_hierarchy = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
     highest_weight_encountered = 1
 
-    for row_idx, sentence_text in enumerate(five_sentences_list):
+    normalized_sentences = list(five_sentences_list[:5])
+    while len(normalized_sentences) < 5:
+        normalized_sentences.append("")
+
+    for row_idx, sentence_text in enumerate(normalized_sentences):
         sentence_id = row_idx + 1
 
         print(f"\n[DEBUG] Processing Sentence {sentence_id}: {sentence_text[:50]}...")
         print(f"[DEBUG] GiNZa NLP loaded: {nlp is not None}")
 
         detected_level = "N5"
-        if nlp:
-            if _utf8_len(sentence_text) > MAX_SUDACHI_BYTES:
-                print(f"[WARN] Sentence {sentence_id} too long for Sudachi "
-                      f"({_utf8_len(sentence_text)} bytes), using N5 fallback.")
-            else:
+        if nlp and sentence_text and _utf8_len(sentence_text) <= MAX_SUDACHI_BYTES:
+            try:
                 doc = nlp(sentence_text)
-                detected_level, _ = analyze_sentence_grammar(doc)
+                detected_level = _safe_detect_level(doc)
                 print(f"[DEBUG] Detected grammar level: {detected_level}")
+            except Exception as e:
+                print(f"[WARN] NLP failed for sentence {sentence_id}: {e}")
+        elif sentence_text and _utf8_len(sentence_text) > MAX_SUDACHI_BYTES:
+            print(
+                f"[WARN] Sentence {sentence_id} too long for Sudachi "
+                f"({_utf8_len(sentence_text)} bytes), using N5 fallback."
+            )
 
-        current_weight = level_hierarchy.get(detected_level, 1)
+        current_weight = LEVEL_HIERARCHY.get(detected_level, 1)
         if current_weight > highest_weight_encountered:
             highest_weight_encountered = current_weight
 
-        clauses = decompose_into_clauses_fallback(sentence_text)
-        clauses = clauses[:5]
-        while len(clauses) < 5:
-            clauses.append("")
+        clauses = _normalize_clauses(sentence_text)
 
         for col_idx, clause_text in enumerate(clauses):
-            clause_furigana = clause_text
-            for kanji in sorted(furigana_dict.keys(), key=len, reverse=True):
-                if kanji in clause_furigana:
-                    clause_furigana = clause_furigana.replace(kanji, furigana_dict[kanji])
+            clause_furigana = _news_clause_furigana(clause_text, furigana_dict or {}, nlp)
 
             clause_node = {
                 "clause_id": (row_idx * 5) + col_idx + 1,
@@ -338,7 +458,7 @@ def build_puzzle_from_news_tokens(
 
     game_payload = {
         "target_level_requested": target_level,
-        "highest_grammar_level_encountered": reverse_hierarchy[highest_weight_encountered],
+        "highest_grammar_level_encountered": REVERSE_HIERARCHY[highest_weight_encountered],
         "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
         "total_grid_clauses": len(puzzle_grid),
         "puzzle_solution_flow": {

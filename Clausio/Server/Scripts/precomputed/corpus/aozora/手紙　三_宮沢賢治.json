@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "〇、",
-      "furigana": "\nきごう",
+      "furigana": "きごう、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "〇〇〇一四粍ですがこれは人によって見えたり",
-      "furigana": "、れいれいれいいちよんみりめーとる　　ですがこれはひとによって",
+      "clause_text": "〇〇〇一四粍ですが",
+      "furigana": "れいれいれいいちよんみりめーとる",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "見えなかったりする",
-      "furigana": "たりみえなかっ",
+      "clause_text": "これは人によって見えたり見えなかったり",
+      "furigana": "これはひとによってみえたりみえなかったり",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "するの",
+      "clause_text": "するのです。",
+      "furigana": "するのです。",
       "sentence_individual_grammar_level": "N3"
     }
   ]

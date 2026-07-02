@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "富士山は、",
-      "furigana": "ふじさんは、",
+      "furigana": "ふじやまは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "7月1日から",
-      "furigana": "7がつついたちから",
+      "furigana": "しちがつついたちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "側の2つの",
-      "furigana": "がわのふたつの",
+      "furigana": "がわのふつつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ルートです。",
-      "furigana": "ルートです。",
+      "furigana": "るーとです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "富士山には、",
-      "furigana": "ふじさんには、",
+      "furigana": "ふじやまには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "山梨県は午後2時から",
-      "furigana": "やまなしけんはごごふたじから",
+      "furigana": "やまなしけんはごごにじから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "朝3時まで、",
-      "furigana": "あさ3じまで、",
+      "furigana": "あささんじまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "5合目のゲートを",
-      "furigana": "5ごうめのゲートを",
+      "furigana": "ごごうめのげーとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "側で1日に",
-      "furigana": "がわでついたちに",
+      "furigana": "がわでいちにちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "4000人",
-      "furigana": "4000ひと",
+      "furigana": "よんれいれいれいにん",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "シャツを一枚しかもっていなかった",
-      "furigana": "しゃつをいちまいしかもっていなかった",
+      "clause_text": "シャツを一枚しかも",
+      "furigana": "しゃつをいちまいしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "っていなかったのです。",
+      "furigana": "ていなかったのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "教室でもいちばん",
-      "furigana": "きょうしつでもいちばん",
+      "clause_text": "教室でもいちばん火に遠いこわれた戸の",
+      "furigana": "きょうしつでもいちばんひにとおいこわれたとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "火に遠いこわれた戸のすきまから風の",
-      "furigana": "ひにとおいこわれたとのすきまからかぜの",
+      "clause_text": "すきまから風のひゅうひゅう",
+      "furigana": "すきまからかぜのひゅうひゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひゅうひゅう入って来る北東の隅だった",
-      "furigana": "ひゅうひゅうはいってくるほくとうのすみだった",
+      "clause_text": "入って来る北東の",
+      "furigana": "はいってくるほくとうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "隅だったのです。",
+      "furigana": "すみだったのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

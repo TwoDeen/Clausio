@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "な横つ腹なんぞに、",
-      "furigana": "なよこつはらなんぞに",
+      "furigana": "なよこつはらなんぞに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "二三発お見舞まうしたら、",
-      "furigana": "、にさんはつおみまいまうしたら",
+      "furigana": "にさんはつおみまいまうしたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ずゐぶん痛快だら",
-      "furigana": "、ずいぶんつうかい",
+      "furigana": "ずいぶんつうかいだら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "うねえ。",
-      "furigana": "うねえ",
+      "furigana": "うねえ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

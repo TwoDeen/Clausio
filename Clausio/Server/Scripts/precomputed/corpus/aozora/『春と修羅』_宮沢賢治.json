@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "あるくのは",
-      "furigana": "\nあるくの",
+      "furigana": "あるくのは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "はやい",
-      "furigana": "は",
+      "furigana": "はやい",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "流れてゐる",
-      "furigana": "　ながれて",
+      "furigana": "ながれている",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "オレンヂ",
-      "furigana": "いる\n",
+      "furigana": "おれんぢ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "火口ですこれから",
-      "furigana": "かこうです\nこれ",
+      "clause_text": "火口ですこれから外輪山を",
+      "furigana": "かこうです\nこれからがいりんざん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "外輪山をめぐるのです",
-      "furigana": "がいりんざんをめぐるの",
+      "clause_text": "めぐるのですけれども",
+      "furigana": "めぐるのですけれども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれどもいまはまだ",
-      "furigana": "けれども\nいまは",
+      "clause_text": "いまはまだなんにも見えませ",
+      "furigana": "いまはまだなんにもみえませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なんにも見えませ",
-      "furigana": "まだなんにもみえ",
+      "clause_text": "んからもすこし明るく",
+      "furigana": "んから\nもすこし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "持つてこの岩のかげに居てくださいああ暗い",
-      "furigana": "でももつて\nこのいわのかげにいてください\n",
+      "furigana": "でももつて\nこのいわのかげにいてください",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "あれは",
-      "furigana": "\nあれ",
+      "furigana": "あれは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "雲です",
-      "furigana": "はくも",
+      "furigana": "くもです",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "柔らか",
-      "furigana": "　",
+      "furigana": "やわらか",
       "sentence_individual_grammar_level": "N3"
     }
   ]

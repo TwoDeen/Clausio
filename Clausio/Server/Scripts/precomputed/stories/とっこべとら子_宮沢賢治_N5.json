@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "「とっこべ、とら子」という",
-      "furigana": "「とっこべ、とらこ」という",
+      "clause_text": "「とっこべ、とら子」",
+      "furigana": "「とっこべ、とらこ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "というのです。",
+      "furigana": "というのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「とっこ",
-      "furigana": "「とっこ",
+      "clause_text": "「と",
+      "furigana": "「と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "べ」",
-      "furigana": "べ」",
+      "clause_text": "っこべ」",
+      "furigana": "っこべ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "あちこちに住んでいた",
-      "furigana": "あちこちにすんでいた",
+      "clause_text": "あちこちに",
+      "furigana": "あちこちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでしょうか。",
-      "furigana": "のでしょうか。",
+      "clause_text": "住んでいたのでしょうか。",
+      "furigana": "すんでいたのでしょうか。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

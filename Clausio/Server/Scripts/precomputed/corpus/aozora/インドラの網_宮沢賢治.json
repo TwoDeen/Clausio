@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "赤い実も",
-      "furigana": "あかいじつも",
+      "clause_text": "赤い",
+      "furigana": "あかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ついていた",
-      "furigana": "ついていた",
+      "clause_text": "実も",
+      "furigana": "じつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "ついていたのです。",
+      "furigana": "ついていたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いっぱいに張って高陵産の",
-      "furigana": "いっぱいにはってこうりょうさんの",
+      "clause_text": "いっぱいに",
+      "furigana": "いっぱいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "磁器よりもっと",
-      "furigana": "じきよりもっと",
+      "clause_text": "張って高陵産の",
+      "furigana": "はってこうりょうさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "冷たく白い",
-      "furigana": "つめたくしろい",
+      "clause_text": "磁器よりもっと冷たく",
+      "furigana": "じきよりもっとつめたく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "白いのでした。",
+      "furigana": "しろいのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

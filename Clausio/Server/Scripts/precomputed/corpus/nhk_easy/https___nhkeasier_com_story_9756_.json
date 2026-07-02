@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "7月1日、",
-      "furigana": "7がつついたち、",
+      "furigana": "しちがつついたち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "奄美",
-      "furigana": "奄美",
+      "furigana": "あまみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "地方で梅雨が",
-      "furigana": "地方でつゆが",
+      "furigana": "ちほうでつゆが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "近畿地方など西日本で、",
-      "furigana": "きんきちほうなどにしにほんで、",
+      "furigana": "きんきちほうなどにしにっぽんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "1日も梅雨の雨が",
-      "furigana": "ついたちもつゆのあめが",
+      "furigana": "いちにちもつゆのあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "西日本で1",
-      "furigana": "にしにほんで1",
+      "clause_text": "西日本で1日と",
+      "furigana": "にしにっぽんでいちにちと",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "日と2日は",
-      "furigana": "日とふつかは",
+      "clause_text": "2日は",
+      "furigana": "ふつかは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "雨がたくさん降り",
-      "furigana": "あめがたくさんふり",
+      "furigana": "あめがたくさんおり",
       "sentence_individual_grammar_level": "N3"
     },
     {

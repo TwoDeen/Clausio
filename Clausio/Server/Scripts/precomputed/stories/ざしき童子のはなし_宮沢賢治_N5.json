@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "箒の音がした",
-      "furigana": "ほうきのおとがした",
+      "clause_text": "箒の音が",
+      "furigana": "ほうきのおとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "したのです。",
+      "furigana": "したのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

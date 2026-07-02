@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "こゝろを南の青白い",
-      "furigana": "、こころをみなみの",
+      "furigana": "こころをみなみのあおじろい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "天末に投げながら、",
-      "furigana": "てんまつになげながら",
+      "furigana": "てんまつになげながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひとりごとのやうに云った",
-      "furigana": "、ひとりごとのやうにいっ",
+      "clause_text": "ひとりごとのやうに",
+      "furigana": "ひとりごとのやうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "たのでした",
+      "clause_text": "云ったのでした。",
+      "furigana": "いったのでした。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

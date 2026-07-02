@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "小屋をかけて泊つて療す",
-      "furigana": "こやをかけてとまりつてなおす",
+      "clause_text": "小屋をかけて泊",
+      "furigana": "こやをかけてとまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "つて療すのでした。",
+      "furigana": "つてなおすのでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

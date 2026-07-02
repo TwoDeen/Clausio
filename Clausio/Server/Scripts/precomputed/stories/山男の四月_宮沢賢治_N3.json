@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "山鳥がとれた",
-      "furigana": "やまどりがとれた",
+      "clause_text": "山鳥がと",
+      "furigana": "やまどりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "れたのです。",
+      "furigana": "たのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

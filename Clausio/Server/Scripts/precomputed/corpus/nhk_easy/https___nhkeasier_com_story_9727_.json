@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "21",
-      "furigana": "21",
+      "clause_text": "21日は",
+      "furigana": "にいちにちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日は",
-      "furigana": "にちは",
+      "clause_text": "「",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「",
-      "furigana": "「",
+      "clause_text": "父の日」で",
+      "furigana": "ちちのひ」で",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "父の日」で",
-      "furigana": "とうのにち」で",
+      "clause_text": "す。",
+      "furigana": "す。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "",
+      "furigana": "",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "18日、",
-      "furigana": "18にち、",
+      "furigana": "いちようか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "3歳から6歳の子どもたちが、",
-      "furigana": "3さいから6さいのこどもたちが、",
+      "furigana": "さんさいからろくさいのこどもたちが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ポストに手紙を",
-      "furigana": "ポストにてがみを",
+      "furigana": "ぽすとにてがみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "入れました。",
-      "furigana": "はいれました。",
+      "furigana": "いれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことで十",
-      "furigana": "ことでじゅう",
+      "clause_text": "ことで十階の",
+      "furigana": "ことでじゅうかいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "階の床を",
-      "furigana": "かいのゆかを",
+      "clause_text": "床を",
+      "furigana": "ゆかを",
       "sentence_individual_grammar_level": "N5"
     },
     {

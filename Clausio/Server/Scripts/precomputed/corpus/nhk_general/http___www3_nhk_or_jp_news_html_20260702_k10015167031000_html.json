@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "インドを訪問中の高市",
-      "furigana": "インドを訪問中の高市",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "育てられなくなった赤ちゃんを匿名で受け入れる",
+      "furigana": "そだてられなくなったあかちゃんをとくめいでうけいれる",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "総理大臣は、",
-      "furigana": "総理大臣は、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "「赤ちゃんポスト」を設けた東京墨田区の病院は",
+      "furigana": "「あかちゃんぽすと」をもうけたとうきょうすみだくのびょういんは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "2日にモディ",
-      "furigana": "2日にモディ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "取り組みを始めてから1年間にあわせて20人の",
+      "furigana": "とりくみをはじめてからいちねんかんにあわせてにれいにんの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "首相との首脳会談に臨むことに",
-      "furigana": "首相との首脳会談に臨むことに",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "赤ちゃんが預けられたことを明らかに",
+      "furigana": "あかちゃんがあずけられたことをあきらかに",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しています。",
-      "furigana": "しています。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "しました。",
+      "furigana": "しました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "長野東御で母娘",
-      "furigana": "長野東御で母娘",
+      "clause_text": "“赤ちゃん",
+      "furigana": "きごうあかちゃん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2人死亡長男",
-      "furigana": "2人死亡長男",
+      "clause_text": "すぐ寝る音楽”",
+      "furigana": "すぐねるおんがくきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "切りつけた",
-      "furigana": "切りつけた",
+      "clause_text": "育児中の親から",
+      "furigana": "いくじちゅうのおやから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "疑い46",
-      "furigana": "疑い46",
+      "clause_text": "多くの反響",
+      "furigana": "おおくのはんきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "歳の父親を逮捕。",
-      "furigana": "歳の父親を逮捕。",
+      "clause_text": "千葉。",
+      "furigana": "ちば。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "名古屋",
-      "furigana": "名古屋",
+      "clause_text": "車のパワー",
+      "furigana": "くるまのぱわー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "郵便局で“",
-      "furigana": "郵便局で“",
+      "clause_text": "ウインドー",
+      "furigana": "ういんどー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "誤ってスプレー",
-      "furigana": "誤ってスプレー",
+      "clause_text": "子どもの首や指が",
+      "furigana": "こどものくびやゆびが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "”病院に",
-      "furigana": "”病院に",
+      "clause_text": "挟まる事故に",
+      "furigana": "はさまるじこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "5人搬送。",
-      "furigana": "5人搬送。",
+      "clause_text": "注意。",
+      "furigana": "ちゅうい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "浜岡原発データ",
-      "furigana": "浜岡原発データ",
+      "clause_text": "九州北部で土砂",
+      "furigana": "きゅうしゅうほくぶでどしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "不正問題",
-      "furigana": "不正問題",
+      "clause_text": "崩れや",
+      "furigana": "くずれや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "中部電力が",
-      "furigana": "中部電力が",
+      "clause_text": "氾濫も雨の",
+      "furigana": "はんらんもあめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "規制委指摘後も",
-      "furigana": "規制委指摘後も",
+      "clause_text": "ピーク過ぎるも",
+      "furigana": "ぴーくすぎるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "データ操作。",
-      "furigana": "データ操作。",
+      "clause_text": "十分注意を。",
+      "furigana": "じゅうぶんちゅういを。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "“アメリカと",
-      "furigana": "“アメリカと",
+      "clause_text": "【大雨】",
+      "furigana": "【おおあめ】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "イラン交渉",
-      "furigana": "イラン交渉",
+      "clause_text": "各地で被害熊本の",
+      "furigana": "かくちでひがいくまもとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "60日超の",
-      "furigana": "60日超の",
+      "clause_text": "旅館で浸水",
+      "furigana": "りょかんでしんすい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "可能性”米",
-      "furigana": "可能性”米",
+      "clause_text": "長崎や大分でも",
+      "furigana": "ながさきやおおいたでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "メディア指摘。",
-      "furigana": "メディア指摘。",
+      "clause_text": "土砂崩れ。",
+      "furigana": "どしゃくずれ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ノルデはそれから",
-      "furigana": "のるではそれから",
+      "clause_text": "ノルデはそれからまた",
+      "furigana": "のるではそれからまた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "また十二年、",
-      "furigana": "またじゅうにねん、",
+      "clause_text": "十二年、",
+      "furigana": "じゅうにねん、",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "虹や月あかりからもらつてきた",
-      "furigana": "にじやつきあかりからもらつてきた",
+      "clause_text": "虹や月あかりからもら",
+      "furigana": "にじやつきあかりからもら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "つてきたのです。",
+      "furigana": "つてきたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ふるへながら立つたりしますと、もうどうしてもこんな気がしてしかたない",
-      "furigana": "ふるへながらたつたりしますと、もうどうしてもこんなきがしてしかたない",
+      "clause_text": "ふるへながら立つたりしますと、もうどうしてもこんな気が",
+      "furigana": "ふるへながらたつたりしますと、もうどうしてもこんなきが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "してしかたないのです。",
+      "furigana": "してしかたないのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

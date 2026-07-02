@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いちばん目の子も居た",
-      "furigana": "いちばんめのこもいた",
+      "clause_text": "いちばん目の子も",
+      "furigana": "いちばんめのこも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "居たのです。",
+      "furigana": "いたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

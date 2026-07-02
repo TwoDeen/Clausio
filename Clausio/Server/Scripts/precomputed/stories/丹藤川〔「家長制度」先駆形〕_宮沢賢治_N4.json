@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "そのむすこらの一人でも",
-      "furigana": "そのむすこらのひとりでも",
+      "clause_text": "そのむすこらの一人",
+      "furigana": "そのむすこらのひとり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "すぐに私を外のくらやみに",
-      "furigana": "すぐにわたくしをそとのくらやみに",
+      "clause_text": "でもすぐに私を外の",
+      "furigana": "でもすぐにわたくしをそとの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "連れ出すだらう。",
-      "furigana": "つれだすだらう。",
+      "clause_text": "くらやみに連れ出すだらう。",
+      "furigana": "くらやみにつれだすだらう。",
       "sentence_individual_grammar_level": "N4"
     },
     {

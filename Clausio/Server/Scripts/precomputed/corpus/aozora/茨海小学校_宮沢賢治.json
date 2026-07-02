@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "おかしいとみんな云う",
-      "furigana": "おかしいとみんないう",
+      "clause_text": "おかしいとみんな",
+      "furigana": "おかしいとみんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "云うのです。",
+      "furigana": "いうのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

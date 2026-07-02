@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "中や畑の間をゆっくり",
-      "furigana": "なかやはたけのあいだをゆっくり",
+      "clause_text": "中や畑の間を",
+      "furigana": "なかやはたけのあいだを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるいてゐる",
-      "furigana": "あるいている",
+      "clause_text": "ゆっくり",
+      "furigana": "ゆっくり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "あるいてゐるのでした。",
+      "furigana": "あるいているのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれどもあんまり",
-      "furigana": "けれどもあんまり",
+      "clause_text": "けれどもあんまり子供らが虔",
+      "furigana": "けれどもあんまりこどもらがけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "子供らが虔十をばかに",
-      "furigana": "こどもらがけんじゅうをばかに",
+      "clause_text": "十をばかにして笑",
+      "furigana": "じゅうをばかにしてわらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "して笑ふものですから虔十はだんだん",
-      "furigana": "してわらいふものですからけんじゅうはだんだん",
+      "clause_text": "ふものですから虔十はだんだん",
+      "furigana": "ふものですからけんじゅうはだんだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立ってゐる",
-      "furigana": "ついてごまかしながらいつまでもいつまでもそのぶなのきをみあげてたっている",
+      "clause_text": "ついてごまかしながらいつまでもいつまでもそのぶなの木を",
+      "furigana": "ついてごまかしながらいつまでもいつまでもそのぶなのきを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "見上げて立ってゐるのでした。",
+      "furigana": "みあげてたっているのでした。",
       "sentence_individual_grammar_level": "N4"
     },
     {

@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おとなのくせに、",
-      "furigana": "、おとなのくせに",
+      "furigana": "おとなのくせに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "今日は朝から口笛などを",
-      "furigana": "、きょうはあさからくちぶえなど",
+      "furigana": "きょうはあさからくちぶえなどを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "吹いてゐます。",
-      "furigana": "をふいています",
+      "furigana": "ふいています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "こいつを着る",
-      "furigana": "こいつをきる",
+      "clause_text": "こいつを",
+      "furigana": "こいつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "着るのです。",
+      "furigana": "きるのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

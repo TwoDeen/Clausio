@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "サッカー、",
-      "furigana": "サッカー、",
+      "furigana": "さっかー、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ワールドカップで20日、",
-      "furigana": "ワールドカップではつか、",
+      "furigana": "わーるどかっぷでにれいにち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "日本とチュニジアの",
-      "furigana": "にっぽんとチュニジアの",
+      "furigana": "にっぽんとちゅにじあの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "メキシコでありました。",
-      "furigana": "メキシコでありました。",
+      "furigana": "めきしこでありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "日本は1点を",
-      "furigana": "にっぽんはひとてんを",
+      "furigana": "にっぽんはいちてんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "上田綺世選手が2",
-      "furigana": "うえだあやせせんしゅがふた",
+      "furigana": "うえだきせいせんしゅがに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "最後は4対0でチュニジアに",
-      "furigana": "さいごは4たい0でチュニジアに",
+      "furigana": "さいごはよんたいれいでちゅにじあに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ワールドカップで、",
-      "furigana": "ワールドカップで、",
+      "furigana": "わーるどかっぷで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "試合で4点を",
-      "furigana": "しあいで4てんを",
+      "furigana": "しあいでよんてんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "2つの試合を",
-      "furigana": "ふたつのしあいを",
+      "furigana": "ふつつのしあいを",
       "sentence_individual_grammar_level": "N5"
     },
     {

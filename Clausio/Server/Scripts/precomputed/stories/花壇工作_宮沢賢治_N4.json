@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "った残りの晒しの縁のまっ白な毬も",
-      "furigana": "とったのこりのさらしのえんのまっしろなかさ",
+      "furigana": "たのこりのさらしのえんのまっしろなかさも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "出て来た。",
-      "furigana": "もでてきた",
+      "furigana": "でてきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "踊るといふのはどうだあんな",
-      "furigana": "おどるといふのはどうだ　",
+      "furigana": "おどるといふのはどうだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "単調で暑苦しい蔬菜畑の仕事に",
-      "furigana": "たんちょうであつくるしいそさいはたけのしごと",
+      "furigana": "たんちょうであつくるしいそさいはたけのしごとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "くらべていくら楽しいかしれないと考へた。",
-      "furigana": "にくらべていくらたのしいかしれないとかんがえた",
+      "furigana": "くらべていくらたのしいかしれないとかんがえた。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

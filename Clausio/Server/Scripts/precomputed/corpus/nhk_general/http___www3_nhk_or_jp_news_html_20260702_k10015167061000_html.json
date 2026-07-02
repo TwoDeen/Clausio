@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N3",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "大リーグ、",
-      "furigana": "大リーグ、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "福岡管区気象台と久留米市によりますと、",
+      "furigana": "ふくおかかんくきしょうだいとくるめしによりますと、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "カブスの鈴木誠也選手はパドレス戦で大リーグ通算100号の",
-      "furigana": "カブスの鈴木誠也選手はパドレス戦で大リーグ通算100号の",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "2日朝久留米市北野町で農業用ハウスが",
+      "furigana": "ふつかあさくるめしきたのちょうでのうぎょうようはうすが",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ホームランを打って3安打3打点と活躍し、",
-      "furigana": "ホームランを打って3安打3打点と活躍し、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "少なくとも10棟壊れているのが",
+      "furigana": "すくなくともいちれいむねこわれているのが",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "チームは5連勝",
-      "furigana": "チームは5連勝",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "確認されたという",
+      "furigana": "かくにんされたという",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しました。",
-      "furigana": "しました。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ことです。",
+      "furigana": "ことです。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "W杯日本",
-      "furigana": "W杯日本",
+      "clause_text": "けが人は",
+      "furigana": "けがにんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "代表が帰国へ",
-      "furigana": "代表が帰国へ",
+      "clause_text": "い",
+      "furigana": "い",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "森保監督",
-      "furigana": "森保監督",
+      "clause_text": "ない",
+      "furigana": "ない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "去就は",
-      "furigana": "去就は",
+      "clause_text": "という",
+      "furigana": "という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "「何も聞いていない」。",
-      "furigana": "「何も聞いていない」。",
+      "clause_text": "ことです。",
+      "furigana": "ことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "NPBSNSでの",
-      "furigana": "NPBSNSでの",
+      "clause_text": "九州北部で土砂",
+      "furigana": "きゅうしゅうほくぶでどしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "審判員に",
-      "furigana": "審判員に",
+      "clause_text": "崩れや",
+      "furigana": "くずれや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "対する",
-      "furigana": "対する",
+      "clause_text": "氾濫も雨の",
+      "furigana": "はんらんもあめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "「ひぼう中傷監視システム」",
-      "furigana": "「ひぼう中傷監視システム」",
+      "clause_text": "ピーク過ぎるも",
+      "furigana": "ぴーくすぎるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "導入。",
-      "furigana": "導入。",
+      "clause_text": "十分注意を。",
+      "furigana": "じゅうぶんちゅういを。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "【プロ野球",
-      "furigana": "【プロ野球",
+      "clause_text": "【大雨】",
+      "furigana": "【おおあめ】",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "結果】",
-      "furigana": "結果】",
+      "clause_text": "各地で被害熊本の",
+      "furigana": "かくちでひがいくまもとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ソフトバンクが",
-      "furigana": "ソフトバンクが",
+      "clause_text": "旅館で浸水",
+      "furigana": "りょかんでしんすい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "快勝で首位",
-      "furigana": "快勝で首位",
+      "clause_text": "長崎や大分でも",
+      "furigana": "ながさきやおおいたでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "キープ。",
-      "furigana": "キープ。",
+      "clause_text": "土砂崩れ。",
+      "furigana": "どしゃくずれ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "佐々木",
-      "furigana": "佐々木",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "まもなく",
+      "furigana": "まもなく",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "麟太郎選手",
-      "furigana": "麟太郎選手",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "日印首脳会談",
+      "furigana": "にちいんしゅのうかいだん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ソフトバンクから",
-      "furigana": "ソフトバンクから",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "インドで2兆円超の",
+      "furigana": "いんどでにちょうえんちょうの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "背番号「1」",
-      "furigana": "背番号「1」",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "事業創出発表",
+      "furigana": "じぎょうそうしゅつはっぴょう",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "提示される。",
-      "furigana": "提示される。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "見通し。",
+      "furigana": "みとおし。",
+      "sentence_individual_grammar_level": "N5"
     }
   ]
 }

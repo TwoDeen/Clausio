@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一九二七（房中寒くむなしくて灯は",
-      "furigana": "\nいちきゅうになな\nきごうぼうちゅうさむくむなしくて",
+      "furigana": "いちきゅうになな\nきごうぼうちゅうさむくむなしくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "消え月は出でざるに",
-      "furigana": "\nあかりはきえつきはいで",
+      "furigana": "きえつきはいでざるに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "大なる恐怖の声",
-      "furigana": "ざるに\nだいなる",
+      "furigana": "だいなるきょうふのこえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "なしていま起ちたるはそも何ぞ！",
-      "furigana": "きょうふのこえなして\nいまたちたるは",
+      "furigana": "なして\nいまたちたるはそもなんぞ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "……わが",
-      "furigana": "……\n",
+      "furigana": "……",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "知るものの",
-      "furigana": "しるもの",
+      "furigana": "しるものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "霊よ",
-      "furigana": "のれい",
+      "furigana": "れいよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "何とてなれは",
-      "furigana": "よ\nなんとて",
+      "furigana": "なんとてなれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "来りしや？",
-      "furigana": "はきたりし",
+      "furigana": "きたりしや?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "君も必ず来らんと",
-      "furigana": "ば\nきみもかならずき",
+      "furigana": "きみもかならずきらんと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "……）（",
-      "furigana": "らんと…",
+      "furigana": "……きごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "愛しきされど",
-      "furigana": "…きごう\nきごう",
+      "furigana": "いとしきされど",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "（",
-      "furigana": "\n",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "しかも",
-      "furigana": "きごう",
+      "furigana": "しかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "汝とていまは",
-      "furigana": "なんじとていま",
+      "furigana": "なんじとていまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "亡し）",
-      "furigana": "はなし",
+      "furigana": "なしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {

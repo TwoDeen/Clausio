@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "九月十九日あなたは、",
-      "furigana": "　きゅうがつじゅうきゅうにち\nあなた",
+      "furigana": "きゅうがつじゅうきゅうにち\nあなた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ごきげんよろしいほで、",
-      "furigana": "は、ごきげんよろしいほ",
+      "furigana": "ごきげんよろしいほで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "け",
-      "furigana": "で",
+      "furigana": "け",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "つこです。",
-      "furigana": "、けつこ",
+      "furigana": "つこです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "おいでん",
-      "furigana": "おいで\n",
+      "furigana": "おいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "なさい。",
-      "furigana": "んなさい",
+      "furigana": "さい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "拝",
-      "furigana": "　",
+      "furigana": "はい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "こんなので",
-      "furigana": "はい\nこんな",
+      "furigana": "こんなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "す。",
-      "furigana": "の",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {

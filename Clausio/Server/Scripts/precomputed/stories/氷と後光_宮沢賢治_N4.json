@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "中を、",
-      "furigana": "のなかを",
+      "furigana": "なかを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "汽車は",
-      "furigana": "、きしゃ",
+      "furigana": "きしゃは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "いっしんに",
-      "furigana": "はいっしん",
+      "furigana": "いっしんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "走ってゐました。",
-      "furigana": "にはしっていました",
+      "furigana": "はしっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「まだ",
-      "furigana": "「まだ",
+      "clause_text": "「",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "八",
-      "furigana": "はち",
+      "clause_text": "まだ",
+      "furigana": "まだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間",
-      "furigana": "じかん",
+      "clause_text": "八時間",
+      "furigana": "はちじかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "その青白い時計を",
-      "furigana": "、そのあおじろいとけい",
+      "furigana": "そのあおじろいとけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "チョッキのポケットには",
-      "furigana": "をちょっきのぽけっとに",
+      "furigana": "ちょっきのぽけっとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "さんで靴をかたっと",
-      "furigana": "はさんでくつをかたっ",
+      "furigana": "でくつをかたっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "鳴らしました。",
-      "furigana": "とならしました",
+      "furigana": "ならしました。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

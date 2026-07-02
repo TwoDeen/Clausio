@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "）卒業",
-      "furigana": "きごう\n",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "すると",
-      "furigana": "する",
+      "furigana": "すると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "すぐ家へ",
-      "furigana": "とすぐいえ",
+      "furigana": "すぐいえへ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "戻さ",
-      "furigana": "へ",
+      "furigana": "もどさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "れました。",
-      "furigana": "れました",
+      "furigana": "れました。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

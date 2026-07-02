@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものを見た",
-      "furigana": "ものをみた",
+      "clause_text": "ものを",
+      "furigana": "ものを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "見たのです。",
+      "furigana": "みたのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

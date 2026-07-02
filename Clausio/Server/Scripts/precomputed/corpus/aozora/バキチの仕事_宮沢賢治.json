@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ます",
-      "furigana": "て",
+      "furigana": "ます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "とも、",
-      "furigana": "とも",
+      "furigana": "とも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "知って",
-      "furigana": "、しっ",
+      "furigana": "しって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ますよ。",
-      "furigana": "てますよ",
+      "furigana": "ますよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」「",
-      "furigana": "」\n",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "バキチを",
-      "furigana": "「ばきち",
+      "furigana": "ばきちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ご存じ",
-      "furigana": "を",
+      "furigana": "ごぞんじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "すか。",
-      "furigana": "ですか",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "九月一日どっどどどどうどどどうどどどう、",
-      "furigana": "きゅうがつついたち\nどっどどどどうど　どどうど　",
+      "furigana": "きゅうがつついたち\nどっどどどどうど　どどうど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "どっどどどどうどどどうどどどう谷川の岸に",
-      "furigana": "ふきとばせ\nどっどどどどうど　どどうど　",
+      "furigana": "ふきとばせ\nどっどどどどうど　どどうど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "小さな四角な学校が",
-      "furigana": "どどう\nたにがわのきしに",
+      "furigana": "ちいさなしかくながっこうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ありました。",
-      "furigana": "ちいさなしかくな",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "五つの級を",
-      "furigana": "いつつのきゅうを",
+      "clause_text": "五つの",
+      "furigana": "いつつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "教える",
-      "furigana": "おしえる",
+      "clause_text": "級を",
+      "furigana": "きゅうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "教えるのでした。",
+      "furigana": "おしえるのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "みんなでちょうど",
-      "furigana": "みんなでちょうど",
+      "clause_text": "みんなで",
+      "furigana": "みんなで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "二十人に",
-      "furigana": "にじゅうにんに",
+      "clause_text": "ちょうど",
+      "furigana": "ちょうど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なる",
-      "furigana": "なる",
+      "clause_text": "二十人に",
+      "furigana": "にじゅうにんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "なるのです。",
+      "furigana": "なるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

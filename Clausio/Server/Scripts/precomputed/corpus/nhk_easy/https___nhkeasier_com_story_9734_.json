@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "エアコンを",
-      "furigana": "エアコンを",
+      "furigana": "えあこんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "国民生活センターによると、",
-      "furigana": "こくみんせいかつセンターによると、",
+      "furigana": "こくみんせいかつせんたーによると、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "インターネットで会社を",
-      "furigana": "インターネットでかいしゃを",
+      "furigana": "いんたーねっとでかいしゃを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "選んだ人からトラブルになったという相談が",
-      "furigana": "えらんだひとからトラブルになったというそうだんが",
+      "furigana": "えらんだひとからとらぶるになったというそうだんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "40歳ぐらいの女性は、",
-      "furigana": "40さいぐらいのじょせいは、",
+      "furigana": "よんれいさいぐらいのじょせいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "インターネットに",
-      "furigana": "インターネットに",
+      "furigana": "いんたーねっとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "出ていた会社にエアコンを",
-      "furigana": "でていたかいしゃにエアコンを",
+      "furigana": "でていたかいしゃにえあこんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "値段は1500",
-      "furigana": "ねだんは1500",
+      "clause_text": "値段は",
+      "furigana": "ねだんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "円からで",
-      "furigana": "えんからで",
+      "clause_text": "1500円からで",
+      "furigana": "いちごれいれいえんからで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "7万円払ってほしい",
-      "furigana": "7まんえんはらってほしい",
+      "furigana": "ななまんえんはらってほしい",
       "sentence_individual_grammar_level": "N5"
     },
     {

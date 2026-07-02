@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "紫紺という桔梗によく似た",
-      "furigana": "しこんというききょうによくにた",
+      "clause_text": "紫紺という",
+      "furigana": "しこんという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "草の根を、",
-      "furigana": "くさのねを、",
+      "clause_text": "桔梗によく似た",
+      "furigana": "ききょうによくにた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "灰で煮出して染める",
-      "furigana": "はいでにだしてそめる",
+      "clause_text": "草の根を、",
+      "furigana": "くさのねを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "灰で煮出して染めるのです。",
+      "furigana": "はいでにだしてそめるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

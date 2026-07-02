@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "この一年に二日しかない恐らくは",
-      "furigana": "このいちねんにふたかしかないおそらくは",
+      "clause_text": "この一年に二日しかない",
+      "furigana": "このいちねんにふたかしかない",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "太陽からも許されそうな",
-      "furigana": "たいようからもゆるされそうな",
+      "clause_text": "恐らくは太陽からも許されそうな",
+      "furigana": "おそらくはたいようからもゆるされそうな",
       "sentence_individual_grammar_level": "N4"
     },
     {

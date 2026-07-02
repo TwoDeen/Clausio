@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（冬なりき）誰ともしらず、",
-      "furigana": "、　　きごうふゆなりききごうだれとも",
+      "furigana": "きごうふゆなりききごうだれともしらず、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "そのかみの高麗の軍楽、",
-      "furigana": "ず、\nそのかみのこうらい",
+      "furigana": "そのかみのこうらいのぐんがく、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "うち鼓して過ぎれるありき。",
-      "furigana": "のぐんがく、　　　　うちこして",
+      "furigana": "うちこしてすぎれるありき。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "あるものはみちにさらばひ、",
-      "furigana": "　　　　　あるものはみちに",
+      "furigana": "あるものはみちにさらばひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "あるものは火をは",
-      "furigana": "さらばひ、\nある",
+      "furigana": "あるものはひを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "なつてふ、かくてまた",
-      "furigana": "ものはひをはなつてふ",
+      "furigana": "てふ、　　かくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "冬はきたりぬ。",
-      "furigana": "、　　かくて",
+      "furigana": "ふゆはきたりぬ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "濃きなだれの風や、",
-      "furigana": "とこきなだれのかぜや",
+      "furigana": "こきなだれのかぜや、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "むら鳥のあやなすすだき、",
-      "furigana": "、　　　　むらとりの",
+      "furigana": "むらとりのあやなすすだき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "アスティルベきらめく露と、",
-      "furigana": "すだき、\nあすてぃるべ",
+      "furigana": "あすてぃるべきらめくろと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ひるがへる温石の門。",
-      "furigana": "ろと、　　ひる",
+      "furigana": "ひるがへるおんじゃくのもん。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ぶれし神の、",
-      "furigana": "かひにやぶれ",
+      "furigana": "しかみの、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "二かしら猛きすがたを、",
-      "furigana": "しかみの、\nにかしらもう",
+      "furigana": "にかしらもうきすがたを、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "青々と行衛しられず。",
-      "furigana": "がたを、　　　　",
+      "furigana": "あおあおとゆきえしられず。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "〔雪うづまきて日は温き〕雪",
-      "furigana": "きごうゆきうづまきてひはぬくききごう\n",
+      "furigana": "きごうゆきうづまきてひはぬくききごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "うづまきて日は温き、",
-      "furigana": "ゆきうづまきてひはぬくき",
+      "furigana": "うづまきてひはぬくき、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "萱のなかなる荼毘壇に、",
-      "furigana": "、　　かやのなかなるだび",
+      "furigana": "かやのなかなるだびだんに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "県議院殿大居士の、",
-      "furigana": "だんに、\nけんぎいんでんだい",
+      "furigana": "けんぎいんでんだいこじの、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "柩はしづとおろされぬ。",
-      "furigana": "こじの、　　　　ひつぎは",
+      "furigana": "ひつぎはしづとおろされぬ。",
       "sentence_individual_grammar_level": "N4"
     }
   ]

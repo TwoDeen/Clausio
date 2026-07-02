@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "こつこつと扉を叩いた",
-      "furigana": "こつこつととびらをたたいた",
+      "clause_text": "こつこつと扉を叩いたのでさっきから",
+      "furigana": "こつこつととびらをたたいたのでさっきから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "のでさっきから大礼服を着て二階の",
-      "furigana": "のでさっきからだいれいふくをきてにかいの",
+      "clause_text": "大礼服を着て二階の式場で学生たちの",
+      "furigana": "だいれいふくをきてにかいのしきじょうでがくせいたちの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "式場で学生たちの入ったり整列したり",
-      "furigana": "しきじょうでがくせいたちのはいったりせいれつしたり",
+      "clause_text": "入ったり整列したりする音を聞きながら",
+      "furigana": "はいったりせいれつしたりするおとをききながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "する音を聞きながらストウヴの近くできうくつに",
-      "furigana": "するおとをききながらすとうゔのちかくできうくつに",
+      "clause_text": "ストウヴの近くできうくつに",
+      "furigana": "すとうゔのちかくできうくつに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ものの〔〕十幾人かの",
-      "furigana": "たもののきごうきごうじゅういくにんか",
+      "furigana": "もののきごうきごうじゅういくにんかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "聯名のその最后に記された富沢であった。",
-      "furigana": "の聯名のそのさいこうにしるされたとみざわであった",
+      "furigana": "聯名のそのさいこうにしるされたとみざわであった。",
       "sentence_individual_grammar_level": "N4"
     },
     {

@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "・ネネムの独立〔冒頭原稿",
-      "furigana": "・ねねむのどくりつ\nきごうぼうとう",
+      "clause_text": "・ネネムの",
+      "furigana": "・ねねむの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "数枚焼失〕",
-      "furigana": "すうまいしょうしつ",
+      "clause_text": "独立〔冒頭原稿数枚焼失",
+      "furigana": "どくりつ\nきごうぼうとうげんこうすうまい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のでした。",
-      "furigana": "きごうのでした",
+      "clause_text": "〕のでした。",
+      "furigana": "きごうのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "琥珀色のビールで一杯になる",
-      "furigana": "こはくしょくのびーるでいっぱいになる",
+      "clause_text": "琥珀色のビールで一杯に",
+      "furigana": "こはくしょくのびーるでいっぱいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のでした。",
-      "furigana": "のでした。",
+      "clause_text": "なるのでした。",
+      "furigana": "なるのでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {

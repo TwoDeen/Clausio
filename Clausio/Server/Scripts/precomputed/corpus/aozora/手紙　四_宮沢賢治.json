@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ごはんもたべないで毎日",
-      "furigana": "ごはんもたべないでまいにち",
+      "clause_text": "ごはんも",
+      "furigana": "ごはんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "考えてばかりいる",
-      "furigana": "かんがえてばかりいる",
+      "clause_text": "たべないで毎日",
+      "furigana": "たべないでまいにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "考えてばかりいるのです。",
+      "furigana": "かんがえてばかりいるのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

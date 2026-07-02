@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ニュースで",
-      "furigana": "ニュースで",
+      "furigana": "にゅーすで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "25日午前7時半",
-      "furigana": "25にちごぜん7じはん",
+      "clause_text": "25日午前",
+      "furigana": "にいつかごぜん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ごろ、",
-      "furigana": "ごろ、",
+      "clause_text": "7時半ごろ、",
+      "furigana": "しちじはんごろ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "6強、",
-      "furigana": "6きょう、",
+      "furigana": "ろくきょう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "八戸市で震度6",
-      "furigana": "はちのへしでしんど6",
+      "furigana": "はちのへしでしんどろく",
       "sentence_individual_grammar_level": "N5"
     },
     {

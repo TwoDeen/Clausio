@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "序この",
-      "furigana": "じょ\n",
+      "furigana": "じょ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "一巻は",
-      "furigana": "いちかん",
+      "furigana": "いちかんは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "わたくしが",
-      "furigana": "は\n",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "岩手県",
-      "furigana": "が",
+      "furigana": "いわてけん",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "宇部興",
-      "furigana": "\n",
+      "furigana": "うべこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "エ",
-      "furigana": "ひだり",
+      "furigana": "え",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "門？",
-      "furigana": "えもん",
+      "furigana": "もん?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ずゐぶん",
-      "furigana": "\n",
+      "furigana": "ずいぶん",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "名前だ",
-      "furigana": "なまえ",
+      "furigana": "なまえだ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "な何",
-      "furigana": "だな",
+      "furigana": "な",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "って行って大",
-      "furigana": "ていって\n",
+      "furigana": "ていって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "山地の上の重たいもやのうしろから赤く潰れた",
-      "furigana": "\nせんせいせんせいさんちのうえのおもたいもやのうしろ",
+      "furigana": "せんせいせんせいさんちのうえのおもたいもやのうしろ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "をかしなものが昇てくるといふ（それは潰れた赤い信頼！",
-      "furigana": "\nあかくつぶれたをかしなものがのぼるてくるといふ\nきごうそれは",
+      "furigana": "あかくつぶれたをかしなものがのぼるてくるといふ\nきごうそれは",
       "sentence_individual_grammar_level": "N4"
     }
   ]

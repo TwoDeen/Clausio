@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "9歳から",
-      "furigana": "9さいから",
+      "furigana": "きゅうさいから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "76歳までの",
-      "furigana": "76さいまでの",
+      "furigana": "ななろくさいまでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "130",
-      "furigana": "130",
+      "clause_text": "130人ぐらい",
+      "furigana": "いちさんれいにんぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "人ぐらいが、",
-      "furigana": "ひとぐらいが、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N5"
     },
     {

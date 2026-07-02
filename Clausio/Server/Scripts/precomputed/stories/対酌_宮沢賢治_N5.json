@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘆きあひ酌みかふひまに",
-      "furigana": "なげきあひ　　　くみかふ",
+      "clause_text": "嘆きあひ酌みかふひまに灯はとぼり雑木は昏れて滝やまた稜立つ",
+      "furigana": "なげきあひ　　　くみかふひまに\nあかりはとぼり　　ぞうきはくれて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "灯はとぼり雑木は昏れて滝やまた稜立つ",
-      "furigana": "ひまに\nあかりはとぼり　　ぞうきはくれて\n",
+      "clause_text": "巌や雪あめのひたに降りきぬ",
+      "furigana": "たきやまた　　　りょうたついわや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "巌や雪あめのひたに降りきぬ",
-      "furigana": "たきやまた　　　りょうたついわや\n",
+      "clause_text": "「ただかしこ淀むそらのみかくてわがふるさとにこそ」",
+      "furigana": "ゆきあめの　　　ひたにふりきぬ\n「ただかしこ　よどむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "「ただかしこ淀むそらのみかくてわがふるさとにこそ」",
-      "furigana": "ゆきあめの　　　ひたにふりきぬ\n「ただかしこ　よどむ",
+      "clause_text": "そのひとりかこちて哭けば狸とも眼はよぼみぬ",
+      "furigana": "のみ\nかくてわが　　ふるさとにこそ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "そのひとりかこちて哭けば狸とも眼はよぼみぬ",
-      "furigana": "のみ\nかくてわが　　ふるさとにこそ」\n",
+      "clause_text": "「すだけるは孔雀ならずやああなんぞ南の鳥をここにして悲しましむる」",
+      "furigana": "ひとり　　かこちてなけば\nたぬきとも　　　　めはよぼみぬ\n「すだける",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "立派な一",
-      "furigana": "りっぱないち",
+      "clause_text": "立派な",
+      "furigana": "りっぱな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "軒の西洋",
-      "furigana": "けんのせいよう",
+      "clause_text": "一軒の西洋",
+      "furigana": "いちけんのせいよう",
       "sentence_individual_grammar_level": "N5"
     },
     {

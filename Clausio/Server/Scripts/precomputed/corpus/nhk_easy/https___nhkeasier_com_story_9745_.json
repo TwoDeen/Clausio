@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "静岡大学の牛山素行教授は、",
-      "furigana": "しずおかだいがくのうしやまもとゆききょうじゅは、",
+      "furigana": "しずおかだいがくのうしやまそこうきょうじゅは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ウェブサイトにある",
-      "furigana": "ウェブサイトにある",
+      "furigana": "うぇぶさいとにある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "3時間ずつ",
-      "furigana": "3じかんずつ",
+      "furigana": "さんじかんずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {

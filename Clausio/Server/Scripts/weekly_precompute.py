@@ -1,19 +1,19 @@
 from __future__ import annotations
+
 from id_utils import safe_id
 
-import faulthandler
-faulthandler.enable()
-faulthandler.dump_traceback_later(30, repeat=True)
-
 import argparse
+import faulthandler
 import glob
 import json
 import os
 import shutil
+import signal
 import traceback
 
 from corpus_providers import list_all_providers, get_provider
 from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
+
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PRECOMPUTED_DIR = os.path.join(BASE_DIR, "precomputed")
@@ -26,6 +26,22 @@ LEVELS = ["N5", "N4", "N3", "N2", "N1"]
 
 for d in (PRECOMPUTED_DIR, CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR, CACHE_DIR):
     os.makedirs(d, exist_ok=True)
+
+
+def _setup_fault_handler(timeout_seconds: int = 120) -> None:
+    try:
+        faulthandler.enable()
+        faulthandler.register(signal.SIGUSR1)
+        faulthandler.dump_traceback_later(timeout_seconds, repeat=False)
+    except Exception as e:
+        print(f"[WARN] Failed to enable faulthandler: {e}", flush=True)
+
+
+def _cancel_fault_handler() -> None:
+    try:
+        faulthandler.cancel_dump_traceback_later()
+    except Exception:
+        pass
 
 
 def _save(path: str, payload) -> None:
@@ -49,26 +65,30 @@ def _detected_level_from_payload(payload: dict) -> str:
     return level if level in LEVELS else "N5"
 
 
-def _refresh_stories_index():
+def _refresh_stories_index() -> None:
     stories_index = []
+
     for p in glob.glob(os.path.join(STORIES_PRE_DIR, "*.json")):
         name = os.path.basename(p)
         if not name.endswith(".json"):
             continue
+
         stem = name[:-5]
         parts = stem.rsplit("_", 1)
         if len(parts) != 2:
             continue
+
         story_name, level = parts
         if level not in LEVELS:
             continue
+
         stories_index.append({"name": story_name, "level": level})
 
     _save(os.path.join(PRECOMPUTED_DIR, "stories_index.json"), stories_index)
 
 
 def _clean_all_generated() -> None:
-    print("Cleaning all generated precomputed outputs...")
+    print("Cleaning all generated precomputed outputs...", flush=True)
 
     for path in (CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR):
         if os.path.exists(path):
@@ -84,11 +104,11 @@ def _clean_all_generated() -> None:
     for d in (PRECOMPUTED_DIR, CORPUS_PRE_DIR, STORIES_PRE_DIR, NEWS_PRE_DIR):
         os.makedirs(d, exist_ok=True)
 
-    print("Clean complete.")
+    print("Clean complete.", flush=True)
 
 
 def _clean_source_generated(source: str) -> None:
-    print(f"Cleaning generated outputs for source: {source}")
+    print(f"Cleaning generated outputs for source: {source}", flush=True)
 
     source_dir = os.path.join(CORPUS_PRE_DIR, source)
     if os.path.exists(source_dir):
@@ -106,7 +126,7 @@ def _clean_source_generated(source: str) -> None:
     os.makedirs(STORIES_PRE_DIR, exist_ok=True)
     os.makedirs(NEWS_PRE_DIR, exist_ok=True)
 
-    print(f"Cleaned source: {source}")
+    print(f"Cleaned source: {source}", flush=True)
 
 
 def precompute_all_corpora(
@@ -134,7 +154,7 @@ def precompute_all_corpora(
             raise SystemExit(f"Unknown source: {only_source}")
         providers = [provider]
 
-    print(f"Found {len(providers)} corpus provider(s).")
+    print(f"Found {len(providers)} corpus provider(s).", flush=True)
 
     existing_corpus_index: dict[str, dict[str, list[dict]]] = {}
     corpus_index_path = os.path.join(PRECOMPUTED_DIR, "corpus_index.json")
@@ -160,7 +180,7 @@ def precompute_all_corpora(
 
     for provider in providers:
         source = provider.SOURCE_ID
-        print(f"\n=== Source: {source} ===")
+        print(f"\n=== Source: {source} ===", flush=True)
 
         if not provider.is_available():
             reason = (
@@ -168,25 +188,27 @@ def precompute_all_corpora(
                 if getattr(provider, "REQUIRES_VPN", False)
                 else "source unavailable"
             )
-            print(f" [SKIP] {reason}")
+            print(f" [SKIP] {reason}", flush=True)
             continue
 
         try:
+            print(" Fetching topics...", flush=True)
             topics = provider.fetch_topics()
         except Exception as e:
-            print(f" [ERR] fetch_topics failed: {e}")
+            print(f" [ERR] fetch_topics failed: {e}", flush=True)
             traceback.print_exc()
             continue
 
         if limit_per_source is not None:
             topics = topics[:limit_per_source]
 
-        print(f" Topics fetched: {len(topics)}")
+        print(f" Topics fetched: {len(topics)}", flush=True)
 
         source_entries: dict[str, list[dict]] = {}
 
         for i, topic in enumerate(topics, start=1):
-            print(f" [{i}/{len(topics)}] {topic.title[:80]}")
+            title_preview = (topic.title or "")[:80]
+            print(f" [{i}/{len(topics)}] {title_preview}", flush=True)
 
             try:
                 if source == "aozora":
@@ -203,7 +225,8 @@ def precompute_all_corpora(
                     detected_level = _detected_level_from_payload(payload)
 
                     legacy_story_path = os.path.join(
-                        STORIES_PRE_DIR, f"{topic.id}_{detected_level}.json"
+                        STORIES_PRE_DIR,
+                        f"{topic.id}_{detected_level}.json",
                     )
                     _save(legacy_story_path, payload)
 
@@ -211,9 +234,11 @@ def precompute_all_corpora(
                     _save(corpus_path, payload)
 
                 else:
+                    print("   Fetching sentences...", flush=True)
                     item = provider.fetch_sentences(topic)
+
                     if len(item.sentences) < 5:
-                        print(f" [SKIP] only {len(item.sentences)} sentence(s)")
+                        print(f" [SKIP] only {len(item.sentences)} sentence(s)", flush=True)
                         continue
 
                     payload = build_puzzle_from_news_tokens(
@@ -231,10 +256,10 @@ def precompute_all_corpora(
                     corpus_path = _corpus_json_path(source, topic.id)
                     _save(corpus_path, payload)
 
-                if not os.path.exists(corpus_path):
-                    raise FileNotFoundError(
-                        f"Expected output file missing after save: {corpus_path}"
-                    )
+                    if not os.path.exists(corpus_path):
+                        raise FileNotFoundError(
+                            f"Expected output file missing after save: {corpus_path}"
+                        )
 
                 source_entries.setdefault(detected_level, []).append(
                     {
@@ -245,49 +270,64 @@ def precompute_all_corpora(
                     }
                 )
 
-                print(f" [OK] detected={detected_level}")
+                print(f" [OK] detected={detected_level}", flush=True)
 
             except Exception as e:
-                print(f" [ERR] {e}")
+                print(f" [ERR] {e}", flush=True)
                 traceback.print_exc()
 
         corpus_index[source] = source_entries
+        print(f" Completed source: {source}", flush=True)
 
+    print("Saving corpus_index.json...", flush=True)
     _save(os.path.join(PRECOMPUTED_DIR, "corpus_index.json"), corpus_index)
+
+    print("Refreshing stories_index.json...", flush=True)
     _refresh_stories_index()
-    print("\nSaved corpus_index.json and refreshed stories_index.json")
+
+    print("\nSaved corpus_index.json and refreshed stories_index.json", flush=True)
+    print("precompute_all_corpora returned", flush=True)
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Precompute Clausio corpus puzzles")
-    parser.add_argument(
-        "--limit-per-source",
-        type=int,
-        default=None,
-        help="Limit topics per source for testing",
-    )
-    parser.add_argument(
-        "--only-source",
-        type=str,
-        default=None,
-        help="Run only one source, e.g. nhk_general",
-    )
-    parser.add_argument(
-        "--clean",
-        action="store_true",
-        help="Delete all generated precomputed outputs before rebuilding",
-    )
-    parser.add_argument(
-        "--clean-source",
-        type=str,
-        default=None,
-        help="Delete generated outputs for one source before rebuilding it, e.g. nhk_easy",
-    )
-    args = parser.parse_args()
+    _setup_fault_handler(timeout_seconds=120)
+    try:
+        parser = argparse.ArgumentParser(description="Precompute Clausio corpus puzzles")
+        parser.add_argument(
+            "--limit-per-source",
+            type=int,
+            default=None,
+            help="Limit topics per source for testing",
+        )
+        parser.add_argument(
+            "--only-source",
+            type=str,
+            default=None,
+            help="Run only one source, e.g. nhk_general",
+        )
+        parser.add_argument(
+            "--clean",
+            action="store_true",
+            help="Delete all generated precomputed outputs before rebuilding",
+        )
+        parser.add_argument(
+            "--clean-source",
+            type=str,
+            default=None,
+            help="Delete generated outputs for one source before rebuilding it, e.g. nhk_easy",
+        )
 
-    precompute_all_corpora(
-        limit_per_source=args.limit_per_source,
-        only_source=args.only_source,
-        clean=args.clean,
-        clean_source=args.clean_source,
-    )
+        args = parser.parse_args()
+
+        precompute_all_corpora(
+            limit_per_source=args.limit_per_source,
+            only_source=args.only_source,
+            clean=args.clean,
+            clean_source=args.clean_source,
+        )
+
+        print("main completed", flush=True)
+
+    finally:
+        _cancel_fault_handler()
+        print("shutdown complete", flush=True)

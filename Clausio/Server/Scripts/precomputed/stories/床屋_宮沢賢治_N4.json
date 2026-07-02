@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "床屋の弟子の",
-      "furigana": "で、とこやの",
+      "furigana": "とこやのでしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "微かな疲れと睡気とが",
-      "furigana": "のかすかなつかれとねむけ",
+      "furigana": "かすかなつかれとねむけと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ふっと青白く鏡にかゝり、",
-      "furigana": "とがふっとあおじろくかがみに",
+      "furigana": "とあおじろくかがみにかかり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "室は何だかがらんとしてゐる。",
-      "furigana": "、むろはなんだかがらんとして",
+      "furigana": "むろはなんだかがらんとしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」「",
-      "furigana": "」\n",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "えゝ、",
-      "furigana": "「ええ",
+      "furigana": "ええ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ござい",
-      "furigana": "、",
+      "furigana": "ござい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "う。",
-      "furigana": "う",
+      "furigana": "う。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「",
-      "furigana": "\n",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "さうで",
-      "furigana": "「さう",
+      "furigana": "さう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "す。",
-      "furigana": "です",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {

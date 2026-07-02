@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "アイスクリームを",
-      "furigana": "アイスクリームを",
+      "furigana": "あいすくりーむを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "6つの大きい",
-      "furigana": "むっつのおおきい",
+      "furigana": "むいつのおおきい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ニュースです。",
-      "furigana": "ニュースです。",
+      "furigana": "にゅーすです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "6つの会社が",
-      "furigana": "むっつのかいしゃが",
+      "furigana": "むいつのかいしゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "アイスクリームの値段を相談",
-      "furigana": "アイスクリームのねだんをそうだん",
+      "furigana": "あいすくりーむのねだんをそうだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "16日から",
-      "furigana": "1むっにちから",
+      "furigana": "いちろくにちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "チェックを",
-      "furigana": "チェックを",
+      "furigana": "ちぇっくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "6つの会社は、",
-      "furigana": "むっつのかいしゃは、",
+      "furigana": "むいつのかいしゃは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "毎年1回か2回、",
-      "furigana": "まいとし1かいか2かい、",
+      "furigana": "まいとしいちかいかにかい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "アイスクリームの",
-      "furigana": "アイスクリームの",
+      "furigana": "あいすくりーむの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "値段を5%から10%ぐらい",
-      "furigana": "ねだんを5%から10%ぐらい",
+      "furigana": "ねだんをごぱーせんとからいちれいぱーせんとぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "6月30日の朝早く、",
-      "furigana": "6がつ30にちのあさはやく、",
+      "furigana": "ろくがつさんれいにちのあさはやく、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "73歳の男性が",
-      "furigana": "73さいのだんせいが",
+      "furigana": "ななさんさいのだんせいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "してい",
-      "furigana": "してい",
+      "clause_text": "して",
+      "furigana": "して",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {

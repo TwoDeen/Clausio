@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "＊旧暦の",
-      "furigana": "きごう\nきゅうれき",
+      "clause_text": "＊",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "六月",
-      "furigana": "のろく",
+      "clause_text": "旧暦の",
+      "furigana": "きゅうれきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "二十四",
-      "furigana": "がつ",
+      "clause_text": "六月",
+      "furigana": "ろくがつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "日の",
-      "furigana": "か",
+      "clause_text": "二十四日の",
+      "furigana": "にじゅうよんかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "晩でした。",
-      "furigana": "のばんでした",
+      "furigana": "ばんでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {

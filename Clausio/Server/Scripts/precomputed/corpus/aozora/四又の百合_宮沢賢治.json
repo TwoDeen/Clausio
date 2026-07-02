@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "四又の百合四又（よまた）の百合（ゆり）宮沢賢治",
-      "furigana": "よんまたのゆり\nよんまたのゆり\n",
+      "furigana": "よんまたのゆり\nよんまたのゆり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「正※知（しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）をおわたりになってこの町にいらっしゃるそうだ」",
-      "furigana": "\n「ただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃる",
+      "furigana": "「ただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃるそうだ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "こう言（い）う語（ご）がすきとおった風",
-      "furigana": "だ」\nこういうごが",
+      "furigana": "こういうごがすきとおったかぜ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "といっしょにハームキャの城（しろ）の家々にしみ",
-      "furigana": "たかぜといっしょにはーむきゃのしろの",
+      "furigana": "といっしょにはーむきゃのしろのいえいえにしみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "わたりました。",
-      "furigana": "にしみわたり",
+      "furigana": "わたりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "望（のぞ）んでいたかしれない",
-      "furigana": "のぞんでいたかしれない",
+      "clause_text": "望（のぞ）んでいたか",
+      "furigana": "のぞんでいたか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "しれないのです。",
+      "furigana": "しれないのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "弟子（でし）になっていた",
-      "furigana": "でしになっていた",
+      "clause_text": "弟子（でし）に",
+      "furigana": "でしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "なっていたのです。",
+      "furigana": "なっていたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "みんなは思いました、",
-      "furigana": "\nみんなはおもいました",
+      "furigana": "みんなはおもいました、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "正※知（しょうへ",
-      "furigana": "、ただしきごうちきごうしょう",
+      "furigana": "ただしきごうちきごうしょう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "んち）はどんなお",
-      "furigana": "へんちきごうはどんな",
+      "furigana": "ちきごうはどんなお",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "顔いろでそのお眼（め）は",
-      "furigana": "おかおいろでそのおめ",
+      "furigana": "かおいろでそのおめは",
       "sentence_individual_grammar_level": "N4"
     }
   ]

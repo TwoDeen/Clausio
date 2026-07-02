@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さそりの赤眼が見えたころ、",
-      "furigana": "\nさそりのあかめが　みえた",
+      "furigana": "さそりのあかめが　みえた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "って来た。",
-      "furigana": "も　やっ",
+      "furigana": "てきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "まっくらで、",
-      "furigana": "　まっくらで",
+      "furigana": "まっくらで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "つめたい",
-      "furigana": "、\n",
+      "furigana": "つめたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "水の声",
-      "furigana": "みず",
+      "furigana": "みずの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "ばかり。",
-      "furigana": "の　こえ",
+      "furigana": "ばかり。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "凍えた砂利に湯げを吐き、",
-      "furigana": "\nこごえたじゃりに　ゆげを",
+      "furigana": "こごえたじゃりに　ゆげを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "鳥がなきだし木は光り、",
-      "furigana": "\nとりがなきだし　きは",
+      "furigana": "とりがなきだし　きは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "青々川はながれたが、",
-      "furigana": "、\nあおあおかわは　",
+      "furigana": "、\nあおあおかわは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "丘もはざまもいちめんに、",
-      "furigana": "たが、\nおかもはざまも　",
+      "furigana": "たが、\nおかもはざまも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "シュウフッフッ、や",
-      "furigana": "しゅうふっふっ、\n",
+      "furigana": "しゅうふっふっ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "っぱりかけると",
-      "furigana": "やっぱりかける",
+      "furigana": "かけると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "あったかだ、",
-      "furigana": "と　あったか",
+      "furigana": "あったかだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "僕はほうほう汗が出る。",
-      "furigana": "だ、\nぼくはほうほう　あせ",
+      "furigana": "ぼくはほうほう　あせが",
       "sentence_individual_grammar_level": "N5"
     }
   ]

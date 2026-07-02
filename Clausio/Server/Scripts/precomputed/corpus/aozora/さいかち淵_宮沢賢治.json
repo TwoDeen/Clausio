@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "さいかち",
-      "furigana": "\n",
+      "furigana": "さいかち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "淵なら、",
-      "furigana": "えんなら",
+      "furigana": "えんなら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ほんたうに",
-      "furigana": "、ほんたう",
+      "furigana": "ほんたうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "おもしろい。",
-      "furigana": "におもしろい",
+      "furigana": "おもしろい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "舜一なんだ",
-      "furigana": "しゅんいちなんだ",
+      "clause_text": "舜一な",
+      "furigana": "しゅんいちな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれども、",
-      "furigana": "けれども、",
+      "clause_text": "んだけれども、",
+      "furigana": "んだけれども、",
       "sentence_individual_grammar_level": "N5"
     },
     {

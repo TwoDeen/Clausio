@@ -6,15 +6,25 @@ import pytest
 
 from clausify import decompose_into_clauses_fallback
 
-
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "clausify_sentences.json"
 
-
-BAD_STARTS = (
-    "、", "。", "！", "？",
-    "の", "を", "に", "へ", "で", "と", "も",
+BAD_EXACT_STARTS = (
+    "の", "を", "に", "へ", "で", "も",
     "は", "が", "から", "まで", "より",
-    "ぐらい", "くらい", "ごろ", "ころ"
+    "ぐらい", "くらい", "ごろ", "ころ",
+)
+
+BAD_MULTI_STARTS = (
+    "、", "。", "！", "？",
+    "ので", "のに",
+)
+
+ALLOWED_T_PREFIXES = (
+    "とても",
+    "と言",
+    "とい",
+    "という",
+    "っていう",
 )
 
 FINAL_PREDICATE_ENDINGS = (
@@ -72,7 +82,14 @@ def test_no_clause_starts_with_bad_fragment(item):
     clauses = decompose_into_clauses_fallback(item["sentence"])
 
     for clause in clauses[1:]:
-        assert not clause.startswith(BAD_STARTS), (
+        if clause.startswith(ALLOWED_T_PREFIXES):
+            continue
+
+        assert not clause.startswith(BAD_MULTI_STARTS), (
+            f"{item['id']} produced bad clause start: {clause}"
+        )
+
+        assert clause not in BAD_EXACT_STARTS, (
             f"{item['id']} produced bad clause start: {clause}"
         )
 

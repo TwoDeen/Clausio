@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "レベル4危険警報が",
-      "furigana": "レベル4きけんけいほうが",
+      "furigana": "れべるよんきけんけいほうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "九州と四国では24日から25日、",
-      "furigana": "きゅうしゅうとしこくではにじゅうよっかから25にち、",
+      "furigana": "きゅうしゅうとしこくではによんかからにいつか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "東京の伊豆諸島では25",
-      "furigana": "とうきょうのいずしょとうでは25",
+      "clause_text": "東京の伊豆諸島では",
+      "furigana": "とうきょうのいずしょとうでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "日、たくさん雨が降り",
-      "furigana": "にち、たくさんあめがふり",
+      "clause_text": "25日、たくさん雨が降り",
+      "furigana": "にいつか、たくさんあめがふり",
       "sentence_individual_grammar_level": "N5"
     },
     {

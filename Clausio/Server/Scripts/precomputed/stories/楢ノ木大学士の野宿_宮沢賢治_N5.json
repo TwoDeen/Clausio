@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「貝の火兄弟商会」の、",
-      "furigana": "\n「かいのひきょうだいしょうかい」の",
+      "furigana": "「かいのひきょうだいしょうかい」の、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "赤鼻の支配人がや",
-      "furigana": "、\nあかはなのしはいにん",
+      "furigana": "あかはなのしはいにんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -121,7 +121,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "って来た。",
-      "furigana": "がやってき",
+      "furigana": "てきた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "つをほしい",
-      "furigana": "をほしい",
+      "clause_text": "つを",
+      "furigana": "を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "ほしいのです。",
+      "furigana": "ほしいのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「おまえたちはみんな",
-      "furigana": "「おまえたちはみんな",
+      "clause_text": "「おまえたちはみんなまっ赤な",
+      "furigana": "「おまえたちはみんなまっかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "まっ赤な帆船でね、",
-      "furigana": "まっかなほぶねでね、",
+      "clause_text": "帆船でね、いまがあらしのとこなんだ」",
+      "furigana": "ほぶねでね、いまがあらしのとこなんだ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いまがあらしのと",
-      "furigana": "いまがあらしの",
+      "clause_text": "「いやあだ、",
+      "furigana": "「いやあだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "こなんだ」",
-      "furigana": "なんだ」",
+      "clause_text": "あたしら、",
+      "furigana": "あたしら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "「いやあだ、あたしら、そんな帆船やなんかじゃないわ。",
-      "furigana": "\n「いやあだ、あたしら、そんなほぶねやなんかじゃないわ",
+      "clause_text": "そんな帆船やなんかじゃないわ。",
+      "furigana": "そんなほぶねやなんかじゃないわ。",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "東京株式市場で18",
-      "furigana": "とうきょうかぶしきしじょうで18",
+      "clause_text": "東京",
+      "furigana": "とうきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日、",
-      "furigana": "にち、",
+      "clause_text": "株式市場で18日、",
+      "furigana": "かぶしきしじょうでいちはちにち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "7万1000円以上に",
-      "furigana": "7まん1000えんいじょうに",
+      "furigana": "ななまんいちれいれいれいえんいじょうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "日経平均",
-      "furigana": "にち経へいきん",
+      "furigana": "にっけいへいきん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "株価は、",
-      "furigana": "かぶ価は、",
+      "furigana": "かぶかは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "アメリカとイランが、",
-      "furigana": "アメリカとイランが、",
+      "furigana": "あめりかといらんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "するための書類にサイン",
-      "furigana": "するためのしょるいにサイン",
+      "furigana": "するためのしょるいにさいん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "AIや半導体、",
-      "furigana": "AIやはんどうたい、",
+      "furigana": "えーあいやはんどうたい、",
       "sentence_individual_grammar_level": "N5"
     },
     {

@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "雨がぽ",
-      "furigana": "\nあめが",
+      "furigana": "あめがぽ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しゃぽ",
-      "furigana": "ぽしゃ",
+      "furigana": "しゃぽ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -55,7 +55,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "しゃ",
-      "furigana": "ぽ",
+      "furigana": "しゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "降ってゐます。",
-      "furigana": "ふっています",
+      "furigana": "ふっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "ひのきの",
-      "furigana": "\nひのき",
+      "furigana": "ひのきの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "髪は延び",
-      "furigana": "のかみは",
+      "furigana": "かみはのび",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -176,7 +176,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "過ぎました。",
-      "furigana": "すぎました",
+      "furigana": "すぎました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "暗くて熱くも",
-      "furigana": "くらくてあつく\n",
+      "furigana": "くらくてあつく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "う醗酵をはじめたん",
-      "furigana": "もうはっこうをはじめた",
+      "furigana": "はっこうをはじめたん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ぢゃないかと",
-      "furigana": "んぢゃないか",
+      "furigana": "ぢゃないかと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "思ひます。",
-      "furigana": "とおもひます",
+      "furigana": "おもひます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "ゴム引きの青泥いろの",
-      "furigana": "\nごむひきのあおどろいろ",
+      "furigana": "ごむひきのあおどろいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "マントがゆっくりゆっくり行く",
-      "furigana": "のまんとが\nゆっくりゆっくり",
+      "furigana": "まんとが\nゆっくりゆっくり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "といふのは実にこれはつらいことな",
-      "furigana": "いくといふのは\nじつにこれはつらい",
+      "clause_text": "といふのは実にこれはつらいこと",
+      "furigana": "といふのは\nじつにこれはつらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "ことなの",
+      "clause_text": "なのです。",
+      "furigana": "なのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ]

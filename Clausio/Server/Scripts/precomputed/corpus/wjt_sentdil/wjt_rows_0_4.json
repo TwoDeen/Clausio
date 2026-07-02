@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "猫が",
-      "furigana": "猫が",
+      "furigana": "ねこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "ソファの",
-      "furigana": "ソファの",
+      "furigana": "そふぁの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "上で気持ちよ",
-      "furigana": "上で気持ちよ",
+      "furigana": "うえできもちよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -66,7 +66,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "眠っている。",
-      "furigana": "眠っている。",
+      "furigana": "ねむっている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "今日の",
-      "furigana": "今日の",
+      "furigana": "きょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "朝ごはんは",
-      "furigana": "朝ごはんは",
+      "furigana": "あさごはんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "パンと",
-      "furigana": "パンと",
+      "furigana": "ぱんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "コーヒー",
-      "furigana": "コーヒー",
+      "furigana": "こーひー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "駅の近くに",
-      "furigana": "駅の近くに",
+      "furigana": "えきのちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "新しい",
-      "furigana": "新しい",
+      "furigana": "あたらしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "パン屋が",
-      "furigana": "パン屋が",
+      "furigana": "ぱんやが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -165,7 +165,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "オープン",
-      "furigana": "オープン",
+      "furigana": "おーぷん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "彼女は",
-      "furigana": "彼女は",
+      "furigana": "かのじょは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎日一",
-      "furigana": "毎日一",
+      "clause_text": "毎日",
+      "furigana": "まいにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間",
-      "furigana": "時間",
+      "clause_text": "一時間",
+      "furigana": "いちじかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ジョギングを",
-      "furigana": "ジョギングを",
+      "furigana": "じょぎんぐを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "週末に",
-      "furigana": "週末に",
+      "furigana": "しゅうまつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "友達と",
-      "furigana": "友達と",
+      "furigana": "ともだちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "映画を",
-      "furigana": "映画を",
+      "furigana": "えいがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "見に行く",
-      "furigana": "見に行く",
+      "furigana": "みにいく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,7 +286,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "予定だ。",
-      "furigana": "予定だ。",
+      "furigana": "よていだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ]
