@@ -289,5 +289,15 @@
       "furigana": "そうです。",
       "sentence_individual_grammar_level": "N3"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9756/",
+    "safe_topic_id": "https___nhkeasier_com_story_9756_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9756_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9756_.json",
+    "title": "奄美地方で梅雨が終わった　西日本などで梅雨の雨が続く",
+    "link": "https://nhkeasier.com/story/9756/",
+    "file_path": null
+  }
 }

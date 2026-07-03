@@ -289,5 +289,15 @@
       "furigana": "でていくのでした。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "ポラーノの広場_宮沢賢治",
+    "safe_topic_id": "ポラーノの広場_宮沢賢治",
+    "corpus_json_id": "aozora/ポラーノの広場_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/ポラーノの広場_宮沢賢治.json",
+    "title": "ポラーノの広場 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/ポラーノの広場_宮沢賢治.txt"
+  }
 }

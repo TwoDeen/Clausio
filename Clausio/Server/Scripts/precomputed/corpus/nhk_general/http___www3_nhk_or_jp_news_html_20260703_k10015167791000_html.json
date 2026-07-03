@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N3",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ウクライナでは、2日にかけて、",
-      "furigana": "うくらいなでは、ふつかにかけて、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "長期金利約",
+      "furigana": "ちょうききんりやく",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ロシア軍によるミサイルや無人機を使った大規模な攻撃があり、",
-      "furigana": "ろしあぐんによるみさいるやむじんきをつかっただいきぼなこうげきがあり、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "29年ぶり一時",
+      "furigana": "にきゅうねんぶりいちじ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "首都キーウで、少なくとも13人が死亡、",
-      "furigana": "しゅときーうで、すくなくともいちさんにんがしぼう、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "2.81％に上昇",
+      "furigana": "に．はちいちぱーせんとにじょうしょう",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "86人がけがをするなど、",
-      "furigana": "はちろくにんがけがをするなど、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "インフレ加速観測",
+      "furigana": "いんふれかそくかんそく",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "各地で被害が出ています。",
-      "furigana": "かくちでひがいがでています。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "などで。",
+      "furigana": "などで。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "【随時更新】ロシア",
-      "furigana": "きごうずいじこうしんきごうろしあ",
+      "clause_text": "京大を",
+      "furigana": "きょうだいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ウクライナに",
-      "furigana": "うくらいなに",
+      "clause_text": "国際卓越研究大学に",
+      "furigana": "こくさいたくえつけんきゅうだいがくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "軍事侵攻（",
-      "furigana": "ぐんじしんこうきごう",
+      "clause_text": "認定へ今年度",
+      "furigana": "にんていへこんねんど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "7月2日の",
-      "furigana": "しちがつににちの",
+      "clause_text": "200億円助成",
+      "furigana": "にれいれいおくえんじょせい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "動き）。",
-      "furigana": "うごききごう。",
+      "clause_text": "見込み。",
+      "furigana": "みこみ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ウクライナが",
-      "furigana": "うくらいなが",
+      "clause_text": "28人",
+      "furigana": "にはちにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "石油関連施設攻撃",
-      "furigana": "せきゆかんれんしせつこうげき",
+      "clause_text": "犠牲の熱海",
+      "furigana": "ぎせいのあたみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "強めロシア",
-      "furigana": "つよめろしあ",
+      "clause_text": "土石流から",
+      "furigana": "どせきりゅうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "燃料不足に",
-      "furigana": "ねんりょうふそくに",
+      "clause_text": "5年",
+      "furigana": "ごねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "不満の声。",
-      "furigana": "ふまんのこえ。",
+      "clause_text": "被災地で追悼式。",
+      "furigana": "ひさいちでついとうしき。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ゼレンスキー",
-      "furigana": "ぜれんすきー",
+      "clause_text": "村上春樹さん3年",
+      "furigana": "むらかみはるきさんさんねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "大統領“",
-      "furigana": "だいとうりょうきごう",
+      "clause_text": "ぶり新作",
+      "furigana": "ぶりしんさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "プーチン氏停戦",
-      "furigana": "ぷーちんしていせん",
+      "clause_text": "長編小説",
+      "furigana": "ちょうへんしょうせつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "向けた提案",
-      "furigana": "むけたていあん",
+      "clause_text": "発売書店に",
+      "furigana": "はつばいしょてんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "拒否の認識”。",
-      "furigana": "きょひのにんしききごう。",
+      "clause_text": "ファン集まる。",
+      "furigana": "ふぁんあつまる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ロシアと",
-      "furigana": "ろしあと",
+      "clause_text": "テスラ欧州や",
+      "furigana": "てすらおうしゅうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ベラルーシが",
-      "furigana": "べらるーしが",
+      "clause_text": "中国で需要",
+      "furigana": "ちゅうごくでじゅよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "首脳会談",
-      "furigana": "しゅのうかいだん",
+      "clause_text": "回復かガソリン",
+      "furigana": "かいふくかがそりん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "軍事侵攻めぐり",
-      "furigana": "ぐんじしんこうめぐり",
+      "clause_text": "価格高騰も",
+      "furigana": "かかくこうとうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "圧力との報道も。",
-      "furigana": "あつりょくとのほうどうも。",
+      "clause_text": "追い風に。",
+      "furigana": "おいかぜに。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_general",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167791000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167791000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167791000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167791000_html.json",
+    "title": "うその決算報告書などで銀行から11億円詐取か 元社長逮捕",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167791000.html",
+    "file_path": null
+  }
 }

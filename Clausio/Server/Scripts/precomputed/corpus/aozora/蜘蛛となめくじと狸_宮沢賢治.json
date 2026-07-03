@@ -264,7 +264,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "胸には「ナンペ」と",
-      "furigana": "むねにはきごうなんぺきごうと",
+      "furigana": "むねには「なんぺ」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "つけていましたしなめくじはいつもぎん",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "蜘蛛となめくじと狸_宮沢賢治",
+    "safe_topic_id": "蜘蛛となめくじと狸_宮沢賢治",
+    "corpus_json_id": "aozora/蜘蛛となめくじと狸_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/蜘蛛となめくじと狸_宮沢賢治.json",
+    "title": "蜘蛛となめくじと狸 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/蜘蛛となめくじと狸_宮沢賢治.txt"
+  }
 }

@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「自転車に乗った人が川に流された」と",
-      "furigana": "きごうじてんしゃにのったひとがかわにながされたきごうと",
+      "furigana": "「じてんしゃにのったひとがかわにながされた」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "ふりました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9737/",
+    "safe_topic_id": "https___nhkeasier_com_story_9737_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9737_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9737_.json",
+    "title": "熊本県と鹿児島県　たくさん雨が降った所で被害が出た",
+    "link": "https://nhkeasier.com/story/9737/",
+    "file_path": null
+  }
 }

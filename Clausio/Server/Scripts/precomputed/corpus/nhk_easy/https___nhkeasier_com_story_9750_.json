@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "専門家は「この地震は",
-      "furigana": "せんもんかはきごうこのじしんは",
+      "furigana": "せんもんかは「このじしんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "関係がない」と",
-      "furigana": "かんけいがないきごうと",
+      "furigana": "かんけいがない」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "はなしています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9750/",
+    "safe_topic_id": "https___nhkeasier_com_story_9750_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9750_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9750_.json",
+    "title": "山梨県で震度6弱の大きい地震があった",
+    "link": "https://nhkeasier.com/story/9750/",
+    "file_path": null
+  }
 }

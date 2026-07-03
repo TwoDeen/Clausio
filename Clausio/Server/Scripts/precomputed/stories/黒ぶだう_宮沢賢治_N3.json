@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「おい、",
-      "furigana": "きごうおい、",
+      "furigana": "「おい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」仔牛は云はれた通りまづ前肢を",
-      "furigana": "きごう\nこうしはいはれたとおりまづまえあし",
+      "furigana": "」\nこうしはいはれたとおりまづまえあし",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "黒ぶだう_宮沢賢治",
+    "safe_topic_id": "黒ぶだう_宮沢賢治",
+    "corpus_json_id": "aozora/黒ぶだう_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/黒ぶだう_宮沢賢治.json",
+    "title": "黒ぶだう 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/黒ぶだう_宮沢賢治.txt"
+  }
 }

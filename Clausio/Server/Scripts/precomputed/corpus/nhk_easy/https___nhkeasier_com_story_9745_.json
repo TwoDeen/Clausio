@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「時系列情報」が役に立つ",
-      "furigana": "きごうじけいれつじょうほうきごうがやくにたつ",
+      "furigana": "「じけいれつじょうほう」がやくにたつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「この情報を見て、",
-      "furigana": "きごうこのじょうほうをみて、",
+      "furigana": "「このじょうほうをみて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "ことをかんがえてください。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9745/",
+    "safe_topic_id": "https___nhkeasier_com_story_9745_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9745_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9745_.json",
+    "title": "気象庁の「時系列情報」を見て災害の危険な時間を調べてほしい",
+    "link": "https://nhkeasier.com/story/9745/",
+    "file_path": null
+  }
 }

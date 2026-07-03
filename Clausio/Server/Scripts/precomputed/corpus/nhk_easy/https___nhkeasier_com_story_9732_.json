@@ -289,5 +289,15 @@
       "furigana": "しれません。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9732/",
+    "safe_topic_id": "https___nhkeasier_com_story_9732_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9732_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9732_.json",
+    "title": "西日本で大雨に気をつけて　2つの台風も来るかもしれない",
+    "link": "https://nhkeasier.com/story/9732/",
+    "file_path": null
+  }
 }

@@ -110,7 +110,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「スぺパ家具」と",
-      "furigana": "きごうすぺぱかぐきごうと",
+      "furigana": "「すぺぱかぐ」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "ふくなどをいれるしゅうのうになるかぐをうっています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9726/",
+    "safe_topic_id": "https___nhkeasier_com_story_9726_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9726_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9726_.json",
+    "title": "「スペパ家具」　スペースをうまく使う家具が人気",
+    "link": "https://nhkeasier.com/story/9726/",
+    "file_path": null
+  }
 }

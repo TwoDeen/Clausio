@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アイスクリームを",
-      "furigana": "あいすくりーむを",
+      "clause_text": "岩手県久慈市で、",
+      "furigana": "いわてけんくじしで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "作っている",
-      "furigana": "つくっている",
+      "clause_text": "「海女」と",
+      "furigana": "「あま」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "6つの大きい",
-      "furigana": "むいつのおおきい",
+      "clause_text": "呼ばれる女性が、",
+      "furigana": "よばれるじょせいが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "会社についての",
-      "furigana": "かいしゃについての",
+      "clause_text": "海の中に入ってウニをと",
+      "furigana": "うみのなかにはいってうにをと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ニュースです。",
-      "furigana": "にゅーすです。",
+      "clause_text": "っています。",
+      "furigana": "っています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "公正取引委員会は、",
-      "furigana": "こうせいとりひきいいんかいは、",
+      "clause_text": "毎年7月1日から、",
+      "furigana": "まいとししちがつついたちから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "6つの会社が",
-      "furigana": "むいつのかいしゃが",
+      "clause_text": "この海女の",
+      "furigana": "このあまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "アイスクリームの値段を相談",
-      "furigana": "あいすくりーむのねだんをそうだん",
+      "clause_text": "仕事を観光に",
+      "furigana": "しごとをかんこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "して決めていたと",
-      "furigana": "してきめていたと",
+      "clause_text": "来た人に",
+      "furigana": "きたひとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "考えています。",
-      "furigana": "かんがえています。",
+      "clause_text": "見せています。",
+      "furigana": "みせています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "法律に違反して、",
-      "furigana": "ほうりつにいはんして、",
+      "clause_text": "1日は、",
+      "furigana": "ついたちは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "競争を",
-      "furigana": "きょうそうを",
+      "clause_text": "4人の",
+      "furigana": "よんにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "しないで決めていた",
-      "furigana": "しないできめていた",
+      "clause_text": "海女が",
+      "furigana": "あまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "疑いが",
-      "furigana": "うたがいが",
+      "clause_text": "海に",
+      "furigana": "うみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "入りました。",
+      "furigana": "はいりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "このため、",
-      "furigana": "このため、",
+      "clause_text": "新しく海女になった人もいて、と",
+      "furigana": "あたらしくあまになったひともいて、と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "16日から",
-      "furigana": "いちろくにちから",
+      "clause_text": "ったウニを持って海から",
+      "furigana": "ったうにをもってうみから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "厳しい",
-      "furigana": "きびしい",
+      "clause_text": "顔を出すと、",
+      "furigana": "かおをだすと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "チェックを",
-      "furigana": "ちぇっくを",
+      "clause_text": "見ていた人たちは拍手",
+      "furigana": "みていたひとたちははくしゅ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "始めました。",
-      "furigana": "はじめました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "6つの会社は、",
-      "furigana": "むいつのかいしゃは、",
+      "clause_text": "海女がとったウニは、",
+      "furigana": "あまがとったうには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "毎年1回か2回、",
-      "furigana": "まいとしいちかいかにかい、",
+      "clause_text": "観光に来た人が",
+      "furigana": "かんこうにきたひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "アイスクリームの",
-      "furigana": "あいすくりーむの",
+      "clause_text": "すぐに",
+      "furigana": "すぐに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "値段を5%から10%ぐらい",
-      "furigana": "ねだんをごぱーせんとからいちれいぱーせんとぐらい",
+      "clause_text": "買って食べること",
+      "furigana": "かってたべること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "上げてきました。",
-      "furigana": "あげてきました。",
+      "clause_text": "ができます。",
+      "furigana": "ができます。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9763/",
+    "safe_topic_id": "https___nhkeasier_com_story_9763_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9763_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9763_.json",
+    "title": "岩手県　海に入ってウニをとる「海女」　観光に来た人に見せる",
+    "link": "https://nhkeasier.com/story/9763/",
+    "file_path": null
+  }
 }

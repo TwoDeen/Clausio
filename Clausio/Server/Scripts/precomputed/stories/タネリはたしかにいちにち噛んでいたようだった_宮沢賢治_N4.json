@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「山のうえから、青い藤蔓とってきた…西風ゴスケに北風カスケ…崖のうえから、赤い藤蔓とってきた…西風ゴスケに北風カスケ…森のなかから、白い藤蔓とってきた…西風ゴスケに北風カスケ…洞のなかから、黒い藤蔓とってきた…西風ゴスケに北風カスケ…山のうえから、…」",
-      "furigana": "きごうやまのうえから、あおいふじづるとってきた\nきごうせいふうごすけにきたかぜかすけきごう\nがけのうえから、あかいふじづるとってきた\nきごうせいふうごすけにきたかぜかすけきごう\nもりのなかから、しろいふじづるとってきた\nきごうせいふうごすけにきたかぜかすけきごう\nほらのなかから、くろいふじづるとってきた\nきごうせいふうごすけにきたかぜかすけきごう\nやま",
+      "furigana": "「やまのうえから、あおいふじづるとってきた\n…せいふうごすけにきたかぜかすけ…\nがけのうえから、あかいふじづるとってきた\n…せいふうごすけにきたかぜかすけ…\nもりのなかから、しろいふじづるとってきた\n…せいふうごすけにきたかぜかすけ…\nほらのなかから、くろいふじづるとってきた\n…せいふうごすけにきたかぜかすけ…\nやま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「山の",
-      "furigana": "きごうやまの",
+      "furigana": "「やまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,8 +286,18 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「さあ行こう、さあ行こう。",
-      "furigana": "きごうさあいこう、さあいこう。",
+      "furigana": "「さあいこう、さあいこう。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "タネリはたしかにいちにち噛んでいたようだった_宮沢賢治",
+    "safe_topic_id": "タネリはたしかにいちにち噛んでいたようだった_宮沢賢治",
+    "corpus_json_id": "aozora/タネリはたしかにいちにち噛んでいたようだった_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/タネリはたしかにいちにち噛んでいたようだった_宮沢賢治.json",
+    "title": "タネリはたしかにいちにち噛んでいたようだった 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/タネリはたしかにいちにち噛んでいたようだった_宮沢賢治.txt"
+  }
 }

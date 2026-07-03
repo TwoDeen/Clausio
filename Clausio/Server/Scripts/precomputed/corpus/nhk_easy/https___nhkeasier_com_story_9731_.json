@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「物の値段が",
-      "furigana": "きごうもののねだんが",
+      "furigana": "「もののねだんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9731/",
+    "safe_topic_id": "https___nhkeasier_com_story_9731_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9731_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9731_.json",
+    "title": "日本のビザを取るときに払うお金　7月から5倍に上がる",
+    "link": "https://nhkeasier.com/story/9731/",
+    "file_path": null
+  }
 }

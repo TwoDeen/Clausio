@@ -59,6 +59,31 @@ def _corpus_json_path(source: str, topic_id: str) -> str:
     return os.path.join(CORPUS_PRE_DIR, source, f"{safe_id(topic_id)}.json")
 
 
+def _attach_corpus_ref(
+    payload: dict,
+    *,
+    source: str,
+    topic_id: str,
+    title: str | None = None,
+    link: str | None = None,
+    file_path: str | None = None,
+) -> dict:
+    payload = dict(payload)
+    safe_topic_id = safe_id(topic_id)
+
+    payload["corpus_ref"] = {
+        "source": source,
+        "topic_id": topic_id,
+        "safe_topic_id": safe_topic_id,
+        "corpus_json_id": f"{source}/{safe_topic_id}",
+        "corpus_json_path": f"precomputed/corpus/{source}/{safe_topic_id}.json",
+        "title": title,
+        "link": link,
+        "file_path": file_path,
+    }
+    return payload
+
+
 def _detected_level_from_payload(payload: dict) -> str:
     level = payload.get("highest_grammar_level_encountered", "N5")
     level = str(level).upper().strip()
@@ -134,7 +159,12 @@ def precompute_all_corpora(
     only_source: str | None = None,
     clean: bool = False,
     clean_source: str | None = None,
+    target_level: str = "N5",
 ):
+    target_level = str(target_level).upper().strip()
+    if target_level not in LEVELS:
+        raise SystemExit(f"Invalid target level: {target_level}. Expected one of {LEVELS}")
+
     if clean and clean_source:
         raise SystemExit("Use either --clean or --clean-source, not both.")
 
@@ -155,6 +185,7 @@ def precompute_all_corpora(
         providers = [provider]
 
     print(f"Found {len(providers)} corpus provider(s).", flush=True)
+    print(f"Target generation level: {target_level}", flush=True)
 
     existing_corpus_index: dict[str, dict[str, list[dict]]] = {}
     corpus_index_path = os.path.join(PRECOMPUTED_DIR, "corpus_index.json")
@@ -218,9 +249,18 @@ def precompute_all_corpora(
                             f"Aozora source file missing for topic '{topic.id}'"
                         )
 
-                    payload = build_puzzle_json(file_path, "N5", CACHE_DIR)
+                    payload = build_puzzle_json(file_path, target_level, CACHE_DIR)
                     if not payload:
                         raise ValueError("build_puzzle_json() returned empty payload")
+
+                    payload = _attach_corpus_ref(
+                        payload,
+                        source=source,
+                        topic_id=topic.id,
+                        title=topic.title,
+                        link=topic.link,
+                        file_path=file_path,
+                    )
 
                     detected_level = _detected_level_from_payload(payload)
 
@@ -244,13 +284,22 @@ def precompute_all_corpora(
                     payload = build_puzzle_from_news_tokens(
                         item.sentences[:5],
                         item.furigana,
-                        "N5",
+                        target_level,
                     )
 
                     if not payload:
                         raise ValueError(
                             "build_puzzle_from_news_tokens() returned empty payload"
                         )
+
+                    payload = _attach_corpus_ref(
+                        payload,
+                        source=source,
+                        topic_id=topic.id,
+                        title=topic.title,
+                        link=topic.link,
+                        file_path=None,
+                    )
 
                     detected_level = _detected_level_from_payload(payload)
                     corpus_path = _corpus_json_path(source, topic.id)
@@ -267,10 +316,11 @@ def precompute_all_corpora(
                         "title": topic.title,
                         "link": topic.link,
                         "detected_level": detected_level,
+                        "target_level": target_level,
                     }
                 )
 
-                print(f" [OK] detected={detected_level}", flush=True)
+                print(f" [OK] target={target_level} detected={detected_level}", flush=True)
 
             except Exception as e:
                 print(f" [ERR] {e}", flush=True)
@@ -316,6 +366,13 @@ if __name__ == "__main__":
             default=None,
             help="Delete generated outputs for one source before rebuilding it, e.g. nhk_easy",
         )
+        parser.add_argument(
+            "--target-level",
+            type=str,
+            default="N5",
+            choices=LEVELS,
+            help="Requested generation level to pass into puzzle builders",
+        )
 
         args = parser.parse_args()
 
@@ -324,6 +381,7 @@ if __name__ == "__main__":
             only_source=args.only_source,
             clean=args.clean,
             clean_source=args.clean_source,
+            target_level=args.target_level,
         )
 
         print("main completed", flush=True)

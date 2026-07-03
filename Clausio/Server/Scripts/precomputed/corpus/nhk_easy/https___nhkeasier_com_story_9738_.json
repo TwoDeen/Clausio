@@ -88,7 +88,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「サンロードなかまち」",
-      "furigana": "きごうさんろーどなかまちきごう",
+      "furigana": "「さんろーどなかまち」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "きえました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9738/",
+    "safe_topic_id": "https___nhkeasier_com_story_9738_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9738_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9738_.json",
+    "title": "島根県出雲市の商店街で火事があった",
+    "link": "https://nhkeasier.com/story/9738/",
+    "file_path": null
+  }
 }

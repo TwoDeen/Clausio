@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「甲州」という",
-      "furigana": "きごうこうしゅうきごうという",
+      "furigana": "「こうしゅう」という",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "つみました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9722/",
+    "safe_topic_id": "https___nhkeasier_com_story_9722_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9722_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9722_.json",
+    "title": "山梨県からブラジルにたくさんワインを輸出する",
+    "link": "https://nhkeasier.com/story/9722/",
+    "file_path": null
+  }
 }

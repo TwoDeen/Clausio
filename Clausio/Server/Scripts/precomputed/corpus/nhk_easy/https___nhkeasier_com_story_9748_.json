@@ -289,5 +289,15 @@
       "furigana": "といっています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9748/",
+    "safe_topic_id": "https___nhkeasier_com_story_9748_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9748_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9748_.json",
+    "title": "京都駅で列車が線路から外れた　けがをした人はいない",
+    "link": "https://nhkeasier.com/story/9748/",
+    "file_path": null
+  }
 }

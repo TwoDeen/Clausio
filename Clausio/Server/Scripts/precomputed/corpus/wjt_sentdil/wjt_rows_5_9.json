@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "地球温暖化の",
-      "furigana": "ちきゅうおんだんかの",
+      "clause_text": "地球温暖化の影響で、",
+      "furigana": "ちきゅうおんだんかのえいきょうで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "影響で、",
-      "furigana": "えいきょうで、",
+      "clause_text": "世界",
+      "furigana": "せかい",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界各地で異常",
-      "furigana": "せかいかくちでいじょう",
+      "clause_text": "各地で異常気象が",
+      "furigana": "かくちでいじょうきしょうが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "気象が増加",
-      "furigana": "きしょうがぞうか",
+      "clause_text": "増加",
+      "furigana": "ぞうか",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "れている。",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "wjt_sentdil",
+    "topic_id": "wjt_rows_5_9",
+    "safe_topic_id": "wjt_rows_5_9",
+    "corpus_json_id": "wjt_sentdil/wjt_rows_5_9",
+    "corpus_json_path": "precomputed/corpus/wjt_sentdil/wjt_rows_5_9.json",
+    "title": "WJT Sentences 6-10",
+    "link": "",
+    "file_path": null
+  }
 }

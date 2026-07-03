@@ -289,5 +289,15 @@
       "furigana": "ません。",
       "sentence_individual_grammar_level": "N3"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9717/",
+    "safe_topic_id": "https___nhkeasier_com_story_9717_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9717_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9717_.json",
+    "title": "石川県と奈良県　熊が人を襲って2人がけがをした",
+    "link": "https://nhkeasier.com/story/9717/",
+    "file_path": null
+  }
 }

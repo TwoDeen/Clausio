@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」（爾薩待忙しく身づくろい",
-      "furigana": "きごうきごうしかさつまちいそがしくみづくろい",
+      "furigana": "」きごうしかさつまちいそがしくみづくろい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「ああ、君か、出来たね。",
-      "furigana": "きごうああ、きみか、できたね。",
+      "furigana": "「ああ、きみか、できたね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ペンキ屋",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -286,8 +286,18 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「あの、五円三十銭でございます。",
-      "furigana": "きごうあの、ごえんさんじゅうせんでございます。",
+      "furigana": "「あの、ごえんさんじゅうせんでございます。",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "植物医師_宮沢賢治",
+    "safe_topic_id": "植物医師_宮沢賢治",
+    "corpus_json_id": "aozora/植物医師_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/植物医師_宮沢賢治.json",
+    "title": "植物医師 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/植物医師_宮沢賢治.txt"
+  }
 }

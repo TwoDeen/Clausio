@@ -289,5 +289,15 @@
       "furigana": "はいっていました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "one",
+    "safe_topic_id": "one",
+    "corpus_json_id": "aozora/one",
+    "corpus_json_path": "precomputed/corpus/aozora/one.json",
+    "title": "One",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/one.txt"
+  }
 }

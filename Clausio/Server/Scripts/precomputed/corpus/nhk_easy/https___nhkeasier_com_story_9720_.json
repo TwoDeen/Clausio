@@ -289,5 +289,15 @@
       "furigana": "かいてあります。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9720/",
+    "safe_topic_id": "https___nhkeasier_com_story_9720_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9720_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9720_.json",
+    "title": "アメリカとイランの大統領　戦いを終わりにする書類にサイン",
+    "link": "https://nhkeasier.com/story/9720/",
+    "file_path": null
+  }
 }

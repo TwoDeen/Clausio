@@ -289,5 +289,15 @@
       "furigana": "にています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "チュウリップの幻術_宮沢賢治",
+    "safe_topic_id": "チュウリップの幻術_宮沢賢治",
+    "corpus_json_id": "aozora/チュウリップの幻術_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/チュウリップの幻術_宮沢賢治.json",
+    "title": "チュウリップの幻術 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/チュウリップの幻術_宮沢賢治.txt"
+  }
 }

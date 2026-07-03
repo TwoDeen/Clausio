@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "日銀は「この",
-      "furigana": "にちぎんはきごうこの",
+      "furigana": "にちぎんは「この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "たい。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9712/",
+    "safe_topic_id": "https___nhkeasier_com_story_9712_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9712_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9712_.json",
+    "title": "日本銀行が利子を1%にすることを決めた",
+    "link": "https://nhkeasier.com/story/9712/",
+    "file_path": null
+  }
 }

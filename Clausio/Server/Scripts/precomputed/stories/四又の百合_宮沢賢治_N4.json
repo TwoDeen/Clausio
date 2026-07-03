@@ -33,7 +33,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「正※知（しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）をおわたりになってこの町にいらっしゃるそうだ」",
-      "furigana": "きごうただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃるそうだきごう",
+      "furigana": "「ただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃるそうだ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「正※知（しょうへんち）はあしたの朝の七時ごろヒームキャの河（かわ）をおわたりになってこの町にいらっしゃるそうだ」",
-      "furigana": "きごうただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃるそうだきごう",
+      "furigana": "「ただしきごうちきごうしょうへんちきごうはあしたのあさのななじごろひーむきゃのかわをおわたりになってこのまちにいらっしゃるそうだ」",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "かおいろでそのおめは",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "四又の百合_宮沢賢治",
+    "safe_topic_id": "四又の百合_宮沢賢治",
+    "corpus_json_id": "aozora/四又の百合_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/四又の百合_宮沢賢治.json",
+    "title": "四又の百合 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/四又の百合_宮沢賢治.txt"
+  }
 }

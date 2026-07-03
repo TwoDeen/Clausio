@@ -1,357 +1,414 @@
 {
   "nhk_easy": {
-    "N3": [
-      {
-        "id": "https://nhkeasier.com/story/9717/",
-        "title": "石川県と奈良県　熊が人を襲って2人がけがをした",
-        "link": "https://nhkeasier.com/story/9717/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9744/",
-        "title": "2つの台風が来ている　雨と風に気をつけて",
-        "link": "https://nhkeasier.com/story/9744/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9709/",
-        "title": "ホルムズ海峡はどうなるか",
-        "link": "https://nhkeasier.com/story/9709/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9737/",
-        "title": "熊本県と鹿児島県　たくさん雨が降った所で被害が出た",
-        "link": "https://nhkeasier.com/story/9737/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9756/",
-        "title": "奄美地方で梅雨が終わった　西日本などで梅雨の雨が続く",
-        "link": "https://nhkeasier.com/story/9756/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9754/",
-        "title": "7月は2500以上の食べ物や飲み物の値段が上がる",
-        "link": "https://nhkeasier.com/story/9754/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9734/",
-        "title": "エアコンの修理　悪い会社を選ばないように気をつけて",
-        "link": "https://nhkeasier.com/story/9734/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9755/",
-        "title": "栃木県　男性が畑で熊に襲われてひどいけがをした",
-        "link": "https://nhkeasier.com/story/9755/",
-        "detected_level": "N3"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9732/",
-        "title": "西日本で大雨に気をつけて　2つの台風も来るかもしれない",
-        "link": "https://nhkeasier.com/story/9732/",
-        "detected_level": "N3"
-      }
-    ],
     "N5": [
       {
-        "id": "https://nhkeasier.com/story/9748/",
-        "title": "京都駅で列車が線路から外れた　けがをした人はいない",
-        "link": "https://nhkeasier.com/story/9748/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9759/",
-        "title": "熊がどのくらいいるか　800のカメラで調べる",
-        "link": "https://nhkeasier.com/story/9759/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9729/",
-        "title": "サッカーのワールドカップ　日本がチュニジアに4対0で勝った",
-        "link": "https://nhkeasier.com/story/9729/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9713/",
-        "title": "日経平均株価　初めて7万円より高くなった",
-        "link": "https://nhkeasier.com/story/9713/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9728/",
-        "title": "アメリカとイラン　戦いを終わりにする話し合いを始めた",
-        "link": "https://nhkeasier.com/story/9728/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9716/",
-        "title": "G7「イランが核兵器を持たないようにすることを確認した」",
-        "link": "https://nhkeasier.com/story/9716/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9720/",
-        "title": "アメリカとイランの大統領　戦いを終わりにする書類にサイン",
-        "link": "https://nhkeasier.com/story/9720/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9751/",
-        "title": "ヨーロッパでとても暑い日が続いている",
-        "link": "https://nhkeasier.com/story/9751/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9722/",
-        "title": "山梨県からブラジルにたくさんワインを輸出する",
-        "link": "https://nhkeasier.com/story/9722/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9743/",
-        "title": "東北地方　地震でけがをした人がいる",
-        "link": "https://nhkeasier.com/story/9743/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9742/",
-        "title": "青森県で震度6強の大きい地震があった",
-        "link": "https://nhkeasier.com/story/9742/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9727/",
-        "title": "父の日　子どもたちがお父さんに手紙を出した",
-        "link": "https://nhkeasier.com/story/9727/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9715/",
-        "title": "北海道　昔から続く「ホッカイシマエビ漁」が始まった",
-        "link": "https://nhkeasier.com/story/9715/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9735/",
-        "title": "熊がまちの中に来ないように川のそばの草を短く切った",
-        "link": "https://nhkeasier.com/story/9735/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9725/",
-        "title": "サッカーのワールドカップ　日本は21日にチュニジアと試合",
-        "link": "https://nhkeasier.com/story/9725/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9740/",
-        "title": "九州地方などでたくさん雨が降っている　災害に気をつけて",
-        "link": "https://nhkeasier.com/story/9740/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9733/",
-        "title": "沖縄の戦いから81年　亡くなった人たちのために祈る",
-        "link": "https://nhkeasier.com/story/9733/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9738/",
-        "title": "島根県出雲市の商店街で火事があった",
-        "link": "https://nhkeasier.com/story/9738/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9757/",
-        "title": "富士山　7月1日からいちばん上まで登ることができる",
-        "link": "https://nhkeasier.com/story/9757/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9749/",
-        "title": "ベネズエラで大きい地震 「28日までに1450人が亡くなった」",
-        "link": "https://nhkeasier.com/story/9749/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9736/",
-        "title": "四国や九州でたくさん雨が降っている　災害に気をつけて",
-        "link": "https://nhkeasier.com/story/9736/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9750/",
-        "title": "山梨県で震度6弱の大きい地震があった",
-        "link": "https://nhkeasier.com/story/9750/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9758/",
-        "title": "日本を出るときに払うお金　3000円に上がった",
-        "link": "https://nhkeasier.com/story/9758/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9741/",
-        "title": "台風が近づいている　27日ぐらいまでたくさん雨が降りそうだ",
-        "link": "https://nhkeasier.com/story/9741/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9731/",
-        "title": "日本のビザを取るときに払うお金　7月から5倍に上がる",
-        "link": "https://nhkeasier.com/story/9731/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9753/",
-        "title": "1ドル=162円台　円がとても安くなっている",
-        "link": "https://nhkeasier.com/story/9753/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9747/",
-        "title": "サッカーのワールドカップ　日本は決勝トーナメントへ進む",
-        "link": "https://nhkeasier.com/story/9747/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9724/",
-        "title": "東京の小学校で火事　11人が病院に運ばれた",
-        "link": "https://nhkeasier.com/story/9724/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9723/",
-        "title": "災害にあった人たちを元気に　CDをつくるため高校生が演奏",
-        "link": "https://nhkeasier.com/story/9723/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9730/",
-        "title": "ウクライナ　ロシアの石油の工場を攻撃",
-        "link": "https://nhkeasier.com/story/9730/",
-        "detected_level": "N5"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9721/",
-        "title": "株の価格　7万1000円以上　今まででいちばん高くなった",
-        "link": "https://nhkeasier.com/story/9721/",
-        "detected_level": "N5"
+        "id": "https://nhkeasier.com/story/9762/",
+        "title": "カブス鈴木誠也選手　大リーグで100本ホームランを打った",
+        "link": "https://nhkeasier.com/story/9762/",
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "https://nhkeasier.com/story/9718/",
         "title": "16日関東地方で震度5弱の地震　1週間ぐらい気をつけて",
         "link": "https://nhkeasier.com/story/9718/",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
-        "id": "https://nhkeasier.com/story/9708/",
-        "title": "アメリカとイランの戦いが終わるかもしれない",
-        "link": "https://nhkeasier.com/story/9708/",
-        "detected_level": "N5"
+        "id": "https://nhkeasier.com/story/9723/",
+        "title": "災害にあった人たちを元気に　CDをつくるため高校生が演奏",
+        "link": "https://nhkeasier.com/story/9723/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9735/",
+        "title": "熊がまちの中に来ないように川のそばの草を短く切った",
+        "link": "https://nhkeasier.com/story/9735/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9751/",
+        "title": "ヨーロッパでとても暑い日が続いている",
+        "link": "https://nhkeasier.com/story/9751/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9742/",
+        "title": "青森県で震度6強の大きい地震があった",
+        "link": "https://nhkeasier.com/story/9742/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9759/",
+        "title": "熊がどのくらいいるか　800のカメラで調べる",
+        "link": "https://nhkeasier.com/story/9759/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9716/",
+        "title": "G7「イランが核兵器を持たないようにすることを確認した」",
+        "link": "https://nhkeasier.com/story/9716/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9730/",
+        "title": "ウクライナ　ロシアの石油の工場を攻撃",
+        "link": "https://nhkeasier.com/story/9730/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9724/",
+        "title": "東京の小学校で火事　11人が病院に運ばれた",
+        "link": "https://nhkeasier.com/story/9724/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9750/",
+        "title": "山梨県で震度6弱の大きい地震があった",
+        "link": "https://nhkeasier.com/story/9750/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9721/",
+        "title": "株の価格　7万1000円以上　今まででいちばん高くなった",
+        "link": "https://nhkeasier.com/story/9721/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9741/",
+        "title": "台風が近づいている　27日ぐらいまでたくさん雨が降りそうだ",
+        "link": "https://nhkeasier.com/story/9741/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9748/",
+        "title": "京都駅で列車が線路から外れた　けがをした人はいない",
+        "link": "https://nhkeasier.com/story/9748/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9733/",
+        "title": "沖縄の戦いから81年　亡くなった人たちのために祈る",
+        "link": "https://nhkeasier.com/story/9733/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9760/",
+        "title": "熊本県や大分県などでたくさん雨が降って被害が出た",
+        "link": "https://nhkeasier.com/story/9760/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9713/",
+        "title": "日経平均株価　初めて7万円より高くなった",
+        "link": "https://nhkeasier.com/story/9713/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9720/",
+        "title": "アメリカとイランの大統領　戦いを終わりにする書類にサイン",
+        "link": "https://nhkeasier.com/story/9720/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9729/",
+        "title": "サッカーのワールドカップ　日本がチュニジアに4対0で勝った",
+        "link": "https://nhkeasier.com/story/9729/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9727/",
+        "title": "父の日　子どもたちがお父さんに手紙を出した",
+        "link": "https://nhkeasier.com/story/9727/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9731/",
+        "title": "日本のビザを取るときに払うお金　7月から5倍に上がる",
+        "link": "https://nhkeasier.com/story/9731/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9743/",
+        "title": "東北地方　地震でけがをした人がいる",
+        "link": "https://nhkeasier.com/story/9743/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9722/",
+        "title": "山梨県からブラジルにたくさんワインを輸出する",
+        "link": "https://nhkeasier.com/story/9722/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9757/",
+        "title": "富士山　7月1日からいちばん上まで登ることができる",
+        "link": "https://nhkeasier.com/story/9757/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9747/",
+        "title": "サッカーのワールドカップ　日本は決勝トーナメントへ進む",
+        "link": "https://nhkeasier.com/story/9747/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9758/",
+        "title": "日本を出るときに払うお金　3000円に上がった",
+        "link": "https://nhkeasier.com/story/9758/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9740/",
+        "title": "九州地方などでたくさん雨が降っている　災害に気をつけて",
+        "link": "https://nhkeasier.com/story/9740/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9728/",
+        "title": "アメリカとイラン　戦いを終わりにする話し合いを始めた",
+        "link": "https://nhkeasier.com/story/9728/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9749/",
+        "title": "ベネズエラで大きい地震 「28日までに1450人が亡くなった」",
+        "link": "https://nhkeasier.com/story/9749/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9738/",
+        "title": "島根県出雲市の商店街で火事があった",
+        "link": "https://nhkeasier.com/story/9738/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9753/",
+        "title": "1ドル=162円台　円がとても安くなっている",
+        "link": "https://nhkeasier.com/story/9753/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9736/",
+        "title": "四国や九州でたくさん雨が降っている　災害に気をつけて",
+        "link": "https://nhkeasier.com/story/9736/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9761/",
+        "title": "ベネズエラの地震　亡くなった人が2000人より多くなった",
+        "link": "https://nhkeasier.com/story/9761/",
+        "detected_level": "N5",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9725/",
+        "title": "サッカーのワールドカップ　日本は21日にチュニジアと試合",
+        "link": "https://nhkeasier.com/story/9725/",
+        "detected_level": "N5",
+        "target_level": "N5"
       }
     ],
     "N4": [
       {
-        "id": "https://nhkeasier.com/story/9712/",
-        "title": "日本銀行が利子を1%にすることを決めた",
-        "link": "https://nhkeasier.com/story/9712/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9746/",
-        "title": "大きい地震があった青森県で学校の授業が始まる",
-        "link": "https://nhkeasier.com/story/9746/",
-        "detected_level": "N4"
-      },
-      {
         "id": "https://nhkeasier.com/story/9739/",
         "title": "今年5月　熱中症で4000人以上が病院に運ばれた",
         "link": "https://nhkeasier.com/story/9739/",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "https://nhkeasier.com/story/9719/",
         "title": "滋賀県甲賀市　「忍者」の試験があった",
         "link": "https://nhkeasier.com/story/9719/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9714/",
-        "title": "アイスクリームの値段　6つの会社が相談して決めていた疑い",
-        "link": "https://nhkeasier.com/story/9714/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9726/",
-        "title": "「スペパ家具」　スペースをうまく使う家具が人気",
-        "link": "https://nhkeasier.com/story/9726/",
-        "detected_level": "N4"
-      },
-      {
-        "id": "https://nhkeasier.com/story/9752/",
-        "title": "サッカーのワールドカップ　日本はブラジルに1対2で負けた",
-        "link": "https://nhkeasier.com/story/9752/",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "https://nhkeasier.com/story/9745/",
         "title": "気象庁の「時系列情報」を見て災害の危険な時間を調べてほしい",
         "link": "https://nhkeasier.com/story/9745/",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9726/",
+        "title": "「スペパ家具」　スペースをうまく使う家具が人気",
+        "link": "https://nhkeasier.com/story/9726/",
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9746/",
+        "title": "大きい地震があった青森県で学校の授業が始まる",
+        "link": "https://nhkeasier.com/story/9746/",
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9752/",
+        "title": "サッカーのワールドカップ　日本はブラジルに1対2で負けた",
+        "link": "https://nhkeasier.com/story/9752/",
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9763/",
+        "title": "岩手県　海に入ってウニをとる「海女」　観光に来た人に見せる",
+        "link": "https://nhkeasier.com/story/9763/",
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9712/",
+        "title": "日本銀行が利子を1%にすることを決めた",
+        "link": "https://nhkeasier.com/story/9712/",
+        "detected_level": "N4",
+        "target_level": "N5"
+      }
+    ],
+    "N3": [
+      {
+        "id": "https://nhkeasier.com/story/9756/",
+        "title": "奄美地方で梅雨が終わった　西日本などで梅雨の雨が続く",
+        "link": "https://nhkeasier.com/story/9756/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9754/",
+        "title": "7月は2500以上の食べ物や飲み物の値段が上がる",
+        "link": "https://nhkeasier.com/story/9754/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9737/",
+        "title": "熊本県と鹿児島県　たくさん雨が降った所で被害が出た",
+        "link": "https://nhkeasier.com/story/9737/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9734/",
+        "title": "エアコンの修理　悪い会社を選ばないように気をつけて",
+        "link": "https://nhkeasier.com/story/9734/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9732/",
+        "title": "西日本で大雨に気をつけて　2つの台風も来るかもしれない",
+        "link": "https://nhkeasier.com/story/9732/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9744/",
+        "title": "2つの台風が来ている　雨と風に気をつけて",
+        "link": "https://nhkeasier.com/story/9744/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9755/",
+        "title": "栃木県　男性が畑で熊に襲われてひどいけがをした",
+        "link": "https://nhkeasier.com/story/9755/",
+        "detected_level": "N3",
+        "target_level": "N5"
+      },
+      {
+        "id": "https://nhkeasier.com/story/9717/",
+        "title": "石川県と奈良県　熊が人を襲って2人がけがをした",
+        "link": "https://nhkeasier.com/story/9717/",
+        "detected_level": "N3",
+        "target_level": "N5"
       }
     ]
   },
   "nhk_general": {
-    "N3": [
-      {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015167211000.html",
-        "title": "ロシア軍大規模攻撃でウクライナ各地被害 キーウで13人死亡",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167211000.html",
-        "detected_level": "N3"
-      },
-      {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015167061000.html",
-        "title": "福岡 久留米 農業用ハウスが10棟壊れる 突風被害の可能性も",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167061000.html",
-        "detected_level": "N3"
-      }
-    ],
     "N5": [
       {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
-        "title": "大手企業 夏のボーナス 初の100万円超 経団連調査",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
-        "detected_level": "N5"
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+        "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
-        "title": "日印首脳会談 インドで2兆円超の事業創出へ",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
-        "detected_level": "N5"
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167801000.html",
+        "title": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167801000.html",
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015167201000.html",
-        "title": "夏休み旅行者は去年より4.6％減少見通し",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167201000.html",
-        "detected_level": "N5"
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167901000.html",
+        "title": "サッカーW杯 ポルトガルがクロアチアに劇的勝利で2回戦へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167901000.html",
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015166891000.html",
-        "title": "台風9号が発生 今後の情報に注意",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166891000.html",
-        "detected_level": "N5"
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167941000.html",
+        "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167941000.html",
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
-        "id": "http://www3.nhk.or.jp/news/html/20260702/k10015166851000.html",
-        "title": "【動画】サッカーW杯 日本代表が帰国 ファンが出迎え",
-        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166851000.html",
-        "detected_level": "N5"
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167791000.html",
+        "title": "うその決算報告書などで銀行から11億円詐取か 元社長逮捕",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167791000.html",
+        "detected_level": "N5",
+        "target_level": "N5"
+      }
+    ],
+    "N4": [
+      {
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+        "title": "京大を国際卓越研究大学に認定へ 今年度200億円助成見込み",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+        "detected_level": "N4",
+        "target_level": "N5"
+      },
+      {
+        "id": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+        "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+        "detected_level": "N4",
+        "target_level": "N5"
       }
     ]
   },
@@ -361,481 +418,561 @@
         "id": "modern",
         "title": "Modern",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "modern2",
         "title": "Modern2",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "modern3",
         "title": "Modern3",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "『春と修羅』補遺_宮沢賢治",
         "title": "『春と修羅』補遺 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "『注文の多い料理店』広告文_宮沢賢治",
         "title": "『注文の多い料理店』広告文 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "『注文の多い料理店』序_宮沢賢治",
         "title": "『注文の多い料理店』序 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "『注文の多い料理店』新刊案内_宮沢賢治",
         "title": "『注文の多い料理店』新刊案内 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "〔「銀河鉄道の夜」初期形一〕_宮沢賢治",
         "title": "〔「銀河鉄道の夜」初期形一〕 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "いちょうの実_宮沢賢治",
         "title": "いちょうの実 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "いてふの実_宮沢賢治",
         "title": "いてふの実 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "おきなぐさ_宮沢賢治",
         "title": "おきなぐさ 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "かしはばやしの夜_宮沢賢治",
         "title": "かしはばやしの夜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "かしわばやしの夜_宮沢賢治",
         "title": "かしわばやしの夜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "さいかち淵_宮沢賢治",
         "title": "さいかち淵 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ひのきとひなげし_宮沢賢治",
         "title": "ひのきとひなげし 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "まなづるとダァリヤ_宮沢賢治",
         "title": "まなづるとダァリヤ 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "みじかい木ぺん_宮沢賢治",
         "title": "みじかい木ぺん 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "めくらぶどうと虹_宮沢賢治",
         "title": "めくらぶどうと虹 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "よだかの星_宮沢賢治",
         "title": "よだかの星 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "オツベルと象_宮沢賢治",
         "title": "オツベルと象 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "カイロ団長_宮沢賢治",
         "title": "カイロ団長 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ガドルフの百合_宮沢賢治",
         "title": "ガドルフの百合 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "グスコーブドリの伝記_宮沢賢治",
         "title": "グスコーブドリの伝記 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "サガレンと八月_宮沢賢治",
         "title": "サガレンと八月 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "シグナルとシグナレス_宮沢賢治",
         "title": "シグナルとシグナレス 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "セロ弾きのゴーシュ_宮沢賢治",
         "title": "セロ弾きのゴーシュ 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "タネリはたしかにいちにち噛んでいたようだった_宮沢賢治",
         "title": "タネリはたしかにいちにち噛んでいたようだった 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ツェねずみ_宮沢賢治",
         "title": "ツェねずみ 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ビジテリアン大祭_宮沢賢治",
         "title": "ビジテリアン大祭 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ペンネンネンネンネン・ネネムの伝記_宮沢賢治",
         "title": "ペンネンネンネンネン・ネネムの伝記 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "ポランの広場_宮沢賢治",
         "title": "ポランの広場 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "マグノリアの木_宮沢賢治",
         "title": "マグノリアの木 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "マリヴロンと少女_宮沢賢治",
         "title": "マリヴロンと少女 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "一九三一年度極東ビヂテリアン大会見聞録_宮沢賢治",
         "title": "一九三一年度極東ビヂテリアン大会見聞録 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "丹藤川〔「家長制度」先駆形〕_宮沢賢治",
         "title": "丹藤川〔「家長制度」先駆形〕 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "二十六夜_宮沢賢治",
         "title": "二十六夜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "十六日_宮沢賢治",
         "title": "十六日 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "四又の百合_宮沢賢治",
         "title": "四又の百合 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "図書館幻想_宮沢賢治",
         "title": "図書館幻想 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "大礼服の例外的効果_宮沢賢治",
         "title": "大礼服の例外的効果 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "家長制度_宮沢賢治",
         "title": "家長制度 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "山地の稜_宮沢賢治",
         "title": "山地の稜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "床屋_宮沢賢治",
         "title": "床屋 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "手紙　一_宮沢賢治",
         "title": "手紙　一 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "手紙　二_宮沢賢治",
         "title": "手紙　二 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "手紙　四_宮沢賢治",
         "title": "手紙　四 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "文語詩稿　一百篇_宮沢賢治",
         "title": "文語詩稿　一百篇 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "文語詩稿　五十篇_宮沢賢治",
         "title": "文語詩稿　五十篇 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "春と修羅_宮沢賢治",
         "title": "春と修羅 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "月夜のでんしんばしら_宮沢賢治",
         "title": "月夜のでんしんばしら 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "林の底_宮沢賢治",
         "title": "林の底 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "植物医師_宮沢賢治",
         "title": "植物医師 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "毒もみのすきな署長さん_宮沢賢治",
         "title": "毒もみのすきな署長さん 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "水仙月の四日_宮沢賢治",
         "title": "水仙月の四日 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "氷と後光_宮沢賢治",
         "title": "氷と後光 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "氷河鼠の毛皮_宮沢賢治",
         "title": "氷河鼠の毛皮 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "泉ある家_宮沢賢治",
         "title": "泉ある家 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "注文の多い料理店_宮沢賢治",
         "title": "注文の多い料理店 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "烏の北斗七星_宮沢賢治",
         "title": "烏の北斗七星 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "猫の事務所_宮沢賢治",
         "title": "猫の事務所 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "畑のへり_宮沢賢治",
         "title": "畑のへり 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "疑獄元兇_宮沢賢治",
         "title": "疑獄元兇 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "祭の晩_宮沢賢治",
         "title": "祭の晩 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "種山ヶ原_宮沢賢治",
         "title": "種山ヶ原 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "紫紺染について_宮沢賢治",
         "title": "紫紺染について 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "花壇工作_宮沢賢治",
         "title": "花壇工作 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "花椰菜_宮沢賢治",
         "title": "花椰菜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "若い木霊_宮沢賢治",
         "title": "若い木霊 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "茨海小学校_宮沢賢治",
         "title": "茨海小学校 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "葡萄水_宮沢賢治",
         "title": "葡萄水 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "虔十公園林_宮沢賢治",
         "title": "虔十公園林 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "蜘蛛となめくじと狸_宮沢賢治",
         "title": "蜘蛛となめくじと狸 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "貝の火_宮沢賢治",
         "title": "貝の火 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "車_宮沢賢治",
         "title": "車 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "銀河鉄道の夜_宮沢賢治",
         "title": "銀河鉄道の夜 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "雁の童子_宮沢賢治",
         "title": "雁の童子 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "革トランク_宮沢賢治",
         "title": "革トランク 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "饑餓陣営_宮沢賢治",
         "title": "饑餓陣営 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "鹿踊りのはじまり_宮沢賢治",
         "title": "鹿踊りのはじまり 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       },
       {
         "id": "黄いろのトマト_宮沢賢治",
         "title": "黄いろのトマト 宮沢賢治",
         "link": "",
-        "detected_level": "N4"
+        "detected_level": "N4",
+        "target_level": "N5"
       }
     ],
     "N5": [
@@ -843,301 +980,351 @@
         "id": "one",
         "title": "One",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "〔蒼冷と純黒〕_宮沢賢治",
         "title": "〔蒼冷と純黒〕 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "あけがた_宮沢賢治",
         "title": "あけがた 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ありときのこ_宮沢賢治",
         "title": "ありときのこ 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "うろこ雲_宮沢賢治",
         "title": "うろこ雲 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "さるのこしかけ_宮沢賢治",
         "title": "さるのこしかけ 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ざしき童子のはなし_宮沢賢治",
         "title": "ざしき童子のはなし 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "とっこべとら子_宮沢賢治",
         "title": "とっこべとら子 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "なめとこ山の熊_宮沢賢治",
         "title": "なめとこ山の熊 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ひかりの素足_宮沢賢治",
         "title": "ひかりの素足 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "やまなし_宮沢賢治",
         "title": "やまなし 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "よく利く薬とえらい薬_宮沢賢治",
         "title": "よく利く薬とえらい薬 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "イギリス海岸_宮沢賢治",
         "title": "イギリス海岸 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "インドラの網_宮沢賢治",
         "title": "インドラの網 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "イーハトーボ農学校の春_宮沢賢治",
         "title": "イーハトーボ農学校の春 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "クねずみ_宮沢賢治",
         "title": "クねずみ 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "チュウリップの幻術_宮沢賢治",
         "title": "チュウリップの幻術 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "バキチの仕事_宮沢賢治",
         "title": "バキチの仕事 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "フランドン農学校の豚_宮沢賢治",
         "title": "フランドン農学校の豚 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ペンネンノルデはいまはいないよ　太陽にできた黒い棘をとりに行ったよ_宮沢賢治",
         "title": "ペンネンノルデはいまはいないよ　太陽にできた黒い棘をとりに行ったよ 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ポラーノの広場_宮沢賢治",
         "title": "ポラーノの広場 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "ラジュウムの雁_宮沢賢治",
         "title": "ラジュウムの雁 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "二人の役人_宮沢賢治",
         "title": "二人の役人 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "化物丁場_宮沢賢治",
         "title": "化物丁場 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "北守将軍と三人兄弟の医者_宮沢賢治",
         "title": "北守将軍と三人兄弟の医者 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "双子の星_宮沢賢治",
         "title": "双子の星 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "台川_宮沢賢治",
         "title": "台川 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "女_宮沢賢治",
         "title": "女 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "学者アラムハラドの見た着物_宮沢賢治",
         "title": "学者アラムハラドの見た着物 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "月夜のけだもの_宮沢賢治",
         "title": "月夜のけだもの 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "月夜のでんしんばしらの軍歌_宮沢賢治",
         "title": "月夜のでんしんばしらの軍歌 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "朝に就ての童話的構図_宮沢賢治",
         "title": "朝に就ての童話的構図 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "柳沢_宮沢賢治",
         "title": "柳沢 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "楢ノ木大学士の野宿_宮沢賢治",
         "title": "楢ノ木大学士の野宿 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "気のいい火山弾_宮沢賢治",
         "title": "気のいい火山弾 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "沼森_宮沢賢治",
         "title": "沼森 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "洞熊学校を卒業した三人_宮沢賢治",
         "title": "洞熊学校を卒業した三人 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "狼森と笊森、盗森_宮沢賢治",
         "title": "狼森と笊森、盗森 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "猫_宮沢賢治",
         "title": "猫 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "秋田街道_宮沢賢治",
         "title": "秋田街道 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "税務署長の冒険_宮沢賢治",
         "title": "税務署長の冒険 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "耕耘部の時計_宮沢賢治",
         "title": "耕耘部の時計 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "虹の絵の具皿_宮沢賢治",
         "title": "虹の絵の具皿 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "蛙のゴム靴_宮沢賢治",
         "title": "蛙のゴム靴 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "谷_宮沢賢治",
         "title": "谷 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "雪渡り_宮沢賢治",
         "title": "雪渡り 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "電車_宮沢賢治",
         "title": "電車 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "風の又三郎_宮沢賢治",
         "title": "風の又三郎 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "風野又三郎_宮沢賢治",
         "title": "風野又三郎 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       },
       {
         "id": "鳥をとるやなぎ_宮沢賢治",
         "title": "鳥をとるやなぎ 宮沢賢治",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       }
     ],
     "N3": [
@@ -1145,85 +1332,99 @@
         "id": "『春と修羅』_宮沢賢治",
         "title": "『春と修羅』 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "どんぐりと山猫_宮沢賢治",
         "title": "どんぐりと山猫 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "十月の末_宮沢賢治",
         "title": "十月の末 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "土神ときつね_宮沢賢治",
         "title": "土神ときつね 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "土神と狐_宮沢賢治",
         "title": "土神と狐 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "山男の四月_宮沢賢治",
         "title": "山男の四月 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "手紙　三_宮沢賢治",
         "title": "手紙　三 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "春と修羅　第三集_宮沢賢治",
         "title": "春と修羅　第三集 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "春と修羅　第二集_宮沢賢治",
         "title": "春と修羅　第二集 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "毒蛾_宮沢賢治",
         "title": "毒蛾 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "詩ノート_宮沢賢治",
         "title": "詩ノート 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "鳥箱先生とフウねずみ_宮沢賢治",
         "title": "鳥箱先生とフウねずみ 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "黒ぶだう_宮沢賢治",
         "title": "黒ぶだう 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       },
       {
         "id": "龍と詩人_宮沢賢治",
         "title": "龍と詩人 宮沢賢治",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       }
     ],
     "N2": [
@@ -1231,7 +1432,8 @@
         "id": "或る農学生の日誌_宮沢賢治",
         "title": "或る農学生の日誌 宮沢賢治",
         "link": "",
-        "detected_level": "N2"
+        "detected_level": "N2",
+        "target_level": "N5"
       }
     ]
   },
@@ -1241,7 +1443,8 @@
         "id": "wjt_rows_0_4",
         "title": "WJT Sentences 1-5",
         "link": "",
-        "detected_level": "N5"
+        "detected_level": "N5",
+        "target_level": "N5"
       }
     ],
     "N2": [
@@ -1249,7 +1452,8 @@
         "id": "wjt_rows_5_9",
         "title": "WJT Sentences 6-10",
         "link": "",
-        "detected_level": "N2"
+        "detected_level": "N2",
+        "target_level": "N5"
       }
     ],
     "N3": [
@@ -1257,7 +1461,8 @@
         "id": "wjt_rows_10_14",
         "title": "WJT Sentences 11-15",
         "link": "",
-        "detected_level": "N3"
+        "detected_level": "N3",
+        "target_level": "N5"
       }
     ]
   }

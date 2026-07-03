@@ -289,5 +289,15 @@
       "furigana": "してしかたないのです。",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "『注文の多い料理店』序_宮沢賢治",
+    "safe_topic_id": "『注文の多い料理店』序_宮沢賢治",
+    "corpus_json_id": "aozora/『注文の多い料理店』序_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/『注文の多い料理店』序_宮沢賢治.json",
+    "title": "『注文の多い料理店』序 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/『注文の多い料理店』序_宮沢賢治.txt"
+  }
 }

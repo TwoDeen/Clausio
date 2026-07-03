@@ -289,5 +289,15 @@
       "furigana": "さびしいのでした。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "マグノリアの木_宮沢賢治",
+    "safe_topic_id": "マグノリアの木_宮沢賢治",
+    "corpus_json_id": "aozora/マグノリアの木_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/マグノリアの木_宮沢賢治.json",
+    "title": "マグノリアの木 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/マグノリアの木_宮沢賢治.txt"
+  }
 }

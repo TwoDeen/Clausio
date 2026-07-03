@@ -99,7 +99,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「貝の火兄弟商会」の、",
-      "furigana": "きごうかいのひきょうだいしょうかいきごうの、",
+      "furigana": "「かいのひきょうだいしょうかい」の、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「先生、",
-      "furigana": "きごうせんせい、",
+      "furigana": "「せんせい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "んです。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "楢ノ木大学士の野宿_宮沢賢治",
+    "safe_topic_id": "楢ノ木大学士の野宿_宮沢賢治",
+    "corpus_json_id": "aozora/楢ノ木大学士の野宿_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/楢ノ木大学士の野宿_宮沢賢治.json",
+    "title": "楢ノ木大学士の野宿 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/楢ノ木大学士の野宿_宮沢賢治.txt"
+  }
 }

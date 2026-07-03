@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「レベル4危険警報」が出ている所が",
-      "furigana": "きごうれべるよんきけんけいほうきごうがでているところが",
+      "furigana": "「れべるよんきけんけいほう」がでているところが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9740/",
+    "safe_topic_id": "https___nhkeasier_com_story_9740_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9740_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9740_.json",
+    "title": "九州地方などでたくさん雨が降っている　災害に気をつけて",
+    "link": "https://nhkeasier.com/story/9740/",
+    "file_path": null
+  }
 }

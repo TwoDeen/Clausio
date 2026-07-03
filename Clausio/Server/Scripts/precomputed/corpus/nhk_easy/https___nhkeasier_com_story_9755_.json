@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "男性は「助けてほしい」",
-      "furigana": "だんせいはきごうたすけてほしいきごう",
+      "furigana": "だんせいは「たすけてほしい」",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9755/",
+    "safe_topic_id": "https___nhkeasier_com_story_9755_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9755_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9755_.json",
+    "title": "栃木県　男性が畑で熊に襲われてひどいけがをした",
+    "link": "https://nhkeasier.com/story/9755/",
+    "file_path": null
+  }
 }

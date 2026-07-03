@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日銀短観発表",
-      "furigana": "にちぎんたんかんはっぴょう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "優れた推理小説に贈られる",
+      "furigana": "すぐれたすいりしょうせつにおくられる",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "大企業の製造業の",
-      "furigana": "だいきぎょうのせいぞうぎょうの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "英国推理作家協会賞＝「ダガー賞」の受賞作品が発表され、",
+      "furigana": "えいこくすいりさっかきょうかいしょう_「だがーしょう」のじゅしょうさくひんがはっぴょうされ、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "指数改善",
-      "furigana": "しすうかいぜん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "翻訳部門で最終候補に残っていたユーチューバーで覆面の日本人作家、",
+      "furigana": "ほんやくぶもんでさいしゅうこうほにのこっていたゆーちゅーばーでふくめんのにほんじんさっか、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ものづくりの",
-      "furigana": "ものづくりの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "雨穴さんの「変な絵」は受賞を",
+      "furigana": "あめあなさんの「へんなえ」はじゅしょうを",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "現場は。",
-      "furigana": "げんばは。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "逃しました。",
+      "furigana": "のがしました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "国家公務員に",
-      "furigana": "こっかこうむいんに",
+      "clause_text": "村上春樹さん3年",
+      "furigana": "むらかみはるきさんさんねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "夏のボーナス",
-      "furigana": "なつのぼーなす",
+      "clause_text": "ぶり新作",
+      "furigana": "ぶりしんさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "管理職除く",
-      "furigana": "かんりしょくのぞく",
+      "clause_text": "長編小説",
+      "furigana": "ちょうへんしょうせつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "職員の平均",
-      "furigana": "しょくいんのへいきん",
+      "clause_text": "発売書店に",
+      "furigana": "はつばいしょてんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "支給額は増加。",
-      "furigana": "しきゅうがくはぞうか。",
+      "clause_text": "ファン集まる。",
+      "furigana": "ふぁんあつまる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "九州北部で土砂",
-      "furigana": "きゅうしゅうほくぶでどしゃ",
+      "clause_text": "日印首脳",
+      "furigana": "にちいんしゅのう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "崩れや",
-      "furigana": "くずれや",
+      "clause_text": "会談戦略的",
+      "furigana": "かいだんせんりゃくてき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "氾濫も雨の",
-      "furigana": "はんらんもあめの",
+      "clause_text": "協力関係深める",
+      "furigana": "きょうりょくかんけいふかめる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ピーク過ぎるも",
-      "furigana": "ぴーくすぎるも",
+      "clause_text": "ことで合意",
+      "furigana": "ことでごうい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "十分注意を。",
-      "furigana": "じゅうぶんちゅういを。",
+      "clause_text": "2兆円投資も。",
+      "furigana": "にちょうえんとうしも。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "【大雨】",
-      "furigana": "きごうおおあめきごう",
+      "clause_text": "長期金利約",
+      "furigana": "ちょうききんりやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "各地で被害熊本の",
-      "furigana": "かくちでひがいくまもとの",
+      "clause_text": "29年ぶり一時",
+      "furigana": "にきゅうねんぶりいちじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "旅館で浸水",
-      "furigana": "りょかんでしんすい",
+      "clause_text": "2.81％に上昇",
+      "furigana": "に．はちいちぱーせんとにじょうしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "長崎や大分でも",
-      "furigana": "ながさきやおおいたでも",
+      "clause_text": "インフレ加速観測",
+      "furigana": "いんふれかそくかんそく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "土砂崩れ。",
-      "furigana": "どしゃくずれ。",
+      "clause_text": "などで。",
+      "furigana": "などで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "【動画】サッカー",
-      "furigana": "きごうどうがきごうさっかー",
+      "clause_text": "うその",
+      "furigana": "うその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "W杯日本",
-      "furigana": "わーるどかっぷにっぽん",
+      "clause_text": "決算報告書",
+      "furigana": "けっさんほうこくしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "代表が帰国",
-      "furigana": "だいひょうがきこく",
+      "clause_text": "などで銀行から",
+      "furigana": "などでぎんこうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ファンが",
-      "furigana": "ふぁんが",
+      "clause_text": "11億円詐取か",
+      "furigana": "いちいちおくえんさしゅか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "出迎え。",
-      "furigana": "でむかえ。",
+      "clause_text": "元社長逮捕。",
+      "furigana": "もとしゃちょうたいほ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_general",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html.json",
+    "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+    "file_path": null
+  }
 }

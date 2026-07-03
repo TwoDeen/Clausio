@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「",
-      "furigana": "きごう",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "だ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "さるのこしかけ_宮沢賢治",
+    "safe_topic_id": "さるのこしかけ_宮沢賢治",
+    "corpus_json_id": "aozora/さるのこしかけ_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/さるのこしかけ_宮沢賢治.json",
+    "title": "さるのこしかけ 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/さるのこしかけ_宮沢賢治.txt"
+  }
 }

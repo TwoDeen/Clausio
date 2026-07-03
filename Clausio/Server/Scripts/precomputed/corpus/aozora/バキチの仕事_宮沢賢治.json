@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「ああそうで",
-      "furigana": "きごうああそう",
+      "furigana": "「ああそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "」「知って",
-      "furigana": "きごう\nきごうしっ",
+      "furigana": "」\n「しっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」「",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "しない。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "バキチの仕事_宮沢賢治",
+    "safe_topic_id": "バキチの仕事_宮沢賢治",
+    "corpus_json_id": "aozora/バキチの仕事_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/バキチの仕事_宮沢賢治.json",
+    "title": "バキチの仕事 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/バキチの仕事_宮沢賢治.txt"
+  }
 }

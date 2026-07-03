@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アメリカと",
-      "furigana": "あめりかと",
+      "clause_text": "大リーグ、",
+      "furigana": "だいりーぐ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "イランの",
-      "furigana": "いらんの",
+      "clause_text": "カブスの鈴木誠也選手が、",
+      "furigana": "かぶすのすずきせいやせんしゅが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "戦いが終わる",
-      "furigana": "たたかいがおわる",
+      "clause_text": "1日のパドレスとの",
+      "furigana": "いちにちのぱどれすとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "かもしれ",
-      "furigana": "かもしれ",
+      "clause_text": "試合でホームランを",
+      "furigana": "しあいでほーむらんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "打ちました。",
+      "furigana": "うちました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "トランプ大統領は14日、",
-      "furigana": "とらんぷだいとうりょうはいちよんか、",
+      "clause_text": "大リーグで",
+      "furigana": "だいりーぐで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうやって戦いを終わりにするか、",
-      "furigana": "どうやってたたかいをおわりにするか、",
+      "clause_text": "打った",
+      "furigana": "うった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "イランと同じ考えに",
-      "furigana": "いらんとおなじかんがえに",
+      "clause_text": "100本",
+      "furigana": "いちれいれいぽん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なったとSNSに",
-      "furigana": "なったとえすえぬえすに",
+      "clause_text": "目の",
+      "furigana": "めの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "書きました。",
-      "furigana": "かきました。",
+      "clause_text": "ホームランです。",
+      "furigana": "ほーむらんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "鈴木選手",
+      "furigana": "すずきせんしゅ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わりにする方法を",
-      "furigana": "おわりにするほうほうを",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "書いた書類に",
-      "furigana": "かいたしょるいに",
+      "clause_text": "大リーグに",
+      "furigana": "だいりーぐに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "19日にサイン",
-      "furigana": "いちきゅうにちにさいん",
+      "clause_text": "入って5年に",
+      "furigana": "はいってごねんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "する。",
-      "furigana": "する。",
+      "clause_text": "なります。",
+      "furigana": "なります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ホルムズ海峡を",
-      "furigana": "ほるむずかいきょうを",
+      "clause_text": "鈴木選手は「",
+      "furigana": "すずきせんしゅは「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "船が通ること",
-      "furigana": "ふねがとおること",
+      "clause_text": "外国で野球を",
+      "furigana": "がいこくでやきゅうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ができるように",
-      "furigana": "ができるように",
+      "clause_text": "するのは",
+      "furigana": "するのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なるだろうと",
-      "furigana": "なるだろうと",
+      "clause_text": "大変で",
+      "furigana": "たいへんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "書きました。",
-      "furigana": "かきました。",
+      "clause_text": "した。",
+      "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "イランは",
-      "furigana": "いらんは",
+      "clause_text": "チームの人たちと、",
+      "furigana": "ちーむのひとたちと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "15日、",
-      "furigana": "いちごにち、",
+      "clause_text": "いい時も悪い時も一緒に、",
+      "furigana": "いいときもわるいときもいっしょに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「すべての戦いは止まる」と",
-      "furigana": "きごうすべてのたたかいはとまるきごうと",
+      "clause_text": "もっと良くなろうと思ってや",
+      "furigana": "もっとよくなろうとおもってや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "発表",
-      "furigana": "はっぴょう",
+      "clause_text": "ってきました」と",
+      "furigana": "ってきました」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "話しました。",
+      "furigana": "はなしました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9762/",
+    "safe_topic_id": "https___nhkeasier_com_story_9762_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9762_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9762_.json",
+    "title": "カブス鈴木誠也選手　大リーグで100本ホームランを打った",
+    "link": "https://nhkeasier.com/story/9762/",
+    "file_path": null
+  }
 }

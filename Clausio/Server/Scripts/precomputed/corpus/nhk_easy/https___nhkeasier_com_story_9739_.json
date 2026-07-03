@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「家の中」が",
-      "furigana": "きごういえのなかきごうが",
+      "furigana": "「いえのなか」が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9739/",
+    "safe_topic_id": "https___nhkeasier_com_story_9739_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9739_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9739_.json",
+    "title": "今年5月　熱中症で4000人以上が病院に運ばれた",
+    "link": "https://nhkeasier.com/story/9739/",
+    "file_path": null
+  }
 }

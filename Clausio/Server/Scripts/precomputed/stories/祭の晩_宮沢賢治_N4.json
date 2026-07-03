@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「空気獣」",
-      "furigana": "きごうくうきじゅうきごう",
+      "furigana": "「くうきじゅう」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「さあ、みんな、入れ入れ」と",
-      "furigana": "きごうさあ、みんな、いれいれきごうと",
+      "furigana": "「さあ、みんな、いれいれ」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,8 +286,18 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「おい、あんこ、早ぐ入れ。",
-      "furigana": "きごうおい、あんこ、はやぐいれ。",
+      "furigana": "「おい、あんこ、はやぐいれ。",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "祭の晩_宮沢賢治",
+    "safe_topic_id": "祭の晩_宮沢賢治",
+    "corpus_json_id": "aozora/祭の晩_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/祭の晩_宮沢賢治.json",
+    "title": "祭の晩 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/祭の晩_宮沢賢治.txt"
+  }
 }

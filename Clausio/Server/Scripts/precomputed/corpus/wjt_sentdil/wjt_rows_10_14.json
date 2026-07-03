@@ -289,5 +289,15 @@
       "furigana": "なっている。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "wjt_sentdil",
+    "topic_id": "wjt_rows_10_14",
+    "safe_topic_id": "wjt_rows_10_14",
+    "corpus_json_id": "wjt_sentdil/wjt_rows_10_14",
+    "corpus_json_path": "precomputed/corpus/wjt_sentdil/wjt_rows_10_14.json",
+    "title": "WJT Sentences 11-15",
+    "link": "",
+    "file_path": null
+  }
 }

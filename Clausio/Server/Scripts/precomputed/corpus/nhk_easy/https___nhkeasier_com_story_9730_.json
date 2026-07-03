@@ -289,5 +289,15 @@
       "furigana": "そうです。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9730/",
+    "safe_topic_id": "https___nhkeasier_com_story_9730_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9730_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9730_.json",
+    "title": "ウクライナ　ロシアの石油の工場を攻撃",
+    "link": "https://nhkeasier.com/story/9730/",
+    "file_path": null
+  }
 }

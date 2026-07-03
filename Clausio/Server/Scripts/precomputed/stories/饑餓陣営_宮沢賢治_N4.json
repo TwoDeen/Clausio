@@ -289,5 +289,15 @@
       "furigana": "かずなみよんへきにそいてこうしん。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "饑餓陣営_宮沢賢治",
+    "safe_topic_id": "饑餓陣営_宮沢賢治",
+    "corpus_json_id": "aozora/饑餓陣営_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/饑餓陣営_宮沢賢治.json",
+    "title": "饑餓陣営 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/饑餓陣営_宮沢賢治.txt"
+  }
 }

@@ -289,5 +289,15 @@
       "furigana": "す。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9719/",
+    "safe_topic_id": "https___nhkeasier_com_story_9719_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9719_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9719_.json",
+    "title": "滋賀県甲賀市　「忍者」の試験があった",
+    "link": "https://nhkeasier.com/story/9719/",
+    "file_path": null
+  }
 }

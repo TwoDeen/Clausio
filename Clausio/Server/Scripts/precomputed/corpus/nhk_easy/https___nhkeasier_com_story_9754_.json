@@ -231,7 +231,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「加工食品」です。",
-      "furigana": "きごうかこうしょくひんきごうです。",
+      "furigana": "「かこうしょくひん」です。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -286,8 +286,18 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「調味料」です。",
-      "furigana": "きごうちょうみりょうきごうです。",
+      "furigana": "「ちょうみりょう」です。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9754/",
+    "safe_topic_id": "https___nhkeasier_com_story_9754_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9754_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9754_.json",
+    "title": "7月は2500以上の食べ物や飲み物の値段が上がる",
+    "link": "https://nhkeasier.com/story/9754/",
+    "file_path": null
+  }
 }

@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「ぜんたい、",
-      "furigana": "きごうぜんたい、",
+      "furigana": "「ぜんたい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「鹿の黄いろ",
-      "furigana": "きごう\nきごうしかの",
+      "furigana": "」\n「しかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "うねえ。",
       "sentence_individual_grammar_level": "N4"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "注文の多い料理店_宮沢賢治",
+    "safe_topic_id": "注文の多い料理店_宮沢賢治",
+    "corpus_json_id": "aozora/注文の多い料理店_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/注文の多い料理店_宮沢賢治.json",
+    "title": "注文の多い料理店 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/注文の多い料理店_宮沢賢治.txt"
+  }
 }

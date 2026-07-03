@@ -289,5 +289,15 @@
       "furigana": "わかります。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9759/",
+    "safe_topic_id": "https___nhkeasier_com_story_9759_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9759_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9759_.json",
+    "title": "熊がどのくらいいるか　800のカメラで調べる",
+    "link": "https://nhkeasier.com/story/9759/",
+    "file_path": null
+  }
 }

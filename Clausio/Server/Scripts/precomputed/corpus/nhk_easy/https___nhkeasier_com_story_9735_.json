@@ -289,5 +289,15 @@
       "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9735/",
+    "safe_topic_id": "https___nhkeasier_com_story_9735_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9735_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9735_.json",
+    "title": "熊がまちの中に来ないように川のそばの草を短く切った",
+    "link": "https://nhkeasier.com/story/9735/",
+    "file_path": null
+  }
 }

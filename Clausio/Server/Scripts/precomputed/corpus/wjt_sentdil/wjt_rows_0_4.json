@@ -289,5 +289,15 @@
       "furigana": "よていだ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "wjt_sentdil",
+    "topic_id": "wjt_rows_0_4",
+    "safe_topic_id": "wjt_rows_0_4",
+    "corpus_json_id": "wjt_sentdil/wjt_rows_0_4",
+    "corpus_json_path": "precomputed/corpus/wjt_sentdil/wjt_rows_0_4.json",
+    "title": "WJT Sentences 1-5",
+    "link": "",
+    "file_path": null
+  }
 }

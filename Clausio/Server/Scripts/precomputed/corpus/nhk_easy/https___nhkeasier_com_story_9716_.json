@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「イランが核兵器を持た",
-      "furigana": "きごういらんがかくへいきをもた",
+      "furigana": "「いらんがかくへいきをもた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ことを確認した」",
-      "furigana": "ことをかくにんしたきごう",
+      "furigana": "ことをかくにんした」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "といいました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9716/",
+    "safe_topic_id": "https___nhkeasier_com_story_9716_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9716_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9716_.json",
+    "title": "G7「イランが核兵器を持たないようにすることを確認した」",
+    "link": "https://nhkeasier.com/story/9716/",
+    "file_path": null
+  }
 }

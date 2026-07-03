@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「去年なが姉は",
-      "furigana": "きごうきょねんながあねは",
+      "furigana": "「きょねんながあねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」弧光燈にめくるめき、",
-      "furigana": "きごう\nここうとうにめくるめき",
+      "furigana": "」\nここうとうにめくるめき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "さらにご",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "文語詩稿　一百篇_宮沢賢治",
+    "safe_topic_id": "文語詩稿　一百篇_宮沢賢治",
+    "corpus_json_id": "aozora/文語詩稿　一百篇_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/文語詩稿　一百篇_宮沢賢治.json",
+    "title": "文語詩稿　一百篇 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/文語詩稿　一百篇_宮沢賢治.txt"
+  }
 }

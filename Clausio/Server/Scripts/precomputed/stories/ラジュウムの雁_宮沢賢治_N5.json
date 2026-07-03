@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「やっぱり",
-      "furigana": "きごうやっぱり",
+      "furigana": "「やっぱり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「袴",
-      "furigana": "きごう\nきごう",
+      "furigana": "」\n「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "さ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "ラジュウムの雁_宮沢賢治",
+    "safe_topic_id": "ラジュウムの雁_宮沢賢治",
+    "corpus_json_id": "aozora/ラジュウムの雁_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/ラジュウムの雁_宮沢賢治.json",
+    "title": "ラジュウムの雁 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/ラジュウムの雁_宮沢賢治.txt"
+  }
 }

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "「ガタンコガタンコ、",
-      "furigana": "きごうがたんこがたんこ、",
+      "furigana": "「がたんこがたんこ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "ぼくはほうほう　あせが",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "シグナルとシグナレス_宮沢賢治",
+    "safe_topic_id": "シグナルとシグナレス_宮沢賢治",
+    "corpus_json_id": "aozora/シグナルとシグナレス_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/シグナルとシグナレス_宮沢賢治.json",
+    "title": "シグナルとシグナレス 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/シグナルとシグナレス_宮沢賢治.txt"
+  }
 }

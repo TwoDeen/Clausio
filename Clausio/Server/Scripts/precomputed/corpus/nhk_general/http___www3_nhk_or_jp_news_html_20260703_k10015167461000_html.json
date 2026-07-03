@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことしの夏休み期間に",
-      "furigana": "ことしのなつやすみきかんに",
+      "clause_text": "静岡県熱海市で28人が",
+      "furigana": "しずおかけんあたみしでにはちにんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "旅行を検討している人は、",
-      "furigana": "りょこうをけんとうしているひとは、",
+      "clause_text": "犠牲になった",
+      "furigana": "ぎせいになった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "去年より4.6％減るという",
-      "furigana": "きょねんよりよん．ろくぱーせんとへるという",
+      "clause_text": "大規模な",
+      "furigana": "だいきぼな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "見通しを大手旅行会社が",
-      "furigana": "みとおしをおおてりょこうかいしゃが",
+      "clause_text": "土石流から",
+      "furigana": "どせきりゅうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "まとめました。",
-      "furigana": "まとめました。",
+      "clause_text": "3日で5年です。",
+      "furigana": "みっかでごねんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "会社では、",
-      "furigana": "かいしゃでは、",
+      "clause_text": "被災地では河川や道路の整備といった",
+      "furigana": "ひさいちではかせんやどうろのせいびといった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "物価高や",
-      "furigana": "ぶっかだかや",
+      "clause_text": "復興事業が当初の計画より2年遅れ、",
+      "furigana": "ふっこうじぎょうがとうしょのけいかくよりにねんおくれ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "中東情勢が影響",
-      "furigana": "ちゅうとうじょうせいがえいきょう",
+      "clause_text": "今も避難生活を続ける住民がいて、",
+      "furigana": "いまもひなんせいかつをつづけるじゅうみんがいて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "していると",
-      "furigana": "していると",
+      "clause_text": "地域の再建が課題と",
+      "furigana": "ちいきのさいけんがかだいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みています。",
-      "furigana": "みています。",
+      "clause_text": "なっています。",
+      "furigana": "なっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "富士山きょう",
-      "furigana": "ふじやまきょう",
+      "clause_text": "日印首脳",
+      "furigana": "にちいんしゅのう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "山開き多くの",
-      "furigana": "やまびらきおおくの",
+      "clause_text": "会談戦略的",
+      "furigana": "かいだんせんりゃくてき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "登山者が",
-      "furigana": "とざんしゃが",
+      "clause_text": "協力関係深める",
+      "furigana": "きょうりょくかんけいふかめる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "山頂",
-      "furigana": "さんちょう",
+      "clause_text": "ことで合意",
+      "furigana": "ことでごうい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "目指す。",
-      "furigana": "めざす。",
+      "clause_text": "2兆円投資も。",
+      "furigana": "にちょうえんとうしも。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "旅券",
-      "furigana": "りょけん",
+      "clause_text": "村上春樹さん3年",
+      "furigana": "むらかみはるきさんさんねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "手数料きょうから",
-      "furigana": "てすうりょうきょうから",
+      "clause_text": "ぶり新作",
+      "furigana": "ぶりしんさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "最大7000円",
-      "furigana": "さいだいななれいれいれいえん",
+      "clause_text": "長編小説",
+      "furigana": "ちょうへんしょうせつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "引き下げ“余裕持ち",
-      "furigana": "ひきさげきごうよゆうもち",
+      "clause_text": "発売書店に",
+      "furigana": "はつばいしょてんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "申請を”。",
-      "furigana": "しんせいをきごう。",
+      "clause_text": "ファン集まる。",
+      "furigana": "ふぁんあつまる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "“出国税",
-      "furigana": "きごうしゅっこくぜい",
+      "clause_text": "ウクライナ",
+      "furigana": "うくらいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "”きょうから",
-      "furigana": "きごうきょうから",
+      "clause_text": "侵攻でロシア",
+      "furigana": "しんこうでろしあ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "引き上げ1人当たり",
-      "furigana": "ひきあげひとりあたり",
+      "clause_text": "軍死傷者",
+      "furigana": "ぐんししょうしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "1000円が",
-      "furigana": "いちれいれいれいえんが",
+      "clause_text": "140万人米",
+      "furigana": "いちよんれいまんにんまい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "3000円に。",
-      "furigana": "さんれいれいれいえんに。",
+      "clause_text": "シンクタンク分析。",
+      "furigana": "しんくたんくぶんせき。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_general",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html.json",
+    "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+    "file_path": null
+  }
 }

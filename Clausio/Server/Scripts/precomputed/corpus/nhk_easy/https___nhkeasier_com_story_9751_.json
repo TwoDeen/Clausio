@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "暑",
-      "furigana": "あつ",
+      "clause_text": "暑さが",
+      "furigana": "あつさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "さが",
-      "furigana": "さが",
+      "clause_text": "原因で",
+      "furigana": "げんいんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "原因で亡くなった",
-      "furigana": "げんいんでなくなった",
+      "clause_text": "亡くなった",
+      "furigana": "なくなった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -209,7 +209,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「ヨーロッパで、暑さが原因で亡くなった人は、いつもの年より1300人以上多くなっている」と",
-      "furigana": "きごうよーろっぱで、あつさがげんいんでなくなったひとは、いつものとしよりいちさんれいれいにんいじょうおおくなっているきごうと",
+      "furigana": "「よーろっぱで、あつさがげんいんでなくなったひとは、いつものとしよりいちさんれいれいにんいじょうおおくなっている」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "そして「",
-      "furigana": "そしてきごう",
+      "furigana": "そして「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "いる。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9751/",
+    "safe_topic_id": "https___nhkeasier_com_story_9751_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9751_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9751_.json",
+    "title": "ヨーロッパでとても暑い日が続いている",
+    "link": "https://nhkeasier.com/story/9751/",
+    "file_path": null
+  }
 }

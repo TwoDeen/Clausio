@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N3",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "福岡管区気象台と久留米市によりますと、",
-      "furigana": "ふくおかかんくきしょうだいとくるめしによりますと、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "ベネズエラで大きい",
+      "furigana": "べねずえらでおおきい",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "2日朝久留米市北野町で農業用ハウスが",
-      "furigana": "ふつかあさくるめしきたのちょうでのうぎょうようはうすが",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "地震が",
+      "furigana": "じしんが",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "少なくとも10棟壊れているのが",
-      "furigana": "すくなくともいちれいむねこわれているのが",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "起こってから",
+      "furigana": "おこってから",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "確認されたという",
-      "furigana": "かくにんされたという",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "1週間に",
+      "furigana": "いちしゅうかんに",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "けが人は",
-      "furigana": "けがにんは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "い",
-      "furigana": "い",
+      "clause_text": "地震で亡くなった",
+      "furigana": "じしんでなくなった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ない",
-      "furigana": "ない",
+      "clause_text": "人は、",
+      "furigana": "ひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "2295人に",
+      "furigana": "ににきゅうごにんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "九州北部で土砂",
-      "furigana": "きゅうしゅうほくぶでどしゃ",
+      "clause_text": "地震の被害が大きい所では、",
+      "furigana": "じしんのひがいがおおきいところでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "崩れや",
-      "furigana": "くずれや",
+      "clause_text": "ベネズエラや",
+      "furigana": "べねずえらや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "氾濫も雨の",
-      "furigana": "はんらんもあめの",
+      "clause_text": "ほかの国の専門の人たちが、",
+      "furigana": "ほかのくにのせんもんのひとたちが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ピーク過ぎるも",
-      "furigana": "ぴーくすぎるも",
+      "clause_text": "壊れた建物の中にいる人を助けようと",
+      "furigana": "こわれたたてもののなかにいるひとをたすけようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "十分注意を。",
-      "furigana": "じゅうぶんちゅういを。",
+      "clause_text": "しています。",
+      "furigana": "しています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "【大雨】",
-      "furigana": "きごうおおあめきごう",
+      "clause_text": "ラ・グアイラ州では、",
+      "furigana": "ら・ぐあいらしゅうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "各地で被害熊本の",
-      "furigana": "かくちでひがいくまもとの",
+      "clause_text": "地震から6日たって、",
+      "furigana": "じしんからむいかたって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "旅館で浸水",
-      "furigana": "りょかんでしんすい",
+      "clause_text": "3歳の男の子が",
+      "furigana": "さんさいのおとこのこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "長崎や大分でも",
-      "furigana": "ながさきやおおいたでも",
+      "clause_text": "生きているのが",
+      "furigana": "いきているのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "土砂崩れ。",
-      "furigana": "どしゃくずれ。",
+      "clause_text": "見つかりました。",
+      "furigana": "みつかりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日印首脳会談",
-      "furigana": "にちいんしゅのうかいだん",
+      "clause_text": "大きな",
+      "furigana": "おおきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "インドで2兆",
-      "furigana": "いんどでにちょう",
+      "clause_text": "声で喜ぶ",
+      "furigana": "こえでよろこぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "円超の",
-      "furigana": "えんちょうの",
+      "clause_text": "人や拍手",
+      "furigana": "ひとやはくしゅ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "事業創出",
-      "furigana": "じぎょうそうしゅつ",
+      "clause_text": "する人も",
+      "furigana": "するひとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "へ。",
-      "furigana": "へ。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9761/",
+    "safe_topic_id": "https___nhkeasier_com_story_9761_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9761_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9761_.json",
+    "title": "ベネズエラの地震　亡くなった人が2000人より多くなった",
+    "link": "https://nhkeasier.com/story/9761/",
+    "file_path": null
+  }
 }

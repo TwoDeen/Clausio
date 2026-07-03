@@ -77,7 +77,7 @@
       },
       "parent_sentence_id": 2,
       "clause_text": "「",
-      "furigana": "きごう",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "」お日様がまっ白に",
-      "furigana": "きごう\nおひさまがまっしろ",
+      "furigana": "」\nおひさまがまっしろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「",
-      "furigana": "きごう",
+      "furigana": "「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "しんこ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "雪渡り_宮沢賢治",
+    "safe_topic_id": "雪渡り_宮沢賢治",
+    "corpus_json_id": "aozora/雪渡り_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/雪渡り_宮沢賢治.json",
+    "title": "雪渡り 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/雪渡り_宮沢賢治.txt"
+  }
 }

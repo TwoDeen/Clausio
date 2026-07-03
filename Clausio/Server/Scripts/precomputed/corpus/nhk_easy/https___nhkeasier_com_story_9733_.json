@@ -289,5 +289,15 @@
       "furigana": "だしてよみました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9733/",
+    "safe_topic_id": "https___nhkeasier_com_story_9733_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9733_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9733_.json",
+    "title": "沖縄の戦いから81年　亡くなった人たちのために祈る",
+    "link": "https://nhkeasier.com/story/9733/",
+    "file_path": null
+  }
 }

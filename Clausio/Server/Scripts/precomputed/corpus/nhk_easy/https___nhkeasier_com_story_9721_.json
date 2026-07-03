@@ -289,5 +289,15 @@
       "furigana": "ふえました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9721/",
+    "safe_topic_id": "https___nhkeasier_com_story_9721_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9721_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9721_.json",
+    "title": "株の価格　7万1000円以上　今まででいちばん高くなった",
+    "link": "https://nhkeasier.com/story/9721/",
+    "file_path": null
+  }
 }

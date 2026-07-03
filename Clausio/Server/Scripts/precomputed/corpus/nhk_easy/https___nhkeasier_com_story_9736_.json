@@ -289,5 +289,15 @@
       "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9736/",
+    "safe_topic_id": "https___nhkeasier_com_story_9736_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9736_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9736_.json",
+    "title": "四国や九州でたくさん雨が降っている　災害に気をつけて",
+    "link": "https://nhkeasier.com/story/9736/",
+    "file_path": null
+  }
 }

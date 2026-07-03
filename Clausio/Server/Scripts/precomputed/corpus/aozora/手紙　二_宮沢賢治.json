@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "向って「誰かこの大河の水をさかさまにながれさせることのできるものがあるか」と",
-      "furigana": "むかってきごうだれかこのたいがのみずをさかさまにながれさせることのできるものがあるかきごうと",
+      "furigana": "むかって「だれかこのたいがのみずをさかさまにながれさせることのできるものがあるか」と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "けらいは皆「陛下よ、",
-      "furigana": "けらいはみなきごうへいかよ、",
+      "furigana": "けらいはみな「へいかよ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -220,7 +220,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "ます」と",
-      "furigana": "ますきごうと",
+      "furigana": "ます」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "おりました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "手紙　二_宮沢賢治",
+    "safe_topic_id": "手紙　二_宮沢賢治",
+    "corpus_json_id": "aozora/手紙　二_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/手紙　二_宮沢賢治.json",
+    "title": "手紙　二 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/手紙　二_宮沢賢治.txt"
+  }
 }

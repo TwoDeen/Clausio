@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N3",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ホルムズ",
-      "furigana": "ほるむず",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "世界トップレベルの研究水準を目指して国が重点的に支援を行う「国際卓越研究大学」について、",
+      "furigana": "せかいとっぷれべるのけんきゅうすいじゅんをめざしてくにがじゅうてんてきにしえんをおこなう「こくさいたくえつけんきゅうだいがく」について、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "海峡を船は",
-      "furigana": "かいきょうをふねは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "文部科学省は、",
+      "furigana": "もんぶかがくしょうは、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いつから通ること",
-      "furigana": "いつからとおること",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "認定候補としていた京都大学が有識者会議による検討の結果、",
+      "furigana": "にんていこうほとしていたきょうとだいがくがゆうしきしゃかいぎによるけんとうのけっか、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ができるでしょう",
-      "furigana": "ができるでしょう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "認定の水準を満たしたと発表",
+      "furigana": "にんていのすいじゅんをみたしたとはっぴょう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か。",
-      "furigana": "か。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "しました。",
+      "furigana": "しました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "イランの通信社は、",
-      "furigana": "いらんのつうしんしゃは、",
+      "clause_text": "長期金利約",
+      "furigana": "ちょうききんりやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "19日にアメリカと",
-      "furigana": "いちきゅうにちにあめりかと",
+      "clause_text": "29年ぶり一時",
+      "furigana": "にきゅうねんぶりいちじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "イランが書類に",
-      "furigana": "いらんがしょるいに",
+      "clause_text": "2.81％に上昇",
+      "furigana": "に．はちいちぱーせんとにじょうしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "サインしたあとから",
-      "furigana": "さいんしたあとから",
+      "clause_text": "インフレ加速観測",
+      "furigana": "いんふれかそくかんそく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と言っています。",
-      "furigana": "といっています。",
+      "clause_text": "などで。",
+      "furigana": "などで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本の船の",
-      "furigana": "にっぽんのふねの",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "うその",
+      "furigana": "うその",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "会社の協会によると、",
-      "furigana": "かいしゃのきょうかいによると、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "決算報告書",
+      "furigana": "けっさんほうこくしょ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ペルシャ湾には、",
-      "furigana": "ぺるしゃわんには、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "などで銀行から",
+      "furigana": "などでぎんこうから",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本と関係がある38の船が",
-      "furigana": "にっぽんとかんけいがあるさんはちのふねが",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "11億円詐取か",
+      "furigana": "いちいちおくえんさしゅか",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "残っています。",
-      "furigana": "のこっています。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "元社長逮捕。",
+      "furigana": "もとしゃちょうたいほ。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "石油",
-      "furigana": "せきゆ",
+      "clause_text": "28人犠牲熱海",
+      "furigana": "にはちにんぎせいあたみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "などを",
-      "furigana": "などを",
+      "clause_text": "土石流から",
+      "furigana": "どせきりゅうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "運ぶ",
-      "furigana": "はこぶ",
+      "clause_text": "5年復興遅れ避難",
+      "furigana": "ごねんふっこうおくれひなん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "船で",
-      "furigana": "ふねで",
+      "clause_text": "生活続ける",
+      "furigana": "せいかつつづける",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "住民も。",
+      "furigana": "じゅうみんも。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "船の協会の人は「今の情報だけで、",
-      "furigana": "ふねのきょうかいのひとはきごういまのじょうほうだけで、",
+      "clause_text": "東京小学校火事電気",
+      "furigana": "とうきょうしょうがっこうかじでんき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ホルムズ海峡を通る",
-      "furigana": "ほるむずかいきょうをとおる",
+      "clause_text": "ストーブは",
+      "furigana": "すとーぶは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことができるか、",
-      "furigana": "ことができるか、",
+      "clause_text": "音楽教諭の",
+      "furigana": "おんがくきょうゆの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "わから",
-      "furigana": "わから",
+      "clause_text": "私物私服など",
+      "furigana": "しぶつしふくなど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない。",
-      "furigana": "ない。",
+      "clause_text": "干す。",
+      "furigana": "ほす。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_general",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html.json",
+    "title": "京大を国際卓越研究大学に認定へ 今年度200億円助成見込み",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+    "file_path": null
+  }
 }

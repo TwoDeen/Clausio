@@ -132,7 +132,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「おまえたちはみんなまっ赤な",
-      "furigana": "きごうおまえたちはみんなまっかな",
+      "furigana": "「おまえたちはみんなまっかな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -143,7 +143,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "帆船でね、いまがあらしのとこなんだ」",
-      "furigana": "ほぶねでね、いまがあらしのとこなんだきごう",
+      "furigana": "ほぶねでね、いまがあらしのとこなんだ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -154,7 +154,7 @@
       },
       "parent_sentence_id": 3,
       "clause_text": "「いやあだ、",
-      "furigana": "きごういやあだ、",
+      "furigana": "「いやあだ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」ひなげしども",
-      "furigana": "きごうひなげしども",
+      "furigana": "」ひなげしども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "ひのきとひなげし_宮沢賢治",
+    "safe_topic_id": "ひのきとひなげし_宮沢賢治",
+    "corpus_json_id": "aozora/ひのきとひなげし_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/ひのきとひなげし_宮沢賢治.json",
+    "title": "ひのきとひなげし 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/ひのきとひなげし_宮沢賢治.txt"
+  }
 }

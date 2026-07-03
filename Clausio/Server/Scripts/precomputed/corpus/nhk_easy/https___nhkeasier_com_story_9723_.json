@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "「がんばれニッポン」",
-      "furigana": "きごうがんばれにっぽんきごう",
+      "furigana": "「がんばれにっぽん」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "などです。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9723/",
+    "safe_topic_id": "https___nhkeasier_com_story_9723_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9723_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9723_.json",
+    "title": "災害にあった人たちを元気に　CDをつくるため高校生が演奏",
+    "link": "https://nhkeasier.com/story/9723/",
+    "file_path": null
+  }
 }

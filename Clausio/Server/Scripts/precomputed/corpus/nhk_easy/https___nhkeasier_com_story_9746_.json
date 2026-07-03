@@ -198,7 +198,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "先生が「",
-      "furigana": "せんせいがきごう",
+      "furigana": "せんせいが「",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -275,7 +275,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "しないでください」と",
-      "furigana": "しないでくださいきごうと",
+      "furigana": "しないでください」と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "はなしました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9746/",
+    "safe_topic_id": "https___nhkeasier_com_story_9746_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9746_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9746_.json",
+    "title": "大きい地震があった青森県で学校の授業が始まる",
+    "link": "https://nhkeasier.com/story/9746/",
+    "file_path": null
+  }
 }

@@ -22,7 +22,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "（一）［＃「（一）」は",
-      "furigana": "きごういちきごうきごう#きごうきごういちきごうきごうは",
+      "furigana": "きごういちきごうきごう#「きごういちきごう」は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "んでした。",
       "sentence_individual_grammar_level": "N3"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "土神と狐_宮沢賢治",
+    "safe_topic_id": "土神と狐_宮沢賢治",
+    "corpus_json_id": "aozora/土神と狐_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/土神と狐_宮沢賢治.json",
+    "title": "土神と狐 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/土神と狐_宮沢賢治.txt"
+  }
 }

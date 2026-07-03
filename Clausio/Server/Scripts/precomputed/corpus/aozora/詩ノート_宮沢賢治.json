@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "」世界",
-      "furigana": "きごう",
+      "furigana": "」",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "そだち",
       "sentence_individual_grammar_level": "N3"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "詩ノート_宮沢賢治",
+    "safe_topic_id": "詩ノート_宮沢賢治",
+    "corpus_json_id": "aozora/詩ノート_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/詩ノート_宮沢賢治.json",
+    "title": "詩ノート 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/詩ノート_宮沢賢治.txt"
+  }
 }

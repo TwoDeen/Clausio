@@ -289,5 +289,15 @@
       "furigana": "までです。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9757/",
+    "safe_topic_id": "https___nhkeasier_com_story_9757_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9757_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9757_.json",
+    "title": "富士山　7月1日からいちばん上まで登ることができる",
+    "link": "https://nhkeasier.com/story/9757/",
+    "file_path": null
+  }
 }

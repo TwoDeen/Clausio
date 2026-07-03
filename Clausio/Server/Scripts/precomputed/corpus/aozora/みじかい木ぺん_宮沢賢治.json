@@ -187,7 +187,7 @@
       },
       "parent_sentence_id": 4,
       "clause_text": "「遁げ",
-      "furigana": "きごうにげ",
+      "furigana": "「にげ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -242,7 +242,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "」「",
-      "furigana": "きごうきごう",
+      "furigana": "」「",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -289,5 +289,15 @@
       "furigana": "ぁ。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "aozora",
+    "topic_id": "みじかい木ぺん_宮沢賢治",
+    "safe_topic_id": "みじかい木ぺん_宮沢賢治",
+    "corpus_json_id": "aozora/みじかい木ぺん_宮沢賢治",
+    "corpus_json_path": "precomputed/corpus/aozora/みじかい木ぺん_宮沢賢治.json",
+    "title": "みじかい木ぺん 宮沢賢治",
+    "link": "",
+    "file_path": "/Volumes/inchus16MNHome/mohideennoordeen/Development/Experimentation/Clausio/Clausio/Clausio/Server/Scripts/Stories/miyazawa_kenji_stories/みじかい木ぺん_宮沢賢治.txt"
+  }
 }

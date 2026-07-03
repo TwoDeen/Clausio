@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "2日午前、",
-      "furigana": "ふつかごぜん、",
+      "clause_text": "九州北部地方では、",
+      "furigana": "きゅうしゅうほくぶちほうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本のはるか南東の",
-      "furigana": "にっぽんのはるかなんとうの",
+      "clause_text": "2日朝",
+      "furigana": "ふつかあさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "太平洋で台風",
-      "furigana": "たいへいようでたいふう",
+      "clause_text": "早く、たくさん",
+      "furigana": "はやく、たくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "9号が発生",
-      "furigana": "きゅうごうがはっせい",
+      "clause_text": "雨が",
+      "furigana": "あめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "降りました。",
+      "furigana": "ふりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "気象庁は",
-      "furigana": "きしょうちょうは",
+      "clause_text": "熊本県や大分県などでは、",
+      "furigana": "くまもとけんやおおいたけんなどでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "今後の",
-      "furigana": "こんごの",
+      "clause_text": "「線状降水帯」",
+      "furigana": "「せんじょうこうすいたい」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "情報に注意",
-      "furigana": "じょうほうにちゅうい",
+      "clause_text": "ができて、",
+      "furigana": "ができて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "するよう",
-      "furigana": "するよう",
+      "clause_text": "同じ所でたくさんの雨が",
+      "furigana": "おなじところでたくさんのあめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "呼びかけています。",
-      "furigana": "よびかけています。",
+      "clause_text": "降りました。",
+      "furigana": "ふりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "台風の進路図は",
-      "furigana": "たいふうのしんろずは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "NHKONE",
-      "furigana": "nhkone",
+      "clause_text": "雨",
+      "furigana": "あめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ニュース",
-      "furigana": "にゅーす",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "・防災",
-      "furigana": "・ぼうさい",
+      "clause_text": "被害が",
+      "furigana": "ひがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "アプリでも。",
-      "furigana": "あぷりでも。",
+      "clause_text": "出ています。",
+      "furigana": "でています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "【最新の",
-      "furigana": "きごうさいしんの",
+      "clause_text": "熊本県",
+      "furigana": "くまもとけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "台風情報】",
-      "furigana": "たいふうじょうほうきごう",
+      "clause_text": "小国町では、",
+      "furigana": "おぐにまちでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "予想進路や",
-      "furigana": "よそうしんろや",
+      "clause_text": "川の",
+      "furigana": "かわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "勢力などを",
-      "furigana": "せいりょくなどを",
+      "clause_text": "水が",
+      "furigana": "みずが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "詳しく。",
-      "furigana": "くわしく。",
+      "clause_text": "あふれました。",
+      "furigana": "あふれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "台風マップ",
-      "furigana": "たいふうまっぷ",
+      "clause_text": "川の近くに",
+      "furigana": "かわのちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "予想進路や",
-      "furigana": "よそうしんろや",
+      "clause_text": "ある旅館は、",
+      "furigana": "あるりょかんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "勢力を",
-      "furigana": "せいりょくを",
+      "clause_text": "建物の",
+      "furigana": "たてものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "リアルタイム",
-      "furigana": "りあるたいむ",
+      "clause_text": "中に川の水が",
+      "furigana": "なかにかわのみずが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,9 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "表示。",
-      "furigana": "ひょうじ。",
+      "clause_text": "入りました。",
+      "furigana": "はいりました。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9760/",
+    "safe_topic_id": "https___nhkeasier_com_story_9760_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9760_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9760_.json",
+    "title": "熊本県や大分県などでたくさん雨が降って被害が出た",
+    "link": "https://nhkeasier.com/story/9760/",
+    "file_path": null
+  }
 }

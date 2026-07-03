@@ -289,5 +289,15 @@
       "furigana": "あがっています。",
       "sentence_individual_grammar_level": "N5"
     }
-  ]
+  ],
+  "corpus_ref": {
+    "source": "nhk_easy",
+    "topic_id": "https://nhkeasier.com/story/9753/",
+    "safe_topic_id": "https___nhkeasier_com_story_9753_",
+    "corpus_json_id": "nhk_easy/https___nhkeasier_com_story_9753_",
+    "corpus_json_path": "precomputed/corpus/nhk_easy/https___nhkeasier_com_story_9753_.json",
+    "title": "1ドル=162円台　円がとても安くなっている",
+    "link": "https://nhkeasier.com/story/9753/",
+    "file_path": null
+  }
 }
