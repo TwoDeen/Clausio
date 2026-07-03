@@ -1,3 +1,4 @@
 # Render deployment — no NLP stack needed
 fastapi>=0.100.0
 uvicorn[standard]
+feedparser
