@@ -11,7 +11,6 @@ class GameViewModel: ObservableObject {
   @Published var isAssistModeOn: Bool = false
   @Published var isLearnModeOn: Bool = false
   
-  // 🚀 NEW: Tracks if the user aborted/gave up
   @Published var didGiveUp: Bool = false
   
   private var pristineSolutionOrder: [Tile] = []
@@ -50,10 +49,12 @@ class GameViewModel: ObservableObject {
   }
   
   func startNewGame() {
-    self.didGiveUp = false // 🚀 Reset the flag on replay
+    self.didGiveUp = false
     self.tiles = initialScrambledState
     self.selectedIndex = nil
-    for i in 0..<self.tiles.count { self.tiles[i].isSolved = false }
+    for i in 0..<self.tiles.count {
+      self.tiles[i].isSolved = false
+    }
   }
   
   private func rowPreservedShuffle(_ inputTiles: [Tile]) -> [Tile] {
@@ -121,11 +122,13 @@ class GameViewModel: ObservableObject {
       let rowTiles = Array(tiles[start..<end])
       let referenceRowId = rowTiles.first?.originalRowId
       
-      let matchesRowIdentity = rowTiles.allSatisfy { $0.originalRowId == referenceRowId && !$0.isSolved }
+      let matchesRowIdentity = rowTiles.allSatisfy {
+        $0.originalRowId == referenceRowId && !$0.isSolved
+      }
       
       if matchesRowIdentity {
         let isOrderedCorrectly = (0..<4).allSatisfy { idx in
-          rowTiles[idx].originalColumnId < rowTiles[idx+1].originalColumnId
+          rowTiles[idx].originalColumnId < rowTiles[idx + 1].originalColumnId
         }
         if isOrderedCorrectly {
           for index in start..<end {
@@ -137,7 +140,7 @@ class GameViewModel: ObservableObject {
   }
   
   func revealSolution() {
-    self.didGiveUp = true // 🚀 Tell the app the user aborted/gave up!
+    self.didGiveUp = true
     self.selectedIndex = nil
     self.tiles = pristineSolutionOrder
     for i in 0..<self.tiles.count {
@@ -145,14 +148,51 @@ class GameViewModel: ObservableObject {
     }
   }
   
-//  pastelSakura = Color(red: 0.98, green: 0.89, blue: 0.91)
-//  static let pastelMatcha = Color(red: 0.82, green: 0.90, blue: 0.73)
-//  static let pastelMomo = Color(red: 1.00, green: 0.85, blue: 0.80)
-//  static let pastelAsagi = Color(red: 0.75, green: 0.89, blue: 0.97)
-//  static let pastelKobai = Color(red: 0.95, green: 0.83, blue: 0.93)
-//  static let pastelShironeri = Color(red: 0.98, green: 0.97, blue: 0.94)
-//  static let pastelYamabuki = Color(red: 0.98, green: 0.89, blue: 0.56)
-
+  // MARK: - Passage Helpers
+  
+  func solutionTilesForRow(_ row: Int) -> [Tile] {
+    pristineSolutionOrder
+      .filter { $0.originalRowId == row + 1 }
+      .sorted { $0.originalColumnId < $1.originalColumnId }
+  }
+  
+  func fullSentenceForRow(_ row: Int) -> String {
+    solutionTilesForRow(row).map(\.text).joined()
+  }
+  
+  func furiganaSentenceForRow(_ row: Int) -> String {
+    solutionTilesForRow(row).map { tile in
+      let reading = tile.furigana.trimmingCharacters(in: .whitespacesAndNewlines)
+      return reading.isEmpty ? tile.text : reading
+    }.joined()
+  }
+  
+  var fullPassageText: String {
+    (0..<5)
+      .map { fullSentenceForRow($0) }
+      .filter { !$0.isEmpty }
+      .joined(separator: "\n\n")
+  }
+  
+  var fullPassageFuriganaText: String {
+    (0..<5)
+      .map { furiganaSentenceForRow($0) }
+      .filter { !$0.isEmpty }
+      .joined(separator: "\n\n")
+  }
+  
+  var hasFuriganaPassage: Bool {
+    pristineSolutionOrder.contains {
+      !$0.furigana.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty &&
+      $0.furigana != $0.text
+    }
+  }
+  
+  var passageRows: [[Tile]] {
+    (0..<5)
+      .map { solutionTilesForRow($0) }
+      .filter { !$0.isEmpty }
+  }
   
   func colorForCategory(_ originalRowId: Int) -> Color {
     switch originalRowId {

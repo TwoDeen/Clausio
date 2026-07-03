@@ -35,13 +35,10 @@ struct GameContainerView: View {
   @ObservedObject var vm: GameViewModel
   @State private var speechSynthesizer = AVSpeechSynthesizer()
   
-  // 🔊 Tracks which rows have already triggered auto-play, to avoid re-firing
   @State private var completedRows: Set<Int> = []
-  
-  // 📋 Tracks which row was just copied, for temporary visual feedback
   @State private var copiedRowIndex: Int? = nil
+  @State private var showingPassageSheet = false
   
-  // Snapshot used by onChange to detect solve-state transitions
   private var tilesSolvedState: [Bool] {
     vm.tiles.map(\.isSolved)
   }
@@ -52,7 +49,6 @@ struct GameContainerView: View {
       
       HStack(spacing: 0) {
         if isWidescreen {
-          // MARK: - WIDESCREEN / LANDSCAPE LAYOUT
           HStack(spacing: 8) {
             boardGrid(useSquareLayout: false)
               .layoutPriority(1)
@@ -106,23 +102,31 @@ struct GameContainerView: View {
                 }
                 
                 Spacer(minLength: 0)
+                
+                Button(action: {
+                  showingPassageSheet = true
+                }) {
+                  Image(systemName: "doc.text.magnifyingglass")
+                    .font(.title)
+                    .foregroundColor(.blue)
+                    .frame(width: 44, height: 44)
+                }
+                .accessibilityLabel("View entire passage")
+                .help("View entire passage")
+                
+                Spacer(minLength: 0)
               }
               .frame(width: 56)
-              
               .padding(.horizontal, 8)
               .padding(.vertical, 10)
             }
           }
           .frame(width: geometry.size.width, height: geometry.size.height)
         } else {
-          // MARK: - PORTRAIT LAYOUT
           VStack(spacing: 20) {
             boardGrid(useSquareLayout: true)
-            
             modePillsBar
-            
             Spacer()
-            
             controlButtonsHorizontal
           }
           .padding(.top, 10)
@@ -133,9 +137,15 @@ struct GameContainerView: View {
         detectNewlyCompletedRows()
       }
     }
+    .sheet(isPresented: $showingPassageSheet) {
+      PassageSheetView(
+        rows: vm.passageRows,
+        plainPassageText: vm.fullPassageText,
+        hasFurigana: vm.hasFuriganaPassage
+      )
+    }
   }
   
-  // MARK: - Board Grid Layout Builder
   @ViewBuilder
   private func boardGrid(useSquareLayout: Bool) -> some View {
     let hSpacing: CGFloat = vm.isAssistModeOn ? 2 : 8
@@ -163,7 +173,6 @@ struct GameContainerView: View {
         let availableWidth = gridGeo.size.width
         let availableHeight = gridGeo.size.height
         
-        // Reserve room for the copy button outside the 5-tile row
         let copyButtonWidth: CGFloat = 30
         let tileRegionWidth = max(0, availableWidth - copyButtonWidth - rowActionSpacing)
         let cellWidth = max(0, (tileRegionWidth - (hSpacing * 4)) / 5)
@@ -190,7 +199,6 @@ struct GameContainerView: View {
     }
   }
   
-  // MARK: - Unified Tile Cell Rendering Framework
   @ViewBuilder
   private func tileCell(at index: Int, useSquareLayout: Bool) -> some View {
     if index < vm.tiles.count {
@@ -226,7 +234,6 @@ struct GameContainerView: View {
     }
   }
   
-  // MARK: - Row Copy UI
   @ViewBuilder
   private func rowCopyButton(for row: Int) -> some View {
     Button(action: {
@@ -245,18 +252,8 @@ struct GameContainerView: View {
     .help("Copy full sentence for row \(row + 1)")
   }
   
-  private func fullSentenceForRow(_ row: Int) -> String {
-    guard vm.tiles.count == 25 else { return "" }
-    
-    let rowTiles = vm.tiles
-      .filter { $0.originalRowId == row + 1 }
-      .sorted { $0.originalColumnId < $1.originalColumnId }
-    
-    return rowTiles.map(\.text).joined()
-  }
-  
   private func copySentenceForRow(_ row: Int) {
-    let sentence = fullSentenceForRow(row)
+    let sentence = vm.fullSentenceForRow(row)
     guard !sentence.isEmpty else { return }
     
 #if os(iOS)
@@ -275,7 +272,6 @@ struct GameContainerView: View {
     }
   }
   
-  // MARK: - 🎛️ Mode Toggle Pills (Portrait — labeled, full-width pair)
   private var modePillsBar: some View {
     HStack(spacing: 10) {
       modePill(label: "Assist", icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
@@ -319,7 +315,6 @@ struct GameContainerView: View {
     .buttonStyle(.plain)
   }
   
-  // MARK: - 🎛️ Mode Toggle Icons (Landscape Configuration Tool)
   private func modeIconToggle(icon: String, isOn: Binding<Bool>) -> some View {
     Button {
       withAnimation(.spring(response: 0.3, dampingFraction: 0.65)) {
@@ -349,7 +344,6 @@ struct GameContainerView: View {
     .buttonStyle(.plain)
   }
   
-  // MARK: - 🔊 Row Completion Auto-Play
   private func detectNewlyCompletedRows() {
     guard vm.tiles.count == 25 else { return }
     
@@ -368,11 +362,10 @@ struct GameContainerView: View {
       guard rowComplete else { continue }
       
       completedRows.insert(row)
-      speakText(fullSentenceForRow(row))
+      speakText(vm.fullSentenceForRow(row))
     }
   }
   
-  // MARK: - Interface Control Layout Blocks (Portrait Layout Tool)
   private var controlButtonsHorizontal: some View {
     HStack(spacing: 40) {
       Button(action: {
@@ -403,11 +396,20 @@ struct GameContainerView: View {
           .font(.title)
           .foregroundColor(.blue)
       }
+      
+      Button(action: {
+        showingPassageSheet = true
+      }) {
+        Image(systemName: "doc.text.magnifyingglass")
+          .font(.title)
+          .foregroundColor(.blue)
+      }
+      .accessibilityLabel("View entire passage")
+      .help("View entire passage")
     }
     .padding(.bottom, 30)
   }
   
-  // MARK: - Native AVSpeech Engine Orchestration
   private func speakText(_ text: String) {
     if speechSynthesizer.isSpeaking {
       speechSynthesizer.stopSpeaking(at: .immediate)
@@ -419,7 +421,6 @@ struct GameContainerView: View {
     speechSynthesizer.speak(utterance)
   }
   
-  // MARK: - Grammar Chunk Merging Calculations
   private func canMergeLeft(row: Int, col: Int) -> Bool {
     let currentIndex = (row * 5) + col
     guard vm.isAssistModeOn, currentIndex < vm.tiles.count else { return false }
@@ -448,5 +449,112 @@ struct GameContainerView: View {
     
     let rightTile = vm.tiles[currentIndex + 1]
     return rightTile.originalRowId == (row + 1) && rightTile.originalColumnId == (col + 2)
+  }
+}
+
+// MARK: - Passage Sheet
+struct PassageSheetView: View {
+  let rows: [[Tile]]
+  let plainPassageText: String
+  let hasFurigana: Bool
+  
+  @State private var showFurigana = false
+  @Environment(\.dismiss) private var dismiss
+  
+  var body: some View {
+    NavigationView {
+      ScrollView {
+        VStack(alignment: .leading, spacing: 16) {
+          if hasFurigana {
+            Toggle("Show Furigana", isOn: $showFurigana)
+          }
+          
+          if rows.isEmpty {
+            Text("Passage unavailable.")
+              .foregroundColor(.secondary)
+          } else if showFurigana && hasFurigana {
+            RubyPassageView(rows: rows)
+          } else {
+            Text(plainPassageText)
+              .font(.body)
+              .frame(maxWidth: .infinity, alignment: .leading)
+              .textSelection(.enabled)
+          }
+        }
+        .padding()
+      }
+      .navigationTitle("Passage")
+      .navigationBarTitleDisplayMode(.inline)
+      .toolbar {
+        ToolbarItem(placement: .navigationBarTrailing) {
+          Button("Done") {
+            dismiss()
+          }
+        }
+      }
+    }
+  }
+}
+
+// MARK: - Ruby Passage Renderer
+struct RubyPassageView: View {
+  let rows: [[Tile]]
+  
+  var body: some View {
+    VStack(alignment: .leading, spacing: 18) {
+      ForEach(Array(rows.enumerated()), id: \.offset) { _, row in
+        RubyRowView(tokens: row)
+      }
+    }
+    .frame(maxWidth: .infinity, alignment: .leading)
+  }
+}
+
+struct RubyRowView: View {
+  let tokens: [Tile]
+  
+  var body: some View {
+    ScrollView(.horizontal, showsIndicators: false) {
+      HStack(alignment: .bottom, spacing: 2) {
+        ForEach(Array(tokens.enumerated()), id: \.offset) { _, tile in
+          RubyTokenView(surface: tile.text, reading: normalizedReading(for: tile))
+        }
+      }
+      .frame(maxWidth: .infinity, alignment: .leading)
+    }
+  }
+  
+  private func normalizedReading(for tile: Tile) -> String? {
+    let trimmed = tile.furigana.trimmingCharacters(in: .whitespacesAndNewlines)
+    if trimmed.isEmpty || trimmed == tile.text {
+      return nil
+    }
+    return trimmed
+  }
+}
+
+struct RubyTokenView: View {
+  let surface: String
+  let reading: String?
+  
+  var body: some View {
+    VStack(spacing: 0) {
+      if let reading {
+        Text(reading)
+          .font(.caption2)
+          .foregroundColor(.blue)
+          .lineLimit(1)
+          .fixedSize()
+      } else {
+        Text(" ")
+          .font(.caption2)
+          .hidden()
+      }
+      
+      Text(surface)
+        .font(.body)
+        .foregroundColor(.primary)
+        .fixedSize()
+    }
   }
 }
