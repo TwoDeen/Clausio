@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "浜岡原発データ",
-      "furigana": "はまおかげんぱつでーた",
+      "clause_text": "南米ベネズエラで先月",
+      "furigana": "なんべいべねずえらでせんげつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "不正問題",
-      "furigana": "ふせいもんだい",
+      "clause_text": "発生したマグニチュード7を超える地震で、",
+      "furigana": "はっせいしたまぐにちゅーどななをこえるじしんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "中部電力が",
-      "furigana": "ちゅうぶでんりょくが",
+      "clause_text": "ベネズエラ政府が発表した死者の数は、",
+      "furigana": "べねずえらせいふがはっぴょうしたししゃのかずは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "規制委指摘後も",
-      "furigana": "きせいいしてきごも",
+      "clause_text": "これまでに2500人を",
+      "furigana": "これまでににごれいれいにんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "データ操作。",
-      "furigana": "でーたそうさ。",
+      "clause_text": "超えました。",
+      "furigana": "こえました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日印首脳",
-      "furigana": "にちいんしゅのう",
+      "clause_text": "ベネズエラ",
+      "furigana": "べねずえら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "会談戦略的",
-      "furigana": "かいだんせんりゃくてき",
+      "clause_text": "地震1週間",
+      "furigana": "じしんいちしゅうかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "協力関係深める",
-      "furigana": "きょうりょくかんけいふかめる",
+      "clause_text": "日本NGO“",
+      "furigana": "にっぽんえぬじーおーきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことで合意",
-      "furigana": "ことでごうい",
+      "clause_text": "あらゆる物資が",
+      "furigana": "あらゆるぶっしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "2兆円投資も。",
-      "furigana": "にちょうえんとうしも。",
+      "clause_text": "足りていない”。",
+      "furigana": "たりていないきごう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "長期金利約",
-      "furigana": "ちょうききんりやく",
+      "clause_text": "「スロースリップ」",
+      "furigana": "「すろーすりっぷ」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "29年ぶり一時",
-      "furigana": "にきゅうねんぶりいちじ",
+      "clause_text": "活発な領域東北",
+      "furigana": "かっぱつなりょういきとうほく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "2.81％に上昇",
-      "furigana": "に．はちいちぱーせんとにじょうしょう",
+      "clause_text": "沖で拡大か",
+      "furigana": "おきでかくだいか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "インフレ加速観測",
-      "furigana": "いんふれかそくかんそく",
+      "clause_text": "地震への",
+      "furigana": "じしんへの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "などで。",
-      "furigana": "などで。",
+      "clause_text": "備えを。",
+      "furigana": "そなえを。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "うその",
-      "furigana": "うその",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "山梨震度",
+      "furigana": "やまなししんど",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "決算報告書",
-      "furigana": "けっさんほうこくしょ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "6弱1週間",
+      "furigana": "ろくじゃくいちしゅうかん",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "などで銀行から",
-      "furigana": "などでぎんこうから",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "専門家“富士山の",
+      "furigana": "せんもんかきごうふじやまの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "11億円詐取か",
-      "furigana": "いちいちおくえんさしゅか",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "火山活動に",
+      "furigana": "かざんかつどうに",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "元社長逮捕。",
-      "furigana": "もとしゃちょうたいほ。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "変化見られず”。",
+      "furigana": "へんかみられずきごう。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 21,
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ダウ平均株価",
-      "furigana": "だうへいきんかぶか",
+      "clause_text": "28人",
+      "furigana": "にはちにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "最高値を更新",
-      "furigana": "さいたかねをこうしん",
+      "clause_text": "犠牲の熱海",
+      "furigana": "ぎせいのあたみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "FRBの",
-      "furigana": "えふあーるびーの",
+      "clause_text": "土石流から",
+      "furigana": "どせきりゅうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "利上げ観測",
-      "furigana": "りあげかんそく",
+      "clause_text": "5年",
+      "furigana": "ごねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,19 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "後退で。",
-      "furigana": "こうたいで。",
+      "clause_text": "被災地で追悼式。",
+      "furigana": "ひさいちでついとうしき。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
     "source": "nhk_general",
-    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167941000.html",
-    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167941000_html",
-    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167941000_html",
-    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167941000_html.json",
-    "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
-    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167941000.html",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167841000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167841000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167841000_html.json",
+    "title": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
     "file_path": null
   }
 }

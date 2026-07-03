@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N3",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界トップレベルの研究水準を目指して国が重点的に支援を行う「国際卓越研究大学」について、",
-      "furigana": "せかいとっぷれべるのけんきゅうすいじゅんをめざしてくにがじゅうてんてきにしえんをおこなう「こくさいたくえつけんきゅうだいがく」について、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "政府は、",
+      "furigana": "せいふは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "文部科学省は、",
-      "furigana": "もんぶかがくしょうは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "外国人の在留許可に",
+      "furigana": "がいこくじんのざいりゅうきょかに",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "認定候補としていた京都大学が有識者会議による検討の結果、",
-      "furigana": "にんていこうほとしていたきょうとだいがくがゆうしきしゃかいぎによるけんとうのけっか、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "関する手数料を",
+      "furigana": "かんするてすうりょうを",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "認定の水準を満たしたと発表",
-      "furigana": "にんていのすいじゅんをみたしたとはっぴょう",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "引き上げる案を公表",
+      "furigana": "ひきあげるあんをこうひょう",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -67,7 +67,7 @@
       "parent_sentence_id": 1,
       "clause_text": "しました。",
       "furigana": "しました。",
-      "sentence_individual_grammar_level": "N4"
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "長期金利約",
-      "furigana": "ちょうききんりやく",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "現在1万円の",
+      "furigana": "げんざいいちまんえんの",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "29年ぶり一時",
-      "furigana": "にきゅうねんぶりいちじ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "永住許可の手数料は",
+      "furigana": "えいじゅうきょかのてすうりょうは",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "2.81％に上昇",
-      "furigana": "に．はちいちぱーせんとにじょうしょう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "20万円とし、",
+      "furigana": "にれいまんえんとし、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "インフレ加速観測",
-      "furigana": "いんふれかそくかんそく",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ことし10月から実施したいと",
+      "furigana": "ことしいちれいがつからじっししたいと",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "などで。",
-      "furigana": "などで。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "しています。",
+      "furigana": "しています。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 11,
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "うその",
-      "furigana": "うその",
+      "clause_text": "“人気”だった",
+      "furigana": "きごうにんききごうだった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "決算報告書",
-      "furigana": "けっさんほうこくしょ",
+      "clause_text": "在留資格",
+      "furigana": "ざいりゅうしかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "などで銀行から",
-      "furigana": "などでぎんこうから",
+      "clause_text": "「経営・管理」",
+      "furigana": "「けいえい・かんり」",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "11億円詐取か",
-      "furigana": "いちいちおくえんさしゅか",
+      "clause_text": "厳格化の",
+      "furigana": "げんかくかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "元社長逮捕。",
-      "furigana": "もとしゃちょうたいほ。",
+      "clause_text": "背景に迫る。",
+      "furigana": "はいけいにせまる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "28人犠牲熱海",
-      "furigana": "にはちにんぎせいあたみ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "中国当局に",
+      "furigana": "ちゅうごくとうきょくに",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "土石流から",
-      "furigana": "どせきりゅうから",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "拘束された",
+      "furigana": "こうそくされた",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "5年復興遅れ避難",
-      "furigana": "ごねんふっこうおくれひなん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "香港の書店の",
+      "furigana": "ほんこんのしょてんの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "生活続ける",
-      "furigana": "せいかつつづける",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "元店長",
+      "furigana": "もとてんちょう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "住民も。",
-      "furigana": "じゅうみんも。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "台湾で死去。",
+      "furigana": "たいわんでしきょ。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 21,
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "東京小学校火事電気",
-      "furigana": "とうきょうしょうがっこうかじでんき",
+      "clause_text": "東京渋谷区",
+      "furigana": "とうきょうしぶやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ストーブは",
-      "furigana": "すとーぶは",
+      "clause_text": "ポイ捨てに",
+      "furigana": "ぽいすてに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "音楽教諭の",
-      "furigana": "おんがくきょうゆの",
+      "clause_text": "過料開始から",
+      "furigana": "かりょうかいしから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "私物私服など",
-      "furigana": "しぶつしふくなど",
+      "clause_text": "1か月で324",
+      "furigana": "いちかげつでさんによん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,19 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "干す。",
-      "furigana": "ほす。",
+      "clause_text": "件。",
+      "furigana": "けん。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
     "source": "nhk_general",
-    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
-    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html",
-    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html",
-    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167861000_html.json",
-    "title": "京大を国際卓越研究大学に認定へ 今年度200億円助成見込み",
-    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167921000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167921000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167921000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167921000_html.json",
+    "title": "外国人の在留許可手数料 引き上げ案を公表 政府",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167921000.html",
     "file_path": null
   }
 }

@@ -317,6 +317,8 @@ def precompute_all_corpora(
                         "link": topic.link,
                         "detected_level": detected_level,
                         "target_level": target_level,
+                        "safe_id": safe_id(topic.id),
+                        "corpus_json_path": f"precomputed/corpus/{source}/{safe_id(topic.id)}.json",
                     }
                 )
 

@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "優れた推理小説に贈られる",
-      "furigana": "すぐれたすいりしょうせつにおくられる",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "3日の東京株式市場、日経平均株価は一時、",
+      "furigana": "みっかのとうきょうかぶしきしじょう、にっけいへいきんかぶかはいちじ、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "英国推理作家協会賞＝「ダガー賞」の受賞作品が発表され、",
-      "furigana": "えいこくすいりさっかきょうかいしょう_「だがーしょう」のじゅしょうさくひんがはっぴょうされ、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "1000円以上値下がりしましたが、",
+      "furigana": "いちれいれいれいえんいじょうねさがりしましたが、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "翻訳部門で最終候補に残っていたユーチューバーで覆面の日本人作家、",
-      "furigana": "ほんやくぶもんでさいしゅうこうほにのこっていたゆーちゅーばーでふくめんのにほんじんさっか、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "その後は、",
+      "furigana": "そのあとは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "雨穴さんの「変な絵」は受賞を",
-      "furigana": "あめあなさんの「へんなえ」はじゅしょうを",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "AIや半導体関連を中心に値下がりした銘柄を買い戻す動きも出て、",
+      "furigana": "えーあいやはんどうたいかんれんをちゅうしんにねさがりしためいがらをかいもどすうごきもでて、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "逃しました。",
-      "furigana": "のがしました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "株価は上昇に転じています。",
+      "furigana": "かぶかはじょうしょうにてんじています。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "村上春樹さん3年",
-      "furigana": "むらかみはるきさんさんねん",
+      "clause_text": "長期金利約",
+      "furigana": "ちょうききんりやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ぶり新作",
-      "furigana": "ぶりしんさく",
+      "clause_text": "29年ぶり一時",
+      "furigana": "にきゅうねんぶりいちじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "長編小説",
-      "furigana": "ちょうへんしょうせつ",
+      "clause_text": "2.81％に上昇",
+      "furigana": "に．はちいちぱーせんとにじょうしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "発売書店に",
-      "furigana": "はつばいしょてんに",
+      "clause_text": "インフレ加速観測",
+      "furigana": "いんふれかそくかんそく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ファン集まる。",
-      "furigana": "ふぁんあつまる。",
+      "clause_text": "などで。",
+      "furigana": "などで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日印首脳",
-      "furigana": "にちいんしゅのう",
+      "clause_text": "ダウ平均株価",
+      "furigana": "だうへいきんかぶか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "会談戦略的",
-      "furigana": "かいだんせんりゃくてき",
+      "clause_text": "最高値を更新",
+      "furigana": "さいたかねをこうしん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "協力関係深める",
-      "furigana": "きょうりょくかんけいふかめる",
+      "clause_text": "FRBの",
+      "furigana": "えふあーるびーの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ことで合意",
-      "furigana": "ことでごうい",
+      "clause_text": "利上げ観測",
+      "furigana": "りあげかんそく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "2兆円投資も。",
-      "furigana": "にちょうえんとうしも。",
+      "clause_text": "後退で。",
+      "furigana": "こうたいで。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "長期金利約",
-      "furigana": "ちょうききんりやく",
+      "clause_text": "うその",
+      "furigana": "うその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "29年ぶり一時",
-      "furigana": "にきゅうねんぶりいちじ",
+      "clause_text": "決算報告書",
+      "furigana": "けっさんほうこくしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "2.81％に上昇",
-      "furigana": "に．はちいちぱーせんとにじょうしょう",
+      "clause_text": "などで銀行から",
+      "furigana": "などでぎんこうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "インフレ加速観測",
-      "furigana": "いんふれかそくかんそく",
+      "clause_text": "11億円詐取か",
+      "furigana": "いちいちおくえんさしゅか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "などで。",
-      "furigana": "などで。",
+      "clause_text": "元社長逮捕。",
+      "furigana": "もとしゃちょうたいほ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "うその",
-      "furigana": "うその",
+      "clause_text": "テスラ欧州や",
+      "furigana": "てすらおうしゅうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "決算報告書",
-      "furigana": "けっさんほうこくしょ",
+      "clause_text": "中国で需要",
+      "furigana": "ちゅうごくでじゅよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "などで銀行から",
-      "furigana": "などでぎんこうから",
+      "clause_text": "回復かガソリン",
+      "furigana": "かいふくかがそりん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "11億円詐取か",
-      "furigana": "いちいちおくえんさしゅか",
+      "clause_text": "価格高騰も",
+      "furigana": "かかくこうとうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,19 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "元社長逮捕。",
-      "furigana": "もとしゃちょうたいほ。",
+      "clause_text": "追い風に。",
+      "furigana": "おいかぜに。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
     "source": "nhk_general",
-    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
-    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html",
-    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html",
-    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167871000_html.json",
-    "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
-    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167961000.html",
+    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167961000_html",
+    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167961000_html",
+    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167961000_html.json",
+    "title": "株価 一時1000円超値下がり AI関連など買い戻す動きも",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167961000.html",
     "file_path": null
   }
 }

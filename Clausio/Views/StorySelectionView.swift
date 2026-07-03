@@ -14,11 +14,16 @@ struct CorpusSource: Codable, Identifiable, Hashable {
   
   var displayName: String {
     switch id {
-      case "aozora": return "Aozora"
-      case "nhk_easy": return "NHK Easy"
-      case "nhk_general": return "NHK General"
-      case "t15": return "T15"
-      case "wjt_sentdil": return "WJT SentDil"
+      case "aozora":
+        return "Aozora"
+      case "nhk_easy":
+        return "NHK Easy"
+      case "nhk_general":
+        return "NHK General"
+      case "t15":
+        return "T15"
+      case "wjt_sentdil":
+        return "WJT SentDil"
       default:
         return id.replacingOccurrences(of: "_", with: " ").capitalized
     }
@@ -27,20 +32,49 @@ struct CorpusSource: Codable, Identifiable, Hashable {
 
 struct CorpusTopicsResponse: Codable {
   let status: String
+  let source: String?
+  let requested_level: String?
   let topics: [CorpusTopic]
 }
 
 struct CorpusTopic: Codable, Identifiable, Hashable {
   let id: String
-  let title: String
+  let title: String?
   let link: String?
   let detected_level: String?
+  let target_level: String?
+  let safe_id: String?
   
-  var subtitleText: String {
-    if let level = detected_level, !level.isEmpty {
-      return level
+  var displayTitle: String {
+    if let title, !title.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+      return title
+    }
+    return "Untitled Topic"
+  }
+  
+  var requestTopicID: String {
+    if let safeID = safe_id, !safeID.isEmpty {
+      return safeID
     }
     return id
+  }
+  
+  var subtitleText: String {
+    var parts: [String] = []
+    
+    if let target = target_level, !target.isEmpty {
+      parts.append("Target \(target)")
+    }
+    
+    if let detected = detected_level, !detected.isEmpty {
+      parts.append("Detected \(detected)")
+    }
+    
+    if parts.isEmpty {
+      return id
+    }
+    
+    return parts.joined(separator: " • ")
   }
 }
 
@@ -141,8 +175,12 @@ struct StorySelectionView: View {
           .foregroundColor(.red)
           .multilineTextAlignment(.center)
           .padding(.horizontal)
-        Spacer()
+        
+        Button("Try Again") {
+          fetchTopics()
+        }
       }
+      Spacer()
     } else if topics.isEmpty {
       Spacer()
       Text("No precomputed topics found for this source and level.")
@@ -156,14 +194,14 @@ struct StorySelectionView: View {
           generateCorpusPuzzle(topic: topic)
         } label: {
           VStack(alignment: .leading, spacing: 6) {
-            Text(topic.title)
+            Text(topic.displayTitle)
               .font(.headline)
               .foregroundColor(.primary)
             
             Text(topic.subtitleText)
               .font(.caption)
               .foregroundColor(.secondary)
-              .lineLimit(1)
+              .lineLimit(2)
           }
           .padding(.vertical, 4)
         }
@@ -191,6 +229,16 @@ struct StorySelectionView: View {
     if !levels.contains(selectedLevel), let first = levels.first {
       selectedLevel = first
     }
+  }
+  
+  private func decodeServerError(from data: Data?) -> String? {
+    guard let data = data else { return nil }
+    if let object = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+       let detail = object["detail"] as? String,
+       !detail.isEmpty {
+      return detail
+    }
+    return nil
   }
   
   // MARK: - Networking
@@ -221,7 +269,8 @@ struct StorySelectionView: View {
         }
         
         guard (200...299).contains(httpResponse.statusCode) else {
-          self.errorMessage = "Corpus sources API returned HTTP \(httpResponse.statusCode)."
+          self.errorMessage = self.decodeServerError(from: data)
+          ?? "Corpus sources API returned HTTP \(httpResponse.statusCode)."
           return
         }
         
@@ -275,7 +324,8 @@ struct StorySelectionView: View {
         }
         
         guard (200...299).contains(httpResponse.statusCode) else {
-          self.errorMessage = "Corpus topics API returned HTTP \(httpResponse.statusCode)."
+          self.errorMessage = self.decodeServerError(from: data)
+          ?? "Corpus topics API returned HTTP \(httpResponse.statusCode)."
           return
         }
         
@@ -298,7 +348,7 @@ struct StorySelectionView: View {
     
     let body: [String: String] = [
       "source": selectedSourceID,
-      "topic_id": topic.id,
+      "topic_id": topic.requestTopicID,
       "level": selectedLevel
     ]
     
@@ -327,7 +377,8 @@ struct StorySelectionView: View {
         }
         
         guard (200...299).contains(httpResponse.statusCode) else {
-          self.errorMessage = "Corpus puzzle API returned HTTP \(httpResponse.statusCode)."
+          self.errorMessage = self.decodeServerError(from: data)
+          ?? "This puzzle hasn't been precomputed yet."
           return
         }
         
