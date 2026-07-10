@@ -5,6 +5,7 @@ from .nhk_easy import NHKEasyProvider
 from .nhk_general import NHKGeneralProvider
 from .t15 import T15Provider
 from .wjt_sentdil import WJTSentDilProvider
+from .tadoku_scraper import TadokuProvider  # Added Tadoku import
 
 _ALL_PROVIDERS = [
     NHKEasyProvider(),
@@ -12,6 +13,7 @@ _ALL_PROVIDERS = [
     AozoraProvider(),
     T15Provider(),
     WJTSentDilProvider(),
+    TadokuProvider(),  # Added Tadoku to the active list
 ]
 
 

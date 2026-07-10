@@ -1,0 +1,1459 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="pingback" href="https://tadoku.org/japanese/xmlrpc.php">
+<title>にほんごたどく - にほんごたどく</title>
+
+		<!-- All in One SEO 4.9.8 - aioseo.com -->
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://tadoku.org/japanese/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.9.8" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:site_name" content="にほんごたどく - NPO多言語多読" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="にほんごたどく - にほんごたどく" />
+		<meta property="og:url" content="https://tadoku.org/japanese/" />
+		<meta property="article:published_time" content="2025-10-21T16:36:47+00:00" />
+		<meta property="article:modified_time" content="2026-06-28T01:43:08+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="にほんごたどく - にほんごたどく" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/tadoku.org\/japanese\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/tadoku.org\/japanese#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/tadoku.org\/japanese\/#organization","name":"\u306b\u307b\u3093\u3054\u305f\u3069\u304f","description":"NPO\u591a\u8a00\u8a9e\u591a\u8aad","url":"https:\/\/tadoku.org\/japanese\/"},{"@type":"WebPage","@id":"https:\/\/tadoku.org\/japanese\/#webpage","url":"https:\/\/tadoku.org\/japanese\/","name":"\u306b\u307b\u3093\u3054\u305f\u3069\u304f - \u306b\u307b\u3093\u3054\u305f\u3069\u304f","inLanguage":"ja","isPartOf":{"@id":"https:\/\/tadoku.org\/japanese\/#website"},"breadcrumb":{"@id":"https:\/\/tadoku.org\/japanese\/#breadcrumblist"},"datePublished":"2025-10-22T01:36:47+09:00","dateModified":"2026-06-28T10:43:08+09:00"},{"@type":"WebSite","@id":"https:\/\/tadoku.org\/japanese\/#website","url":"https:\/\/tadoku.org\/japanese\/","name":"\u306b\u307b\u3093\u3054\u305f\u3069\u304f","description":"NPO\u591a\u8a00\u8a9e\u591a\u8aad","inLanguage":"ja","publisher":{"@id":"https:\/\/tadoku.org\/japanese\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel="alternate" href="https://tadoku.org/japanese/" hreflang="ja" />
+<link rel="alternate" href="https://tadoku.org/japanese/en/" hreflang="en" />
+<link rel="alternate" href="https://tadoku.org/japanese/cn/" hreflang="zh" />
+<link rel="alternate" href="https://tadoku.org/japanese/ko/" hreflang="ko" />
+<link rel='dns-prefetch' href='//challenges.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" type="application/rss+xml" title="にほんごたどく &raquo; フィード" href="https://tadoku.org/japanese/feed/" />
+<link rel="alternate" type="application/rss+xml" title="にほんごたどく &raquo; コメントフィード" href="https://tadoku.org/japanese/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tadoku.org/japanese/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftadoku.org%2Fjapanese%2F&#038;lang=ja" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tadoku.org/japanese/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftadoku.org%2Fjapanese%2F&#038;format=xml&#038;lang=ja" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='bootstrap-icons-css' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css?ver=1.11.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tadoku-book-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/6m7nwvi0/btgt0.css' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/l8jz6spy/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/6kdzrdp5/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/226iar7e/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-bootstrap-css-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/2frm7wqu/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-font-awesome-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/f5ufftwq/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-style-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/226iar7e/btgt0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='//tadoku.org/japanese/wp-content/cache/wpfc-minified/6vl5nc86/btgt0.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+
+<!-- Site Kit によって追加された Google タグ（gtag.js）スニペット -->
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-WB29PVT" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["tadoku.org"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-WB29PVT");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://tadoku.org/japanese/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://tadoku.org/japanese/wp-json/wp/v2/pages/51032" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tadoku.org/japanese/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel='shortlink' href='https://tadoku.org/japanese/' />
+<meta name="generator" content="Site Kit by Google 1.181.0" />    <style type="text/css">
+        #page-sub-header { background: #f7f7f7; }
+    </style>
+    <meta name="google-site-verification" content="3k9uSAZ2AK3p7ATBtK2PpVJmPVHufTw9lOOmGdQYqqw">	<style type="text/css">
+	        a.site-title,
+		.site-description {
+			color: #333333;
+		}
+		</style>
+	<link rel="icon" href="https://tadoku.org/japanese/wp-content/uploads/cropped-jp-logo-512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tadoku.org/japanese/wp-content/uploads/cropped-jp-logo-512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tadoku.org/japanese/wp-content/uploads/cropped-jp-logo-512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tadoku.org/japanese/wp-content/uploads/cropped-jp-logo-512-270x270.png" />
+
+</head>
+
+<body class="home wp-singular page-template page-template-page-home2 page-template-page-home2-php page page-id-51032 wp-theme-wp-bootstrap-starter wp-child-theme-wpbootstrapstarterchild group-blog">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    	<header id="masthead" class="site-header navbar-static-top" role="banner">
+        <div class="container-flud">
+<!-- ktb-fix
+			<nav class="navbar navbar-expand-xl navbar-dark p-0">
+ -->
+            <nav class="navbar navbar-expand-xl">
+                <div class="navbar-brand">
+                                            <a href="https://tadoku.org/japanese/">
+                            <!--<img src="http://tadoku.org/japanese/wp-content/uploads/logo-jp.svg" alt="にほんごたどく">-->
+							<img src="https://tadoku.org/japanese/wp-content/uploads/logo-jp.svg" alt="にほんごたどく">
+                        </a>
+                    
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+<!-- ktb-fix polylang言語スイッチャー追加　→phpアップデートで不具合があり、下記に書き換えた -->
+<div class="globalnav-lang">
+    <select name="lang_choice_1" id="lang_choice_1" class="pll-switcher-select">
+	<option value="https://tadoku.org/japanese/" lang="ja" selected='selected' data-lang="{&quot;id&quot;:0,&quot;name&quot;:&quot;JP&quot;,&quot;slug&quot;:&quot;ja&quot;,&quot;dir&quot;:0}">JP</option>
+	<option value="https://tadoku.org/japanese/en/" lang="en-US" data-lang="{&quot;id&quot;:0,&quot;name&quot;:&quot;EN&quot;,&quot;slug&quot;:&quot;en&quot;,&quot;dir&quot;:0}">EN</option>
+
+</select>
+<script type="text/javascript">
+					document.getElementById( "lang_choice_1" ).addEventListener( "change", function ( event ) { location.href = event.currentTarget.value; } )
+				</script></div>
+				
+                <div class="collapse navbar-collapse justify-content-end"><ul id="menu-jp" class="navbar-nav"><li id="menu-item-346" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-346 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link" aria-haspopup="true"><ruby>多読<rt>たどく</rt></ruby>について <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-168" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://tadoku.org/japanese/what-is-tadoku/" class="dropdown-item">はじめかた</a></li>
+	<li id="menu-item-166" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-166"><a href="https://tadoku.org/japanese/voices-from-readers/" class="dropdown-item"><ruby>体験者<rt>たいけんしゃ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby></a></li>
+	<li id="menu-item-167" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://tadoku.org/japanese/for-teachers-and-supporters/" class="dropdown-item"><ruby>教師<rt>きょうし</rt></ruby>・<ruby>支援者<rt>しえんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>へ</a></li>
+	<li id="menu-item-4410" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4410"><a href="https://tadoku.org/japanese/references/" class="dropdown-item"><ruby>参考<rt>さんこう</rt></ruby><ruby>資料<rt>しりょう</rt></ruby></a></li>
+</ul>
+</li>
+<li id="menu-item-438" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-438 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link" aria-haspopup="true"><ruby>本<rt>ほん</rt></ruby>をさがす <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1490" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1490"><a href="https://tadoku.org/japanese/graded-readers/" class="dropdown-item">レベル<ruby>別<rt>べつ</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>もの</a></li>
+	<li id="menu-item-1491" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1491"><a href="https://tadoku.org/japanese/tadoku-friendly-books/" class="dropdown-item"><ruby>一般<rt>いっぱん</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの</a></li>
+	<li id="menu-item-4191" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4191"><a href="https://tadoku.org/japanese/other-grs/" class="dropdown-item">その<ruby>他<rt>た</rt></ruby>のレベル<ruby>別<rt>べつ</rt></ruby><ruby>読<rt>よ</rt></ruby>みもの</a></li>
+	<li id="menu-item-3721" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3721"><a href="https://tadoku.org/japanese/audio-downloads" class="dropdown-item"><ruby>朗読<rt>ろうどく</rt></ruby><ruby>音声<rt>おんせい</rt></ruby>のダウンロード</a></li>
+	<li id="menu-item-3722" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3722"><a href="https://tadoku.org/japanese/to-order" class="dropdown-item"><ruby>本<rt>ほん</rt></ruby>の<ruby>購入<rt>こうにゅう</rt></ruby></a></li>
+	<li id="menu-item-1492" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1492"><a href="https://tadoku.org/japanese/book-search/" class="dropdown-item"><ruby>本<rt>ほん</rt></ruby>の<ruby>検索<rt>けんさく</rt></ruby></a></li>
+	<li id="menu-item-4188" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4188"><a href="https://tadoku.org/japanese/recommended-books" class="dropdown-item">レベル<ruby>別<rt>べつ</rt></ruby>おすすめ</a></li>
+	<li id="menu-item-4873" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4873"><a href="https://tadoku.org/japanese/popular-books/" class="dropdown-item"><ruby>人気<rt>にんき</rt></ruby>の<ruby>本<rt>ほん</rt></ruby></a></li>
+	<li id="menu-item-4187" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4187"><a href="https://tadoku.org/japanese/free-books/" class="dropdown-item"><ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの</a></li>
+	<li id="menu-item-4192" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-4192"><a href="https://x.com/jpn_tadokuorg" class="dropdown-item">エックスで<ruby>読<rt>よ</rt></ruby>む</a></li>
+</ul>
+</li>
+<li id="menu-item-235" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-235 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link" aria-haspopup="true"><ruby>本<rt>ほん</rt></ruby>をつくる <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1496" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1496"><a href="https://tadoku.org/japanese/for-writers" class="dropdown-item"><ruby>多読<rt>たどく</rt></ruby><ruby>向<rt>む</rt></ruby>け<ruby>読<rt>よ</rt></ruby>みものを<ruby>作<rt>つく</rt></ruby>ろう</a></li>
+	<li id="menu-item-1497" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1497"><a href="https://tadoku.org/japanese/writers-voices" class="dropdown-item"><ruby>読<rt>よ</rt></ruby>みもの<ruby>作<rt>づく</rt></ruby>り<ruby>体験談<rt>たいけんだん</rt></ruby></a></li>
+</ul>
+</li>
+<li id="menu-item-1889" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1889 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link" aria-haspopup="true"><ruby>講座<rt>こうざ</rt></ruby>・イベント <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-6632" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-6632"><a href="https://tadoku.org/japanese/online-japanese-tadoku-club/" class="dropdown-item">【ｵﾝﾗｲﾝ】<ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby>クラブ <span class="c-green2 fs-0875rem d-inline-block">＊<ruby>無料<rt>むりょう</rt></ruby></span></a></li>
+	<li id="menu-item-6633" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-6633"><a href="https://tadoku.org/japanese/online-courses-for-supporters/" class="dropdown-item">【ｵﾝﾗｲﾝ】<ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></a></li>
+	<li id="menu-item-6789" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-6789"><a href="https://tadoku.org/japanese/online-courses-for-writers/" class="dropdown-item">【ｵﾝﾗｲﾝ】<ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></a></li>
+	<li id="menu-item-237" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="https://tadoku.org/japanese/tadoku-courses/" class="dropdown-item">にほんごクラス</a></li>
+	<li id="menu-item-236" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><a href="https://tadoku.org/japanese/japanese-book-reading-club/" class="dropdown-item">にほんごの<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む<ruby>会<rt>かい</rt></ruby> <span class="c-green2 fs-0875rem d-inline-block">＊<ruby>無料<rt>むりょう</rt></ruby></span></a></li>
+	<li id="menu-item-238" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="https://tadoku.org/japanese/rewriting-courses/" class="dropdown-item">「<ruby>多読<rt>たどく</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>と<ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby>」<ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link" aria-haspopup="true">NPO<ruby>多言語<rt>たげんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby> <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-239" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-239"><a href="https://tadoku.org/japanese/about-us" class="dropdown-item">わたしたちについて</a></li>
+	<li id="menu-item-3356" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3356"><a href="https://tadoku.org/japanese/about-us/#access" class="dropdown-item">アクセス</a></li>
+	<li id="menu-item-241" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="https://tadoku.org/japanese/about-us/#contact" class="dropdown-item">お<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせ</a></li>
+</ul>
+</li>
+</ul></div>				
+            </nav>
+        </div>
+	</header><!-- #masthead -->
+    	<div id="content" class="site-content">
+		<div class="container">
+			<div class="row">
+                
+<section id="primary" class="content-area col-sm-12">
+  <main id="main" class="site-main" role="main">
+    <article id="post-51032" class="post-51032 page type-page status-publish hentry">
+      <div class="entry-content">
+
+
+
+<!-- ==================================================
+ジャンボトロン（※日英で書き分け）
+================================================== -->
+
+<div class="row top2-jumbotron-wrap">
+  <div class="col-12">
+    <div id="Indicators" class="carousel slide" data-ride="carousel">
+
+
+
+      <!-- インディケーター
+      <ol class="carousel-indicators mb-0">
+        <li data-target="#Indicators" data-slide-to="0" class="active"></li>
+        <li data-target="#Indicators" data-slide-to="1"></li>
+        <li data-target="#Indicators" data-slide-to="2"></li>
+        <li data-target="#Indicators" data-slide-to="3"></li>
+      </ol>
+-->
+
+      <!-- 画像 -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <a href="">
+            <div class="top2-jumbotron-imgwrap">
+              <picture>
+                <source
+                  media="(max-width: 575px)"
+                  srcset="https://tadoku.org/japanese/wp-content/uploads/top-heroimg_small.webp"
+                >
+                <img
+                  src="https://tadoku.org/japanese/wp-content/uploads/top-heroimg.webp"
+                  alt=""
+                  decoding="async"
+                  loading="eager"
+                  fetchpriority="high"
+                  width="1640" height="534"
+                >
+              </picture>
+            </div>
+          </a>
+        </div>
+<!--
+        <div class="carousel-item">
+          <a href="">
+            <div class="top2-jumbotron-imgwrap">
+              <img src="https://tadoku.org/japanese/wp-content/uploads/online-japanese-tadoku-club-03_v2.jpg" alt="...">
+            </div>
+          </a>
+        </div>
+        <div class="carousel-item">
+          <a href="">
+            <div class="top2-jumbotron-imgwrap">
+              <img src="https://tadoku.org/japanese/wp-content/uploads/top-heroimg.jpg" alt="...">
+            </div>
+          </a>
+        </div>
+        <div class="carousel-item">
+          <a href="">
+            <div class="top2-jumbotron-imgwrap">
+              <img src="https://tadoku.org/japanese/wp-content/uploads/top-heroimg.jpg" alt="...">
+            </div>
+          </a>
+        </div>
+-->
+      </div><!-- end of .carousel-inner -->
+
+      <!-- ボタン
+      <a class="carousel-control-prev" role="button" href="#Indicators" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" role="button" href="#Indicators" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+ -->
+
+    </div><!-- end of carousel -->
+  </div>
+</div>
+
+
+
+
+<!-- ==================================================
+教師・支援者の方へ（※日英で書き分け）
+================================================== -->
+<div class="row xs-full-width my-2">
+  <div class="col-12">
+    <div class="top2-btntoteachers d-flex justify-content-end">
+      <a class="d-flex justify-content-center align-items-center text-decoration-none text-center lh-1 c-l5 bgc-l5" href="https://tadoku.org/japanese/for-teachers-and-supporters/">
+        教師･支援者の方はこちら <i class="bi bi-chevron-double-right"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- ==================================================
+お知らせ（※日英で書き分け）
+================================================== -->
+<section>
+
+<!-- ◆緊急のお知らせ -->
+<!-- ショートコード lang="ja/en" -->
+  
+<!-- ◆イベント・お知らせ -->
+<div class="row bgc-full bgc-gray py-4" id="top2-event">
+  <div class="col-12">
+
+    <h1 class="top2-event-header h3">イベント<span class="fs-1rem">＆お<ruby>知<rt>し</rt></ruby>らせ</span></h1>
+
+    <!-- ◆スワイプメニュー -->
+    <div class="tdk-swiper position-relative">
+      <button class="tdk-swiper-prev btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-left"></i></button>
+      <div class="tdk-swiper-wrap overflow-hidden">
+
+        <ul class="tdk-swiper-content tdk-swp-x6 list-unstyled d-flex fs-0875rem lh-18 mb-0"><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-japanese-tadoku-club/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/gakusyusya-onlinenihongotadokuclub_small.webp" alt=""></figure><div class="tdk-swiper-event-learner position-absolute c-l2 bgc-l2 px-2 py-1 d-flex align-items-center"><div><ruby>学習者<rt>がくしゅうしゃ</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby>クラブ</div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div><div class="tdk-swiper-free fs-075rem bgc-gray6 c-white px-2 py-1">Free</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/4（土）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-courses-for-supporters/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/online-courses-for-supporters-02.png" alt=""></figure><div class="tdk-swiper-event-teacher position-absolute c-l5 bgc-l5 px-2 py-1 d-flex align-items-center"><div><ruby>支援者<rt>しえんしゃ</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/5（日）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/japanese-book-reading-club/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/japanese-book-reading-club-01.jpg" alt=""></figure><div class="tdk-swiper-event-learner position-absolute c-l2 bgc-l2 px-2 py-1 d-flex align-items-center"><div><ruby>学習者<rt>がくしゅうしゃ</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2">にほんごの<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む<ruby>会<rt>かい</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">@しんじゅく</div><div class="tdk-swiper-free fs-075rem bgc-gray6 c-white px-2 py-1">Free</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎週土曜</div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-courses-for-writers/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/sien-yomimonosakusei_small.webp" alt=""></figure><div class="tdk-swiper-event-teacher position-absolute c-l5 bgc-l5 px-2 py-1 d-flex align-items-center"><div><ruby>支援者<rt>しえんしゃ</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/26（日）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/tadoku-courses/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/gakusyusya-nihongoclass_small.webp" alt=""></figure><div class="tdk-swiper-event-learner position-absolute c-l2 bgc-l2 px-2 py-1 d-flex align-items-center"><div><ruby>学習者<rt>がくしゅうしゃ</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2">にほんごクラス</div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">@ひがしなかの</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎週木曜</div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/update-history#20260628"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/w0017s17-oosamanomimi.jpg" alt=""></figure><div class="tdk-swiper-event-book position-absolute c-l4 bgc-l4 px-2 py-1 d-flex align-items-center"><div><ruby>新着<rt>しんちゃく</rt></ruby><ruby>本<rt>ぼん</rt></ruby></div></div></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みものの<ruby>音声<rt>おんせい</rt></ruby>データを<ruby>追加<rt>ついか</rt></ruby>しました(2026.06.28)</div></a></li></ul>
+      </div>
+      <button class="tdk-swiper-next btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-right"></i></button>
+    </div><!-- end of .tdk-swiper -->
+
+  </div><!-- end of .col -->
+</div><!-- end of .row -->
+</section>
+
+
+
+<!-- ==================================================
+本を読む（※日英で書き分け）
+================================================== -->
+<section>
+<div class="row">
+  <div class="col-12">
+
+    <h1 class="h15"><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む</h1>
+
+  </div>
+</div>
+
+<ul class="row small-gutters list-unstyled text-center fs-1rem lh-18">
+
+  <!-- ========== JA ========== -->
+  <!-- ◆無料の読みもの -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/free-books">
+      <div class="">
+        <i class="bi bi-book tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの
+      </div>
+    </a>
+  </li>
+  <!-- ◆youtubeで読む -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4 c-l4 px-3 py-4" href="https://www.youtube.com/playlist?list=PLECwrojQZ1wctD5oeb1AlLwxZckBmOEiY">
+      <div class="">
+        <i class="bi bi-youtube tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        YouTubeで<ruby>読<rt>よ</rt></ruby>む
+      </div>
+    </a>
+  </li>
+  <!-- ◆エックスで読む -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4 c-l4 px-3 py-4" href="https://x.com/jpn_tadokuorg">
+      <div class="">
+        <i class="bi bi-twitter-x tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        エックスで<ruby>読<rt>よ</rt></ruby>む
+      </div>
+    </a>
+  </li>
+  <!-- ◆インスタで読む -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4 c-l4 px-3 py-4" href="https://www.instagram.com/jpn_tadokuorg/">
+      <div class="fs-iconmenu-title">
+        <i class="bi bi-instagram tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        インスタで<ruby>読<rt>よ</rt></ruby>む
+      </div>
+    </a>
+  </li>
+  <!-- ◆その他の無料の読みもの -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4 c-l4 px-3 py-4" href="https://tadoku.org/japanese/other-grs/">
+      <div class="">
+        <i class="bi bi-book tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        その<ruby>他<rt>た</rt></ruby>の<span class="d-inline-block"><ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの</span>
+      </div>
+    </a>
+  </li>
+  <!-- ◆ウェブリソースまとめ -->
+  <li class="col-6 col-lg-3 col-xl-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4 c-l4 px-3 py-4" href="https://tadoku.org/blog/blog/2020/08/21/9642">
+      <div class="">
+        <i class="bi bi-link-45deg tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        ウェブリソース<span class="d-inline-block">まとめ</span>
+      </div>
+    </a>
+  </li>
+
+
+</ul>
+
+<!-- ◆新着本（※日英共通） -->
+<div class="row">
+  <div class="col-12">
+
+    <h1 class="h3 ff-rgothic"><ruby>新着<rt>しんちゃく</rt></ruby><ruby>本<rt>ぼん</rt></ruby>——</h1>
+
+    <div class="tdk-swiper-show_book_list_small position-relative">
+      <button class="tdk-swiper-prev btn btn-light position-absolute fs-15rem p-2">
+        <i class="bi bi-chevron-left"></i>
+      </button>
+      <div class="tdk-swiper-wrap overflow-hidden">
+
+        <!-- ショートコード -->
+        <div class="row">  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/61371/"><img src="https://tadoku.org/japanese/wp-content/uploads/w0018t-kagaminonaimura-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/61371/">
+                  鏡のない村                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l2" title="Level 2">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-level2.png" alt = "Level 2" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=010" title="NPO多言語多読監修">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-npo.png" alt="NPO多言語多読監修" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/61371/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="4.77"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/61371/#bd-reviews">(30)</a>
+      </div>
+        
+  </div>  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/61273/"><img src="https://tadoku.org/japanese/wp-content/uploads/f0120t-chottokite-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/61273/">
+                  ちょっと来て！                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l-start" title="Level Start">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-levelstart-1.png" alt = "Level Start" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/61273/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="4.97"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/61273/#bd-reviews">(66)</a>
+      </div>
+        
+  </div>  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/52749/"><img src="https://tadoku.org/japanese/wp-content/uploads/f0119t-kurumimoti-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/52749/">
+                  くるみもち                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l3" title="Level 3">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-level3.png" alt = "Level 3" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/52749/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="4.93"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/52749/#bd-reviews">(14)</a>
+      </div>
+        
+  </div>  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/48618/"><img src="https://tadoku.org/japanese/wp-content/uploads/w0017t-oosamanomimi-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/48618/">
+                  王様の耳はロバの耳                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l2" title="Level 2">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-level2.png" alt = "Level 2" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=010" title="NPO多言語多読監修">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-npo.png" alt="NPO多言語多読監修" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/48618/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="4.57"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/48618/#bd-reviews">(37)</a>
+      </div>
+        
+  </div>  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/48397/"><img src="https://tadoku.org/japanese/wp-content/uploads/f0118t-nemuimachi-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/48397/">
+                  眠い町                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l3" title="Level 3">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-level3.png" alt = "Level 3" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/48397/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="3.92"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/48397/#bd-reviews">(37)</a>
+      </div>
+        
+  </div>  <div class="col-6 col-sm-4 col-md-3 col-lg-2 bl-wrap-small" >
+      <div class="bl-thumb"><a href="https://tadoku.org/japanese/book/48396/"><img src="https://tadoku.org/japanese/wp-content/uploads/f0117t-hamster-211x300.jpg" loading="lazy">
+      </a></div>
+    <div class="bl-title">
+            <a href="https://tadoku.org/japanese/book/48396/">
+                  私とハムスター                        </a></div>
+    <div class="bl-icons">
+      <ul>
+                              <li>
+              <a href="https://tadoku.org/japanese/book-search?level=l4" title="Level 4">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-level4.png" alt = "Level 4" />
+              </a>
+            </li>
+                  
+                  
+            
+            
+            
+            
+            
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=020" title="レベル別読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-gr.png" alt="レベル別読みもの" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?kind=050" title="電子書籍あり">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ebooks.png" alt="電子書籍あり" />
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tadoku.org/japanese/book-search?attr=020" title="ふりがな付き">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-ruby.png" alt="ふりがな付き" />
+              </a>
+            </li>
+                      <li class="bl-icons-free">
+              <a href="https://tadoku.org/japanese/book/48396/#bd-look-inside" title="無料の読みもの">
+                <img src = "https://tadoku.org/japanese/wp-content/uploads/icon-free.png" alt="無料の読みもの" />
+              </a>
+            </li>
+          
+      </ul>
+    </div>
+            <div class="bl-reviews">
+  <div class="tdk-star-rating-container" data-rating="4.9"><ul class="star-list"><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li><li><i class="bi bi-star empty"></i><i class="bi bi-star-half half"></i><i class="bi bi-star-fill full"></i></li></ul></div>        <a href="https://tadoku.org/japanese/book/48396/#bd-reviews">(29)</a>
+      </div>
+        
+  </div></div>
+      </div>
+      <button class="tdk-swiper-next btn btn-light position-absolute fs-15rem p-2">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </div>
+</div>
+
+</section>
+
+
+
+<!-- ************************************************** 
+多読について（※日英で書き分け）
+ ************************************************** -->
+<section class="bgc-full bgc-l2 mb-64rem">
+<div class="row justify-content-between large-gutters">
+
+
+  <!-- ========== JA ========== -->
+  <div class="col-12">
+    <h1 class="h15"><ruby>多読<rt>たどく</rt></ruby>について</h1>
+  </div>
+
+  <!-- ◆多読とは -->
+  <div class="col-12 col-xl-6">
+    <h2 class="h3 ff-rgothic"><ruby>多読<rt aria-hidden="true">たどく</rt></ruby>とは<span class="dash">――</span></h2>
+    <p>
+
+<ruby>自分<rt aria-hidden="true">じぶん</rt></ruby>の<ruby>好<rt aria-hidden="true">す</rt></ruby>きなものを<ruby>楽<rt aria-hidden="true">たの</rt></ruby>しくたくさん<ruby>読<rt aria-hidden="true">よ</rt></ruby>んで、<ruby>日本語<rt aria-hidden="true">にほんご</rt></ruby>を<ruby>身<rt aria-hidden="true">み</rt></ruby>につける<ruby>方法<rt aria-hidden="true">ほうほう</rt></ruby>です。<ruby>辞書<rt aria-hidden="true">じしょ</rt></ruby>を<ruby>使<rt aria-hidden="true">つか</rt></ruby>わずに<ruby>絵<rt aria-hidden="true">え</rt></ruby>を<ruby>見<rt aria-hidden="true">み</rt></ruby>ながら、<ruby>本<rt aria-hidden="true">ほん</rt></ruby>を<ruby>楽<rt aria-hidden="true">たの</rt></ruby>しみます。<ruby>楽<rt aria-hidden="true">たの</rt></ruby>しいとまた<ruby>読<rt aria-hidden="true">よ</rt></ruby>みたくなる・・・このようにしてたくさんの<ruby>言葉<rt aria-hidden="true">ことば</rt></ruby>と<ruby>場面<rt aria-hidden="true">ばめん</rt></ruby>に<ruby>接<rt aria-hidden="true">せっ</rt></ruby>していくと、だんだん<ruby>漢字<rt aria-hidden="true">かんじ</rt></ruby>にも<ruby>慣<rt aria-hidden="true">な</rt></ruby>れて<ruby>日本語<rt aria-hidden="true">にほんご</rt></ruby>が<ruby>読<rt aria-hidden="true">よ</rt></ruby>めるようになります。
+
+    </p>
+    <ul class="row small-gutters list-unstyled text-center fs-1rem lh-18">
+      <li class="col-6 mb-3">
+        <a class="d-flex flex-column text-decoration-none h-100 border bgc-white c-l2 px-3 py-4" href="https://tadoku.org/japanese/what-is-tadoku/">
+          <div class="">
+            <i class="bi bi-play-circle tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+          </div>
+          <div class="fs-iconmenu-title">
+            <ruby>多読<rt>たどく</rt></ruby>の<span class="d-inline-block">はじめかた</span>
+          </div>
+        </a>
+      </li>
+      <li class="col-6 mb-3">
+        <a class="d-flex flex-column text-decoration-none h-100 border bgc-white c-l2 px-3 py-4" href="https://tadoku.org/japanese/voices-from-readers/">
+          <div class="">
+            <i class="bi bi-chat-dots tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+          </div>
+          <div class="fs-iconmenu-title">
+            <ruby>体験者<rt>たいけんしゃ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>
+          </div>
+        </a>
+      </li>
+      <li class="col-12 mb-3">
+        <a class="d-flex justify-content-end align-items-center text-decoration-none c-l5" href="https://tadoku.org/japanese/for-teachers-and-supporters/">
+          <div class="fs-iconmenu-title">
+            <ruby>教師<rt>きょうし</rt></ruby>･<ruby>支援者<rt>しえんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>
+          </div>
+          <div class="">
+            <i class="bi bi-chevron-right tdk-swiper-icon fs-13125rem ml-2" aria-hidden="true"></i>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- ◆ここで多読しよう -->
+  <div class="col-12 col-xl-5">
+    <h2 class="h3 ff-rgothic">ここで<ruby>多読<rt>たどく</rt></ruby>しよう——</h2>
+    <div class="tdk-swiper position-relative">
+      <button class="tdk-swiper-prev btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-left"></i></button>
+      <div class="tdk-swiper-wrap overflow-hidden">
+
+        <!-- ショートコード -->
+        <ul class="tdk-swiper-content tdk-swp-x3 list-unstyled d-flex fs-0875rem lh-18 mb-0"><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-japanese-tadoku-club/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/gakusyusya-onlinenihongotadokuclub_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby>クラブ</div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div><div class="tdk-swiper-free fs-075rem bgc-gray6 c-white px-2 py-1">Free</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/4（土）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/japanese-book-reading-club/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/japanese-book-reading-club-01.jpg" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2">にほんごの<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む<ruby>会<rt>かい</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">@しんじゅく</div><div class="tdk-swiper-free fs-075rem bgc-gray6 c-white px-2 py-1">Free</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎週土曜</div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/tadoku-courses/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/gakusyusya-nihongoclass_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2">にほんごクラス</div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">@ひがしなかの</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎週木曜</div></div></li></ul>
+      </div><!-- end of .tdk-swiper-wrap -->   
+      <button class="tdk-swiper-next btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-right"></i></button>
+    </div><!-- end of .tdk-swiper -->
+  </div>
+
+
+</div>
+</section>
+
+
+
+<!-- ************************************************** 
+本をさがす（※日英で書き分け）
+ ************************************************** -->
+<section>
+
+<!-- ========== JA ========== -->
+<div class="row">
+  <div class="col-12">
+    <h1 class="h15"><ruby>本<rt>ほん</rt></ruby>をさがす</h1>
+  </div>
+</div>
+<ul class="row large-gutters list-unstyled lh-2 mb-0">
+
+  <!-- ◆レベル別読みもの -->
+  <li class="col-12 col-lg-6 mb-3">
+    <a class="d-flex flex-column text-decoration-none c-333" href="https://tadoku.org/japanese/graded-readers/">
+      <picture>
+        <source
+          media="(max-width: 575px)"
+          srcset="https://tadoku.org/japanese/wp-content/uploads/top-heroimg_v2_small.webp"
+        >
+        <img
+          src="https://tadoku.org/japanese/wp-content/uploads/top-heroimg_v2.webp"
+          alt=""
+          decoding="async"
+          loading="lazy"
+          width="1600" height="900"
+        >
+      </picture>
+      <h2 class="fs-1125rem ff-rgothic py-1 my-2">
+        <ruby>学習者<rt>がくしゅうしゃ</rt></ruby><ruby>向<rt>む</rt></ruby>け<span class="d-inline-block">レベル<ruby>別<rt>べつ</rt></ruby><ruby>読<rt>よ</rt></ruby>みもの</span>
+      </h2>
+      <p class="fs-0875rem">
+        やさしいレベルから<ruby>順<rt>じゅん</rt></ruby>に<ruby>読<rt>よ</rt></ruby>むことができる<ruby>多読<rt>たどく</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの——ふりがな・<ruby>挿絵<rt>さしえ</rt></ruby>・<ruby>朗読<rt>ろうどく</rt></ruby><ruby>音声<rt>おんせい</rt></ruby><ruby>付<rt>つ</rt></ruby>き。<ruby>全<rt>ぜん</rt></ruby>3シリーズ150<ruby>冊<rt>さつ</rt></ruby>
+      </p>
+    </a>
+  </li>
+
+  <!-- ◆一般の読みもの -->
+  <li class="col-12 col-lg-6 mb-3">
+    <a class="d-flex flex-column text-decoration-none c-333" href="https://tadoku.org/japanese/tadoku-friendly-books/">
+      <picture>
+        <source
+          media="(max-width: 575px)"
+          srcset="https://tadoku.org/japanese/wp-content/uploads/tadoku-friendly-books-02_small.webp"
+        >
+        <img
+          src="https://tadoku.org/japanese/wp-content/uploads/tadoku-friendly-books-02.webp"
+          alt=""
+          decoding="async"
+          loading="lazy"
+          width="1600" height="900"
+        >
+      </picture>
+      <h2 class="fs-1125rem ff-rgothic py-1 my-2">
+        <ruby>多読<rt>たどく</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<span class="d-inline-block"><ruby>一般<rt>いっぱん</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの</span>
+      </h2>
+      <p class="fs-0875rem">
+        <ruby>日本人<rt>にほんじん</rt></ruby><ruby>向<rt>む</rt></ruby>けに<ruby>書<rt>か</rt></ruby>かれた<ruby>読<rt>よ</rt></ruby>みものの<ruby>中<rt>なか</rt></ruby>から<ruby>多読<rt>たどく</rt></ruby>に<ruby>適<rt>てき</rt></ruby>したものを<ruby>集<rt>あつ</rt></ruby>めてレベル<ruby>分<rt>わ</rt></ruby>けしました。
+      </p>
+    </a>
+  </li>
+
+</ul>
+<ul class="row small-gutters list-unstyled text-center fs-1rem lh-18">
+
+  <!-- ◆無料の読みもの -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/free-books">
+      <div class="">
+        <i class="bi bi-book tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの
+      </div>
+    </a>
+  </li>
+  <!-- ◆その他のレベル別読みもの -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/other-grs/">
+      <div class="">
+        <i class="bi bi-book tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        その<ruby>他<rt>た</rt></ruby>の<span class="d-inline-block">レベル<ruby>別<rt>べつ</rt></ruby><ruby>読<rt>よ</rt></ruby>みもの</span>
+      </div>
+    </a>
+  </li>
+  <!-- ◆朗読音声のダウンロード -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/audio-downloads">
+      <div class="">
+        <i class="bi bi-headphones tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>朗読<rt>ろうどく</rt></ruby><ruby>音声<rt>おんせい</rt></ruby>の<span class="d-inline-block">ダウンロード</span>
+      </div>
+    </a>
+  </li>
+  <!-- ◆本の購入 -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/to-order">
+      <div class="">
+        <i class="bi bi-cart tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>本<rt>ほん</rt></ruby>の<ruby>購入<rt>こうにゅう</rt></ruby>
+      </div>
+    </a>
+  </li>
+  <!-- ◆本の検索 -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border bgc-l4-solid c-white px-3 py-4" href="https://tadoku.org/japanese/book-search">
+      <div class="">
+        <i class="bi bi-search tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>本<rt>ほん</rt></ruby>の<ruby>検索<rt>けんさく</rt></ruby>
+      </div>
+    </a>
+  </li>
+  <!-- ◆レベル別おすすめ -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border c-l4 px-3 py-4" href="https://tadoku.org/japanese/recommended-books">
+      <div class="">
+        <i class="bi bi-heart tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        レベル<ruby>別<rt>べつ</rt></ruby>おすすめ
+      </div>
+    </a>
+  </li>
+  <!-- ◆人気の本 -->
+  <li class="col-6 col-lg-2 mb-3">
+    <a class="d-flex flex-column text-decoration-none h-100 border c-l4 px-3 py-4" href="https://tadoku.org/japanese/popular-books/">
+      <div class="">
+        <i class="bi bi-heart tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+      </div>
+      <div class="fs-iconmenu-title">
+        <ruby>人気<rt>にんき</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>
+      </div>
+    </a>
+  </li>
+
+</ul>
+
+
+</section>
+
+
+
+<!-- ==================================================
+本をつくる（※英語では表示しない）
+================================================== -->
+<section>
+<div class="row">
+  <div class="col-12">
+    <h1 class="h15"><ruby>本<rt>ほん</rt></ruby>をつくる</h1>
+  </div>
+</div>
+<div class="row xs-full-width">
+  <div class="col-12">
+    <div class="row no-gutters">
+
+      <!-- 画像 -->
+      <div class="col-12 col-xl-7 order-xl-2 bgc-l3">
+        <picture>
+          <source
+            media="(max-width: 575px)"
+            srcset="https://tadoku.org/japanese/wp-content/uploads/t0051s02-The-Taxi-on-a-Southern-Island_small.webp"
+          >
+          <img
+            src="https://tadoku.org/japanese/wp-content/uploads/t0051s02-The-Taxi-on-a-Southern-Island.webp"
+            alt=""
+            decoding="async"
+            loading="lazy"
+            width="1762" height="1250"
+          >
+        </picture>
+      </div>
+
+      <!-- 説明 -->
+      <div class="col-12 col-xl-5 bgc-l3 d-flex flex-column justify-content-center flex-fill p-xs-20 p-5">
+          <h2 class="h3 ff-rgothic">
+            <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みものをつくろう！<br>
+          </h2>
+          <p class="fs-1rem">
+            <ruby>学習者<rt>がくしゅうしゃ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しく<ruby>読<rt>よ</rt></ruby>める<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みものは、まだまだ<ruby>不足<rt>ふそく</rt></ruby>しています。<br><ruby>私<rt>わたし</rt></ruby>たちといっしょに<ruby>作<rt>つく</rt></ruby>りませんか？
+          </p>
+          <ul class="list-unstyled fs-iconmenu-title lh-1 mb-0">
+            <li class="mb-2">
+              <a class="d-flex justify-content-between align-items-center bgc-l3-solid c-white text-shadow text-decoration-none h-100 px-4 py-3" href="https://tadoku.org/japanese/for-writers/">
+                <div><ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>と<ruby>作成<rt>さくせい</rt></ruby><ruby>例<rt>れい</rt></ruby></div><i class="bi bi-chevron-right tdk-swiper-icon fs-13125rem"></i>
+              </a>
+            </li>
+            <li class="mb-2">
+              <a class="d-flex justify-content-between align-items-center bgc-l3-solid c-white text-shadow text-decoration-none h-100 px-4 py-3" href="https://tadoku.org/japanese/writers-voices/">
+                <div><ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby><ruby>体験談<rt>たいけんだん</rt></ruby></div><i class="bi bi-chevron-right tdk-swiper-icon fs-13125rem"></i>
+              </a>
+            </li>
+            <li class="mb-2">
+              <a class="d-flex justify-content-between align-items-center bgc-l3-solid c-white text-shadow text-decoration-none h-100 px-4 py-3" href="https://tadoku.org/japanese/online-courses-for-writers/">
+                <div>オンライン<ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></div><i class="bi bi-chevron-right tdk-swiper-icon fs-13125rem"></i>
+              </a>
+            </li>
+          </ul>
+      </div>
+
+    </div><!-- end of .row -->
+  </div><!-- end of .col -->
+</div><!-- end of .row.xs-full-width -->
+</section>
+
+
+
+<!-- ==================================================
+教師・支援者の方へ（※英語では表示しない）
+================================================== -->
+<section class="mb-0">
+<div class="row bgc-full bgc-l5" id="top2-event">
+  <div class="col-12">
+    <h1 class="top2-event-header h15"><ruby>教師<rt>きょうし</rt></ruby>・<ruby>支援者<rt>しえんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>へ</h1>
+
+<!-- ◆多読支援について知る -->
+    <h2 class="h4 ff-rgothic"><ruby>多読<rt>たどく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>について<ruby>知<rt>し</rt></ruby>る——</h2>
+    <div class="tdk-swiper position-relative">
+      <button class="tdk-swiper-prev btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-left"></i></button>
+      <div class="tdk-swiper-wrap overflow-hidden">
+        <ul class="tdk-swiper-content tdk-swp-x6 list-unstyled d-flex fs-0875rem lh-18 mb-0">
+
+          <!-- ◆多読の考え方 -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/for-teachers-and-supporters-01/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <i class="bi bi-bookmarks-fill tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                <ruby>多読<rt>たどく</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆実践のヒント -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/for-teachers-and-supporters-02/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <i class="bi bi-lightbulb-fill tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                <ruby>実践<rt>じっせん</rt></ruby>のヒント
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆授業風景 -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/for-teachers-and-supporters-03/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <i class="bi bi-camera-video-fill tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                <ruby>授業<rt>じゅぎょう</rt></ruby><ruby>風景<rt>ふうけい</rt></ruby>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆支援者の声 -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/for-teachers-and-supporters-04/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <i class="bi bi-quote tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                <ruby>支援者<rt>しえんしゃ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆日本語多読 上·下巻（日本語教師読本 12·13） -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/book/52262/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white" >
+                    <div class="tdk-swiper-img d-flex align-items-center h-100 p-2 mb-0">
+                      <img class="shadow2 h-70 m-0" src="https://images-na.ssl-images-amazon.com/images/P/B09WJR1JQB.09.LZZZZZZZ.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                『<ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby> <ruby>上･下巻<rt>じょう･げかん</rt></ruby>』<span class="fs-075rem">（2022）</span>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆日本語教師のための多読授業入門 -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/book/52302/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white" >
+                    <div class="tdk-swiper-img d-flex align-items-center h-100 p-2 mb-0">
+                      <img class="shadow2 h-70 m-0" src="https://tadoku.org/japanese/wp-content/uploads/tadokujugyounyuumon-thumb.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                『<ruby>日本語<rt>にほんご</rt></ruby><ruby>教師<rt>きょうし</rt></ruby>のための<ruby>多読<rt>たどく</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby>』<span class="fs-075rem">（2012）</span>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆多読のすすめ -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/book/52324/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white" >
+                    <div class="tdk-swiper-img d-flex align-items-center h-100 p-2 mb-0">
+                      <img class="shadow2 h-70 m-0" src="https://tadoku.org/japanese/wp-content/uploads/tadoku-no-susume-2009-thumb.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                『<ruby>多読<rt>たどく</rt></ruby>のすすめ』<span class="fs-075rem">（2009）</span>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆参考資料 -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/references/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <i class="bi bi-file-earmark-text-fill tdk-swiper-icon fs-iconmenu-icon" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="top2-event-title fs-iconmenu-title c-333 my-2">
+                <ruby>参考<rt>さんこう</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>
+              </div>
+            </a>
+          </li>
+
+          <!-- ◆支援者トップへ -->
+          <li class="tdk-swiper-item">
+            <a class="text-decoration-none" href="https://tadoku.org/japanese/for-teachers-and-supporters/">
+              <div class="embed-responsive embed-responsive-1by1">
+                <div class="embed-responsive-item">
+                  <div class="d-flex justify-content-center align-items-center h-100 border bgc-white c-l5" >
+                      <p class="text-center mb-0"><ruby>多読<rt>たどく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>について<br><ruby>詳<rt>くわ</rt></ruby>しくみる</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </li>
+
+        </ul>
+      </div><!-- end of .tdk-swiper-wrap -->   
+      <button class="tdk-swiper-next btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-right"></i></button>
+    </div><!-- end of .tdk-swiper -->
+
+<!-- ◆支援者の集まりに参加する -->
+    <h2 class="h4 ff-rgothic mt-4"><ruby>支援者<rt>しえんしゃ</rt></ruby>の<ruby>集<rt>あつ</rt></ruby>まりに<ruby>参加<rt>さんか</rt></ruby>する——</h2>
+    <div class="tdk-swiper position-relative">
+      <button class="tdk-swiper-prev btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-left"></i></button>
+      <div class="tdk-swiper-wrap overflow-hidden">
+
+        <!-- ショートコード -->
+        <ul class="tdk-swiper-content tdk-swp-x6 list-unstyled d-flex fs-0875rem lh-18 mb-0"><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-courses-for-supporters/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/online-courses-for-supporters-02.png" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/5（日）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/japanese/online-courses-for-writers/"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/sien-yomimonosakusei_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>読<rt>よ</rt></ruby>みもの<ruby>作成<rt>さくせい</rt></ruby><ruby>入門<rt>にゅうもん</rt></ruby><ruby>講座<rt>こうざ</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2"><span class="calendar_dates_item">2026/7/26（日）</span></div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/news/2026/04/09/20407"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/sien-otyakai_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>多読<rt>たどく</rt></ruby><ruby>支援者<rt>しえんしゃ</rt></ruby>のお<ruby>茶会<rt>ちゃかい</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">対面／Online</div><div class="tdk-swiper-free fs-075rem bgc-gray6 c-white px-2 py-1">Free</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">2026/5/17 (日)</div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/seminar/2025/06/21/17743"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/sien-seminar_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>多読<rt>たどく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>セミナー</div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">対面／Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎年8月に開催</div></div></li><li class="tdk-swiper-item"><a class="text-decoration-none" href="https://tadoku.org/seminar/2025/11/10/17998"><div class="position-relative lh-1"><figure class="tdk-swiper-img mb-2"><img class="m-0" src="https://tadoku.org/japanese/wp-content/uploads/sien-kenkyukai_small.webp" alt=""></figure></div><div class="tdk-swiper-title fs-iconmenu-title c-333 my-2"><ruby>日本語<rt>にほんご</rt></ruby><ruby>多読<rt>たどく</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>研究会<rt>けんきゅうかい</rt></ruby></div><div class="tdk-swiper-note d-flex flex-wrap align-items-center lh-1"><div class="tdk-swiper-place fs-075rem bgc-gray6 c-white px-2 py-1 mr-1">Online</div></div></a><div class="tdk-swiper-date c-888"><div class="cal-inline2">毎年12月に開催</div></div></li></ul>
+      </div><!-- end of .tdk-swiper-wrap -->   
+      <button class="tdk-swiper-next btn btn-light position-absolute fs-15rem p-2"><i class="bi bi-chevron-right"></i></button>
+    </div><!-- end of .tdk-swiper -->
+
+  </div>
+  <div class="col-12 text-center mt-3rem">
+    <a class="d-inline-block border bgc-white c-l5 fs-1rem lh-1 text-decoration-none px-4 py-3" href="https://tadoku.org/japanese/for-teachers-and-supporters/">
+      <ruby>多読<rt>たどく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>について<ruby>詳<rt>くわ</rt></ruby>しくみる <i class="bi bi-chevron-right fs-15rem tdk-swiper-icon" aria-hidden="true"></i>
+    </a>
+  </div><!-- end of .col -->
+
+</div><!-- end of .row -->
+</section>
+
+
+
+<!-- ==================================================
+寄付（※日英で書き分け）
+================================================== -->
+<section class="bgc-full bgc-shadow2">
+<div class="row justify-content-center">
+  <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-center py-4 mb-4">
+    <div class="donate-mainpic scale-12 lh-1 d-flex justify-content-center px-5 mx-5">
+      <i class="bi bi-heart d-block"  aria-hidden="true"></i>
+      <i class="bi bi-book d-block mt-15rem"  aria-hidden="true"></i>
+    </div>
+  </div>
+
+
+<!-- ========== JA ========== -->
+  <div class="col-12 col-lg-7 d-flex flex-column justify-content-center mb-4">
+    <h1 class="h2 ti-05em ff-rgothic lh-2">
+
+「<ruby>無料<rt>むりょう</rt></ruby>の<ruby>読<rt>よ</rt></ruby>みもの」を<br>
+<ruby>寄付<rt>きふ</rt></ruby>で<ruby>応援<rt>おうえん</rt></ruby>してください。
+
+    </h1>
+    <p class="fs-1rem mb-3">
+
+<ruby>世界<rt>せかい</rt></ruby><ruby>中<rt>じゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習者<rt>がくしゅうしゃ</rt></ruby>に<ruby>多読<rt>たどく</rt></ruby><ruby>向<rt>む</rt></ruby>けの<ruby>読<rt>よ</rt></ruby>みものを<ruby>届<rt>とど</rt></ruby>けるために、<br class="d-none d-xl-block"><ruby>皆<rt>みな</rt></ruby>さんからのご<ruby>支援<rt>しえん</rt></ruby>をお<ruby>待<rt>ま</rt></ruby>ちしています！
+
+    </p>
+  </div>
+  <div class="col-12 text-center mt-4">
+    <a class="d-inline-block bgc-l2 c-l2 fs-1rem lh-1 text-decoration-none px-4 py-3" href="https://tadoku.org/japanese/donate/">
+      <ruby>寄付<rt>きふ</rt></ruby>で<ruby>応援<rt>おうえん</rt></ruby>する <i class="bi bi-hearts fs-15rem tdk-swiper-icon" aria-hidden="true"></i>
+    </a>
+  </div>
+
+
+</div>
+</section>
+
+
+
+      </div><!-- .entry-content -->
+    </article><!-- #post-## -->
+  </main><!-- #main -->
+</section><!-- #primary -->
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</div><!-- #content -->
+            <div id="footer-widget">
+        <div class="container">
+        <div class="row">
+
+                    			
+           <!-- ktb-fix <div class="col-12 col-md-4 p-3"> -->
+			            <div class="col-12 p-3"><section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="row footer">
+  <div class="col-12">
+    <nav>
+
+      <div class="footer-groupe fg-langnav">
+        <ul>
+          <li><a href="https://tadoku.org/japanese/">JP</a></li>
+          <li><a href="https://tadoku.org/japanese/en/">EN</a></li>
+          <li><a class="a-disabled">CH</a></li>
+          <li><a class="a-disabled">KO</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-groupe">
+        <h3>多読について</h3>
+        <ul>
+          <li><a href="https://tadoku.org/japanese/what-is-tadoku/">はじめかた</a></li>
+          <li><a href="https://tadoku.org/japanese/voices-from-readers/">体験者の声</a></li>
+          <li><a href="https://tadoku.org/japanese/for-teachers-and-supporters/">教師・支援者の方へ</a></li>
+          <li><a href="https://tadoku.org/japanese/references/">資料</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-groupe">
+        <h3>本をさがす</h3>
+        <ul>
+          <li><a href="https://tadoku.org/japanese/graded-readers/">レベル別読みもの</a></li>
+          <li><a href="https://tadoku.org/japanese/tadoku-friendly-books/">一般の読みもの</a></li>
+          <li><a href="https://tadoku.org/japanese/audio-downloads/">朗読音声のダウンロード</a></li>
+          <li><a href="https://tadoku.org/japanese/to-order/">本の購入</a></li>
+          <li><a href="https://tadoku.org/japanese/book-search/">本の検索</a></li>
+          <li><a href="https://tadoku.org/japanese/recommended-books">レベル別おすすめ</a></li>
+          <li><a href="https://tadoku.org/japanese/popular-books/">人気の本</a></li>
+          <li><a href="https://tadoku.org/japanese/free-books/">無料で読む</a></li>
+          <li><a href="https://x.com/jpn_tadokuorg">エックスで読む</a></li>
+          <li><a href="https://www.instagram.com/jpn_tadokuorg/">インスタで読む</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-groupe">
+        <h3>本をつくる</h3>
+        <ul>
+          <li><a href="https://tadoku.org/japanese/for-writers">日本語の多読向け読みものを作ろう</a></li>
+          <li><a href="https://tadoku.org/japanese/writers-voices">読みもの作成体験談</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-groupe">
+        <h3>講座・イベント</h3>
+        <ul>
+          <li class="ti-05em"><a href="https://tadoku.org/japanese/online-japanese-tadoku-club/">【ｵﾝﾗｲﾝ】日本語多読クラブ</a></li>
+          <li class="ti-05em"><a href="https://tadoku.org/japanese/online-courses-for-supporters/">【ｵﾝﾗｲﾝ】日本語多読授業入門講座</a></li>
+          <li class="ti-05em"><a href="https://tadoku.org/japanese/online-courses-for-writers/">【ｵﾝﾗｲﾝ】読みもの作成入門講座</a></li>
+          <li><a href="https://tadoku.org/japanese/japanese-book-reading-club/">にほんごの本を読む会</a></li>
+          <li><a href="https://tadoku.org/japanese/tadoku-courses/">にほんごクラス</a></li>
+          <li><a href="https://tadoku.org/japanese/rewriting-courses/" class="ti-05em">「多読授業と読みもの作成」入門講座</a></li>
+        </ul>
+        <hr>
+        <ul>
+          <li><a href="https://tadoku.org/japanese/update-history/">更新履歴</a></li>
+          <li><a href="https://tadoku.org/japanese/privacy-policy/">個人情報の取り扱い</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-groupe fg-npo">
+        <h3>NPO多言語多読</h3>
+        <div class="fg-npo-wrap">
+        <ul class="fg-npo-aboutus">
+          <li><i class="bi bi-chevron-right"></i><a href="https://tadoku.org/japanese/about-us/">私たちについて</a></li>
+          <li><i class="bi bi-chevron-right"></i><a href="https://tadoku.org/japanese/about-us/#access">アクセス</a></li>
+          <li><i class="bi bi-chevron-right"></i><a href="https://tadoku.org/japanese/about-us/#contact">お問い合わせ</a></li>
+        </ul>
+        <ul class="fg-npo-detail">
+          <li><b>所在地：</b><br>東京都新宿区北新宿 4-17-2 中井ビル2階</li>
+          <li><b>Tel/Fax：</b><br><a href="tel:0362793973">03-6279-3973</a></li>
+          <li><b>E-mail：</b><br><a href="mailto:japanese@tadoku.org">japanese@tadoku.org</a></li>
+        </ul>
+        <ul class="fg-npo-sns">
+          <li><a href="https://www.facebook.com/tadokuorg/"><i class="bi bi-facebook"></i>FB</a></li>
+          <li><a href="https://twitter.com/tadoku_org"><i class="bi bi-twitter-x"></i>X</a></li>
+          <li><a href="https://www.instagram.com/jpn_tadokuorg/"><i class="bi bi-instagram"></i>IG</a></li>
+          <li><a href="https://tadoku.org/blog/"><i class="bi bi-rss-fill"></i>ブログ</a></li>
+          <li><a href="https://tadoku.org/"><i class="bi bi-house"></i>ウェブ<br>サイト</a></li>
+        </ul>
+        </div>
+      </div>
+
+    </nav>
+  </div><!-- end of .col -->
+</div><!-- end of .row.footer --></div></section></div>
+                                                            
+        </div>
+        </div>
+        </div>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+<!-- ktb-fix
+		<div class="container-fluid p-3 p-md-5">
+-->
+		<div class="container p-3">
+            <div class="site-info">Copyright &copy;NPO Tadoku Supporters
+				
+
+            </div><!-- close .site-info -->
+		</div>
+
+<div id="tdk-gen-door"><a href="https://tadoku.org/japanese/picsforinsta33"></a></div><!--ジェネレーター入口-->
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/japanese/*"},{"not":{"href_matches":["/japanese/wp-*.php","/japanese/wp-admin/*","/japanese/wp-content/uploads/*","/japanese/wp-content/*","/japanese/wp-content/plugins/*","/japanese/wp-content/themes/wpbootstrapstarterchild/*","/japanese/wp-content/themes/wp-bootstrap-starter/*","/japanese/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('rt').forEach(function(rt) {
+      rt.setAttribute('aria-hidden', 'true');
+    });
+  });
+  </script>
+  <script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/tadoku-book/assets/js/bundle.min.js?ver=20180611_1" id="tadoku-book-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-11-30 08:12:23+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"ja_JP"},"This contact form is placed in the wrong place.":["\u3053\u306e\u30b3\u30f3\u30bf\u30af\u30c8\u30d5\u30a9\u30fc\u30e0\u306f\u9593\u9055\u3063\u305f\u4f4d\u7f6e\u306b\u7f6e\u304b\u308c\u3066\u3044\u307e\u3059\u3002"],"Error:":["\u30a8\u30e9\u30fc:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/tadoku.org\/japanese\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6" id="contact-form-7-js"></script>
+<script type="text/javascript" id="pll_cookie_script-js-after">
+/* <![CDATA[ */
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=ja; expires=" + expirationDate.toUTCString() + "; path=/japanese/; secure; SameSite=Lax";
+			}());
+
+//# sourceURL=pll_cookie_script-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://challenges.cloudflare.com/turnstile/v0/api.js" id="cloudflare-turnstile-js" data-wp-strategy="async"></script>
+<script type="text/javascript" id="cloudflare-turnstile-js-after">
+/* <![CDATA[ */
+document.addEventListener( 'wpcf7submit', e => turnstile.reset() );
+//# sourceURL=cloudflare-turnstile-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/themes/wpbootstrapstarterchild/inc/assets/js/tdk-swiper.js?ver=1.0.0" id="tdk-swiper-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/themes/wp-bootstrap-starter/inc/assets/js/popper.min.js?ver=6.9.4" id="wp-bootstrap-starter-popper-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/themes/wp-bootstrap-starter/inc/assets/js/bootstrap.min.js?ver=6.9.4" id="wp-bootstrap-starter-bootstrapjs-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/themes/wp-bootstrap-starter/inc/assets/js/theme-script.js?ver=6.9.4" id="wp-bootstrap-starter-themejs-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/themes/wp-bootstrap-starter/inc/assets/js/skip-link-focus-fix.js?ver=20151215" id="wp-bootstrap-starter-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-0310812e6aa65ef3c958.js" id="googlesitekit-events-provider-contact-form-7-js" defer></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.js?ver=4.0.5" id="simcal-qtip-js"></script>
+<script type="text/javascript" src="https://tadoku.org/japanese/wp-content/plugins/google-calendar-events/assets/generated/vendor/imagesloaded.pkgd.min.js?ver=4.0.5" id="simplecalendar-imagesloaded-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://tadoku.org/japanese/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://tadoku.org/japanese/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.596 seconds, on 2026-07-03 @ 1:15 PM -->

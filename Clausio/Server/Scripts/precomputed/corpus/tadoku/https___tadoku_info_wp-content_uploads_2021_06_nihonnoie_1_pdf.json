@@ -1,5 +1,5 @@
 {
-  "target_level_requested": "N5",
+  "target_level_requested": "N4",
   "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "静岡県熱海市で大規模",
-      "furigana": "しずおかけんあたみしでだいきぼ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "3匹の",
+      "furigana": "さんひきの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "な土石流が発生してから5年となる3日、",
-      "furigana": "などせきりゅうがはっせいしてからごねんとなるみっか、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "子ブタは",
+      "furigana": "こぶたは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "28人が犠牲となった伊豆山地区で追悼式が開かれ、",
-      "furigana": "にはちにんがぎせいとなったいずやまちくでついとうしきがひらかれ、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "３つの",
+      "furigana": "みっつの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "遺族たちが祈りを",
-      "furigana": "いぞくたちがいのりを",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "家を",
+      "furigana": "いえを",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ささげました。",
-      "furigana": "ささげました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "作りました。",
+      "furigana": "つくりました。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 6,
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "渋谷区の",
-      "furigana": "しぶやくの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "一匹目の子ブタは",
+      "furigana": "いちひきめのこぶたは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "マンション",
-      "furigana": "まんしょん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "わらで家を",
+      "furigana": "わらでいえを",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "建設東京",
-      "furigana": "けんせつとうきょう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "作りましたが、",
+      "furigana": "つくりましたが、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "地裁“工事の",
-      "furigana": "ちさいきごうこうじの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "わらの家はオオカミに",
+      "furigana": "わらのいえはおおかみに",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "停止を”判断。",
-      "furigana": "ていしをきごうはんだん。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "「フーッ」と",
+      "furigana": "きごうふーっきごうと",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 11,
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "能登半島地震",
-      "furigana": "のとはんとうじしん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "二匹目の子ブタは",
+      "furigana": "にひきめのこぶたは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "災害関連死",
-      "furigana": "さいがいかんれんし",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "木で家を作りましたが、",
+      "furigana": "きでいえをつくりましたが、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "1人答申",
-      "furigana": "ひとりとうしん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "木の家は",
+      "furigana": "きのいえは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "認定なら死者",
-      "furigana": "にんていならししゃ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "オオカミに燃やさ",
+      "furigana": "おおかみにもやさ",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "744人に。",
-      "furigana": "ななよんよんにんに。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "れました。",
+      "furigana": "れました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "災害伝承",
-      "furigana": "さいがいでんしょう",
+      "clause_text": "三匹",
+      "furigana": "さんひき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "記憶や教訓を",
-      "furigana": "きおくやきょうくんを",
+      "clause_text": "目の",
+      "furigana": "めの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "防災に",
-      "furigana": "ぼうさいに",
+      "clause_text": "子ブタは",
+      "furigana": "こぶたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "生かすため",
-      "furigana": "いかすため",
+      "clause_text": "れんがで家を",
+      "furigana": "れんがでいえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "に。",
-      "furigana": "に。",
+      "clause_text": "作りました。",
+      "furigana": "つくりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "東京渋谷区",
-      "furigana": "とうきょうしぶやく",
+      "clause_text": "家を作るのに",
+      "furigana": "いえをつくるのに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ポイ捨てに",
-      "furigana": "ぽいすてに",
+      "clause_text": "時間が",
+      "furigana": "じかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "過料開始から",
-      "furigana": "かりょうかいしから",
+      "clause_text": "かかりましたが、",
+      "furigana": "かかりましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "1か月で324",
-      "furigana": "いちかげつでさんによん",
+      "clause_text": "丈夫な家",
+      "furigana": "じょうぶないえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,19 +285,19 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "件。",
-      "furigana": "けん。",
+      "clause_text": "ができました。",
+      "furigana": "ができました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
-    "source": "nhk_general",
-    "topic_id": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
-    "safe_topic_id": "http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html",
-    "corpus_json_id": "nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html",
-    "corpus_json_path": "precomputed/corpus/nhk_general/http___www3_nhk_or_jp_news_html_20260703_k10015167461000_html.json",
-    "title": "28人犠牲の熱海土石流から5年 被災地で追悼式",
-    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_1.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_1_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_1_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_1_pdf.json",
+    "title": "「日本の家」 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_1.pdf",
     "file_path": null
   }
 }
