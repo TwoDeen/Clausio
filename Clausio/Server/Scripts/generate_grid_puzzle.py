@@ -15,7 +15,6 @@ except ImportError as e:
     )
     sys.exit(1)
 
-
 MAX_SUDACHI_BYTES = 45_000
 LEVEL_HIERARCHY = {"N5": 1, "N4": 2, "N3": 3, "N2": 4, "N1": 5}
 REVERSE_HIERARCHY = {1: "N5", 2: "N4", 3: "N3", 4: "N2", 5: "N1"}
@@ -167,23 +166,73 @@ def _safe_detect_level(doc) -> str:
         return "N5"
 
 
-def _normalize_clauses(sentence_text: str) -> List[str]:
+def _clauses_reconstruct_sentence(sentence_text: str, clauses: List[str]) -> bool:
+    """Self-validation: concatenating the clauses in order must reproduce
+    the original sentence text exactly, character for character."""
+    reconstructed = "".join(clauses)
+    return reconstructed == sentence_text
+
+
+def _decompose_clauses_strict(sentence_text: str) -> Optional[List[str]]:
+    """Returns clauses only if the sentence decomposes into exactly 5
+    non-empty clauses AND those clauses concatenate back into the exact
+    original sentence text. Returns None otherwise (no truncation, no
+    padding, no silent mismatch)."""
     try:
         clauses = decompose_into_clauses_fallback(sentence_text)
     except Exception:
         clauses = []
 
     if not clauses:
-        clauses = [sentence_text]
+        return None
 
-    clauses = clauses[:5]
-    while len(clauses) < 5:
-        clauses.append("")
+    clauses = [c for c in clauses if c and c.strip()]
+    if len(clauses) != 5:
+        return None
+
+    if not _clauses_reconstruct_sentence(sentence_text, clauses):
+        print(
+            f" [REJECT] Clause concatenation mismatch for sentence: "
+            f"{sentence_text[:40]}...",
+            file=sys.stderr,
+        )
+        return None
 
     return clauses
 
 
-def _clause_bounds_from_sentence(sentence_text: str, clauses: List[str]) -> List[tuple[int, int]]:
+def _find_valid_five_sentence_window(
+    sentences: List[str],
+) -> tuple:
+    """Slides a 5-sentence window across `sentences` and returns the first
+    window where every sentence decomposes into exactly 5 clauses AND each
+    sentence's clauses reconstruct that sentence exactly. If a window
+    contains any sentence that fails either check, that window is rejected
+    entirely and the search moves to the next window."""
+    n = len(sentences)
+
+    for start in range(0, max(n - 4, 0)):
+        window = sentences[start:start + 5]
+        clause_lists = []
+        window_is_valid = True
+
+        for sentence_text in window:
+            clauses = _decompose_clauses_strict(sentence_text)
+            if clauses is None:
+                window_is_valid = False
+                break
+            clause_lists.append(clauses)
+
+        if window_is_valid:
+            return window, clause_lists
+
+    raise ValueError(
+        "No 5-sentence window found where every sentence has exactly 5 "
+        "clauses that reconstruct the original sentence exactly."
+    )
+
+
+def _clause_bounds_from_sentence(sentence_text: str, clauses: List[str]) -> List[tuple]:
     bounds = []
     cursor = 0
 
@@ -306,16 +355,13 @@ def _select_five_sentences_from_text(raw_content: str) -> List[str]:
 
     filtered_sentences = [s for s in safe_sentences if len(s) >= 8]
 
-    #selected_sentences = filtered_sentences[:5]
-    #while len(selected_sentences) < 5:
-    #    selected_sentences.append("立派な一軒の西洋造りの家がありました。")
+    if len(filtered_sentences) < 5:
+        raise ValueError(
+            f"Only found {len(filtered_sentences)} usable sentences; need at least 5."
+        )
 
-    selected_sentences = filtered_sentences[:5]
-    if len(selected_sentences) < 5:
-       raise ValueError(
-           f"Only found {len(selected_sentences)} usable sentences; need 5."
-       )
-    return selected_sentences
+    window, _ = _find_valid_five_sentence_window(filtered_sentences)
+    return window
 
 
 def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> dict:
@@ -328,7 +374,6 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
     with open(raw_txt_path, "r", encoding="utf-8") as f:
         raw_content = f.read()
 
-    #selected_sentences = _select_five_sentences_from_text(raw_content)
     try:
         selected_sentences = _select_five_sentences_from_text(raw_content)
     except ValueError as e:
@@ -361,7 +406,16 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
         if current_weight > highest_weight_encountered:
             highest_weight_encountered = current_weight
 
-        clauses = _normalize_clauses(sentence_text)
+        clauses = _decompose_clauses_strict(sentence_text)
+        if clauses is None:
+            print(f" [ERR] Row {sentence_id} lost its validated 5-clause structure unexpectedly, skipping.")
+            continue
+
+        # Final defensive self-check before writing to the grid.
+        if not _clauses_reconstruct_sentence(sentence_text, clauses):
+            print(f" [ERR] Row {sentence_id} clauses no longer reconstruct sentence exactly, skipping.")
+            continue
+
         bounds = _clause_bounds_from_sentence(sentence_text, clauses)
 
         print(f" -> Line #{sentence_id} sliced into 5 game puzzle matrix columns.")
@@ -383,6 +437,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
                 "furigana": kana_reading,
                 "sentence_individual_grammar_level": detected_level,
             }
+
             puzzle_grid.append(clause_node)
 
     game_payload = {
@@ -410,7 +465,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
 
 
 def build_puzzle_from_news_tokens(
-    five_sentences_list: list,
+    sentences_list: list,
     furigana_dict: dict,
     target_level: str,
 ) -> dict:
@@ -420,16 +475,13 @@ def build_puzzle_from_news_tokens(
 
     highest_weight_encountered = 1
 
+    all_sentences = [s for s in sentences_list if s and s.strip()]
+    if len(all_sentences) < 5:
+        raise ValueError(
+            f"Only received {len(all_sentences)} sentences; need at least 5."
+        )
 
-    normalized_sentences = list(five_sentences_list[:5])
-    if len(normalized_sentences) < 5:
-      raise ValueError(
-          f"Only received {len(normalized_sentences)} news sentences; need 5."
-      )
-
-    #normalized_sentences = list(five_sentences_list[:5])
-    #while len(normalized_sentences) < 5:
-    #    normalized_sentences.append("")
+    normalized_sentences, clause_lists = _find_valid_five_sentence_window(all_sentences)
 
     for row_idx, sentence_text in enumerate(normalized_sentences):
         sentence_id = row_idx + 1
@@ -455,7 +507,14 @@ def build_puzzle_from_news_tokens(
         if current_weight > highest_weight_encountered:
             highest_weight_encountered = current_weight
 
-        clauses = _normalize_clauses(sentence_text)
+        clauses = clause_lists[row_idx]
+
+        # Final defensive self-check before writing to the grid.
+        if not _clauses_reconstruct_sentence(sentence_text, clauses):
+            raise ValueError(
+                f"Clause concatenation mismatch for sentence {sentence_id}: "
+                f"{sentence_text[:40]}..."
+            )
 
         for col_idx, clause_text in enumerate(clauses):
             clause_furigana = _news_clause_furigana(clause_text, furigana_dict or {}, nlp)
@@ -471,6 +530,7 @@ def build_puzzle_from_news_tokens(
                 "furigana": clause_furigana,
                 "sentence_individual_grammar_level": detected_level,
             }
+
             puzzle_grid.append(clause_node)
 
     game_payload = {

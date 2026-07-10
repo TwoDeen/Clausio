@@ -2,33 +2,24 @@
   "tadoku": {
     "N4": [
       {
-        "id": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_1.pdf",
-        "title": "「日本の家」 - なし",
-        "link": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_1.pdf",
+        "id": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_2.pdf",
+        "title": "「バイクと社会」 - なし",
+        "link": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_2.pdf",
         "detected_level": "N4",
         "target_level": "N4",
-        "safe_id": "https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_1_pdf",
-        "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_1_pdf.json"
-      },
-      {
-        "id": "https://tadoku.info/wp-content/uploads/2021/06/hinkonkaranodakkyaku_4.pdf",
-        "title": "「貧困からの脱却（ひんこんからのだっきゃく）」 - なし",
-        "link": "https://tadoku.info/wp-content/uploads/2021/06/hinkonkaranodakkyaku_4.pdf",
-        "detected_level": "N4",
-        "target_level": "N4",
-        "safe_id": "https___tadoku_info_wp-content_uploads_2021_06_hinkonkaranodakkyaku_4_pdf",
-        "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_hinkonkaranodakkyaku_4_pdf.json"
+        "safe_id": "https___tadoku_info_wp-content_uploads_2021_06_baikutoshakai_2_pdf",
+        "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_baikutoshakai_2_pdf.json"
       }
     ],
-    "N5": [
+    "N3": [
       {
-        "id": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_5.pdf",
-        "title": "「バイクと社会」 - なし",
-        "link": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_5.pdf",
-        "detected_level": "N5",
+        "id": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_2.pdf",
+        "title": "「日本の家」 - なし",
+        "link": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_2.pdf",
+        "detected_level": "N3",
         "target_level": "N4",
-        "safe_id": "https___tadoku_info_wp-content_uploads_2021_06_baikutoshakai_5_pdf",
-        "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_baikutoshakai_5_pdf.json"
+        "safe_id": "https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_2_pdf",
+        "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_2_pdf.json"
       }
     ]
   }

@@ -282,7 +282,7 @@ def precompute_all_corpora(
                         continue
 
                     payload = build_puzzle_from_news_tokens(
-                        item.sentences[:5],
+                        item.sentences,
                         item.furigana,
                         target_level,
                     )
