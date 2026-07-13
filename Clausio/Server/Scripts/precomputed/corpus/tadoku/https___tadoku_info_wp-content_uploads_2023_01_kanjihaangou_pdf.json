@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "私はアメリカ人の",
+      "furigana": "わたくしはあめりかじんの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "仕事仲間と出張で韓国の",
+      "furigana": "しごとなかまとしゅっちょうでかんこくの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "オサン市という",
+      "furigana": "おさんしという",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "ところに",
+      "furigana": "ところに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "行きました。",
+      "furigana": "いきました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "オサン市は",
+      "furigana": "おさんしは",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ソウル市から",
+      "furigana": "そうるしから",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "南へ50",
+      "furigana": "みなみへごれい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "キロぐらいの",
+      "furigana": "きろぐらいの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ところです。",
+      "furigana": "ところです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "韓国に行く",
+      "furigana": "かんこくにいく",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "時、たいていの",
+      "furigana": "とき、たいていの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "人はソウル",
+      "furigana": "ひとはそうる",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "市から入国",
+      "furigana": "しからにゅうこく",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "します。",
+      "furigana": "します。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "でも、",
+      "furigana": "でも、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "私は東京にある米軍",
+      "furigana": "わたくしはとうきょうにあるべいぐん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "基地で働いていたので、",
+      "furigana": "きちではたらいていたので、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "そこからオサン市にある米軍",
+      "furigana": "そこからおさんしにあるべいぐん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "基地まで飛行機で行きました。",
+      "furigana": "きちまでひこうきでいきました。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "オサン市は",
+      "furigana": "おさんしは",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "楽しかったですが、",
+      "furigana": "たのしかったですが、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "やはり",
+      "furigana": "やはり",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "「韓国に来たら、ソウルにも行きたい」と",
+      "furigana": "きごうかんこくにきたら、そうるにもいきたいきごうと",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "思いました。",
+      "furigana": "おもいました。",
+      "sentence_individual_grammar_level": "N4"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2023/01/kanjihaangou.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2023_01_kanjihaangou_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2023_01_kanjihaangou_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2023_01_kanjihaangou_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2023/01/kanjihaangou.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2023/01/kanjihaangou.pdf",
+    "author": "Mami TANAKA",
+    "article_date": "2022.12",
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:30:35"
+  }
+}

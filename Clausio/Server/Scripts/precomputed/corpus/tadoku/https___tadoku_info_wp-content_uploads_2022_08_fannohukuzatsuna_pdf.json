@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttps://",
+      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "tadoku.info1ファンの",
+      "furigana": "tadoku．いんふぉいちふぁんの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "複雑な気持ちわたしは",
+      "furigana": "ふくざつなきもちわたしは",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "バスケットボールが",
+      "furigana": "ばすけっとぼーるが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "好きだ。",
+      "furigana": "すきだ。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "子どもの頃から",
+      "furigana": "こどものころから",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "バスケをやっていて、",
+      "furigana": "ばすけをやっていて、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "今でもときどきやるし、",
+      "furigana": "いまでもときどきやるし、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "試合をテレビやネットで見るのも",
+      "furigana": "しあいをてれびやねっとでみるのも",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "大好きだ。",
+      "furigana": "だいすきだ。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "コロナ・ウィルスのパンデミックが",
+      "furigana": "ころな・うぃるすのぱんでみっくが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "起こる前は、よく試合",
+      "furigana": "おこるまえは、よくしあい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "会場にも行って、",
+      "furigana": "かいじょうにもいって、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "好きなチームを応援",
+      "furigana": "すきなちーむをおうえん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "していた。",
+      "furigana": "していた。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "学生たちの試合から、",
+      "furigana": "がくせいたちのしあいから、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "プロ・チームの試合まで、",
+      "furigana": "ぷろ・ちーむのしあいまで、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "バスケの試合であれ",
+      "furigana": "ばすけのしあいであれ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ば何でも",
+      "furigana": "ばなんでも",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "好きだ。",
+      "furigana": "すきだ。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "毎月発売さ",
+      "furigana": "まいつきはつばいさ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "れるバスケ雑誌は",
+      "furigana": "れるばすけざっしは",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "30年以上",
+      "furigana": "さんれいねんいじょう",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "欠かさず",
+      "furigana": "かかさず",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "読んでいる。",
+      "furigana": "よんでいる。",
+      "sentence_individual_grammar_level": "N4"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2022/08/fannohukuzatsuna.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2022_08_fannohukuzatsuna_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2022_08_fannohukuzatsuna_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2022_08_fannohukuzatsuna_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2022/08/fannohukuzatsuna.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2022/08/fannohukuzatsuna.pdf",
+    "author": null,
+    "article_date": null,
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:31:01"
+  }
+}

@@ -12,6 +12,7 @@ class GameViewModel: ObservableObject {
   @Published var isLearnModeOn: Bool = false
   
   @Published var didGiveUp: Bool = false
+  @Published var corpusRef: CorpusReference? = nil
   
   private var pristineSolutionOrder: [Tile] = []
   private var initialScrambledState: [Tile] = []
@@ -21,6 +22,7 @@ class GameViewModel: ObservableObject {
   func loadPuzzleFromPayload(_ payload: GamePayload) {
     self.isLoading = true
     self.errorMessage = nil
+    self.corpusRef = payload.corpus_ref
     self.initializeGameGrid(from: payload.grid_matrix)
     self.isLoading = false
   }

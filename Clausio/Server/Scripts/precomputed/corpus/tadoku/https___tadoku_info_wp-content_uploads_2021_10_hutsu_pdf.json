@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N5",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttp://",
+      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "tadoku.",
+      "furigana": "tadoku．",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "info1普通ぼくは、",
+      "furigana": "いんふぉいちふつうぼくは、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "どこにでもいる普通の",
+      "furigana": "どこにでもいるふつうの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "男の子だ。",
+      "furigana": "おとこのこだ。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "普通のお父さんと、",
+      "furigana": "ふつうのおとうさんと、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "普通のお母さんと、",
+      "furigana": "ふつうのおかあさんと、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "普通の",
+      "furigana": "ふつうの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "お姉ちゃんと",
+      "furigana": "おねえちゃんと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "暮らしている。",
+      "furigana": "くらしている。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "普通に遊んで、",
+      "furigana": "ふつうにあそんで、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "普通にごはんを",
+      "furigana": "ふつうにごはんを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "食べて、",
+      "furigana": "たべて、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "普通に",
+      "furigana": "ふつうに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "寝ている。",
+      "furigana": "ねている。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "頭",
+      "furigana": "あたま",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "は、",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "良くもない",
+      "furigana": "よくもない",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "し、",
+      "furigana": "し、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "悪くもない。",
+      "furigana": "わるくもない。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "テニスをや",
+      "furigana": "てにすをや",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "っているけど、",
+      "furigana": "っているけど、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "強くもない",
+      "furigana": "つよくもない",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "し、",
+      "furigana": "し、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "弱くもない。",
+      "furigana": "よわくもない。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2021/10/hutsu.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2021_10_hutsu_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2021_10_hutsu_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_10_hutsu_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2021/10/hutsu.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2021/10/hutsu.pdf",
+    "author": null,
+    "article_date": null,
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:31:32"
+  }
+}

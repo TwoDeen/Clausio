@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttps://",
+      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "tadoku.info1不思議",
+      "furigana": "tadoku．いんふぉいちふしぎ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "な眼鏡－子供の視点に",
+      "furigana": "なめがね-こどものしてんに",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "ついて思うこと－これはもう10年くらい前の",
+      "furigana": "ついておもうこと-これはもういちれいねんくらいまえの",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "話だ。",
+      "furigana": "はなしだ。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "友人と",
+      "furigana": "ゆうじんと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "電話で",
+      "furigana": "でんわで",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "話してい",
+      "furigana": "はなしてい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "たときの",
+      "furigana": "たときの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ことである。",
+      "furigana": "ことである。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "その友人は何年も前に結婚",
+      "furigana": "そのゆうじんはなんねんもまえにけっこん",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "していて、",
+      "furigana": "していて、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ちょうどそのころ、",
+      "furigana": "ちょうどそのころ、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "６歳の娘さんと４歳の息子さんを",
+      "furigana": "ろくさいのむすめさんとよんさいのむすこさんを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "育てていた。",
+      "furigana": "そだてていた。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "「二人も",
+      "furigana": "きごうふたりも",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "いると、",
+      "furigana": "いると、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "子育てが",
+      "furigana": "こそだてが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "大変だ",
+      "furigana": "たいへんだ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "ね。",
+      "furigana": "ね。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "」そんな",
+      "furigana": "きごうそんな",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "私の言葉に、",
+      "furigana": "わたくしのことばに、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "彼女は",
+      "furigana": "かのじょは",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "くすくすと笑い",
+      "furigana": "くすくすとわらい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "出した。",
+      "furigana": "だした。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2022/08/fushiginamegane.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2022_08_fushiginamegane_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2022_08_fushiginamegane_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2022_08_fushiginamegane_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2022/08/fushiginamegane.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2022/08/fushiginamegane.pdf",
+    "author": null,
+    "article_date": null,
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:28:38"
+  }
+}

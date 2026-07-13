@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N5",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttps://tadoku.info1ググってコピってトラブルる",
+      "furigana": "たどくのひろばhttpsきごうきごうきごうtadoku．いんふぉいちぐぐってこぴってとらぶるる",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "「この近くに、なんかいいカフェとかないかなあ」",
+      "furigana": "きごうこのちかくに、なんかいいかふぇとかないかなあきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "「ちょっと待って、いまググってみる」この会話の「ググる」は、",
+      "furigana": "きごうちょっとまって、いまぐぐってみるきごうこのかいわのきごうぐぐるきごうは、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "「Googleで調べる」という",
+      "furigana": "きごうぐーぐるでしらべるきごうという",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "意味です。",
+      "furigana": "いみです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "もちろん、",
+      "furigana": "もちろん、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "昔は",
+      "furigana": "むかしは",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "存在",
+      "furigana": "そんざい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "しなかった",
+      "furigana": "しなかった",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "動詞です。",
+      "furigana": "どうしです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "このように、",
+      "furigana": "このように、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "社会の変化に合わせて、",
+      "furigana": "しゃかいのへんかにあわせて、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "どんどん新しい",
+      "furigana": "どんどんあたらしい",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "日本語が",
+      "furigana": "にほんごが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "生まれています。",
+      "furigana": "うまれています。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "外国語を",
+      "furigana": "がいこくごを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "日本語の音や",
+      "furigana": "にほんごのおとや",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "文字で表した",
+      "furigana": "もじであらわした",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "言葉を『外来語』",
+      "furigana": "ことばをきごうがいらいごきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "と言います。",
+      "furigana": "といいます。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "Googleを",
+      "furigana": "ぐーぐるを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "「グーグル」と",
+      "furigana": "きごうぐーぐるきごうと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "表すよ",
+      "furigana": "あらわすよ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "うな",
+      "furigana": "うな",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "言葉です。",
+      "furigana": "ことばです。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2022/06/guguttekopittetoraburu.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2022_06_guguttekopittetoraburu_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2022_06_guguttekopittetoraburu_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2022_06_guguttekopittetoraburu_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2022/06/guguttekopittetoraburu.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2022/06/guguttekopittetoraburu.pdf",
+    "author": null,
+    "article_date": null,
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:29:02"
+  }
+}

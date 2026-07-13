@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttp://",
+      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "tadoku.info1靴下【問題】",
+      "furigana": "tadoku．いんふぉいちくつしたきごうもんだいきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "まっ暗な部屋の箱の中に、",
+      "furigana": "まっくらなへやのばこのなかに、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "６枚の赤い靴下と６枚の青い靴下が",
+      "furigana": "ろくまいのあかいくつしたとろくまいのあおいくつしたが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "入っています。",
+      "furigana": "はいっています。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "12枚の靴下は、",
+      "furigana": "いちにまいのくつしたは、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "赤と青には",
+      "furigana": "あかとあおには",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "全然分け",
+      "furigana": "ぜんぜんわけ",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "られてい",
+      "furigana": "られてい",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ません。",
+      "furigana": "ません。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "あなたはパーティーに",
+      "furigana": "あなたはぱーてぃーに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "出かけるので、",
+      "furigana": "でかけるので、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "その中から同じ色の",
+      "furigana": "そのなかからおなじいろの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "靴下を２枚とり出さなけれ",
+      "furigana": "くつしたをにまいとりださなけれ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "ばなりません。",
+      "furigana": "ばなりません。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "８枚取り出すのは、",
+      "furigana": "はちまいとりだすのは、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "赤か青のどちら",
+      "furigana": "あかかあおのどちら",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "かの色の",
+      "furigana": "かのいろの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "靴下でなくては",
+      "furigana": "くつしたでなくては",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "いやな場合ですね。",
+      "furigana": "いやなばあいですね。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "赤の靴下をはきたいの",
+      "furigana": "あかのくつしたをはきたいの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "に、",
+      "furigana": "に、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "６枚目まで全部",
+      "furigana": "ろくまいめまでぜんぶ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "青の靴下の場合があるか",
+      "furigana": "あおのくつしたのばあいがあるか",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "らです。",
+      "furigana": "らです。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2022/03/ronripuzzle6_kutusita.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2022_03_ronripuzzle6_kutusita_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2022_03_ronripuzzle6_kutusita_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2022_03_ronripuzzle6_kutusita_pdf.json",
+    "title": "50音順 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2022/03/ronripuzzle6_kutusita.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2022/03/ronripuzzle6_kutusita.pdf",
+    "author": null,
+    "article_date": null,
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1069,
+    "extraction_date_time": "2026.07.13 11:30:08"
+  }
+}

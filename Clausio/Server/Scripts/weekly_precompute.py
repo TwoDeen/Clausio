@@ -10,10 +10,10 @@ import os
 import shutil
 import signal
 import traceback
+from datetime import datetime
 
 from corpus_providers import list_all_providers, get_provider
 from generate_grid_puzzle import build_puzzle_json, build_puzzle_from_news_tokens
-
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PRECOMPUTED_DIR = os.path.join(BASE_DIR, "precomputed")
@@ -67,6 +67,14 @@ def _attach_corpus_ref(
     title: str | None = None,
     link: str | None = None,
     file_path: str | None = None,
+    site_url: str | None = None,
+    pdf_url: str | None = None,
+    author: str | None = None,
+    article_date: str | None = None,
+    article_type: str | None = None,
+    word_level: int | None = None,
+    sentence_level: int | None = None,
+    article_length: int | None = None,
 ) -> dict:
     payload = dict(payload)
     safe_topic_id = safe_id(topic_id)
@@ -80,6 +88,15 @@ def _attach_corpus_ref(
         "title": title,
         "link": link,
         "file_path": file_path,
+        "site_url": site_url,
+        "pdf_url": pdf_url,
+        "author": author,
+        "article_date": article_date,
+        "article_type": article_type,
+        "word_level": word_level,
+        "sentence_level": sentence_level,
+        "article_length": article_length,
+        "extraction_date_time": datetime.now().strftime("%Y.%m.%d %H:%M:%S"),
     }
     return payload
 
@@ -274,7 +291,7 @@ def precompute_all_corpora(
                     _save(corpus_path, payload)
 
                 else:
-                    print("   Fetching sentences...", flush=True)
+                    print(" Fetching sentences...", flush=True)
                     item = provider.fetch_sentences(topic)
 
                     if len(item.sentences) < 5:
@@ -286,7 +303,6 @@ def precompute_all_corpora(
                         item.furigana,
                         target_level,
                     )
-
                     if not payload:
                         raise ValueError(
                             "build_puzzle_from_news_tokens() returned empty payload"
@@ -299,28 +315,42 @@ def precompute_all_corpora(
                         title=topic.title,
                         link=topic.link,
                         file_path=None,
+                        site_url=getattr(item, "site_url", None),
+                        pdf_url=getattr(item, "pdf_url", None),
+                        author=getattr(item, "author", None),
+                        article_date=getattr(item, "article_date", None),
+                        article_type=getattr(item, "article_type", None),
+                        word_level=getattr(item, "word_level", None),
+                        sentence_level=getattr(item, "sentence_level", None),
+                        article_length=getattr(item, "article_length", None),
                     )
 
                     detected_level = _detected_level_from_payload(payload)
                     corpus_path = _corpus_json_path(source, topic.id)
                     _save(corpus_path, payload)
 
-                    if not os.path.exists(corpus_path):
-                        raise FileNotFoundError(
-                            f"Expected output file missing after save: {corpus_path}"
-                        )
+                if not os.path.exists(corpus_path):
+                    raise FileNotFoundError(
+                        f"Expected output file missing after save: {corpus_path}"
+                    )
 
-                source_entries.setdefault(detected_level, []).append(
-                    {
-                        "id": topic.id,
-                        "title": topic.title,
-                        "link": topic.link,
-                        "detected_level": detected_level,
-                        "target_level": target_level,
-                        "safe_id": safe_id(topic.id),
-                        "corpus_json_path": f"precomputed/corpus/{source}/{safe_id(topic.id)}.json",
-                    }
-                )
+                source_entries.setdefault(detected_level, []).append({
+                    "id": topic.id,
+                    "title": topic.title,
+                    "link": topic.link,
+                    "detected_level": detected_level,
+                    "target_level": target_level,
+                    "safe_id": safe_id(topic.id),
+                    "corpus_json_path": f"precomputed/corpus/{source}/{safe_id(topic.id)}.json",
+                    "site_url": payload.get("corpus_ref", {}).get("site_url"),
+                    "pdf_url": payload.get("corpus_ref", {}).get("pdf_url"),
+                    "author": payload.get("corpus_ref", {}).get("author"),
+                    "article_date": payload.get("corpus_ref", {}).get("article_date"),
+                    "article_type": payload.get("corpus_ref", {}).get("article_type"),
+                    "word_level": payload.get("corpus_ref", {}).get("word_level"),
+                    "sentence_level": payload.get("corpus_ref", {}).get("sentence_level"),
+                    "article_length": payload.get("corpus_ref", {}).get("article_length"),
+                })
 
                 print(f" [OK] target={target_level} detected={detected_level}", flush=True)
 

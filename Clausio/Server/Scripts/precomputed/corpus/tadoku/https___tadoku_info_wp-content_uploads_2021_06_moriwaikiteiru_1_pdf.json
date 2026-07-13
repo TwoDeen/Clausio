@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttp://tadoku.info1「森は生きている」",
+      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちきごうもりはいきているきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "１日本の森私たちが今いるのは、",
+      "furigana": "いちにっぽんのもりわたしたちがいまいるのは、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "長野県蓼科たてしな高原の中にある夏の別荘、",
+      "furigana": "ながのけんたてしなたてしなこうげんのなかにあるなつのべっそう、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "１５００mの森の",
+      "furigana": "いちごれいれいめーとるのもりの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "中です。",
+      "furigana": "なかです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "私は留学生たちに",
+      "furigana": "わたくしはりゅうがくせいたちに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "日本語や日本文化を",
+      "furigana": "にほんごやにっぽんぶんかを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "指導している大学教授、",
+      "furigana": "しどうしているだいがくきょうじゅ、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "ターニャは来日半年のロシアからの",
+      "furigana": "たーにゃはらいにちはんとしのろしあからの",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "留学生です。",
+      "furigana": "りゅうがくせいです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "連日３０度を超える都会のコンクリートジャングルから、",
+      "furigana": "れんじつさんれいどをこえるとかいのこんくりーとじゃんぐるから、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "私たちは僅か３時間弱でどこまでも森が",
+      "furigana": "わたしたちはわずかさんじかんじゃくでどこまでももりが",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "広がり小川のせせらぎ、",
+      "furigana": "ひろがりおがわのせせらぎ、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "小鳥たちのさえずりが聞こえる別荘地に",
+      "furigana": "ことりたちのさえずりがきこえるべっそうちに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "着いたのです。",
+      "furigana": "ついたのです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "日本の国土の６７％は森が占めている、",
+      "furigana": "にっぽんのこくどのろくななぱーせんとはもりがしめている、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "数字では知っていても、",
+      "furigana": "すうじではしっていても、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "「森に行ったことがない」",
+      "furigana": "きごうもりにいったことがないきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "という日本人の声をよく",
+      "furigana": "というにほんじんのこえをよく",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "聞きます。",
+      "furigana": "ききます。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "まして留学生たちは、",
+      "furigana": "ましてりゅうがくせいたちは、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "ほとんど都会・小都会で生活し、",
+      "furigana": "ほとんどとかい・しょうとかいでせいかつし、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "日本を理解した",
+      "furigana": "にっぽんをりかいした",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "つもりになって帰国",
+      "furigana": "つもりになってきこく",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "してしまいます。",
+      "furigana": "してしまいます。",
+      "sentence_individual_grammar_level": "N4"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2021/06/moriwaikiteiru_1.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2021_06_moriwaikiteiru_1_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2021_06_moriwaikiteiru_1_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_moriwaikiteiru_1_pdf.json",
+    "title": "「森は生きている（もりはいきている）」 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2021/06/moriwaikiteiru_1.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2021/06/moriwaikiteiru_1.pdf",
+    "author": "Mizue SASAKI",
+    "article_date": "2020.12",
+    "article_type": "story",
+    "word_level": 5,
+    "sentence_level": 4,
+    "article_length": 1320,
+    "extraction_date_time": "2026.07.13 11:33:56"
+  }
+}

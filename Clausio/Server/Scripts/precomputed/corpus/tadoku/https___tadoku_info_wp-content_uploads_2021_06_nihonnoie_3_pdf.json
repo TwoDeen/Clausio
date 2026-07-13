@@ -1,0 +1,312 @@
+{
+  "target_level_requested": "N5",
+  "highest_grammar_level_encountered": "N4",
+  "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
+  "total_grid_clauses": 25,
+  "puzzle_solution_flow": {
+    "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
+    "ordered_sentence_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "grid_matrix": [
+    {
+      "clause_id": 1,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "たどくのひろばhttp://",
+      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 2,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "tadoku.info1「日本の家」",
+      "furigana": "tadoku．いんふぉいちきごうにっぽんのいえきごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 3,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "３町家を直す人との対話２－自由に",
+      "furigana": "さんちょうやをなおすひととのたいわに-じゆうに",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 4,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "なるための町家－松田：建築の魅力はいろいろあると",
+      "furigana": "なるためのまちや-まつだきごうけんちくのみりょくはいろいろあると",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 5,
+      "grid_coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "parent_sentence_id": 1,
+      "clause_text": "思っています。",
+      "furigana": "おもっています。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 6,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "たとえば町家の改修みたいなものは、",
+      "furigana": "たとえばまちやのかいしゅうみたいなものは、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 7,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "茶道で千利休が魚のかごを花器に",
+      "furigana": "さどうでせんのりきゅうがさかなのかごをかきに",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 8,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "つかったような、もともとあるものを見直したり、",
+      "furigana": "つかったような、もともとあるものをみなおしたり、",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 9,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "あまり形をつくらないで何かを表すというような魅力が",
+      "furigana": "あまりかたちをつくらないでなんかをあらわすというようなみりょくが",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 10,
+      "grid_coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "parent_sentence_id": 2,
+      "clause_text": "あります。",
+      "furigana": "あります。",
+      "sentence_individual_grammar_level": "N4"
+    },
+    {
+      "clause_id": 11,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "もう一つは何か",
+      "furigana": "もうひとつはなんか",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 12,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "世界を",
+      "furigana": "せかいを",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 13,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "変えていけるよ",
+      "furigana": "かえていけるよ",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 14,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "うな発信力がある",
+      "furigana": "うなはっしんりょくがある",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 15,
+      "grid_coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "parent_sentence_id": 3,
+      "clause_text": "建築です。",
+      "furigana": "けんちくです。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 16,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "どっちも",
+      "furigana": "どっちも",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 17,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "魅力かなと",
+      "furigana": "みりょくかなと",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 18,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "思いますが、",
+      "furigana": "おもいますが、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 19,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "林野さんは、",
+      "furigana": "りんやさんは、",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 20,
+      "grid_coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "parent_sentence_id": 4,
+      "clause_text": "どう考えますか。",
+      "furigana": "どうかんがえますか。",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 21,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "林野",
+      "furigana": "りんや",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 22,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "：",
+      "furigana": "きごう",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 23,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "そうで",
+      "furigana": "そうで",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 24,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "す",
+      "furigana": "す",
+      "sentence_individual_grammar_level": "N5"
+    },
+    {
+      "clause_id": 25,
+      "grid_coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "parent_sentence_id": 5,
+      "clause_text": "ね。",
+      "furigana": "ね。",
+      "sentence_individual_grammar_level": "N5"
+    }
+  ],
+  "corpus_ref": {
+    "source": "tadoku",
+    "topic_id": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_3.pdf",
+    "safe_topic_id": "https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_3_pdf",
+    "corpus_json_id": "tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_3_pdf",
+    "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_nihonnoie_3_pdf.json",
+    "title": "「日本の家」 - なし",
+    "link": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_3.pdf",
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_3.pdf",
+    "author": "Makiko MATSUDA",
+    "article_date": "2020.12",
+    "article_type": "story",
+    "word_level": 3,
+    "sentence_level": 3,
+    "article_length": 1251,
+    "extraction_date_time": "2026.07.13 11:27:41"
+  }
+}

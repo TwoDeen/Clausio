@@ -1,9 +1,9 @@
 //
-//  GameContainerView.swift
-//  Clausio
+// GameContainerView.swift
+// Clausio
 //
-//  Created by Mohideen Noordeen on 12/06/2026.
-//  Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
+// Created by Mohideen Noordeen on 12/06/2026.
+// Copyright © 2026 Inforill Technologies Private Limited. All rights reserved.
 //
 
 import SwiftUI
@@ -38,6 +38,7 @@ struct GameContainerView: View {
   @State private var completedRows: Set<Int> = []
   @State private var copiedRowIndex: Int? = nil
   @State private var showingPassageSheet = false
+  @State private var showingCorpusInfoSheet = false
   
   private var tilesSolvedState: [Bool] {
     vm.tiles.map(\.isSolved)
@@ -115,6 +116,19 @@ struct GameContainerView: View {
                 .help("View entire passage")
                 
                 Spacer(minLength: 0)
+                
+                Button(action: {
+                  showingCorpusInfoSheet = true
+                }) {
+                  Image(systemName: "info.circle")
+                    .font(.title)
+                    .foregroundColor(.blue)
+                    .frame(width: 44, height: 44)
+                }
+                .accessibilityLabel("View story details")
+                .help("View story details")
+                
+                Spacer(minLength: 0)
               }
               .frame(width: 56)
               .padding(.horizontal, 8)
@@ -136,13 +150,16 @@ struct GameContainerView: View {
       .onChange(of: tilesSolvedState) { _ in
         detectNewlyCompletedRows()
       }
-    }
-    .sheet(isPresented: $showingPassageSheet) {
-      PassageSheetView(
-        rows: vm.passageRows,
-        plainPassageText: vm.fullPassageText,
-        hasFurigana: vm.hasFuriganaPassage
-      )
+      .sheet(isPresented: $showingPassageSheet) {
+        PassageSheetView(
+          rows: vm.passageRows,
+          plainPassageText: vm.fullPassageText,
+          hasFurigana: vm.hasFuriganaPassage
+        )
+      }
+      .sheet(isPresented: $showingCorpusInfoSheet) {
+        CorpusInfoSheetView(corpusRef: vm.corpusRef)
+      }
     }
   }
   
@@ -406,6 +423,16 @@ struct GameContainerView: View {
       }
       .accessibilityLabel("View entire passage")
       .help("View entire passage")
+      
+      Button(action: {
+        showingCorpusInfoSheet = true
+      }) {
+        Image(systemName: "info.circle")
+          .font(.title)
+          .foregroundColor(.blue)
+      }
+      .accessibilityLabel("View story details")
+      .help("View story details")
     }
     .padding(.bottom, 30)
   }
@@ -492,6 +519,56 @@ struct PassageSheetView: View {
           }
         }
       }
+    }
+  }
+}
+
+// MARK: - Corpus Info Sheet
+struct CorpusInfoSheetView: View {
+  let corpusRef: CorpusRef?
+  @Environment(\.dismiss) private var dismiss
+  
+  var body: some View {
+    NavigationView {
+      List {
+        infoRow("Source", corpusRef?.source)
+        infoRow("Title", corpusRef?.title)
+        infoRow("Author", corpusRef?.author)
+        infoRow("Article date", corpusRef?.article_date)
+        infoRow("Article type", corpusRef?.article_type)
+        infoRow("Word level", corpusRef?.word_level.map(String.init))
+        infoRow("Sentence level", corpusRef?.sentence_level.map(String.init))
+        infoRow("Article length", corpusRef?.article_length.map { "\($0)" })
+        infoRow("Site URL", corpusRef?.site_url)
+        infoRow("PDF URL", corpusRef?.pdf_url)
+        infoRow("Link", corpusRef?.link)
+        infoRow("Extraction time", corpusRef?.extraction_date_time)
+      }
+      .navigationTitle("Story Details")
+      .navigationBarTitleDisplayMode(.inline)
+      .toolbar {
+        ToolbarItem(placement: .navigationBarTrailing) {
+          Button("Done") {
+            dismiss()
+          }
+        }
+      }
+    }
+  }
+  
+  @ViewBuilder
+  private func infoRow(_ label: String, _ value: String?) -> some View {
+    if let value = value, !value.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+      VStack(alignment: .leading, spacing: 4) {
+        Text(label)
+          .font(.caption)
+          .foregroundColor(.secondary)
+        
+        Text(value)
+          .font(.body)
+          .textSelection(.enabled)
+      }
+      .padding(.vertical, 4)
     }
   }
 }

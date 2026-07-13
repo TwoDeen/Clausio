@@ -1,5 +1,5 @@
 {
-  "target_level_requested": "N4",
+  "target_level_requested": "N5",
   "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
@@ -298,6 +298,15 @@
     "corpus_json_path": "precomputed/corpus/tadoku/https___tadoku_info_wp-content_uploads_2021_06_baikutoshakai_2_pdf.json",
     "title": "「バイクと社会」 - なし",
     "link": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_2.pdf",
-    "file_path": null
+    "file_path": null,
+    "site_url": "https://tadoku.info/",
+    "pdf_url": "https://tadoku.info/wp-content/uploads/2021/06/baikutoshakai_2.pdf",
+    "author": "Toru YOSHIKAWA",
+    "article_date": "2020.12",
+    "article_type": "story",
+    "word_level": 2,
+    "sentence_level": 3,
+    "article_length": 1285,
+    "extraction_date_time": "2026.07.13 11:32:17"
   }
 }

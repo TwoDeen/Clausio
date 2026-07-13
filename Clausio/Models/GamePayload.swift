@@ -20,7 +20,19 @@ struct GamePayload: Decodable {
 struct CorpusReference: Decodable {
   let source: String?
   let topic_id: String?
+  let safe_topic_id: String?
+  let corpus_json_id: String?
+  let corpus_json_path: String?
   let title: String?
   let link: String?
   let file_path: String?
+  let site_url: String?
+  let pdf_url: String?
+  let author: String?
+  let article_date: String?
+  let article_type: String?
+  let word_level: Int?
+  let sentence_level: Int?
+  let article_length: Int?
+  let extraction_date_time: String?
 }
