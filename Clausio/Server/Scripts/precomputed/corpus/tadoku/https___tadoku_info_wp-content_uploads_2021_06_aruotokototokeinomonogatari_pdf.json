@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ですから、",
-      "furigana": "ですから、",
+      "clause_text": "ですか",
+      "furigana": "ですか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "床のたどくのひろば",
-      "furigana": "ゆかのたどくのひろば",
+      "clause_text": "ら、",
+      "furigana": "ら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "http://tadoku.",
-      "furigana": "えいちてぃーてぃーぴーtadoku．",
+      "clause_text": "床の上に",
+      "furigana": "ゆかのうえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2上に直接置か",
-      "furigana": "いんふぉにじょうにちょくせつおか",
+      "clause_text": "直接置か",
+      "furigana": "ちょくせつおか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:39:09"
+    "extraction_date_time": "2026.07.13 13:59:30"
   }
 }

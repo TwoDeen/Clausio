@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "たくさんの神様",
+      "furigana": "たくさんのかみさま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1たくさんの",
-      "furigana": "tadoku．いんふぉいちたくさんの",
+      "clause_text": "日本では、",
+      "furigana": "にっぽんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "神様日本では、",
-      "furigana": "かみさまにっぽんでは、",
+      "clause_text": "お正月にたくさんの",
+      "furigana": "おしょうがつにたくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "お正月にたくさんの人が神社に",
-      "furigana": "おしょうがつにたくさんのひとがじんじゃに",
+      "clause_text": "人が神社に",
+      "furigana": "ひとがじんじゃに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "赤い門",
+      "furigana": "あかいもん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "info2この赤い門は、",
-      "furigana": "いんふぉにこのあかいもんは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:33:36"
+    "extraction_date_time": "2026.07.13 14:01:41"
   }
 }

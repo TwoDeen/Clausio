@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "コックピットでの１時間その日、",
+      "furigana": "こっくぴっとでのいちじかんそのひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1",
-      "furigana": "tadoku．いんふぉいち",
+      "clause_text": "私はドイツの",
+      "furigana": "わたくしはどいつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "コックピットでの１時間その日、",
-      "furigana": "こっくぴっとでのいちじかんそのひ、",
+      "clause_text": "フランクフルトから",
+      "furigana": "ふらんくふるとから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "私はドイツのフランクフルトから東京行きの飛行機に",
-      "furigana": "わたくしはどいつのふらんくふるとからとうきょういきのひこうきに",
+      "clause_text": "東京行きの飛行機に",
+      "furigana": "とうきょういきのひこうきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:31:07"
+    "extraction_date_time": "2026.07.13 14:04:47"
   }
 }

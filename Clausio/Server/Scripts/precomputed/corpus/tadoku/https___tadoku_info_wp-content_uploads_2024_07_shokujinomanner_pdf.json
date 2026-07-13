@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "食事のマナー：香り（",
+      "furigana": "しょくじのまなーきごうかおりきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1食事のマナー：香り（https://frame-",
-      "furigana": "tadoku．いんふぉいちしょくことのまなーきごうかおりきごうhttpsきごうきごうきごうふれーむ-",
+      "clause_text": "https://frame-",
+      "furigana": "httpsきごうきごうきごうふれーむ-",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:36:50"
+    "extraction_date_time": "2026.07.13 14:00:57"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "地元愛わたしは",
+      "furigana": "じもとあいわたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1地元愛",
-      "furigana": "tadoku．いんふぉいちじもとあい",
+      "clause_text": "ベトナムの",
+      "furigana": "べとなむの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしはベトナムの",
-      "furigana": "わたしはべとなむの",
+      "clause_text": "ホーチミン市に",
+      "furigana": "ほーちみんしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ホーチミン市に住んでいたことが",
-      "furigana": "ほーちみんしにすんでいたことが",
+      "clause_text": "住んでいたことが",
+      "furigana": "すんでいたことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:32:44"
+    "extraction_date_time": "2026.07.13 14:01:21"
   }
 }

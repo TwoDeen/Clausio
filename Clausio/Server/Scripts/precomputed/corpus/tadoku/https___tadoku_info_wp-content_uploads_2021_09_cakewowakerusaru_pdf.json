@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "ケーキを分けるさる",
+      "furigana": "けーきをわけるさる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1ケーキを",
-      "furigana": "tadoku．いんふぉいちけーきを",
+      "clause_text": "むかしむかし、",
+      "furigana": "むかしむかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "分けるさるむかしむかし、",
-      "furigana": "わけるさるむかしむかし、",
+      "clause_text": "あるところにね",
+      "furigana": "あるところにね",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるところにねこが二匹",
-      "furigana": "あるところにねこがにひき",
+      "clause_text": "こが二匹",
+      "furigana": "こがにひき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "分けてみる",
+      "furigana": "わけてみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "と、かた",
+      "furigana": "と、かた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "info2分けてみる",
-      "furigana": "いんふぉにわけてみる",
+      "clause_text": "方が",
+      "furigana": "ほうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と、かた方が少し大きく",
-      "furigana": "と、かたかたがすこしおおきく",
+      "clause_text": "少し大きく",
+      "furigana": "すこしおおきく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:29:51"
+    "extraction_date_time": "2026.07.13 14:00:24"
   }
 }

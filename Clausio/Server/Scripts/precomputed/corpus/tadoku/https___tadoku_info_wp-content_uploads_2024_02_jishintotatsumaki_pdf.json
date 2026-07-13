@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "地震と竜巻これは私が",
+      "furigana": "じしんとたつまきこれはわたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1地震と",
-      "furigana": "tadoku．いんふぉいちじしんと",
+      "clause_text": "アメリカの",
+      "furigana": "あめりかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "竜巻これは私がアメリカの",
-      "furigana": "たつまきこれはわたくしがあめりかの",
+      "clause_text": "ウィスコンシンに",
+      "furigana": "うぃすこんしんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ウィスコンシンに住んでいた時の",
-      "furigana": "うぃすこんしんにすんでいたときの",
+      "clause_text": "住んでいた時の",
+      "furigana": "すんでいたときの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:27:46"
+    "extraction_date_time": "2026.07.13 14:01:49"
   }
 }

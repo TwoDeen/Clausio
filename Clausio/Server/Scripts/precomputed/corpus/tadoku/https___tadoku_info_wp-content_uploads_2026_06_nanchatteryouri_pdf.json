@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "なんちゃって料理",
+      "furigana": "なんちゃってりょうり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1",
-      "furigana": "tadoku．いんふぉいち",
+      "clause_text": "最近は海外でも",
+      "furigana": "さいきんはかいがいでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "なんちゃって料理最近は海外でも",
-      "furigana": "なんちゃってりょうりさいきんはかいがいでも",
+      "clause_text": "日本の食材が手に",
+      "furigana": "にっぽんのしょくざいがてに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の食材が手に入りやすく",
-      "furigana": "にっぽんのしょくざいがてにはいりやすく",
+      "clause_text": "入りやすく",
+      "furigana": "はいりやすく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:36:32"
+    "extraction_date_time": "2026.07.13 14:04:02"
   }
 }

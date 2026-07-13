@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "花のメッセージ",
+      "furigana": "はなのめっせーじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1花の",
-      "furigana": "tadoku．いんふぉいちげの",
+      "clause_text": "午後６時ごろ",
+      "furigana": "ごごろくじごろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "メッセージ午後６時ごろ次の日の午前８時ごろ",
-      "furigana": "めっせーじごごろくじごろつぎのひのごぜんはちじごろ",
+      "clause_text": "次の日の午前８時ごろ",
+      "furigana": "つぎのひのごぜんはちじごろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:31:21"
+    "extraction_date_time": "2026.07.13 13:59:51"
   }
 }

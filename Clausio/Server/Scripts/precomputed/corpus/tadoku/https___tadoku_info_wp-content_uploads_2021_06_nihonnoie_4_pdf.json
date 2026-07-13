@@ -301,12 +301,12 @@
     "file_path": null,
     "site_url": "https://tadoku.info/",
     "pdf_url": "https://tadoku.info/wp-content/uploads/2021/06/nihonnoie_4.pdf",
-    "author": "Makiko MATSUDA",
-    "article_date": "2020.12",
+    "author": null,
+    "article_date": null,
     "article_type": "story",
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.13 11:35:31"
+    "extraction_date_time": "2026.07.13 14:00:04"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "見えないものが見える",
+      "furigana": "みえないものがみえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1見えない",
-      "furigana": "tadoku．いんふぉいちみえない",
+      "clause_text": "カード今から、",
+      "furigana": "かーどいまから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ものが見えるカード今から、",
-      "furigana": "ものがみえるかーどいまから、",
+      "clause_text": "あるカードに関係する３",
+      "furigana": "あるかーどにかんけいするさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるカードに関係する３つの話を紹介",
-      "furigana": "あるかーどにかんけいするみっつのはなしをしょうかい",
+      "clause_text": "つの話を紹介",
+      "furigana": "つのはなしをしょうかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:37:37"
+    "extraction_date_time": "2026.07.13 14:04:45"
   }
 }

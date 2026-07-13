@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいち",
+      "clause_text": "善と悪のバイク－",
+      "furigana": "ぜんとあくのばいく-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「バイクと社会」３善と悪のバイク－",
-      "furigana": "きごうばいくとしゃかいきごうさんぜんとあくのばいく-",
+      "clause_text": "ヒーローも暴走族もなぜ",
+      "furigana": "ひーろーもぼうそうぞくもなぜ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ヒーローも暴走族もなぜ",
-      "furigana": "ひーろーもぼうそうぞくもなぜ",
+      "clause_text": "バイクに乗るのか－「仮面ライダー」",
+      "furigana": "ばいくにのるのか-きごうかめんらいだーきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "バイクに乗るのか－「仮面ライダー」というキャラクターが",
-      "furigana": "ばいくにのるのか-きごうかめんらいだーきごうというきゃらくたーが",
+      "clause_text": "というキャラクターが",
+      "furigana": "というきゃらくたーが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.13 11:29:54"
+    "extraction_date_time": "2026.07.13 14:04:56"
   }
 }

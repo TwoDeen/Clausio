@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "S市の",
+      "furigana": "sしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "空港か",
+      "furigana": "くうこうか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2S市の空港から、",
-      "furigana": "いんふぉにsしのくうこうから、",
+      "clause_text": "ら、",
+      "furigana": "ら、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:29:29"
+    "extraction_date_time": "2026.07.13 13:59:20"
   }
 }

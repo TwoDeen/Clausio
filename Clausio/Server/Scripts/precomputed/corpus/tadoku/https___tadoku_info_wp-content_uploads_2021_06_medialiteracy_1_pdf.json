@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1「メディア・リテラシー」",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちきごうめでぃあ・りてらしーきごう",
+      "clause_text": "メディアと私メディアとの",
+      "furigana": "めでぃあとわたくしめでぃあとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "１メディアと私メディアとの3つの出会いが、",
-      "furigana": "いちめでぃあとわたくしめでぃあとのみっつのであいが、",
+      "clause_text": "3つの出会いが、",
+      "furigana": "みっつのであいが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.13 11:28:05"
+    "extraction_date_time": "2026.07.13 14:00:10"
   }
 }

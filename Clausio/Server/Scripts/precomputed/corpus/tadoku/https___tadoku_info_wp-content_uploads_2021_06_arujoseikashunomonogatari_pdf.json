@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "スポットライトを浴びながら、",
-      "furigana": "すぽっとらいとをあびながら、",
+      "clause_text": "スポットライトを",
+      "furigana": "すぽっとらいとを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "口元に笑たどくのひろば",
-      "furigana": "くちもとにわらいたどくのひろば",
+      "clause_text": "浴びながら、",
+      "furigana": "あびながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "http://tadoku.",
-      "furigana": "えいちてぃーてぃーぴーtadoku．",
+      "clause_text": "口元に笑みを",
+      "furigana": "くちもとにえみを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2みを浮かべて、",
-      "furigana": "いんふぉにみをうかべて、",
+      "clause_text": "浮かべて、",
+      "furigana": "うかべて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:38:46"
+    "extraction_date_time": "2026.07.13 14:00:51"
   }
 }

@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "1992年６月９日のセヴァン・カリス-スズキ（SevernCullis-Suzuki）の",
-      "furigana": "いちきゅうきゅうにねんろくがつここのかのせゔぁん・かりす-すずききごうseverncullis-すずききごうの",
+      "clause_text": "1992年６月９日のセヴァン・カリス-スズキ（",
+      "furigana": "いちきゅうきゅうにねんろくがつここのかのせゔぁん・かりす-すずききごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "スピーチたどくのひろばhttps://tadoku.info",
-      "furigana": "すぴーちたどくのひろばhttpsきごうきごうきごうtadoku．いんふぉ",
+      "clause_text": "SevernCullis-Suzuki）の",
+      "furigana": "severncullis-すずききごうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "2だ。",
-      "furigana": "にだ。",
+      "clause_text": "スピーチだ。",
+      "furigana": "すぴーちだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:32:32"
+    "extraction_date_time": "2026.07.13 14:03:36"
   }
 }

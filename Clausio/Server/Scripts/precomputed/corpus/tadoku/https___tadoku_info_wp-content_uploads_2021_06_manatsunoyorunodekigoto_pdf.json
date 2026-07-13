@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "真夏の夜の",
+      "furigana": "まなつのよるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "出来事",
+      "furigana": "できごと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "info1真夏の",
-      "furigana": "いんふぉいちまなつの",
+      "clause_text": "あれは",
+      "furigana": "あれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "夜の出来事あれは",
-      "furigana": "よるのできごとあれは",
+      "clause_text": "数十年前の",
+      "furigana": "すうじゅうねんまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "数十年前のこと。",
-      "furigana": "すうじゅうねんまえのこと。",
+      "clause_text": "こと。",
+      "furigana": "こと。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:38:05"
+    "extraction_date_time": "2026.07.13 14:02:14"
   }
 }

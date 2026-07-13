@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1注文を",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちちゅうもんを",
+      "clause_text": "注文をまちがえる料理店◎まちがいを",
+      "furigana": "ちゅうもんをまちがえるりょうりてんきごうまちがいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "まちがえる料理店◎まちがいを",
-      "furigana": "まちがえるりょうりてんきごうまちがいを",
+      "clause_text": "受け入れる社会小国",
+      "furigana": "うけいれるしゃかいしょうこく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "受け入れる社会小国士朗（おぐにしろう）",
-      "furigana": "うけいれるしゃかいおぐにしろうきごうおぐにしろうきごう",
+      "clause_text": "士朗（おぐにしろう）",
+      "furigana": "しろうきごうおぐにしろうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:38:37"
+    "extraction_date_time": "2026.07.13 14:04:26"
   }
 }

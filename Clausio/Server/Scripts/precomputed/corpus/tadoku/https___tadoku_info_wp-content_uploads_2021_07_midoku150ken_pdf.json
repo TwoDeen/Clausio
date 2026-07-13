@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1未読150",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちみどくいちごれい",
+      "clause_text": "未読150件!?スマホ",
+      "furigana": "みどくいちごれいけん!?すまほ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "件!?スマホなどで短いメッセージを送るためのアプリを",
-      "furigana": "けん!?すまほなどでみじかいめっせーじをおくるためのあぷりを",
+      "clause_text": "などで短いメッセージを送るためのアプリを",
+      "furigana": "などでみじかいめっせーじをおくるためのあぷりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:31:11"
+    "extraction_date_time": "2026.07.13 13:59:47"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "世界のマクドナルドマクドナルドは",
+      "furigana": "せかいのまくどなるどまくどなるどは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1世界の",
-      "furigana": "tadoku．いんふぉいちせかいの",
+      "clause_text": "100以上の国と地域にあり、",
+      "furigana": "いちれいれいいじょうのくにとちいきにあり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "マクドナルドマクドナルドは100以上の国と地域にあり、",
-      "furigana": "まくどなるどまくどなるどはいちれいれいいじょうのくにとちいきにあり、",
+      "clause_text": "世界で有名な",
+      "furigana": "せかいでゆうめいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界で有名なチェーンストアのひとつだ",
-      "furigana": "せかいでゆうめいなちぇーんすとあのひとつだ",
+      "clause_text": "チェーンストアのひとつだ",
+      "furigana": "ちぇーんすとあのひとつだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:36:18"
+    "extraction_date_time": "2026.07.13 14:00:06"
   }
 }

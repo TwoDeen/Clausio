@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1「貧困からの脱却」４僕の夢は兵士になる",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちきごうひんこんからのだっきゃくきごうよんぼくのゆめはへいしになる",
+      "clause_text": "僕の夢は兵士になることだった－日本で学ぶ",
+      "furigana": "ぼくのゆめはへいしになることだった-にっぽんでまなぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことだった－日本で学ぶ難民ベントゥ－カレン族という少数民族のベントゥは、",
-      "furigana": "ことだった-にっぽんでまなぶなんみんべんとぅ-かれんぞくというしょうすうみんぞくのべんとぅは、",
+      "clause_text": "難民ベントゥ－カレン族という少数民族のベントゥは、",
+      "furigana": "なんみんべんとぅ-かれんぞくというしょうすうみんぞくのべんとぅは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.13 11:33:41"
+    "extraction_date_time": "2026.07.13 14:02:45"
   }
 }

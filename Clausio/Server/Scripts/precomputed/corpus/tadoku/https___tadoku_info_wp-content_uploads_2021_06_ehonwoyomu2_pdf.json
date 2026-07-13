@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1絵本を読む2かこさとしのSTEAM絵本－かこさとし『地球-その中をさぐろう』近年、",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちえほんをよむにかこさとしのすちーむえほん-かこさとしきごうちきゅう-そのなかをさぐろうきごうきんねん、",
+      "clause_text": "絵本を読む2かこさとしのSTEAM絵本－かこさとし『地球-その中をさぐろう』近年、",
+      "furigana": "えほんをよむにかこさとしのすちーむえほん-かこさとしきごうちきゅう-そのなかをさぐろうきごうきんねん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:29:44"
+    "extraction_date_time": "2026.07.13 14:02:42"
   }
 }

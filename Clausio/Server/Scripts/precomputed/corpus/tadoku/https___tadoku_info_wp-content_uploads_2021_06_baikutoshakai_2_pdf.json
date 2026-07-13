@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいち",
+      "clause_text": "災害とバイク－",
+      "furigana": "さいがいとばいく-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「バイクと社会」２災害とバイク－",
-      "furigana": "きごうばいくとしゃかいきごうにさいがいとばいく-",
+      "clause_text": "バイクの機動力が生きる場面－",
+      "furigana": "ばいくのきどうりょくがいきるばめん-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "バイクの機動力が生きる場面－バイクの良い点のひとつに、",
-      "furigana": "ばいくのきどうりょくがいきるばめん-ばいくのよいてんのひとつに、",
+      "clause_text": "バイクの良い点のひとつに、",
+      "furigana": "ばいくのよいてんのひとつに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.13 11:32:17"
+    "extraction_date_time": "2026.07.13 13:59:09"
   }
 }

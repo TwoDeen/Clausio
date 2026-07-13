@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "すっきりとした机の上を満足そうに眺め、",
-      "furigana": "すっきりとしたつくえのうえをまんぞくそうにながめ、",
+      "clause_text": "すっきりと",
+      "furigana": "すっきりと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "男は机の引き出しの",
-      "furigana": "おとこはつくえのひきだしの",
+      "clause_text": "した机の上を満足",
+      "furigana": "したつくえのうえをまんぞく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "中から小さなたどくのひろば",
-      "furigana": "なかからちいさなたどくのひろば",
+      "clause_text": "そうに眺め、",
+      "furigana": "そうにながめ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "https://tadoku.",
-      "furigana": "httpsきごうきごうきごうtadoku．",
+      "clause_text": "男は机の引き出しの中から",
+      "furigana": "おとこはつくえのひきだしのなかから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "info2箱を取り出す。",
-      "furigana": "いんふぉにばこをとりだす。",
+      "clause_text": "小さな箱を取り出す。",
+      "furigana": "ちいさなばこをとりだす。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:39:36"
+    "extraction_date_time": "2026.07.13 14:04:49"
   }
 }

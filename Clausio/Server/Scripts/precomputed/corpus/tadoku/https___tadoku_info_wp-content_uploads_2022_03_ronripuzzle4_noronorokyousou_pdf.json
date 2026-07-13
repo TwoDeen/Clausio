@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "のろのろ競争【問題】",
+      "furigana": "のろのろきょうそうきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1のろのろ競争【問題】アラビアの",
-      "furigana": "tadoku．いんふぉいちのろのろきょうそうきごうもんだいきごうあらびあの",
+      "clause_text": "アラビアのある大金持ちが",
+      "furigana": "あらびあのあるおおかねもちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある大金持ちが２人の息子を呼んで、",
-      "furigana": "あるおおがねもちがふたりのむすこをよんで、",
+      "clause_text": "２人の息子を呼んで、",
+      "furigana": "ふたりのむすこをよんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「砂さ漠ばくの",
-      "furigana": "きごうすなさばくばくの",
+      "clause_text": "さばく「砂漠の",
+      "furigana": "さばくきごうさばくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "勝ったほうの馬の持ち主ぬしに、",
-      "furigana": "かったほうのうまのもちぬしぬしに、",
+      "clause_text": "勝ぬしったほうの馬の持ち主に、",
+      "furigana": "かちぬしったほうのうまのもちぬしに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:28:25"
+    "extraction_date_time": "2026.07.13 14:01:05"
   }
 }

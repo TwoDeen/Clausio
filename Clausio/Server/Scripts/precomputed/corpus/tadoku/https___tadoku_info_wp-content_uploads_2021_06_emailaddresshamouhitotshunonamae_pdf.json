@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "Emailアドレスはも",
+      "furigana": "いーめーるあどれすはも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1Email",
-      "furigana": "tadoku．いんふぉいちいーめーる",
+      "clause_text": "う一つの名前大学3年生のとき、",
+      "furigana": "うひとつのなまえだいがくさんねんせいのとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "アドレスはもう一つの名前大学3年生のとき、",
-      "furigana": "あどれすはもうひとつのなまえだいがくさんねんせいのとき、",
+      "clause_text": "研究室にアメリカからの",
+      "furigana": "けんきゅうしつにあめりかからの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "研究室にアメリカからの留学生が",
-      "furigana": "けんきゅうしつにあめりかからのりゅうがくせいが",
+      "clause_text": "留学生が",
+      "furigana": "りゅうがくせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:36:10"
+    "extraction_date_time": "2026.07.13 14:00:12"
   }
 }

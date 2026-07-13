@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "６本の",
+      "furigana": "ろくぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "マッチ棒【",
+      "furigana": "まっちぼうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "info1６本のマッチ棒【",
-      "furigana": "いんふぉいちろくぽんのまっちぼうきごう",
+      "clause_text": "問題】マッチ",
+      "furigana": "もんだいきごうまっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "問題】マッチ棒が６本",
-      "furigana": "もんだいきごうまっちぼうがろくぽん",
+      "clause_text": "棒が６本",
+      "furigana": "ぼうがろくぽん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "（解答は次のページ）た",
-      "furigana": "きごうかいとうはつぎのぺーじきごうた",
+      "clause_text": "（解答は次の",
+      "furigana": "きごうかいとうはつぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どくのひろばhttp://",
-      "furigana": "どくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "ページ）【解答】４",
+      "furigana": "ぺーじきごうきごうかいとうきごうよん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "tadoku.info2【解答",
-      "furigana": "tadoku．いんふぉにきごうかいとう",
+      "clause_text": "つの正三角形を",
+      "furigana": "つのせいさんかっけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "】４つの正三角形をつくること",
-      "furigana": "きごうよんつのせいさんかっけいをつくること",
+      "clause_text": "つくること",
+      "furigana": "つくること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:31:48"
+    "extraction_date_time": "2026.07.13 14:02:00"
   }
 }

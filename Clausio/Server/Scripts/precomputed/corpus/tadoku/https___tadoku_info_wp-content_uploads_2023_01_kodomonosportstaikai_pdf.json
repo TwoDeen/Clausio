@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "子どものスポーツ大会近所の",
+      "furigana": "こどものすぽーつたいかいきんじょの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1子どもの",
-      "furigana": "tadoku．いんふぉいちこどもの",
+      "clause_text": "テニスコートでは、",
+      "furigana": "てにすこーとでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "スポーツ大会近所のテニスコートでは、",
-      "furigana": "すぽーつたいかいきんじょのてにすこーとでは、",
+      "clause_text": "毎日たくさんの子どもたちが",
+      "furigana": "まいにちたくさんのこどもたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "毎日たくさんの子どもたちがテニスの練習を",
-      "furigana": "まいにちたくさんのこどもたちがてにすのれんしゅうを",
+      "clause_text": "テニスの練習を",
+      "furigana": "てにすのれんしゅうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:33:01"
+    "extraction_date_time": "2026.07.13 14:04:11"
   }
 }

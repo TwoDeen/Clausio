@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "始め良ければ",
+      "furigana": "はじめよければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1始め良ければすべて良しこのお話は、",
-      "furigana": "tadoku．いんふぉいちはじめよければすべてよしこのおはなしは、",
+      "clause_text": "すべて良しこのお話は、",
+      "furigana": "すべてよしこのおはなしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:37:12"
+    "extraction_date_time": "2026.07.13 14:01:34"
   }
 }

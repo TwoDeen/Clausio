@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "495みなさん、",
+      "furigana": "よんきゅうごみなさん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "1から9の9つの",
+      "furigana": "いちからきゅうのここのつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "info1495みなさん、",
-      "furigana": "いんふぉいちよんきゅうごみなさん、",
+      "clause_text": "数字の中から、",
+      "furigana": "すうじのなかから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "1から9の9つの数字の中から、",
-      "furigana": "いちからきゅうのここのつのすうじのなかから、",
+      "clause_text": "好きなものを3つ紙に",
+      "furigana": "すきなものをみっつしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "好きなものを3つ紙に書いてください。",
-      "furigana": "すきなものをみっつしにかいてください。",
+      "clause_text": "書いてください。",
+      "furigana": "かいてください。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:31:54"
+    "extraction_date_time": "2026.07.13 14:04:06"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "ネコとネズミ",
+      "furigana": "ねことねずみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info",
-      "furigana": "tadoku．いんふぉ",
+      "clause_text": "【問題】",
+      "furigana": "きごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "1ネコとネズミ",
-      "furigana": "いちねことねずみ",
+      "clause_text": "５匹の",
+      "furigana": "ごひきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】５匹のネコが",
-      "furigana": "きごうもんだいきごうごひきのねこが",
+      "clause_text": "ネコが",
+      "furigana": "ねこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "（解答は次のページ）た",
-      "furigana": "きごうかいとうはつぎのぺーじきごうた",
+      "clause_text": "（解答は次の",
+      "furigana": "きごうかいとうはつぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "どくのひろばhttp://",
-      "furigana": "どくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "ページ）",
+      "furigana": "ぺーじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "tadoku.info",
-      "furigana": "tadoku．いんふぉ",
+      "clause_text": "【解答】",
+      "furigana": "きごうかいとうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "2【解答】正解は",
-      "furigana": "にきごうかいとうきごうせいかいは",
+      "clause_text": "正解は",
+      "furigana": "せいかいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:28:49"
+    "extraction_date_time": "2026.07.13 14:00:37"
   }
 }

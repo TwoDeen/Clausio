@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろば",
-      "furigana": "たどくのひろば",
+      "clause_text": "２月",
+      "furigana": "にがつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "https://",
-      "furigana": "httpsきごうきごうきごう",
+      "clause_text": "３日",
+      "furigana": "みっか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "節分夜",
+      "furigana": "せつぶんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "info1２月３日",
-      "furigana": "いんふぉいちにがつみっか",
+      "clause_text": "10時",
+      "furigana": "いちれいじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "節分夜10時過ぎ。",
-      "furigana": "せつぶんよるいちれいじすぎ。",
+      "clause_text": "過ぎ。",
+      "furigana": "すぎ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:30:28"
+    "extraction_date_time": "2026.07.13 14:03:09"
   }
 }

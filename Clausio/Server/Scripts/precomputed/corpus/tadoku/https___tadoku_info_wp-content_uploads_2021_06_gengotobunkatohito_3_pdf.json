@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいち",
+      "clause_text": "言葉は思考を",
+      "furigana": "ことばはしこうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "「言語と文化と人」３言葉は思考を",
-      "furigana": "きごうげんごとぶんかとひときごうさんことばはしこうを",
+      "clause_text": "洗練する道具である",
+      "furigana": "せんれんするどうぐである",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "洗練する道具であるこれまでの外国語教育では、",
-      "furigana": "せんれんするどうぐであるこれまでのがいこくごきょういくでは、",
+      "clause_text": "これまでの外国語教育では、",
+      "furigana": "これまでのがいこくごきょういくでは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.13 11:28:08"
+    "extraction_date_time": "2026.07.13 13:59:33"
   }
 }

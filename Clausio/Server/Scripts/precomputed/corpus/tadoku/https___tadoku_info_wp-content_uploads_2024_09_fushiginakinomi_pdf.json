@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "不思議な",
+      "furigana": "ふしぎな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1不思議",
-      "furigana": "tadoku．いんふぉいちふしぎ",
+      "clause_text": "木の実昔々、",
+      "furigana": "このみむかしむかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "な木の実昔々、",
-      "furigana": "なこのみむかしむかし、",
+      "clause_text": "山の中に",
+      "furigana": "やまのなかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "山の中に小さな村が",
-      "furigana": "やまのなかにちいさなむらが",
+      "clause_text": "小さな村が",
+      "furigana": "ちいさなむらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:35:10"
+    "extraction_date_time": "2026.07.13 14:02:16"
   }
 }

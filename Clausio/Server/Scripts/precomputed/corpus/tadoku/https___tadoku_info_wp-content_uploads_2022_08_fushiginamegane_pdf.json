@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "不思議な眼鏡－子供の視点に",
+      "furigana": "ふしぎなめがね-こどものしてんに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1不思議",
-      "furigana": "tadoku．いんふぉいちふしぎ",
+      "clause_text": "ついて思うこと－",
+      "furigana": "ついておもうこと-",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "な眼鏡－子供の視点に",
-      "furigana": "なめがね-こどものしてんに",
+      "clause_text": "これはもう",
+      "furigana": "これはもう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついて思うこと－これはもう10年くらい前の",
-      "furigana": "ついておもうこと-これはもういちれいねんくらいまえの",
+      "clause_text": "10年くらい前の",
+      "furigana": "いちれいねんくらいまえの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:28:38"
+    "extraction_date_time": "2026.07.13 14:04:41"
   }
 }

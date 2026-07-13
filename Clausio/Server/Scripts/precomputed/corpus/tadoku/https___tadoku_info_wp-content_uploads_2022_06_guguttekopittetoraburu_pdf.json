@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://tadoku.info1ググってコピってトラブルる",
-      "furigana": "たどくのひろばhttpsきごうきごうきごうtadoku．いんふぉいちぐぐってこぴってとらぶるる",
+      "clause_text": "ググってコピってトラブルる",
+      "furigana": "ぐぐってこぴってとらぶるる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:29:02"
+    "extraction_date_time": "2026.07.13 14:02:54"
   }
 }

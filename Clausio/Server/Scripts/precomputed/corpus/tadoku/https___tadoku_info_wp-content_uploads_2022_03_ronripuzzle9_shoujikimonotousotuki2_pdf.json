@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "正直者と嘘つき（",
+      "furigana": "しょうじきものとうそつききごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1正直者と",
-      "furigana": "tadoku．いんふぉいちしょうじきものと",
+      "clause_text": "２）【問題】しょうじきもの",
+      "furigana": "にきごうきごうもんだいきごうしょうじきもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つき（２）【問題】ある島には正直者",
-      "furigana": "うそつききごうにきごうきごうもんだいきごうあるしまにはしょうじきもの",
+      "clause_text": "うそある島には",
+      "furigana": "うそあるしまには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "しょうじきものか嘘うそつきのどちらかしか",
-      "furigana": "しょうじきものかうそうそつきのどちらかしか",
+      "clause_text": "正直者か嘘つきのどちらかしか",
+      "furigana": "しょうじきものかうそつきのどちらかしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:38:14"
+    "extraction_date_time": "2026.07.13 14:02:07"
   }
 }

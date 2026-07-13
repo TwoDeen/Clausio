@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "古い落書き私の",
+      "furigana": "ふるいらくがきわたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1古い落書き私の",
-      "furigana": "tadoku．いんふぉいちふるいらくがきわたくしの",
+      "clause_text": "家から実家",
+      "furigana": "いえからじっか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "家から実家までは、",
-      "furigana": "いえからじっかまでは、",
+      "clause_text": "までは、",
+      "furigana": "までは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:35:40"
+    "extraction_date_time": "2026.07.13 14:03:32"
   }
 }

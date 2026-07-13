@@ -50,90 +50,62 @@ struct GameContainerView: View {
       
       HStack(spacing: 0) {
         if isWidescreen {
-          HStack(spacing: 8) {
+          ZStack(alignment: .trailing) {
             boardGrid(useSquareLayout: false)
-              .layoutPriority(1)
+              .padding(.trailing, 54)
             
-            VStack(spacing: 0) {
+            VStack {
               Spacer(minLength: 0)
               
-              Group {
+              VStack(spacing: 12) {
                 modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
-                
-                Spacer(minLength: 0)
-                
                 modeIconToggle(icon: "brain.head.profile", isOn: $vm.isLearnModeOn)
                 
-                Spacer(minLength: 0)
-                
-                Button(action: {
+                toolbarButton(systemName: "shuffle") {
                   withAnimation(.easeInOut) {
                     vm.shuffleIncorrectTiles()
                   }
-                }) {
-                  Image(systemName: "shuffle")
-                    .font(.title)
-                    .frame(width: 44, height: 44)
                 }
                 
-                Spacer(minLength: 0)
-                
-                Button(action: {
+                toolbarButton(systemName: "arrow.clockwise.circle.fill") {
                   withAnimation(.easeInOut) {
                     vm.startNewGame()
                   }
-                }) {
-                  Image(systemName: "arrow.clockwise.circle.fill")
-                    .font(.title)
-                    .foregroundColor(.blue)
-                    .frame(width: 44, height: 44)
                 }
                 
-                Spacer(minLength: 0)
-                
-                Button(action: {
+                toolbarButton(systemName: "flag.fill") {
                   withAnimation(.spring()) {
                     vm.revealSolution()
                   }
-                }) {
-                  Image(systemName: "flag.fill")
-                    .font(.title)
-                    .foregroundColor(.blue)
-                    .frame(width: 44, height: 44)
                 }
                 
-                Spacer(minLength: 0)
-                
-                Button(action: {
+                toolbarButton(systemName: "doc.text.magnifyingglass") {
                   showingPassageSheet = true
-                }) {
-                  Image(systemName: "doc.text.magnifyingglass")
-                    .font(.title)
-                    .foregroundColor(.blue)
-                    .frame(width: 44, height: 44)
                 }
                 .accessibilityLabel("View entire passage")
                 .help("View entire passage")
                 
-                Spacer(minLength: 0)
-                
-                Button(action: {
+                toolbarButton(systemName: "info.circle") {
                   showingCorpusInfoSheet = true
-                }) {
-                  Image(systemName: "info.circle")
-                    .font(.title)
-                    .foregroundColor(.blue)
-                    .frame(width: 44, height: 44)
                 }
                 .accessibilityLabel("View story details")
                 .help("View story details")
-                
-                Spacer(minLength: 0)
               }
-              .frame(width: 56)
-              .padding(.horizontal, 8)
               .padding(.vertical, 10)
+              .padding(.horizontal, 6)
+              .background(
+                RoundedRectangle(cornerRadius: 26, style: .continuous)
+                  .fill(Color(.systemBackground).opacity(0.72))
+              )
+              .overlay(
+                RoundedRectangle(cornerRadius: 26, style: .continuous)
+                  .stroke(Color.secondary.opacity(0.08), lineWidth: 1)
+              )
+              
+              Spacer(minLength: 0)
             }
+            .frame(width: 46)
+            .padding(.trailing, 8)
           }
           .frame(width: geometry.size.width, height: geometry.size.height)
         } else {
@@ -303,33 +275,30 @@ struct GameContainerView: View {
         isOn.wrappedValue.toggle()
       }
     } label: {
-      HStack(spacing: 5) {
-        Image(systemName: icon)
-          .font(.caption.bold())
-        Text(label)
-          .font(.caption.bold())
-      }
-      .padding(.horizontal, 12)
-      .padding(.vertical, 7)
-      .frame(maxWidth: .infinity)
-      .background(
-        Capsule().fill(
-          isOn.wrappedValue
-          ? Color.accentColor.opacity(0.12)
-          : Color.secondary.opacity(0.1)
+      Image(systemName: icon)
+        .font(.system(size: 18, weight: .semibold))
+        .frame(maxWidth: .infinity)
+        .frame(height: 38)
+        .background(
+          Capsule().fill(
+            isOn.wrappedValue
+            ? Color.accentColor.opacity(0.12)
+            : Color.secondary.opacity(0.1)
+          )
         )
-      )
-      .overlay(
-        Capsule().strokeBorder(
-          isOn.wrappedValue
-          ? Color.accentColor.opacity(0.5)
-          : Color.clear,
-          lineWidth: 1
+        .overlay(
+          Capsule().strokeBorder(
+            isOn.wrappedValue
+            ? Color.accentColor.opacity(0.5)
+            : Color.clear,
+            lineWidth: 1
+          )
         )
-      )
-      .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
+        .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
     }
     .buttonStyle(.plain)
+    .accessibilityLabel(label)
+    .help(label)
   }
   
   private func modeIconToggle(icon: String, isOn: Binding<Bool>) -> some View {
@@ -339,8 +308,8 @@ struct GameContainerView: View {
       }
     } label: {
       Image(systemName: icon)
-        .font(.body)
-        .frame(width: 36, height: 36)
+        .font(.system(size: 17, weight: .medium))
+        .frame(width: 38, height: 38)
         .background(
           Circle().fill(
             isOn.wrappedValue
@@ -357,6 +326,16 @@ struct GameContainerView: View {
           )
         )
         .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
+    }
+    .buttonStyle(.plain)
+  }
+  
+  private func toolbarButton(systemName: String, action: @escaping () -> Void) -> some View {
+    Button(action: action) {
+      Image(systemName: systemName)
+        .font(.system(size: 22, weight: .medium))
+        .foregroundColor(.blue)
+        .frame(width: 38, height: 38)
     }
     .buttonStyle(.plain)
   }
@@ -525,24 +504,17 @@ struct PassageSheetView: View {
 
 // MARK: - Corpus Info Sheet
 struct CorpusInfoSheetView: View {
-  let corpusRef: CorpusRef?
+  let corpusRef: CorpusReference?
   @Environment(\.dismiss) private var dismiss
   
   var body: some View {
     NavigationView {
       List {
         infoRow("Source", corpusRef?.source)
+        infoRow("Topic ID", corpusRef?.topic_id)
         infoRow("Title", corpusRef?.title)
-        infoRow("Author", corpusRef?.author)
-        infoRow("Article date", corpusRef?.article_date)
-        infoRow("Article type", corpusRef?.article_type)
-        infoRow("Word level", corpusRef?.word_level.map(String.init))
-        infoRow("Sentence level", corpusRef?.sentence_level.map(String.init))
-        infoRow("Article length", corpusRef?.article_length.map { "\($0)" })
-        infoRow("Site URL", corpusRef?.site_url)
-        infoRow("PDF URL", corpusRef?.pdf_url)
         infoRow("Link", corpusRef?.link)
-        infoRow("Extraction time", corpusRef?.extraction_date_time)
+        infoRow("File Path", corpusRef?.file_path)
       }
       .navigationTitle("Story Details")
       .navigationBarTitleDisplayMode(.inline)

@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」たどくのひろば",
-      "furigana": "きごうたどくのひろば",
+      "clause_text": "」タイでは",
+      "furigana": "きごうたいでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "http://tadoku.",
-      "furigana": "えいちてぃーてぃーぴーtadoku．",
+      "clause_text": "上のよ",
+      "furigana": "うえのよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2タイでは",
-      "furigana": "いんふぉにたいでは",
+      "clause_text": "うな",
+      "furigana": "うな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "上のような会話が",
-      "furigana": "うえのようなかいわが",
+      "clause_text": "会話が",
+      "furigana": "かいわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:39:03"
+    "extraction_date_time": "2026.07.13 14:01:15"
   }
 }

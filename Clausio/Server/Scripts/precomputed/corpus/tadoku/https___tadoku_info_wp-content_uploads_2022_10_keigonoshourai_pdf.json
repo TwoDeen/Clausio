@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "敬語の将来－留学生の意見－",
+      "furigana": "けいごのしょうらい-りゅうがくせいのいけん-",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info",
-      "furigana": "tadoku．いんふぉ",
+      "clause_text": "日本語の敬語は、",
+      "furigana": "にほんごのけいごは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "1敬語の将来－留学生の意見－日本語の敬語は、",
-      "furigana": "いちけいごのしょうらい-りゅうがくせいのいけん-にほんごのけいごは、",
+      "clause_text": "日本語を勉強している人々からよ",
+      "furigana": "にほんごをべんきょうしているひとびとからよ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本語を勉強している人々からよく難しいと言わ",
-      "furigana": "にほんごをべんきょうしているひとびとからよくむずかしいといわ",
+      "clause_text": "く難しいと言わ",
+      "furigana": "くむずかしいといわ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:39:18"
+    "extraction_date_time": "2026.07.13 14:00:02"
   }
 }

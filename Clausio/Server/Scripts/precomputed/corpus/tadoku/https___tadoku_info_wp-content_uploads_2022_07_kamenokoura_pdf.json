@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "カメの",
-      "furigana": "かめの",
+      "clause_text": "カ・・・・",
+      "furigana": "か・・・・",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "こうらは、",
-      "furigana": "こうらは、",
+      "clause_text": "メのこうら",
+      "furigana": "めのこうら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "つぎはぎ・・・",
-      "furigana": "つぎはぎ・・・",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "・だらけです。",
-      "furigana": "・だらけです。",
+      "clause_text": "つぎはぎだらけです。",
+      "furigana": "つぎはぎだらけです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "むかし、",
+      "furigana": "むかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "あるところに",
+      "furigana": "あるところに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2むかし、",
-      "furigana": "いんふぉにむかし、",
+      "clause_text": "お母さん",
+      "furigana": "おかあさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "あるところにお母さんカメが",
-      "furigana": "あるところにおかあさんかめが",
+      "clause_text": "カメが",
+      "furigana": "かめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:36:41"
+    "extraction_date_time": "2026.07.13 14:02:52"
   }
 }

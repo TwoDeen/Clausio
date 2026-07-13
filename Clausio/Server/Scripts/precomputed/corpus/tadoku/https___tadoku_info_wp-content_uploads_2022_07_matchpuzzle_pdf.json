@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "マッチ・パズル火を",
+      "furigana": "まっち・ぱずるひを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.",
-      "furigana": "tadoku．",
+      "clause_text": "つけるのに",
+      "furigana": "つけるのに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "info1マッチ・パズル火を",
-      "furigana": "いんふぉいちまっち・ぱずるひを",
+      "clause_text": "使うマッチ",
+      "furigana": "つかうまっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "つけるのに使うマッチというものが",
-      "furigana": "つけるのにつかうまっちというものが",
+      "clause_text": "というものが",
+      "furigana": "というものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "マッチを",
-      "furigana": "まっちを",
+      "clause_text": "さんたすよ",
+      "furigana": "さんたすよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "使って、",
-      "furigana": "つかって、",
+      "clause_text": "んはごマッチを",
+      "furigana": "んはごまっちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "下の絵のよ",
-      "furigana": "したのえのよ",
+      "clause_text": "使って、",
+      "furigana": "つかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "うな式を",
-      "furigana": "うなしきを",
+      "clause_text": "下の絵のような式を",
+      "furigana": "したのえのようなしきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "３さん＋たす",
-      "furigana": "さんさんきごうたす",
+      "clause_text": "３＋",
+      "furigana": "さんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "４よん",
-      "furigana": "よんよん",
+      "clause_text": "４＝",
+      "furigana": "よん_",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "＝は５ご",
-      "furigana": "_はごご",
+      "clause_text": "５",
+      "furigana": "ご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:35:54"
+    "extraction_date_time": "2026.07.13 14:00:59"
   }
 }

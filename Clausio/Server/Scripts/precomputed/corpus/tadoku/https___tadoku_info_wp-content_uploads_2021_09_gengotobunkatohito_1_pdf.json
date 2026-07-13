@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "外国語を身につけることは",
+      "furigana": "がいこくごをみにつけることは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1「言語と文化と人」",
-      "furigana": "tadoku．いんふぉいちきごうげんごとぶんかとひときごう",
+      "clause_text": "むずかしいか日本では、",
+      "furigana": "むずかしいかにっぽんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "１外国語を身につけることはむずかしいか日本では、",
-      "furigana": "いちがいこくごをみにつけることはむずかしいかにっぽんでは、",
+      "clause_text": "中学校・高校の6年間",
+      "furigana": "ちゅうがっこう・こうこうのろくねんかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "中学校・高校の6年間あるいはそれ以上英語を勉強",
-      "furigana": "ちゅうがっこう・こうこうのろくねんかんあるいはそれいじょうえいごをべんきょう",
+      "clause_text": "あるいはそれ以上英語を勉強",
+      "furigana": "あるいはそれいじょうえいごをべんきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,12 +301,12 @@
     "file_path": null,
     "site_url": "https://tadoku.info/",
     "pdf_url": "https://tadoku.info/wp-content/uploads/2021/09/gengotobunkatohito_1.pdf",
-    "author": "Koichi NISHIGUCHI",
-    "article_date": "2020.12",
+    "author": null,
+    "article_date": null,
     "article_type": "story",
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.13 11:39:11"
+    "extraction_date_time": "2026.07.13 14:02:38"
   }
 }

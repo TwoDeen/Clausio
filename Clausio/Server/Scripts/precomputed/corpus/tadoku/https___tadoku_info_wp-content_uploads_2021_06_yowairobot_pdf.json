@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1弱い",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちよわい",
+      "clause_text": "弱いロボットゴミ箱ロボットICD-LAB（https://www.",
+      "furigana": "よわいろぼっとごみばころぼっとあいしーでぃー-らぼきごうhttpsきごうきごうきごうだぶりゅーだぶりゅーだぶりゅー．",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ロボットゴミ箱ロボットICD-LAB（https://www.icd.cs.",
-      "furigana": "ろぼっとごみばころぼっとあいしーでぃー-らぼきごうhttpsきごうきごうきごうだぶりゅーだぶりゅーだぶりゅー．あいしーでぃー．しーえす．",
+      "clause_text": "icd.cs.tut.ac.jp/index.php/portfolio",
+      "furigana": "あいしーでぃー．しーえす．tutえーしーじぇーぴーきごういんでっくす．ぴーえいちぴーきごうぽーとふぉりお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "tut.ac.jp/index.php/portfolio",
-      "furigana": "tutえーしーじぇーぴーきごういんでっくす．ぴーえいちぴーきごうぽーとふぉりお",
+      "clause_text": "/sociable-trash-box-2019",
+      "furigana": "きごうsociable-とらっしゅ-ぼっくす-にれいいちきゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "/sociable-trash-box-2019/）ここにゴミ箱の形をしたロボットが",
-      "furigana": "きごうsociable-とらっしゅ-ぼっくす-にれいいちきゅうきごうきごうここにごみばこのかたちをしたろぼっとが",
+      "clause_text": "/）ここにゴミ箱の形をしたロボットが",
+      "furigana": "きごうきごうここにごみばこのかたちをしたろぼっとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:37:17"
+    "extraction_date_time": "2026.07.13 14:04:14"
   }
 }

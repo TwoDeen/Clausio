@@ -6,7 +6,7 @@ import socket
 import urllib.request
 import urllib.robotparser
 from dataclasses import dataclass, field
-from typing import Optional, Tuple
+from typing import Optional
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -51,7 +51,6 @@ _HEADERS = {
     "User-Agent": "TadokuCorpusBot/1.0 (+contact: your-email@example.com; personal research scraper)"
 }
 
-# Use valid Tadoku category pages here.
 _CATEGORY_SEEDS = [
     "https://tadoku.info/stories/gendaishakai/",
     "https://tadoku.info/stories/jidou/",
@@ -481,12 +480,78 @@ def download_tadoku_pdf(url):
 # Processing (step 2) -- only runs on an already-downloaded local PDF
 # ---------------------------------------------------------------------------
 
+def _looks_like_tadoku_stamp_line(line):
+    line = _normalize_text(line)
+    if not line:
+        return False
+
+    patterns = [
+        r"^たどくのひろば",
+        r"^http://tadoku\.info",
+        r"^https://tadoku\.info",
+        r"^tadoku\.info",
+    ]
+    return any(re.search(pattern, line, flags=re.IGNORECASE) for pattern in patterns)
+
+
+def _remove_tadoku_corner_stamp(text):
+    if not text:
+        return text
+
+    patterns = [
+        r"たどくのひろば\s*https?://tadoku\.info",
+        r"たどくのひろば\s*http://tadoku\.info",
+        r"たどくのひろば\s*tadoku\.info",
+        r"http://tadoku\.info",
+        r"https://tadoku\.info",
+    ]
+
+    cleaned = text
+    for pattern in patterns:
+        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
+
+    return cleaned
+
+
+def _body_clip_rect(page):
+    rect = page.rect
+    top_margin = rect.height * 0.12
+    bottom_margin = rect.height * 0.12
+
+    return fitz.Rect(
+        rect.x0,
+        rect.y0 + top_margin,
+        rect.x1,
+        rect.y1 - bottom_margin
+    )
+
+
+def _clean_ocr_text(text):
+    lines = []
+    for line in text.splitlines():
+        line = _normalize_text(line)
+        if not line:
+            continue
+        if _looks_like_tadoku_stamp_line(line):
+            continue
+        if re.fullmatch(r"\d{1,3}", line):
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
 def _process_pdf_file(pdf_path):
-    full_text = ""
+    full_text_parts = []
     doc = fitz.open(pdf_path)
+
     for page in doc:
-        full_text += page.get_text("text") + "\n"
+        clip = _body_clip_rect(page)
+        page_text = page.get_text("text", clip=clip, sort=True)
+        page_text = _remove_tadoku_corner_stamp(page_text)
+        full_text_parts.append(page_text)
+
     doc.close()
+    full_text = "\n".join(full_text_parts)
 
     if len(full_text.strip()) < 10:
         try:
@@ -494,18 +559,31 @@ def _process_pdf_file(pdf_path):
             from pdf2image import convert_from_path
 
             pages = convert_from_path(pdf_path)
-            full_text = ""
-            for page in pages:
-                full_text += pytesseract.image_to_string(page, lang="jpn") + "\n"
+            ocr_parts = []
+
+            for img in pages:
+                width, height = img.size
+                top_crop = int(height * 0.12)
+                bottom_crop = int(height * 0.12)
+                cropped = img.crop((0, top_crop, width, height - bottom_crop))
+
+                text = pytesseract.image_to_string(cropped, lang="jpn")
+                text = _clean_ocr_text(text)
+                ocr_parts.append(text)
+
+            full_text = "\n".join(ocr_parts)
         except ImportError:
             return [], {}, None, None
         except Exception:
             return [], {}, None, None
 
+    full_text = _remove_tadoku_corner_stamp(full_text)
     author, article_date = _extract_author_and_date(full_text)
 
     raw_sentences = []
     text = re.sub(r"\s+", "", full_text)
+    text = _remove_tadoku_corner_stamp(text)
+
     for sentence in text.split("。"):
         sentence = sentence.strip()
         if sentence:

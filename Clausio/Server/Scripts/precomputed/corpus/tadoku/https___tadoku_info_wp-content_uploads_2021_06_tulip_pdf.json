@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "昭たどくのひろばhttp://tadoku.",
-      "furigana": "しょうたどくのひろばえいちてぃーてぃーぴーtadoku．",
+      "clause_text": "昭和５年は、",
+      "furigana": "しょうわごねんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "info2和５年は、",
-      "furigana": "いんふぉにわごねんは、",
+      "clause_text": "日本が第二次世界",
+      "furigana": "にっぽんがだいにじせかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本が第二次世界大戦に向かう、",
-      "furigana": "にっぽんがだいにじせかいたいせんにむかう、",
+      "clause_text": "大戦に向かう、",
+      "furigana": "たいせんにむかう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:28:21"
+    "extraction_date_time": "2026.07.13 14:00:14"
   }
 }

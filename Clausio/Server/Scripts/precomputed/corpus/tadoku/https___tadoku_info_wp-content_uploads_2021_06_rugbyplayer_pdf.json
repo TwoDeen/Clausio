@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "急いで車から",
+      "furigana": "いそいでくるまから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "tadoku.info2急いで車から",
-      "furigana": "tadoku．いんふぉにいそいでくるまから",
+      "clause_text": "降りて見てみると、",
+      "furigana": "おりてみてみると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "降りて見てみると、",
-      "furigana": "おりてみてみると、",
+      "clause_text": "なんと車の",
+      "furigana": "なんとくるまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "なんと車の下から人の手が",
-      "furigana": "なんとくるまのしたからひとのてが",
+      "clause_text": "下から人の手が",
+      "furigana": "したからひとのてが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 1,
     "sentence_level": 3,
     "article_length": 349,
-    "extraction_date_time": "2026.07.13 11:34:29"
+    "extraction_date_time": "2026.07.13 14:01:36"
   }
 }

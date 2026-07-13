@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttps://",
-      "furigana": "たどくのひろばhttpsきごうきごうきごう",
+      "clause_text": "雪と暮らす－",
+      "furigana": "ゆきとくらす-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1雪と",
-      "furigana": "tadoku．いんふぉいちゆきと",
+      "clause_text": "北海道の冬－",
+      "furigana": "ほっかいどうのふゆ-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "暮らす－北海道の冬－北海道では、だいたい",
-      "furigana": "くらす-ほっかいどうのふゆ-ほっかいどうでは、だいたい",
+      "clause_text": "北海道では、だいたい",
+      "furigana": "ほっかいどうでは、だいたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "雪の量は場所によって違いますが、",
-      "furigana": "ゆきのりょうはばしょによってちがいますが、",
+      "clause_text": "メートル雪の量は場所によって違いますが、",
+      "furigana": "めーとるゆきのりょうはばしょによってちがいますが、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎年５mメートルくらいの雪が",
-      "furigana": "まいとしごめーとるめーとるくらいのゆきが",
+      "clause_text": "毎年５mセンチくらいの雪が",
+      "furigana": "まいとしごめーとるせんちくらいのゆきが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのうち、",
-      "furigana": "そのうち、",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "積もるのは",
-      "furigana": "つもるのは",
+      "clause_text": "うち、",
+      "furigana": "うち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "60cm",
-      "furigana": "ろくれいしーえむ",
+      "clause_text": "積もるのは",
+      "furigana": "つもるのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "センチ",
-      "furigana": "せんち",
+      "clause_text": "60cm",
+      "furigana": "ろくれいしーえむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:38:54"
+    "extraction_date_time": "2026.07.13 14:02:49"
   }
 }

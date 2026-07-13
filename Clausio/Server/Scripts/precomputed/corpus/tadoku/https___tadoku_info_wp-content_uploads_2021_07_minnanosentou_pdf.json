@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1872年に罰としてタトゥーを",
-      "furigana": "いちはちななにねんにばつとしてたとぅーを",
+      "clause_text": "1872年に罰と",
+      "furigana": "いちはちななにねんにばつと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れることが禁止されたどくのひろばhttp://",
-      "furigana": "いれることがきんしされたどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "してタトゥーを",
+      "furigana": "してたとぅーを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "tadoku.info",
-      "furigana": "tadoku．いんふぉ",
+      "clause_text": "入れることが禁止さ",
+      "furigana": "いれることがきんしさ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "2ました。",
-      "furigana": "にました。",
+      "clause_text": "れました。",
+      "furigana": "れました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:33:20"
+    "extraction_date_time": "2026.07.13 14:00:26"
   }
 }

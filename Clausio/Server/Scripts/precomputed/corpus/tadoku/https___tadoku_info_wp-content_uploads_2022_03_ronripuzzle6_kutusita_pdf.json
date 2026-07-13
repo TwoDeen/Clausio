@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴー",
+      "clause_text": "靴下【問題】",
+      "furigana": "くつしたきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "tadoku.info1靴下【問題】",
-      "furigana": "tadoku．いんふぉいちくつしたきごうもんだいきごう",
+      "clause_text": "まっ暗な部屋の箱の中に、",
+      "furigana": "まっくらなへやのばこのなかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "まっ暗な部屋の箱の中に、",
-      "furigana": "まっくらなへやのばこのなかに、",
+      "clause_text": "６枚の赤い靴下と",
+      "furigana": "ろくまいのあかいくつしたと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "６枚の赤い靴下と６枚の青い靴下が",
-      "furigana": "ろくまいのあかいくつしたとろくまいのあおいくつしたが",
+      "clause_text": "６枚の青い靴下が",
+      "furigana": "ろくまいのあおいくつしたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:30:08"
+    "extraction_date_time": "2026.07.13 14:00:49"
   }
 }

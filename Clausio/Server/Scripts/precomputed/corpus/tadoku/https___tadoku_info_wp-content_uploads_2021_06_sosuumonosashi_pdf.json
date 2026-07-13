@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "たどくのひろばhttp://tadoku.info1素数",
-      "furigana": "たどくのひろばえいちてぃーてぃーぴーtadoku．いんふぉいちそすう",
+      "clause_text": "素数ものさしものの",
+      "furigana": "そすうものさしものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ものさしものの長さを測るときや、",
-      "furigana": "ものさしもののながさをはかるときや、",
+      "clause_text": "長さを測るときや、",
+      "furigana": "ながさをはかるときや、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 11:29:17"
+    "extraction_date_time": "2026.07.13 13:59:22"
   }
 }
