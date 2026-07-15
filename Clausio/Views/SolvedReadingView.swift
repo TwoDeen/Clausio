@@ -10,27 +10,6 @@ struct SolvedReadingView: View {
     @State private var playingRowId: Int? = nil
     @State private var appeared = false
 
-//    private var sentences: [(rowId: Int, fullText: String, englishTranslation: String?, chunks: [(text: String, furigana: String)])] {
-//        (1...5).compactMap { rowId in
-//            let rowTiles = vm.tiles
-//                .filter { $0.originalRowId == rowId }
-//                .sorted { $0.originalColumnId < $1.originalColumnId }
-//
-//            guard !rowTiles.isEmpty else { return nil }
-//
-//          let translationKeys = Array(vm.sentenceTranslationsById.keys).sorted()
-//          print("ROW ID:", rowId, "TRANSLATION KEYS:", translationKeys)
-//          print("LOOKUP RESULT:", vm.sentenceTranslationsById[rowId] ?? "nil")
-//
-//            return (
-//                rowId: rowId,
-//                fullText: rowTiles.map(\.text).joined(),
-//                englishTranslation: vm.sentenceTranslationsById[rowId],
-//                chunks: rowTiles.map { (text: $0.text, furigana: $0.furigana) }
-//            )
-//        }
-//    }
-
   private var sentences: [(rowId: Int, fullText: String, englishTranslation: String?, chunks: [(text: String, furigana: String)])] {
     (1...5).compactMap { rowId in
       let rowTiles = vm.tiles
@@ -237,26 +216,6 @@ struct SentenceCardView: View {
                     .fixedSize(horizontal: false, vertical: true)
             }
           
-//            if let englishTranslation,
-//               !englishTranslation.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-//              Text(englishTranslation)
-//                .font(.system(size: 14))
-//                .foregroundColor(.secondary)
-//                .multilineTextAlignment(.leading)
-//                .frame(maxWidth: .infinity, alignment: .leading)
-//                .fixedSize(horizontal: false, vertical: true)
-//            }
-          
-//          if let englishTranslation,
-//             !englishTranslation.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-//            Text("ENGLISH: \(englishTranslation)")
-//              .font(.system(size: 18, weight: .bold))
-//              .foregroundColor(.red)
-//              .padding(8)
-//              .frame(maxWidth: .infinity, alignment: .leading)
-//              .background(Color.yellow)
-//          }
-
             Divider().padding(.vertical, 2)
 
             ScrollView(.horizontal, showsIndicators: false) {
