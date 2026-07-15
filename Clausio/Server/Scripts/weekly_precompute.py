@@ -10,6 +10,7 @@ import os
 import shutil
 import signal
 import traceback
+import sys
 from datetime import datetime
 
 from corpus_providers import list_all_providers, get_provider
@@ -370,42 +371,16 @@ def precompute_all_corpora(
     print("\nSaved corpus_index.json and refreshed stories_index.json", flush=True)
     print("precompute_all_corpora returned", flush=True)
 
-
 if __name__ == "__main__":
     _setup_fault_handler(timeout_seconds=120)
+    exit_code = 0
     try:
         parser = argparse.ArgumentParser(description="Precompute Clausio corpus puzzles")
-        parser.add_argument(
-            "--limit-per-source",
-            type=int,
-            default=None,
-            help="Limit topics per source for testing",
-        )
-        parser.add_argument(
-            "--only-source",
-            type=str,
-            default=None,
-            help="Run only one source, e.g. nhk_general",
-        )
-        parser.add_argument(
-            "--clean",
-            action="store_true",
-            help="Delete all generated precomputed outputs before rebuilding",
-        )
-        parser.add_argument(
-            "--clean-source",
-            type=str,
-            default=None,
-            help="Delete generated outputs for one source before rebuilding it, e.g. nhk_easy",
-        )
-        parser.add_argument(
-            "--target-level",
-            type=str,
-            default="N5",
-            choices=LEVELS,
-            help="Requested generation level to pass into puzzle builders",
-        )
-
+        parser.add_argument("--limit-per-source", type=int, default=None, help="Limit topics per source for testing")
+        parser.add_argument("--only-source", type=str, default=None, help="Run only one source, e.g. nhkgeneral")
+        parser.add_argument("--clean", action="store_true", help="Delete all generated precomputed outputs before rebuilding")
+        parser.add_argument("--clean-source", type=str, default=None, help="Delete generated outputs for one source before rebuilding it, e.g. nhkeasy")
+        parser.add_argument("--target-level", type=str, default="N5", choices=LEVELS, help="Requested generation level to pass into puzzle builders")
         args = parser.parse_args()
 
         precompute_all_corpora(
@@ -415,9 +390,19 @@ if __name__ == "__main__":
             clean_source=args.clean_source,
             target_level=args.target_level,
         )
-
         print("main completed", flush=True)
-
+    except SystemExit as e:
+        exit_code = int(e.code) if isinstance(e.code, int) else 1
+        raise
+    except Exception:
+        exit_code = 1
+        traceback.print_exc()
+        raise
     finally:
         _cancel_fault_handler()
         print("shutdown complete", flush=True)
+        try:
+            sys.stdout.flush()
+            sys.stderr.flush()
+        finally:
+            os._exit(exit_code)

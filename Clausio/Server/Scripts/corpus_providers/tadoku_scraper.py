@@ -1,8 +1,8 @@
 import os
 import random
 import re
-import time
 import socket
+import time
 import urllib.request
 import urllib.robotparser
 from dataclasses import dataclass, field
@@ -494,6 +494,39 @@ def _looks_like_tadoku_stamp_line(line):
     return any(re.search(pattern, line, flags=re.IGNORECASE) for pattern in patterns)
 
 
+def _looks_like_image_caption_line(line):
+    line = _normalize_text(line)
+    if not line:
+        return False
+
+    patterns = [
+        r"^写真[:：]",
+        r"^写真提供[:：]",
+        r"^画像提供[:：]",
+        r"^提供[:：]",
+        r"^出典[:：]",
+        r"^撮影[:：]",
+        r"^参考[:：]",
+        r"^引用[:：]",
+        r"^\(?写真\)?[:：]",
+        r"^\(?画像\)?[:：]",
+        r"^\(?出典\)?[:：]",
+        r"^\(?提供\)?[:：]",
+        r"^\(?撮影\)?[:：]",
+        r"^Photo\s*by",
+        r"^Image\s*by",
+        r"©",
+    ]
+
+    if any(re.search(pattern, line, flags=re.IGNORECASE) for pattern in patterns):
+        return True
+
+    if len(line) <= 12 and re.fullmatch(r"[ぁ-んァ-ン一-龯・\s]+", line):
+        return True
+
+    return False
+
+
 def _remove_tadoku_corner_stamp(text):
     if not text:
         return text
@@ -513,6 +546,50 @@ def _remove_tadoku_corner_stamp(text):
     return cleaned
 
 
+def _remove_tadoku_header_prefix(line):
+    line = _normalize_text(line)
+    if not line:
+        return ""
+
+    patterns = [
+        r"^たどくのひろば\s*https?://tadoku\.info\s*\d+\s+\S+\s+",
+        r"^たどくのひろば\s*tadoku\.info\s*\d+\s+\S+\s+",
+        r"^たどくのひろば\s*https?://tadoku\.info\s*\d+\s+",
+        r"^たどくのひろば\s*tadoku\.info\s*\d+\s+",
+    ]
+
+    cleaned = line
+    for pattern in patterns:
+        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
+
+    return cleaned.strip()
+
+
+def _clean_page_text(page_text):
+    lines = []
+    for line in page_text.splitlines():
+        line = _normalize_text(line)
+        if not line:
+            continue
+
+        line = _remove_tadoku_header_prefix(line)
+        line = _remove_tadoku_corner_stamp(line)
+        line = _normalize_text(line)
+
+        if not line:
+            continue
+        if _looks_like_tadoku_stamp_line(line):
+            continue
+        if _looks_like_image_caption_line(line):
+            continue
+        if re.fullmatch(r"\d{1,3}", line):
+            continue
+
+        lines.append(line)
+
+    return "\n".join(lines)
+
+
 def _body_clip_rect(page):
     rect = page.rect
     top_margin = rect.height * 0.12
@@ -522,7 +599,7 @@ def _body_clip_rect(page):
         rect.x0,
         rect.y0 + top_margin,
         rect.x1,
-        rect.y1 - bottom_margin
+        rect.y1 - bottom_margin,
     )
 
 
@@ -532,12 +609,35 @@ def _clean_ocr_text(text):
         line = _normalize_text(line)
         if not line:
             continue
+
+        line = _remove_tadoku_header_prefix(line)
+        line = _remove_tadoku_corner_stamp(line)
+        line = _normalize_text(line)
+
+        if not line:
+            continue
         if _looks_like_tadoku_stamp_line(line):
+            continue
+        if _looks_like_image_caption_line(line):
             continue
         if re.fullmatch(r"\d{1,3}", line):
             continue
+
         lines.append(line)
     return "\n".join(lines)
+
+
+def _filter_sentences(sentences, min_len=15):
+    return [
+        s
+        for s in sentences
+        if len(s) >= min_len
+        and re.search(r"[\u3040-\u309f]", s)
+        and not re.search(r"[a-zA-Z]{5,}", s)
+        and not re.search(r"https?://", s)
+        and "©" not in s
+        and not _looks_like_image_caption_line(s)
+    ]
 
 
 def _process_pdf_file(pdf_path):
@@ -547,7 +647,7 @@ def _process_pdf_file(pdf_path):
     for page in doc:
         clip = _body_clip_rect(page)
         page_text = page.get_text("text", clip=clip, sort=True)
-        page_text = _remove_tadoku_corner_stamp(page_text)
+        page_text = _clean_page_text(page_text)
         full_text_parts.append(page_text)
 
     doc.close()
@@ -586,25 +686,15 @@ def _process_pdf_file(pdf_path):
 
     for sentence in text.split("。"):
         sentence = sentence.strip()
-        if sentence:
-            raw_sentences.append(sentence + "。")
+        if not sentence:
+            continue
+        sentence = sentence + "。"
+        if _looks_like_image_caption_line(sentence):
+            continue
+        raw_sentences.append(sentence)
 
-    final_sentences = _filter_sentences(raw_sentences, min_len=5)
+    final_sentences = _filter_sentences(raw_sentences)
     return final_sentences[:5], {}, author, article_date
-
-
-def _filter_sentences(sentences, min_len=5):
-    return [
-        s
-        for s in sentences
-        if len(s) > min_len
-        and re.search(r"[\u3040-\u309f]", s)
-        and not re.search(r"[a-zA-Z]{15,}", s)
-        and not re.search(r"[{}\[\]_]", s)
-        and "…" not in s
-        and "？" not in s
-        and "！" not in s
-    ]
 
 
 def scrape_tadoku_sentences_and_furigana(url, topic_metadata=None):
