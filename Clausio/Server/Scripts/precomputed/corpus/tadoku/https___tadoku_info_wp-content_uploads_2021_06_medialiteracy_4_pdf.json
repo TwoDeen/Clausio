@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ジョン・バーニンガム作『おじいちゃん』表紙絵本は小さな子どもがお母さんに読んでもらうものだ、と思う人も多いかもしれません。",
+      "english_translation": "Many people might think that the picture book version of \"Grandpa\" by John Burningham, intended for young children to read with their mothers, is a simple and straightforward story."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、絵本の中には、みなさんが読んでもおもしろいものがたくさんあります。",
+      "english_translation": "However, there are many interesting things in picture books that you will find enjoyable to read."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ウソだと思う人は、大きな本屋の絵本コーナーや図書館の絵本コーナーに行ってみてください。",
+      "english_translation": "If you don't believe me, please go to the picture book section in a large bookstore or at a library."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "たくさんある絵本の中には、読んでみようと思う絵本があるはずです。",
+      "english_translation": "There must be many picture books, and I'm sure there's at least one that I want to read."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それらの絵本を、5冊くらい読んでみましょう。",
+      "english_translation": "Let's read about five of those books."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 09:15:41"
+    "extraction_date_time": "2026.07.15 13:26:44"
   }
 }

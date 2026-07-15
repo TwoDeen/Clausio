@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "私たちが今いるのは、長野県蓼科高原の中にある夏の別荘、１５００mの森の中です。",
+      "english_translation": "We are currently staying in a summer cottage located in蓼科高原, Nagano Prefecture, at an altitude of 1500 meters in the forest."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私は留学生たちに日本語や日本文化を指導している大学教授、ターニャは来日半年のロシアからの留学生です。",
+      "english_translation": "I am a university professor named Tarnya, who is teaching Japanese and Japanese culture to international students. I am originally from Russia and have been studying in Japan for six months."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「先生、涼しい！東京から来ると別の国に来たみたい」とターニャ。",
+      "english_translation": "\"It's so refreshing here, Teacher! It feels like I've come to a different country from Tokyo,\" said Tanya."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "連日３０度を超える都会のコンクリートジャングルから、私たちは僅か３時間弱でどこまでも森が広がり小川のせせらぎ、小鳥たちのさえずりが聞こえる別荘地に着いたのです。",
+      "english_translation": "From the concrete jungle of the city, where temperatures consistently exceeded 30 degrees Celsius, we arrived at a resort area just over three hours away, where forests stretched as far as the eye could see, accompanied by the sound of babbling brooks and birdsong."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "日本の国土の６７％は森が占めている、数字では知っていても、「森に行ったことがない」という日本人の声をよく聞きます。",
+      "english_translation": "\"Although 67% of Japan's land is covered in forests, many Japanese people say they have never actually visited a forest.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 09:13:09"
+    "extraction_date_time": "2026.07.15 13:27:51"
   }
 }

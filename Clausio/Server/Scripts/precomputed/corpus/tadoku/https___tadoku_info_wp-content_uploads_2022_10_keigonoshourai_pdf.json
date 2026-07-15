@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "敬語の将来－留学生の意見－日本語の敬語は、日本語を勉強している人々からよく難しいと言われます。",
+      "english_translation": "Regarding future use of honorifics – opinions from international students: Japanese honorifics are often said to be difficult by those learning the language."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ところで、敬語は難しいと思われているだけでしょうか。",
+      "english_translation": "By the way, is it just that people find honorifics difficult?"
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "敬語を勉強した留学生15人に、日本の敬語の将来について意見を聞いてみました。",
+      "english_translation": "We surveyed 15 international students who have been studying Japanese, asking them for their opinions on the future of honorific language in Japan."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "その結果、敬語は大切だから残るという人が５人、なくなるだろうという人が５人、ない方がいいという人が３人、限定的に残るだろうという人が２人でした。",
+      "english_translation": "As a result, five people said that it is important to keep honorifics, five said that they will disappear, three said that they are unnecessary, and two said that they should only be used in limited situations."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "どうしてそう考えるのでしょうか。",
+      "english_translation": "Why do you think that?"
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:47"
+    "extraction_date_time": "2026.07.15 13:23:28"
   }
 }

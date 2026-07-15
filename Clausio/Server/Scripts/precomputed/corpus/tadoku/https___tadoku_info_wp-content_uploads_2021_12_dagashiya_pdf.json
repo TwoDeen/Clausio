@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "駄菓子屋－子供の社会－このお店は、お菓子やおもちゃ、有名人の写真や人気のキャラクターが描いてあるカードなどを売っています。",
+      "english_translation": "To English: Candy shop – a child's social world – This store sells candy, toys, cards featuring famous people and popular characters, and other items."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そして、午後５時ごろに閉まります。",
+      "english_translation": "And it closes around 5 PM."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "営業時間は毎日同じではなくて、ときどき変わります。",
+      "english_translation": "The operating hours are not always the same; they sometimes change."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "他のお店に比べて、お店が開く時間が少し遅いです。",
+      "english_translation": "Compared to other stores, this one has a slightly later opening time."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "これは、小学生が家に帰る時間に合わせているからです。",
+      "english_translation": "This is because it's adjusted to match when elementary school children return home from school."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:03"
+    "extraction_date_time": "2026.07.15 13:22:56"
   }
 }

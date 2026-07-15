@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "みなさんの国では、給食がありますか？給食のなかで、どの料理が好きですか？1790年にドイツのミュンヘンで、貧しい子どもたちに無料で食事が配られました。",
+      "english_translation": "Do you have school lunches in your country? If so, what is your favorite dish from school lunch? In 1790, free meals were provided to poor children in Munich, Germany."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "これが、世界での給食の始まりです。",
+      "english_translation": "This marks the beginning of school lunches around the world."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その後、貧しい人を助けるために、世界の色々な国で給食が始まりました。",
+      "english_translation": "Subsequently, school lunch programs began in various countries around the world to help the poor."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "19世紀（1801～1900年）に、フランスのパリで、貧しい子どもには無料で、お金がある子どもの家庭からはお金をもらって、給食を配りました。",
+      "english_translation": "In the 19th century (1801-1900), in Paris, France, free meals were provided to poor children, while wealthier families would donate money for these meals."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "日本では、1889年に、山形県の小学校で貧しい子どもに無料で給食を配りました。",
+      "english_translation": "In Japan, in 1889, free meals were provided to poor children at elementary schools in Yamagata Prefecture."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:14:54"
+    "extraction_date_time": "2026.07.15 13:39:27"
   }
 }

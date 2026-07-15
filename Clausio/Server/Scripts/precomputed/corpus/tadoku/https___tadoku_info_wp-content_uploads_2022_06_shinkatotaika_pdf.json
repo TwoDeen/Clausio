@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "例えば、学園マンガ、スポーツマンガ、恋愛マンガ、冒険マンガ、歴史マンガなどです。",
+      "english_translation": "For example, these include school manga, sports manga, romance manga, adventure manga, and historical manga."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そのほかに、ホラーマンガというジャンルもあります。",
+      "english_translation": "In addition, there is also a genre called \"horror manga.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "この人は、楳図かずおさんです。",
+      "english_translation": "This person is Kazuo Hashi."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ホラーマンガの神様といわれています。",
+      "english_translation": "He is said to be the god of horror manga."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "彼の代表的な作品は、『漂流教室』、『14歳』、『まことちゃん』などです。",
+      "english_translation": "His notable works include \"The Floating Classroom,\" \"14 Years Old,\" and \"Makoto-chan.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:06"
+    "extraction_date_time": "2026.07.15 13:37:14"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "それがかこさとし（加古里子）という絵本作家の絵本です。",
+      "english_translation": "This is a picture book by Kako Sato, an illustrator."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "かこさとしは、子どもたちに大人気の絵本をたくさん書いています。",
+      "english_translation": "Kakosatoshi is an author who writes many popular picture books for children."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その中でも、かこさとしが得意なのは、科学のテーマを絵本にした科学絵本です。",
+      "english_translation": "Among these, Kako Sato excels in creating science-themed picture books."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "かこさとしは人生の後半に、３冊の科学絵本の大作シリーズを多くの年月をかけて描きました。",
+      "english_translation": "Kakosatoshi spent his later years creating three large series of scientific picture books, which he worked on for many years."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それが、『海』（1969年）、『地球』（1975年）、『人間』（1995年）です。",
+      "english_translation": "These are \"The Sea\" (1969), \"Earth\" (1975), and \"Human\" (1995)."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:38"
+    "extraction_date_time": "2026.07.15 13:27:24"
   }
 }

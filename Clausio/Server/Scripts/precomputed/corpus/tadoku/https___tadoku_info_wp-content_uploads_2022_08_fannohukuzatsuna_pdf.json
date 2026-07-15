@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "わたしはバスケットボールが好きだ。",
+      "english_translation": "I like basketball."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "子どもの頃からバスケをやっていて、今でもときどきやるし、試合をテレビやネットで見るのも大好きだ。",
+      "english_translation": "I've been playing basketball since I was a child, and I still play occasionally. I also love watching games on TV or online."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "コロナ・ウィルスのパンデミックが起こる前は、よく試合会場にも行って、好きなチームを応援していた。",
+      "english_translation": "Before the COVID-19 pandemic, I often went to matches and supported my favorite team."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "学生たちの試合から、プロ・チームの試合まで、バスケの試合であれば何でも好きだ。",
+      "english_translation": "I love all kinds of basketball games, from amateur matches to professional league games."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "毎月発売されるバスケ雑誌は30年以上欠かさず読んでいる。",
+      "english_translation": "I've been reading basketball magazines that come out every month for over 30 years without fail."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:08"
+    "extraction_date_time": "2026.07.15 13:36:49"
   }
 }

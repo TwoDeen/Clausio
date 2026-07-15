@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "サウナーわたしはサウナーです。",
+      "english_translation": "I am a sauna enthusiast."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "サウナーとは、サウナが大好きで、よくサウナに行く人のことです。",
+      "english_translation": "A sauna enthusiast is someone who loves saunas and frequently visits them."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "日本では、大きな風呂や温泉があるところに、サウナもあることが多いです。",
+      "english_translation": "In Japan, you often find saunas in places with large baths or hot springs."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "風呂や温泉がなく、サウナだけのところもありますが、あまり多くはありません。",
+      "english_translation": "While there aren't many places with both baths and onsen, some have just saunas."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "わたしは大きなお風呂や温泉が好きなので、子どもの頃からよく行っていました。",
+      "english_translation": "As I really enjoy large baths and onsen (hot springs), I used to go frequently since childhood."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:04"
+    "extraction_date_time": "2026.07.15 13:33:50"
   }
 }

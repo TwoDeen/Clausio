@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "私の家から実家までは、車で１時間くらいです。",
+      "english_translation": "It's about an hour by car from my house to my parents' place."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "近いので、ときどき実家に行きます。",
+      "english_translation": "Because I live nearby, I occasionally visit my parents' house."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "実家にいる間は、子どもの頃のように何もしないでごろごろします。",
+      "english_translation": "While I'm back home, I spend my time just relaxing and doing nothing like when I was a child."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "漫画を読んだりテレビを見たり、昼寝をしたりします。",
+      "english_translation": "I read manga, watch TV, and take naps."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "実家に帰るときは、いつも子どもたちといっしょです。",
+      "english_translation": "When I return to my childhood home, I always go with my children."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:34"
+    "extraction_date_time": "2026.07.15 13:24:06"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "雪と暮らす－北海道の冬－北海道では、だいたい11月から4月まで雪が降ります。",
+      "english_translation": "Living with Snow – Winter in Hokkaido\n\nIn Hokkaido, it generally snows from November to April."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "11月や4月の雪は、降ってもすぐに溶けてなくなることが多いです。",
+      "english_translation": "The snow in November and April often melts quickly after falling."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "12月から3月にかけては、多くの町で、景色が真っ白になります。",
+      "english_translation": "From December to March, many towns become completely white due to snow."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "メートル雪の量は場所によって違いますが、いちばん大きな町、札幌では、毎年５mくらいの雪が降ります。",
+      "english_translation": "While the amount of snowfall varies depending on the location, in Sapporo, the largest city, approximately 5 meters of snow falls each year."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そのうち、積もるのは60cmぐらいです。",
+      "english_translation": "Of these, about 60 cm will accumulate."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:04"
+    "extraction_date_time": "2026.07.15 13:30:58"
   }
 }

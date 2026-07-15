@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "すべての物語は短い文章で語られています。",
+      "english_translation": "All stories are told in short sentences."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "いろいろな人のそれぞれの素敵な恋の物語を読んでみましょう。",
+      "english_translation": "Let's read various stories of wonderful love stories, each from a different person."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "♡恋泥棒♡ある秋の夜、僕はいつもの一人カラオケを楽しもうと思っていた。",
+      "english_translation": "♡ Love Thief ♡ One autumn night, I was planning to enjoy my usual solo karaoke."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "以前ネットのデートアプリで知り合った彼からだった。",
+      "english_translation": "It was from someone I met through a dating app online before."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「カラオケ、行かない？」と僕。",
+      "english_translation": "\"How about we go karaoke?\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:44"
+    "extraction_date_time": "2026.07.15 13:32:17"
   }
 }

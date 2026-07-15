@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ネコは全員で、５匹のネズミを５分間でつかまえることができます。",
+      "english_translation": "If there are five cats, they can catch five mice in 5 minutes."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "では、100匹のネズミを100分間でつかまえるためには、何匹のネコが必要でしょうか？ネコがとちゅうで疲れたり、なまけたりすることは考えません。",
+      "english_translation": "Okay, if we need to catch 100 mice in 100 minutes, how many cats would be required? We are assuming the cats will not get tired or give up."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "（解答は次のページ）【解答】正解は５匹です。",
+      "english_translation": "(The answer is on the next page) [Answer] The correct answer is 5."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "５匹のネコが５分でネズミ５匹をつかまえるのですから、５匹のネコは１分でネズミ１匹をつかまえる割合になります。",
+      "english_translation": "If 5 cats can catch 5 mice in 5 minutes, then the rate at which each cat catches a mouse is 1 mouse per minute."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "したがって、100分ではネズミ100匹をつかまえることができます。",
+      "english_translation": "Therefore, you can catch 100 mice in 100 minutes."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:11"
+    "extraction_date_time": "2026.07.15 13:38:17"
   }
 }

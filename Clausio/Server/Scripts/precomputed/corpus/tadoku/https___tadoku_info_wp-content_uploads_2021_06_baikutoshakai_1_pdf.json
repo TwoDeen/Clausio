@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "バイクに乗ったことがある人は、少しわかると思います。",
+      "english_translation": "I think those who have ridden a motorcycle will understand this."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "バイクの魅力は、風やスピードを全身で感じること、遠くまで行けること、一人になっていろいろなことが考えられること、かっこいいこと、不便なこと、危ないことなどです。",
+      "english_translation": "The appeal of motorcycles lies in the ability to feel the wind and speed throughout your body, the freedom to travel long distances, the opportunity for solitude and contemplation, their cool aesthetic, and the inconvenience and danger they present."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "バイクは、車と違って、ドアやフロントガラスや屋根がありません。",
+      "english_translation": "Unlike cars, motorcycles do not have doors, windshields, or roofs."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "だから風やスピードを全身で感じます。",
+      "english_translation": "Therefore, I can feel the wind and speed throughout my entire body."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その気持ちよさは、乗った人にしかわかりません。",
+      "english_translation": "That feeling can only be understood by those who experience it firsthand."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:12:24"
+    "extraction_date_time": "2026.07.15 13:43:46"
   }
 }

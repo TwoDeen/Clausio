@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ジョティ・パスワンさんは、インドに住んでいる15歳の女性です。",
+      "english_translation": "Joti Pawans is a 15-year-old girl living in India."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "彼女は2020年５月に有名になりました。",
+      "english_translation": "She became famous in May 2020."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "これは、ジョティさんと、彼女のお父さんの話です。",
+      "english_translation": "This is about Jody and her father."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ジョティさんはダルバンガという町に住んでいました。",
+      "english_translation": "Joti lived in a town called Dalbanga."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ジョティさんのお父さんは、グルガオンという町に住んでいました。",
+      "english_translation": "Joti's father lived in a town called Gurgaon."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:43"
+    "extraction_date_time": "2026.07.15 13:26:50"
   }
 }

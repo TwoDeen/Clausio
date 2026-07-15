@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "私はいま、東京都の隣の隣の静岡県に住んでいます。",
+      "english_translation": "I currently live in Shizuoka Prefecture, which is next to Tokyo."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "年に2回、妻と子ども二人を連れて、車で実家に帰ります。",
+      "english_translation": "Once a year, I take my wife and two children on a car trip back to my parents' home."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "実家は、東京都の上の上にある群馬県というところです。",
+      "english_translation": "My hometown is in Gunma Prefecture, which is located above Tokyo in the state of [Japan]."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "静岡県から群馬県まで、車で5時間ぐらいかかります。",
+      "english_translation": "It takes about 5 hours by car to travel from Shizuoka Prefecture to Gunma Prefecture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "地図上では3時間か4時間ぐらいですが、実際は高速道路が渋滞していたり、途中で休憩したりして、5時間ぐらいかかります。",
+      "english_translation": "According to the map, it should take about 3 or 4 hours, but in reality, due to traffic congestion on highways and necessary stops for breaks, it usually takes around 5 hours."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 09:15:20"
+    "extraction_date_time": "2026.07.15 13:37:07"
   }
 }

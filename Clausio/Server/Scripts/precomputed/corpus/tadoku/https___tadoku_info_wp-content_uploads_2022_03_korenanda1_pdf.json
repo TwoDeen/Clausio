@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "それとも宇宙人が作ったもの？いいえ、どれも違います。",
+      "english_translation": "Or were they made by aliens? No, none of them are."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "これはむかしむかしのお墓です。",
+      "english_translation": "This is an ancient tomb."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "人が死んだとき、この中にその人をうめます。",
+      "english_translation": "When a person dies, their essence resides within this."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "大昔のお墓のことを古墳と言います。",
+      "english_translation": "The ancient tombs are called \"kofun.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "昔は、死んだ人はみんな、古墳にうめられたのでしょうか？日本では、家族で1つのお墓に入ります。",
+      "english_translation": "Were all dead people buried in tombs in the past? In Japan, do families typically share a single grave?"
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:10:37"
+    "extraction_date_time": "2026.07.15 13:35:29"
   }
 }

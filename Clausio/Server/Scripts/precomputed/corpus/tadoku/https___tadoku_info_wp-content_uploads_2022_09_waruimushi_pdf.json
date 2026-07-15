@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "虫を捕まえて、カゴに入れてじっくり見る。",
+      "english_translation": "Catch an insect, put it in a cage, and observe it carefully."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "見たあとはカゴから出して、自然にかえす。",
+      "english_translation": "After viewing, please remove it from the basket and return it to its natural state."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "虫の本を見るのも好きだし、テレビやインターネットで虫の動画を見るのも好きだ。",
+      "english_translation": "I enjoy looking at books about insects, and I also like watching videos of insects on television or the internet."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "虫はいろいろな色や柄をしている。",
+      "english_translation": "Insects come in various colors and patterns."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それぞれの色や柄に意味がある。",
+      "english_translation": "Each color and pattern has its own meaning."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:22"
+    "extraction_date_time": "2026.07.15 13:36:06"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「開いてますよ！」ある日、大学での授業が終わって電車に乗っていた時のことです。",
+      "english_translation": "\"I'm opening it!\" This happened one day when I was on the train after class at university."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "わたしは座って、音楽を聴きながら、少し眠っていました。",
+      "english_translation": "I sat down, listened to music, and dozed off for a while."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「この席、どうぞ」男の人の声で、目が覚めました。",
+      "english_translation": "\"Please, have a seat,\" I woke up to the voice of a man."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "わたしの隣に座っていた男の人が、おばあさんに席をゆずったのです。",
+      "english_translation": "The man who was sitting next to me gave his seat to my grandmother."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その男の人は、わたしの前に立ちました。",
+      "english_translation": "That man stood in front of me."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:34"
+    "extraction_date_time": "2026.07.15 13:21:01"
   }
 }

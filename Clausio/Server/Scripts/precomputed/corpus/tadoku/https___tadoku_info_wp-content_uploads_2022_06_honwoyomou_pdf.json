@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "本を読もう！－３つの文学賞－「最近、本読んでないな。",
+      "english_translation": "Let's read books! – Three Literary Awards – \"I haven't been reading any books lately.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "」「何か新しい本を読みたいな～」「今、どんな本が人気あるのかな？」本を読もう！と思っても、読みたい本が見つからないとき、私は賞を取った本を読むことにしています。",
+      "english_translation": "\"I want to read a new book! What books are popular right now?\" When I think about reading a book, but can't find one I like, I choose to read award-winning books."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "賞を取った本なので、きっと面白いだろう、絶対いい本なんだろう、と思っています。",
+      "english_translation": "I'm really looking forward to reading it because it's a book that has won awards. I think it will definitely be interesting and a great read."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、人気のある、有名な本を読めば、誰かと会話をするとき、会話の話題にすることもできます。",
+      "english_translation": "And, by reading popular and well-known books, you can also have topics to discuss when talking to others."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "日本には色々な文学賞、つまり、本の賞があります。",
+      "english_translation": "There are many literary awards in Japan, which are essentially book awards."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:18"
+    "extraction_date_time": "2026.07.15 13:20:16"
   }
 }

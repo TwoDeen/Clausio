@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "メディア・マルチタスキングわたしは教師です。",
+      "english_translation": "Media multitasking: I am a teacher."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "今、わたしは学校にいて、パソコンでこの文章を書いています。",
+      "english_translation": "Right now, I am at school and writing this text on my computer."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "頭の中で、どんなことを書こうか考えて、言葉を選び、そしてキーボードを打っています。",
+      "english_translation": "I'm thinking about what to write in my head, choosing the right words, and then typing them on the keyboard."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ときどき、パソコンの画面に、何かのお知らせが出てきます。",
+      "english_translation": "Sometimes, notifications appear on my computer screen."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "例えば、「15:00zoomミーティング」というスケジュールのお知らせや、「新着メール１件」というメールのお知らせなどです。",
+      "english_translation": "For example, this includes notifications such as \"15:00 Zoom meeting\" or \"New email received.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:23"
+    "extraction_date_time": "2026.07.15 13:26:26"
   }
 }

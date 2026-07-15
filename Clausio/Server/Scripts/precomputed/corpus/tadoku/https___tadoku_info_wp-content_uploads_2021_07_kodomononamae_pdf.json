@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "2020年の第１位は「蒼（そう）くん」と「陽葵（ひまり）ちゃん」･･･。",
+      "english_translation": "For 2020, the winners were \"Sō-kun\" and \"Himari-chan\"."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "毎年、年末になるとこんなニュースが流れてきます。",
+      "english_translation": "Every year, around the end of the year, news like this appears."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "これは、明治安田生命という会社が毎年発表している、「子どもの名前ランキング」です。",
+      "english_translation": "This is the \"Children's Name Ranking\" published annually by Meiji Yasuda Life, a company."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "この会社はとても大きな保険会社です。",
+      "english_translation": "This is a very large insurance company."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "保険会社のお客さんは、子どもが生まれると、その子どもの誕生日や名前を保険会社に知らせます。",
+      "english_translation": "Customers of insurance companies inform the company about their child's birthdate and name when a child is born."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:29"
+    "extraction_date_time": "2026.07.15 13:32:01"
   }
 }

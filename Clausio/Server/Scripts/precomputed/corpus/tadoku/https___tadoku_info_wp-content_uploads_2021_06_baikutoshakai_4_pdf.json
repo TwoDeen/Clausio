@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "一人か二人しか乗れないし、荷物もたくさん載せられない。",
+      "english_translation": "It can only carry one or two people, and it also has limited cargo capacity."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "不便な乗り物に乗っているライダー同士の、不思議な習慣があります。",
+      "english_translation": "There's a strange habit that exists among motorcycle riders who use inconvenient vehicles."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "バイクで走っているときに、前から走って来るバイクが手を振ったり、小さく頭を下げたりすることがあります。",
+      "english_translation": "When riding a motorcycle, you might see another motorcycle approaching from ahead and the rider may wave or nod their head slightly."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "知り合いだから、手を振ったり頭を下げたりするのではありません。",
+      "english_translation": "Because we know each other, we don't wave our hands or bow; it's just a natural gesture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "相手は、会ったことも、見たこともない人です。",
+      "english_translation": "The person I'm talking about is someone I've never met or seen before."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:11:18"
+    "extraction_date_time": "2026.07.15 13:42:41"
   }
 }

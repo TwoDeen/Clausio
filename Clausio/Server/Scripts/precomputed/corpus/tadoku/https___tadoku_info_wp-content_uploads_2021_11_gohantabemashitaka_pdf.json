@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "学生Aさん：「先生、こんにちは～ご飯食べましたか？」私：「あっ……はい、食べましたよ。",
+      "english_translation": "Student A: \"Hello, teacher! Have you eaten?\"\nMe: \"Yes, I have.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "クィッティアオ（タイのラーメン）を食べたから、もっとあつくなりました。",
+      "english_translation": "Because I ate kwaytiaow (Thai noodle soup), I'm feeling even hotter."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "」タイでは上のような会話が普通です。",
+      "english_translation": "\"In Thailand, conversations like this are common.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "タイ人はご飯を食べたかどうか、よく聞きます。",
+      "english_translation": "\"Do you eat rice?\" is something I'm often asked by people in Thailand."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私は何度もこの質問をされて、いつも不思議に思っていました。",
+      "english_translation": "I've been asked this question many times, and I've always found it puzzling."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:39"
+    "extraction_date_time": "2026.07.15 13:43:15"
   }
 }

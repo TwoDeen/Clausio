@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "熊が人間を傷つけたり、殺してしまったりしています。",
+      "english_translation": "Bears are injuring and even killing people."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私たち人間は、熊を怖いと思っていますが、実は熊も、人間を怖いと思っています。",
+      "english_translation": "Humans often perceive bears as frightening, but in reality, bears also find humans to be frightening."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ですから、普通、熊は人間を見ると、どこかへ逃げて行きます。",
+      "english_translation": "Therefore, normally, bears will run away when they see humans."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "人間がたくさん住んでいる町には近づきません。",
+      "english_translation": "Please do not approach towns where many people live."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ところが、最近は、熊が町に来ることが増えてきました。",
+      "english_translation": "However, recently, there have been more instances of bears coming into town."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:32"
+    "extraction_date_time": "2026.07.15 13:37:38"
   }
 }

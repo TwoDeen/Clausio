@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "テレビやSNSで話題になった人は、他の人と違った才能を持っていて、何かに成功した人が多いと思います。",
+      "english_translation": "I think that people who become famous on TV or social media have unique talents, and many of them have achieved success in something."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "自分もその人のような人生を送りたいなと、うらやましい気持ちになるかもしれません。",
+      "english_translation": "I might feel envious, wanting to live my life in a similar way."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "しかし、人生は山あり谷ありで、いいことも悪いことも起こります。",
+      "english_translation": "However, life has its ups and downs, and both good and bad things happen."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本では、野球は人気があるスポーツのひとつです。",
+      "english_translation": "In Japan, baseball is one of the most popular sports."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "毎年夏に、高校生の野球の大会が行われ、テレビで全国に放送されます。",
+      "english_translation": "Every summer, a high school baseball tournament takes place and is broadcast nationwide on television."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:41"
+    "extraction_date_time": "2026.07.15 13:21:58"
   }
 }

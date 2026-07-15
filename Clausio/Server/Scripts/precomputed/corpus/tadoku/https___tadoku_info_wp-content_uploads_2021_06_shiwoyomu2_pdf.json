@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "詩を読む2あたり前なこと－谷川俊太郎「ぼくは言う」あたり前なことをあたり前と思わないで、考えてみよう、と哲学者は言う。",
+      "english_translation": "\"Reading Poetry, Part 2\" – According to philosopher Tadayawa Tsunetaro, \"Don't think that commonplace things are commonplace. Instead, try to understand them.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "あたり前なことをあたり前にするために、法律に書いておこう、と法学者は言う。",
+      "english_translation": "\"Lawyers say that to ensure that something commonplace is treated as if it were not, we should put it in law,\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "あたり前なことがどのようにあたり前になっているかを調べよう、と文化人類学者は言う。",
+      "english_translation": "\"Anthropologists say that we should investigate how seemingly ordinary things become so,\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "でも、ふつうはあたり前なことについては考えないし、書かないし、調べたりしない。",
+      "english_translation": "However, we usually don't think about or write about ordinary things, nor do we research them."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "あたり前なことについて考えるのはたいへんだし、書くのは面倒だし、調べるのはけっこう難しそうだ。",
+      "english_translation": "It's difficult to think about commonplace things, writing about them is a hassle, and researching them seems quite challenging."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:43"
+    "extraction_date_time": "2026.07.15 13:25:47"
   }
 }

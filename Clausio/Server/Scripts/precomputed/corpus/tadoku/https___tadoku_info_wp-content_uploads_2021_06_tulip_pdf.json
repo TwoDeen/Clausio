@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「チューリップの花」という歌です。",
+      "english_translation": "\"Tulip Flower\" is the title of the song."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "さいたさいたチューリップの花がならんだならんだあかしろきいろどのはなみてもきれいだなこの歌は、昭和５年（1930年）に近藤宮子さんという女性が作りました。",
+      "english_translation": "If the beautiful tulips of Saitama are blooming, then what a wonderful sight! The bright yellow flowers are so lovely. This song was written in 1950 by Kinoko Kondo, a woman from Saitama."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "昭和５年は、日本が第二次世界大戦に向かう、不安なときでした。",
+      "english_translation": "In 1950, Japan was in a state of anxiety as it headed towards World War II."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「どのはなみてもきれいだな」には、「どんなことにも、どんな人にも、良いところがある」という思いが込められているそうです。",
+      "english_translation": "\"No matter what, everything is beautiful,\" seems to convey a sentiment of finding something positive in every situation and person."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "しかし戦争が始まると、チューリップは「ぜいたく品」と考えられるようになりました。",
+      "english_translation": "However, once the war began, tulips became seen as \"luxurious goods.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:53"
+    "extraction_date_time": "2026.07.15 13:43:56"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "【問題】人をよく見て、その人に似ているようにかいた絵を肖像画といいます。",
+      "english_translation": "[Question] A portrait is defined as a painting that closely resembles a person, based on careful observation of them."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ある男性が肖像画を見ていました。",
+      "english_translation": "A man was looking at a portrait."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "私は、「誰の絵を見ているのですか」と、その男性に尋ねました。",
+      "english_translation": "\"Whose painting are you looking at?\" I asked the man."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "すると、その男性はこう答えました。",
+      "english_translation": "And in response, that man said:"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "この絵にかかれている男性の父親は私の父親の息子です」。",
+      "english_translation": "\"The father of the man in this painting is my father's son.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:45"
+    "extraction_date_time": "2026.07.15 13:36:57"
   }
 }

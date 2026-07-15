@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "この時は、まだドイツが東西に分かれていました。",
+      "english_translation": "At this time, Germany was still divided into East and West."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本人もトルコ人も30代後半の男性で、結婚して子どももいました。",
+      "english_translation": "Both the Japanese and Turkish men were in their late thirties, married, and had children."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "家族は、それぞれの国にいました。",
+      "english_translation": "The family members were living in different countries."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本人はハンドボールの勉強のために、トルコ人は経済学の勉強のために、ドイツへ行きました。",
+      "english_translation": "The Japanese went to Germany to study handball, while the Turkish people went there to study economics."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "二人は、留学生向けの寮で、同じ部屋に住んでいました。",
+      "english_translation": "The two students, both international students, lived in the same dormitory room."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:02"
+    "extraction_date_time": "2026.07.15 13:34:07"
   }
 }

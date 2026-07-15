@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "正直者と嘘つき（３）【問題】ある島には正直者か嘘つきのどちらかしか住んでいません。",
+      "english_translation": "To English: Honest People and Liars (3) [Problem]: There is an island where only either honest people or liars live."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "正直者はつねに本当のことを言います。",
+      "english_translation": "Honest people always tell the truth."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "あなたが船でその島を訪ねると、A、B、Cという３人の住民がいっしょに港で迎えてくれました。",
+      "english_translation": "When you arrived at the island by boat, A, B, and C, three residents, greeted you at the harbor."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そこで、あなたは、「あなた方の中に正直者は何人いますか」とAに尋ねました。",
+      "english_translation": "Therefore, you asked A, \"How many of you are honest?\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "Aの答えは、まわりの人たちの声がうるさくて、よく聞こえませんでした。",
+      "english_translation": "The answer to A is that I couldn't hear clearly because the voices of those around me were too loud."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:56"
+    "extraction_date_time": "2026.07.15 13:33:13"
   }
 }

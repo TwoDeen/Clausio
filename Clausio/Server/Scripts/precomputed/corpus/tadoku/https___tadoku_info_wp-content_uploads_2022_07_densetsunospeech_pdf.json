@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ブラジルで行われた地球環境についての国際会議で、彼女は世界中の大人たちに向かってこう言った。",
+      "english_translation": "At an international conference on global environmental issues held in Brazil, she said to people from all over the world, \""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "1992年にこのスピーチを聞いたとき、まだ英語がよくわからなかったけど、スピーチの日本語訳を何度も何度も読んだし、英語も理解したいと思って、原文も何度も何度も読んだ。",
+      "english_translation": "When I heard this speech in 1992, my English comprehension was still limited. However, I repeatedly read the Japanese translation of the speech, and also repeatedly read the original English version, because I wanted to understand it better."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そして、彼女と同じように大人に腹が立ったし、自分は環境を壊す大人にはならないと強く思った。",
+      "english_translation": "And, like her, I was also frustrated with adults and strongly resolved not to become one of those who destroy the environment."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それなのに、そう思ったことを忘れて、毎日を過ごしてしまっていた。",
+      "english_translation": "Despite that, I continued to live my life as if nothing had happened."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "正直、2022年６月に「あの伝説のスピーチから30年」という新聞記事を見るまで、しばらくこのスピーチのことを忘れていた。",
+      "english_translation": "Honestly, I had almost forgotten about this speech for a while until I read an article in the newspaper titled \"Celebrating 30 Years Since That Legendary Speech\" in June 2022."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:52"
+    "extraction_date_time": "2026.07.15 13:41:05"
   }
 }

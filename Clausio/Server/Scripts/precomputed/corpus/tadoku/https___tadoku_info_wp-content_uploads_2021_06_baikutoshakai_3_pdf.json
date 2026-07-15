@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "善と悪のバイク－ヒーローも暴走族もなぜバイクに乗るのか－「仮面ライダー」というキャラクターがいます。",
+      "english_translation": "To English: The Good and the Bad: Why Heroes and Outlaws Ride Motorcycles – There's a character called \"Kamen Rider.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本で人気のある、テレビ番組のヒーローです。",
+      "english_translation": "A popular TV show hero in Japan."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "今も続いているテレビシリーズなので、知っている人もいるかもしれません。",
+      "english_translation": "Since it's still an ongoing television series, some of you might be familiar with it."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "仮面ライダーは、その名前の通り「ライダー」なので、バイクに乗ります。",
+      "english_translation": "\"Kamen Rider,\" as its name suggests, is a \"rider,\" so it rides a motorcycle."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "バイクに乗って悪い敵のところに向かったり、バイクに乗ったまま敵と戦ったりします。",
+      "english_translation": "Ride your motorcycle to confront evil enemies, or continue riding while battling them."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:15:18"
+    "extraction_date_time": "2026.07.15 13:39:05"
   }
 }

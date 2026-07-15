@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "何の食べ物かな？畑を見たことがあるかな？色々な野菜や果物が育てられているね。",
+      "english_translation": "What kind of food is this? Have you ever seen a farm before? There are all sorts of vegetables and fruits being grown there."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "葉っぱ（葉）これはなんの葉っぱかな？人と同じくらいの高さだから、160cmぐらいあるのかな。",
+      "english_translation": "What kind of leaf is this? It's about the same height as a person, so I think it must be around 160 cm."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "どこまでのびると思う？よいしょ！よーし、ひっぱってみよう！なんの葉っぱかわかるかもしれないね。",
+      "english_translation": "How far do you think it will grow? Let's pull! Maybe we can figure out what kind of leaf it is."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "よいしょ！根っこ（根）葉っぱの下には長いくきと根っこがついているよ。",
+      "english_translation": "Alright! Underneath the leaves, you'll find long stems and roots."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "こを捨てると、なにか丸いものがあるね。",
+      "english_translation": "If I throw this away, there seems to be something round inside."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:14:25"
+    "extraction_date_time": "2026.07.15 13:34:23"
   }
 }

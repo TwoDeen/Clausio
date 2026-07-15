@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ぼくは、どこにでもいる普通の男の子だ。",
+      "english_translation": "I am just an ordinary boy, like anyone else."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "普通のお父さんと、普通のお母さんと、普通のお姉ちゃんと暮らしている。",
+      "english_translation": "I live with an ordinary father, an ordinary mother, and an older sister who is also ordinary."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "普通に遊んで、普通にごはんを食べて、普通に寝ている。",
+      "english_translation": "I just play normally, eat normally, and sleep normally."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "頭は、良くもないし、悪くもない。",
+      "english_translation": "My mind is neither particularly good nor bad."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "テニスをやっているけど、強くもないし、弱くもない。",
+      "english_translation": "I play tennis, but I'm not very good at it, nor am I particularly bad."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:28"
+    "extraction_date_time": "2026.07.15 13:39:10"
   }
 }

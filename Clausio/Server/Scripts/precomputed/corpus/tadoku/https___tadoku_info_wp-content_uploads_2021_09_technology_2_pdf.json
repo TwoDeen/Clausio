@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "私は今日、いくらお金を使ったでしょうか。",
+      "english_translation": "How much money did I spend today?"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私は、家から会社までバスに乗ります。",
+      "english_translation": "I take the bus from my house to work."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "お昼ごはんは、会社の食堂でご飯を食べます。",
+      "english_translation": "For lunch, I eat at the company cafeteria."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "今日は460円の唐揚げ丼を食べました。",
+      "english_translation": "I ate a karaage bowl for 460 yen today."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "午後、自動販売機で130円のコーヒーを買いました。",
+      "english_translation": "In the afternoon, I bought a coffee for 130 yen from an automatic vending machine."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 09:12:15"
+    "extraction_date_time": "2026.07.15 13:42:33"
   }
 }

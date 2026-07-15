@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "町家を直す人との対話１日本の家とまちは、散歩しても楽しくない？金沢市で、町家を直す仕事をしている建築家、林野紀子さんにインタビューをしました。",
+      "english_translation": "An interview with Ms. Kinoko Hayashi, an architect working on restoring traditional townhouses in Kanazawa City: \"Do you find it boring to walk around and look at the traditional houses?\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "インタビューは林野さんの家で行いました。",
+      "english_translation": "The interview was conducted at Mr. Lin's home."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "松田：林野さんは、どうして建築家になったのですか？林野：大学の時、美術が専門だったので、いろんな美術館へいって、世界中を旅行したんですね。",
+      "english_translation": "Matsuda: So, Mr. Hayashi, what made you decide to become an architect?\n\nHayashi: Well, when I was in university, my major was art. I visited many museums and traveled all over the world."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、たくさんの美術館を見ていくうちに、2つのことに気づいたんです。",
+      "english_translation": "And, as I visited many museums, I realized two things."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "一つは、自分は美術品より美術館に関心があること、もう一つは日本に帰って、空港から電車に乗って町の風景をみるのがすごくつらかったことです。",
+      "english_translation": "One reason is that I was more interested in museums than art itself. The other reason is that I found it very difficult to return to Japan and then take the train from the airport, looking at the town scenery along the way."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 09:10:08"
+    "extraction_date_time": "2026.07.15 13:35:05"
   }
 }

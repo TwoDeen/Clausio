@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "韓国で車を持っていませんでしたから、バス、タクシー、地下鉄をよく使いました。",
+      "english_translation": "Since I didn't own a car in Korea, I frequently used buses, taxis, and subways."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "一番よく使ったのは、タクシーでした。",
+      "english_translation": "The one I used most often was a taxi."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "韓国に行ったばかりのころは、韓国語が全然わからなかったのでタクシーの運転手さんと話ができませんでした。",
+      "english_translation": "When I first went to Korea, I didn't understand any Korean, so I couldn't have a conversation with the taxi driver."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "韓国語が少しわかるようになってから、「タクシーの運転手さんはだいたい同じ質問をする」ということがわかりました。",
+      "english_translation": "After I started to understand some Korean, I realized that \"the taxi drivers usually ask the same questions.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "まず、最初に「日本人ですか」と聞かれます。",
+      "english_translation": "First, you will be asked \"Are you Japanese?\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:27"
+    "extraction_date_time": "2026.07.15 13:37:22"
   }
 }

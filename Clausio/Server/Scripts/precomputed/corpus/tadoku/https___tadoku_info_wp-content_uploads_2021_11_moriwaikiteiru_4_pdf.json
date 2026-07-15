@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "森の木を切らないでー地球温暖化をストップしてくれるんだよ！「地球全体の平均気温があがっている」という気になるニュースを、皆さんも聞いたことがあると思います。",
+      "english_translation": "\"Cutting down trees doesn't stop global warming! It actually helps. I'm sure you've all heard the news that \"the average temperature of the Earth is rising.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "地球は２０世紀後半になってから少しずつ気温が上がり続けているのです。",
+      "english_translation": "The Earth's temperature has been gradually increasing since the latter half of the 20th century."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "これを「地球温暖化現象」と言います。",
+      "english_translation": "This is called \"global warming.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "地球の温暖化によって、氷河の氷が溶けたり海面が上昇したり、熱波などの異常気象が起きたりしています。",
+      "english_translation": "Due to global warming, glaciers are melting, sea levels are rising, and extreme weather events such as heat waves are occurring."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ではなぜ、「地球温暖化現象」は起きるのでしょう？それは「石油」や「石炭」などの「化石燃料」と言われるものを使うことで、空気中に「二酸化炭素」（CO2）が増えて行くからなのです。",
+      "english_translation": "So, why does \"global warming\" occur? It's because the use of things like \"oil\" and \"coal,\" which are called \"fossil fuels,\" causes an increase in carbon dioxide (CO2) in the atmosphere."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 09:11:31"
+    "extraction_date_time": "2026.07.15 13:35:23"
   }
 }

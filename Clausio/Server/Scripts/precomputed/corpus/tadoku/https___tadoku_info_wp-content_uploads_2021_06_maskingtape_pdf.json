@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "マスキングテープは、セロハンテープのようにクルクル巻いてあるテープで、何回も貼ったりはがしたりできます。",
+      "english_translation": "Masking tape is similar to cellophane tape, but it's a type of tape that can be repeatedly peeled and stuck."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "いろいろなデザインのテープがあるので、手帳やノートに貼って、内容を目立たせたり、かわいく飾ったりできます。",
+      "english_translation": "There are many different types of tapes available, so you can use them to decorate your notebooks and diaries, making the contents stand out or adding a cute touch."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "文房具店に行くといろいろなマスキングテープが売られていますが、ここで私は2つの特別なマスキングテープを紹介します。",
+      "english_translation": "When you go to a stationery store, you can find a wide variety of masking tapes. However, here I would like to introduce two special masking tapes that I found particularly interesting."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "1つは、「点字ブロック」のマスキングテープで、もう1つは、「点字」で「ありがとう」と書いてあるマスキングテープです。",
+      "english_translation": "One is masking tape for \"tactile blocks,\" and the other is masking tape that says \"thank you\" using Braille."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "点字ブロックというのは、駅や道路に敷いてある黄色いブロックで、デコボコが付いています。",
+      "english_translation": "The yellow blocks you see on sidewalks and roads are called \"tactile paving stones.\" They have bumps or other textures that people can feel with their feet to help them navigate."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:16"
+    "extraction_date_time": "2026.07.15 13:32:27"
   }
 }

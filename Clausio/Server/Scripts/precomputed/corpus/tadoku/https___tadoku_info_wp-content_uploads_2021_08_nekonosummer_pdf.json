@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "全身真っ黒だけれど、お腹の辺りだけが茶色になっている。",
+      "english_translation": "The entire body is black, but only around the abdomen is brown."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "家に来たときには、すでに５歳ぐらいだったと思う。",
+      "english_translation": "I think I must have been around five years old when I came to stay at their house."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "人間の年なら、35歳ぐらいだろう。",
+      "english_translation": "If it were a human lifespan, it would be around 35 years old."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "サマーは比較的おとなしく、ときどき家の壁をガリガリやったり、夜中にニャーニャーと鳴いて私たちを起こしたりする以外は、あまり手のかからないネコだった。",
+      "english_translation": "Summer was a relatively calm cat, and while she occasionally scratched at the walls or meowed loudly in the middle of the night, she wasn't particularly demanding."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "外ネコだったので、気まぐれに外に出て行った。",
+      "english_translation": "Because it was an outdoor cat, it went outside on its own whim."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:19"
+    "extraction_date_time": "2026.07.15 13:30:45"
   }
 }

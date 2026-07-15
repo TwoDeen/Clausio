@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "宇宙船「はやぶさ２」はやぶさ２という日本の宇宙船があります。",
+      "english_translation": "The spacecraft \"Hayabusa 2\" is a Japanese spacecraft named Hayabusa 2."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "この宇宙船は「リュウグウ」という小さな星を調べるために作られました。",
+      "english_translation": "This spacecraft was built to investigate the small star named \"Ryūgū.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "はやぶさ２は、リュウグウの砂をとるためにリュウグウに行きます。",
+      "english_translation": "Hayabusa 2 will go to Ryugu asteroid to collect samples of its sand."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "リュウグウの砂を調べると、生命が生まれた秘密がわかるかもしれないからです。",
+      "english_translation": "By studying the sand of Ryuugu, we might be able to uncover the secrets of how life originated."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "はやぶさ２はリュウグウで２回リュウグウの砂を取ります。",
+      "english_translation": "Hayabusa 2 collected samples from Ryugu twice using its robotic arm."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:13"
+    "extraction_date_time": "2026.07.15 13:38:24"
   }
 }

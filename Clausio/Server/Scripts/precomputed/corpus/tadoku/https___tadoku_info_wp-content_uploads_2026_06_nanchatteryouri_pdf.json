@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "最近は海外でも日本の食材が手に入りやすくなりました。",
+      "english_translation": "Recently, it has become easier to obtain Japanese ingredients overseas."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本食のスーパーやアジア食品店に行かなくても、一般のスーパーでお醤油やお味噌、海苔やおせんべいも売っています。",
+      "english_translation": "You don't need to go to Japanese supermarkets or Asian food stores; you can find soy sauce, miso, seaweed, and snacks in regular supermarkets as well."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "豆腐はふつうの食材として当たり前のように野菜のコーナーに並べられていますし、日本酒もワインの棚に並んでいます。",
+      "english_translation": "Tofu is commonly available as a staple ingredient, just like vegetables, and sake is often found alongside wine."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "また、スーパーになくても、ネットで注文すればたいていの日本の食材は手に入ります。",
+      "english_translation": "Furthermore, even if you can't find certain ingredients at a local supermarket, you can usually order them online and have them delivered to your home."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "でも、日本の食材を手に入れるのが大変だった頃がありました。",
+      "english_translation": "However, there was a time when it was difficult to obtain Japanese ingredients."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:25"
+    "extraction_date_time": "2026.07.15 13:34:52"
   }
 }

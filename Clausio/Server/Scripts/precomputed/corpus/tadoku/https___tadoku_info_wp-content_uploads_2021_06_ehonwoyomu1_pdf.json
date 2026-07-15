@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "大人が楽しめる絵本がたくさん出ています。",
+      "english_translation": "There are many picture books that adults can enjoy."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "もちろん子どもといっしょに楽しめる絵本もたくさんあります。",
+      "english_translation": "Of course, there are also many picture books that can be enjoyed together with children."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "アントニー・ブラウンの『すきですゴリラ』（1983年）は、そんな絵本のひとつです。",
+      "english_translation": "\"Gorilla I Love You,\" by Anthony Browne (1983), is one such book."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "物語は父親と二人で暮らす女の子の話ですナはゴリラが大好きですナのお父さんは仕事がいそがしくて、ハナの相手をしてくれません。",
+      "english_translation": "The story is about a girl who lives with her father. She loves gorillas, but her father is always busy and doesn't have time to take care of her."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そんなお父さんでも、ハナの誕生日の前の夜、ゴリラのぬいぐるみをプレゼントしてくれました。",
+      "english_translation": "Even though my father was like that, he gave Hana a stuffed gorilla as a gift the night before her birthday."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:02"
+    "extraction_date_time": "2026.07.15 13:40:51"
   }
 }

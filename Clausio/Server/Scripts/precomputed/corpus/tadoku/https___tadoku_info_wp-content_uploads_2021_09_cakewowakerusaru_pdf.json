@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ケーキを分けるさるむかしむかし、あるところにねこが二匹いました。",
+      "english_translation": "Once upon a time, there were two cats who wanted to share a cake."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ある日、一匹がどこかからケーキをひとつぬすんで来ました。",
+      "english_translation": "One day, a cat came and stole one cake from somewhere."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "二匹はうれしくなり、そのケーキを分けて食べることにしました。",
+      "english_translation": "The two of them were happy, and they decided to share the cake."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "分けてみると、かた方が少し大きくなりました。",
+      "english_translation": "When separated, one side became slightly larger."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "二匹のねこを木の上から一匹のさるがずっと見ていました。",
+      "english_translation": "Two cats were being watched by a monkey from the top of a tree."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:01"
+    "extraction_date_time": "2026.07.15 13:37:45"
   }
 }

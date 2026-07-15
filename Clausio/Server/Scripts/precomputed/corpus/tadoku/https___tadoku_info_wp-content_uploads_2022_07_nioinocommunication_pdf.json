@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "この動物園では、お客さんから動物園に対する意見をもらっています。",
+      "english_translation": "We are collecting feedback from visitors about the zoo."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ある日、「動物園の中のにおいが気になる」という意見をもらいました。",
+      "english_translation": "I received feedback that \"the smell inside the zoo was concerning.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そこで、動物園の園長はホームページのブログで、考えを書きました。",
+      "english_translation": "Therefore, the zoo director wrote about his thoughts on the zoo's website blog."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "病気にならないように、きれいな環境で動物を育てることは大切です。",
+      "english_translation": "It is important to raise animals in a clean environment to prevent them from getting sick."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そのために、いつも動物園の中を掃除しています。",
+      "english_translation": "Therefore, I always clean up inside the zoo."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:03"
+    "extraction_date_time": "2026.07.15 13:26:17"
   }
 }

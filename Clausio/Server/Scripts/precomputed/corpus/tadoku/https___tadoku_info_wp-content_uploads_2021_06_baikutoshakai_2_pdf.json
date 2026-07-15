@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "災害とバイク－バイクの機動力が生きる場面－バイクの良い点のひとつに、機動力が高いことがあります。",
+      "english_translation": "To English: Disasters and Motorcycles – Where Motorcycle Mobility Matters: One of the advantages of motorcycles is their high maneuverability."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "詳しく言うと、バイクは車と同じようにエンジンで動くので、スピードが出るし、遠くまで行けます。",
+      "english_translation": "Specifically, motorcycles operate like cars, using an engine to generate speed and allowing for long-distance travel."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "また、車より小さくて軽いので、車で行けない細い道や悪い道でも通ることができます。",
+      "english_translation": "Furthermore, because it is smaller and lighter than a car, it can navigate narrow or rough roads that are inaccessible by vehicle."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "こんなバイクの機動力が役に立つときが、災害です。",
+      "english_translation": "This type of motorcycle's maneuverability is useful in situations like disasters."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "日本は、地震や台風、大雨や火山の噴火など、自然災害が多い国です。",
+      "english_translation": "Japan is a country that experiences many natural disasters, such as earthquakes, typhoons, heavy rain, and volcanic eruptions."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:15:56"
+    "extraction_date_time": "2026.07.15 13:21:29"
   }
 }

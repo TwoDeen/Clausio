@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "十種競技は2日間で十種目の競技をしなければなりません。",
+      "english_translation": "The decathlon requires athletes to compete in ten different events over two days."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "十種目の記録を点にして、点数の合計で順位が決まります。",
+      "english_translation": "The ranking is determined by the total score, with each event's result contributing to the overall score."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "（上の絵の左から１日目：100m走、走幅跳、砲丸投、走高跳、400m走）（下の絵の左から２日目：110mハードル、円盤投げ、棒高跳、やり投げ、1500m走）実は、私は一度だけ十種競技をしたことがあります。",
+      "english_translation": "(The image on the left shows the first day, from left to right: 100m run, long jump, shot put, high jump, 400m run. The image on the right shows the second day, from left to right: 110m hurdles, discus throw, pole vault, javelin throw, 1500m run.) Actually, I have only competed in the decathlon once."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "記録あまりよくありませんでした。",
+      "english_translation": "The records were not very good."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ただ、十種競技が終わった次の日、歩くと体中が痛くて、階段をのぼることもできなかったことをよく覚えています。",
+      "english_translation": "However, I still remember vividly that the day after the decathlon ended, just walking around caused pain all over my body, and I couldn't even climb stairs."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:09:46"
+    "extraction_date_time": "2026.07.15 13:40:02"
   }
 }

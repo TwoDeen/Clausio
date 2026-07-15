@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「おかあさん、来てー！早く！！」娘は６歳だ。",
+      "english_translation": "\"Mom, I'm here! Hurry up!\" The daughter is six years old."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "トイレでうんちをしておしりをふくときに、私を呼ぶ。",
+      "english_translation": "Please call me when you need help cleaning up after yourself in the bathroom."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "それはいつものことなのだけれど、今日はいつもと違う。",
+      "english_translation": "That's normal, but today is different."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "怖いものでも見たような、助けを求めるような声で私を呼んでいるのだ。",
+      "english_translation": "They're calling my name, with voices that sound just like those I've heard in nightmares, pleading for help."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私が急いでトイレに行くと、娘が泣きそうな顔で、「うんちが、ね、うんちがプラプラする！」と、言う。",
+      "english_translation": "As I rushed to the bathroom, my daughter looked at me with a distressed expression and said, \"My poop is... it's sloshing around!\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:26"
+    "extraction_date_time": "2026.07.15 13:25:00"
   }
 }

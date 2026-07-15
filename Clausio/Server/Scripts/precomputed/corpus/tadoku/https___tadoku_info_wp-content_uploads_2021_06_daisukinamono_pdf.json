@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "いちばん古い記憶は、３歳の誕生日パーティーの記憶だ。",
+      "english_translation": "The earliest memory I have is of my third birthday party."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "両親から、飛行機のおもちゃをもらった。",
+      "english_translation": "I received an airplane toy from my parents."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その飛行機にはタイヤが付いていて、床に置いて少し後ろに引いてから手を離すと、びゅーんと走り出した。",
+      "english_translation": "The airplane had wheels, and when I put it on the floor, pulled it back a little, and let go of the handles, it shot forward with a \"whoosh.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "パーティーの写真には、そのおもちゃといっしょに、飛行機の形のケーキも写っているから、たぶん、当時のわたしは飛行機に夢中だったのだろう。",
+      "english_translation": "In the party photos, there's also a cake shaped like an airplane alongside the toys. So, I probably spent a lot of time playing with airplanes back then."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "６歳の頃はタクシーやトラックを見るのが大好きだった。",
+      "english_translation": "When I was six years old, I loved seeing taxis and trucks."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:17"
+    "extraction_date_time": "2026.07.15 13:40:32"
   }
 }

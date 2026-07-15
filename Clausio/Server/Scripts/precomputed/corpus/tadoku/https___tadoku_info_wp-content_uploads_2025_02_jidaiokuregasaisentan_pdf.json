@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "時代遅れが最先端？私はテクノロジーに弱いです。",
+      "english_translation": "Is outdated technology actually cutting-edge? I'm not very tech-savvy."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "仕事でコンピューターを使いますが、新しい機能が次々と出てきます。",
+      "english_translation": "I use computers for work, and new features keep appearing all the time."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "だから仕事の内容よりも、それらを使えるようになることに苦労をしています。",
+      "english_translation": "Therefore, I'm struggling more with actually being able to use them than with understanding the job content itself."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "スマートフォンを使う場合でも、電話、メッセージの交換、写真の撮影のような基本的なことしかできません。",
+      "english_translation": "Even when using a smartphone, you can only perform basic functions such as making calls and sending messages, and taking photos."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "レストランや買い物に行くと、半分ぐらいの人はアプリで支払いをしているようです。",
+      "english_translation": "Approximately half of people who go to restaurants or shops use apps for payment."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:49"
+    "extraction_date_time": "2026.07.15 13:30:05"
   }
 }

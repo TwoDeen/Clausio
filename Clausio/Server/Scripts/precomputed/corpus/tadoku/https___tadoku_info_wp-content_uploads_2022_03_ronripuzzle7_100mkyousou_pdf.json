@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "100メートル競走【問題】A、B、Cの３人が１対１の100メートル競走を行いました。",
+      "english_translation": "Translation: 100-meter race [Problem] Three people, A, B, and C, competed in a one-on-one 100-meter race."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その結果、Aは20メートル差でBに勝ちました。",
+      "english_translation": "As a result, A won by 20 meters over B."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そして、Bは20メートル差でCに勝ちました。",
+      "english_translation": "And, B won against C by 20 meters."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それでは、AとCが競走すると、Aは何メートル差でCに勝つでしょうか？A、B、Cの３人は、いつも同じ速さで走ります。",
+      "english_translation": "Okay, if A and C are racing, by what distance will A win over C? Assuming A, B, and C always run at the same speed."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "（解答は次のページ）【解答】Aは36メートル差でCに勝ちます。",
+      "english_translation": "(Answer on the next page) [Answer] A wins by 36 meters over C."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:00"
+    "extraction_date_time": "2026.07.15 13:32:11"
   }
 }

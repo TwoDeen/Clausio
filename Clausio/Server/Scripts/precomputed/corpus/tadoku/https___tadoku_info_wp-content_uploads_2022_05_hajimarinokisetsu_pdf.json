@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本の学校や会社では、４月に新しい年がはじまります。",
+      "english_translation": "In schools and companies in Japan, a new year begins in April."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "たとえば、新しく小学校に入る子どもは、４月に「小学１年生」になって、次の年の４月に「小学２年生」になります。",
+      "english_translation": "For example, a child starting elementary school for the first time will become a \"first-grade student\" in April and a \"second-grade student\" in April of the following year."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "会社でも、新しく入る人は、基本的には４月に入ります。",
+      "english_translation": "In companies, new employees typically start their work in April."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "カレンダー上では、１月から12月が「１年」です。",
+      "english_translation": "According to the calendar, from January to December is considered \"one year.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ですから、１月に「今年は、たくさん旅行に行きたい！」など、「新年の目標」をみんなで話したりします。",
+      "english_translation": "Therefore, in January, everyone will discuss their \"New Year's resolutions,\" such as \"This year, I want to travel a lot!\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:58"
+    "extraction_date_time": "2026.07.15 13:31:19"
   }
 }

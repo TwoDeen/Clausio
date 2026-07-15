@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "昔の日本の家は、窓を全部閉めてもどこかに隙間があって、常に若干の空気の流れがあった。",
+      "english_translation": "In traditional Japanese homes, even when all the windows were closed, there was always a small gap somewhere, resulting in a constant, slight airflow."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そのため、冬はすきま風が吹いて寒かったのだが、家の中の空気の入れ換えが自然に行われていた。",
+      "english_translation": "Therefore, although it was cold and drafty in winter, the air inside the house circulated naturally due to the ventilation."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "それが現代の住宅では、家全体がしっかりと密閉されるようになり、すきま風が入らなくなった。",
+      "english_translation": "In modern homes, the entire structure is designed to be tightly sealed, preventing drafts and air leaks."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "気密性が高まって、冬には暖房で暖まった空気が逃げないので部屋が暖かく保たれるのだが、自然に空気が入れ換わらないため、換気システムを設置して強制的に空気の入れ換えを行わなければならなくなった。",
+      "english_translation": "\"As the airtightness increased, the room remained warm even in winter because heated air didn't escape. However, this also meant that fresh air couldn't circulate naturally, so we had to install a ventilation system to force air exchange.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "特にマンションは、部屋の広さや建物全体の構造から、気密性が高い。",
+      "english_translation": "Specifically, apartments tend to be very airtight due to their size and the overall structure of the building."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 09:12:49"
+    "extraction_date_time": "2026.07.15 13:32:40"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "◎まちがいを受け入れる社会小国士朗（おぐにしろう）さんはNHKという日本のテレビ局で働いていました。",
+      "english_translation": "◎Ogushi Rō, a social worker who accepted mistakes, worked for NHK, a Japanese television station."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "彼の仕事はいろいろなテレビ番組を作ることです。",
+      "english_translation": "His job involves creating various television programs."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ある日、小国さんは新しい番組を作るために、認知症のお年寄りたちが一緒に住んでいる施設へ行きました。",
+      "english_translation": "One day, Mr. Okuwa went to a facility where elderly people with dementia lived together in order to create a new program."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "認知症になると、記憶力が弱くなったり、家族のことが分からなくなったりします。",
+      "english_translation": "When someone develops dementia, their memory becomes weaker, and they may also lose track of their family members."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そこでは、そんな認知症のお年寄りたちが、いろいろな人の世話を受けながら、生活していました。",
+      "english_translation": "There, elderly people with dementia lived while receiving care from various individuals."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:12"
+    "extraction_date_time": "2026.07.15 13:43:38"
   }
 }

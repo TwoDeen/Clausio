@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ここは、普通に金魚を見るところではありません。",
+      "english_translation": "This is not a place where you can simply observe goldfish."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「光」「影」「音楽」「日本文化」を感じながら、金魚を見ることができます。",
+      "english_translation": "You can enjoy observing goldfish while experiencing \"light,\" \"shadow,\" \"music,\" and \"Japanese culture.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "水の音を流しながら「音楽」を楽しむことができます。",
+      "english_translation": "You can enjoy \"music\" while listening to the sound of water."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、日本のガラス、着物、陶器、建築を取り入れて、「日本文化」も知ることができます。",
+      "english_translation": "And, you can also learn about \"Japanese culture\" by experiencing items such as Japanese glass, kimonos, pottery, and architecture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "いつもとは違う世界にいるように感じるでしょう。",
+      "english_translation": "You'll probably feel like you're in a completely different world than usual."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:23"
+    "extraction_date_time": "2026.07.15 13:22:11"
   }
 }

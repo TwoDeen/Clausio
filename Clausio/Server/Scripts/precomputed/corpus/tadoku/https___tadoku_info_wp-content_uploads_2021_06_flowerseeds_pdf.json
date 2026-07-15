@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "植物には、春になると花を咲かせるものが多い。",
+      "english_translation": "Many plants bloom in spring."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "毎日の気温が少しずつ上がり、道ばたに花が咲いているのを見かけるようになると、「あ、春が近いな」と心が軽くなってくる。",
+      "english_translation": "As the daily temperatures gradually rise and I start to see flowers blooming along the roadsides, I feel a sense of lightness and anticipation, knowing that spring is coming."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "しかし、どうして植物は春に花を咲かせるのであろうか。",
+      "english_translation": "However, why do plants bloom in spring?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "春になると花が咲くのは当然のことだと思っていたが、それにも理由があるはずである。",
+      "english_translation": "I had always thought that flowers blooming in spring was simply a natural occurrence, but there must be a reason for it."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その答えは、どうやら植物の生きる術に関係があるらしい。",
+      "english_translation": "Apparently, the answer lies in how plants survive."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 09:15:49"
+    "extraction_date_time": "2026.07.15 13:34:30"
   }
 }

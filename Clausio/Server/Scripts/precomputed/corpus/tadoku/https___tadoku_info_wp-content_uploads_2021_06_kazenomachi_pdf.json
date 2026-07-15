@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ロシアの南、イランの北にあり、首都バクーはカスピ海に面している。",
+      "english_translation": "Located south of Russia and north of Iran, with its capital Baku facing the Caspian Sea."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "バクーではいつも、カスピ海からの風が町中を吹いている。",
+      "english_translation": "In Baku, the wind from the Caspian Sea is always blowing through the city."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "私がバクーに住み始めたのは、5月だった。",
+      "english_translation": "I started living in Baku in May."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "いいときにいらっしゃいましたね。",
+      "english_translation": "It's nice to have you here at this time."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "5月の公園には、この国の人が大好きなバラの花が咲き乱れていた。",
+      "english_translation": "In May, roses were blooming all over the park, and they were a favorite flower of people in this country."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:02"
+    "extraction_date_time": "2026.07.15 13:28:15"
   }
 }

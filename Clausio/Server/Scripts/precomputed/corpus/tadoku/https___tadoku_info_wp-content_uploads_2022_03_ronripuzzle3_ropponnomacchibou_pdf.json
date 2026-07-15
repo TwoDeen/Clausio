@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "６本のマッチ棒【問題】マッチ棒が６本あります。",
+      "english_translation": "To English: Matchsticks (6 pieces) [Problem] There are 6 matchsticks."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "これを使って、正三角形（すべての辺の長さが同じ三角形）を一番多くつくると、いくつできるでしょうか？もちろん、２つではありません。",
+      "english_translation": "Using these, what is the maximum number of equilateral triangles (triangles with all sides of equal length) that can be made? And of course, it's not just two."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "（解答は次のページ）【解答】４つの正三角形をつくることができます。",
+      "english_translation": "(The answer is on the next page) [Answer]: You can create four equilateral triangles."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ふつうにマッチ棒を並べると、６本では２つしかできません。",
+      "english_translation": "If you arrange six matchsticks in a row, you can only make two fires."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "いろいろと試しても、１本のマッチ棒を２つの正三角形の辺として使うくらいでしょう。",
+      "english_translation": "It's likely that you would use one matchstick as a side for two equilateral triangles, even after trying various methods."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:29"
+    "extraction_date_time": "2026.07.15 13:20:37"
   }
 }

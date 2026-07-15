@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ウェブのニュースと紙のニュース若い人たちの中で新聞を読んでいる人は非常に少ないようです。",
+      "english_translation": "It seems that among young people, those who read newspapers are very few compared to those who get their news from online sources."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "多くの若者はテレビもあまり見ていません。",
+      "english_translation": "Many young people don't watch much television."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "では、若者たちは何によってニュースを知るのでしょうか。",
+      "english_translation": "So, how do young people get their news?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "スマホでウェブサイトのニュースを見る人たちが多いようです。",
+      "english_translation": "It seems that many people are viewing news websites on their smartphones."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ウェブサイトのニュースも、紙の新聞のニュースと同じ記事を載せていることがあります。",
+      "english_translation": "Websites sometimes publish news articles that are identical to those found in print newspapers."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 09:11:41"
+    "extraction_date_time": "2026.07.15 13:25:27"
   }
 }

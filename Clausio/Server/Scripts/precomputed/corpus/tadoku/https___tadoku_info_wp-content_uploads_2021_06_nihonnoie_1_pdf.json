@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "3匹の子ブタは３つの家を作りました。",
+      "english_translation": "The three little pigs built three houses."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "一匹目の子ブタはわらで家を作りましたが、わらの家はオオカミに「フーッ」と吹き飛ばされました。",
+      "english_translation": "The first little pig built a house out of straw, but the wolf blew it down with a \"woof.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "二匹目の子ブタは木で家を作りましたが、木の家はオオカミに燃やされました。",
+      "english_translation": "The second pig built a house in the woods, but the wolf burned it down."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "三匹目の子ブタはれんがで家を作りました。",
+      "english_translation": "The third little pig built his house out of clay."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "家を作るのに時間がかかりましたが、丈夫な家ができました。",
+      "english_translation": "It took a long time to build the house, but we have a strong and durable home now."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 09:10:36"
+    "extraction_date_time": "2026.07.15 13:20:23"
   }
 }

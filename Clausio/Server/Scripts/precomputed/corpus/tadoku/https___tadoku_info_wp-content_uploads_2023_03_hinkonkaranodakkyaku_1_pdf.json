@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "お兄ちゃんがしゃべったよ！－シエラレオネの少年アラジ－「シエラレオネ」という国を知っていますか。",
+      "english_translation": "\"My older brother talked! – Sierra Leone boy, Alaji – Do you know the country called \"Sierra Leone\"?"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私の周りの人に聞いてみると、まず知らないという人が多いです。",
+      "english_translation": "When I ask people around me, most of them say they don't know who I am."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "アフリカ大陸の西のでっぱりの部分にある、海に面した小さな国です。",
+      "english_translation": "It is a small country located on the western coast of Africa, bordering the sea."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "昔は奴隷貿易が行われていました。",
+      "english_translation": "In the past, slave trade was practiced."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "また品質の高いダイヤモンドがとれることでも有名です。",
+      "english_translation": "It is also famous for producing high-quality diamonds."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 09:12:55"
+    "extraction_date_time": "2026.07.15 13:33:27"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "外国人が日本に来て、楽しみにしていることはなんでしょうか？日本料理を食べること、神社やお寺へ行くこと、新幹線に乗ることなど、色々体験したいことがあるでしょう。",
+      "english_translation": "What are some of the things that foreigners coming to Japan look forward to experiencing? Perhaps trying Japanese cuisine, visiting shrines and temples, or riding the Shinkansen. There are so many exciting things to do!"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "このほかに、温泉に入りたいという人もいるでしょう。",
+      "english_translation": "In addition to this, there may also be people who would like to enjoy an onsen (hot spring)."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "しかし、日本では、タトゥーがある人は、温泉、銭湯、プール、海に入ることができない場合があります。",
+      "english_translation": "However, in Japan, people with tattoos may be unable to enter onsen (hot springs), public baths, swimming pools, and the ocean."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本では、タトゥーに対して、悪い、マイナスのイメージがあります。",
+      "english_translation": "In Japan, tattoos have traditionally had a negative image."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その理由は、江戸時代（1603年～1868年）に悪いことをした人に罰としてタトゥーを入れたからです。",
+      "english_translation": "The reason for this is that in the Edo period (1603-1868), criminals were given tattoos as a form of punishment."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:17"
+    "extraction_date_time": "2026.07.15 13:38:50"
   }
 }

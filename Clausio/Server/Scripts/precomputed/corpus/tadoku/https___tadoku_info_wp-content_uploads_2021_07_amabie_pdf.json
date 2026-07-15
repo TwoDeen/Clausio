@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "今まで、あまり有名ではありませんでした。",
+      "english_translation": "I haven't been very well known until now."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、2020年に有名になりました。",
+      "english_translation": "However, it gained popularity in 2020."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "アマビエは悪い病気から人を守ります。",
+      "english_translation": "Amabie protects people from bad illnesses."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それで、たくさんの人がアマビエの絵をかきました。",
+      "english_translation": "So, many people drew pictures of Amabie."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "アマビエは、キャラクターになりました。",
+      "english_translation": "\"Amabie has become a character.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:29"
+    "extraction_date_time": "2026.07.15 13:27:04"
   }
 }

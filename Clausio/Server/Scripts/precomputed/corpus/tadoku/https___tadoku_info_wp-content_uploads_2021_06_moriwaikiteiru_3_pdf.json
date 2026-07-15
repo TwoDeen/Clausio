@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "森は海の魚を育てているー海と山は川によってつながっているよ！「森が海の魚を育てている」、このタイトルを見て「川の魚を育てている」の間違いではありませんか？とある留学生に聞かれました。",
+      "english_translation": "\"The forest is raising fish in the sea – the sea and the mountains are connected by rivers!\" I was asked by a foreign student: \"Is there a mistake between 'The forest raises fish in the sea' and 'The river raises fish'? When I see 'The forest raises fish in the sea', it sounds like 'The river raises fish'.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "いいえ、このタイトルは間違いではありません。",
+      "english_translation": "No, this title is correct."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "海から遠く離れた森でも、川によって海とつながり、森は海の魚を育てているのです。",
+      "english_translation": "Even in forests far from the sea, rivers connect them to the ocean, allowing the forest to nurture marine life."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "森の中の川は森の中で生まれたたくさんの栄養を海まで運びます。",
+      "english_translation": "The river in the forest carries nutrients from the forest to the sea."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "海の中でも特に魚が多いのは、沿岸部、つまり川に近いところです。",
+      "english_translation": "Specifically, areas near rivers tend to have the most fish in the ocean."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 09:11:58"
+    "extraction_date_time": "2026.07.15 13:28:56"
   }
 }

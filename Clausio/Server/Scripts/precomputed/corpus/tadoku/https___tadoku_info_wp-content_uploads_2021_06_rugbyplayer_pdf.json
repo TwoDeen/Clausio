@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ある会社員の男性が道路の端に車を止めて休んでいました。",
+      "english_translation": "A male office worker was stopped on the side of the road, leaning against his car and resting."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「そろそろ家に帰ろうか･･･」男性は出発しようと思って、車を発進しました。",
+      "english_translation": "\"I should probably head home now...\" The man decided to leave and started the car."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "すると、「ゴットン」車が何かに乗り上げた感じがしました。",
+      "english_translation": "Then, it felt like the \"Gutton\" car had been lifted by something."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "急いで車から降りて見てみると、なんと車の下から人の手が見えます。",
+      "english_translation": "I quickly got out of the car and looked down, and to my surprise, I saw a person's hand sticking out from under the car."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "男性は車で人を轢いてしまったのです。",
+      "english_translation": "A man hit a person with his car."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 1,
     "sentence_level": 3,
     "article_length": 349,
-    "extraction_date_time": "2026.07.15 09:10:25"
+    "extraction_date_time": "2026.07.15 13:24:00"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "マンホールのふた－進化する役割－どの国にも独自の芸術文化があります。",
+      "english_translation": "Manhole covers – evolving roles – Each country has its own unique art and culture."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本の芸術文化といえば、映画、漫画、アニメ、舞踊、歌舞伎、陶器、着物、絵画など、様々なものがあります。",
+      "english_translation": "When you think of Japanese art and culture, there are many things to consider, such as movies, manga, anime, dance, Kabuki, pottery, kimonos, and paintings."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "マンホールの中には、トイレやお風呂、台所で使った水、雨水などの下水が流れています。",
+      "english_translation": "The manhole contains wastewater from toilets, bathtubs, and kitchens, as well as rainwater and other sewage."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "世界中で、ほとんどのマンホールのふたは丸い形をしています。",
+      "english_translation": "In most parts of the world, the majority of manhole covers are round in shape."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "なぜ丸い形なのでしょうか？もしマンホールのふたが四角い形でふたが外れてしまった場合、1つの辺の長さはその対角線よりも短いので、ふたがマンホールの中に落ちてしまいます。",
+      "english_translation": "Why are they round? If a manhole cover were square and fell off, one side would be shorter than the diagonal, so it wouldn't fit back into the hole."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:50"
+    "extraction_date_time": "2026.07.15 13:31:32"
   }
 }

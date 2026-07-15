@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "遠い昔、異国の地に住んでいたころのことである。",
+      "english_translation": "A long time ago, when I lived in a foreign land."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その国で、私はあまり肉を食べなかった。",
+      "english_translation": "In that country, I didn't eat much meat."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その理由は注文の仕方がわからなかったからである。",
+      "english_translation": "The reason is that I didn't understand how to place the order."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本で肉を買いたいときは、普通にスーパーマーケットや肉屋に行けばいい。",
+      "english_translation": "If you want to buy meat in Japan, simply go to a regular supermarket or butcher shop."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そこには、牛、豚、鶏の肉が、すぐに料理できる形で、部位ごとにパックされて売られている。",
+      "english_translation": "There, you can find beef, pork, and chicken meat, all pre-cut into convenient portions for cooking, packaged by type."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:04"
+    "extraction_date_time": "2026.07.15 13:28:44"
   }
 }

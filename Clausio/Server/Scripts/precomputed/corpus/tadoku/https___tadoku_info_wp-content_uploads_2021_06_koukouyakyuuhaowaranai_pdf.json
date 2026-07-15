@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "野球は日本でとても人気があるスポーツです。",
+      "english_translation": "Baseball is a very popular sport in Japan."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "プロ野球はもちろん、高校生の野球、高校野球もとても人気があります。",
+      "english_translation": "Professional baseball is very popular, but so are high school baseball and high school baseball tournaments."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "高校野球は、春と夏、年2回、全国大会があります。",
+      "english_translation": "High school baseball has two national tournaments, one in spring and one in summer."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "野球の全国大会は、兵庫県西宮市の甲子園というところにある野球場、甲子園球場で行われます。",
+      "english_translation": "The national baseball tournament is held at Koshien Stadium, located in Nishinomiya City, Hyogo Prefecture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それで、高校野球の全国大会は「甲子園」と呼ばれています。",
+      "english_translation": "So, the national high school baseball tournament is called \"Koshien.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:49"
+    "extraction_date_time": "2026.07.15 13:29:33"
   }
 }

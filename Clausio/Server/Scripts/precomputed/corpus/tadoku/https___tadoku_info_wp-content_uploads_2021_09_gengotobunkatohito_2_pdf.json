@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「日本語だけでなく、日本の文化や習慣も！」－文化って何だろう－「外国語を習得するためには、言語だけでなく、その国の文化や習慣も学ばなければならない」と日本の人はよく言います。",
+      "english_translation": "\"Not only Japanese, but also the culture and customs of Japan!\" – What exactly is \"culture\"? – The Japanese often say that \"to acquire a foreign language, one must learn not just the language, but also the culture and customs of that country.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "たしかに、言語と文化は表裏一体のものだと言っていいでしょう。",
+      "english_translation": "Indeed, language and culture are inextricably linked."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "しかし、その場合の文化とは何でしょう。",
+      "english_translation": "However, what exactly is the culture in that situation?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "経済？政治？社会？どれも違います。",
+      "english_translation": "None of those fit."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "すべての動物は自然の中で自然の環境と相互作用をしながら生きています。",
+      "english_translation": "All animals live in nature, interacting with their natural environment."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 09:09:51"
+    "extraction_date_time": "2026.07.15 13:21:49"
   }
 }

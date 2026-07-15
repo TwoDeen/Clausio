@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "昔々、山の中に小さな村がありました。",
+      "english_translation": "Once upon a time, there was a small village nestled in the mountains."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その村には、ケンという男が住んでいました。",
+      "english_translation": "There was a man named Ken living in that village."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ケンはいつも静かで、よく一人で森に行き、変わった石を集めるのが好きでした。",
+      "english_translation": "Ken was always quiet, and he often went into the forest alone, enjoying collecting unusual stones."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "村の人たちは「どうしてそんな石を集めるの？」と聞きましたが、ケンは「ただ好きだから」とだけ答えていました。",
+      "english_translation": "The villagers asked, \"Why do you collect so many stones?\" But Ken simply replied, \"I just like them.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ある日、ケンが森を歩いていると、今まで見たことがない、とても大きくて光る石を見つけました。",
+      "english_translation": "One day, Ken was walking through the forest when he came across a very large and luminous stone that he had never seen before."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:56"
+    "extraction_date_time": "2026.07.15 13:26:01"
   }
 }

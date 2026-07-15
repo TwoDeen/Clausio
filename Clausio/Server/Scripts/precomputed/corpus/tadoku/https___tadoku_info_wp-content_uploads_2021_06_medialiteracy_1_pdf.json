@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "メディアとの3つの出会いが、私のこれまでの長い人生の中で、特に思い出に残っています。",
+      "english_translation": "Three encounters with the media stand out in my long life as particularly memorable experiences."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その第一は、1959年、私が小学校5年生のときに、家族がテレビを買ったことです。",
+      "english_translation": "The first is that in 1959, when I was in fifth grade at elementary school, my family bought a television."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "小さな映画館が家に来たようでした。",
+      "english_translation": "It felt like a small movie theater had come to my home."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "アメリカのアニメの主人公がテレビの画面で活躍していました。",
+      "english_translation": "The main character of an American anime was appearing on television screens."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それまでは、映画館でしか動画を見ることができませんでした。",
+      "english_translation": "Before that, I could only watch videos in movie theaters."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 09:11:16"
+    "extraction_date_time": "2026.07.15 13:36:39"
   }
 }

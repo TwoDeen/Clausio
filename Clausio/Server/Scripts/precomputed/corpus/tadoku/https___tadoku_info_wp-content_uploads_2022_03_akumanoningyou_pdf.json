@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "あるところに、古くて大きな家があった。",
+      "english_translation": "There was once an old, large house."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "10年くらい前まで、その家には、大金持ちの家族が住んでいた。",
+      "english_translation": "About ten years ago, that house was occupied by a wealthy family."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "でも、ある日、泥棒がその家に入り、その家のお金や宝石をすべて盗んだうえに、家族を全員殺してしまったらしい。",
+      "english_translation": "However, one day, a thief broke into the house and stole all of its money and jewels, as well as killing everyone in the family."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "でも、ぼくのおじいちゃんが、そう言っていた。",
+      "english_translation": "But, my grandfather said so."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "おじいちゃんは、低くてこわい声でゆっくりその話をしたから、ぼくはほとんど泣きそうになってしまったけど、なんとかがまんした。",
+      "english_translation": "My grandfather told me the story in a low, scary voice and slowly, so I almost cried. But I managed to hold it back."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:46"
+    "extraction_date_time": "2026.07.15 13:38:58"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「キャ」とターニャの叫び声が聞こえます。",
+      "english_translation": "\"キャ!\" The sound of Tarnya's scream can be heard."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「どうしたの？大丈夫？」私たちがいるのは、蓼科の森の中、ターニャの方を見ると長いシッポのキツネがターニャの叫び声に驚いたのか、立ち止まってじっとこちらを見ています。",
+      "english_translation": "\"What's wrong? Are you okay?\" I looked at Tarnya, and saw that a fox with a long tail had stopped in the forest of Tateoka, apparently startled by her cries. It was standing still and staring intently at us."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "キツネ、ロシアにもいるでしょう？」一番多いのは鹿、親子の鹿が目の前に飛び出すことは珍しくありません。",
+      "english_translation": "\"Are there also foxes in Russia?\" The most common animals are deer, and it's not uncommon to see a pair of parent and child deer appear suddenly."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ウサギやいのしし、秋になるとドングリを落とす木のまわりにはリスがよく来ます。",
+      "english_translation": "Rabbits, squirrels, and other animals often come around trees that drop acorns in the fall."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「先生、熊はいませんよね？」と心配そうにターニャ。",
+      "english_translation": "\"Teacher, there aren't any bears, right?\" Tanya asked anxiously."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 09:16:10"
+    "extraction_date_time": "2026.07.15 13:28:36"
   }
 }

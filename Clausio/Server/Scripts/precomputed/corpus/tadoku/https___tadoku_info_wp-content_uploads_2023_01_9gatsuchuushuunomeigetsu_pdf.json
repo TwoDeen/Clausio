@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "９月中秋の名月「今晩は中秋の名月だよ。",
+      "english_translation": "\"Tonight is the Mid-Autumn Festival, and we have a beautiful full moon.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "一緒にお月見しよう」後ろの席のカオルから渡されたメモには、そう書いてあった。",
+      "english_translation": "\"Let's watch the moon together,\" was written on the note handed to me by Kaoru, who was sitting behind me."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ユキオとカオルは同じクラスの高校２年生だ。",
+      "english_translation": "Yuki and Kaoru are both second-year high school students in the same class."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "１年生のころからずっと同じクラスだった。",
+      "english_translation": "I've been in the same class with this person since I was in first grade."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "カオルは社交的な性格で、誰とでも友達になれた。",
+      "english_translation": "Kaoru is a sociable person and can easily make friends with anyone."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:14"
+    "extraction_date_time": "2026.07.15 13:38:08"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "彼はあることをして、オバマさんから手紙をもらいました。",
+      "english_translation": "He did something, and as a result, he received a letter from Obama."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "オバマさんは、アメリカの前の大統領です。",
+      "english_translation": "Obama was the former president of the United States."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ダリウス君は、どんなことをしたのでしょう。",
+      "english_translation": "What did Darius do?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ダリウス君は、２歳のときにお医者さんに、「君は、話す力、理解する力、運動する力がほかの子どもより少し低い」と言われました。",
+      "english_translation": "When Darius was two years old, he was told by a doctor that his \"speaking ability, understanding ability, and motor skills were slightly lower than those of other children.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "しかし、ダリウス君はいつも誰かの役に立ちたいと思っていました。",
+      "english_translation": "However, Darius always wanted to be of use to someone."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:55"
+    "extraction_date_time": "2026.07.15 13:44:03"
   }
 }

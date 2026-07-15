@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "－夏休みの宿題を研究する－このタイトルを読んで、難しそうな読み物だなと思ったかもしれません。",
+      "english_translation": "– Researching Summer Vacation Homework – I imagine you might have thought this title sounds like a difficult read."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "最後を読んだとき、きっと笑っているはずです。",
+      "english_translation": "I'm sure you were laughing when you read the last part."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "日本の学校では、夏休みにたくさんの宿題があります。",
+      "english_translation": "In Japanese schools, there is a lot of homework during summer vacation."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "すぐ始める人、最後までやらない人、いろいろな人がいます。",
+      "english_translation": "There are people who start immediately, those who don't finish, and all sorts of different types of people."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私は計画を立てて行動することが好きなので、まず、宿題のスケジュールを作ります。",
+      "english_translation": "I enjoy making plans and taking action, so first, I will create a schedule for my homework."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:25"
+    "extraction_date_time": "2026.07.15 13:30:37"
   }
 }

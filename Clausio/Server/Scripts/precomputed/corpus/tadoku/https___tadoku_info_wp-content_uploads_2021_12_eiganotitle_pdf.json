@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "1995年に日本で「恋する惑星」という映画が公開されました。",
+      "english_translation": "In 1995, the movie \"Love Letter\" was released in Japan."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "わたしはその映画に出ていた俳優が好きだったので、何度もその映画を見ました。",
+      "english_translation": "Because I liked the actor who appeared in that movie, I watched it many times."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "香港の街の様子がおしゃれに描かれていて、いつか行ってみたいと思いました。",
+      "english_translation": "The depiction of Hong Kong's city life is so stylish, and I really want to visit there someday."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "その映画から4年後、1999年に、わたしはついに香港に行くことができました！香港で美味しいものを食べ、映画の雰囲気と同じ、エネルギーにあふれた街を歩き、夜は足の裏をマッサージしてもらいながら、のんびりしました。",
+      "english_translation": "Four years after seeing that movie, in 1999, I finally made it to Hong Kong! I enjoyed delicious food, walked around the vibrant city, which felt just like the one from the film, and relaxed with foot massages at night."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ある夜、たまたま夕食の席で隣にいた現地の人に話しかけられました。",
+      "english_translation": "One evening, I happened to strike up a conversation with a local person who was sitting next to me at dinner."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:37"
+    "extraction_date_time": "2026.07.15 13:29:26"
   }
 }

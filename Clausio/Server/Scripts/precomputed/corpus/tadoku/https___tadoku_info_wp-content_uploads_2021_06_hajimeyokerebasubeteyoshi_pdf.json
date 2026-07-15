@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "このお話は、Uberもない、スマホもない時代のお話です。",
+      "english_translation": "This story is set in an era before Uber and smartphones existed."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "長い休みのとき、クアラルンプールからタイのバンコクへ旅行に行こうと思いました。",
+      "english_translation": "I was thinking about taking a trip from Kuala Lumpur to Bangkok, Thailand, during my extended vacation."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "バンコクへ行くには、まず、私の住んでいるところからタクシーに乗って、KLセントラル駅へ行きます。",
+      "english_translation": "To get to Bangkok, I will first take a taxi from my current location to KL Central Station."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、KLセントラル駅からクアラルンプール国際空港へ行く電車に乗ります。",
+      "english_translation": "Then, I will take a train from KL Central Station to Kuala Lumpur International Airport."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そして、空港から飛行機に乗って、タイのバンコクへ行きます。",
+      "english_translation": "And then, we will take a flight from the airport and go to Bangkok, Thailand."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:14"
+    "extraction_date_time": "2026.07.15 13:38:39"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "４つのボート【問題】あなたは、４つのボートを川の向こうの岸に渡さなくてはなりません。",
+      "english_translation": "To English: You need to get four boats across a river to the other side."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ボートは川を渡るのに、それぞれ１分、２分、４分、８分かかります。",
+      "english_translation": "The boats take 1 minute, 2 minutes, 4 minutes, and 8 minutes to cross the river respectively."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "４つのボートを川の向こうの岸に全部渡すのに、一番短い時間で何分かかるでしょうか？ボートを渡すときは、２つのボートしかいっしょに行けません。",
+      "english_translation": "What is the shortest time, in minutes, it will take to get all four boats across the river? Only two boats can cross at a time."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "３つ以上のボートをいっしょに運ぶことはできないのです。",
+      "english_translation": "It is not possible to transport three or more boats together."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "２つのボートで川を渡るときは、遅い方のボートが渡る時の時間がかかります。",
+      "english_translation": "When crossing a river with two boats, the slower boat will take longer to cross."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:24"
+    "extraction_date_time": "2026.07.15 13:27:14"
   }
 }

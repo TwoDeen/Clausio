@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本にレンガの家は必要か？有名な日本の神社に、三重県の伊勢神宮があります。",
+      "english_translation": "Are brick houses necessary in Japan? A famous Shinto shrine in Mie Prefecture is Ise Grand Shrine."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そこにある神社は20年に一回、壊して、隣に建て直します。",
+      "english_translation": "The shrine there is rebuilt every 20 years."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "何千年も前からずっと続けられているルールだそうです。",
+      "english_translation": "It seems like this is a rule that has been in place for thousands of years."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "わたしは、どうして壊して作り直すのか、ずっと不思議に思っていました。",
+      "english_translation": "I have always wondered why people destroy things and then rebuild them."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "伊勢神宮の中にはたくさんの神社があります。",
+      "english_translation": "There are many shrines within Ise Grand Shrine."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 09:12:11"
+    "extraction_date_time": "2026.07.15 13:30:31"
   }
 }

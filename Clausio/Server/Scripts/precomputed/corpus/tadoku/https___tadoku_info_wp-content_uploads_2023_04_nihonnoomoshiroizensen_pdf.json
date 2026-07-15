@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本では天気がとても変わりやすいので、たいていの人は天気予報を見てから出かけます。",
+      "english_translation": "In Japan, the weather is very unpredictable, so most people check the forecast before going out."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "天気予報では天気や気温のことはもちろん、ちょっとしたアドバイスもしてくれます。",
+      "english_translation": "The weather forecast not only provides information about the weather and temperature, but also offers helpful advice."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "例えば、「朝はいい天気ですが、帰宅時間ごろには雨が降ります。",
+      "english_translation": "For example, \"The weather is nice in the morning, but it starts to rain around the time I get home.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "お出かけの際は、折りたたみ傘を鞄に入れておくといいでしょう」「熱中症にならないよう、水分をこまめにとるようにしてください」などといったアドバイスで、それに助けられる人も多いです。",
+      "english_translation": "\"When going out, it's a good idea to keep an umbrella in your bag,\" and \"Please take regular sips of water to avoid heatstroke.\" These kinds of advice are helpful for many people."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "また、天気予報で欠かせないものは前線の情報です。",
+      "english_translation": "Also, essential information in weather forecasts is always about fronts."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:09:49"
+    "extraction_date_time": "2026.07.15 13:27:35"
   }
 }

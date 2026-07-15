@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "今、ドイツのマルクス・ガブリエルが大人気です。",
+      "english_translation": "Currently, Markus Gabriel, a German philosopher, is very popular."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ルックスがよくて、話し方もカッコいい人です。",
+      "english_translation": "He's good-looking and has a cool way of speaking."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "でも、ミュージシャンや映画俳優ではありません。",
+      "english_translation": "However, I am not a musician or an actor."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ガブリエルは1980年生まれですので、まだ40代。",
+      "english_translation": "Since Gabriel was born in 1980, he is still in his 40s."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "かれは『なぜ世界は存在しないのか』という本で一気に現代哲学のスーパースターになりました。",
+      "english_translation": "He became an instant superstar in contemporary philosophy after publishing \"Why Does the World Not Exist?\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 09:12:50"
+    "extraction_date_time": "2026.07.15 13:24:12"
   }
 }

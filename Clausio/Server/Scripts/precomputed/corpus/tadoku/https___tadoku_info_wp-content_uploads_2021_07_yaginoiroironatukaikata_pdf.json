@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ヤギのミルクを飲んだり、ヤギの肉を食べたり、ヤギの毛皮で服を作ったり、ヤギの糞を土に混ぜて野菜を作ったりすることができます。",
+      "english_translation": "You can drink goat's milk, eat goat meat, make clothes from goat hair, and grow vegetables by mixing goat manure with soil."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "最近、地球の環境を守るために、ヤギの新しい使い方が始まっています。",
+      "english_translation": "Recently, new uses for goats have begun as a way to protect the Earth's environment."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "屋上に緑を増やす研究のためです。",
+      "english_translation": "This is for research on increasing greenery on rooftops."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、2018年から、1年のうち数日だけ、屋上のいらない草をヤギに食べてもらうヤギ除草を始めました。",
+      "english_translation": "Furthermore, starting in 2018, we began using goats to clear unwanted grass from our rooftops, feeding them only for a few days each year."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "人が機械を使っていらない草を取ると、大きな音や二酸化炭素（CO2）が出ます。",
+      "english_translation": "When people use machines to remove weeds, it produces a lot of noise and carbon dioxide (CO2)."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:14"
+    "extraction_date_time": "2026.07.15 13:41:15"
   }
 }

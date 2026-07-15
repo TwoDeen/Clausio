@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "町家を直す人との対話２－自由になるための町家－松田：建築の魅力はいろいろあると思っています。",
+      "english_translation": "To English: A conversation with someone who restores traditional houses – Restoring Traditional Houses for Freedom: Matsuda: I believe there are many aspects to the appeal of architecture."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "たとえば町家の改修みたいなものは、茶道で千利休が魚のかごを花器につかったような、もともとあるものを見直したり、あまり形をつくらないで何かを表すというような魅力があります。",
+      "english_translation": "For example, renovations of townhouses like those might have the appeal of reinterpreting traditional elements, such as using a fish basket as a flower vase, as did Sen no Rikyu in the tea ceremony, or focusing on representing something rather than creating elaborate forms."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "もう一つは何か世界を変えていけるような発信力がある建築です。",
+      "english_translation": "Another example is an architectural project with the power to make a global impact."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "どっちも魅力かなと思いますが、林野さんは、どう考えますか。",
+      "english_translation": "Both seem appealing, but what do you think, Mr. Hayashi?"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "建築って、すごく自由を教えてくれるものだと思うんですよ。",
+      "english_translation": "I think architecture is something that really teaches you about freedom."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 09:11:11"
+    "extraction_date_time": "2026.07.15 13:41:26"
   }
 }

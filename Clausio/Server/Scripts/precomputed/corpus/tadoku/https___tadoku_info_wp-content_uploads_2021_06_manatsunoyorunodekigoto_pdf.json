@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "大学生活にも慣れて、新しい友達もできた。",
+      "english_translation": "I'm also getting used to university life and have made new friends."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "お金はなかったけど、時間と元気だけは十分にあった。",
+      "english_translation": "Although I didn't have any money, I had plenty of time and energy."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "友達の一人が車を持っていて、行き先も決めずによくドライブをした。",
+      "english_translation": "One of my friends had a car and would often go on drives without any specific destination."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "例えば、ずっと海辺を走って、海から太陽が昇るのを見ながら缶コーヒーを飲み、そして、ただ帰ってくる。",
+      "english_translation": "For example, I would run along the beach, drinking a can of coffee while watching the sunrise over the sea, and then just return home."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そんなくだらないことも、友達となら楽しめた。",
+      "english_translation": "I could have enjoyed that kind of nonsense with my friends."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:47"
+    "extraction_date_time": "2026.07.15 13:25:07"
   }
 }

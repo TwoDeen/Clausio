@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "『鬼滅の刃』というアニメーションがあります。",
+      "english_translation": "There is an anime called \"Demon Slayer.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「ビックリマンチョコレート」というお菓子があります。",
+      "english_translation": "There is a candy called \"Big G Men Chocolate.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "この２つがいっしょになった「鬼滅の刃マンチョコレート」というお菓子が、新しく売られました。",
+      "english_translation": "A new confection called \"Demon Slayer Chocolate,\" made with these two ingredients, has recently been sold."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「鬼滅の刃マンチョコレート」は、チョコレートが入ったお菓子です。",
+      "english_translation": "\"Demon Slayer Chocolate\" is a candy that contains chocolate."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私はチョコレートが好きなのです。",
+      "english_translation": "I like chocolate."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:06"
+    "extraction_date_time": "2026.07.15 13:44:11"
   }
 }

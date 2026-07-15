@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "皆さんは「出世魚」という言葉を聞いたことがありますか？出世魚というのは大きくなると、呼び方が変わる魚のことです。",
+      "english_translation": "Have you ever heard of the term \"ascendant fish\"? This refers to fish that change their names as they grow larger."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "呼び方が変わるだけではなく、それぞれの大きさでおいしい食べ方があります。",
+      "english_translation": "It's not just that the names change, but also that there are different delicious ways to eat them depending on their size."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "リストを見てください（地域によって呼び方が違います。",
+      "english_translation": "Please see the list (the names may vary depending on the region)."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "上が関東、下が関西の呼び方です）。",
+      "english_translation": "The top refers to the Kansai region, and the bottom refers to the Kanto region."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ブリ80cm以上刺身／寿司／煮物ワラサ／60-80cm焼き物／鍋イナダ／35-60cm照り焼き／寿司ワカシ／20-40cm刺身／唐揚げモジャコ20cm以下食べないさて、私のうちにも出世魚のようなものがあります。",
+      "english_translation": "Above 80cm: Sashimi/Sushi/Simmered Fish (e.g., Yellowtail) / 60-80cm: Grilled Fish / Stewed Fish (e.g., Sea Bass) / 35-60cm: Teriyaki Style Fish (e.g., Blackthroat Minnow) / Sushi (e.g., Wigeon) / 20-40cm: Sashimi / Fried Chicken (e.g., Moja Ko – under 20cm)\n\nAnd, of course, there are also \"high-ranking\" fish in my own home."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:13"
+    "extraction_date_time": "2026.07.15 13:35:43"
   }
 }

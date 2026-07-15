@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "みなさんは、友だちや家族に、何と呼ばれていますか？「パトリック」「じょうたろう「みきこ」など、名前で呼ばれていますか？あだ名で呼ばれていますか？「あだ名」にはいろいろなものがありますが、もともとの名前を少し短くしたものが多いようです。",
+      "english_translation": "What are your friends and family called? Are you called by your name, such as \"Patrick,\" \"Joutaro,\" or \"Miki\"? Or do you have a nickname? There are many different types of nicknames, but it seems that many are simply shortened versions of the original name."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "例えば、「パトリック」は「パット」、「じょうたろう」は「じょう」などと呼ばれることがあります。",
+      "english_translation": "For example, names like \"Patrick\" might be shortened to \"Pat,\" and \"Joutaro\" to \"Jō.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "また、「みきこ」という名前の人を「みっきー」と呼ぶように、もともとの名前を少し変えたりすることも多いです。",
+      "english_translation": "Also, it's common to shorten or slightly alter a person's name when they are referred to as \"Miki,\" such as calling them \"Mikkie.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "他にも、「石田」という名前の人を「石ちゃん」「石っち」「石ぴょん」などと呼ぶように、名前の一部に短い言葉を付けたあだ名もよく聞きます。",
+      "english_translation": "Also, it's common to call someone named \"Ishida\" by nicknames like \"Ichi-chan,\" \"Ichi-kichi,\" or \"Ichi-pyon,\" which are shortened versions of their name."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「あだ名」の中には、もともとの名前と全く関係のないものもあります。",
+      "english_translation": "\"Nicknames\" can sometimes have absolutely nothing to do with someone's original name."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:37"
+    "extraction_date_time": "2026.07.15 13:23:10"
   }
 }

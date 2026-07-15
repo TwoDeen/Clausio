@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "近くにはたくさんの会社があって、昼休みにはこの公園のベンチに座って、昼ごはんを食べる人も多いです。",
+      "english_translation": "There are many companies nearby, and it's common for people to sit on the benches in this park during their lunch breaks to eat."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その中に、二人の女性がいます。",
+      "english_translation": "Among them, there are two women."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "一人は長い髪を後ろでまとめて、眼鏡をかけている、真面目そうな人です。",
+      "english_translation": "One person is a serious-looking individual with long hair pulled back, wearing glasses."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "でも、眼鏡越しに見える目はキラキラしていて、笑っています。",
+      "english_translation": "However, the eyes seen through glasses sparkle and seem to be smiling."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "隣の女性は、その人よりは少し若い印象です。",
+      "english_translation": "The woman next to me seems a little younger than that person."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:31"
+    "extraction_date_time": "2026.07.15 13:24:35"
   }
 }

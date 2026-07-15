@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "みなさん、1から9の9つの数字の中から、好きなものを3つ紙に書いてください。",
+      "english_translation": "Everyone, please write down three of your favorite numbers from 1 to 9 on a piece of paper."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "その3つの数字を使ってできる、「一番大きな3けたの数字」は何ですか。",
+      "english_translation": "What is the largest three-digit number that can be formed using those three numbers?"
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「3けたの数字」というのは、例えば「145」「561」「978」など、3つの数字を並べてできる数字です。",
+      "english_translation": "\"A three-digit number\" refers to a number formed by arranging three digits, such as \"145,\" \"561,\" or \"978.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「一番大きな3けたの数字」が書けたら、次に、その3つの数字を使ってできる、「一番小さな3けたの数字」を書いてください。",
+      "english_translation": "\"If you can write down the largest three-digit number, then write down the smallest three-digit number that can be made using those same digits.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "例えば、1と5と9を選んだ場合について、考えてみましょう。",
+      "english_translation": "Let's consider, for example, the case where you choose 1, 5, and 9."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:15"
+    "extraction_date_time": "2026.07.15 13:21:10"
   }
 }

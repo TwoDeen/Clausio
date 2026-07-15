@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "コックピットでの１時間その日、私はドイツのフランクフルトから東京行きの飛行機に乗っていました。",
+      "english_translation": "\"During my hour in the cockpit, I was on a flight from Frankfurt, Germany, to Tokyo.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "飛行機の中で私は、子供のころ祖母が地球儀を見せながら話してくれたことを思い出していました。",
+      "english_translation": "As I sat on the plane, I was reminded of when I was a child and my grandmother showed me a globe, telling me stories about it."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その時、祖父母はヨーロッパ旅行から日本に帰ってきたばかりでした。",
+      "english_translation": "At that time, my grandparents had just returned from their trip to Europe."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本からヨーロッパへ行くときは、ふつう、ロシアの上を通ります。",
+      "english_translation": "When traveling from Japan to Europe, it is usual to go through Russia."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "でも当時は冷戦中で、ロシアの上を飛行機が飛ぶことはできませんでした。",
+      "english_translation": "However, during that time, it was impossible for planes to fly over Russia due to the Cold War."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:09:53"
+    "extraction_date_time": "2026.07.15 13:28:07"
   }
 }

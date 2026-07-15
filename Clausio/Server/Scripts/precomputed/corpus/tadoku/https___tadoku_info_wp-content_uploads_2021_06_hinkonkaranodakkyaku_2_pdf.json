@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "子どもたちに教育を・大人たちに仕事を－NPO法人アラジ代表ユメミ－ユメミは山梨県で生まれ育ちました。",
+      "english_translation": "\"Provide education for children and jobs for adults – NPO法人アラジ, representative: ユメミ. ユメミ was born and raised in Yamanashi Prefecture.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "小学校1年生の頃から鍵っ子で、お母さんは生活保護をもらいながら、町営団地に住み、女手一つでユメミを育てました。",
+      "english_translation": "From when I was in first grade at elementary school, I've always been a child who loves locks. My mother received welfare benefits while living in a public housing complex, and she raised me single-handedly."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ユメミは小さいころ、両親が二人ともいて、休日にみんなで出かける家族がとてもうらやましかったことや、このように考えたことを覚えています。",
+      "english_translation": "I remember, when I was young, how much I envied families where both parents were present and they would go on outings together on weekends."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「人は生まれた環境によって、その後の可能性が変わってしまう」しかし、中学２年生のとき、お母さんが再婚しました。",
+      "english_translation": "\"A person's future possibilities can be significantly altered by their environment at birth.\" However, when I was in the second year of middle school, my mother remarried."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "相手はなんと、母より18歳も年上の、成人している娘が３人もいる人でした。",
+      "english_translation": "The person I was talking to had three adult daughters, who were 18 years older than me."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 09:11:01"
+    "extraction_date_time": "2026.07.15 13:44:22"
   }
 }

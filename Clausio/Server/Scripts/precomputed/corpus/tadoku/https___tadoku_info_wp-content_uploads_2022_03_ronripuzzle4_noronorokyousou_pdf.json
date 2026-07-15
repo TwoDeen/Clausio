@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "【問題】アラビアのある大金持ちが２人の息子を呼んで、こう言いました。",
+      "english_translation": "[Question] A wealthy Arab man called his two sons and said, \""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「砂漠の真ん中のオアシスまで、きみたちの馬で競走しなさい。",
+      "english_translation": "\"Race your horses to the oasis in the middle of the desert.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "どちらか、勝ったほうの馬の持ち主に、私が死んだ後、私の全部の財産をあげることにしよう。",
+      "english_translation": "I will leave all my property to the owner of the winning horse after I die."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ただし、競走といっても、ふつうの競走ではないよ。",
+      "english_translation": "However, even though it's called a \"race,\" it's not like a normal race."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "遅い方の馬が勝ちになる、のろのろ競走だ。",
+      "english_translation": "It's a race where the slower horse wins, a slow and steady competition."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:59"
+    "extraction_date_time": "2026.07.15 13:29:49"
   }
 }

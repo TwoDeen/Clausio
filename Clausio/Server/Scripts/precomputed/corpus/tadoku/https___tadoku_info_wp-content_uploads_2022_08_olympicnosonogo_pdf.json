@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "FIFAワールドカップやラグビーワールドカップ、世界水泳選手権など、世界規模の大会だと、興奮や感動はもっと強くなるでしょう。",
+      "english_translation": "For events like the World Cup, Rugby World Cup, and World Aquatics Championships, which are on a global scale, the excitement and emotions will be even stronger."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "2021年、日本でオリンピックが開かれました。",
+      "english_translation": "In 2021, the Olympics were held in Japan."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "自分が生きている間に、また日本でオリンピックが開かれることはないだろう…そう思い、色々な競技を見ました。",
+      "english_translation": "I thought to myself, \"I probably won't see the Olympics held in Japan again during my lifetime…\" So I watched a variety of sports."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "日本人選手や日本のチームが勝つと、とても嬉しくなりました。",
+      "english_translation": "I was very happy to see that Japanese athletes and teams were winning."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そして、選手たちは夢をもち、人生をかけて、練習をがんばってきました。",
+      "english_translation": "And, the athletes have had dreams and worked hard, dedicating their lives to training."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:27"
+    "extraction_date_time": "2026.07.15 13:22:35"
   }
 }

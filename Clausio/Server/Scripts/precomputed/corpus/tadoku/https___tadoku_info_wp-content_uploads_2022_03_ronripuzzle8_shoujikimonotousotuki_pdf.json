@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "正直者と嘘つき（１）【問題】ある島には正直者か嘘つきのどちらかしか住んでいません。",
+      "english_translation": "To English: Honest People and Liars [1] [Problem]: There is an island where only either honest people or liars live."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "正直者はつねに本当のことを言います。",
+      "english_translation": "Honest people always tell the truth."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "あなたが船でその島を訪ねると、A、B、Cという３人の住民がいっしょに港で迎えてくれました。",
+      "english_translation": "When you arrived at the island by boat, A, B, and C, three residents, greeted you at the harbor."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "その中のAとBは、次のように言いました。",
+      "english_translation": "\"A and B, among them, said the following:\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "A「私たちは３人とも嘘つきです」B「私たち３人のうち、１人だけが正直者です」さて、A、B、Cは、それぞれ正直者と嘘つきのどちらでしょうか？（解答は次のページ）【解答】Aは嘘つき、Bは正直者、Cは嘘つきです。",
+      "english_translation": "A: \"We are all liars.\"\nB: \"Only one of us is telling the truth.\"\n\nNow, who is A, B, and C? (The answer is on the next page.)\n[Answer] A is a liar, B is truthful, and C is a liar."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:45"
+    "extraction_date_time": "2026.07.15 13:39:47"
   }
 }

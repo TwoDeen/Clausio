@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "二人は、２匹の大きな白い犬といっしょに山に来ました。",
+      "english_translation": "The two of them came to the mountains with two large, white dogs."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "何でもいいから、早く鉄砲で撃ってみたいよ」と、一人の男が言いました。",
+      "english_translation": "\"I just want to get my hands on a gun and shoot something, no matter what,\" one man said."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "鹿のお腹に鉄砲を撃ったら、気持ちがいいだろうね。",
+      "english_translation": "Wouldn't it be satisfying to shoot a deer in the stomach?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "鹿はくるくる回って、どさっと倒れるだろうな」と、もう一人の男が言いました。",
+      "english_translation": "\"The deer will spin around and then fall over,\" another man said."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "二人は、山の奥の奥に来ていました。",
+      "english_translation": "The two of them were deep in the mountains."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:09:55"
+    "extraction_date_time": "2026.07.15 13:33:20"
   }
 }

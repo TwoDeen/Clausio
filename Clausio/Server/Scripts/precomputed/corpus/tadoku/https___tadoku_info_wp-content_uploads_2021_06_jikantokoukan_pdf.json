@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "着物を着ていると、とにかく苦しくて、疲れる。",
+      "english_translation": "Wearing a kimono is so uncomfortable and tiring."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "着替えのために、1時間の時間のロス。",
+      "english_translation": "A loss of one hour due to changing clothes."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "でも、1日中、姿勢もきれいで、気持ちも引き締まる。",
+      "english_translation": "However, I could maintain good posture and feel invigorated all day long."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ある日曜日の朝、おいしいコーヒーが飲みたいと思った。",
+      "english_translation": "One Sunday morning, I wanted to drink some delicious coffee."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "コーヒー豆を挽いて、ゆっくりお湯を注いで、香りを楽しみながら飲んだ。",
+      "english_translation": "I ground the coffee beans, slowly poured in hot water, and enjoyed the aroma while drinking it."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:36"
+    "extraction_date_time": "2026.07.15 13:42:28"
   }
 }

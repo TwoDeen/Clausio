@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "計算ができない！買い物のとき、スマートフォンのアプリや、クレジットカード、プリペイドカードなどを使って、料金を払うことが多くなってきました。",
+      "english_translation": "I can't do calculations! These days, I often pay for purchases using my smartphone app, credit card, or prepaid card instead of cash."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "小さなお店などでは、現金（キャッシュ）しか使えないところもありますが、多くのお店ではキャッシュレスで払うことができます。",
+      "english_translation": "In smaller shops, it's still common to only accept cash, but most stores now accept cashless payments."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "とても便利ですが、私たちの暗算の能力は一気に落ちてしまったのではないでしょうか。",
+      "english_translation": "It's very convenient, but I wonder if our mental calculation abilities have suddenly declined."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「暗算」というのは、計算機を使ったり紙に書いたりしないで、頭の中だけで計算をすることです。",
+      "english_translation": "\"Mental calculation\" refers to performing calculations without using a calculator or writing anything down; instead, it involves doing the computations entirely in one's mind."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私は、2010年代の前半くらいまでは、買い物のときはいつも現金で払っていました。",
+      "english_translation": "I used to pay for everything with cash until around the early 2010s."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:44"
+    "extraction_date_time": "2026.07.15 13:24:22"
   }
 }

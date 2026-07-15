@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "漢字は暗号？25年ぐらい前のことです。",
+      "english_translation": "Are kanji (Chinese characters) like an ancient code? This was about 25 years ago."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私はアメリカ人の仕事仲間と出張で韓国のオサン市というところに行きました。",
+      "english_translation": "I went to Osan City, South Korea, on a business trip with my American colleagues."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "オサン市はソウル市から南へ50キロぐらいのところです。",
+      "english_translation": "Ōsan City is located about 50 kilometers south of Seoul."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "韓国に行く時、たいていの人はソウル市から入国します。",
+      "english_translation": "When traveling to Korea, most people enter from Seoul."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "でも、私は東京にある米軍基地で働いていたので、そこからオサン市にある米軍基地まで飛行機で行きました。",
+      "english_translation": "However, I was working at a U.S. military base in Tokyo, so I flew from there to the U.S. military base in Osaka City."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:04"
+    "extraction_date_time": "2026.07.15 13:22:43"
   }
 }

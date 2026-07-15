@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "３枚の食パン【問題】２枚の食パンを並べて焼けるフライパンがあります。",
+      "english_translation": "To English: I have three slices of bread and a frying pan that can fit two slices of bread. [Problem]"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "このフライパンを使って、３枚の食パンの両面を焼きたいです。",
+      "english_translation": "I want to use this frying pan to bake both sides of three slices of bread."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "食パンのひとつの面を焼くのに30秒かかります。",
+      "english_translation": "It takes 30 seconds to bake one side of a slice of bread."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、３枚目の食パンを焼く」とします。",
+      "english_translation": "\"And then, bake the third loaf of bread.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そうすると、２枚の食パンの表を焼くのに30秒、裏を焼くのに30秒、３枚目の食パンの表を焼くのに30秒、裏を焼くのに30秒かかるので、全部で120秒かかります。",
+      "english_translation": "Therefore, it takes 30 seconds to toast the top of two slices of bread, 30 seconds to toast the bottom, 30 seconds to toast the top of the third slice, and 30 seconds to toast the bottom, for a total of 120 seconds."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:51"
+    "extraction_date_time": "2026.07.15 13:33:43"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "（リトアニアの昔話）むかしむかし、おじいさんとおばあさんがいました。",
+      "english_translation": "(Lithuanian folk tale) Once upon a time, there was an old man and an old woman."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "おじいさんとおばあさんには12人の息子と３人の娘がいました。",
+      "english_translation": "Grandpa and grandma had 12 sons and 3 daughters."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "15人の兄弟の中で一番若かったのが、妹のエグレでした。",
+      "english_translation": "The youngest of the fifteen siblings was his younger sister, Egre."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "３人の姉妹は、湖で泳いでいました。",
+      "english_translation": "The three sisters were swimming in the lake."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "エグレは脱いだ服を湖のそばに置いていましたが、湖から上がると、その服のそばに蛇がいることに気がつきました。",
+      "english_translation": "Egle had left her clothes near the lake, but when she got out of the water, she noticed a snake lying next to her clothes."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:00"
+    "extraction_date_time": "2026.07.15 13:31:06"
   }
 }

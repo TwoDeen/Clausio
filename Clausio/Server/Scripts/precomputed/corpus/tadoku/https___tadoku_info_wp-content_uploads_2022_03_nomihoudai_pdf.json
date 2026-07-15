@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "先日、ある国にいる友だちと連絡をとりました。",
+      "english_translation": "I recently reconnected with a friend who lives in another country."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "彼女は、数年前、日本に住んでいました。",
+      "english_translation": "She lived in Japan several years ago."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "彼女はいつも「早くまた日本に行きたい」と言っています。",
+      "english_translation": "She always says, \"I really want to go back to Japan soon.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "わたしは彼女に、「日本の何が、いちばん恋しい？」と聞きました。",
+      "english_translation": "I asked her, \"What do you miss most about Japan?\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "彼女はすぐに「飲み放題！」と答えました。",
+      "english_translation": "She immediately replied, \"All you can drink!\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:09"
+    "extraction_date_time": "2026.07.15 13:22:27"
   }
 }

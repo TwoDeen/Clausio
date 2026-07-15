@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ここはロンドンの有名なオークション会場、サザビーズ。",
+      "english_translation": "This is Sotheby's, one of London's most famous auction houses."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "今日の注目の一品は、バンクシーというアーティストの作品だ。",
+      "english_translation": "The highlight of today's exhibition is a work by the artist Banksy."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "バンクシーという名前はもちろんニックネームで、彼（彼女かもしれないが、ここでは彼と言おう）の本名も、どんな人かもわからない。",
+      "english_translation": "\"Banksy\" is, of course, just a nickname. I don't even know his (or her – though I'll refer to him as \"he\") real name, or anything about who he is."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "生まれた場所はイギリスのブリストルという町だと言われているが、それも本当かどうかはわからない。",
+      "english_translation": "It is said that I was born in Bristol, England, but whether this is true or not, I don't know."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "彼は町に出て、建物や電車の壁に絵を描く、ストリートアーティストだ。",
+      "english_translation": "He is a street artist who paints on buildings and train walls."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:37"
+    "extraction_date_time": "2026.07.15 13:41:35"
   }
 }

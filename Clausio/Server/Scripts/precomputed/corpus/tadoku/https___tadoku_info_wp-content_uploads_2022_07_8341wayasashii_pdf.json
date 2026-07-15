@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "8341は、やさしい私が中学校や高校で歴史の勉強をしていた頃、いつどんなことが起こったかをたくさん覚えなければなりませんでした。",
+      "english_translation": "\"In elementary and high school, I had to memorize a lot of historical events, such as when and what happened, because I was a kind-hearted person.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、593年や710年、1010年、1543年など、数字を覚えることはとても大変です。",
+      "english_translation": "However, remembering numbers like 593, 710, 1010, and 1543 is very difficult."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そんな時に役に立つのが「語呂合わせ」という方法です。",
+      "english_translation": "One way that is helpful in such situations is called \"wordplay.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「語呂合わせ」は、数字を覚えるための方法です。",
+      "english_translation": "\"Mnemonics\" are methods for memorizing numbers."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "例えば「593」を「ご・きゅう・さん」や「ごひゃくきゅうじゅうさん」と読まずに、「ご・く（ろう）・さん＝ご苦労さん」と読んで、一つの意味のある言葉に変えて覚える方法です。",
+      "english_translation": "For example, instead of reading \"593\" as \"go-kyuu-san\" or \"go-hyaku-juu-san,\" you can learn it by saying \"go-ku (roku) - san\" which becomes \"goku-san\" (meaning \"thank you for your hard work\")."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:47"
+    "extraction_date_time": "2026.07.15 13:21:21"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "出られる？出れる？文化庁という、文化に関する仕事を行う、国の機関があります。",
+      "english_translation": "Could you please provide more information? There is a government agency called the Ministry of Culture that deals with cultural affairs."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "文化庁は、いろいろな仕事をしていますが、その中の一つに、「国語に関する世論調査」があります。",
+      "english_translation": "The Agency for Cultural Affairs undertakes various activities, one of which is \"public opinion surveys on language.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "これは、日本語の変化や、新しい言葉について調べる調査です。",
+      "english_translation": "This is a research project investigating changes in the Japanese language and new words."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "この調査は毎年行われています。",
+      "english_translation": "This survey is conducted annually."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "2021年の３月に行われた調査では、約3800人の日本語母語話者が調査に参加しました。",
+      "english_translation": "In a survey conducted in March 2021, approximately 3,800 native Japanese speakers participated."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:42"
+    "extraction_date_time": "2026.07.15 13:29:13"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "この公園の横に松川という川があります。",
+      "english_translation": "There is a river called Matsugawa next to this park."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "昔は、川のそばに松がたくさんあったので、松川という名前がつけられました。",
+      "english_translation": "Originally, there were many pine trees along the river, so it was named \"Matsu River\" (Pine River)."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その後、第二次世界大戦のあとで、町の成長を願って、川のそばに桜が植えられました。",
+      "english_translation": "Subsequently, after World War II, cherry trees were planted along the river in hopes of promoting the town's growth."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "今では、富山市の中でも有名な桜の名所で、「日本さくら名所100選」に選ばれています。",
+      "english_translation": "Now, it is one of the most famous cherry blossom spots in Futamata City and has been selected as one of \"Japan's Top 100 Cherry Blossom Spots.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "二口金一作「対話」松川の両側には散歩のための道があります。",
+      "english_translation": "\"Dialogue,\" by Nishikawa, features two faucets. There is a path for walking on both sides."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:29"
+    "extraction_date_time": "2026.07.15 13:23:37"
   }
 }

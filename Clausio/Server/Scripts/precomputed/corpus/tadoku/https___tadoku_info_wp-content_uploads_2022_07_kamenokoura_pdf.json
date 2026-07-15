@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "カメのこうらはつぎはぎだらけ？（西アフリカの昔話）カメの背中には、こうらがあります。",
+      "english_translation": "Are there lots of barnacles on a turtle's back? (From an old West African story) Turtles have barnacles on their backs."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、カメのこうらは、つぎはぎだらけです。",
+      "english_translation": "However, the turtle shell is covered in cracks."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "どうしてか、知っていますか？知らない？じゃあ、この西アフリカのストーリーを読んでみましょう。",
+      "english_translation": "Do you know why? Or do you not? Then, let's read this story about West Africa."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "むかし、あるところにお母さんカメがいました。",
+      "english_translation": "Once upon a time, there was a mother turtle living in a certain place."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ある日、鳥たちが彼女をパーティーに誘いました。",
+      "english_translation": "One day, the birds invited her to a party."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:39"
+    "extraction_date_time": "2026.07.15 13:23:52"
   }
 }

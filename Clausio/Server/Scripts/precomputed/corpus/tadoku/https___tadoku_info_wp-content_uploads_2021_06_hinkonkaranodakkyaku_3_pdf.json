@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "クリスマスプレゼントはなかった－子どもの貧困－「貧困」とは、どのようなものなのでしょうか。",
+      "english_translation": "\"There was no Christmas present.\" – Child poverty – \"What exactly does 'poverty' mean?\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "これは、人によって考えも違いますし、国や地域によってもさまざまかもしれません。",
+      "english_translation": "This also varies depending on individual perspectives, as well as differences between countries and regions."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "貧困についての代表的な考え方として「絶対的貧困」と「相対的貧困」があります。",
+      "english_translation": "Two prominent concepts regarding poverty are \"absolute poverty\" and \"relative poverty.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「絶対的貧困」は、食べ物がない、家がないなど、生きるために必要なものがないような貧困のことを意味します。",
+      "english_translation": "\"Absolute poverty\" refers to the state of being so poor that one lacks basic necessities for survival, such as food and shelter."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私たちが一般に「貧困」と聞いてイメージするのは、このような貧困です。",
+      "english_translation": "When we generally hear the term \"poverty,\" we often picture something like this."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 09:12:40"
+    "extraction_date_time": "2026.07.15 13:35:59"
   }
 }

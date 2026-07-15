@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "－子供の視点について思うこと－これはもう10年くらい前の話だ。",
+      "english_translation": "– My thoughts on viewing things from a child's perspective – This is something I thought about around 10 years ago."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "友人と電話で話していたときのことである。",
+      "english_translation": "It was when I was talking on the phone with a friend."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "その友人は何年も前に結婚していて、ちょうどそのころ、６歳の娘さんと４歳の息子さんを育てていた。",
+      "english_translation": "That friend had been married for several years, and at that time, she was raising a 6-year-old daughter and a 4-year-old son."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「二人もいると、子育てが大変だね。",
+      "english_translation": "\"It must be so difficult raising children when you have two.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "」そんな私の言葉に、彼女はくすくすと笑い出した。",
+      "english_translation": "\"She started to giggle at my words.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:20"
+    "extraction_date_time": "2026.07.15 13:43:02"
   }
 }

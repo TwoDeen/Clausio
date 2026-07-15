@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "【問題】ある大学病院に、手術がうまい、有名な外科医がいました。",
+      "english_translation": "[Question] There was a famous surgeon at a university hospital who was very skilled at performing surgeries."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "今日も、その外科医はたいへんな手術を無事に成功させました。",
+      "english_translation": "Today, the surgeon successfully performed another difficult operation without any complications."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "手術が終わると、看護師から電話がかかってきました。",
+      "english_translation": "After the surgery, I received a call from the nurse."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「先生、交通事故で大けがをした男性が二人、運ばれてきました。",
+      "english_translation": "\"Sir, two men who were seriously injured in a traffic accident have been brought in.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "親子でしたが、父親はすでに死んでいました。",
+      "english_translation": "Although they were parent and child, the father had already died."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:38"
+    "extraction_date_time": "2026.07.15 13:42:47"
   }
 }

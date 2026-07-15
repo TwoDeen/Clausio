@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "わたしは九州の福岡市に住んでいます。",
+      "english_translation": "I live in Fukuoka City, which is located in Kyushu, Japan."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "わたしの家のすぐ近くに西南学院大学があります。",
+      "english_translation": "There is Seinan University of Education right next to my house."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "西南学院大学はキリスト教の教団が経営する大学です。",
+      "english_translation": "Seinan Gakuin University is a university operated by a Christian religious organization."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "その大学の図書館の前にこんな像があります。",
+      "english_translation": "There is a statue in front of the library of that university."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "マンガの主人公のサザエさん（右）と、そのマンガの作者（左）が仲良くおしゃべりしている像です。",
+      "english_translation": "This is a statue depicting Sazae-san (right), the main character of the manga, and her creator (left), happily talking to each other."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:10"
+    "extraction_date_time": "2026.07.15 13:29:41"
   }
 }

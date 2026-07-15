@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "数字を学ぼう－偶数と奇数－まえへならえ体育座りまえへならえ体育座り上の絵を見てね。",
+      "english_translation": "Let's learn numbers – even and odd – Look at the picture of the \"forward plank\" position."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "1番目の女の子はまえへならえをしている。",
+      "english_translation": "The first girl is standing in front of the stage."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "2番目の男の子は体育座りをしている。",
+      "english_translation": "The second boy is doing a sit-up."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "3番目の女の子はまえへならえをしている。",
+      "english_translation": "The third girl is standing in front of the others."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "4番目の男の子は体育座りをしている。",
+      "english_translation": "The fourth boy is doing a sit-up."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:13:40"
+    "extraction_date_time": "2026.07.15 13:39:17"
   }
 }

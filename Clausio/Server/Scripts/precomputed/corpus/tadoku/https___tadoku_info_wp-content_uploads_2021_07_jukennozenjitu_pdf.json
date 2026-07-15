@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "高校３年生の冬、私は大学を受験するために、S市へ行きました。",
+      "english_translation": "In my third year of high school during winter, I went to S City in order to take university entrance exams."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私の育った町からS市までは飛行機で１時間ちょっとでしたが、私は生まれてはじめて一人で飛行機に乗ったので、少し緊張していました。",
+      "english_translation": "Although it was just an hour by plane from my hometown to S City, I was a little nervous because it was the first time I had ever flown alone."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "S市の空港から、S駅までバスで行きました。",
+      "english_translation": "I took a bus from S City Airport to S Station."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "S駅に着いてから、予約していたホテルを探しました。",
+      "english_translation": "Once I arrived at Station S, I went to find the hotel that I had booked."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "地図を見ながら、はじめて歩く街で、ホテルを探しました。",
+      "english_translation": "Using the map, I searched for the hotel while walking around in this new city for the first time."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:13"
+    "extraction_date_time": "2026.07.15 13:37:32"
   }
 }

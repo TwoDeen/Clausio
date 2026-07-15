@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "言葉は思考を洗練する道具であるこれまでの外国語教育では、コミュニケーションが重視されてきました。",
+      "english_translation": "\"Language is a tool for refining thought. In previous foreign language education, emphasis has been placed on communication.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ここに言うコミュニケーションとは、実用的なコミュニケーションをすることと、他の人に自分の意思を伝えることです。",
+      "english_translation": "This refers to communication that involves both practical interaction and conveying one's intentions to others."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "コミュニケーションは言語の重要な役割であることは間違いありません。",
+      "english_translation": "It is undeniable that communication plays a vital role in language."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "しかし、言語にはもう1つのとても重要な役割があります。",
+      "english_translation": "However, language also has another very important role."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "言語は、人間の思考や意識と直接に関わっているのです。",
+      "english_translation": "Language is directly related to human thought and consciousness."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 09:13:12"
+    "extraction_date_time": "2026.07.15 13:26:34"
   }
 }

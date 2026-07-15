@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "緑のカーテンみなさんは「緑のカーテン」を知っていますか。",
+      "english_translation": "To English: Green screen: Are you familiar with \"green screens\"?"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "緑のカーテンとは、植物で作られたカーテンのことです。",
+      "english_translation": "A green wall is a curtain made of plants."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "代表的なものは、アサ町で見つけたゴーヤの緑のカーテンガオやジャスミンなどで、キュウリも使われたりします。",
+      "english_translation": "Typical examples include green gourds and jasmine found in Asa Town, as well as cucumbers."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "緑のカーテンは夏の強い陽射しを遮り、室内の気温を低く保つためのものなので、たいてい建物の南側や西側に植えらます。",
+      "english_translation": "Because green screens block strong sunlight in the summer and help keep indoor temperatures low, they are typically planted on the south or west sides of buildings."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "家だけでなく、学校、図書館や病院などでもよく見られます。",
+      "english_translation": "It is commonly seen not just in homes, but also in schools, libraries, and hospitals."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:15"
+    "extraction_date_time": "2026.07.15 13:20:54"
   }
 }

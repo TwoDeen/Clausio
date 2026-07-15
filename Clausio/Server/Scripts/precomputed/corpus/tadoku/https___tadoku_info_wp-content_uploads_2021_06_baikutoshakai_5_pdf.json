@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ライフスタイルとバイク－バイクに乗るのは、難しい？－バイクに乗ることは、意外に難しいことです。",
+      "english_translation": "Lifestyle and Motorcycles – Is Riding a Motorcycle Difficult? – Surprisingly, riding a motorcycle is quite difficult."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "バイクの操作が難しいという意味ではありません。",
+      "english_translation": "This doesn't mean that operating a motorcycle is difficult."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "免許を取って、バイクを買って、趣味として乗ることが難しいのです。",
+      "english_translation": "It's difficult to get a license, buy a motorcycle, and use it as a hobby because of all the requirements."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "新しく会った人や、知り合いと話しているときに、バイクの話になることがあります。",
+      "english_translation": "When meeting new people or talking to acquaintances, the topic of motorcycles may come up."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "私が「趣味はバイクです」と言うと、「私も昔、バイクに乗りたかった」と言う人がいます。",
+      "english_translation": "When I say \"My hobby is motorcycles,\" some people respond with, \"I used to want to ride one too.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:12:31"
+    "extraction_date_time": "2026.07.15 13:36:14"
   }
 }

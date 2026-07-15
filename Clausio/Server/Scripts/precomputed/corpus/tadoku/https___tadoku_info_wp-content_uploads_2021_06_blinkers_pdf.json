@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ブリンカーテレビで競馬中継を見ていると、競走馬の中にときどき頭にマスクのようなものを被っている馬がいることに気づく。",
+      "english_translation": "When watching horse racing on Blink TV, I sometimes notice that some of the horses have a mask-like covering on their heads."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "あれはブリンカーというもので、馬がレースに集中できるように被せられる。",
+      "english_translation": "That is called a blinker, and it's worn on horses to help them focus during races."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "馬はとても視野が広い動物で、両目でおよそ350度見渡せる。",
+      "english_translation": "Horses are very wide-ranging animals; they can see approximately 350 degrees with both eyes."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "自分の真後ろ以外は見えるのだが、これは、野生の中で早く敵を発見するのに役に立つ。",
+      "english_translation": "While I can see everything except directly behind me, this is helpful for quickly detecting predators in the wild."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "しかし、競馬の時にはいろいろなものが見えてしまうと、走ることに集中できないことがある。",
+      "english_translation": "However, when I'm watching horse racing, I tend to get distracted by all the different things happening, which makes it difficult for me to focus on the race itself."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 09:14:28"
+    "extraction_date_time": "2026.07.15 13:32:48"
   }
 }

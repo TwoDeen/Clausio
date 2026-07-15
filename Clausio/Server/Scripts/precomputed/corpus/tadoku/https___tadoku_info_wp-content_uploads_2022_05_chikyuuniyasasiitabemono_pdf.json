@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本では、どこにでも自動販売機があります。",
+      "english_translation": "In Japan, vending machines can be found everywhere."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "多くの自動販売機では、水やお茶、コーヒーなどの飲み物を売っています。",
+      "english_translation": "Many vending machines sell drinks such as water, tea, and coffee."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そのほかに、パン、お菓子、インスタント食品、傘、アクセサリーなど、色々なものを売る自動販売機があります。",
+      "english_translation": "In addition to these, there are also vending machines that sell a variety of items such as bread, snacks, instant food, umbrellas, and accessories."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "では、この自動販売機は、何を売っているのでしょうか。",
+      "english_translation": "So, what does this vending machine sell?"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "食べるための虫、つまり、食用昆虫を売っています。",
+      "english_translation": "We sell edible insects, which are insects that can be eaten."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:30"
+    "extraction_date_time": "2026.07.15 13:29:04"
   }
 }

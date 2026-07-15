@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "【問題】まっ暗な部屋の箱の中に、６枚の赤い靴下と６枚の青い靴下が入っています。",
+      "english_translation": "[Question] There is a box in a completely dark room, containing 6 red socks and 6 blue socks."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "12枚の靴下は、赤と青には全然分けられていません。",
+      "english_translation": "There are 12 pairs of socks, but none of them are separated into red and blue."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "あなたはパーティーに出かけるので、その中から同じ色の靴下を２枚とり出さなければなりません。",
+      "english_translation": "Since you're going to a party, you need to choose two pairs of socks that match in color from the ones available."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そのためには、最低何枚の靴下を取り出せばいいでしょうか？（解答は次のページ）【解答】正解は、３枚です。",
+      "english_translation": "To do this, what is the minimum number of socks you need to retrieve? (Answer on the next page) [Answer] The correct answer is 3."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「８枚！」と答えた人がいるかもしれません。",
+      "english_translation": "\"Eight!\" is what someone might have said."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:08"
+    "extraction_date_time": "2026.07.15 13:22:21"
   }
 }

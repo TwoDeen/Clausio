@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "もちろん、昔は存在しなかった動詞です。",
+      "english_translation": "Of course, it's a verb that didn't exist in the past."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "このように、社会の変化に合わせて、どんどん新しい日本語が生まれています。",
+      "english_translation": "As such, new forms of Japanese continue to emerge in response to societal changes."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "外国語を日本語の音や文字で表した言葉を『外来語』と言います。",
+      "english_translation": "The words that represent foreign languages using the sounds and characters of Japanese are called \"foreign loanwords.\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "この「外来語」を使った動詞には、次のようなものがあります。",
+      "english_translation": "Some examples of verbs that use this \"loanword\" include:"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "さて、それぞれの動詞は、どんな意味でしょうか。",
+      "english_translation": "Okay, what does each of these verbs mean?"
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:19"
+    "extraction_date_time": "2026.07.15 13:30:51"
   }
 }

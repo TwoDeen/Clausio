@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "カナコはほっとため息をついた。",
+      "english_translation": "Kanako sighed with relief."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "６歳のカイトをお風呂に入れて、ベッドに寝かしつけたのが９時ちょっと前だった。",
+      "english_translation": "I gave my 6-year-old a bath and put him to bed around 9:30 in the morning."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "それから、明日の朝ごはんとお昼のお弁当の準備をして、洗濯物をたたんだ。",
+      "english_translation": "Then, I prepared breakfast and lunch boxes for tomorrow morning, and did my laundry."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "あっという間に１時間が過ぎた。",
+      "english_translation": "In no time, an hour had passed."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "カナコとカイトの二人が住む２LDKのマンションの掃除は、一週間に１回、土曜日の午前中にするとカナコは決めていた。",
+      "english_translation": "Kana and Kaito, who lived in a 2LDK apartment, had decided that they would clean the apartment once a week on Saturday mornings."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:04"
+    "extraction_date_time": "2026.07.15 13:37:53"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "詩を読む1とおくを、それから－中原中也「雪が降っている」中原中也（なかはらちゅうや）雪が降っている、とおくを、雪が降っている、とおくを、捨てられた羊かなんぞのようにとおくを、雪が降っている、とおくを。",
+      "english_translation": "Reading \"Snow is Falling\" by Chūya Nakahara:\n\nThe poem reads, \"Snow is falling, like a lost sheep...\" and then repeats, \"Snow is falling, like a lost sheep...\" The repetition emphasizes the image of the snow falling, perhaps as if it were a lost sheep."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "たかい空から、とおくを、とおくを、お寺の屋根にも、それから、お寺の森にも、それから、たえまもなしに。",
+      "english_translation": "From the vast sky, across the fields, across the temple roofs, and even into the temple forests, without a single obstacle."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "空から、雪が降っている、それから、兵営にゆく道にも、それから、日が暮れかかる、それから、喇叭（らっぱ）がきこえる。",
+      "english_translation": "From above, it is snowing. Also, the road to the barracks is covered in snow, and it is getting dark. Furthermore, I can hear the sound of a horn."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「雪が降っている」、「とおくを」、「それから」という言葉が何回も繰り返されます。",
+      "english_translation": "The words \"snow is falling,\" \"the snow,\" and \"then\" are repeated multiple times."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "こうした言葉の繰り返しから、雪がしずかに「たえまもなく」、やむことなく降りつづいていることが伝わってきます。",
+      "english_translation": "This repetition of words conveys that the snow is falling gently and continuously, without stopping."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:34"
+    "extraction_date_time": "2026.07.15 13:21:42"
   }
 }

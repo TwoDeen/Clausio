@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "僕の夢は兵士になることだった－日本で学ぶ難民ベントゥ－カレン族という少数民族のベントゥは、タイの難民キャンプで生まれ育ち、１６年間暮らしてきました。",
+      "english_translation": "My dream was to become a soldier. Bentu, a member of the Karen ethnic minority, grew up in a refugee camp in Japan and has lived there for 16 years."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "祖国ミャンマーでは民族の争いが続いていて、ミャンマー軍に追われ、住むことができません。",
+      "english_translation": "In my homeland, Myanmar, ethnic conflicts continue, and I am being pursued by the military and cannot find a place to live."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "みなさんは自由についてどのように考えていますか。",
+      "english_translation": "What do you all think about freedom?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "次の休みには旅行へ行こうかな、将来はどんな仕事をしようかな、など色々な選択があると思います。",
+      "english_translation": "I think there are many choices, such as \"Let's go on a trip next time,\" or \"What kind of job should I have in the future?\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "しかし、難民キャンプではそうはいきません。",
+      "english_translation": "However, this is not the case in refugee camps."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 09:14:51"
+    "extraction_date_time": "2026.07.15 13:26:10"
   }
 }

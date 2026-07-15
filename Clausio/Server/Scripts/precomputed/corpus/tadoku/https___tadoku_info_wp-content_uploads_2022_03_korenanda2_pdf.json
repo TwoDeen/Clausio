@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "古墳は、何でしたか？だれのお墓でしたか？いつつくられ始めましたか？どこでつくられましたか？忘れてしまった人は、もう一度読んでみてください。",
+      "english_translation": "What were they? Were they tombs for someone specific? When did they begin to be built? Where were they built? If you've forgotten, please read it again."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "今から、古墳の大きさについて、考えてみましょう。",
+      "english_translation": "Now, let's think about the size of ancient tombs."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "日本で一番大きな古墳はどれぐらいの大きさだと思いますか？525ｍもあります※。",
+      "english_translation": "What do you think is the largest tomb in Japan? One measures 525 meters long ※."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "525ｍとは、どれぐらいの長さでしょうか？学校の25mプール21個と同じ長さです。",
+      "english_translation": "525 meters is equivalent to approximately 21 standard school swimming pools, each measuring 25 meters in length."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "525m525m日本で一番大きな古墳は、大仙古墳です。",
+      "english_translation": "The largest kofun in Japan is the Daisen Kofun."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:09:59"
+    "extraction_date_time": "2026.07.15 13:36:25"
   }
 }

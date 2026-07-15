@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "テレワーク・在宅勤務最近、よく聞くようになった「テレワーク」と「在宅勤務」という言葉が、どのぐらい新聞記事にでているか、朝日新聞記事データベース「聞蔵（きくぞう）II」を使って検索してみました（グラフ参照）。",
+      "english_translation": "I used the Asahi Shimbun's newspaper database, \"Kikzou II,\" to search for how often the terms \"telework\" and \"working from home\" appear in news articles. (See graph)."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "「在宅勤務」は1984年から2015年まで、新聞記事は年50件以下でした。",
+      "english_translation": "\"Remote work\" was mentioned in fewer than 50 newspaper articles per year from 1984 to 2015."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "2016年から徐々に増えています。",
+      "english_translation": "It has been gradually increasing since 2016."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "朝日新聞記事データベース「聞蔵Ⅱ」の検索結果一方、「テレワーク」が初めて出たのは1991年でした。",
+      "english_translation": "According to the \"Kyoraku II\" newspaper article database, the term \"telework\" first appeared in the Asahi Shimbun in 1991."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "大阪府の隣の兵庫県の小さな町で、テレワークをやってみたという記事が出ていました。",
+      "english_translation": "There was an article about someone trying teleworking in a small town near Osaka Prefecture, which is Hyogo Prefecture."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 09:11:23"
+    "extraction_date_time": "2026.07.15 13:31:42"
   }
 }

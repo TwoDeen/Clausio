@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本には将棋が職業のプロがいます。",
+      "english_translation": "There are professional shogi players in Japan who make a living from it."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "将棋のプロを棋士（きし）と言います。",
+      "english_translation": "In shogi, professional players are called \"kishi.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "1年に4人しか棋士になれません。",
+      "english_translation": "Only 4 people can become professional players each year."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "藤井聡太（ふじいそうた）は、5歳から将棋を始め、2016年に14歳2か月（中学2年生）で棋士になりました。",
+      "english_translation": "Fujita Souta, who began playing shogi at the age of 5, became a professional player in 2016 at the age of 14 years and 2 months (second year of junior high school)."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "これまでで一番若い棋士でした。",
+      "english_translation": "I was the youngest player to achieve this level."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:09"
+    "extraction_date_time": "2026.07.15 13:26:58"
   }
 }

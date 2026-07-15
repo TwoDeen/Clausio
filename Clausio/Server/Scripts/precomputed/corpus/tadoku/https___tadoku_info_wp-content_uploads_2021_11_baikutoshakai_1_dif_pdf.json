@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "バイクには乗った人にしかわからない魅力がある。",
+      "english_translation": "There's a certain appeal to riding a motorcycle that only those who have experienced it can understand."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "それは、全身で風を受けること、スピードを肌で感じること、遠くまで行けること、一人になっていろいろなことが考えられること、不便なこと、危ないことだ。",
+      "english_translation": "That means experiencing the wind all over your body, feeling the speed firsthand, being able to travel far distances, having the freedom to think and do things alone, dealing with inconvenience, and facing potential dangers."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "バイクは、車と違って、ドアや窓といった囲いがないから風やスピードを全身でダイレクトに感じる。",
+      "english_translation": "Unlike cars, motorcycles have no doors or windows, so you experience the wind and speed directly through your entire body."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それは乗った人にしかわからない快感だ。",
+      "english_translation": "That's a feeling that can only be understood by those who have experienced it firsthand."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "また、バイクはメカメカしいものだから、それに乗っている自分はマンガや映画の登場人物になったような気分になる。",
+      "english_translation": "Furthermore, since motorcycles are mechanical and exciting, riding one gives me a feeling of being like a character in a manga or movie."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:15:33"
+    "extraction_date_time": "2026.07.15 13:33:05"
   }
 }

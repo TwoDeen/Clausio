@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "「熊のしっぽ」（フィンランドの昔話）むかしむかし、あるところに一匹の狐がいました。",
+      "english_translation": "\"The Fox's Tail\" (A Finnish Folktale): Once upon a time, there was a fox."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "狐はたくさんの魚を持っていて、おいしそうに魚を食べています。",
+      "english_translation": "The fox had many fish and was eating them deliciously."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「そんなにたくさんの魚をどこでとったの？」と、熊が言いました。",
+      "english_translation": "\"Where did you get so many fish?\" the bear asked."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「湖で釣ったんだよ」と、狐が答えました。",
+      "english_translation": "\"I caught fish in the lake,\" the fox replied."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「どうやって釣ったんだい？」と、また、熊が聞きました。",
+      "english_translation": "\"How did you catch it?\" he asked again, and this time, it was a bear who spoke."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:33"
+    "extraction_date_time": "2026.07.15 13:34:43"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "あるとき、突然「りょうぞう、りょうぞうの名前は漢字でこう書くの？」と言って、「両象」と書いた紙を見せました。",
+      "english_translation": "One day, I was suddenly asked, \"Ryouzou, what is your name written in kanji?\" and they showed me a piece of paper that read \"Ryōzou.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "私のなまえは「ささきりょうぞう」です。",
+      "english_translation": "My name is \"Sasaki Ryōzō.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "たしかに「両象」は「両（りょう）象（ぞう）」と読みますが、「象2頭」は変な名前です。",
+      "english_translation": "\"Both Elephants\" is indeed read as \"ryō zō,\" but the name \"two-headed elephant\" seems strange."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "私は「子どもにそんな変な名前をつける親はいない！」と怒りましたが、よく見ると面白い名前だな、と思いました。",
+      "english_translation": "\"I was so angry when I heard that someone named their child such a strange name! But then, upon closer inspection, I realized it was actually quite amusing.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "やっぱり変な名前のようですが、わたしはとても気に入っています。",
+      "english_translation": "\"I still think it's a strange name, but I really like it.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:00"
+    "extraction_date_time": "2026.07.15 13:28:25"
   }
 }

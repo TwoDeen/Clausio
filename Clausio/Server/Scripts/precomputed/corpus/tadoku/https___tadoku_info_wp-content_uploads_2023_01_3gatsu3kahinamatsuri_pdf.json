@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "そこに積み上げてあった本を本棚に戻し、ほこりを払い、そして、雑巾できれいに拭く。",
+      "english_translation": "Then, I put the books back on the shelves, dusted them off, and wiped them clean with a cloth."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "すっきりとした机の上を満足そうに眺め、男は机の引き出しの中から小さな箱を取り出す。",
+      "english_translation": "He surveyed the clean desk with satisfaction, then reached into a drawer and pulled out a small box."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "男の手に収まるぐらいのその小さな箱から、雛人形が出てくる。",
+      "english_translation": "A small box, just big enough for a man's hand, contains the hina dolls."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "小さな男雛と女雛が、それぞれ一体ずつだ。",
+      "english_translation": "There is one small baby boy and one small baby girl."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "男は卵でも扱うかのように、丁寧に、丁寧に、その人形を机の上に飾る。",
+      "english_translation": "He treats the doll with such care and tenderness, as if it were an egg, carefully placing it on his desk."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:01"
+    "extraction_date_time": "2026.07.15 13:40:41"
   }
 }

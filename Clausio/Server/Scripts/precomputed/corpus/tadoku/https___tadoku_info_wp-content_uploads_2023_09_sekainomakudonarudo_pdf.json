@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "マクドナルドは100以上の国と地域にあり、世界で有名なチェーンストアのひとつだと言えます。",
+      "english_translation": "McDonald's is present in over 100 countries and regions, making it one of the most well-known chain stores worldwide."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "チェーンストアではどこでも同じものが食べられるというイメージがありますが、色々な国でマクドナルドに入ってみると、その国独自のメニューを見つけることができます。",
+      "english_translation": "While there's a common perception that McDonald's offers the same menu everywhere, visiting different McDonald's locations in various countries allows you to discover unique and locally-inspired items."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ここでは私が行った国で見た、でも本家のアメリカにはないマクドナルドのメニューを紹介します。",
+      "english_translation": "Here, I will introduce McDonald's menu items that I saw in the countries I visited, but are not available in the original United States."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "まず、日本のマクドナルドにあって、アメリカのマクドナルドにないものは、てりやきマックバーガーやエビフィレオといったバーガーです。",
+      "english_translation": "First, some items that are available at McDonald's in Japan but not at McDonald's in the United States include the Teriyaki Burger and the Ebi Filet-O."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "てりやきマックバーガーには、もちろんてりやきソースが使われています。",
+      "english_translation": "The Teriyaki Mac is, of course, made with teriyaki sauce."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:53"
+    "extraction_date_time": "2026.07.15 13:24:53"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "初夏から秋にかけて、日本ではたびたび台風が上陸する。",
+      "english_translation": "From early summer to autumn, typhoons frequently make landfall in Japan."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ひとたび日本列島に台風が上陸すると、大雨、暴風、高波、洪水などで、大きな被害が出ることも少なくない。",
+      "english_translation": "Once a typhoon makes landfall in Japan, it often brings heavy rain, strong winds, high waves, and floods, which can cause significant damage."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "日本に接近する台風は、日本の南の海上で発生し、沖縄を通過して、九州や四国、本州に近づくことが多い。",
+      "english_translation": "Typhoons that approach Japan typically form in the sea south of Japan, pass through Okinawa, and then move towards Kyushu, Shikoku, and Honshu."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "沖縄は台風の通り道になるのだが、台風が沖縄に「上陸」することはない。",
+      "english_translation": "Although Okinawa is often in the path of typhoons, typhoons do not actually \"land\" on Okinawa."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "それは、台風が沖縄の上を通ることがないというわけではなく、「台風が上陸する」と言う場合の「上陸」は、台風の中心が北海道、本州、四国、九州の海岸に到達して、陸上を進んだときのことを言からである。",
+      "english_translation": "This means that typhoons don't necessarily pass over Okinawa, but when we say a typhoon \"lands,\" it refers to the moment when the center of the typhoon reaches the coast of Hokkaido, Honshu, Shikoku, or Kyushu and continues inland."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 09:12:08"
+    "extraction_date_time": "2026.07.15 13:30:24"
   }
 }

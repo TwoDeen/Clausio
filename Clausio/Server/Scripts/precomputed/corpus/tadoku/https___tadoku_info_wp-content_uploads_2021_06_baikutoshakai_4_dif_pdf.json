@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "人は一人か二人しか乗れないし、荷物もたくさん載せられない。",
+      "english_translation": "It can only carry one or two people, and it cannot carry much luggage."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そのような不便で、「特別な」乗り物に乗っているライダー同士の、不思議な仲間意識というものがある。",
+      "english_translation": "There's this strange sense of camaraderie that exists between riders who share a unique, inconvenient mode of transportation."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "初めて会った人が自分と同じ趣味だったので、すぐに仲良くなれたという経験は、誰にでもあるだろう。",
+      "english_translation": "I had an experience where I quickly became friends with someone I met for the first time because we shared the same interests. This is likely something many people can relate to."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それと同じで、趣味としてのバイクは、仲間意識を作りやすい。",
+      "english_translation": "Similarly, having a motorcycle as a hobby can foster a sense of camaraderie among riders."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "しかも、他の趣味とはちょっと違う形で。",
+      "english_translation": "Also, it's different from other hobbies in a unique way."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 09:14:14"
+    "extraction_date_time": "2026.07.15 13:25:21"
   }
 }

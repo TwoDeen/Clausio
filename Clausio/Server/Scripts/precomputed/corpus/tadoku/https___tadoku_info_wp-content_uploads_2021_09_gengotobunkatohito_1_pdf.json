@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "外国語を身につけることはむずかしいか日本では、中学校・高校の6年間あるいはそれ以上英語を勉強します。",
+      "english_translation": "Learning a foreign language is difficult in Japan, as students study English for 6 years or more in middle and high school."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "しかし、なかなか英語を使えるようになりません。",
+      "english_translation": "However, I'm still struggling to use English effectively."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ですから、多くの日本人は、外国語を身につけることはむずかしいと思っています。",
+      "english_translation": "Therefore, many Japanese people believe that learning a foreign language is difficult."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "しかし、それは本当でしょうか。",
+      "english_translation": "But, is that really true?"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "英語やその他のヨーロッパの言語では、「外国語」つまり「外国の言語」という言い方はしません。",
+      "english_translation": "In English and other European languages, we don't use the term \"foreign language\" or \"language from abroad.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 09:11:59"
+    "extraction_date_time": "2026.07.15 13:25:53"
   }
 }

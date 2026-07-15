@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "子どものスポーツ大会近所のテニスコートでは、毎日たくさんの子どもたちがテニスの練習をしています。",
+      "english_translation": "At the local tennis court, many children practice tennis every day in preparation for the upcoming sports tournament for kids."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "週末は、朝はやくから夜おそくまで、みんな一生懸命練習しています。",
+      "english_translation": "On weekends, everyone works hard practicing from early morning until late at night."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "春から夏にかけて、子どもたちの肌はどんどん日焼けして、顔も体もたくましくなっていきます。",
+      "english_translation": "As children transition from spring to summer, their skin becomes increasingly tanned, and they also become stronger in appearance overall."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "たくさん練習をしている理由は、試合で勝ちたいからだそうです。",
+      "english_translation": "The reason for practicing so much is that they want to win in matches."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "特に上手な子どもたちは「全国大会に行きたいから、たくさん練習している」と言います。",
+      "english_translation": "For example, talented children often say, \"I want to go to the national competition, so I'm practicing a lot.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:36"
+    "extraction_date_time": "2026.07.15 13:40:11"
   }
 }

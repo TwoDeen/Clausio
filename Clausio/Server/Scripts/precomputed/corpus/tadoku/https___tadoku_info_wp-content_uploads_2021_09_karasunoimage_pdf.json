@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "カラスのイメージみなさんは、このうちわを見て、どう思いましたか？私は、「真っ黒…、カラス…、なんか怖い…」と思いました。",
+      "english_translation": "To English: What did you think when you saw this parasol? I thought, \"Black... crow... it looks scary.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、このうちわは怖いうちわではなく、ラッキーなうちわなのです。",
+      "english_translation": "However, this fan is not a scary fan; it's a lucky one."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "東京都府中市にある大國魂神社では、毎年７月20日に「すもも祭」というお祭りが行われます。",
+      "english_translation": "At Okuin Shrine, located in Fuchu City, Tokyo Prefecture, a \"Momo Festival\" is held every year on July 20th."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "このうちわは、そのときに配られるものです。",
+      "english_translation": "This fan is one that will be distributed at that time."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "このうちわであおぐと、畑や田の虫がいなくなったり、病気の人が元気になったりします。",
+      "english_translation": "By fanning oneself with this fan, one can eliminate insects from fields and rice paddies, and even help the sick regain their health."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:53"
+    "extraction_date_time": "2026.07.15 13:38:01"
   }
 }

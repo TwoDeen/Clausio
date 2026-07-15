@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "私は子どものころ、家族と一緒に一階の家に住んでいた。",
+      "english_translation": "When I was young, my family and I lived in a single-story house."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "そのため、窓の外を人が通るのは普通だった。",
+      "english_translation": "Therefore, it was normal for people to pass by outside the windows."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "大学に入ると、一人暮らしを始めた。",
+      "english_translation": "When I went to university, I started living alone."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "学校の近くのアパートに引っ越したばかりで、まだ新しい生活に慣れていなかった。",
+      "english_translation": "I had just moved into an apartment near my school, and I was still getting used to my new life."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その日の夜、私はレポートを書いていた。",
+      "english_translation": "That night, I was working on my report."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:57"
+    "extraction_date_time": "2026.07.15 13:34:14"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "見えないものが見えるカード今から、あるカードに関係する３つの話を紹介します。",
+      "english_translation": "To English: Cards that reveal what is invisible. I will now introduce three stories related to a specific card."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "３人の子どもがいるお母さんがいます。",
+      "english_translation": "There is a mother who has three children."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ある日、このお母さんの携帯電話に、たくさん電話がかかってきました。",
+      "english_translation": "One day, my mother's phone rang incessantly with many calls."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "しかも、全部違う電話番号で、知らない人でした。",
+      "english_translation": "Furthermore, they were all using different phone numbers, and I didn't recognize any of them."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "お母さんは、誰からだろう？怖いな…と思いながら、電話をかけました。",
+      "english_translation": "\"I called, thinking, 'Who could it be? It must be someone I know.' But then I got scared.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:17"
+    "extraction_date_time": "2026.07.15 13:31:48"
   }
 }

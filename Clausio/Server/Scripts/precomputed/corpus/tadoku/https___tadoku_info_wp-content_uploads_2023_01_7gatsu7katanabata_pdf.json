@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "７月７日七夕いつもは少し寂しい感じがする商店街ですが、今日はずいぶんとにぎやかです。",
+      "english_translation": "\"On July 7th, Tanabata, the shopping street usually feels a little quiet, but today it's very lively.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "アーケードはいろいろな飾りで飾られて、いくつかのお店の前には笹が立てられています。",
+      "english_translation": "The arcade is decorated with various ornaments, and bamboo stalks are placed in front of some shops."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "笹の枝には赤や黄色、青などいろいろな色の短冊が糸でつるされています。",
+      "english_translation": "Pine branches are adorned with short, colorful paper strips in various colors such as red, yellow, and blue, all strung together on thread."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そう、今日は７月７日、七夕の日です。",
+      "english_translation": "Yes, today is July 7th, which is Tanabata (Star Festival)."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "一年に一度、天の川の両側に離された織姫という女性と彦星という男性が会える日です。",
+      "english_translation": "Once a year, the stars of Vega and Altair, which are separated by the Milky Way, meet."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:38"
+    "extraction_date_time": "2026.07.15 13:23:18"
   }
 }

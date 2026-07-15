@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "男の子は、おじいさんと一緒に家の近くの海に出かけた。",
+      "english_translation": "The boy went to the sea near his home with his grandfather."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "しかし男の子は、海に行く途中で家に帰ると言い出した。",
+      "english_translation": "However, the boy announced that he would return home after going to the beach."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そして、一人で家に戻っているときに、いなくなってしまった。",
+      "english_translation": "And then, while I was walking home alone, I realized that someone had disappeared."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "家族や150人以上の警察がいろいろな場所を探したが、男の子は見つからなかった。",
+      "english_translation": "The family and over 150 police officers searched various locations, but the boy was not found."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "男の子がいなくなって3日後の朝、一人のボランティアが捜索に参加した。",
+      "english_translation": "The morning after a boy disappeared, one volunteer participated in the search efforts."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:00"
+    "extraction_date_time": "2026.07.15 13:24:29"
   }
 }

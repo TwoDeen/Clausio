@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "あなたにとってスマホとは何かたくさんあるメディアの中で、あなたが一番好きなメディアは何ですか？たぶんスマホではないでしょうか？メディア・リテラシーのワークの一つに、「メディア1週間日記」があります。",
+      "english_translation": "What does a smartphone mean to you, compared to all the other media available? Is it probably your favorite? One activity in media literacy is \"Media Diary,\" where you track your media consumption for a week."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "自分が一番好きなメディアを1日に何時間、どのように使っていたかを、1週間、日記に記録するワークです。",
+      "english_translation": "This is an exercise where you record in a diary for one week how much time you spend on your favorite media each day, and how you use it."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "あなたもこの日記をつけてみませんか。",
+      "english_translation": "Why don't you try keeping a diary too?"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そうすると、自分が好きなメディアとどのように付き合っているかが分かって、面白いと思います。",
+      "english_translation": "That would be interesting, to understand how I interact with my favorite media."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "また、メディアとの付き合いにそんなに長い時間を使っていたのか、と反省するかもしれません。",
+      "english_translation": "I might also reflect on how much time I spent interacting with the media."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 09:13:22"
+    "extraction_date_time": "2026.07.15 13:34:01"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "未読150件!?スマホなどで短いメッセージを送るためのアプリを「メッセンジャー・アプリ」「インスタント・メッセンジャー・アプリ」などと呼びます。",
+      "english_translation": "These apps, often called \"messaging apps\" or \"instant messaging apps,\" are used to send short messages on smartphones and other devices. There are 150 unread messages!"
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本ではLINEがいちばんよく使われています。",
+      "english_translation": "In Japan, LINE is the most popular messaging app."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "わたしもLINEを使っています。",
+      "english_translation": "I also use LINE."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "中学生の娘もスマホを持っているので、わたしと妻と娘は３人でLINEグループを作って、やりとりをしています。",
+      "english_translation": "Since my daughter, who is in middle school, also has a smartphone, my wife and I have created a LINE group with her, and we communicate regularly."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "あるとき、妻とこんなやりとりをしていたら、娘から「テキスト長いwww」というメッセージが来ました。",
+      "english_translation": "One day, my wife and I were having this conversation, when my daughter sent me a message saying, \"The text is too long www.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:58"
+    "extraction_date_time": "2026.07.15 13:40:22"
   }
 }

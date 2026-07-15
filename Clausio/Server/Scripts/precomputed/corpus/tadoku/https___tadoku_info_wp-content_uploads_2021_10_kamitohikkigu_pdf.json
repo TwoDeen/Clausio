@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "鉛筆やペンで紙に字を書いたことがない人はいないだろう。",
+      "english_translation": "I suppose no one has ever written on paper with a pencil or pen."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "では、どうして鉛筆やペンで紙に字が書けるか、考えたことはあるだろうか。",
+      "english_translation": "So, have you ever wondered why we can write on paper with pencils or pens?"
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "それを知るには、まず紙が何から作られているかを知る必要がある。",
+      "english_translation": "To find out, you first need to know what paper is made of."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「紙を無駄使いすると、森がなくなる」と言われるように、紙の原料は主に植物である。",
+      "english_translation": "As the saying goes, \"If we waste paper, we will lose our forests,\" because the primary source of paper is plants."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "植物から繊維質を取り出し、それを絡め合わせて薄いシートにしたものが紙である。",
+      "english_translation": "Paper is made by extracting cellulose from plants and then weaving or pressing it into thin sheets."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 09:13:44"
+    "extraction_date_time": "2026.07.15 13:39:36"
   }
 }

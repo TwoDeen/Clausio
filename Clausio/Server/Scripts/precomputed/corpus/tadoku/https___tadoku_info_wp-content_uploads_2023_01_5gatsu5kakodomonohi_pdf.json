@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "生まれたときから、僕には父親がいなかった。",
+      "english_translation": "From the moment I was born, I didn't have a father."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "母親は僕を祖父にあずけて、外に働きに出ていた。",
+      "english_translation": "My mother left me with my grandfather and went out to work."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "祖母も外で働いていて、あまり家にいなかった。",
+      "english_translation": "My grandmother also worked outside the home, so she wasn't often at home."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "僕の小さいときの記憶の中心は、いつも祖父だった。",
+      "english_translation": "My childhood memories always centered around my grandfather."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "祖父は僕をかわいがってくれた。",
+      "english_translation": "My grandfather was very fond of me."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:54"
+    "extraction_date_time": "2026.07.15 13:27:58"
   }
 }

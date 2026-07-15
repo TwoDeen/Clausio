@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "昔、海の近くの町に、トキオという名前の時計屋がいました。",
+      "english_translation": "Once upon a time, there was a clockmaker named Tokyo in a town near the sea."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "時計を売ったり買ったり、修理したりするので、店にはいつもいろいろな時計がありました。",
+      "english_translation": "Because they bought and sold, and repaired watches, there were always many different kinds of watches in the shop."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "時計の音を聞いていると、トキオは幸せでした。",
+      "english_translation": "Listening to the sound of the clock, Tokyo felt happy."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "でも、トキオには気になることがありました。",
+      "english_translation": "However, I had some concerns about Tokyo."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "「時間は、どこに行くのだろう」過ぎた時間は、もう戻ってきません。",
+      "english_translation": "\"Where does time go?\" The past is gone and cannot be recovered."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:20"
+    "extraction_date_time": "2026.07.15 13:44:29"
   }
 }

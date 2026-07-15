@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "また、日本語学習の教科書でも取り上げられる話題です。",
+      "english_translation": "It's also a topic that is often covered in Japanese language textbooks."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "お箸の使い方や、お茶碗の持ち方、食事中の会話のし方など、様々なことが詳しく書かれています。",
+      "english_translation": "It details various aspects, including proper chopstick usage, how to hold a bowl, and appropriate conversation during meals."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "しかし、どのガイドブックやサイトでもほとんど取り上げられていない、大切なマナーがあります。",
+      "english_translation": "However, there is an important etiquette that is rarely mentioned in any guidebook or website."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それは、「香水のマナー」です。",
+      "english_translation": "That is, \"etiquette for wearing perfume.\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "日本では、香水を付けないほうがいい場面が多いです。",
+      "english_translation": "In Japan, there are many situations where it is considered impolite to wear perfume."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:06"
+    "extraction_date_time": "2026.07.15 13:31:12"
   }
 }

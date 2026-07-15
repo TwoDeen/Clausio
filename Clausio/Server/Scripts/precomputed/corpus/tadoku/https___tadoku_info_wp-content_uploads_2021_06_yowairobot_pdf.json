@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ロボットは、ゴミを見つけて近づいてきます。",
+      "english_translation": "The robot finds and approaches trash."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "でも、ゴミを拾うことができません。",
+      "english_translation": "But, I can't pick up trash."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そのロボットはゴミの周りで、小さく体を動かしています。",
+      "english_translation": "The robot is moving its body in small ways around the trash."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そして、少し困っているような弱い鳴き声を出しています。",
+      "english_translation": "And, it's making a weak, distressed sound."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "近くにいる人に、ごみがあることを教えているようです。",
+      "english_translation": "It seems like I'm letting someone nearby know that there is trash."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:02"
+    "extraction_date_time": "2026.07.15 13:36:30"
   }
 }

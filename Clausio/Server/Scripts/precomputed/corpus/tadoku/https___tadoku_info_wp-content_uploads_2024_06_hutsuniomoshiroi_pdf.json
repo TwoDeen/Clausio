@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "先日、友だちと映画を見にいった。",
+      "english_translation": "I went to see a movie with a friend recently."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "映画を見たあと、その映画について友だちと話した。",
+      "english_translation": "After watching the movie, I talked about it with my friend."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「映画、どうだった？」「普通におもしろかった」「うん、普通におもしろかったよね。",
+      "english_translation": "\"How was the movie?\" \"It was pretty interesting.\" \"Yeah, it was pretty interesting, right?\""
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "最後、感動して泣いちゃった」「うん、うん」そう、その映画は普通におもしろかった。",
+      "english_translation": "\"Finally, I was so moved that I started crying,\" \"Yeah, yeah.\" Yes, the movie was really interesting."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その夜、夕ごはんを食べたあと、母は私にこう聞いた。",
+      "english_translation": "That night, after dinner, my mother asked me, \"What did you do today?\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:41"
+    "extraction_date_time": "2026.07.15 13:41:41"
   }
 }

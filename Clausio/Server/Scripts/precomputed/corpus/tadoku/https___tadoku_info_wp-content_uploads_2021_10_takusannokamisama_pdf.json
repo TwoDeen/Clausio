@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本では、お正月にたくさんの人が神社に行きます。",
+      "english_translation": "In Japan, many people visit shrines during New Year's."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "神社で、1年間の安全や健康をお祈りします。",
+      "english_translation": "I pray for your safety and good health throughout the coming year at this shrine."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そして、試験の合格や幸運をお願いする人もいます。",
+      "english_translation": "And, some people will also ask for your good luck and success on the exam."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "神奈川県川崎市にある京濱伏見稲荷神社には、たくさんの神様がいます。",
+      "english_translation": "There are many gods at Kyo-Hama Fushimi Inari Shrine, located in Kawasaki City, Kanagawa Prefecture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "この赤い門は、鳥居といいます。",
+      "english_translation": "This red gate is called a torii."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:42"
+    "extraction_date_time": "2026.07.15 13:43:08"
   }
 }

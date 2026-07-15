@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "これ何だ？－その３－「これ何だ？―その2―」で、古墳の大きさについて勉強しました。",
+      "english_translation": "What is this? – \"What is this? – Part 2\" – We learned about the size of ancient tombs in that."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本で一番大きい古墳は何ですか？どれぐらいの長さですか？大きい古墳は、何県に多いですか？日本で一番大きな古墳は、前方後円墳の形をした大仙古墳です。",
+      "english_translation": "What is the largest tomb in Japan? How long is it? Which prefecture has the most large tombs? The largest tomb in Japan is Ogonokōgakuin, a keyhole-shaped tumulus."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "大仙古墳は、大阪府にあります。",
+      "english_translation": "The Oasayama Tumulus is located in Osaka Prefecture."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そのような大きな前方後円墳は、奈良県や大阪府にたくさんあります。",
+      "english_translation": "There are many large, linear tombs like this in Nara Prefecture and Osaka Prefecture."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "昔、奈良県のことを大和とよんでいました。",
+      "english_translation": "In the past, Nara Prefecture was called Yamato."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 09:12:29"
+    "extraction_date_time": "2026.07.15 13:38:33"
   }
 }

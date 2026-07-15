@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "日本語を勉強している外国人に、「日本語の勉強で難しいことは何ですか？」と質問すると、「漢字の勉強です」と答える人がいます。",
+      "english_translation": "When I ask a foreigner who is studying Japanese, \"What's the most difficult part of learning Japanese for you?\", someone might answer, \"Studying kanji.\""
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "日本人も漢字が苦手な人がいます。",
+      "english_translation": "It's also true that many Japanese people find kanji difficult."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "日本語の授業で、漢字の覚え方について勉強することもあるでしょう。",
+      "english_translation": "In Japanese lessons, you may also study how to memorize kanji (Japanese characters)."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "何回もノートに漢字を書いて覚えたり、漢字カードを作って覚えたり、生活の中で漢字を探して覚えたり、色々な覚え方があります。",
+      "english_translation": "There are many different ways to learn kanji, such as writing them repeatedly in a notebook, making flashcards, and finding them in everyday life."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ここで、漢字に関係するすてきな話を一つ紹介します。",
+      "english_translation": "Here, I would like to introduce a wonderful story related to kanji."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:35"
+    "extraction_date_time": "2026.07.15 13:35:51"
   }
 }

@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "もう40代になったというのに、よく眠る。",
+      "english_translation": "Even though I'm in my 40s, I get a lot of sleep."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "子どもじゃないんだから、と自分でも呆れてしまうが、それでも8時間以上寝ている。",
+      "english_translation": "\"I'm even frustrated with myself for not being a child, but I still sleep for over 8 hours.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "休みの日、朝早く起きなくてもいい日は幸せだ。",
+      "english_translation": "It's a happy day when you don't have to wake up early on your days off."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "いつもより遅い時間まで寝て、気持ちよく起きる。",
+      "english_translation": "I usually sleep later than usual and wake up feeling refreshed."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "反対に、平日はまだ起きたくない時間にだいたい目覚まし時計が鳴る。",
+      "english_translation": "Conversely, the alarm clock usually rings at times when I'm still asleep during weekdays."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:55"
+    "extraction_date_time": "2026.07.15 13:29:58"
   }
 }

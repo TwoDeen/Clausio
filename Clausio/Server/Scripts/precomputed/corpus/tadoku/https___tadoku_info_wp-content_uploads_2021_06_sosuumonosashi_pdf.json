@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ものの長さを測るときや、線を書くときに、定規を使います。",
+      "english_translation": "When measuring the length of an object or drawing a line, we use a ruler."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "定規は、「ものさし」とも言います。",
+      "english_translation": "A ruler is also called a \"measuring stick.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "普通のものさしには、たくさんの線と、１、２、３などの数字が書かれています。",
+      "english_translation": "These measuring tools typically have many lines and numbers, such as 1, 2, and 3."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ところが、京都大学で売っている「素数ものさし」は、ちょっと違います。",
+      "english_translation": "However, the \"prime ruler\" sold at Kyoto University is slightly different."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "書かれている数字は、２、３、５、７、11、13、17だけです。",
+      "english_translation": "The numbers written are only 2, 3, 5, 7, 11, 13, and 17."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:14:20"
+    "extraction_date_time": "2026.07.15 13:24:42"
   }
 }

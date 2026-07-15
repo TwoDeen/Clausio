@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "行ったことがない国にひとりで行く。",
+      "english_translation": "Traveling to a country I've never been to alone."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "しかも、その国の言葉がまったくできない。",
+      "english_translation": "Furthermore, I don't even know the language of that country at all."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "そんな旅に出るときは、出発前から不安と期待で胸がどきどきします。",
+      "english_translation": "When embarking on such a journey, my heart is filled with both anxiety and anticipation from the very beginning."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "しかも、出発直前にスマートフォンが壊れたら……。",
+      "english_translation": "And, if my smartphone breaks right before I leave…"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "これはわたしが数年前、ひとりである国に行ったときの話です。",
+      "english_translation": "This is about a time when I traveled to a country where I was alone several years ago."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:12:32"
+    "extraction_date_time": "2026.07.15 13:34:36"
   }
 }

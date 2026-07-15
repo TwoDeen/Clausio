@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "誰でも簡単にできるマジックを紹介します。",
+      "english_translation": "Here's an introduction to easy magic tricks that anyone can do."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "マジックは、「手品」とも言います。",
+      "english_translation": "\"Magic\" is also referred to as \"sleight of hand.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "パーティーなどで手品をして、まわりの人をびっくりさせましょう。",
+      "english_translation": "Impress your friends and family at parties by performing magic tricks!"
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "この手品では、トランプの「７」のカードを４枚使います。",
+      "english_translation": "In this magic trick, you will use four cards with the number \"7\" on them."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "まず始めに、この４枚のカードをテーブルの上に並べて、「ここに、ハートの７、スペードの７、ダイヤの７、クラブの７があります。",
+      "english_translation": "First, please lay these four cards on the table and say, \"Here are the seven of hearts, the seven of spades, the seven of diamonds, and the seven of clubs.\""
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:16:08"
+    "extraction_date_time": "2026.07.15 13:43:30"
   }
 }

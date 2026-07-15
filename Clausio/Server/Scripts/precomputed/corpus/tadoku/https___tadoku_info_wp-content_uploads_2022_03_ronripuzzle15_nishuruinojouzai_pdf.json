@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "２種類の錠剤【問題】２種類の錠剤AとBがあります。",
+      "english_translation": "To English: We have two types of tablets: A and B."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "あなたは病気を治すために、毎日AとBを１錠ずつ同時に飲まなければなりません。",
+      "english_translation": "You must take one tablet of A and one tablet of B together every day in order to cure your illness."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ある日、あなたはAのビンからAを１錠、手のひらに取り出しました。",
+      "english_translation": "One day, you took one tablet from a bottle labeled \"A\" and held it in your hand."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "つづいてBのビンからBを１錠取り出そうとしました。",
+      "english_translation": "Next, I tried to take one tablet from the B bottle."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ところが、間違ってBを２錠取り出してしまい、手のひらの上でAと混ざってしまいました。",
+      "english_translation": "However, I accidentally grabbed two tablets of B instead of A, and they mixed together on my palm."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:07"
+    "extraction_date_time": "2026.07.15 13:42:02"
   }
 }

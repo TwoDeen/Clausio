@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆その男の前には、大きな時計がありました。",
+      "english_translation": "There was a large clock in front of the man."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "とても大きな時計で、棚に置くにはちょっと大きすぎました。",
+      "english_translation": "It was a very large clock, and it was a little too big to put on a shelf."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "ですから、床の上に直接置かれていました。",
+      "english_translation": "Therefore, they were placed directly on the floor."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "それでも、時間を確認したいとき、ほとんどの人は時計を見上げなければなりません。",
+      "english_translation": "Even so, when people want to check the time, they usually have to look at a watch."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "男は、この大きな時計をとても気に入っていました。",
+      "english_translation": "The man really liked this large clock."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:15:11"
+    "extraction_date_time": "2026.07.15 13:35:12"
   }
 }

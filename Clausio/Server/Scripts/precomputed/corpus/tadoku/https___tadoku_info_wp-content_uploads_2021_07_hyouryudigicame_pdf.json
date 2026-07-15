@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "台湾の小学生２人が学校の活動で海岸を掃除しているときに、貝や海藻がびっしり付いた箱を拾った。",
+      "english_translation": "Two elementary school students in Taiwan were cleaning up a beach as part of a school activity when they found a box covered in shells and seaweed."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "ゴミだと思ってゴミ袋に入れようとしたが、箱の中に何かが入っているのが見えた。",
+      "english_translation": "I thought it was trash and tried to put it in a garbage bag, but I saw something inside the box."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "「何だろう？」と思って箱を開けてみると、中にはデジタルカメラが入っていた。",
+      "english_translation": "I wondered, \"What could this be?\" and opened the box to find a digital camera inside."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "その箱はカメラの防水ケースだった。",
+      "english_translation": "That box was a waterproof case for a camera."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "箱の中に海水は入っていなくて、カメラは無事のようだった。",
+      "english_translation": "The seawater was not inside the box, and the camera appeared to be undamaged."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:48"
+    "extraction_date_time": "2026.07.15 13:20:45"
   }
 }

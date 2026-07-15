@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "メンバーは10人ぐらいだった。",
+      "english_translation": "There were about 10 members in the group."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "あるとき、この中で誰が一番速いかという話になった。",
+      "english_translation": "One day, there was a discussion about which of these was the fastest."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "メンバーの中に負けず嫌いが二人いた。",
+      "english_translation": "There were two members who were very competitive."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "「俺が一番速い」「いや、俺の方が速い」二人はカーブが多い山道で勝負しようと言った。",
+      "english_translation": "\"I'm the fastest,\" \"No, I am!\" Two men challenged each other to a race on a winding mountain road."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "そこがスタートで、山道を登る。",
+      "english_translation": "That's where the starting point is, and then you climb up the mountain road."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:11:27"
+    "extraction_date_time": "2026.07.15 13:22:05"
   }
 }

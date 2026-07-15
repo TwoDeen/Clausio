@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "小学生のとき、年賀状（新年のあいさつ）を書くのが好きでした。",
+      "english_translation": "When I was in elementary school, I loved writing New Year's cards (Nengajo)."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "多いときは50枚ぐらい書いたと思います。",
+      "english_translation": "I think I've written around 50 pieces in total."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "中学2年生のときは、友だちのまねをして、アマチュア無線の免許を取りました。",
+      "english_translation": "When I was in middle school, I got my amateur radio license by following what my friends were doing."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "さっそく、無線局を開局しました。",
+      "english_translation": "Right away, I started operating a radio station."
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "年齢も顔もわかりませんが、100kmも200kmも離れている人と話すことができて、とても楽しかったです。",
+      "english_translation": "Although I couldn't tell their age or appearance, I was very happy to be able to have conversations with people who were 100km or 200km away."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 09:15:44"
+    "extraction_date_time": "2026.07.15 13:43:22"
   }
 }

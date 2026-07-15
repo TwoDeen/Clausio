@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "ミアとクーボ次女のミアは、小さい頃から生きものに好かれる子だった。",
+      "english_translation": "Mia and Koubo's youngest daughter, Mia, has always loved animals since she was a child."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "小学校に行く途中に、母親の友だちの家があり、そこにはイチローという大きな雄犬がいた。",
+      "english_translation": "On my way to elementary school, I passed by a neighbor's house where his wife had a large male dog named Ichiro."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "イチローは、遠くからでも匂いで、ミアが近づいてくるのがわかる。",
+      "english_translation": "Ichiro could tell when Mia was approaching, even from a distance, by her scent."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "そうすると、いつもうれしくて、「早く来て！」と吠える。",
+      "english_translation": "As a result, he would often bark excitedly, saying \"Come here quickly!\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "ミアが来て、イチローに近寄ると、走ってきて大きな身体をぶつけてくる。",
+      "english_translation": "When Mia arrived and approached Ichiro, she ran up to him and bumped into him with her large body."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:45"
+    "extraction_date_time": "2026.07.15 13:23:45"
   }
 }

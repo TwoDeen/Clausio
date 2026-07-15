@@ -7,10 +7,12 @@ from typing import List, Dict, Optional
 try:
     from clausify import decompose_into_clauses_fallback
     from complete_jlpt_analyzer import analyze_sentence_grammar
+    from sentence_translator import translate_sentences_to_english
 except ImportError as e:
     print(f"Error: Missing dependency script. {e}", file=sys.stderr)
     print(
-        "Please ensure 'clausify.py' and 'complete_jlpt_analyzer.py' are in this root folder.",
+        "Please ensure 'clausify.py', 'complete_jlpt_analyzer.py', and "
+        "'sentence_translator.py' are in this root folder.",
         file=sys.stderr,
     )
     sys.exit(1)
@@ -414,6 +416,8 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
         print(f"[ERR] {e}", file=sys.stderr)
         return {}
 
+    sentence_translations = translate_sentences_to_english(selected_sentences)
+
     highest_weight_encountered = 1
     puzzle_grid = []
 
@@ -481,6 +485,7 @@ def build_puzzle_json(raw_txt_path: str, target_level: str, output_dir: str) -> 
             "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
             "ordered_sentence_ids": [i + 1 for i in range(len(selected_sentences))],
         },
+        "sentence_translations": sentence_translations,
         "grid_matrix": puzzle_grid,
     }
 
@@ -518,6 +523,8 @@ def build_puzzle_from_news_tokens(
         allow_fallback=True,
     )
 
+    sentence_translations = translate_sentences_to_english(normalized_sentences)
+
     for row_idx, sentence_text in enumerate(normalized_sentences):
         sentence_id = row_idx + 1
 
@@ -553,9 +560,10 @@ def build_puzzle_from_news_tokens(
             )
             clauses = [sentence_text, "", "", "", ""]
 
+        bounds = _clause_bounds_from_sentence(sentence_text, clauses)
+
         for col_idx, clause_text in enumerate(clauses):
             if doc is not None:
-                bounds = _clause_bounds_from_sentence(sentence_text, clauses)
                 start_bound, end_bound = bounds[col_idx]
                 clause_furigana = _kana_for_clause(
                     clause_text, doc, start_bound, end_bound, nlp
@@ -586,8 +594,8 @@ def build_puzzle_from_news_tokens(
             "description": "To solve, rebuild the story line by line from Row 1 to Row 5, joining Columns 1-5 in order.",
             "ordered_sentence_ids": [1, 2, 3, 4, 5],
         },
+        "sentence_translations": sentence_translations,
         "grid_matrix": puzzle_grid,
     }
 
     return game_payload
-

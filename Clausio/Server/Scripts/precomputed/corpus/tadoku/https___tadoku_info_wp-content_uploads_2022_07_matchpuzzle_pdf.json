@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "火をつけるのに使うマッチというものがあります。",
+      "english_translation": "There is something called a match, which is used to light a fire."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "このマッチを使ったクイズに挑戦してみましょう！まずは１つ目のクイズです。",
+      "english_translation": "Let's try our luck with this quiz! First up, here's question number one."
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "マッチを使って、下の絵のような式を作りました。",
+      "english_translation": "I created an equation using matches, based on the picture below."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "あれ？３と４を合わせても、５にはなりませんよね。",
+      "english_translation": "Wait, if I add 3 and 4 together, doesn't that equal 7, not 5?"
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "マッチを１本だけ動かして、正しい式にしましょう。",
+      "english_translation": "Using only one match, create the correct equation."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:13:10"
+    "extraction_date_time": "2026.07.15 13:32:54"
   }
 }

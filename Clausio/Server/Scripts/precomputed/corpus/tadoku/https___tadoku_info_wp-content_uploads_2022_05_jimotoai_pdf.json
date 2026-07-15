@@ -13,6 +13,33 @@
       5
     ]
   },
+  "sentence_translations": [
+    {
+      "sentence_id": 1,
+      "japanese": "わたしはベトナムのホーチミン市に住んでいたことがあります。",
+      "english_translation": "I used to live in Ho Chi Minh City, Vietnam."
+    },
+    {
+      "sentence_id": 2,
+      "japanese": "住む前は、ベトナムの食べ物と言えば「フォー（Phở）」だと思っていました。",
+      "english_translation": "Before moving here, when I thought of Vietnamese food, I immediately thought of \"Pho.\""
+    },
+    {
+      "sentence_id": 3,
+      "japanese": "実際、ホーチミンにはたくさんのフォーの店があって、わたしはどの店のフォーもおいしいと思いました。",
+      "english_translation": "Actually, there are so many pho restaurants in Ho Chi Minh City, and I thought that every single one of them was delicious."
+    },
+    {
+      "sentence_id": 4,
+      "japanese": "ところがある日、ベトナム人の知り合いが「ホーチミンのフォーは、本物のフォーじゃない！」と言いました。",
+      "english_translation": "However, one day, I was talking to a Vietnamese friend who said, \"The pho in Ho Chi Minh City isn't authentic!\""
+    },
+    {
+      "sentence_id": 5,
+      "japanese": "その知り合いに聞いたところ、フォーはハノイの名物だそうです。",
+      "english_translation": "According to someone I know, pho is a famous dish in Hanoi."
+    }
+  ],
   "grid_matrix": [
     {
       "clause_id": 1,
@@ -307,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 09:10:23"
+    "extraction_date_time": "2026.07.15 13:30:13"
   }
 }
