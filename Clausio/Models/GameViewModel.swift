@@ -12,7 +12,7 @@ class GameViewModel: ObservableObject {
     @Published var isLearnModeOn: Bool = false
 
     @Published var didGiveUp: Bool = false
-    @Published var corpusRef: CorpusReference? = nil
+    @Published var corpusRef: GamePayload.CorpusReference? = nil
     @Published var gamePayload: GamePayload? = nil
 
     private var pristineSolutionOrder: [Tile] = []
@@ -33,6 +33,14 @@ class GameViewModel: ObservableObject {
         self.errorMessage = nil
         self.gamePayload = payload
         self.corpusRef = payload.corpus_ref
+      
+        print("sentence_translations count =", payload.sentence_translations?.count ?? 0)
+        print("sentenceTranslationsById =", Dictionary(
+          uniqueKeysWithValues: (payload.sentence_translations ?? []).map {
+            ($0.sentence_id, $0.english_translation)
+          }
+        ))
+      
         self.initializeGameGrid(from: payload.grid_matrix)
         self.isLoading = false
     }

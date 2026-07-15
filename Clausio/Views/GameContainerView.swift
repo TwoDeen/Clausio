@@ -126,7 +126,8 @@ struct GameContainerView: View {
         PassageSheetView(
           rows: vm.passageRows,
           plainPassageText: vm.fullPassageText,
-          hasFurigana: vm.hasFuriganaPassage
+          hasFurigana: vm.hasFuriganaPassage,
+          sentenceTranslationsById: vm.sentenceTranslationsById
         )
       }
       .sheet(isPresented: $showingCorpusInfoSheet) {
@@ -463,6 +464,7 @@ struct PassageSheetView: View {
   let rows: [[Tile]]
   let plainPassageText: String
   let hasFurigana: Bool
+  let sentenceTranslationsById: [Int: String]
   
   @State private var showFurigana = false
   @Environment(\.dismiss) private var dismiss
@@ -479,12 +481,44 @@ struct PassageSheetView: View {
             Text("Passage unavailable.")
               .foregroundColor(.secondary)
           } else if showFurigana && hasFurigana {
-            RubyPassageView(rows: rows)
+            VStack(alignment: .leading, spacing: 18) {
+              ForEach(Array(rows.enumerated()), id: \.offset) { index, row in
+                VStack(alignment: .leading, spacing: 8) {
+                  RubyRowView(tokens: row)
+                  
+                  if let translation = sentenceTranslationsById[index + 1],
+                     !translation.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                    Text(translation)
+                      .font(.subheadline)
+                      .foregroundColor(.secondary)
+                      .fixedSize(horizontal: false, vertical: true)
+                      .textSelection(.enabled)
+                  }
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+              }
+            }
           } else {
-            Text(plainPassageText)
-              .font(.body)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .textSelection(.enabled)
+            VStack(alignment: .leading, spacing: 18) {
+              ForEach(Array(rows.enumerated()), id: \.offset) { index, row in
+                VStack(alignment: .leading, spacing: 8) {
+                  Text(row.map(\.text).joined())
+                    .font(.body)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .textSelection(.enabled)
+                  
+                  if let translation = sentenceTranslationsById[index + 1],
+                     !translation.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                    Text(translation)
+                      .font(.subheadline)
+                      .foregroundColor(.secondary)
+                      .fixedSize(horizontal: false, vertical: true)
+                      .textSelection(.enabled)
+                  }
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+              }
+            }
           }
         }
         .padding()
@@ -501,10 +535,9 @@ struct PassageSheetView: View {
     }
   }
 }
-
 // MARK: - Corpus Info Sheet
 struct CorpusInfoSheetView: View {
-  let corpusRef: CorpusReference?
+  let corpusRef: GamePayload.CorpusReference?
   @Environment(\.dismiss) private var dismiss
   
   var body: some View {
