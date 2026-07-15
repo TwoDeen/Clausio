@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "495みなさん、",
-      "furigana": "よんきゅうごみなさん、",
+      "clause_text": "みなさん、",
+      "furigana": "みなさん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "1から9の9つの",
-      "furigana": "いちからきゅうのここのつの",
+      "clause_text": "1から",
+      "furigana": "いちから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "数字の中から、",
-      "furigana": "すうじのなかから、",
+      "clause_text": "9の9つの数",
+      "furigana": "きゅうのここのつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "好きなものを3つ紙に",
-      "furigana": "すきなものをみっつしに",
+      "clause_text": "字の中から、",
+      "furigana": "のなかから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "書いてください。",
-      "furigana": "かいてください。",
+      "clause_text": "好きなものを3つ紙に書いてください。",
+      "furigana": "すきなものをみっつしにかいてください。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その3つの",
-      "furigana": "そのみっつの",
+      "clause_text": "その3つの数字を使って",
+      "furigana": "そのみっつのすうじをつかって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "数字を",
-      "furigana": "すうじを",
+      "clause_text": "できる、",
+      "furigana": "できる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "使ってできる、",
-      "furigana": "つかってできる、",
+      "clause_text": "「一番大きな3けたの数字」",
+      "furigana": "きごういちばんおおきなさんけたのすうじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "「一番大きな3けたの数字」は",
-      "furigana": "きごういちばんおおきなさんけたのすうじきごうは",
+      "clause_text": "は何です",
+      "furigana": "はなんです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "何ですか。",
-      "furigana": "なんですか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「3けたの数字」というのは、",
-      "furigana": "きごうさんけたのすうじきごうというのは、",
+      "clause_text": "「3けたの数字」という",
+      "furigana": "きごうさんけたのすうじきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "例えば「145」「561」",
-      "furigana": "たとえばきごういちよんごきごうきごうごろくいちきごう",
+      "clause_text": "のは、",
+      "furigana": "のは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「978」など、",
-      "furigana": "きごうきゅうななはちきごうなど、",
+      "clause_text": "例えば「145」「561」「978」",
+      "furigana": "たとえばきごういちよんごきごうきごうごろくいちきごうきごうきゅうななはちきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "3つの数字を並べてできる",
-      "furigana": "みっつのすうじをならべてできる",
+      "clause_text": "など、",
+      "furigana": "など、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "数字です。",
-      "furigana": "すうじです。",
+      "clause_text": "3つの数字を並べてできる数字です。",
+      "furigana": "みっつのすうじをならべてできるすうじです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「一番大きな3けたの数字」が書けたら、",
-      "furigana": "きごういちばんおおきなさんけたのすうじきごうがかけたら、",
+      "clause_text": "「一番大きな3けたの数字」が書",
+      "furigana": "きごういちばんおおきなさんけたのすうじきごうが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "次に、",
-      "furigana": "つぎに、",
+      "clause_text": "けたら、",
+      "furigana": "たら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "その3つの数字を使ってできる、",
-      "furigana": "そのみっつのすうじをつかってできる、",
+      "clause_text": "次に、",
+      "furigana": "つぎに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "「一番小さな3けたの数字」を",
-      "furigana": "きごういちばんちいさなさんけたのすうじきごうを",
+      "clause_text": "その3つの数字を使ってできる、",
+      "furigana": "そのみっつのすうじをつかってできる、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "書いてください。",
-      "furigana": "かいてください。",
+      "clause_text": "「一番小さな3けたの数字」を書いてください。",
+      "furigana": "きごういちばんちいさなさんけたのすうじきごうをかいてください。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1と5と",
-      "furigana": "いちとごと",
+      "clause_text": "1と5と9",
+      "furigana": "いちとごときゅう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "9を選んだ",
-      "furigana": "きゅうをえらんだ",
+      "clause_text": "を選んだ場合",
+      "furigana": "をえらんだばあい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "場合について、",
-      "furigana": "ばあいについて、",
+      "clause_text": "について、",
+      "furigana": "について、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:06"
+    "extraction_date_time": "2026.07.15 09:16:15"
   }
 }

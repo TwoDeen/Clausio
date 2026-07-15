@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "楽しめる",
-      "furigana": "たのしめる",
+      "clause_text": "楽しめる絵本が",
+      "furigana": "たのしめるえほんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "絵本が",
-      "furigana": "えほんが",
+      "clause_text": "たくさん",
+      "furigana": "たくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん",
-      "furigana": "たくさん",
+      "clause_text": "出て",
+      "furigana": "でて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "出ています。",
-      "furigana": "でています。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "もちろん子ども",
-      "furigana": "もちろんこども",
+      "clause_text": "もちろん子どもといっしょに",
+      "furigana": "もちろんこどもといっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "といっしょに",
-      "furigana": "といっしょに",
+      "clause_text": "楽しめる",
+      "furigana": "たのしめる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "楽しめる",
-      "furigana": "たのしめる",
+      "clause_text": "絵本も",
+      "furigana": "えほんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "絵本もたくさん",
-      "furigana": "えほんもたくさん",
+      "clause_text": "たくさん",
+      "furigana": "たくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "アントニー・",
-      "furigana": "あんとにー・",
+      "clause_text": "アントニー・ブラウン",
+      "furigana": "あんとにー・ぶらうん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ブラウンの『すきです",
-      "furigana": "ぶらうんのきごうすきです",
+      "clause_text": "の『すき",
+      "furigana": "のきごうすき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ゴリラ』（1983年）は、",
-      "furigana": "ごりらきごうきごういちきゅうはちさんねんきごうは、",
+      "clause_text": "ですゴリラ』（1983年）は、",
+      "furigana": "ですごりらきごうきごういちきゅうはちさんねんきごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんな絵本のひと",
-      "furigana": "そんなえほんのひと",
+      "clause_text": "そんな絵本の",
+      "furigana": "そんなえほんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "つです。",
-      "furigana": "つです。",
+      "clause_text": "ひとつです。",
+      "furigana": "ひとつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "物語は父親と二人で暮らす",
-      "furigana": "ものがたりはちちおやとふたりでくらす",
+      "clause_text": "物語は父親と二人で暮らす女の子の話ですナはゴリラが大好き",
+      "furigana": "ものがたりはちちおやとふたりでくらすおんなのこのはなしですなはごりらがだいすき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "女の子の話ですナは",
-      "furigana": "おんなのこのはなしですなは",
+      "clause_text": "ですナのお父さんは仕事",
+      "furigana": "ですなのおとうさんはしごと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ゴリラが大好きですナの",
-      "furigana": "ごりらがだいすきですなの",
+      "clause_text": "がいそがしくて、",
+      "furigana": "がいそがしくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "お父さんは仕事がいそがしくて、",
-      "furigana": "おとうさんはしごとがいそがしくて、",
+      "clause_text": "ハナの相手",
+      "furigana": "はなのあいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ハナの相手をしてくれません。",
-      "furigana": "はなのあいてをしてくれません。",
+      "clause_text": "をしてくれません。",
+      "furigana": "をしてくれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そんなお父さんでも、",
-      "furigana": "そんなおとうさんでも、",
+      "clause_text": "そんなお父さんで",
+      "furigana": "そんなおとうさんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ハナの誕生日の前の夜、",
-      "furigana": "はなのたんじょうびのまえのよる、",
+      "clause_text": "も、",
+      "furigana": "も、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゴリラのぬいぐるみを",
-      "furigana": "ごりらのぬいぐるみを",
+      "clause_text": "ハナの誕生日の前の夜、",
+      "furigana": "はなのたんじょうびのまえのよる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "プレゼント",
-      "furigana": "ぷれぜんと",
+      "clause_text": "ゴリラのぬいぐるみ",
+      "furigana": "ごりらのぬいぐるみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "してくれました。",
-      "furigana": "してくれました。",
+      "clause_text": "をプレゼントしてくれました。",
+      "furigana": "をぷれぜんとしてくれました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:34"
+    "extraction_date_time": "2026.07.15 09:16:02"
   }
 }

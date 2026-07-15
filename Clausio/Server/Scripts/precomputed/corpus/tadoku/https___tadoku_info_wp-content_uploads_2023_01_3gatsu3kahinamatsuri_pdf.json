@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そこに積み上げてあった",
-      "furigana": "そこにつみあげてあった",
+      "clause_text": "そこに積み上げてあった本を本棚に戻し、",
+      "furigana": "そこにつみあげてあったほんをほんだなにもどし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "本を本棚に戻し、",
-      "furigana": "ほんをほんだなにもどし、",
+      "clause_text": "ほこりを払い、",
+      "furigana": "ほこりをはらい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほこりを払い、",
-      "furigana": "ほこりをはらい、",
+      "clause_text": "そして、",
+      "furigana": "そして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "雑巾できれい",
+      "furigana": "ぞうきんできれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "雑巾できれいに拭く。",
-      "furigana": "ぞうきんできれいにふく。",
+      "clause_text": "に拭く。",
+      "furigana": "にふく。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "すっきりと",
-      "furigana": "すっきりと",
+      "clause_text": "すっきりとした机の上を満足そう",
+      "furigana": "すっきりとしたつくえのうえをまんぞくそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "した机の上を満足",
-      "furigana": "したつくえのうえをまんぞく",
+      "clause_text": "に眺め、",
+      "furigana": "にながめ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "そうに眺め、",
-      "furigana": "そうにながめ、",
+      "clause_text": "男は机の引き出し",
+      "furigana": "おとこはつくえのひきだし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "男は机の引き出しの中から",
-      "furigana": "おとこはつくえのひきだしのなかから",
+      "clause_text": "の中から小さな箱",
+      "furigana": "のなかからちいさなばこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "小さな箱を取り出す。",
-      "furigana": "ちいさなばこをとりだす。",
+      "clause_text": "を取り出す。",
+      "furigana": "をとりだす。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "男の手に",
-      "furigana": "おとこのてに",
+      "clause_text": "男の手に収まる",
+      "furigana": "おとこのてにおさまる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "収まるぐらいの",
-      "furigana": "おさまるぐらいの",
+      "clause_text": "ぐらいのその小さな箱",
+      "furigana": "ぐらいのそのちいさなばこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "その小さな箱から、",
-      "furigana": "そのちいさなばこから、",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "雛人形が",
-      "furigana": "ひなにんぎょうが",
+      "clause_text": "雛人形",
+      "furigana": "ひなにんぎょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "出てくる。",
-      "furigana": "でてくる。",
+      "clause_text": "が出てくる。",
+      "furigana": "がでてくる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "男は卵でも",
-      "furigana": "おとこはたまごでも",
+      "clause_text": "男は卵",
+      "furigana": "おとこはたまご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "扱うかのように、",
-      "furigana": "あつかうかのように、",
+      "clause_text": "でも扱う",
+      "furigana": "でもあつかう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "丁寧に、",
-      "furigana": "ていねいに、",
+      "clause_text": "かのように、丁寧に",
+      "furigana": "かのように、ていねいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "丁寧に、",
-      "furigana": "ていねいに、",
+      "clause_text": "、丁寧に",
+      "furigana": "、ていねいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "その人形を机の上に飾る。",
-      "furigana": "そのにんぎょうをつくえのうえにかざる。",
+      "clause_text": "、その人形を机の上に飾る。",
+      "furigana": "、そのにんぎょうをつくえのうえにかざる。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:49"
+    "extraction_date_time": "2026.07.15 09:10:01"
   }
 }

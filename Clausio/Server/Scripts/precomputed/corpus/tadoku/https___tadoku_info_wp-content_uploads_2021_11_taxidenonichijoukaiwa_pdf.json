@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "韓国で車を持っていませんでしたから、",
-      "furigana": "かんこくでくるまをもっていませんでしたから、",
+      "clause_text": "韓国で車を持っていませんでした",
+      "furigana": "かんこくでくるまをもっていませんでした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "バス、",
-      "furigana": "ばす、",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "タクシー、",
-      "furigana": "たくしー、",
+      "clause_text": "バス、",
+      "furigana": "ばす、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "地下鉄をよく",
-      "furigana": "ちかてつをよく",
+      "clause_text": "タクシー、",
+      "furigana": "たくしー、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "使いました。",
-      "furigana": "つかいました。",
+      "clause_text": "地下鉄をよく使いました。",
+      "furigana": "ちかてつをよくつかいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "一番よ",
-      "furigana": "いちばんよ",
+      "clause_text": "一番",
+      "furigana": "いちばん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "く",
-      "furigana": "く",
+      "clause_text": "よく使っ",
+      "furigana": "よくつかっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "使ったの",
-      "furigana": "つかったの",
+      "clause_text": "たのは、",
+      "furigana": "たのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "タクシーでし",
+      "furigana": "たくしーでし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "タクシーでした。",
-      "furigana": "たくしーでした。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "韓国に行ったばかりのころは、",
-      "furigana": "かんこくにいったばかりのころは、",
+      "clause_text": "韓国に行ったばかり",
+      "furigana": "かんこくにいったばかり",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "韓国語が全然",
-      "furigana": "かんこくごがぜんぜん",
+      "clause_text": "のころ",
+      "furigana": "のころ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "わからなかったのでタクシーの",
-      "furigana": "わからなかったのでたくしーの",
+      "clause_text": "は、韓国語が全然わからなかったの",
+      "furigana": "は、かんこくごがぜんぜんわからなかったの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "運転手さんと話ができませ",
-      "furigana": "うんてんしゅさんとはなしができませ",
+      "clause_text": "でタクシーの運転手さんと話",
+      "furigana": "でたくしーのうんてんしゅさんとはなし",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "んでした。",
-      "furigana": "んでした。",
+      "clause_text": "ができませんでした。",
+      "furigana": "ができませんでした。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "韓国語が少しわかるよ",
-      "furigana": "かんこくごがすこしわかるよ",
+      "clause_text": "韓国語が少しわかるように",
+      "furigana": "かんこくごがすこしわかるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "うになってから、",
-      "furigana": "うになってから、",
+      "clause_text": "なって",
+      "furigana": "なって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「タクシーの運転手さんはだいたい同じ質問をする」",
-      "furigana": "きごうたくしーのうんてんしゅさんはだいたいおなじしつもんをするきごう",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ということが",
-      "furigana": "ということが",
+      "clause_text": "「タクシーの運転手さんはだいたい同じ質問をする」ということが",
+      "furigana": "きごうたくしーのうんてんしゅさんはだいたいおなじしつもんをするきごうということが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:07"
+    "extraction_date_time": "2026.07.15 09:12:27"
   }
 }

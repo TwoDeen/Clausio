@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "４つのボート",
-      "furigana": "よんつのぼーと",
+      "clause_text": "４つのボート【問題】あなた",
+      "furigana": "よんつのぼーときごうもんだいきごうあなた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】あなたは、",
-      "furigana": "きごうもんだいきごうあなたは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "４つのボートを川の",
-      "furigana": "よんつのぼーとをかわの",
+      "clause_text": "４つのボートを川",
+      "furigana": "よんつのぼーとをかわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "向こうの岸に渡さ",
-      "furigana": "むこうのきしにわたさ",
+      "clause_text": "の向こうの岸",
+      "furigana": "のむこうのきし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なくてはなりません。",
-      "furigana": "なくてはなりません。",
+      "clause_text": "に渡さなくてはなりません。",
+      "furigana": "にわたさなくてはなりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ボートは川を渡るのに、",
-      "furigana": "ぼーとはかわをわたるのに、",
+      "clause_text": "ボートは川を渡るの",
+      "furigana": "ぼーとはかわをわたるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "それぞれ１分、",
-      "furigana": "それぞれいちふん、",
+      "clause_text": "に、それぞれ１分",
+      "furigana": "に、それぞれいちふん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "２分、",
-      "furigana": "にふん、",
+      "clause_text": "、２分、",
+      "furigana": "、にふん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "３つ以上の",
-      "furigana": "みっついじょうの",
+      "clause_text": "４つのボートを川の向こうの岸に全部渡すのに",
+      "furigana": "よんつのぼーとをかわのむこうのきしにぜんぶわたすのに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ボートを",
-      "furigana": "ぼーとを",
+      "clause_text": "、一番短い時間で何分かかるでしょうか？ボートを渡すとき",
+      "furigana": "、いちばんみじかいじかんでなにぶんかかるでしょうか?ぼーとをわたすとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いっしょに",
-      "furigana": "いっしょに",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "運ぶこと",
-      "furigana": "はこぶこと",
+      "clause_text": "２つ",
+      "furigana": "ふつつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "はできないのです。",
-      "furigana": "はできないのです。",
+      "clause_text": "のボートしかいっしょに行けません。",
+      "furigana": "のぼーとしかいっしょにいけません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "２つのボートで川を",
-      "furigana": "ふつつのぼーとでかわを",
+      "clause_text": "３つ以上",
+      "furigana": "みっついじょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "渡るときは、",
-      "furigana": "わたるときは、",
+      "clause_text": "のボート",
+      "furigana": "のぼーと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "遅い方のボートが",
-      "furigana": "おそいほうのぼーとが",
+      "clause_text": "をいっしょに",
+      "furigana": "をいっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "渡る時の時間が",
-      "furigana": "わたるときのじかんが",
+      "clause_text": "運ぶことは",
+      "furigana": "はこぶことは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "かかります。",
-      "furigana": "かかります。",
+      "clause_text": "できないのです。",
+      "furigana": "できないのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たとえば１分と８分の",
-      "furigana": "たとえばいちふんとはちぶんの",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "２つのボートで川を渡るとき",
+      "furigana": "ふつつのぼーとでかわをわたるとき",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ボートで出発",
-      "furigana": "ぼーとでしゅっぱつ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "は、",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "したら、",
-      "furigana": "したら、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "遅い方のボート",
+      "furigana": "おそいほうのぼーと",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "川を渡るのに８分",
-      "furigana": "かわをわたるのにはちふん",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "が渡る時の時間",
+      "furigana": "がわたるときのじかん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "かかります。",
-      "furigana": "かかります。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "がかかります。",
+      "furigana": "がかかります。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:29"
+    "extraction_date_time": "2026.07.15 09:15:24"
   }
 }

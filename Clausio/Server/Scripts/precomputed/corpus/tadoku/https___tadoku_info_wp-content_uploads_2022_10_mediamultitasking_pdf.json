@@ -32,7 +32,7 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "・",
+      "clause_text": "・マルチ",
       "furigana": "・",
       "sentence_individual_grammar_level": "N5"
     },
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "マルチタスキング",
-      "furigana": "まるちたすきんぐ",
+      "clause_text": "タスキング",
+      "furigana": "たすきんぐ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "わたしは学校にいて、",
-      "furigana": "わたしはがっこうにいて、",
+      "clause_text": "わたしは学校",
+      "furigana": "わたしはがっこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "パソコンでこの",
-      "furigana": "ぱそこんでこの",
+      "clause_text": "にいて、",
+      "furigana": "にいて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "文章を",
-      "furigana": "ぶんしょうを",
+      "clause_text": "パソコンでこの文章",
+      "furigana": "ぱそこんでこのぶんしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "書いています。",
-      "furigana": "かいています。",
+      "clause_text": "を書いています。",
+      "furigana": "をかいています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "頭の中で、",
-      "furigana": "あたまのなかで、",
+      "clause_text": "頭の中",
+      "furigana": "あたまのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "どんなことを書こうか考えて、",
-      "furigana": "どんなことをかこうかかんがえて、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "言葉を選び、",
-      "furigana": "ことばをえらび、",
+      "clause_text": "どんなことを書こうか考えて、",
+      "furigana": "どんなことをかこうかかんがえて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そしてキーボードを",
-      "furigana": "そしてきーぼーどを",
+      "clause_text": "言葉を選び、",
+      "furigana": "ことばをえらび、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "打っています。",
-      "furigana": "うっています。",
+      "clause_text": "そしてキーボードを打っています。",
+      "furigana": "そしてきーぼーどをうっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "パソコンの",
-      "furigana": "ぱそこんの",
+      "clause_text": "パソコンの画面に、",
+      "furigana": "ぱそこんのがめんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "画面に、",
-      "furigana": "がめんに、",
+      "clause_text": "何かの",
+      "furigana": "なんかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "何かのお知らせが",
-      "furigana": "なんかのおしらせが",
+      "clause_text": "お知らせが",
+      "furigana": "おしらせが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「15:00zoomミーティング」",
-      "furigana": "きごういちごきごうれいれいずーむみーてぃんぐきごう",
+      "clause_text": "「15:00zoomミーティング」という",
+      "furigana": "きごういちごきごうれいれいずーむみーてぃんぐきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "というスケジュールのお知らせや、",
-      "furigana": "というすけじゅーるのおしらせや、",
+      "clause_text": "スケジュールのお知らせや、",
+      "furigana": "すけじゅーるのおしらせや、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「新着メール１件」というメールのお知らせ",
-      "furigana": "きごうしんちゃくめーるいちけんきごうというめーるのおしらせ",
+      "clause_text": "「新着メール１件」という",
+      "furigana": "きごうしんちゃくめーるいちけんきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "などです。",
-      "furigana": "などです。",
+      "clause_text": "メールのお知らせなどです。",
+      "furigana": "めーるのおしらせなどです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:30"
+    "extraction_date_time": "2026.07.15 09:14:23"
   }
 }

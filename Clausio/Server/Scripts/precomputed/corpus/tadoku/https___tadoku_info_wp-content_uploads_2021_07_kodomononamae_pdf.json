@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "子どもの名前",
-      "furigana": "こどものなまえ",
+      "clause_text": "2020年の",
+      "furigana": "にれいにれいねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "2020年の第１位は",
-      "furigana": "にれいにれいねんのだいいちいは",
+      "clause_text": "第１",
+      "furigana": "だいいち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「蒼（そう）くん」と",
-      "furigana": "きごうあおくんきごうと",
+      "clause_text": "位は",
+      "furigana": "いは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "「陽葵（ひまり）ちゃん」",
-      "furigana": "きごうはるきちゃんきごう",
+      "clause_text": "「蒼（そう）くん」と",
+      "furigana": "きごうあおくんきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "･･･。",
-      "furigana": "・・・。",
+      "clause_text": "「陽葵（ひまり）ちゃん」･･･。",
+      "furigana": "きごうはるきちゃんきごう・・・。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "毎年、",
-      "furigana": "まいとし、",
+      "clause_text": "毎年",
+      "furigana": "まいとし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "年末になると",
-      "furigana": "ねんまつになると",
+      "clause_text": "、年末に",
+      "furigana": "、ねんまつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "こんな",
-      "furigana": "こんな",
+      "clause_text": "なると",
+      "furigana": "なると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ニュースが",
-      "furigana": "にゅーすが",
+      "clause_text": "こんなニュースが",
+      "furigana": "こんなにゅーすが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "これは、",
-      "furigana": "これは、",
+      "clause_text": "これ",
+      "furigana": "これ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "明治安田生命",
-      "furigana": "めいじやすだせいめい",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "という会社が",
-      "furigana": "というかいしゃが",
+      "clause_text": "明治安田生命という会社が",
+      "furigana": "めいじやすだせいめいというかいしゃが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "保険会社のお客さんは、",
-      "furigana": "ほけんがいしゃのおきゃくさんは、",
+      "clause_text": "保険会社のお客さん",
+      "furigana": "ほけんがいしゃのおきゃくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "子どもが生まれると、",
-      "furigana": "こどもがうまれると、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "その子どもの誕生日や名前を",
-      "furigana": "そのこどものたんじょうびやなまえを",
+      "clause_text": "子どもが生まれると、",
+      "furigana": "こどもがうまれると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "保険会社に知ら",
-      "furigana": "ほけんがいしゃにしら",
+      "clause_text": "その子ども",
+      "furigana": "そのこども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "せます。",
-      "furigana": "せます。",
+      "clause_text": "の誕生日や名前を保険会社に知らせます。",
+      "furigana": "のたんじょうびやなまえをほけんがいしゃにしらせます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:23"
+    "extraction_date_time": "2026.07.15 09:10:29"
   }
 }

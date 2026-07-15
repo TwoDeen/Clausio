@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "生きる力テレビや",
-      "furigana": "いきるちからてれびや",
+      "clause_text": "テレビや",
+      "furigana": "てれびや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -44,7 +44,7 @@
       },
       "parent_sentence_id": 1,
       "clause_text": "他の人と違った才能を持っていて、",
-      "furigana": "ほかのひととちがったさいのうをもっていて、",
+      "furigana": "たのひととちがったさいのうをもっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "何かに成功した人が多いと",
-      "furigana": "なんかにせいこうしたひとがおおいと",
+      "clause_text": "何かに成功した",
+      "furigana": "なんかにせいこうした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "思います。",
-      "furigana": "おもいます。",
+      "clause_text": "人が多いと思います。",
+      "furigana": "ひとがおおいとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "自分もその人のような",
-      "furigana": "じぶんもそのひとのような",
+      "clause_text": "自分もその人のような人生",
+      "furigana": "じぶんもそのひとのようなじんせい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "人生を送りたいなと、",
-      "furigana": "じんせいをおくりたいなと、",
+      "clause_text": "を送りたいなと、",
+      "furigana": "をおくりたいなと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "うらやましい",
-      "furigana": "うらやましい",
+      "clause_text": "うらやましい気持ち",
+      "furigana": "うらやましいきもち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "気持ちになるかも",
-      "furigana": "きもちになるかも",
+      "clause_text": "になる",
+      "furigana": "になる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "しれません。",
-      "furigana": "しれません。",
+      "clause_text": "かもしれません。",
+      "furigana": "かもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "人生は山あり谷",
-      "furigana": "じんせいはやまありたに",
+      "clause_text": "人生は山あり谷あり",
+      "furigana": "じんせいはやまありたにあり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ありで、",
-      "furigana": "ありで、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いいことも悪いことも",
-      "furigana": "いいこともわるいことも",
+      "clause_text": "いいことも悪いこと",
+      "furigana": "いいこともわるいこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "起こります。",
-      "furigana": "おこります。",
+      "clause_text": "も起こります。",
+      "furigana": "もおこります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本では、",
-      "furigana": "にっぽんでは、",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "野球は",
-      "furigana": "やきゅうは",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人気がある",
-      "furigana": "にんきがある",
+      "clause_text": "野球は人気",
+      "furigana": "やきゅうはにんき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "スポーツのひと",
-      "furigana": "すぽーつのひと",
+      "clause_text": "があるスポーツ",
+      "furigana": "があるすぽーつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "つです。",
-      "furigana": "つです。",
+      "clause_text": "のひとつです。",
+      "furigana": "のひとつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "高校生の野球の大会が",
-      "furigana": "こうこうせいのやきゅうのたいかいが",
+      "clause_text": "高校生の野球の大会",
+      "furigana": "こうこうせいのやきゅうのたいかい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "行われ、",
-      "furigana": "おこなわれ、",
+      "clause_text": "が行われ、",
+      "furigana": "がおこなわれ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "テレビで全国に放送さ",
-      "furigana": "てれびでぜんこくにほうそうさ",
+      "clause_text": "テレビで全国",
+      "furigana": "てれびでぜんこく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "れます。",
-      "furigana": "れます。",
+      "clause_text": "に放送されます。",
+      "furigana": "にほうそうされます。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:25"
+    "extraction_date_time": "2026.07.15 09:14:41"
   }
 }

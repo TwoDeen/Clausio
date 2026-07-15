@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "お客さんから",
-      "furigana": "おきゃくさんから",
+      "clause_text": "お客さん",
+      "furigana": "おきゃくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "動物園に対する",
-      "furigana": "どうぶつえんにたいする",
+      "clause_text": "から動物園",
+      "furigana": "からどうぶつえん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "意見をも",
-      "furigana": "いけんをも",
+      "clause_text": "に対する意見",
+      "furigana": "にたいするいけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "らっています。",
-      "furigana": "らっています。",
+      "clause_text": "をもらっています。",
+      "furigana": "をもらっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「動物園の中のにおいが気になる」",
-      "furigana": "きごうどうぶつえんのなかのにおいがきになるきごう",
+      "clause_text": "「動物園の中のにおいが気になる」という",
+      "furigana": "きごうどうぶつえんのなかのにおいがきになるきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "意見をもらい",
+      "furigana": "いけんをもらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "意見をも",
-      "furigana": "いけんをも",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "らいました。",
-      "furigana": "らいました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "動物園の園長は",
-      "furigana": "どうぶつえんのえんちょうは",
+      "clause_text": "動物園の",
+      "furigana": "どうぶつえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ホームページのブログで、",
-      "furigana": "ほーむぺーじのぶろぐで、",
+      "clause_text": "園長はホームページのブログで、",
+      "furigana": "えんちょうはほーむぺーじのぶろぐで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に、きれいな",
-      "furigana": "に、きれいな",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "環境で動物を",
-      "furigana": "かんきょうでどうぶつを",
+      "clause_text": "きれいな環境",
+      "furigana": "きれいなかんきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "育てることは",
-      "furigana": "そだてることは",
+      "clause_text": "で動物",
+      "furigana": "でどうぶつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "大切です。",
-      "furigana": "たいせつです。",
+      "clause_text": "を育てることは大切です。",
+      "furigana": "をそだてることはたいせつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのために、",
-      "furigana": "そのために、",
+      "clause_text": "そのため",
+      "furigana": "そのため",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "動物園の",
-      "furigana": "どうぶつえんの",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "中を掃除",
-      "furigana": "なかをそうじ",
+      "clause_text": "動物園の",
+      "furigana": "どうぶつえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "しています。",
-      "furigana": "しています。",
+      "clause_text": "中を掃除しています。",
+      "furigana": "なかをそうじしています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:27"
+    "extraction_date_time": "2026.07.15 09:11:03"
   }
 }

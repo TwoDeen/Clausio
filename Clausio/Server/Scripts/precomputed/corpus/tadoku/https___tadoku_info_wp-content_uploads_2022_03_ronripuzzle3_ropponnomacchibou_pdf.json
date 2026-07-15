@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "問題】マッチ",
-      "furigana": "もんだいきごうまっち",
+      "clause_text": "問題】",
+      "furigana": "もんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "棒が６本",
-      "furigana": "ぼうがろくぽん",
+      "clause_text": "マッチ",
+      "furigana": "まっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "棒が６本あります。",
+      "furigana": "ぼうがろくぽんあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "（解答は次の",
-      "furigana": "きごうかいとうはつぎの",
+      "clause_text": "これを使って、",
+      "furigana": "これをつかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ページ）【解答】４",
-      "furigana": "ぺーじきごうきごうかいとうきごうよん",
+      "clause_text": "正三角形（すべての辺の長さが同じ三角形）を一番多くつくると、いくつできるでしょう",
+      "furigana": "せいさんかっけいきごうすべてのへんのながさがおなじさんかっけいきごうをいちばんおおくつくると、いくつできるでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "つの正三角形を",
-      "furigana": "つのせいさんかっけいを",
+      "clause_text": "か？も",
+      "furigana": "か?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "つくること",
-      "furigana": "つくること",
+      "clause_text": "ちろん、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "２つではありません。",
+      "furigana": "ふつつではありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ふつうに",
-      "furigana": "ふつうに",
+      "clause_text": "（解答は",
+      "furigana": "きごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "マッチ棒を",
-      "furigana": "まっちぼうを",
+      "clause_text": "次のペー",
+      "furigana": "つぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "並べると、",
-      "furigana": "ならべると、",
+      "clause_text": "ジ）【解答】４つの正三角形を",
+      "furigana": "きごうきごうかいとうきごうよんつのせいさんかっけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "６本では２つ",
-      "furigana": "ろくぽんではふつつ",
+      "clause_text": "つくる",
+      "furigana": "つくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "しかできません。",
-      "furigana": "しかできません。",
+      "clause_text": "ことができます。",
+      "furigana": "ことができます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "いろいろと試しても、",
-      "furigana": "いろいろとためしても、",
+      "clause_text": "ふつうにマッチ棒",
+      "furigana": "ふつうにまっちぼう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "１本のマッチ",
-      "furigana": "いちぽんのまっち",
+      "clause_text": "を並べると、",
+      "furigana": "をならべると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "棒を２つの正",
-      "furigana": "ぼうをふつつのせい",
+      "clause_text": "６本で",
+      "furigana": "ろくぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "三角形の辺として使う",
-      "furigana": "さんかっけいのへんとしてつかう",
+      "clause_text": "は２つしか",
+      "furigana": "はふつつしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "くらいでしょう。",
-      "furigana": "くらいでしょう。",
+      "clause_text": "できません。",
+      "furigana": "できません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そうすると、",
-      "furigana": "そうすると、",
+      "clause_text": "いろいろと試して",
+      "furigana": "いろいろとためして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "５本でも２",
-      "furigana": "ごぽんでもに",
+      "clause_text": "も、１本のマッチ",
+      "furigana": "も、いちぽんのまっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "つの正",
-      "furigana": "つのせい",
+      "clause_text": "棒を２つの正三角",
+      "furigana": "ぼうをふつつのせい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "三角形",
-      "furigana": "さんかっけい",
+      "clause_text": "形の辺として使う",
+      "furigana": "のへんとしてつかう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "くらいでしょう。",
+      "furigana": "くらいでしょう。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:00"
+    "extraction_date_time": "2026.07.15 09:13:29"
   }
 }

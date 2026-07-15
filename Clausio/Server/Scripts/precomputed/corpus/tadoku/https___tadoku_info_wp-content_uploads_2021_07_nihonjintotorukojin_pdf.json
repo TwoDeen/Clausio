@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "この時は、",
-      "furigana": "このときは、",
+      "clause_text": "この時",
+      "furigana": "このとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "まだ",
-      "furigana": "まだ",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ドイツが",
-      "furigana": "どいつが",
+      "clause_text": "まだドイツが",
+      "furigana": "まだどいつが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本人もトルコ人も",
-      "furigana": "にほんじんもとるこにんも",
+      "clause_text": "日本人もトルコ人",
+      "furigana": "にほんじんもとるこにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "30代後半の",
-      "furigana": "さんれいだいこうはんの",
+      "clause_text": "も30代後半",
+      "furigana": "もさんれいだいこうはん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "男性で、",
-      "furigana": "だんせいで、",
+      "clause_text": "の男性で、",
+      "furigana": "のだんせいで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本人はハンドボールの",
-      "furigana": "にほんじんははんどぼーるの",
+      "clause_text": "日本人はハンドボールの勉強のため",
+      "furigana": "にほんじんははんどぼーるのべんきょうのため",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "勉強のために、",
-      "furigana": "べんきょうのために、",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "トルコ人は経済学の勉強のために、",
-      "furigana": "とるこにんはけいざいがくのべんきょうのために、",
+      "clause_text": "トルコ人は経済学の勉強",
+      "furigana": "とるこにんはけいざいがくのべんきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ドイツへ",
-      "furigana": "どいつへ",
+      "clause_text": "のために、",
+      "furigana": "のために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "clause_text": "ドイツへ行きました。",
+      "furigana": "どいつへいきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "留学生向けの",
-      "furigana": "りゅうがくせいむけの",
+      "clause_text": "留学生向けの寮",
+      "furigana": "りゅうがくせいむけのりょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "寮で、",
-      "furigana": "りょうで、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "同じ部屋に",
-      "furigana": "おなじへやに",
+      "clause_text": "同じ部屋に住ん",
+      "furigana": "おなじへやにすん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "住んでいました。",
-      "furigana": "すんでいました。",
+      "clause_text": "でいました。",
+      "furigana": "でいました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:38"
+    "extraction_date_time": "2026.07.15 09:10:02"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ファンの",
-      "furigana": "ふぁんの",
+      "clause_text": "わたしは",
+      "furigana": "わたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "複雑な気持ち",
-      "furigana": "ふくざつなきもち",
+      "clause_text": "バス",
+      "furigana": "ばす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしは",
-      "furigana": "わたしは",
+      "clause_text": "ケット",
+      "furigana": "けっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "バスケットボールが",
-      "furigana": "ばすけっとぼーるが",
+      "clause_text": "ボールが",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "子どもの頃から",
-      "furigana": "こどものころから",
+      "clause_text": "子どもの頃からバスケをやっていて、",
+      "furigana": "こどものころからばすけをやっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "バスケをやっていて、",
-      "furigana": "ばすけをやっていて、",
+      "clause_text": "今で",
+      "furigana": "いまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "今でもときどきやるし、",
-      "furigana": "いまでもときどきやるし、",
+      "clause_text": "もときどきやるし",
+      "furigana": "もときどきやるし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "試合をテレビやネットで見るのも",
-      "furigana": "しあいをてれびやねっとでみるのも",
+      "clause_text": "、試合をテレビやネットで見る",
+      "furigana": "、しあいをてれびやねっとでみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "大好きだ。",
-      "furigana": "だいすきだ。",
+      "clause_text": "のも大好きだ。",
+      "furigana": "のもだいすきだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "コロナ・ウィルスのパンデミックが",
-      "furigana": "ころな・うぃるすのぱんでみっくが",
+      "clause_text": "コロナ・ウィルスのパンデミックが起こる前は、",
+      "furigana": "ころな・うぃるすのぱんでみっくがおこるまえは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "起こる前は、よく試合",
-      "furigana": "おこるまえは、よくしあい",
+      "clause_text": "よく試合会場",
+      "furigana": "よくしあいかいじょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "会場にも行って、",
-      "furigana": "かいじょうにもいって、",
+      "clause_text": "にも行って、",
+      "furigana": "にもいって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "好きなチームを応援",
-      "furigana": "すきなちーむをおうえん",
+      "clause_text": "好きなチーム",
+      "furigana": "すきなちーむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "していた。",
-      "furigana": "していた。",
+      "clause_text": "を応援していた。",
+      "furigana": "をおうえんしていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "プロ・チームの試合まで、",
-      "furigana": "ぷろ・ちーむのしあいまで、",
+      "clause_text": "プロ・チームの試合",
+      "furigana": "ぷろ・ちーむのしあい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "バスケの試合であれ",
-      "furigana": "ばすけのしあいであれ",
+      "clause_text": "まで、",
+      "furigana": "まで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ば何でも",
-      "furigana": "ばなんでも",
+      "clause_text": "バスケの試合であれば何",
+      "furigana": "ばすけのしあいであればなん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "好きだ。",
-      "furigana": "すきだ。",
+      "clause_text": "でも好きだ。",
+      "furigana": "でもすきだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,7 +241,7 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "毎月発売さ",
+      "clause_text": "毎月発売され",
       "furigana": "まいつきはつばいさ",
       "sentence_individual_grammar_level": "N4"
     },
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "れるバスケ雑誌は",
-      "furigana": "れるばすけざっしは",
+      "clause_text": "るバスケ雑誌は",
+      "furigana": "ばすけざっしは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,7 +263,7 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "30年以上",
+      "clause_text": "30年以上欠か",
       "furigana": "さんれいねんいじょう",
       "sentence_individual_grammar_level": "N4"
     },
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "欠かさず",
-      "furigana": "かかさず",
+      "clause_text": "さず読",
+      "furigana": "ず",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "読んでいる。",
-      "furigana": "よんでいる。",
+      "clause_text": "んでいる。",
+      "furigana": "でいる。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:30"
+    "extraction_date_time": "2026.07.15 09:14:08"
   }
 }

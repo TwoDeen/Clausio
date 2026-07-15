@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "学生A",
+      "furigana": "がくせいあーる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "時の",
-      "furigana": "ときの",
+      "clause_text": "さん：",
+      "furigana": "さんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "お",
-      "furigana": "お",
+      "clause_text": "「先生、こんにちは～ご飯食べましたか？」",
+      "furigana": "きごうせんせい、こんにちは~ごはんたべましたか?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "話で",
-      "furigana": "はなしで",
+      "clause_text": "私：",
+      "furigana": "わたくしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "「あっ……はい、食べましたよ。",
+      "furigana": "きごうあっきごうきごうはい、たべましたよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "クィッティアオ",
-      "furigana": "くぃってぃあお",
+      "clause_text": "クィッティアオ（タイの",
+      "furigana": "くぃってぃあおきごうたいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "（タイのラーメン）を",
-      "furigana": "きごうたいのらーめんきごうを",
+      "clause_text": "ラーメン）を",
+      "furigana": "らーめんきごうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "食べたから、",
-      "furigana": "たべたから、",
+      "clause_text": "食べたから",
+      "furigana": "たべたから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "もっとあつく",
-      "furigana": "もっとあつく",
+      "clause_text": "、もっと",
+      "furigana": "、もっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "あつくなりました。",
+      "furigana": "あつくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」タイでは",
-      "furigana": "きごうたいでは",
+      "clause_text": "」タイ",
+      "furigana": "きごうたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "上のよ",
-      "furigana": "うえのよ",
+      "clause_text": "では",
+      "furigana": "では",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "うな",
-      "furigana": "うな",
+      "clause_text": "上の",
+      "furigana": "うえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "会話が",
-      "furigana": "かいわが",
+      "clause_text": "ような会話が",
+      "furigana": "ようなかいわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "か、よく",
-      "furigana": "か、よく",
+      "clause_text": "か、",
+      "furigana": "か、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "聞きます。",
-      "furigana": "ききます。",
+      "clause_text": "よく聞きます。",
+      "furigana": "よくききます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は何度も",
-      "furigana": "わたくしはなんども",
+      "clause_text": "私は何度",
+      "furigana": "わたくしはなんど",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "この質問をさ",
-      "furigana": "このしつもんをさ",
+      "clause_text": "もこの質問を",
+      "furigana": "もこのしつもんを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "れて、",
-      "furigana": "れて、",
+      "clause_text": "されて、",
+      "furigana": "されて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:15"
+    "extraction_date_time": "2026.07.15 09:11:39"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "バイクの",
-      "furigana": "ばいくの",
+      "clause_text": "ライフスタイルとバイク－バイクに乗るの",
+      "furigana": "らいふすたいるとばいく-ばいくにのるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "操作が難しい",
-      "furigana": "そうさがむずかしい",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "難しい",
+      "furigana": "むずかしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "意味では",
-      "furigana": "いみでは",
+      "clause_text": "？－バイクに乗ることは、",
+      "furigana": "?-ばいくにのることは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ありません。",
-      "furigana": "ありません。",
+      "clause_text": "意外に難しいことです。",
+      "furigana": "いがいにむずかしいことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "免許を取って、",
-      "furigana": "めんきょをとって、",
+      "clause_text": "バイクの",
+      "furigana": "ばいくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "バイクを買って、",
-      "furigana": "ばいくをかって、",
+      "clause_text": "操作が",
+      "furigana": "そうさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "趣味として乗る",
-      "furigana": "しゅみとしてのる",
+      "clause_text": "難しいという意味",
+      "furigana": "むずかしいといういみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことが",
-      "furigana": "ことが",
+      "clause_text": "では",
+      "furigana": "では",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "難しいのです。",
-      "furigana": "むずかしいのです。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "新しく会った人や、",
-      "furigana": "あたらしくあったひとや、",
+      "clause_text": "免許を取って、",
+      "furigana": "めんきょをとって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "知り合いと",
-      "furigana": "しりあいと",
+      "clause_text": "バイクを買って、",
+      "furigana": "ばいくをかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "話しているときに、",
-      "furigana": "はなしているときに、",
+      "clause_text": "趣味と",
+      "furigana": "しゅみと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "バイクの話になることが",
-      "furigana": "ばいくのはなしになることが",
+      "clause_text": "して乗ることが難しい",
+      "furigana": "してのることがむずかしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "私が「趣味はバイクです」",
-      "furigana": "わたくしがきごうしゅみはばいくですきごう",
+      "clause_text": "新しく会った人",
+      "furigana": "あたらしくあったひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "と言うと、",
-      "furigana": "とゆうと、",
+      "clause_text": "や、",
+      "furigana": "や、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「私も昔、バイクに乗りたかった」",
-      "furigana": "きごうわたくしもむかし、ばいくにのりたかったきごう",
+      "clause_text": "知り合いと話しているときに、",
+      "furigana": "しりあいとはなしているときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "と言う人が",
-      "furigana": "というひとが",
+      "clause_text": "バイクの話",
+      "furigana": "ばいくのはなし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "になることがあります。",
+      "furigana": "になることがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「乗りたかった」",
-      "furigana": "きごうのりたかったきごう",
+      "clause_text": "私が",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "というのは、",
-      "furigana": "というのは、",
+      "clause_text": "「趣味はバイクです」と",
+      "furigana": "きごうしゅみはばいくですきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「乗らなかった」",
-      "furigana": "きごうのらなかったきごう",
+      "clause_text": "言うと、",
+      "furigana": "ゆうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「乗れなかった」という",
-      "furigana": "きごうのれなかったきごうという",
+      "clause_text": "「私も昔、バイクに乗りたかった」と言う人が",
+      "furigana": "きごうわたくしもむかし、ばいくにのりたかったきごうというひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.13 14:01:53"
+    "extraction_date_time": "2026.07.15 09:12:31"
   }
 }

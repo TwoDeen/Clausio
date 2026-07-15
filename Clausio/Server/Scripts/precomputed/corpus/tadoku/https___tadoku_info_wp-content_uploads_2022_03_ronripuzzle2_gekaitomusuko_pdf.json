@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "外科医と息子【問題】",
-      "furigana": "げかいとむすこきごうもんだいきごう",
+      "clause_text": "【問題】ある大学病院",
+      "furigana": "きごうもんだいきごうあるだいがくびょういん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "げかいある大学病院に、",
-      "furigana": "げかいあるだいがくびょういんに、",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "その外科医はたいへん",
-      "furigana": "そのげかいはたいへん",
+      "clause_text": "その外",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "な手術を",
-      "furigana": "なしゅじゅつを",
+      "clause_text": "科医はたいへんな手術を",
+      "furigana": "はたいへんなしゅじゅつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "無事に成功さ",
-      "furigana": "ぶじにせいこうさ",
+      "clause_text": "無事に",
+      "furigana": "ぶじに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "せました。",
-      "furigana": "せました。",
+      "clause_text": "成功させました。",
+      "furigana": "せいこうさせました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わると、",
-      "furigana": "おわると、",
+      "clause_text": "終わる",
+      "furigana": "おわる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "看護師から",
-      "furigana": "かんごしから",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "電話が",
-      "furigana": "でんわが",
+      "clause_text": "看護師から電話が",
+      "furigana": "かんごしからでんわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "交通事故で大けがを",
-      "furigana": "こうつうじこでだいけがを",
+      "clause_text": "交通事故で",
+      "furigana": "こうつうじこで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "した男性が二人、",
-      "furigana": "しただんせいがふたり、",
+      "clause_text": "大けがをし",
+      "furigana": "だいけがをし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "運ばれてき",
-      "furigana": "はこばれてき",
+      "clause_text": "た男性が二人、",
+      "furigana": "ただんせいがふたり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました。",
-      "furigana": "ました。",
+      "clause_text": "運ばれてきました。",
+      "furigana": "はこばれてきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "すでに",
-      "furigana": "すでに",
+      "clause_text": "すでに死んで",
+      "furigana": "すでにしんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "死んでいました。",
-      "furigana": "しんでいました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:20"
+    "extraction_date_time": "2026.07.15 09:13:38"
   }
 }

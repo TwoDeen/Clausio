@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "異国の",
-      "furigana": "いこくの",
+      "clause_text": "遠い昔、",
+      "furigana": "とおいむかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "地で遠い昔、",
-      "furigana": "ちでとおいむかし、",
+      "clause_text": "異国の地",
+      "furigana": "いこくのち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "異国の地に",
-      "furigana": "いこくのちに",
+      "clause_text": "に住ん",
+      "furigana": "にすん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "住んでいたころの",
-      "furigana": "すんでいたころの",
+      "clause_text": "でいたころ",
+      "furigana": "でいたころ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことである。",
-      "furigana": "ことである。",
+      "clause_text": "のことである。",
+      "furigana": "のことである。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その国で、",
-      "furigana": "そのくにで、",
+      "clause_text": "その国",
+      "furigana": "そのくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "私は",
-      "furigana": "わたくしは",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "あまり",
-      "furigana": "あまり",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "肉を",
-      "furigana": "にくを",
+      "clause_text": "あまり肉を",
+      "furigana": "あまりにくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "注文の",
-      "furigana": "ちゅうもんの",
+      "clause_text": "注文の仕方が",
+      "furigana": "ちゅうもんのしかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "仕方が",
-      "furigana": "しかたが",
+      "clause_text": "わからなかった",
+      "furigana": "わからなかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "わからなかったか",
-      "furigana": "わからなかったか",
+      "clause_text": "からで",
+      "furigana": "からで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "らである。",
-      "furigana": "らである。",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本で肉を",
-      "furigana": "にっぽんでにくを",
+      "clause_text": "日本で肉を買いたい",
+      "furigana": "にっぽんでにくをかいたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "買いたいときは、",
-      "furigana": "かいたいときは、",
+      "clause_text": "ときは、",
+      "furigana": "ときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "普通に",
-      "furigana": "ふつうに",
+      "clause_text": "普通",
+      "furigana": "ふつう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "スーパーマーケットや",
-      "furigana": "すーぱーまーけっとや",
+      "clause_text": "にスーパーマーケットや肉屋",
+      "furigana": "にすーぱーまーけっとやにくや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "肉屋に行けばいい。",
-      "furigana": "にくやにいけばいい。",
+      "clause_text": "に行けばいい。",
+      "furigana": "にいけばいい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこには、",
-      "furigana": "そこには、",
+      "clause_text": "そこには",
+      "furigana": "そこには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "牛、豚、",
-      "furigana": "うし、ぶた、",
+      "clause_text": "、牛、豚、鶏の肉が",
+      "furigana": "、うし、ぶた、にわとりのにくが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "鶏の肉が、",
-      "furigana": "にわとりのにくが、",
+      "clause_text": "、すぐに料理できる形",
+      "furigana": "、すぐにりょうりできるかたち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "すぐに料理できる形で、",
-      "furigana": "すぐにりょうりできるかたちで、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:24"
+    "extraction_date_time": "2026.07.15 09:13:04"
   }
 }

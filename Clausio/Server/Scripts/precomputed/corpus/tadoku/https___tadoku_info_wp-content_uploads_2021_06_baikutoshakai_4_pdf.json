@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "一人か二人しか",
-      "furigana": "ひとりかふたりしか",
+      "clause_text": "一人か",
+      "furigana": "ひとりか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "乗れないし、",
-      "furigana": "のれないし、",
+      "clause_text": "二人しか乗れない",
+      "furigana": "ふたりしかのれない",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "荷物もたくさん",
-      "furigana": "にもつもたくさん",
+      "clause_text": "し、",
+      "furigana": "し、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "載せ",
-      "furigana": "のせ",
+      "clause_text": "荷物も",
+      "furigana": "にもつも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "られない。",
-      "furigana": "られない。",
+      "clause_text": "たくさん載せられない。",
+      "furigana": "たくさんのせられない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "とても",
-      "furigana": "とても",
+      "clause_text": "不便な乗り物に",
+      "furigana": "ふべんなのりものに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "不便",
-      "furigana": "ふべん",
+      "clause_text": "乗っているライダー同士の",
+      "furigana": "のっているらいだーどうしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "な",
-      "furigana": "な",
+      "clause_text": "、不思議な",
+      "furigana": "、ふしぎな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "乗り物だ、",
-      "furigana": "のりものだ、",
+      "clause_text": "習慣が",
+      "furigana": "しゅうかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と。",
-      "furigana": "と。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "不便な乗り物に",
-      "furigana": "ふべんなのりものに",
+      "clause_text": "バイクで走っているとき",
+      "furigana": "ばいくではしっているとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "乗っている",
-      "furigana": "のっている",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ライダー同士の、",
-      "furigana": "らいだーどうしの、",
+      "clause_text": "前から走って来るバイクが手を振ったり、",
+      "furigana": "まえからはしってくるばいくがてをふったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "不思議な習慣が",
-      "furigana": "ふしぎなしゅうかんが",
+      "clause_text": "小さく頭",
+      "furigana": "ちいさくあたま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "を下げたりすることがあります。",
+      "furigana": "をさげたりすることがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "バイクで走っているときに、",
-      "furigana": "ばいくではしっているときに、",
+      "clause_text": "知り合いだ",
+      "furigana": "しりあいだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "前から走って来る",
-      "furigana": "まえからはしってくる",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "バイクが手を振ったり、",
-      "furigana": "ばいくがてをふったり、",
+      "clause_text": "手を振ったり頭",
+      "furigana": "てをふったりあたま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さく頭を下げたりすることが",
-      "furigana": "ちいさくあたまをさげたりすることが",
+      "clause_text": "を下げたりするの",
+      "furigana": "をさげたりするの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "ではありません。",
+      "furigana": "ではありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "知り合いだから、",
-      "furigana": "しりあいだから、",
+      "clause_text": "相手",
+      "furigana": "あいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "手を振ったり",
-      "furigana": "てをふったり",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "頭を下げたり",
-      "furigana": "あたまをさげたり",
+      "clause_text": "会ったことも、",
+      "furigana": "あったことも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "するのでは",
-      "furigana": "するのでは",
+      "clause_text": "見たこと",
+      "furigana": "みたこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ありません。",
-      "furigana": "ありません。",
+      "clause_text": "もない人です。",
+      "furigana": "もないひとです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.13 14:04:51"
+    "extraction_date_time": "2026.07.15 09:11:18"
   }
 }

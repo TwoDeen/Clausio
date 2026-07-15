@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "なんちゃって料理",
-      "furigana": "なんちゃってりょうり",
+      "clause_text": "最近",
+      "furigana": "さいきん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "最近は海外でも",
-      "furigana": "さいきんはかいがいでも",
+      "clause_text": "は海外",
+      "furigana": "はかいがい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の食材が手に",
-      "furigana": "にっぽんのしょくざいがてに",
+      "clause_text": "でも日本の食材が",
+      "furigana": "でもにっぽんのしょくざいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "入りやすく",
-      "furigana": "はいりやすく",
+      "clause_text": "手に",
+      "furigana": "てに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "入りやすくなりました。",
+      "furigana": "はいりやすくなりました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本食のスーパーやアジア",
-      "furigana": "にほんしょくのすーぱーやあじあ",
+      "clause_text": "日本食のスーパーやアジア食品店に行かなくて",
+      "furigana": "にほんしょくのすーぱーやあじあしょくひんてんにいかなくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "食品店に行かなくても、",
-      "furigana": "しょくひんてんにいかなくても、",
+      "clause_text": "も、",
+      "furigana": "も、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "海苔やおせんべいも",
-      "furigana": "のりやおせんべいも",
+      "clause_text": "海苔やおせんべい",
+      "furigana": "のりやおせんべい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "売っています。",
-      "furigana": "うっています。",
+      "clause_text": "も売っています。",
+      "furigana": "もうっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "豆腐はふつうの食材として当たり前のよ",
-      "furigana": "とうふはふつうのしょくざいとしてあたりまえのよ",
+      "clause_text": "豆腐はふつうの食材と",
+      "furigana": "とうふはふつうのしょくざいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "うに野菜のコーナーに並べ",
-      "furigana": "うにやさいのこーなーにならべ",
+      "clause_text": "して当たり前のように野菜のコーナーに並べられていますし、",
+      "furigana": "してあたりまえのようにやさいのこーなーにならべられていますし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "られていますし、",
-      "furigana": "られていますし、",
+      "clause_text": "日本酒もワインの棚",
+      "furigana": "にほんしゅもわいんのたな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本酒もワインの棚に",
-      "furigana": "にほんしゅもわいんのたなに",
+      "clause_text": "に並ん",
+      "furigana": "にならん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "並んでいます。",
-      "furigana": "ならんでいます。",
+      "clause_text": "でいます。",
+      "furigana": "でいます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "スーパーになくても、",
-      "furigana": "すーぱーになくても、",
+      "clause_text": "スーパーになくて",
+      "furigana": "すーぱーになくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ネットで注文すればたいていの",
-      "furigana": "ねっとでちゅうもんすればたいていの",
+      "clause_text": "も、",
+      "furigana": "も、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本の食材は手に",
-      "furigana": "にっぽんのしょくざいはてに",
+      "clause_text": "ネットで注文すればたいていの日本の食材",
+      "furigana": "ねっとでちゅうもんすればたいていのにっぽんのしょくざい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "入ります。",
-      "furigana": "はいります。",
+      "clause_text": "は手に入ります。",
+      "furigana": "はてにはいります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本の食材を手に",
-      "furigana": "にっぽんのしょくざいをてに",
+      "clause_text": "日本の食材を手",
+      "furigana": "にっぽんのしょくざいをて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れるのが",
-      "furigana": "いれるのが",
+      "clause_text": "に入れる",
+      "furigana": "にいれる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "大変だった頃が",
-      "furigana": "たいへんだったころが",
+      "clause_text": "のが大変だった頃",
+      "furigana": "のがたいへんだったころ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ありました。",
-      "furigana": "ありました。",
+      "clause_text": "がありました。",
+      "furigana": "がありました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:02"
+    "extraction_date_time": "2026.07.15 09:11:25"
   }
 }

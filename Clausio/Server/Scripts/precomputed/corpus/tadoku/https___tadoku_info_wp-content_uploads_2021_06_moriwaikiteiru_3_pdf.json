@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "いいえ、",
-      "furigana": "いいえ、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "森は海の魚を育てているー海と山は川によってつながっている",
+      "furigana": "もりはうみのさかなをそだてているーうみとやまはかわによってつながっている",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "この",
-      "furigana": "この",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "よ！「森が海の魚を育てている」、",
+      "furigana": "よ!きごうもりがうみのさかなをそだてているきごう、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "タイトルは",
-      "furigana": "たいとるは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "このタイトルを見て「川の魚を育てている」の間違いではありません",
+      "furigana": "このたいとるをみてきごうかわのさかなをそだてているきごうのまちがいではありません",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "間違いでは",
-      "furigana": "まちがいでは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "か？",
+      "furigana": "か?",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ありません。",
-      "furigana": "ありません。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "とある留学生に聞かれました。",
+      "furigana": "とあるりゅうがくせいにきかれました。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 6,
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "海から遠く離れた森でも、",
-      "furigana": "うみからとおくはなれたもりでも、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "いいえ",
+      "furigana": "いいえ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "川によって海と",
-      "furigana": "かわによってうみと",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "、このタイトルは",
+      "furigana": "、このたいとるは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "つながり、",
-      "furigana": "つながり、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "間違いでは",
+      "furigana": "まちがいでは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "森は海の魚を",
-      "furigana": "もりはうみのさかなを",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "ありませ",
+      "furigana": "ありませ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "育てているのです。",
-      "furigana": "そだてているのです。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "ん。",
+      "furigana": "ん。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 11,
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "森の中の",
-      "furigana": "もりのなかの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "海から遠く離れた森",
+      "furigana": "うみからとおくはなれたもり",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "川は森の",
-      "furigana": "かわはもりの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "でも、",
+      "furigana": "でも、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "中で生まれたたくさんの",
-      "furigana": "なかでうまれたたくさんの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "川によって海とつながり、",
+      "furigana": "かわによってうみとつながり、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "栄養を",
-      "furigana": "えいようを",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "森は海の魚を育てている",
+      "furigana": "もりはうみのさかなをそだてている",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "海まで運びます。",
-      "furigana": "うみまではこびます。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "のです。",
+      "furigana": "のです。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "海の中でも特に魚が",
-      "furigana": "うみのなかでもとくにさかなが",
+      "clause_text": "森の中の川",
+      "furigana": "もりのなかのかわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "多いのは、",
-      "furigana": "おおいのは、",
+      "clause_text": "は森の中",
+      "furigana": "はもりのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "沿岸部、",
-      "furigana": "えんがんぶ、",
+      "clause_text": "で生まれたたくさん",
+      "furigana": "でうまれたたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "つまり川に近い",
-      "furigana": "つまりかわにちかい",
+      "clause_text": "の栄養を海",
+      "furigana": "のえいようをうみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ところです。",
-      "furigana": "ところです。",
+      "clause_text": "まで運びます。",
+      "furigana": "まではこびます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "魚たちはちゃんと",
-      "furigana": "さかなたちはちゃんと",
+      "clause_text": "海の中で",
+      "furigana": "うみのなかで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "海の中でも",
-      "furigana": "うみのなかでも",
+      "clause_text": "も特に魚が多い",
+      "furigana": "もとくにさかながおおい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "栄養の多い場所を",
-      "furigana": "えいようのおおいばしょを",
+      "clause_text": "のは、",
+      "furigana": "のは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "知っているのです",
-      "furigana": "しっているのです",
+      "clause_text": "沿岸部、",
+      "furigana": "えんがんぶ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "つまり川に近いところです。",
+      "furigana": "つまりかわにちかいところです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.13 14:02:02"
+    "extraction_date_time": "2026.07.15 09:11:58"
   }
 }

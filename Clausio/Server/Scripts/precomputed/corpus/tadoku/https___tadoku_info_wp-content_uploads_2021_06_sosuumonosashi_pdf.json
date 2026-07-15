@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "素数ものさしものの",
-      "furigana": "そすうものさしものの",
+      "clause_text": "ものの長さを測るとき",
+      "furigana": "もののながさをはかるとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "長さを測るときや、",
-      "furigana": "ながさをはかるときや、",
+      "clause_text": "や、",
+      "furigana": "や、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "線を書くときに、",
-      "furigana": "せんをかくときに、",
+      "clause_text": "線を書くとき",
+      "furigana": "せんをかくとき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "定規を",
-      "furigana": "じょうぎを",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "使います。",
-      "furigana": "つかいます。",
+      "clause_text": "定規を使います。",
+      "furigana": "じょうぎをつかいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通のものさしには、たくさんの線と、",
-      "furigana": "ふつうのものさしには、たくさんのせんと、",
+      "clause_text": "普通",
+      "furigana": "ふつう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "１、",
-      "furigana": "いち、",
+      "clause_text": "のものさし",
+      "furigana": "のものさし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "２、",
-      "furigana": "に、",
+      "clause_text": "には、たくさんの線と",
+      "furigana": "には、たくさんのせんと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "３などの数字が書か",
-      "furigana": "さんなどのすうじがかか",
+      "clause_text": "、１、２、３",
+      "furigana": "、いち、に、さん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れています。",
-      "furigana": "れています。",
+      "clause_text": "などの数字が書かれています。",
+      "furigana": "などのすうじがかかれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "京都大学で売っている",
-      "furigana": "きょうとだいがくでうっている",
+      "clause_text": "京都大学で",
+      "furigana": "きょうとだいがくで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「素数ものさし」は、",
-      "furigana": "きごうそすうものさしきごうは、",
+      "clause_text": "売っている「素数ものさし」",
+      "furigana": "うっているきごうそすうものさしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ちょっと",
-      "furigana": "ちょっと",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "違います。",
-      "furigana": "ちがいます。",
+      "clause_text": "ちょっと違います。",
+      "furigana": "ちょっとちがいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "書かれている数字は、",
-      "furigana": "かかれているすうじは、",
+      "clause_text": "書かれている数字は",
+      "furigana": "かかれているすうじは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "２、３、",
-      "furigana": "に、さん、",
+      "clause_text": "、２、３、５、７、11、",
+      "furigana": "、に、さん、ご、なな、いちいち、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "５、７、",
-      "furigana": "ご、なな、",
+      "clause_text": "13、",
+      "furigana": "いちさん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "11、13、",
-      "furigana": "いちいち、いちさん、",
+      "clause_text": "17",
+      "furigana": "いちなな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "17だけです。",
-      "furigana": "いちななだけです。",
+      "clause_text": "だけです。",
+      "furigana": "だけです。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 13:59:22"
+    "extraction_date_time": "2026.07.15 09:14:20"
   }
 }

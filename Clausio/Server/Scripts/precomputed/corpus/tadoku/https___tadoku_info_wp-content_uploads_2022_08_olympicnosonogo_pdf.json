@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "FIFAワールドカップや",
-      "furigana": "ふぃふぁわーるどかっぷや",
+      "clause_text": "FIFAワールドカップやラグビーワールドカップ、世界水泳選手権",
+      "furigana": "ふぃふぁわーるどかっぷやらぐびーわーるどかっぷ、せかいすいえいせんしゅけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ラグビーワールドカップ、",
-      "furigana": "らぐびーわーるどかっぷ、",
+      "clause_text": "など、",
+      "furigana": "など、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界水泳選手権など、",
-      "furigana": "せかいすいえいせんしゅけんなど、",
+      "clause_text": "世界規模の大会だと、",
+      "furigana": "せかいきぼのたいかいだと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界規模の大会だと、",
-      "furigana": "せかいきぼのたいかいだと、",
+      "clause_text": "興奮や感動",
+      "furigana": "こうふんやかんどう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "興奮や感動はもっと強くなるでしょう。",
-      "furigana": "こうふんやかんどうはもっとつよくなるでしょう。",
+      "clause_text": "はもっと強くなるでしょう。",
+      "furigana": "はもっとつよくなるでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "2021",
-      "furigana": "にれいにいち",
+      "clause_text": "2021年、",
+      "furigana": "にれいにいちねん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "年、",
-      "furigana": "とし、",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本でオリンピックが",
-      "furigana": "にっぽんでおりんぴっくが",
+      "clause_text": "オリンピックが開かれ",
+      "furigana": "おりんぴっくがひらかれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "開か",
-      "furigana": "ひらか",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "れました。",
-      "furigana": "れました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本人選手や",
-      "furigana": "にほんじんせんしゅや",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "自分が生きている間に、",
+      "furigana": "じぶんがいきているあいだに、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本のチームが",
-      "furigana": "にっぽんのちーむが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "また日本でオリンピック",
+      "furigana": "またにっぽんでおりんぴっく",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "勝つと、",
-      "furigana": "かつと、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "が開かれること",
+      "furigana": "がひらかれること",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "とても嬉しく",
-      "furigana": "とてもうれしく",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "はないだろう…そう思い、",
+      "furigana": "はないだろう．そうおもい、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "色々な競技を見ました。",
+      "furigana": "いろいろなきょうぎをみました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "日本人選手や日本の",
+      "furigana": "にほんじんせんしゅやにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "選手たちは夢をもち、",
-      "furigana": "せんしゅたちはゆめをもち、",
+      "clause_text": "チームが",
+      "furigana": "ちーむが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "人生をかけて、",
-      "furigana": "じんせいをかけて、",
+      "clause_text": "勝つ",
+      "furigana": "かつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "練習をが",
-      "furigana": "れんしゅうをが",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "んばってきました。",
-      "furigana": "んばってきました。",
+      "clause_text": "とても嬉しくなりました。",
+      "furigana": "とてもうれしくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そうした",
-      "furigana": "そうした",
+      "clause_text": "そして、選手たちは夢",
+      "furigana": "そして、せんしゅたちはゆめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "選手たちの",
-      "furigana": "せんしゅたちの",
+      "clause_text": "をもち、",
+      "furigana": "をもち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "努力や",
-      "furigana": "どりょくや",
+      "clause_text": "人生をかけて、",
+      "furigana": "じんせいをかけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "夢の大切さを",
-      "furigana": "ゆめのたいせつさを",
+      "clause_text": "練習",
+      "furigana": "れんしゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あらためて感じました。",
-      "furigana": "あらためてかんじました。",
+      "clause_text": "をがんばってきました。",
+      "furigana": "をがんばってきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:32"
+    "extraction_date_time": "2026.07.15 09:10:27"
   }
 }

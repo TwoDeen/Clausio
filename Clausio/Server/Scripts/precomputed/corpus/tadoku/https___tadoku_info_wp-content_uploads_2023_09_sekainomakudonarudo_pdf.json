@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界のマクドナルドマクドナルドは",
-      "furigana": "せかいのまくどなるどまくどなるどは",
+      "clause_text": "マクドナルド",
+      "furigana": "まくどなるど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "100以上の国と地域にあり、",
-      "furigana": "いちれいれいいじょうのくにとちいきにあり、",
+      "clause_text": "は100以上の国",
+      "furigana": "はいちれいれいいじょうのくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界で有名な",
-      "furigana": "せかいでゆうめいな",
+      "clause_text": "と地域にあり、",
+      "furigana": "とちいきにあり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "チェーンストアのひとつだ",
-      "furigana": "ちぇーんすとあのひとつだ",
+      "clause_text": "世界で有名なチェーンストア",
+      "furigana": "せかいでゆうめいなちぇーんすとあ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "と言えます。",
-      "furigana": "といえます。",
+      "clause_text": "のひとつだと言えます。",
+      "furigana": "のひとつだといえます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "チェーンストアではどこでも同じものが食べられるという",
-      "furigana": "ちぇーんすとあではどこでもおなじものがたべられるという",
+      "clause_text": "チェーンストア",
+      "furigana": "ちぇーんすとあ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "イメージがありますが、",
-      "furigana": "いめーじがありますが、",
+      "clause_text": "ではどこで",
+      "furigana": "ではどこで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "色々な国でマクドナルドに入ってみると、",
-      "furigana": "いろいろなくにでまくどなるどにはいってみると、",
+      "clause_text": "も同じものが食べられるというイメージがありますが、色々な国でマクドナルドに入ってみると",
+      "furigana": "もおなじものがたべられるといういめーじがありますが、いろいろなくにでまくどなるどにはいってみると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "その国独自のメニューを見つけること",
-      "furigana": "そのくにどくじのめにゅーをみつけること",
+      "clause_text": "、その国独自のメニューを見つけること",
+      "furigana": "、そのくにどくじのめにゅーをみつけること",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ここでは私が行った",
-      "furigana": "ここではわたくしがおこなった",
+      "clause_text": "ここで",
+      "furigana": "ここで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "国で見た、でも本家の",
-      "furigana": "くにでみた、でもほんけの",
+      "clause_text": "は私が行った国で見た",
+      "furigana": "はわたくしがおこなったくにでみた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "アメリカにはない",
-      "furigana": "あめりかにはない",
+      "clause_text": "、でも本家のアメリカ",
+      "furigana": "、でもほんけのあめりか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "マクドナルドのメニューを紹介",
-      "furigana": "まくどなるどのめにゅーをしょうかい",
+      "clause_text": "にはないマクドナルドのメニュー",
+      "furigana": "にはないまくどなるどのめにゅー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "を紹介します。",
+      "furigana": "をしょうかいします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、てりやきマックバーガーやエビフィレオといった",
-      "furigana": "は、てりやきまっくばーがーやえびふぃれおといった",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "バーガーです。",
-      "furigana": "ばーがーです。",
+      "clause_text": "てりやきマックバーガーやエビフィレオといったバーガーです。",
+      "furigana": "てりやきまっくばーがーやえびふぃれおといったばーがーです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "てりやきマック",
-      "furigana": "てりやきまっく",
+      "clause_text": "てり",
+      "furigana": "てり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "バーガーには、も",
-      "furigana": "ばーがーには、も",
+      "clause_text": "やきマックバーガーには",
+      "furigana": "やきまっくばーがーには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ちろんてりやきソースが",
-      "furigana": "ちろんてりやきそーすが",
+      "clause_text": "、もちろんてり",
+      "furigana": "、もちろんてり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "使わ",
-      "furigana": "つかわ",
+      "clause_text": "やきソースが",
+      "furigana": "やきそーすが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "れています。",
-      "furigana": "れています。",
+      "clause_text": "使われています。",
+      "furigana": "つかわれています。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:06"
+    "extraction_date_time": "2026.07.15 09:12:53"
   }
 }

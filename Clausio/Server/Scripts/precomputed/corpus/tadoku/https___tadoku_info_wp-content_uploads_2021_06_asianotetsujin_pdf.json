@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "アジアの鉄人みな",
-      "furigana": "あじあのてつじんみな",
+      "clause_text": "十種競技",
+      "furigana": "じゅうしゅきょうぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "さんは、",
-      "furigana": "さんは、",
+      "clause_text": "は2日間で",
+      "furigana": "はふつかかんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "陸上競技の十種競技（",
-      "furigana": "りくじょうきょうぎのじゅうしゅきょうぎきごう",
+      "clause_text": "十種目の",
+      "furigana": "じゅうしゅもくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "decathlon）を",
-      "furigana": "decathlonきごうを",
+      "clause_text": "競技を",
+      "furigana": "きょうぎを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "知っていますか。",
-      "furigana": "しっていますか。",
+      "clause_text": "しなければなりません。",
+      "furigana": "しなければなりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "十種競技は",
-      "furigana": "じゅうしゅきょうぎは",
+      "clause_text": "十種目の記録",
+      "furigana": "じゅうしゅもくのきろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2日間で十",
-      "furigana": "ににちかんでじゅう",
+      "clause_text": "を点にして、",
+      "furigana": "をてんにして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "種目の競技を",
-      "furigana": "しゅもくのきょうぎを",
+      "clause_text": "点数の合計",
+      "furigana": "てんすうのごうけい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "しなければなり",
-      "furigana": "しなければなり",
+      "clause_text": "で順位",
+      "furigana": "でじゅんい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "が決まります。",
+      "furigana": "がきまります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "十種目の",
-      "furigana": "じゅうしゅもくの",
+      "clause_text": "（上の絵の左から１日目：100m走、",
+      "furigana": "きごううえのえのひだりからいちにちめきごういちれいれいめーとるそう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "記録を点にして、",
-      "furigana": "きろくをてんにして、",
+      "clause_text": "走幅跳、",
+      "furigana": "そうはばとび、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "点数の",
-      "furigana": "てんすうの",
+      "clause_text": "砲丸投、",
+      "furigana": "ほうがんなげ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "合計で順位が",
-      "furigana": "ごうけいでじゅんいが",
+      "clause_text": "走高跳、400m走）（下の絵の左から２日目：110mハードル、円盤投げ、棒高跳、やり投げ、1500m走）実は、",
+      "furigana": "そうたかとび、よんれいれいめーとるそうきごうきごうしたのえのひだりからふつかめきごういちいちれいめーとるはーどる、えんばんなげ、ぼうたかとび、やりなげ、いちごれいれいめーとるそうきごうじつは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "決まります。",
-      "furigana": "きまります。",
+      "clause_text": "私は一度だけ十種競技をしたことがあります。",
+      "furigana": "わたくしはいちどだけじゅうしゅきょうぎをしたことがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "（上の絵の左から１日目：100m走、",
-      "furigana": "きごううえのえのひだりからいちにちめきごういちれいれいめーとるそう、",
+      "clause_text": "記録",
+      "furigana": "きろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "走幅跳、砲丸投、走高跳、",
-      "furigana": "そうはばとび、ほうがんなげ、そうたかとび、",
+      "clause_text": "あまりよく",
+      "furigana": "あまりよく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "400m走）（下の絵の左から２日目：110mハードル、",
-      "furigana": "よんれいれいめーとるそうきごうきごうしたのえのひだりからふつかめきごういちいちれいめーとるはーどる、",
+      "clause_text": "あり",
+      "furigana": "あり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "円盤投げ、棒高跳、やり投げ、1500m走）実は、",
-      "furigana": "えんばんなげ、ぼうたかとび、やりなげ、いちごれいれいめーとるそうきごうじつは、",
+      "clause_text": "ませ",
+      "furigana": "ませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "私は一度だけ十種競技をしたことがあります。",
-      "furigana": "わたくしはいちどだけじゅうしゅきょうぎをしたことがあります。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "大学3",
-      "furigana": "だいがくさん",
+      "clause_text": "ただ、十種競技が終わった次の日、",
+      "furigana": "ただ、じゅうしゅきょうぎがおわったつぎのひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "年生の",
-      "furigana": "ねんせいの",
+      "clause_text": "歩くと体中が痛くて、",
+      "furigana": "あるくとたいちゅうがいたくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "秋で",
-      "furigana": "あきで",
+      "clause_text": "階段",
+      "furigana": "かいだん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "し",
-      "furigana": "し",
+      "clause_text": "をのぼることも",
+      "furigana": "をのぼることも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "できなかったことをよく覚えています。",
+      "furigana": "できなかったことをよくおぼえています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:20"
+    "extraction_date_time": "2026.07.15 09:09:46"
   }
 }

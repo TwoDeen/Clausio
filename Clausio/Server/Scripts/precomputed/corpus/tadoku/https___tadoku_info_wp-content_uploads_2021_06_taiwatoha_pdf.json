@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "対話とは松川の桜（https://",
-      "furigana": "たいわとはまつかわのさくらきごうhttpsきごうきごうきごう",
+      "clause_text": "この公園の",
+      "furigana": "このこうえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "toyama.visit-",
-      "furigana": "toyama．びじっと-",
+      "clause_text": "横に",
+      "furigana": "よこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "town.com/toyamastyle",
-      "furigana": "たうん．こむきごうtoyamastyle",
+      "clause_text": "松川という",
+      "furigana": "まつかわという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "/matsukawa）富山県富山市の中心に富山城址公園が",
-      "furigana": "きごうmatsukawaきごうとやまけんとやましのちゅうしんにとやまじょうしこうえんが",
+      "clause_text": "川が",
+      "furigana": "かわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この公園の",
-      "furigana": "このこうえんの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "昔は、",
+      "furigana": "むかしは、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "横に松川",
-      "furigana": "よこにまつかわ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "川のそばに",
+      "furigana": "かわのそばに",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "という",
-      "furigana": "という",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "松がたくさん",
+      "furigana": "まつがたくさん",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "川が",
-      "furigana": "かわが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "あったので、",
+      "furigana": "あったので、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あります。",
-      "furigana": "あります。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "松川という名前がつけられました。",
+      "furigana": "まつかわというなまえがつけられました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 11,
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "昔は、",
-      "furigana": "むかしは、",
+      "clause_text": "その後、",
+      "furigana": "そのご、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "川のそばに松がたくさん",
-      "furigana": "かわのそばにまつがたくさん",
+      "clause_text": "第二次世界大戦のあと",
+      "furigana": "だいにじせかいたいせんのあと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あったので、",
-      "furigana": "あったので、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "松川という名前がつけ",
-      "furigana": "まつかわというなまえがつけ",
+      "clause_text": "町の成長を願って、",
+      "furigana": "まちのせいちょうをねがって、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "られました。",
-      "furigana": "られました。",
+      "clause_text": "川のそばに桜が植えられました。",
+      "furigana": "かわのそばにさくらがうえられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その後、",
-      "furigana": "そのご、",
+      "clause_text": "今では、",
+      "furigana": "いまでは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "第二次世界大戦のあとで、",
-      "furigana": "だいにじせかいたいせんのあとで、",
+      "clause_text": "富山市の中でも",
+      "furigana": "とやましのなかでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "町の成長を願って、",
-      "furigana": "まちのせいちょうをねがって、",
+      "clause_text": "有名",
+      "furigana": "ゆうめい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "川のそばに桜が植え",
-      "furigana": "かわのそばにさくらがうえ",
+      "clause_text": "な桜の名所で、",
+      "furigana": "なさくらのめいしょで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "られました。",
-      "furigana": "られました。",
+      "clause_text": "「日本さくら名所100選」に選ばれています。",
+      "furigana": "きごうにっぽんさくらめいしょいちれいれいせんきごうにえらばれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "今では、",
-      "furigana": "いまでは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "二口金一作「対話」松川",
+      "furigana": "ふたくちきんいちさくきごうたいわきごうまつかわ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "富山市の中でも有名な桜の名所で、",
-      "furigana": "とやましのなかでもゆうめいなさくらのめいしょで、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "の両側には",
+      "furigana": "のりょうがわには",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「日本さくら名所100選」に",
-      "furigana": "きごうにっぽんさくらめいしょいちれいれいせんきごうに",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "散歩のため",
+      "furigana": "さんぽのため",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "選ば",
-      "furigana": "えらば",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "の道が",
+      "furigana": "のみちが",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "れています。",
-      "furigana": "れています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "あります。",
+      "furigana": "あります。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 13:59:53"
+    "extraction_date_time": "2026.07.15 09:15:29"
   }
 }

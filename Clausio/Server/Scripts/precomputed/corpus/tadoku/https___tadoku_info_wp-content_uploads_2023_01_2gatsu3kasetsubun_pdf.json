@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "２月",
-      "furigana": "にがつ",
+      "clause_text": "カナコは",
+      "furigana": "かなこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "３日",
-      "furigana": "みっか",
+      "clause_text": "ほっと",
+      "furigana": "ほっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "節分夜",
-      "furigana": "せつぶんや",
+      "clause_text": "ため息を",
+      "furigana": "ためいきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "10時",
-      "furigana": "いちれいじ",
+      "clause_text": "つい",
+      "furigana": "つい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "過ぎ。",
-      "furigana": "すぎ。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "カナコは",
-      "furigana": "かなこは",
+      "clause_text": "６歳のカイト",
+      "furigana": "ろくさいのかいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ほっと",
-      "furigana": "ほっと",
+      "clause_text": "をお風呂に入れて、",
+      "furigana": "をおふろにいれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ため息を",
-      "furigana": "ためいきを",
+      "clause_text": "ベッド",
+      "furigana": "べっど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "つ",
-      "furigana": "つ",
+      "clause_text": "に寝かしつけたの",
+      "furigana": "にねかしつけたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "いた。",
-      "furigana": "いた。",
+      "clause_text": "が９時ちょっと前だった。",
+      "furigana": "がきゅうじちょっとまえだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "６歳のカイトを",
-      "furigana": "ろくさいのかいとを",
+      "clause_text": "そ",
+      "furigana": "そ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "お風呂に入れて、",
-      "furigana": "おふろにいれて、",
+      "clause_text": "れか",
+      "furigana": "れか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ベッドに寝かしつけたのが",
-      "furigana": "べっどにねかしつけたのが",
+      "clause_text": "ら、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "９時ちょっと",
-      "furigana": "きゅうじちょっと",
+      "clause_text": "明日の朝ごはんとお昼のお弁当の準備をして、",
+      "furigana": "あすのあさごはんとおひるのおべんとうのじゅんびをして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "前だった。",
-      "furigana": "まえだった。",
+      "clause_text": "洗濯物をたたんだ。",
+      "furigana": "せんたくものをたたんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それから、",
-      "furigana": "それから、",
+      "clause_text": "あっという",
+      "furigana": "あっという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "明日の朝ごはんと",
-      "furigana": "あすのあさごはんと",
+      "clause_text": "間に",
+      "furigana": "まに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "お昼のお",
-      "furigana": "おひるのお",
+      "clause_text": "１時間が",
+      "furigana": "いちじかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "弁当の準備をして、",
-      "furigana": "べんとうのじゅんびをして、",
+      "clause_text": "過ぎ",
+      "furigana": "すぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "洗濯物をたたんだ。",
-      "furigana": "せんたくものをたたんだ。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "あっ",
-      "furigana": "あっ",
+      "clause_text": "カナコとカイトの二人が住む２LDKのマンションの掃除",
+      "furigana": "かなことかいとのふたりがすむにえるでぃーけーのまんしょんのそうじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "間に",
-      "furigana": "まに",
+      "clause_text": "一週間に１回、",
+      "furigana": "いちしゅうかんにいちかい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "１時間が",
-      "furigana": "いちじかんが",
+      "clause_text": "土曜日の午前中にする",
+      "furigana": "どようびのごぜんちゅうにする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "過ぎた。",
-      "furigana": "すぎた。",
+      "clause_text": "とカナコは決めていた。",
+      "furigana": "とかなこはきめていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:09"
+    "extraction_date_time": "2026.07.15 09:12:04"
   }
 }

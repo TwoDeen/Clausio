@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "熊が",
-      "furigana": "くまが",
+      "clause_text": "熊が人間を",
+      "furigana": "くまがにんげんを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "人間を",
-      "furigana": "にんげんを",
+      "clause_text": "傷つけたり、",
+      "furigana": "きずつけたり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "傷つけたり、",
-      "furigana": "きずつけたり、",
+      "clause_text": "殺してし",
+      "furigana": "ころして",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "殺してしまったり",
-      "furigana": "ころしてしまったり",
+      "clause_text": "まったりし",
+      "furigana": "たりし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "しています。",
-      "furigana": "しています。",
+      "clause_text": "ています。",
+      "furigana": "ています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "私たち人間は、",
-      "furigana": "わたしたちにんげんは、",
+      "clause_text": "私たち人間は",
+      "furigana": "わたしたちにんげんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "熊を怖いと思っていますが、",
-      "furigana": "くまをこわいとおもっていますが、",
+      "clause_text": "、熊を怖いと思っています",
+      "furigana": "、くまをこわいとおもっています",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "実は熊も、",
-      "furigana": "じつはくまも、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "人間を怖いと",
-      "furigana": "にんげんをこわいと",
+      "clause_text": "実は熊も、",
+      "furigana": "じつはくまも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "思っています。",
-      "furigana": "おもっています。",
+      "clause_text": "人間を怖いと思っています。",
+      "furigana": "にんげんをこわいとおもっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ですから、",
-      "furigana": "ですから、",
+      "clause_text": "ですから、普通、",
+      "furigana": "ですから、ふつう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通、",
-      "furigana": "ふつう、",
+      "clause_text": "熊は人間を見る",
+      "furigana": "くまはにんげんをみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "熊は人間を見ると、",
-      "furigana": "くまはにんげんをみると、",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "どこかへ",
-      "furigana": "どこかへ",
+      "clause_text": "どこ",
+      "furigana": "どこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "逃げて行きます。",
-      "furigana": "にげていきます。",
+      "clause_text": "かへ逃げて行きます。",
+      "furigana": "かへにげていきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "人間がたくさん",
-      "furigana": "にんげんがたくさん",
+      "clause_text": "人間",
+      "furigana": "にんげん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "住んでいる",
-      "furigana": "すんでいる",
+      "clause_text": "がたくさん住んで",
+      "furigana": "がたくさんすんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "町には",
-      "furigana": "まちには",
+      "clause_text": "いる町には",
+      "furigana": "いるまちには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "最近は、",
-      "furigana": "さいきんは、",
+      "clause_text": "最近",
+      "furigana": "さいきん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "熊が町に",
-      "furigana": "くまがまちに",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "来ることが",
-      "furigana": "きたることが",
+      "clause_text": "熊が町に来ること",
+      "furigana": "くまがまちにくること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "増えてきました。",
-      "furigana": "ふえてきました。",
+      "clause_text": "が増えてきました。",
+      "furigana": "がふえてきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 13:59:11"
+    "extraction_date_time": "2026.07.15 09:13:32"
   }
 }

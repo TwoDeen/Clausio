@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "マッチ・パズル火を",
-      "furigana": "まっち・ぱずるひを",
+      "clause_text": "火を",
+      "furigana": "ひを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "つけるのに",
-      "furigana": "つけるのに",
+      "clause_text": "つけるの",
+      "furigana": "つけるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "使うマッチ",
-      "furigana": "つかうまっち",
+      "clause_text": "に使うマッチという",
+      "furigana": "につかうまっちという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "というものが",
-      "furigana": "というものが",
+      "clause_text": "ものが",
+      "furigana": "ものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "さんたすよ",
-      "furigana": "さんたすよ",
+      "clause_text": "このマッチ",
+      "furigana": "このまっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "んはごマッチを",
-      "furigana": "んはごまっちを",
+      "clause_text": "を使ったクイズ",
+      "furigana": "をつかったくいず",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "使って、",
-      "furigana": "つかって、",
+      "clause_text": "に挑戦してみましょう！",
+      "furigana": "にちょうせんしてみましょう!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "下の絵のような式を",
-      "furigana": "したのえのようなしきを",
+      "clause_text": "まずは",
+      "furigana": "まずは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "作りました。",
-      "furigana": "つくりました。",
+      "clause_text": "１つ目のクイズです。",
+      "furigana": "ひとつめのくいずです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "３＋",
-      "furigana": "さんきごう",
+      "clause_text": "マッチ",
+      "furigana": "まっち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "４＝",
-      "furigana": "よん_",
+      "clause_text": "を使って、",
+      "furigana": "をつかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "５",
-      "furigana": "ご",
+      "clause_text": "下の絵の",
+      "furigana": "したのえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "ような式を",
+      "furigana": "ようなしきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "式です。",
-      "furigana": "しきです。",
+      "clause_text": "作りました。",
+      "furigana": "つくりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "マッチを",
-      "furigana": "まっちを",
+      "clause_text": "あれ",
+      "furigana": "あれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "１本だけ",
-      "furigana": "いちぽんだけ",
+      "clause_text": "？３と４を合わせて",
+      "furigana": "?さんとよんをあわせて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "動かして、",
-      "furigana": "うごかして、",
+      "clause_text": "も、",
+      "furigana": "も、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "正しい式に",
-      "furigana": "ただしいしきに",
+      "clause_text": "５にはなりませんよ",
+      "furigana": "ごにはなりませんよ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "しましょう。",
-      "furigana": "しましょう。",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "どのマッチを、",
-      "furigana": "どのまっちを、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "マッチを",
+      "furigana": "まっちを",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どこに",
-      "furigana": "どこに",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "１本",
+      "furigana": "いちぽん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "動かしたら",
-      "furigana": "うごかしたら",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "だけ動かして、",
+      "furigana": "だけうごかして、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "いいのでしょう",
-      "furigana": "いいのでしょう",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "正しい式に",
+      "furigana": "ただしいしきに",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "か。",
-      "furigana": "か。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "しましょう。",
+      "furigana": "しましょう。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:59"
+    "extraction_date_time": "2026.07.15 09:13:10"
   }
 }

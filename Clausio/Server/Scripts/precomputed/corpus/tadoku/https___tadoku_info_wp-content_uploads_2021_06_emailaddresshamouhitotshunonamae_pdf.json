@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "Emailアドレスはも",
-      "furigana": "いーめーるあどれすはも",
+      "clause_text": "あると",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "う一つの名前大学3年生のとき、",
-      "furigana": "うひとつのなまえだいがくさんねんせいのとき、",
+      "clause_text": "き、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "研究室にアメリカからの",
-      "furigana": "けんきゅうしつにあめりかからの",
+      "clause_text": "突然「りょうぞう、りょうぞうの名前は漢字でこう書くの？」と言って、",
+      "furigana": "とつぜんきごうりょうぞう、りょうぞうのなまえはかんじでこうかくの?きごうといって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "留学生が",
-      "furigana": "りゅうがくせいが",
+      "clause_text": "「両象」と書いた紙を",
+      "furigana": "きごうりょうぞうきごうとかいたかみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いました。",
-      "furigana": "いました。",
+      "clause_text": "見せました。",
+      "furigana": "みせました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "名前は",
-      "furigana": "なまえは",
+      "clause_text": "私の",
+      "furigana": "わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "エレナ",
-      "furigana": "えれな",
+      "clause_text": "な",
+      "furigana": "な",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "と言い",
-      "furigana": "といい",
+      "clause_text": "ま",
+      "furigana": "ま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "えは",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "「ささきりょうぞう」です。",
+      "furigana": "きごうささきりょうぞうきごうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "背が",
-      "furigana": "せが",
+      "clause_text": "たしか",
+      "furigana": "たしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "高く",
-      "furigana": "たかく",
+      "clause_text": "に「両象」",
+      "furigana": "にきごうりょうぞうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "て",
-      "furigana": "て",
+      "clause_text": "は「両（りょう）象（ぞう）」",
+      "furigana": "はきごうりょうぞうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "明るい",
-      "furigana": "あかるい",
+      "clause_text": "と読みますが、",
+      "furigana": "とよみますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "女性でした。",
-      "furigana": "じょせいでした。",
+      "clause_text": "「象2頭」は変な名前です。",
+      "furigana": "きごうぞうにとうきごうはへんななまえです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "私のなまえは",
-      "furigana": "わたくしのなまえは",
+      "clause_text": "私は「子どもにそんな変な名前をつける親はいない！」",
+      "furigana": "わたくしはきごうこどもにそんなへんななまえをつけるおやはいない!きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "「ささき",
-      "furigana": "きごうささき",
+      "clause_text": "と怒りましたが、",
+      "furigana": "とおこりましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "りょう",
-      "furigana": "りょう",
+      "clause_text": "よく見る",
+      "furigana": "よくみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぞう」で",
-      "furigana": "ぞうきごうで",
+      "clause_text": "と面白い名前だな",
+      "furigana": "とおもしろいなまえだな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "、と思いました。",
+      "furigana": "、とおもいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "たしかに「両象」は",
-      "furigana": "たしかにきごうりょうぞうきごうは",
+      "clause_text": "やっぱり変な名前",
+      "furigana": "やっぱりへんななまえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「両（りょう）象（ぞう）」と",
-      "furigana": "きごうりょうぞうきごうと",
+      "clause_text": "のようですが、",
+      "furigana": "のようですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "読みますが、",
-      "furigana": "よみますが、",
+      "clause_text": "わたしは",
+      "furigana": "わたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「象2頭」は変な",
-      "furigana": "きごうぞうにとうきごうはへんな",
+      "clause_text": "とても気",
+      "furigana": "とてもき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "名前です。",
-      "furigana": "なまえです。",
+      "clause_text": "に入っています。",
+      "furigana": "にはいっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:12"
+    "extraction_date_time": "2026.07.15 09:13:00"
   }
 }

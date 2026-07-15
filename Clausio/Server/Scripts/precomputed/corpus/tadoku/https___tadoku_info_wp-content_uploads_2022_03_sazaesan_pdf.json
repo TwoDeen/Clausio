@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "サザエさん",
-      "furigana": "さざえさん",
+      "clause_text": "わたし",
+      "furigana": "わたし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしは",
-      "furigana": "わたしは",
+      "clause_text": "は九州の",
+      "furigana": "はきゅうしゅうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "九州の",
-      "furigana": "きゅうしゅうの",
+      "clause_text": "福岡市に",
+      "furigana": "ふくおかしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "福岡市に",
-      "furigana": "ふくおかしに",
+      "clause_text": "住んで",
+      "furigana": "すんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "住んでいます。",
-      "furigana": "すんでいます。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "家のすぐ",
-      "furigana": "いえのすぐ",
+      "clause_text": "家の",
+      "furigana": "いえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "近くに",
-      "furigana": "ちかくに",
+      "clause_text": "すぐ近くに",
+      "furigana": "すぐちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "西南学院大学が",
-      "furigana": "せいなんがくいんだいがくが",
+      "clause_text": "西南学院大学",
+      "furigana": "せいなんがくいんだいがく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "があります。",
+      "furigana": "があります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "西南学院大学は",
-      "furigana": "せいなんがくいんだいがくは",
+      "clause_text": "西南学院大学",
+      "furigana": "せいなんがくいんだいがく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "キリスト教の",
-      "furigana": "きりすときょうの",
+      "clause_text": "はキリスト教の",
+      "furigana": "はきりすときょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "前にこんな",
-      "furigana": "まえにこんな",
+      "clause_text": "前に",
+      "furigana": "まえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "像が",
-      "furigana": "ぞうが",
+      "clause_text": "こんな像",
+      "furigana": "こんなぞう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "があります。",
+      "furigana": "があります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "マンガの主人公の",
-      "furigana": "まんがのしゅじんこうの",
+      "clause_text": "マンガの主人公",
+      "furigana": "まんがのしゅじんこう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "サザエさん（右）と、",
-      "furigana": "さざえさんきごうみぎきごうと、",
+      "clause_text": "のサザエさん（右）",
+      "furigana": "のさざえさんきごうみぎきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのマンガの作者（左）が",
-      "furigana": "そのまんがのさくしゃきごうひだりきごうが",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "仲良くおしゃべりしている",
-      "furigana": "なかよくおしゃべりしている",
+      "clause_text": "そのマンガの作者（左）",
+      "furigana": "そのまんがのさくしゃきごうひだりきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "像です。",
-      "furigana": "ぞうです。",
+      "clause_text": "が仲良くおしゃべりしている像です。",
+      "furigana": "がなかよくおしゃべりしているぞうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:15"
+    "extraction_date_time": "2026.07.15 09:12:10"
   }
 }

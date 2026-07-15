@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "普通ぼくは、",
-      "furigana": "ふつうぼくは、",
+      "clause_text": "ぼくは、",
+      "furigana": "ぼくは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "にでもいる",
-      "furigana": "にでもいる",
+      "clause_text": "にでも",
+      "furigana": "にでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "普通の",
-      "furigana": "ふつうの",
+      "clause_text": "いる普通",
+      "furigana": "いるふつう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "男の子だ。",
-      "furigana": "おとこのこだ。",
+      "clause_text": "の男の子だ。",
+      "furigana": "のおとこのこだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "普通のお母さんと、",
-      "furigana": "ふつうのおかあさんと、",
+      "clause_text": "普通のお母さん",
+      "furigana": "ふつうのおかあさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "普通の",
-      "furigana": "ふつうの",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "お姉ちゃんと",
-      "furigana": "おねえちゃんと",
+      "clause_text": "普通のお姉ちゃん",
+      "furigana": "ふつうのおねえちゃん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "暮らしている。",
-      "furigana": "くらしている。",
+      "clause_text": "と暮らしている。",
+      "furigana": "とくらしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通にごはんを",
-      "furigana": "ふつうにごはんを",
+      "clause_text": "普通にごはん",
+      "furigana": "ふつうにごはん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "食べて、",
-      "furigana": "たべて、",
+      "clause_text": "を食べて、",
+      "furigana": "をたべて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通に",
-      "furigana": "ふつうに",
+      "clause_text": "普通",
+      "furigana": "ふつう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "寝ている。",
-      "furigana": "ねている。",
+      "clause_text": "に寝ている。",
+      "furigana": "にねている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "頭",
-      "furigana": "あたま",
+      "clause_text": "頭は、",
+      "furigana": "あたまは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "良く",
+      "furigana": "よく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "良くもない",
-      "furigana": "よくもない",
+      "clause_text": "もないし、",
+      "furigana": "もないし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "し、",
-      "furigana": "し、",
+      "clause_text": "悪く",
+      "furigana": "わるく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "悪くもない。",
-      "furigana": "わるくもない。",
+      "clause_text": "もない。",
+      "furigana": "もない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "テニスをや",
-      "furigana": "てにすをや",
+      "clause_text": "テニス",
+      "furigana": "てにす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "っているけど、",
-      "furigana": "っているけど、",
+      "clause_text": "をやっている",
+      "furigana": "をやっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "強くもない",
-      "furigana": "つよくもない",
+      "clause_text": "けど、",
+      "furigana": "けど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "し、",
-      "furigana": "し、",
+      "clause_text": "強くもないし、",
+      "furigana": "つよくもないし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:13"
+    "extraction_date_time": "2026.07.15 09:10:28"
   }
 }

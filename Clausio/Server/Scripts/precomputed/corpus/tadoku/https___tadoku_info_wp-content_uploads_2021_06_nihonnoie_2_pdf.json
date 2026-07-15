@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "インタビューは",
-      "furigana": "いんたびゅーは",
+      "clause_text": "町家を直す人",
+      "furigana": "まちやをなおすひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "林野",
-      "furigana": "りんや",
+      "clause_text": "との対話１日本の家とまちは",
+      "furigana": "とのたいわいちにっぽんのいえとまちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "さんの",
-      "furigana": "さんの",
+      "clause_text": "、散歩しても楽しくない？金沢市",
+      "furigana": "、さんぽしてもたのしくない?かなざわし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "家で行",
-      "furigana": "いえでこう",
+      "clause_text": "で、町家を直す仕事をしている建築家、",
+      "furigana": "で、まちやをなおすしごとをしているけんちくか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いました。",
-      "furigana": "いました。",
+      "clause_text": "林野紀子さんにインタビューをしました。",
+      "furigana": "りんやのりこさんにいんたびゅーをしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そして、たくさんの",
-      "furigana": "そして、たくさんの",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "インタビューは",
+      "furigana": "いんたびゅーは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "美術館を見ていく",
-      "furigana": "びじゅつかんをみていく",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "林野さんの",
+      "furigana": "りんやさんの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "うちに、",
-      "furigana": "うちに、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "家で",
+      "furigana": "いえで",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "2つのことに気づいた",
-      "furigana": "ふつつのことにきづいた",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "行いまし",
+      "furigana": "おこないまし",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "んです。",
-      "furigana": "んです。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "た。",
+      "furigana": "た。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 11,
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "一つは、",
-      "furigana": "ひとつは、",
+      "clause_text": "松田：林野さんは、",
+      "furigana": "まつだきごうりんやさんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "自分は美術品より美術館に関心がある",
-      "furigana": "じぶんはびじゅつひんよりびじゅつかんにかんしんがある",
+      "clause_text": "どうして建築家になったのですか？林野：大学の時、美術が専門だったので、",
+      "furigana": "どうしてけんちくかになったのですか?りんやきごうだいがくのとき、びじゅつがせんもんだったので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "こと、もう一つは日本に帰って、",
-      "furigana": "こと、もうひとつはにっぽんにかえって、",
+      "clause_text": "いろんな美術館へいって、",
+      "furigana": "いろんなびじゅつかんへいって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "空港から電車に乗って町の風景をみるのがすごくつらかった",
-      "furigana": "くうこうからでんしゃにのってまちのふうけいをみるのがすごくつらかった",
+      "clause_text": "世界中を旅行したんです",
+      "furigana": "せかいじゅうをりょこうしたんです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ヨーロッパやアジアの",
-      "furigana": "よーろっぱやあじあの",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "そして、",
+      "furigana": "そして、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いろいろな国へ行っても、",
-      "furigana": "いろいろなくにへいっても、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "たくさんの美術館を見ていくうち",
+      "furigana": "たくさんのびじゅつかんをみていくうち",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本みたいな「風景のつらさ」を",
-      "furigana": "にっぽんみたいなきごうふうけいのつらさきごうを",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "に、",
+      "furigana": "に、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "感じることがなかった",
-      "furigana": "かんじることがなかった",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "2つのこと",
+      "furigana": "ふつつのこと",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "んです。",
-      "furigana": "んです。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "に気づいたんです。",
+      "furigana": "にきづいたんです。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 21,
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも「日本は電柱や電線がいっぱいで、",
-      "furigana": "でもきごうにっぽんはでんちゅうやでんせんがいっぱいで、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "一つは",
+      "furigana": "ひとつは",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "プラスチックみたいな、",
-      "furigana": "ぷらすちっくみたいな、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "、自分は美術品より美術館に関心があること、",
+      "furigana": "、じぶんはびじゅつひんよりびじゅつかんにかんしんがあること、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "すぐに汚くなってしまう",
-      "furigana": "すぐにきたなくなってしまう",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "もう一つは日本に帰って、",
+      "furigana": "もうひとつはにっぽんにかえって、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "使い捨ての家がいっぱい建って",
-      "furigana": "つかいすてのいえがいっぱいたって",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "空港から電車に乗って町の風景をみる",
+      "furigana": "くうこうからでんしゃにのってまちのふうけいをみる",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "いた。",
-      "furigana": "いた。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "のがすごくつらかったことです。",
+      "furigana": "のがすごくつらかったことです。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.13 14:03:30"
+    "extraction_date_time": "2026.07.15 09:10:08"
   }
 }

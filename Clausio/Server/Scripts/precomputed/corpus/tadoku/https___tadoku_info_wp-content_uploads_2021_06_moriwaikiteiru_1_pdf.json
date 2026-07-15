@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の森たてしな",
-      "furigana": "にっぽんのもりたてしな",
+      "clause_text": "私たちが今いる",
+      "furigana": "わたしたちがいまいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "私たちが今いるのは、",
-      "furigana": "わたしたちがいまいるのは、",
+      "clause_text": "のは、",
+      "furigana": "のは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "１５００mの森の",
-      "furigana": "いちごれいれいめーとるのもりの",
+      "clause_text": "１５００mの森",
+      "furigana": "いちごれいれいめーとるのもり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "中です。",
-      "furigana": "なかです。",
+      "clause_text": "の中です。",
+      "furigana": "のなかです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "私は留学生たちに",
-      "furigana": "わたくしはりゅうがくせいたちに",
+      "clause_text": "私は留学生たちに日本語や",
+      "furigana": "わたくしはりゅうがくせいたちににほんごや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本語や日本文化を",
-      "furigana": "にほんごやにっぽんぶんかを",
+      "clause_text": "日本文化を指導している大学教授、",
+      "furigana": "にっぽんぶんかをしどうしているだいがくきょうじゅ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "指導している大学教授、",
-      "furigana": "しどうしているだいがくきょうじゅ、",
+      "clause_text": "ターニャは",
+      "furigana": "たーにゃは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ターニャは来日半年のロシアからの",
-      "furigana": "たーにゃはらいにちはんとしのろしあからの",
+      "clause_text": "来日半年のロシアか",
+      "furigana": "らいにちはんとしのろしあ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "留学生です。",
-      "furigana": "りゅうがくせいです。",
+      "clause_text": "らの留学生です。",
+      "furigana": "のりゅうがくせいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "連日３０度を超える都会のコンクリートジャングルから、",
-      "furigana": "れんじつさんれいどをこえるとかいのこんくりーとじゃんぐるから、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "「先生、",
+      "furigana": "きごうせんせい、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "私たちは僅か３時間弱でどこまでも森が",
-      "furigana": "わたしたちはわずかさんじかんじゃくでどこまでももりが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "涼しい！",
+      "furigana": "すずしい!",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "広がり小川のせせらぎ、",
-      "furigana": "ひろがりおがわのせせらぎ、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "東京から来ると別の国に来",
+      "furigana": "とうきょうからくるとべつのくににき",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "小鳥たちのさえずりが聞こえる別荘地に",
-      "furigana": "ことりたちのさえずりがきこえるべっそうちに",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "たみたい",
+      "furigana": "たみたい",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "着いたのです。",
-      "furigana": "ついたのです。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "」とターニャ。",
+      "furigana": "きごうとたーにゃ。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本の国土の６７％は森が占めている、",
-      "furigana": "にっぽんのこくどのろくななぱーせんとはもりがしめている、",
+      "clause_text": "連日３０度を超える都会のコンクリートジャングルから",
+      "furigana": "れんじつさんれいどをこえるとかいのこんくりーとじゃんぐるから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "数字では知っていても、",
-      "furigana": "すうじではしっていても、",
+      "clause_text": "、私たちは僅か３時間弱でどこ",
+      "furigana": "、わたしたちはわずかさんじかんじゃくでどこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「森に行ったことがない」",
-      "furigana": "きごうもりにいったことがないきごう",
+      "clause_text": "までも森が広がり小川のせせらぎ、",
+      "furigana": "までももりがひろがりおがわのせせらぎ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "という日本人の声をよく",
-      "furigana": "というにほんじんのこえをよく",
+      "clause_text": "小鳥たちのさえずりが聞こえる別荘地に着いた",
+      "furigana": "ことりたちのさえずりがきこえるべっそうちについた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "聞きます。",
-      "furigana": "ききます。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "まして留学生たちは、",
-      "furigana": "ましてりゅうがくせいたちは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "日本の国土の６７％は森が占めて",
+      "furigana": "にっぽんのこくどのろくななぱーせんとはもりがしめて",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ほとんど都会・小都会で生活し、",
-      "furigana": "ほとんどとかい・しょうとかいでせいかつし、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "いる、",
+      "furigana": "いる、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本を理解した",
-      "furigana": "にっぽんをりかいした",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "数字では知って",
+      "furigana": "すうじではしって",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "つもりになって帰国",
-      "furigana": "つもりになってきこく",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "いても、",
+      "furigana": "いても、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "してしまいます。",
-      "furigana": "してしまいます。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "「森に行ったことがない」という日本人の声をよく聞きます。",
+      "furigana": "きごうもりにいったことがないきごうというにほんじんのこえをよくききます。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.13 14:03:03"
+    "extraction_date_time": "2026.07.15 09:13:09"
   }
 }

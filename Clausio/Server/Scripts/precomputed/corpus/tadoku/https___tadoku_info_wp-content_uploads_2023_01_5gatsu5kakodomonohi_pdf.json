@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "生まれ",
-      "furigana": "うまれ",
+      "clause_text": "生まれた",
+      "furigana": "うまれた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "たときから、",
-      "furigana": "たときから、",
+      "clause_text": "とき",
+      "furigana": "とき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "僕には",
-      "furigana": "ぼくには",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "父親が",
-      "furigana": "ちちおやが",
+      "clause_text": "僕には父親が",
+      "furigana": "ぼくにはちちおやが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "母親は僕を",
-      "furigana": "ははおやはぼくを",
+      "clause_text": "母親は",
+      "furigana": "ははおやは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "祖父に",
-      "furigana": "そふに",
+      "clause_text": "僕を祖父",
+      "furigana": "ぼくをそふ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "あずけて、",
-      "furigana": "あずけて、",
+      "clause_text": "にあずけて、",
+      "furigana": "にあずけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "外に働きに",
-      "furigana": "そとにはたらきに",
+      "clause_text": "外に働き",
+      "furigana": "そとにはたらき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "出ていた。",
-      "furigana": "でていた。",
+      "clause_text": "に出ていた。",
+      "furigana": "にでていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "祖母も",
-      "furigana": "そぼも",
+      "clause_text": "祖母",
+      "furigana": "そぼ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "外で働いていて、",
-      "furigana": "そとではたらいていて、",
+      "clause_text": "も外で",
+      "furigana": "もそとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "あまり",
-      "furigana": "あまり",
+      "clause_text": "働いていて、",
+      "furigana": "はたらいていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "家に",
-      "furigana": "いえに",
+      "clause_text": "あまり家に",
+      "furigana": "あまりいえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "僕の",
-      "furigana": "ぼくの",
+      "clause_text": "僕の小さい",
+      "furigana": "ぼくのちいさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さいときの",
-      "furigana": "ちいさいときの",
+      "clause_text": "とき",
+      "furigana": "とき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "記憶の中心は、",
-      "furigana": "きおくのちゅうしんは、",
+      "clause_text": "の記憶の",
+      "furigana": "のきおくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "中心は、",
+      "furigana": "ちゅうしんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "祖父だった。",
-      "furigana": "そふだった。",
+      "clause_text": "いつも祖父だった。",
+      "furigana": "いつもそふだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -253,7 +253,7 @@
       },
       "parent_sentence_id": 5,
       "clause_text": "僕をか",
-      "furigana": "ぼくをか",
+      "furigana": "ぼくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "わいが",
-      "furigana": "わいが",
+      "clause_text": "わいがって",
+      "furigana": "がって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "って",
-      "furigana": "って",
+      "clause_text": "くれ",
+      "furigana": "くれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "くれた。",
-      "furigana": "くれた。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:03"
+    "extraction_date_time": "2026.07.15 09:15:54"
   }
 }

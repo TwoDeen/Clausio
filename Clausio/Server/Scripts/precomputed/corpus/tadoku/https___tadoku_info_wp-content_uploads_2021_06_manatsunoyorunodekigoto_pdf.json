@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "真夏の夜の",
-      "furigana": "まなつのよるの",
+      "clause_text": "大学生活にも",
+      "furigana": "だいがくせいかつにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "出来事",
-      "furigana": "できごと",
+      "clause_text": "慣れて、",
+      "furigana": "なれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あれは",
-      "furigana": "あれは",
+      "clause_text": "新しい友達",
+      "furigana": "あたらしいともだち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "数十年前の",
-      "furigana": "すうじゅうねんまえの",
+      "clause_text": "もでき",
+      "furigana": "もでき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "こと。",
-      "furigana": "こと。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "僕は",
-      "furigana": "ぼくは",
+      "clause_text": "お金はなかった",
+      "furigana": "おかねはなかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "まだ",
-      "furigana": "まだ",
+      "clause_text": "けど、",
+      "furigana": "けど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "大学",
-      "furigana": "だいがく",
+      "clause_text": "時間と元気",
+      "furigana": "じかんとげんき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "2",
-      "furigana": "に",
+      "clause_text": "だけは十分",
+      "furigana": "だけはじゅうぶん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "年生だった。",
-      "furigana": "ねんせいだった。",
+      "clause_text": "にあった。",
+      "furigana": "にあった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "大学",
-      "furigana": "だいがく",
+      "clause_text": "友達の一人が車",
+      "furigana": "ともだちのひとりがくるま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "生活にも",
-      "furigana": "せいかつにも",
+      "clause_text": "を持っていて、",
+      "furigana": "をもっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "慣れて、",
-      "furigana": "なれて、",
+      "clause_text": "行き先も決めず",
+      "furigana": "いきさきもきめず",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "新しい友達",
-      "furigana": "あたらしいともだち",
+      "clause_text": "によくドライブ",
+      "furigana": "によくどらいぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "もできた。",
-      "furigana": "もできた。",
+      "clause_text": "をした。",
+      "furigana": "をした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "お金はなかった",
-      "furigana": "おかねはなかった",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "例えば、ずっと海辺を走って、",
+      "furigana": "たとえば、ずっとうみべをはしって、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "けど、",
-      "furigana": "けど、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "海から太陽が昇る",
+      "furigana": "うみからたいようがのぼる",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間と",
-      "furigana": "じかんと",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "のを見ながら缶コーヒーを飲み、",
+      "furigana": "のをみながらかんこーひーをのみ、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "元気だけは",
-      "furigana": "げんきだけは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "そして、",
+      "furigana": "そして、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "十分にあった。",
-      "furigana": "じゅうぶんにあった。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ただ帰ってくる。",
+      "furigana": "ただかえってくる。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 21,
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "友達の一人が車を",
-      "furigana": "ともだちのひとりがくるまを",
+      "clause_text": "そんなくだらない",
+      "furigana": "そんなくだらない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "持っていて、",
-      "furigana": "もっていて、",
+      "clause_text": "ことも、",
+      "furigana": "ことも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "行き先も決め",
-      "furigana": "いきさきもきめ",
+      "clause_text": "友達となら",
+      "furigana": "ともだちとなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ずによくドライブを",
-      "furigana": "ずによくどらいぶを",
+      "clause_text": "楽しめ",
+      "furigana": "たのしめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "した。",
-      "furigana": "した。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:14"
+    "extraction_date_time": "2026.07.15 09:10:47"
   }
 }

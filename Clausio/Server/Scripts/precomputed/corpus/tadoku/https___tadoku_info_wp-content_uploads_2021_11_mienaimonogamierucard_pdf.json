@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "見えないものが見える",
-      "furigana": "みえないものがみえる",
+      "clause_text": "見えないもの",
+      "furigana": "みえないもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "カード今から、",
-      "furigana": "かーどいまから、",
+      "clause_text": "が見えるカード今から、",
+      "furigana": "がみえるかーどいまから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるカードに関係する３",
-      "furigana": "あるかーどにかんけいするさん",
+      "clause_text": "あるカード",
+      "furigana": "あるかーど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "つの話を紹介",
-      "furigana": "つのはなしをしょうかい",
+      "clause_text": "に関係する３つの話",
+      "furigana": "にかんけいするみっつのはなし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "を紹介します。",
+      "furigana": "をしょうかいします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "このお母さんの",
-      "furigana": "このおかあさんの",
+      "clause_text": "このお母さんの携帯電話",
+      "furigana": "このおかあさんのけいたいでんわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "携帯電話",
-      "furigana": "けいたいでんわ",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、たくさん電話が",
-      "furigana": "に、たくさんでんわが",
+      "clause_text": "たくさん電話が",
+      "furigana": "たくさんでんわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "全部違う",
-      "furigana": "ぜんぶちがう",
+      "clause_text": "全部違う電話番号で、",
+      "furigana": "ぜんぶちがうでんわばんごうで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "電話番号で、",
-      "furigana": "でんわばんごうで、",
+      "clause_text": "知らない",
+      "furigana": "しらない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "知らない",
-      "furigana": "しらない",
+      "clause_text": "人でし",
+      "furigana": "ひとでし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "人でした。",
-      "furigana": "ひとでした。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "すると、",
-      "furigana": "すると、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "お母さん",
+      "furigana": "おかあさん",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "電話から",
-      "furigana": "でんわから",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "は、",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「公園にヘルプ",
-      "furigana": "きごうこうえんにへるぷ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "誰からだろう？",
+      "furigana": "だれからだろう?",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "カードが落ちてい",
-      "furigana": "かーどがおちてい",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "怖いな…と思いながら、",
+      "furigana": "こわいな．とおもいながら、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ますよ。",
-      "furigana": "ますよ。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "電話をかけました。",
+      "furigana": "でんわをかけました。",
+      "sentence_individual_grammar_level": "N4"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:45"
+    "extraction_date_time": "2026.07.15 09:16:17"
   }
 }

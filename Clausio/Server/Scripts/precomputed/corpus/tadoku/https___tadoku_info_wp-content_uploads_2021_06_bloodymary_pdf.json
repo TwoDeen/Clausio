@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "彼女は近くの",
-      "furigana": "かのじょはちかくの",
+      "clause_text": "彼女は",
+      "furigana": "かのじょは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "村人たちから、",
-      "furigana": "むらびとたちから、",
+      "clause_text": "近くの村人たち",
+      "furigana": "ちかくのむらびとたち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ブラッディ",
-      "furigana": "ぶらっでぃ",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "マリーと呼ば",
-      "furigana": "まりーとよば",
+      "clause_text": "ブラッディマリーと",
+      "furigana": "ぶらっでぃまりーと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "れていました。",
-      "furigana": "れていました。",
+      "clause_text": "呼ばれていました。",
+      "furigana": "よばれていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ブラッディ",
-      "furigana": "ぶらっでぃ",
+      "clause_text": "ブラッディマリーを",
+      "furigana": "ぶらっでぃまりーを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "マリーを",
-      "furigana": "まりーを",
+      "clause_text": "怖がってい",
+      "furigana": "こわがってい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "怖が",
-      "furigana": "こわが",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "っていました。",
-      "furigana": "っていました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "村の若い",
-      "furigana": "むらのわかい",
+      "clause_text": "村の",
+      "furigana": "むらの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "女の子が",
-      "furigana": "おんなのこが",
+      "clause_text": "若い女の子が",
+      "furigana": "わかいおんなのこが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いなく",
-      "furigana": "いなく",
+      "clause_text": "いなくなってしまいまし",
+      "furigana": "いなくなってしまいまし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なってしまいました。",
-      "furigana": "なってしまいました。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "一人",
-      "furigana": "ひとり",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "いったい、",
+      "furigana": "いったい、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "じゃ",
-      "furigana": "じゃ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "どこへ",
+      "furigana": "どこへ",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "なくて、",
-      "furigana": "なくて、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "いってしまっ",
+      "furigana": "いってしまっ",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "何人",
-      "furigana": "なんにん",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "たのでしょう",
+      "furigana": "たのでしょう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "もです。",
-      "furigana": "もです。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "か。",
+      "furigana": "か。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 21,
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "いったい、",
-      "furigana": "いったい、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "村人",
+      "furigana": "むらびと",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どこへいって",
-      "furigana": "どこへいって",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "たちは、",
+      "furigana": "たちは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "しまっ",
-      "furigana": "しまっ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "わかり",
+      "furigana": "わかり",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "たので",
-      "furigana": "たので",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "ませ",
+      "furigana": "ませ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "しょうか。",
-      "furigana": "しょうか。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:01"
+    "extraction_date_time": "2026.07.15 09:10:48"
   }
 }

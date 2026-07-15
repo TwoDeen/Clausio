@@ -21,9 +21,9 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "2005年６月12日の",
-      "furigana": "にれいれいごねんろくがついちににちの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ブラジルで行われた地球環境",
+      "furigana": "ぶらじるでおこなわれたちきゅうかんきょう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 2,
@@ -32,9 +32,9 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "スティーブ",
-      "furigana": "すてぃーぶ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "についての国際会議で、",
+      "furigana": "についてのこくさいかいぎで、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 3,
@@ -43,9 +43,9 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "・ジョブズ（",
-      "furigana": "・じょぶずきごう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "彼女は世界中",
+      "furigana": "かのじょはせかいじゅう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 4,
@@ -54,9 +54,9 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "StevenJobs）の",
-      "furigana": "stevenjobsきごうの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "の大人たち",
+      "furigana": "のおとなたち",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 5,
@@ -65,9 +65,9 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "スピーチだろうか。",
-      "furigana": "すぴーちだろうか。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "に向かってこう言った。",
+      "furigana": "にむかってこういった。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 6,
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "さまざまな「伝説のスピーチ」があるが、",
-      "furigana": "さまざまなきごうでんせつのすぴーちきごうがあるが、",
+      "clause_text": "1992年にこのスピーチを聞いたとき、まだ英語がよくわからなかった",
+      "furigana": "いちきゅうきゅうにねんにこのすぴーちをきいたとき、まだえいごがよくわからなかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "私にとって最も印象深いのは、",
-      "furigana": "わたくしにとってもっともいんしょうふかいのは、",
+      "clause_text": "けど、",
+      "furigana": "けど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "1992年６月９日のセヴァン・カリス-スズキ（",
-      "furigana": "いちきゅうきゅうにねんろくがつここのかのせゔぁん・かりす-すずききごう",
+      "clause_text": "スピーチの日本語訳を何度も何度も読んだし、",
+      "furigana": "すぴーちのにほんごやくをなんどもなんどもよんだし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "SevernCullis-Suzuki）の",
-      "furigana": "severncullis-すずききごうの",
+      "clause_text": "英語も理解したいと思って、",
+      "furigana": "えいごもりかいしたいとおもって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "スピーチだ。",
-      "furigana": "すぴーちだ。",
+      "clause_text": "原文も何度も何度も読んだ。",
+      "furigana": "げんぶんもなんどもなんどもよんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "当時、",
-      "furigana": "とうじ、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "そして、",
+      "furigana": "そして、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "彼女は",
-      "furigana": "かのじょは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "彼女と同じように大人に腹が立ったし、",
+      "furigana": "かのじょとおなじようにおとなにはらがたったし、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "まだ",
-      "furigana": "まだ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "自分は環境を壊す大人",
+      "furigana": "じぶんはかんきょうをこわすおとな",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "12",
-      "furigana": "いちに",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "にはならない",
+      "furigana": "にはならない",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "歳。",
-      "furigana": "とし。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "と強く思った。",
+      "furigana": "とつよくおもった。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ブラジルで行わ",
-      "furigana": "ぶらじるでおこなわ",
+      "clause_text": "それなの",
+      "furigana": "それなの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "れた地球環境に",
-      "furigana": "れたちきゅうかんきょうに",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ついての国際会議で、",
-      "furigana": "ついてのこくさいかいぎで、",
+      "clause_text": "そう思ったことを忘れて、",
+      "furigana": "そうおもったことをわすれて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "彼女は世界中の大人たちに",
-      "furigana": "かのじょはせかいじゅうのおとなたちに",
+      "clause_text": "毎日",
+      "furigana": "まいにち",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "向かってこう言った。",
-      "furigana": "むかってこういった。",
+      "clause_text": "を過ごしてしまっていた。",
+      "furigana": "をすごしてしまっていた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "1992年にこのスピーチを聞いたとき、",
-      "furigana": "いちきゅうきゅうにねんにこのすぴーちをきいたとき、",
+      "clause_text": "正直、",
+      "furigana": "しょうじき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "まだ英語がよくわからなかったけど、",
-      "furigana": "まだえいごがよくわからなかったけど、",
+      "clause_text": "2022年６月に「あの伝説のスピーチから30年」という新聞記事",
+      "furigana": "にれいににねんろくがつにきごうあのでんせつのすぴーちからさんれいねんきごうというしんぶんきじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "スピーチの日本語訳を何度も何度も読んだし、",
-      "furigana": "すぴーちのにほんごやくをなんどもなんどもよんだし、",
+      "clause_text": "を見るまで、",
+      "furigana": "をみるまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "英語も理解したいと思って、",
-      "furigana": "えいごもりかいしたいとおもって、",
+      "clause_text": "しばらくこのスピーチ",
+      "furigana": "しばらくこのすぴーち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "原文も何度も何度も読んだ。",
-      "furigana": "げんぶんもなんどもなんどもよんだ。",
+      "clause_text": "のことを忘れていた。",
+      "furigana": "のことをわすれていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:36"
+    "extraction_date_time": "2026.07.15 09:15:52"
   }
 }

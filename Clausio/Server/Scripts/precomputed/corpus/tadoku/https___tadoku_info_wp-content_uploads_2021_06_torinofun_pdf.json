@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「鳥のフン」",
-      "furigana": "きごうとりのふんきごう",
+      "clause_text": "「鳥のフン」人は",
+      "furigana": "きごうとりのふんきごうひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "人は毎日トイレに",
-      "furigana": "ひとはまいにちといれに",
+      "clause_text": "毎日トイレに",
+      "furigana": "まいにちといれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "おしっこやウンチを",
-      "furigana": "おしっこやうんちを",
+      "clause_text": "おしっこやウンチ",
+      "furigana": "おしっこやうんち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "をします。",
+      "furigana": "をします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "同じよ",
-      "furigana": "おなじよ",
+      "clause_text": "同じ",
+      "furigana": "おなじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "うに",
-      "furigana": "うに",
+      "clause_text": "ように",
+      "furigana": "ように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "フンを",
-      "furigana": "ふんを",
+      "clause_text": "フン",
+      "furigana": "ふん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "をします。",
+      "furigana": "をします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "道を",
-      "furigana": "みちを",
+      "clause_text": "道を歩いている",
+      "furigana": "みちをあるいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "歩いているとき、ときどき空から",
-      "furigana": "あるいているとき、ときどきそらから",
+      "clause_text": "とき",
+      "furigana": "とき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "鳥の",
-      "furigana": "とりの",
+      "clause_text": "、ときどき空",
+      "furigana": "、ときどきそら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "フンが",
-      "furigana": "ふんが",
+      "clause_text": "から鳥のフンが",
+      "furigana": "からとりのふんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "人はトイレという決まった",
-      "furigana": "ひとはといれというきまった",
+      "clause_text": "人は",
+      "furigana": "ひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "場所でおしっこや",
-      "furigana": "ばしょでおしっこや",
+      "clause_text": "トイレという決まった場所でおしっこや",
+      "furigana": "といれというきまったばしょでおしっこや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "どうして鳥は空でフンを",
-      "furigana": "どうしてとりはそらでふんを",
+      "clause_text": "どうして鳥は空で",
+      "furigana": "どうしてとりはそらで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "するのでしょう。",
-      "furigana": "するのでしょう。",
+      "clause_text": "フンをするのでしょう。",
+      "furigana": "ふんをするのでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "動物には",
-      "furigana": "どうぶつには",
+      "clause_text": "動物",
+      "furigana": "どうぶつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "トイレが",
-      "furigana": "といれが",
+      "clause_text": "には",
+      "furigana": "には",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ないので",
-      "furigana": "ないので",
+      "clause_text": "トイレが",
+      "furigana": "といれが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しょう",
-      "furigana": "しょう",
+      "clause_text": "ないのでしょう",
+      "furigana": "ないのでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.13 14:01:08"
+    "extraction_date_time": "2026.07.15 09:14:01"
   }
 }

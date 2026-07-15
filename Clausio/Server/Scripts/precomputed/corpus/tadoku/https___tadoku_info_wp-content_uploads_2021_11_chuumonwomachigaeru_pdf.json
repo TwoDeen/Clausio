@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "注文をまちがえる料理店◎まちがいを",
-      "furigana": "ちゅうもんをまちがえるりょうりてんきごうまちがいを",
+      "clause_text": "◎まちがいを",
+      "furigana": "きごうまちがいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "受け入れる社会小国",
-      "furigana": "うけいれるしゃかいしょうこく",
+      "clause_text": "受け入れる社会小国士朗（おぐ",
+      "furigana": "うけいれるしゃかいおぐにしろうきごうおぐ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "士朗（おぐにしろう）",
-      "furigana": "しろうきごうおぐにしろうきごう",
+      "clause_text": "にしろう）さんは",
+      "furigana": "にしろうきごうさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "さんはNHKという日本の",
-      "furigana": "さんはえぬえいちけーというにっぽんの",
+      "clause_text": "NHKという日本のテレビ局",
+      "furigana": "えぬえいちけーというにっぽんのてれびきょく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "テレビ局で働いていました。",
-      "furigana": "てれびきょくではたらいていました。",
+      "clause_text": "で働いていました。",
+      "furigana": "ではたらいていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "彼の仕事は",
-      "furigana": "かれのしごとは",
+      "clause_text": "彼の",
+      "furigana": "かれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろ",
-      "furigana": "いろいろ",
+      "clause_text": "仕事は",
+      "furigana": "しごとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "なテレビ",
-      "furigana": "なてれび",
+      "clause_text": "いろいろな",
+      "furigana": "いろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "番組を作る",
-      "furigana": "ばんぐみをつくる",
+      "clause_text": "テレビ番組",
+      "furigana": "てれびばんぐみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "を作ることです。",
+      "furigana": "をつくることです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "認知症のお年寄りたちが",
-      "furigana": "にんちしょうのおとしよりたちが",
+      "clause_text": "認知症のお年寄りたちが一緒",
+      "furigana": "にんちしょうのおとしよりたちがいっしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "一緒に住んでいる施設へ",
-      "furigana": "いっしょにすんでいるしせつへ",
+      "clause_text": "に住んでいる施設",
+      "furigana": "にすんでいるしせつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "行きました。",
-      "furigana": "いきました。",
+      "clause_text": "へ行きました。",
+      "furigana": "へいきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "記憶力が弱くなったり、",
-      "furigana": "きおくりょくがよわくなったり、",
+      "clause_text": "記憶力",
+      "furigana": "きおくりょく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "家族のことが",
-      "furigana": "かぞくのことが",
+      "clause_text": "が弱くなったり、",
+      "furigana": "がよわくなったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "分からなくなったり",
-      "furigana": "わからなくなったり",
+      "clause_text": "家族",
+      "furigana": "かぞく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "のことが分からなくなったりします。",
+      "furigana": "のことがわからなくなったりします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこでは、",
-      "furigana": "そこでは、",
+      "clause_text": "そこ",
+      "furigana": "そこ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "そんな認知症のお年寄りたちが、",
-      "furigana": "そんなにんちしょうのおとしよりたちが、",
+      "clause_text": "では",
+      "furigana": "では",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いろいろな人の世話を受けながら、",
-      "furigana": "いろいろなひとのせわをうけながら、",
+      "clause_text": "、そんな認知症のお年寄りたちが",
+      "furigana": "、そんなにんちしょうのおとしよりたちが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "生活",
-      "furigana": "せいかつ",
+      "clause_text": "、いろいろな人の世話を受けながら、",
+      "furigana": "、いろいろなひとのせわをうけながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "していました。",
-      "furigana": "していました。",
+      "clause_text": "生活していました。",
+      "furigana": "せいかつしていました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:26"
+    "extraction_date_time": "2026.07.15 09:16:12"
   }
 }

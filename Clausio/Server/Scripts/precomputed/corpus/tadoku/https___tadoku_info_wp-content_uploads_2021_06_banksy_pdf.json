@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ここはロンドンの",
-      "furigana": "ここはろんどんの",
+      "clause_text": "ここは",
+      "furigana": "ここは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "有名な",
-      "furigana": "ゆうめいな",
+      "clause_text": "ロンドンの",
+      "furigana": "ろんどんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "オークション",
-      "furigana": "おーくしょん",
+      "clause_text": "有名な",
+      "furigana": "ゆうめいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "会場、",
-      "furigana": "かいじょう、",
+      "clause_text": "オークション会場、",
+      "furigana": "おーくしょんかいじょう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "バンクシーという",
-      "furigana": "ばんくしーという",
+      "clause_text": "バン",
+      "furigana": "ばん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "アーティストの",
-      "furigana": "あーてぃすとの",
+      "clause_text": "クシーというアーティストの",
+      "furigana": "というあーてぃすとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バンクシーという名前はもちろんニックネームで、",
-      "furigana": "ばんくしーというなまえはもちろんにっくねーむで、",
+      "clause_text": "バンクシーという名前",
+      "furigana": "ばんくしーというなまえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "彼（彼女かもしれないが、",
-      "furigana": "かれきごうかのじょかもしれないが、",
+      "clause_text": "はもちろんニックネームで、彼（彼女",
+      "furigana": "はもちろんにっくねーむで、かれきごうかのじょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ここでは彼と言おう）の本名も、",
-      "furigana": "ここではかれといおうきごうのほんみょうも、",
+      "clause_text": "かもしれないが、ここで",
+      "furigana": "かもしれないが、ここで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "どんな人かも",
-      "furigana": "どんなひとかも",
+      "clause_text": "は彼と言おう）の本名も、どんな人",
+      "furigana": "はかれといおうきごうのほんみょうも、どんなひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "わからない。",
-      "furigana": "わからない。",
+      "clause_text": "かもわからない。",
+      "furigana": "かもわからない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "生まれた場所は",
-      "furigana": "うまれたばしょは",
+      "clause_text": "生まれた場所はイギリス",
+      "furigana": "うまれたばしょはいぎりす",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "イギリスのブリストル",
-      "furigana": "いぎりすのぶりすとる",
+      "clause_text": "のブリストルという町だと言われている",
+      "furigana": "のぶりすとるというまちだといわれている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "という町だと言われているが、",
-      "furigana": "というまちだといわれているが、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "それも本当かどうかは",
-      "furigana": "それもほんとうかどうかは",
+      "clause_text": "それも本当かどう",
+      "furigana": "それもほんとうかどう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "わからない。",
-      "furigana": "わからない。",
+      "clause_text": "かはわからない。",
+      "furigana": "かはわからない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "建物や電車の",
-      "furigana": "たてものやでんしゃの",
+      "clause_text": "建物や電車",
+      "furigana": "たてものやでんしゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "壁に絵を描く、",
-      "furigana": "かべにえをえがく、",
+      "clause_text": "の壁に絵",
+      "furigana": "のかべにえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ストリート",
-      "furigana": "すとりーと",
+      "clause_text": "を描く、",
+      "furigana": "をえがく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "アーティストだ。",
-      "furigana": "あーてぃすとだ。",
+      "clause_text": "ストリートアーティストだ。",
+      "furigana": "すとりーとあーてぃすとだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:36"
+    "extraction_date_time": "2026.07.15 09:11:37"
   }
 }

@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "10",
-      "furigana": "いちれい",
+      "clause_text": "10人",
+      "furigana": "いちれいにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "人ぐらい",
-      "furigana": "ひとぐらい",
+      "clause_text": "ぐらい",
+      "furigana": "ぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "この中で誰が",
-      "furigana": "このなかでだれが",
+      "clause_text": "この中で誰",
+      "furigana": "このなかでだれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "一番速いか",
-      "furigana": "いちばんはやいか",
+      "clause_text": "が一番速いか",
+      "furigana": "がいちばんはやいか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "という話に",
-      "furigana": "というはなしに",
+      "clause_text": "という話",
+      "furigana": "というはなし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "なった。",
-      "furigana": "なった。",
+      "clause_text": "になった。",
+      "furigana": "になった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "若者が",
-      "furigana": "わかものが",
+      "clause_text": "メンバーの",
+      "furigana": "めんばーの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "よ",
-      "furigana": "よ",
+      "clause_text": "中に負け",
+      "furigana": "なかにまけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "く",
-      "furigana": "く",
+      "clause_text": "ず",
+      "furigana": "ず",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "考える",
-      "furigana": "かんがえる",
+      "clause_text": "嫌いが",
+      "furigana": "きらいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ことだ。",
-      "furigana": "ことだ。",
+      "clause_text": "二人いた。",
+      "furigana": "ふたりいた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "メンバーの",
-      "furigana": "めんばーの",
+      "clause_text": "「俺が一番速い」",
+      "furigana": "きごうおれがいちばんはやいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "中に負けず",
-      "furigana": "なかにまけず",
+      "clause_text": "「いや、俺の方が速い」二人はカーブが",
+      "furigana": "きごういや、おれのほうがはやいきごうふたりはかーぶが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "嫌いが",
-      "furigana": "きらいが",
+      "clause_text": "多い山道で",
+      "furigana": "おおいさんどうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "二人",
-      "furigana": "ふたり",
+      "clause_text": "勝負しよ",
+      "furigana": "しょうぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "いた。",
-      "furigana": "いた。",
+      "clause_text": "うと言った。",
+      "furigana": "といった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「俺が一番速い」",
-      "furigana": "きごうおれがいちばんはやいきごう",
+      "clause_text": "そこが",
+      "furigana": "そこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「いや、俺の方が速い」",
-      "furigana": "きごういや、おれのほうがはやいきごう",
+      "clause_text": "スタート",
+      "furigana": "すたーと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "二人はカーブが多い",
-      "furigana": "ふたりはかーぶがおおい",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "山道で勝負しよう",
-      "furigana": "さんどうでしょうぶしよう",
+      "clause_text": "山道を",
+      "furigana": "さんどうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "と言った。",
-      "furigana": "といった。",
+      "clause_text": "登る。",
+      "furigana": "のぼる。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:28"
+    "extraction_date_time": "2026.07.15 09:11:27"
   }
 }

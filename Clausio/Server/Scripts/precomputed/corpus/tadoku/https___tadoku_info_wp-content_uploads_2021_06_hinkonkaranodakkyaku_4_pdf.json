@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "僕の夢は兵士になることだった－日本で学ぶ",
-      "furigana": "ぼくのゆめはへいしになることだった-にっぽんでまなぶ",
+      "clause_text": "僕の夢は",
+      "furigana": "ぼくのゆめは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "難民ベントゥ－カレン族という少数民族のベントゥは、",
-      "furigana": "なんみんべんとぅ-かれんぞくというしょうすうみんぞくのべんとぅは、",
+      "clause_text": "兵士になることだった－日本で学ぶ難民ベントゥ－カレン族という少数民族のベントゥは、",
+      "furigana": "へいしになることだった-にっぽんでまなぶなんみんべんとぅ-かれんぞくというしょうすうみんぞくのべんとぅは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "タイの難民キャンプで生まれ育ち、",
-      "furigana": "たいのなんみんきゃんぷでうまれそだち、",
+      "clause_text": "タイの難民キャンプで",
+      "furigana": "たいのなんみんきゃんぷで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "１６年間",
-      "furigana": "いちろくねんかん",
+      "clause_text": "生まれ育ち、",
+      "furigana": "うまれそだち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "暮らしてきました。",
-      "furigana": "くらしてきました。",
+      "clause_text": "１６年間暮らしてきました。",
+      "furigana": "いちろくねんかんくらしてきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "祖国ミャンマーでは",
-      "furigana": "そこくみゃんまーでは",
+      "clause_text": "祖国ミャンマーで",
+      "furigana": "そこくみゃんまーで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "民族の争いが",
-      "furigana": "みんぞくのあらそいが",
+      "clause_text": "は民族の争いが続いていて、",
+      "furigana": "はみんぞくのあらそいがつづいていて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "続いていて、",
-      "furigana": "つづいていて、",
+      "clause_text": "ミャンマー軍に追われ、",
+      "furigana": "みゃんまーぐんにおわれ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ミャンマー軍に追われ、",
-      "furigana": "みゃんまーぐんにおわれ、",
+      "clause_text": "住むこと",
+      "furigana": "すむこと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "住むことができません。",
-      "furigana": "すむことができません。",
+      "clause_text": "ができません。",
+      "furigana": "ができません。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "タイのメラ難民",
-      "furigana": "たいのめらなんみん",
+      "clause_text": "みなさんは",
+      "furigana": "みなさんは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "キャンプ",
-      "furigana": "きゃんぷ",
+      "clause_text": "自由に",
+      "furigana": "じゆうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "みなさんは自由に",
-      "furigana": "みなさんはじゆうに",
+      "clause_text": "ついてどのように",
+      "furigana": "ついてどのように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ついてどのように",
-      "furigana": "ついてどのように",
+      "clause_text": "考えています",
+      "furigana": "かんがえています",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "考えていますか。",
-      "furigana": "かんがえていますか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "次の休みには旅行へ行こうかな、",
-      "furigana": "つぎのやすみにはりょこうへいこうかな、",
+      "clause_text": "次の休み",
+      "furigana": "つぎのやすみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "将来はどんな",
-      "furigana": "しょうらいはどんな",
+      "clause_text": "には旅行へ行こうかな、",
+      "furigana": "にはりょこうへいこうかな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "仕事をしようかな、など",
-      "furigana": "しごとをしようかな、など",
+      "clause_text": "将来はどんな仕事をしようかな、",
+      "furigana": "しょうらいはどんなしごとをしようかな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "色々な選択があると",
-      "furigana": "いろいろなせんたくがあると",
+      "clause_text": "など色々な選択がある",
+      "furigana": "などいろいろなせんたくがある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "思います。",
-      "furigana": "おもいます。",
+      "clause_text": "と思います。",
+      "furigana": "とおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "難民",
-      "furigana": "なんみん",
+      "clause_text": "難民キャンプ",
+      "furigana": "なんみんきゃんぷ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "キャンプでは",
-      "furigana": "きゃんぷでは",
+      "clause_text": "ではそうは",
+      "furigana": "ではそうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "そうは",
-      "furigana": "そうは",
+      "clause_text": "いきませ",
+      "furigana": "いきませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "いきません。",
-      "furigana": "いきません。",
+      "clause_text": "ん。",
+      "furigana": "ん。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.13 14:02:45"
+    "extraction_date_time": "2026.07.15 09:14:51"
   }
 }

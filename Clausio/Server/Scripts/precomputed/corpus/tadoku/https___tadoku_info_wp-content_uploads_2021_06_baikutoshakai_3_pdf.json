@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "善と悪のバイク－",
-      "furigana": "ぜんとあくのばいく-",
+      "clause_text": "善と悪のバイク－ヒーロー",
+      "furigana": "ぜんとあくのばいく-ひーろー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ヒーローも暴走族もなぜ",
-      "furigana": "ひーろーもぼうそうぞくもなぜ",
+      "clause_text": "も暴走族もなぜバイク",
+      "furigana": "もぼうそうぞくもなぜばいく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "バイクに乗るのか－「仮面ライダー」",
-      "furigana": "ばいくにのるのか-きごうかめんらいだーきごう",
+      "clause_text": "に乗るの",
+      "furigana": "にのるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "というキャラクターが",
-      "furigana": "というきゃらくたーが",
+      "clause_text": "か－「仮面ライダー」というキャラクター",
+      "furigana": "か-きごうかめんらいだーきごうというきゃらくたー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "がいます。",
+      "furigana": "がいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本で人気の",
-      "furigana": "にっぽんでにんきの",
+      "clause_text": "日本",
+      "furigana": "にっぽん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある、",
-      "furigana": "ある、",
+      "clause_text": "で人気の",
+      "furigana": "でにんきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "テレビ",
-      "furigana": "てれび",
+      "clause_text": "ある、",
+      "furigana": "ある、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "番組の",
-      "furigana": "ばんぐみの",
+      "clause_text": "テレビ番組の",
+      "furigana": "てれびばんぐみの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "今も続いている",
-      "furigana": "いまもつづいている",
+      "clause_text": "今も続いているテレビシリーズなの",
+      "furigana": "いまもつづいているてれびしりーずなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "テレビシリーズなので、",
-      "furigana": "てれびしりーずなので、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "知っている",
-      "furigana": "しっている",
+      "clause_text": "知っている人",
+      "furigana": "しっているひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "人もいるかもしれ",
-      "furigana": "ひともいるかもしれ",
+      "clause_text": "もいる",
+      "furigana": "もいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "かもしれません。",
+      "furigana": "かもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "その名前の通り",
-      "furigana": "そのなまえのとおり",
+      "clause_text": "その名前の通り「ライダー」なの",
+      "furigana": "そのなまえのとおりきごうらいだーきごうなの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「ライダー」なので、",
-      "furigana": "きごうらいだーきごうなので、",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "バイクに",
-      "furigana": "ばいくに",
+      "clause_text": "バイク",
+      "furigana": "ばいく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "乗ります。",
-      "furigana": "のります。",
+      "clause_text": "に乗ります。",
+      "furigana": "にのります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "バイクに乗って悪い",
-      "furigana": "ばいくにのってわるい",
+      "clause_text": "バイクに乗って悪い敵",
+      "furigana": "ばいくにのってわるいてき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "敵のところに向かったり、",
-      "furigana": "てきのところにむかったり、",
+      "clause_text": "のところ",
+      "furigana": "のところ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "バイクに乗った",
-      "furigana": "ばいくにのった",
+      "clause_text": "に向かったり、",
+      "furigana": "にむかったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "まま敵と戦ったり",
-      "furigana": "ままてきとたたかったり",
+      "clause_text": "バイクに乗ったまま敵",
+      "furigana": "ばいくにのったままてき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "と戦ったりします。",
+      "furigana": "とたたかったりします。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.13 14:04:56"
+    "extraction_date_time": "2026.07.15 09:15:18"
   }
 }

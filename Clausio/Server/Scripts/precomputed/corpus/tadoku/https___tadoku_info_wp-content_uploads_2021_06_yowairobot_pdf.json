@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "弱いロボットゴミ箱ロボットICD-LAB（https://www.",
-      "furigana": "よわいろぼっとごみばころぼっとあいしーでぃー-らぼきごうhttpsきごうきごうきごうだぶりゅーだぶりゅーだぶりゅー．",
+      "clause_text": "ロボットは、",
+      "furigana": "ろぼっとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "icd.cs.tut.ac.jp/index.php/portfolio",
-      "furigana": "あいしーでぃー．しーえす．tutえーしーじぇーぴーきごういんでっくす．ぴーえいちぴーきごうぽーとふぉりお",
+      "clause_text": "ゴミを",
+      "furigana": "ごみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "/sociable-trash-box-2019",
-      "furigana": "きごうsociable-とらっしゅ-ぼっくす-にれいいちきゅう",
+      "clause_text": "見つけ",
+      "furigana": "みつけ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "/）ここにゴミ箱の形をしたロボットが",
-      "furigana": "きごうきごうここにごみばこのかたちをしたろぼっとが",
+      "clause_text": "て近づい",
+      "furigana": "てちかづい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "てきます。",
+      "furigana": "てきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ロボットは、",
-      "furigana": "ろぼっとは、",
+      "clause_text": "でも、",
+      "furigana": "でも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "見つけて",
-      "furigana": "みつけて",
+      "clause_text": "拾うこと",
+      "furigana": "ひろうこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "近づいてき",
-      "furigana": "ちかづいてき",
+      "clause_text": "ができませ",
+      "furigana": "ができませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "ん。",
+      "furigana": "ん。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "そのロボットは",
+      "furigana": "そのろぼっとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ゴミを",
-      "furigana": "ごみを",
+      "clause_text": "ゴミの周り",
+      "furigana": "ごみのまわり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "拾うこと",
-      "furigana": "ひろうこと",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ができませ",
-      "furigana": "ができませ",
+      "clause_text": "小さく体を",
+      "furigana": "ちいさくからだを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "動かしています。",
+      "furigana": "うごかしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そのロボットは",
-      "furigana": "そのろぼっとは",
+      "clause_text": "そして、",
+      "furigana": "そして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ゴミの",
-      "furigana": "ごみの",
+      "clause_text": "少し困って",
+      "furigana": "すこしこまって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "周りで、",
-      "furigana": "まわりで、",
+      "clause_text": "いるよ",
+      "furigana": "いる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さく体を",
-      "furigana": "ちいさくからだを",
+      "clause_text": "うな弱い鳴き声を",
+      "furigana": "なよわいなきごえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "動かしています。",
-      "furigana": "うごかしています。",
+      "clause_text": "出しています。",
+      "furigana": "だしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "近くにいる人",
+      "furigana": "ちかくにいるひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "少し困っているよ",
-      "furigana": "すこしこまっているよ",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "うな弱い",
-      "furigana": "うなよわい",
+      "clause_text": "ごみ",
+      "furigana": "ごみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "鳴き声を",
-      "furigana": "なきごえを",
+      "clause_text": "があることを",
+      "furigana": "があることを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "出しています。",
-      "furigana": "だしています。",
+      "clause_text": "教えているようです。",
+      "furigana": "おしえているようです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:14"
+    "extraction_date_time": "2026.07.15 09:12:02"
   }
 }

@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N5",
+  "highest_grammar_level_encountered": "N4",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "だれ",
-      "furigana": "だれ",
+      "clause_text": "それ",
+      "furigana": "それ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "かの",
-      "furigana": "かの",
+      "clause_text": "とも宇宙人が作った",
+      "furigana": "ともうちゅうにんがつくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "家で",
-      "furigana": "いえで",
+      "clause_text": "もの？",
+      "furigana": "もの?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "しょう",
-      "furigana": "しょう",
+      "clause_text": "いいえ、",
+      "furigana": "いいえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "どれも違います。",
+      "furigana": "どれもちがいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "むかしむかしの",
-      "furigana": "むかしむかしの",
+      "clause_text": "むかしむか",
+      "furigana": "むかしむか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "お",
-      "furigana": "お",
+      "clause_text": "しの",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "墓で",
-      "furigana": "はかで",
+      "clause_text": "お",
+      "furigana": "お",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "墓です。",
+      "furigana": "はかです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "人が",
-      "furigana": "ひとが",
+      "clause_text": "人が死んだ",
+      "furigana": "ひとがしんだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "死んだとき、",
-      "furigana": "しんだとき、",
+      "clause_text": "とき、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことを",
-      "furigana": "ことを",
+      "clause_text": "こと",
+      "furigana": "こと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "古墳",
-      "furigana": "こふん",
+      "clause_text": "を古墳",
+      "furigana": "をこふん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "古墳は",
-      "furigana": "こふんは",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "昔は",
+      "furigana": "むかしは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "大きい",
-      "furigana": "おおきい",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "、死んだ人はみんな、古墳にうめられたの",
+      "furigana": "、しんだひとはみんな、こふんにうめられたの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ので、",
-      "furigana": "ので、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "でしょうか？日本",
+      "furigana": "でしょうか?にっぽん",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "えらい人の",
-      "furigana": "えらいひとの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "では",
+      "furigana": "では",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものでした。",
-      "furigana": "ものでした。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "、家族で1つのお墓に入ります。",
+      "furigana": "、かぞくでひとつのおはかにはいります。",
+      "sentence_individual_grammar_level": "N4"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.13 14:04:24"
+    "extraction_date_time": "2026.07.15 09:10:37"
   }
 }

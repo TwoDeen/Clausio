@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "大好きなものいちばん",
-      "furigana": "だいすきなものいちばん",
+      "clause_text": "いちばん古い記憶",
+      "furigana": "いちばんふるいきおく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "古い記憶は、",
-      "furigana": "ふるいきおくは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "３歳の誕生日",
-      "furigana": "さんさいのたんじょうび",
+      "clause_text": "３歳の",
+      "furigana": "さんさいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "パーティーの",
-      "furigana": "ぱーてぃーの",
+      "clause_text": "誕生日パーティーの",
+      "furigana": "たんじょうびぱーてぃーの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "両親か",
-      "furigana": "りょうしんか",
+      "clause_text": "両親から、",
+      "furigana": "りょうしんから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ら、",
-      "furigana": "ら、",
+      "clause_text": "飛行機の",
+      "furigana": "ひこうきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "飛行機の",
-      "furigana": "ひこうきの",
+      "clause_text": "おもちゃ",
+      "furigana": "おもちゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "おもちゃをも",
-      "furigana": "おもちゃをも",
+      "clause_text": "をもらっ",
+      "furigana": "をもらっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "らった。",
-      "furigana": "らった。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その飛行機にはタイヤが付いていて、",
-      "furigana": "そのひこうきにはたいやがついていて、",
+      "clause_text": "その飛行機",
+      "furigana": "そのひこうき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "床に置いて少し後ろに",
-      "furigana": "ゆかにおいてすこしうしろに",
+      "clause_text": "にはタイヤが付いていて、",
+      "furigana": "にはたいやがついていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "引いてから手を離すと、",
-      "furigana": "ひいてからてをはなすと、",
+      "clause_text": "床に置いて少し後ろに引いてから手を離す",
+      "furigana": "ゆかにおいてすこしうしろにひいてからてをはなす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "びゅーんと走り",
-      "furigana": "びゅーんとはしり",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "出した。",
-      "furigana": "だした。",
+      "clause_text": "びゅーんと走り出した。",
+      "furigana": "びゅーんとはしりだした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "パーティーの写真には、",
-      "furigana": "ぱーてぃーのしゃしんには、",
+      "clause_text": "パーティーの写真",
+      "furigana": "ぱーてぃーのしゃしん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "そのおもちゃといっしょに、",
-      "furigana": "そのおもちゃといっしょに、",
+      "clause_text": "には",
+      "furigana": "には",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "飛行機の形のケーキも",
-      "furigana": "ひこうきのかたちのけーきも",
+      "clause_text": "、そのおもちゃといっしょに",
+      "furigana": "、そのおもちゃといっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "写っているから、たぶん、",
-      "furigana": "うつっているから、たぶん、",
+      "clause_text": "、飛行機の形のケーキも写っているから、たぶん",
+      "furigana": "、ひこうきのかたちのけーきもうつっているから、たぶん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "当時のわたしは飛行機に夢中だったのだろう。",
-      "furigana": "とうじのわたしはひこうきにむちゅうだったのだろう。",
+      "clause_text": "、当時のわたしは飛行機に夢中だったのだろう。",
+      "furigana": "、とうじのわたしはひこうきにむちゅうだったのだろう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "タクシーや",
-      "furigana": "たくしーや",
+      "clause_text": "タクシーやトラックを",
+      "furigana": "たくしーやとらっくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "トラックを",
-      "furigana": "とらっくを",
+      "clause_text": "見る",
+      "furigana": "みる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "見るのが",
-      "furigana": "みるのが",
+      "clause_text": "のが",
+      "furigana": "のが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:16"
+    "extraction_date_time": "2026.07.15 09:13:17"
   }
 }

@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "地球は２０世紀",
-      "furigana": "ちきゅうはにれいせいき",
+      "clause_text": "森の木を切らないでー地球温暖化をストップしてくれるんだ",
+      "furigana": "もりのきをきらないでーちきゅうおんだんかをすとっぷしてくれるんだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "後半になってから",
-      "furigana": "こうはんになってから",
+      "clause_text": "よ！",
+      "furigana": "よ!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "少しずつ",
-      "furigana": "すこしずつ",
+      "clause_text": "「地球全体の平均気温があがっている」という気になるニュース",
+      "furigana": "きごうちきゅうぜんたいのへいきんきおんがあがっているきごうというきになるにゅーす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "気温が上がり",
-      "furigana": "きおんがあがり",
+      "clause_text": "を、",
+      "furigana": "を、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "続けているのです。",
-      "furigana": "つづけているのです。",
+      "clause_text": "皆さんも聞いたことがあると思います。",
+      "furigana": "みなさんもきいたことがあるとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これを",
-      "furigana": "これを",
+      "clause_text": "地球",
+      "furigana": "ちきゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「地球",
-      "furigana": "きごうちきゅう",
+      "clause_text": "は２０世紀後半",
+      "furigana": "はにれいせいきこうはん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "温暖化",
-      "furigana": "おんだんか",
+      "clause_text": "になって",
+      "furigana": "になって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "現象」",
-      "furigana": "げんしょうきごう",
+      "clause_text": "から少しずつ気温が",
+      "furigana": "からすこしずつきおんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と言います。",
-      "furigana": "といいます。",
+      "clause_text": "上がり続けているのです。",
+      "furigana": "あがりつづけているのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "地球の温暖化によって、",
-      "furigana": "ちきゅうのおんだんかによって、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "こ",
+      "furigana": "こ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "氷河の氷が溶けたり",
-      "furigana": "ひょうがのこおりがとけたり",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "れを",
+      "furigana": "を",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "海面が上昇したり、",
-      "furigana": "かいめんがじょうしょうしたり、",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "「地球温暖化現象」と",
+      "furigana": "きごうちきゅうおんだんかげんしょうきごうと",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "熱波などの異常気象が起きたり",
-      "furigana": "ねっぱなどのいじょうきしょうがおきたり",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "言",
+      "furigana": "げん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "しています。",
-      "furigana": "しています。",
-      "sentence_individual_grammar_level": "N3"
+      "clause_text": "います。",
+      "furigana": "ます。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この「二酸化炭素」を",
-      "furigana": "このきごうにさんかたんそきごうを",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "地球の温暖化によって、",
+      "furigana": "ちきゅうのおんだんかによって、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "吸収してくれる",
-      "furigana": "きゅうしゅうしてくれる",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "氷河の氷が溶けたり海面が上昇したり、",
+      "furigana": "ひょうがのこおりがとけたりかいめんがじょうしょうしたり、",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "もの、",
-      "furigana": "もの、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "熱波",
+      "furigana": "ねっぱ",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "それが",
-      "furigana": "それが",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "などの異常気象",
+      "furigana": "などのいじょうきしょう",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「森」です。",
-      "furigana": "きごうもりきごうです。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "が起きたりしています。",
+      "furigana": "がおきたりしています。",
+      "sentence_individual_grammar_level": "N3"
     },
     {
       "clause_id": 21,
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本の森は一",
-      "furigana": "にっぽんのもりはいち",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "ではなぜ、「地球温暖化現象」は起きるの",
+      "furigana": "ではなぜ、きごうちきゅうおんだんかげんしょうきごうはおきるの",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "年間に0.7億",
-      "furigana": "ねんかんにれい．ななおく",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "でしょう？それは「石油」や「石炭」",
+      "furigana": "でしょう?それはきごうせきゆきごうやきごうせきたんきごう",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "トンのCO2を",
-      "furigana": "とんのしーおーつーを",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "などの「化石燃料」と言われるものを使うこと",
+      "furigana": "などのきごうかせきねんりょうきごうといわれるものをつかうこと",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "吸収して（食べて）",
-      "furigana": "きゅうしゅうしてきごうたべてきごう",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "で、空気中に「二酸化炭素」（CO2）が増えて行くからな",
+      "furigana": "で、くうきちゅうにきごうにさんかたんそきごうきごうしーおーつーきごうがふえていくからな",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "くれています。",
-      "furigana": "くれています。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "のです。",
+      "furigana": "のです。",
+      "sentence_individual_grammar_level": "N4"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.13 14:00:43"
+    "extraction_date_time": "2026.07.15 09:11:31"
   }
 }

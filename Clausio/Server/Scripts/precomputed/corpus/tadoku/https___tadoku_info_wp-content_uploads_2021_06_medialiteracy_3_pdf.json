@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ウェブのニュースと",
-      "furigana": "うぇぶのにゅーすと",
+      "clause_text": "ウェブのニュースと紙",
+      "furigana": "うぇぶのにゅーすとかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "紙のニュース若い人たちの",
-      "furigana": "かみのにゅーすわかいひとたちの",
+      "clause_text": "のニュース若い人たち",
+      "furigana": "のにゅーすわかいひとたち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "中で新聞を読んでいる",
-      "furigana": "なかでしんぶんをよんでいる",
+      "clause_text": "の中で新聞を読ん",
+      "furigana": "のなかでしんぶんをよん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "人は非常に少ないよ",
-      "furigana": "ひとはひじょうにすくないよ",
+      "clause_text": "でいる人は非常",
+      "furigana": "でいるひとはひじょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "うです。",
-      "furigana": "うです。",
+      "clause_text": "に少ないようです。",
+      "furigana": "にすくないようです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "多くの若者は",
-      "furigana": "おおくのわかものは",
+      "clause_text": "多くの",
+      "furigana": "おおくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "テレビも",
-      "furigana": "てれびも",
+      "clause_text": "若者はテレビも",
+      "furigana": "わかものはてれびも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "あまり",
-      "furigana": "あまり",
+      "clause_text": "あまり見",
+      "furigana": "あまりみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見てい",
-      "furigana": "みてい",
+      "clause_text": "ていませ",
+      "furigana": "ていませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "ん。",
+      "furigana": "ん。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "若者たちは何によ",
-      "furigana": "わかものたちはなんによ",
+      "clause_text": "若者たちは何",
+      "furigana": "わかものたちはなん",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ってニュースを",
-      "furigana": "ってにゅーすを",
+      "clause_text": "によってニュース",
+      "furigana": "によってにゅーす",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "知るのでしょう",
-      "furigana": "しるのでしょう",
+      "clause_text": "を知るのでしょう",
+      "furigana": "をしるのでしょう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "スマホでウェブサイトの",
-      "furigana": "すまほでうぇぶさいとの",
+      "clause_text": "スマホ",
+      "furigana": "すまほ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ニュースを",
-      "furigana": "にゅーすを",
+      "clause_text": "でウェブサイトの",
+      "furigana": "でうぇぶさいとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "見る人たちが",
-      "furigana": "みるひとたちが",
+      "clause_text": "ニュースを",
+      "furigana": "にゅーすを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "多いよ",
-      "furigana": "おおいよ",
+      "clause_text": "見る人たち",
+      "furigana": "みるひとたち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "うです。",
-      "furigana": "うです。",
+      "clause_text": "が多いようです。",
+      "furigana": "がおおいようです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "紙の新聞のニュースと",
-      "furigana": "かみのしんぶんのにゅーすと",
+      "clause_text": "紙の新聞のニュース",
+      "furigana": "かみのしんぶんのにゅーす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "同じ記事を",
-      "furigana": "おなじきじを",
+      "clause_text": "と同じ記事",
+      "furigana": "とおなじきじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "載せていることが",
-      "furigana": "のせていることが",
+      "clause_text": "を載せていること",
+      "furigana": "をのせていること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "があります。",
+      "furigana": "があります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.13 14:01:19"
+    "extraction_date_time": "2026.07.15 09:11:41"
   }
 }

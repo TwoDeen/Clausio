@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "昼休みの",
-      "furigana": "ひるやすみの",
+      "clause_text": "近く",
+      "furigana": "ちかく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "おしゃべり",
-      "furigana": "おしゃべり",
+      "clause_text": "にはたくさんの会社があって、",
+      "furigana": "にはたくさんのかいしゃがあって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ここは",
-      "furigana": "ここは",
+      "clause_text": "昼休み",
+      "furigana": "ひるやすみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "東京にある",
-      "furigana": "とうきょうにある",
+      "clause_text": "にはこの公園のベンチに座って、",
+      "furigana": "にはこのこうえんのべんちにすわって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "公園です。",
-      "furigana": "こうえんです。",
+      "clause_text": "昼ごはんを食べる人も多いです。",
+      "furigana": "ひるごはんをたべるひともおおいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "近くにはたくさんの会社があって、",
-      "furigana": "ちかくにはたくさんのかいしゃがあって、",
+      "clause_text": "その中",
+      "furigana": "そのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "昼休みにはこの公園の",
-      "furigana": "ひるやすみにはこのこうえんの",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ベンチに座って、",
-      "furigana": "べんちにすわって、",
+      "clause_text": "二人の",
+      "furigana": "ふたりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "昼ごはんを食べる人も",
-      "furigana": "ひるごはんをたべるひとも",
+      "clause_text": "女性が",
+      "furigana": "じょせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "多いです。",
-      "furigana": "おおいです。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その中",
-      "furigana": "そのなか",
+      "clause_text": "一人は長い髪",
+      "furigana": "ひとりはながいかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "を後ろ",
+      "furigana": "をうしろ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "二人の",
-      "furigana": "ふたりの",
+      "clause_text": "でまとめて、",
+      "furigana": "でまとめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "女性が",
-      "furigana": "じょせいが",
+      "clause_text": "眼鏡をかけている、",
+      "furigana": "めがねをかけている、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "真面目そうな人です。",
+      "furigana": "まじめそうなひとです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "一人は長い髪を",
-      "furigana": "ひとりはながいかみを",
+      "clause_text": "でも、",
+      "furigana": "でも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "後ろでまとめて、",
-      "furigana": "うしろでまとめて、",
+      "clause_text": "眼鏡越し",
+      "furigana": "めがねごし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "眼鏡をかけている、",
-      "furigana": "めがねをかけている、",
+      "clause_text": "に見える目",
+      "furigana": "にみえるめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "真面目そうな",
-      "furigana": "まじめそうな",
+      "clause_text": "はキラキラしていて、",
+      "furigana": "はきらきらしていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "人です。",
-      "furigana": "ひとです。",
+      "clause_text": "笑っています。",
+      "furigana": "わらっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "隣の女性",
+      "furigana": "となりのじょせい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "眼鏡越しに",
-      "furigana": "めがねごしに",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "見える目はキラキラ",
-      "furigana": "みえるめはきらきら",
+      "clause_text": "その人",
+      "furigana": "そのひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "していて、",
-      "furigana": "していて、",
+      "clause_text": "よりは",
+      "furigana": "よりは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "笑っています。",
-      "furigana": "わらっています。",
+      "clause_text": "少し若い印象です。",
+      "furigana": "すこしわかいいんしょうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:45"
+    "extraction_date_time": "2026.07.15 09:10:31"
   }
 }

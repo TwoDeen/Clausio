@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "地球にやさしい食べ物",
-      "furigana": "ちきゅうにやさしいたべもの",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本では、",
-      "furigana": "にっぽんでは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "どこにでも",
-      "furigana": "どこにでも",
+      "clause_text": "どこにで",
+      "furigana": "どこにで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "自動販売機が",
-      "furigana": "じどうはんばいきが",
+      "clause_text": "も自動販売機",
+      "furigana": "もじどうはんばいき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "があります。",
+      "furigana": "があります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "多くの自動販売機では、",
-      "furigana": "おおくのじどうはんばいきでは、",
+      "clause_text": "多くの自動販売機",
+      "furigana": "おおくのじどうはんばいき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "水やお茶、",
-      "furigana": "みずやおちゃ、",
+      "clause_text": "では、",
+      "furigana": "では、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "コーヒーなどの",
-      "furigana": "こーひーなどの",
+      "clause_text": "水やお茶、",
+      "furigana": "みずやおちゃ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "飲み物を",
-      "furigana": "のみものを",
+      "clause_text": "コーヒー",
+      "furigana": "こーひー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "売っています。",
-      "furigana": "うっています。",
+      "clause_text": "などの飲み物を売っています。",
+      "furigana": "などののみものをうっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そのほかに、",
-      "furigana": "そのほかに、",
+      "clause_text": "そのほかに",
+      "furigana": "そのほかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "パン、お菓子、",
-      "furigana": "ぱん、おかし、",
+      "clause_text": "、パン、お菓子、インスタント食品、",
+      "furigana": "、ぱん、おかし、いんすたんとしょくひん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "インスタント食品、傘、",
-      "furigana": "いんすたんとしょくひん、かさ、",
+      "clause_text": "傘、アクセサリー",
+      "furigana": "かさ、あくせさりー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "アクセサリーなど、",
-      "furigana": "あくせさりーなど、",
+      "clause_text": "など、",
+      "furigana": "など、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "では",
+      "furigana": "では",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "この自動販売機は、",
-      "furigana": "このじどうはんばいきは、",
+      "clause_text": "、この自動販売機",
+      "furigana": "、このじどうはんばいき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "何を",
-      "furigana": "なんを",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "売っているのでしょう",
-      "furigana": "うっているのでしょう",
+      "clause_text": "何を売っているのでしょう",
+      "furigana": "なんをうっているのでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "つまり、",
-      "furigana": "つまり、",
+      "clause_text": "つまり",
+      "furigana": "つまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "食用昆虫を",
-      "furigana": "しょくようこんちゅうを",
+      "clause_text": "、食用昆虫を",
+      "furigana": "、しょくようこんちゅうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:41"
+    "extraction_date_time": "2026.07.15 09:13:30"
   }
 }

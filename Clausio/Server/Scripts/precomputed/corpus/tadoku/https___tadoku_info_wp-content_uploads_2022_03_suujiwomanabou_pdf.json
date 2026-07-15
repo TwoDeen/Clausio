@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "数字を学ぼう－",
-      "furigana": "すうじをまなぼう-",
+      "clause_text": "数字を学ぼう－偶数と奇数－まえ",
+      "furigana": "すうじをまなぼう-ぐうすうときすう-まえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "偶数と奇数－",
-      "furigana": "ぐうすうときすう-",
+      "clause_text": "へならえ体育座りまえ",
+      "furigana": "へならえたいいくずわりまえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "まえへならえ体育座り",
-      "furigana": "まえへならえたいいくずわり",
+      "clause_text": "へならえ体育座り上の絵を",
+      "furigana": "へならえたいいくずわりじょうのえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "まえへならえ",
-      "furigana": "まえへならえ",
+      "clause_text": "見て",
+      "furigana": "みて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "体育座り上の絵を見てね。",
-      "furigana": "たいいくずわりじょうのえをみてね。",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "女の子は",
-      "furigana": "おんなのこは",
+      "clause_text": "女の子",
+      "furigana": "おんなのこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "まえへ",
-      "furigana": "まえへ",
+      "clause_text": "はまえへ",
+      "furigana": "はまえへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,7 +131,7 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "2",
+      "clause_text": "2番",
       "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "番目の",
-      "furigana": "ばんめの",
+      "clause_text": "目の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "女の子は",
-      "furigana": "おんなのこは",
+      "clause_text": "女の子",
+      "furigana": "おんなのこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "まえへ",
-      "furigana": "まえへ",
+      "clause_text": "はまえへ",
+      "furigana": "はまえへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,7 +241,7 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "4",
+      "clause_text": "4番",
       "furigana": "よん",
       "sentence_individual_grammar_level": "N5"
     },
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "番目の",
-      "furigana": "ばんめの",
+      "clause_text": "目の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.13 13:59:07"
+    "extraction_date_time": "2026.07.15 09:13:40"
   }
 }

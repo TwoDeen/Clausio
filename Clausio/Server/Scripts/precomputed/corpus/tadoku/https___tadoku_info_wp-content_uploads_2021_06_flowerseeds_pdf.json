@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "花の種植物には、",
-      "furigana": "はなのしゅしょくぶつには、",
+      "clause_text": "植物には、",
+      "furigana": "しょくぶつには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "春になると",
-      "furigana": "はるになると",
+      "clause_text": "春になると花",
+      "furigana": "はるになるとはな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "花を咲か",
-      "furigana": "はなをさか",
+      "clause_text": "を咲かせる",
+      "furigana": "をさかせる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "せるものが",
-      "furigana": "せるものが",
+      "clause_text": "もの",
+      "furigana": "もの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "多い。",
-      "furigana": "おおい。",
+      "clause_text": "が多い。",
+      "furigana": "がおおい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "道ばたに花が咲いているのを",
-      "furigana": "みちばたにはながさいているのを",
+      "clause_text": "道ばたに花が咲いている",
+      "furigana": "みちばたにはながさいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "見かけるようになると、",
-      "furigana": "みかけるようになると、",
+      "clause_text": "のを見かけるようになる",
+      "furigana": "のをみかけるようになる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "「あ、春が近いな」と",
-      "furigana": "きごうあ、はるがちかいなきごうと",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "心が軽くなってくる。",
-      "furigana": "こころがかるくなってくる。",
+      "clause_text": "「あ、春が近いな」と心が軽くなってくる。",
+      "furigana": "きごうあ、はるがちかいなきごうとこころがかるくなってくる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "どうして植物は",
-      "furigana": "どうしてしょくぶつは",
+      "clause_text": "どうして植物は春に花",
+      "furigana": "どうしてしょくぶつははるにはな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "春に花を咲か",
-      "furigana": "はるにはなをさか",
+      "clause_text": "を咲かせるの",
+      "furigana": "をさかせるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "せるのであろう",
-      "furigana": "せるのであろう",
+      "clause_text": "であろう",
+      "furigana": "であろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "春になると花が咲くのは",
-      "furigana": "はるになるとはながさくのは",
+      "clause_text": "春になると花が咲く",
+      "furigana": "はるになるとはながさく",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "当然のことだと",
-      "furigana": "とうぜんのことだと",
+      "clause_text": "のは当然のことだと思っていた",
+      "furigana": "のはとうぜんのことだとおもっていた",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "思っていたが、",
-      "furigana": "おもっていたが、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "それにも理由があるは",
-      "furigana": "それにもりゆうがあるは",
+      "clause_text": "それ",
+      "furigana": "それ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずである。",
-      "furigana": "ずである。",
+      "clause_text": "にも理由があるはずである。",
+      "furigana": "にもりゆうがあるはずである。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その答えは、",
-      "furigana": "そのこたえは、",
+      "clause_text": "その答え",
+      "furigana": "そのこたえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうやら植物の",
-      "furigana": "どうやらしょくぶつの",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "生きる術に",
-      "furigana": "いきるじゅつに",
+      "clause_text": "どうやら植物の生きる術に",
+      "furigana": "どうやらしょくぶつのいきるじゅつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "関係がある",
-      "furigana": "かんけいがある",
+      "clause_text": "関係が",
+      "furigana": "かんけいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "らしい。",
-      "furigana": "らしい。",
+      "clause_text": "あるらしい。",
+      "furigana": "あるらしい。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.13 14:04:36"
+    "extraction_date_time": "2026.07.15 09:15:49"
   }
 }

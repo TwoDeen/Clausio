@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "不思議な",
-      "furigana": "ふしぎな",
+      "clause_text": "昔々",
+      "furigana": "むかしむかし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "木の実昔々、",
-      "furigana": "このみむかしむかし、",
+      "clause_text": "、山の",
+      "furigana": "、やまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "山の中に",
-      "furigana": "やまのなかに",
+      "clause_text": "中に",
+      "furigana": "なかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ケンという",
-      "furigana": "けんという",
+      "clause_text": "ケンという男が",
+      "furigana": "けんというおとこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "男が",
-      "furigana": "おとこが",
+      "clause_text": "住んで",
+      "furigana": "すんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "住んでいました。",
-      "furigana": "すんでいました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ケンはいつも",
-      "furigana": "けんはいつも",
+      "clause_text": "ケンはいつも静か",
+      "furigana": "けんはいつもしずか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "静かで、よく",
-      "furigana": "しずかで、よく",
+      "clause_text": "で、",
+      "furigana": "で、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人で森に行き、",
-      "furigana": "ひとりでもりにいき、",
+      "clause_text": "よく一人で森に行き、",
+      "furigana": "よくひとりでもりにいき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "変わった石を集めるのが",
-      "furigana": "かわったいしをあつめるのが",
+      "clause_text": "変わった石を集める",
+      "furigana": "かわったいしをあつめる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "好きでした。",
-      "furigana": "すきでした。",
+      "clause_text": "のが好きでした。",
+      "furigana": "のがすきでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある日、",
-      "furigana": "あるひ、",
+      "clause_text": "村の人たち",
+      "furigana": "むらのひとたち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ケンが森を歩いていると、",
-      "furigana": "けんがもりをあるいていると、",
+      "clause_text": "は「どうしてそんな石を集めるの？」",
+      "furigana": "はきごうどうしてそんないしをあつめるの?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "今まで見たことがない、",
-      "furigana": "いままでみたことがない、",
+      "clause_text": "と聞きましたが、",
+      "furigana": "とききましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "とても大きくて光る石を",
-      "furigana": "とてもおおきくてひかるいしを",
+      "clause_text": "ケンは「ただ好きだから」",
+      "furigana": "けんはきごうただすきだからきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "見つけました。",
-      "furigana": "みつけました。",
+      "clause_text": "とだけ答えていました。",
+      "furigana": "とだけこたえていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その石は",
-      "furigana": "そのいしは",
+      "clause_text": "ある日、",
+      "furigana": "あるひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "まるで生きているよ",
-      "furigana": "まるでいきているよ",
+      "clause_text": "ケンが森を歩いている",
+      "furigana": "けんがもりをあるいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "うに温かく、",
-      "furigana": "うにあたたかく、",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "優しい光を",
-      "furigana": "やさしいひかりを",
+      "clause_text": "今まで見たことがない、",
+      "furigana": "いままでみたことがない、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "放っていました。",
-      "furigana": "ほうっていました。",
+      "clause_text": "とても大きくて光る石を見つけました。",
+      "furigana": "とてもおおきくてひかるいしをみつけました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:16"
+    "extraction_date_time": "2026.07.15 09:10:56"
   }
 }

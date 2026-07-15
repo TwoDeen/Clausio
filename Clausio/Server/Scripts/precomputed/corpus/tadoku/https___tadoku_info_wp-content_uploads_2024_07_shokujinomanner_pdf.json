@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "食事のマナー：香り（",
-      "furigana": "しょくじのまなーきごうかおりきごう",
+      "clause_text": "また、",
+      "furigana": "また、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "https://frame-",
-      "furigana": "httpsきごうきごうきごうふれーむ-",
+      "clause_text": "日本語学習の",
+      "furigana": "にほんごがくしゅうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "illust.com）日本での食事のマナーに",
-      "furigana": "いらすとこむきごうにっぽんでのしょくじのまなーに",
+      "clause_text": "教科書",
+      "furigana": "きょうかしょ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついては様々なガイドブックやサイトで取り上げ",
-      "furigana": "ついてはさまざまながいどぶっくやさいとでとりあげ",
+      "clause_text": "でも",
+      "furigana": "でも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "られています。",
-      "furigana": "られています。",
+      "clause_text": "取り上げられる話題です。",
+      "furigana": "とりあげられるわだいです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "また、",
-      "furigana": "また、",
+      "clause_text": "お箸の使い方",
+      "furigana": "おはしのつかいかた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本語学習の",
-      "furigana": "にほんごがくしゅうの",
+      "clause_text": "や、",
+      "furigana": "や、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "教科書でも",
-      "furigana": "きょうかしょでも",
+      "clause_text": "お茶碗の持ち方、",
+      "furigana": "おちゃわんのもちかた、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "取り上げられる",
-      "furigana": "とりあげられる",
+      "clause_text": "食事中の会話のし方など、",
+      "furigana": "しょくじちゅうのかいわのしかたなど、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "話題です。",
-      "furigana": "わだいです。",
+      "clause_text": "様々なことが詳しく書かれています。",
+      "furigana": "さまざまなことがくわしくかかれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "お箸の使い方や、",
-      "furigana": "おはしのつかいかたや、",
+      "clause_text": "しかし、",
+      "furigana": "しかし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "お茶碗の持ち方、",
-      "furigana": "おちゃわんのもちかた、",
+      "clause_text": "どのガイドブックやサイト",
+      "furigana": "どのがいどぶっくやさいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "食事中の会話のし方など、",
-      "furigana": "しょくじちゅうのかいわのしかたなど、",
+      "clause_text": "でもほとんど取り上げられていない、",
+      "furigana": "でもほとんどとりあげられていない、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "様々なことが詳しく書か",
-      "furigana": "さまざまなことがくわしくかか",
+      "clause_text": "大切なマナーが",
+      "furigana": "たいせつなまなーが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れています。",
-      "furigana": "れています。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "それ",
+      "furigana": "それ",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "どのガイドブックや",
-      "furigana": "どのがいどぶっくや",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "は、",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "サイトでもほとんど取り上げられていない、",
-      "furigana": "さいとでもほとんどとりあげられていない、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "「香水のマナー」",
+      "furigana": "きごうこうすいのまなーきごう",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "大切なマナーが",
-      "furigana": "たいせつなまなーが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "です",
+      "furigana": "です",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あります。",
-      "furigana": "あります。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "。",
+      "furigana": "。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 21,
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それは、",
-      "furigana": "それは、",
+      "clause_text": "日",
+      "furigana": "ひ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "「",
-      "furigana": "きごう",
+      "clause_text": "本では、",
+      "furigana": "では、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "香水の",
-      "furigana": "こうすいの",
+      "clause_text": "香水を",
+      "furigana": "こうすいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "マナー」で",
-      "furigana": "まなーきごうで",
+      "clause_text": "付けないほうがいい場面が",
+      "furigana": "つけないほうがいいばめんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "多いです。",
+      "furigana": "おおいです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:57"
+    "extraction_date_time": "2026.07.15 09:15:06"
   }
 }

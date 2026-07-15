@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "子どもたちに",
-      "furigana": "こどもたちに",
+      "clause_text": "子どもたちに教育",
+      "furigana": "こどもたちにきょういく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "教育を・大人たちに",
-      "furigana": "きょういくを・おとなたちに",
+      "clause_text": "を・大人たちに仕事を",
+      "furigana": "を・おとなたちにしごとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "仕事を－NPO法人",
-      "furigana": "しごとを-えぬぴーおーほうじん",
+      "clause_text": "－NPO法人アラジ代表ユメミ－ユメミは",
+      "furigana": "-えぬぴーおーほうじんあらじだいひょうゆめみ-ゆめみは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "アラジ代表ユメミ－ユメミは",
-      "furigana": "あらじだいひょうゆめみ-ゆめみは",
+      "clause_text": "山梨県",
+      "furigana": "やまなしけん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "山梨県で生まれ育ちました。",
-      "furigana": "やまなしけんでうまれそだちました。",
+      "clause_text": "で生まれ育ちました。",
+      "furigana": "でうまれそだちました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "小学校1年生の頃から鍵っ子で、",
-      "furigana": "しょうがっこういちねんせいのころからかぎっこで、",
+      "clause_text": "小学校1年生の頃から鍵っ子で",
+      "furigana": "しょうがっこういちねんせいのころからかぎっこで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "お母さんは生活保護をもらいながら、",
-      "furigana": "おかあさんはせいかつほごをもらいながら、",
+      "clause_text": "、お母さんは生活保護",
+      "furigana": "、おかあさんはせいかつほご",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "町営団地に住み、",
-      "furigana": "ちょうえいだんちにすみ、",
+      "clause_text": "をもらいながら、",
+      "furigana": "をもらいながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "女手一つでユメミを",
-      "furigana": "おんなでひとつでゆめみを",
+      "clause_text": "町営団地に住み、",
+      "furigana": "ちょうえいだんちにすみ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "育てました。",
-      "furigana": "そだてました。",
+      "clause_text": "女手一つでユメミを育てました。",
+      "furigana": "おんなでひとつでゆめみをそだてました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ユメミは小さいころ、",
-      "furigana": "ゆめみはちいさいころ、",
+      "clause_text": "ユメミは小さい",
+      "furigana": "ゆめみはちいさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "両親が二人ともいて、",
-      "furigana": "りょうしんがふたりともいて、",
+      "clause_text": "ころ、両親が二人ともいて、",
+      "furigana": "ころ、りょうしんがふたりともいて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "休日にみんなで出かける家族がとてもうらやましかったことや、",
-      "furigana": "きゅうじつにみんなででかけるかぞくがとてもうらやましかったことや、",
+      "clause_text": "休日にみんなで出かける家族がとてもうらやましかったこと",
+      "furigana": "きゅうじつにみんなででかけるかぞくがとてもうらやましかったこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "このように考えたことを",
-      "furigana": "このようにかんがえたことを",
+      "clause_text": "や、",
+      "furigana": "や、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "覚えています。",
-      "furigana": "おぼえています。",
+      "clause_text": "このように考えたことを覚えています。",
+      "furigana": "このようにかんがえたことをおぼえています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「人は生まれた環境によって、その後の可能性が変わってしまう」",
-      "furigana": "きごうひとはうまれたかんきょうによって、そのあとのかのうせいがかわってしまうきごう",
+      "clause_text": "「人は生まれた環境によって、その後の可能性が変わってしまう」しかし、",
+      "furigana": "きごうひとはうまれたかんきょうによって、そのあとのかのうせいがかわってしまうきごうしかし、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "中学２年生",
+      "furigana": "ちゅうがくにねんせい",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "中学２年生のとき、",
-      "furigana": "ちゅうがくにねんせいのとき、",
+      "clause_text": "のとき、",
+      "furigana": "のとき、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "お母さんが再婚",
-      "furigana": "おかあさんがさいこん",
+      "clause_text": "お母さんが",
+      "furigana": "おかあさんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "しました。",
-      "furigana": "しました。",
+      "clause_text": "再婚しました。",
+      "furigana": "さいこんしました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "相手はなんと、",
-      "furigana": "あいてはなんと、",
+      "clause_text": "相手は",
+      "furigana": "あいては",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "母より18歳も年上の、",
-      "furigana": "ははよりいちはちさいもとしうえの、",
+      "clause_text": "なんと、",
+      "furigana": "なんと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "成人している",
-      "furigana": "せいじんしている",
+      "clause_text": "母より",
+      "furigana": "ははより",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "娘が３人もいる",
-      "furigana": "むすめがさんにんもいる",
+      "clause_text": "18歳も年上の、",
+      "furigana": "いちはちさいもとしうえの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "人でした。",
-      "furigana": "ひとでした。",
+      "clause_text": "成人している娘が３人もいる人でした。",
+      "furigana": "せいじんしているむすめがさんにんもいるひとでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.13 14:02:47"
+    "extraction_date_time": "2026.07.15 09:11:01"
   }
 }

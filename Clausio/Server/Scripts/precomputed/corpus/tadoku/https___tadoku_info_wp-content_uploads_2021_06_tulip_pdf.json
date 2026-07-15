@@ -21,7 +21,7 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「",
+      "clause_text": "「チュ",
       "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "チューリップの",
-      "furigana": "ちゅーりっぷの",
+      "clause_text": "ーリッ",
+      "furigana": "ーりっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "花」",
-      "furigana": "はなきごう",
+      "clause_text": "プの",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "花",
+      "furigana": "はな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "歌です。",
-      "furigana": "うたです。",
+      "clause_text": "」という歌です。",
+      "furigana": "きごうといううたです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "さいたさいたチューリップの",
-      "furigana": "さいたさいたちゅーりっぷの",
+      "clause_text": "さいたさいたチューリップの花",
+      "furigana": "さいたさいたちゅーりっぷのはな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "花がならんだならんだあかしろきいろどのはな",
-      "furigana": "はながならんだならんだあかしろきいろどのはな",
+      "clause_text": "がならんだならんだあかしろきいろどの",
+      "furigana": "がならんだならんだあかしろきいろどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "みてもきれいだなこの歌は、",
-      "furigana": "みてもきれいだなこのうたは、",
+      "clause_text": "はなみてもきれいだなこの歌は、",
+      "furigana": "はなみてもきれいだなこのうたは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "昭和５年（1930年）に近藤宮子さんという女性が",
-      "furigana": "しょうわごねんきごういちきゅうさんれいねんきごうにこんどうみやこさんというじょせいが",
+      "clause_text": "昭和５年（1930年）",
+      "furigana": "しょうわごねんきごういちきゅうさんれいねんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "作りました。",
-      "furigana": "つくりました。",
+      "clause_text": "に近藤宮子さんという女性が作りました。",
+      "furigana": "にこんどうみやこさんというじょせいがつくりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本が第二次世界",
-      "furigana": "にっぽんがだいにじせかい",
+      "clause_text": "日本が第二次世界大戦",
+      "furigana": "にっぽんがだいにじせかいたいせん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "大戦に向かう、",
-      "furigana": "たいせんにむかう、",
+      "clause_text": "に向かう、",
+      "furigana": "にむかう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "不安",
-      "furigana": "ふあん",
+      "clause_text": "不安な",
+      "furigana": "ふあんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なときでした。",
-      "furigana": "なときでした。",
+      "clause_text": "ときでした。",
+      "furigana": "ときでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「どのはなみてもきれいだな」に",
-      "furigana": "きごうどのはなみてもきれいだなきごうに",
+      "clause_text": "「どのはなみてもきれいだな」",
+      "furigana": "きごうどのはなみてもきれいだなきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "には、",
+      "furigana": "には、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "という思いが込められている",
-      "furigana": "というおもいがこめられている",
+      "clause_text": "という思いが",
+      "furigana": "というおもいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "そうです。",
-      "furigana": "そうです。",
+      "clause_text": "込められているそうです。",
+      "furigana": "こめられているそうです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "チューリップは",
-      "furigana": "ちゅーりっぷは",
+      "clause_text": "チューリップ",
+      "furigana": "ちゅーりっぷ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「ぜいたく品」と",
-      "furigana": "きごうぜいたくひんきごうと",
+      "clause_text": "は「ぜいたく品」",
+      "furigana": "はきごうぜいたくひんきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "考えられるように",
-      "furigana": "かんがえられるように",
+      "clause_text": "と考えられるよう",
+      "furigana": "とかんがえられるよう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "になりました。",
+      "furigana": "になりました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:14"
+    "extraction_date_time": "2026.07.15 09:11:53"
   }
 }

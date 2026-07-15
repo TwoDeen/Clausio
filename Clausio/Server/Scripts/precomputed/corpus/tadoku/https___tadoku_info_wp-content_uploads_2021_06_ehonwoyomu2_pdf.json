@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "絵本を読む2かこさとしのSTEAM絵本－かこさとし『地球-その中をさぐろう』近年、",
-      "furigana": "えほんをよむにかこさとしのすちーむえほん-かこさとしきごうちきゅう-そのなかをさぐろうきごうきんねん、",
+      "clause_text": "それが",
+      "furigana": "それが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "理科教育では、",
-      "furigana": "りかきょういくでは、",
+      "clause_text": "かこさとし（",
+      "furigana": "かこさとしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "理科と数学を別々に教えるだけではなく、",
-      "furigana": "りかとすうがくをべつべつにおしえるだけではなく、",
+      "clause_text": "加古里子",
+      "furigana": "かこさとご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "総合的に教えるように",
-      "furigana": "そうごうてきにおしえるように",
+      "clause_text": "）という絵本作家の",
+      "furigana": "きごうというえほんさっかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "絵本です。",
+      "furigana": "えほんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,9 +76,9 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そうした理系の総合的教育は、科学（Science）、",
-      "furigana": "そうしたりけいのそうごうてききょういくは、かがくきごうさいえんすきごう、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "かこさとし",
+      "furigana": "かこさとし",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 7,
@@ -87,9 +87,9 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "技術（Technology）、",
-      "furigana": "ぎじゅつきごうてくのろじーきごう、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "は、",
+      "furigana": "は、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 8,
@@ -98,9 +98,9 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "工学（Engineering）、",
-      "furigana": "こうがくきごうえんじにありんぐきごう、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "子どもたちに",
+      "furigana": "こどもたちに",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 9,
@@ -109,9 +109,9 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "数学（Mathematics）を統合しているので、",
-      "furigana": "すうがくきごうmathematicsきごうをとうごうしているので、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "大人気の絵本を",
+      "furigana": "だいにんきのえほんを",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 10,
@@ -120,9 +120,9 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "STEM教育と呼ばれています。",
-      "furigana": "すてむきょういくとよばれています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "たくさん書いています。",
+      "furigana": "たくさんかいています。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 11,
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "最近では、",
-      "furigana": "さいきんでは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "その",
+      "furigana": "その",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "それらに芸術（Art）を加えて、",
-      "furigana": "それらにげいじゅつきごうあーときごうをくわえて、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "中でも、か",
+      "furigana": "なかでも、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "STEAM教育にしたほうが",
-      "furigana": "すちーむきょういくにしたほうが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "こさとしが得意",
+      "furigana": "さとしがとくい",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いい、とも言わ",
-      "furigana": "いい、ともいわ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "なのは、",
+      "furigana": "なのは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れています。",
-      "furigana": "れています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "科学のテーマを絵本にした科学絵本です。",
+      "furigana": "かがくのてーまをえほんにしたかがくえほんです。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "STEAM教育",
-      "furigana": "すちーむきょういく",
+      "clause_text": "かこさとしは人生の後半",
+      "furigana": "かこさとしはじんせいのこうはん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、たくさんのことを",
-      "furigana": "は、たくさんのことを",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "学ぶ、たいへん",
-      "furigana": "まなぶ、たいへん",
+      "clause_text": "３冊の科学絵本の大作シリーズ",
+      "furigana": "さんさつのかがくえほんのたいさくしりーず",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "な科目と思うかも",
-      "furigana": "なかもくとおもうかも",
+      "clause_text": "を多くの年月",
+      "furigana": "をおおくのとしつき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "しれません。",
-      "furigana": "しれません。",
+      "clause_text": "をかけて描きました。",
+      "furigana": "をかけてえがきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "それ",
+      "furigana": "それ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "実は身近なところで気軽に、",
-      "furigana": "じつはみじかなところできがるに、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "STEAM教育に",
-      "furigana": "すちーむきょういくに",
+      "clause_text": "『海』（1969年）、",
+      "furigana": "きごううみきごうきごういちきゅうろくきゅうねんきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "接すること",
-      "furigana": "せっすること",
+      "clause_text": "『地球』（1975年）、",
+      "furigana": "きごうちきゅうきごうきごういちきゅうななごねんきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "『人間』（1995年）です。",
+      "furigana": "きごうにんげんきごうきごういちきゅうきゅうごねんきごうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:02:42"
+    "extraction_date_time": "2026.07.15 09:14:38"
   }
 }

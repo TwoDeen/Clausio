@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "首都バクーは",
-      "furigana": "しゅとばくーは",
+      "clause_text": "首都バクー",
+      "furigana": "しゅとばくー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "カスピ海に",
-      "furigana": "かすぴかいに",
+      "clause_text": "はカスピ海",
+      "furigana": "はかすぴかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "面している。",
-      "furigana": "めんしている。",
+      "clause_text": "に面している。",
+      "furigana": "にめんしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "バクーでは",
-      "furigana": "ばくーでは",
+      "clause_text": "バクーで",
+      "furigana": "ばくーで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いつも、",
-      "furigana": "いつも、",
+      "clause_text": "はいつも、",
+      "furigana": "はいつも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "カスピ海からの",
-      "furigana": "かすぴかいからの",
+      "clause_text": "カスピ海から",
+      "furigana": "かすぴかいから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "風が町中を",
-      "furigana": "かぜがまちなかを",
+      "clause_text": "の風が町中",
+      "furigana": "のかぜがまちなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "吹いている。",
-      "furigana": "ふいている。",
+      "clause_text": "を吹いている。",
+      "furigana": "をふいている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "私がバクーに",
-      "furigana": "わたくしがばくーに",
+      "clause_text": "私が",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "住み始めたの",
-      "furigana": "すみはじめたの",
+      "clause_text": "バクーに",
+      "furigana": "ばくーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "住み始めた",
+      "furigana": "すみはじめた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "5月",
-      "furigana": "ごがつ",
+      "clause_text": "のは、",
+      "furigana": "のは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "だった。",
-      "furigana": "だった。",
+      "clause_text": "5月だった。",
+      "furigana": "ごがつだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「今が",
-      "furigana": "きごういまが",
+      "clause_text": "いいときに",
+      "furigana": "いいときに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "一番",
-      "furigana": "いちばん",
+      "clause_text": "いらっし",
+      "furigana": "いらっし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いい",
-      "furigana": "いい",
+      "clause_text": "ゃい",
+      "furigana": "ゃい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "季節で",
-      "furigana": "きせつで",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "すよ。",
-      "furigana": "すよ。",
+      "clause_text": "たね。",
+      "furigana": "たね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "いいときに",
-      "furigana": "いいときに",
+      "clause_text": "5月の公園",
+      "furigana": "ごがつのこうえん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "いらっしゃい",
-      "furigana": "いらっしゃい",
+      "clause_text": "には、",
+      "furigana": "には、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "この国の人",
+      "furigana": "このくにのひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "た",
-      "furigana": "た",
+      "clause_text": "が大好きなバラの花",
+      "furigana": "がだいすきなばらのはな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "が咲き乱れていた。",
+      "furigana": "がさきみだれていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:03:11"
+    "extraction_date_time": "2026.07.15 09:15:02"
   }
 }

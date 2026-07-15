@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "飲み放題先日、",
-      "furigana": "のみほうだいせんじつ、",
+      "clause_text": "先日、",
+      "furigana": "せんじつ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある国にいる",
-      "furigana": "あるくににいる",
+      "clause_text": "ある国に",
+      "furigana": "あるくにに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "友だちと",
-      "furigana": "ともだちと",
+      "clause_text": "いる友だちと",
+      "furigana": "いるともだちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "連絡をと",
-      "furigana": "れんらくをと",
+      "clause_text": "連絡",
+      "furigana": "れんらく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "りました。",
-      "furigana": "りました。",
+      "clause_text": "をとりました。",
+      "furigana": "をとりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "彼女は、",
-      "furigana": "かのじょは、",
+      "clause_text": "彼女",
+      "furigana": "かのじょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "数年",
-      "furigana": "すうねん",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "前、",
-      "furigana": "まえ、",
+      "clause_text": "数年前、",
+      "furigana": "すうねんまえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「早くまた",
-      "furigana": "きごうはやくまた",
+      "clause_text": "「早くまた日本に行きたい」と",
+      "furigana": "きごうはやくまたにっぽんにいきたいきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本に行きたい」",
-      "furigana": "にっぽんにいきたいきごう",
+      "clause_text": "言って",
+      "furigana": "いって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "と言っています。",
-      "furigana": "といっています。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「飲み放題」は、",
-      "furigana": "きごうのみほうだいきごうは、",
+      "clause_text": "わた",
+      "furigana": "わた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "居酒屋や",
-      "furigana": "いざかやや",
+      "clause_text": "しは",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "カラオケ屋がや",
-      "furigana": "からおけやがや",
+      "clause_text": "彼女に、",
+      "furigana": "かのじょに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "っているサービスの一",
-      "furigana": "っているさーびすのいち",
+      "clause_text": "「日本の何が、いちばん恋しい？」と",
+      "furigana": "きごうにっぽんのなんが、いちばんこいしい?きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "つです。",
-      "furigana": "つです。",
+      "clause_text": "聞きました。",
+      "furigana": "ききました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一定の金額を払えば、",
-      "furigana": "いっていのきんがくをはらえば、",
+      "clause_text": "彼女はすぐに",
+      "furigana": "かのじょはすぐに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "一定の時間、",
-      "furigana": "いっていのじかん、",
+      "clause_text": "「飲み放題！」と",
+      "furigana": "きごうのみほうだい!きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "好きなだけ飲み物を",
-      "furigana": "すきなだけのみものを",
+      "clause_text": "答え",
+      "furigana": "こたえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "注文すること",
-      "furigana": "ちゅうもんすること",
+      "clause_text": "まし",
+      "furigana": "まし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "た。",
+      "furigana": "た。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:47"
+    "extraction_date_time": "2026.07.15 09:15:09"
   }
 }

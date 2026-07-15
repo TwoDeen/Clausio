@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "３枚の食パン",
-      "furigana": "さんまいのしょくぱん",
+      "clause_text": "３枚の",
+      "furigana": "さんまいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】２枚の",
-      "furigana": "きごうもんだいきごうにまいの",
+      "clause_text": "食パン【問題】２枚の",
+      "furigana": "しょくぱんきごうもんだいきごうにまいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "食パンを並べて焼ける",
-      "furigana": "しょくぱんをならべてやける",
+      "clause_text": "食パンを",
+      "furigana": "しょくぱんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "フライパンが",
-      "furigana": "ふらいぱんが",
+      "clause_text": "並べて焼けるフライパン",
+      "furigana": "ならべてやけるふらいぱん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "があります。",
+      "furigana": "があります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "このフライパンを",
-      "furigana": "このふらいぱんを",
+      "clause_text": "このフライパン",
+      "furigana": "このふらいぱん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "使って、",
-      "furigana": "つかって、",
+      "clause_text": "を使って、",
+      "furigana": "をつかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "３枚の食パンの",
-      "furigana": "さんまいのしょくぱんの",
+      "clause_text": "３枚の食パン",
+      "furigana": "さんまいのしょくぱん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "両面を",
-      "furigana": "りょうめんを",
+      "clause_text": "の両面を",
+      "furigana": "のりょうめんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "食パンの",
-      "furigana": "しょくぱんの",
+      "clause_text": "食パン",
+      "furigana": "しょくぱん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ひとつの面を",
-      "furigana": "ひとつのめんを",
+      "clause_text": "のひとつの",
+      "furigana": "のひとつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "焼くのに",
-      "furigana": "やくのに",
+      "clause_text": "面を",
+      "furigana": "めんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "30秒",
-      "furigana": "さんれいびょう",
+      "clause_text": "焼くの",
+      "furigana": "やくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "かかります。",
-      "furigana": "かかります。",
+      "clause_text": "に30秒かかります。",
+      "furigana": "にさんれいびょうかかります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「",
-      "furigana": "きごう",
+      "clause_text": "そして、",
+      "furigana": "そして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "２枚の",
-      "furigana": "にまいの",
+      "clause_text": "３枚目の",
+      "furigana": "さんまいめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "同時に",
-      "furigana": "どうじに",
+      "clause_text": "焼く」",
+      "furigana": "やくきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "焼く。",
-      "furigana": "やく。",
+      "clause_text": "とします。",
+      "furigana": "とします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そうすると、２枚の食パンの表を焼くのに30秒、裏を焼く",
+      "furigana": "そうすると、にまいのしょくぱんのひょうをやくのにさんれいびょう、うらをやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "３枚目の",
-      "furigana": "さんまいめの",
+      "clause_text": "のに30秒、３枚目の食パンの表を焼く",
+      "furigana": "のにさんれいびょう、さんまいめのしょくぱんのひょうをやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "食パンを",
-      "furigana": "しょくぱんを",
+      "clause_text": "のに30秒、裏を焼くの",
+      "furigana": "のにさんれいびょう、うらをやくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "焼く」と",
-      "furigana": "やくきごうと",
+      "clause_text": "に30秒かかるの",
+      "furigana": "にさんれいびょうかかるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "します。",
-      "furigana": "します。",
+      "clause_text": "で、全部で120秒かかります。",
+      "furigana": "で、ぜんぶでいちにれいびょうかかります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:08"
+    "extraction_date_time": "2026.07.15 09:13:51"
   }
 }

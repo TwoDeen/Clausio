@@ -1,6 +1,6 @@
 {
   "target_level_requested": "N5",
-  "highest_grammar_level_encountered": "N4",
+  "highest_grammar_level_encountered": "N5",
   "passage_extraction_strategy": "Preserved Sequential News Matrix Layout",
   "total_grid_clauses": 25,
   "puzzle_solution_flow": {
@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "このほかに、",
-      "furigana": "このほかに、",
+      "clause_text": "外国人が日本に来て、楽しみにしていることはなんでしょうか？日本料理を食べること、",
+      "furigana": "がいこくじんがにっぽんにきて、たのしみにしていることはなんでしょうか?にっぽんりょうりをたべること、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "温泉に",
-      "furigana": "おんせんに",
+      "clause_text": "神社やお寺へ行くこと、",
+      "furigana": "じんじゃやおてらへいくこと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "入りたい",
-      "furigana": "はいりたい",
+      "clause_text": "新幹線に乗ること",
+      "furigana": "しんかんせんにのること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "という",
-      "furigana": "という",
+      "clause_text": "など、",
+      "furigana": "など、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "人もいるでしょう。",
-      "furigana": "ひともいるでしょう。",
+      "clause_text": "色々体験したいことがあるでしょう。",
+      "furigana": "いろいろたいけんしたいことがあるでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "しかし、日本では、",
-      "furigana": "しかし、にっぽんでは、",
+      "clause_text": "このほか",
+      "furigana": "このほか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "タトゥーがある人は、",
-      "furigana": "たとぅーがあるひとは、",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "温泉、銭湯、",
-      "furigana": "おんせん、せんとう、",
+      "clause_text": "温泉に",
+      "furigana": "おんせんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "プール、",
-      "furigana": "ぷーる、",
+      "clause_text": "入りたいという人も",
+      "furigana": "はいりたいというひとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "海に入ることができない場合があります。",
-      "furigana": "うみにはいることができないばあいがあります。",
+      "clause_text": "いるでしょう。",
+      "furigana": "いるでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本では、",
-      "furigana": "にっぽんでは、",
+      "clause_text": "しかし、日本では",
+      "furigana": "しかし、にっぽんでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "タトゥーに対して、",
-      "furigana": "たとぅーにたいして、",
+      "clause_text": "、タトゥーがある人は",
+      "furigana": "、たとぅーがあるひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "悪い、",
-      "furigana": "わるい、",
+      "clause_text": "、温泉、銭湯、プール",
+      "furigana": "、おんせん、せんとう、ぷーる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "マイナスのイメージが",
-      "furigana": "まいなすのいめーじが",
+      "clause_text": "、海に入ること",
+      "furigana": "、うみにはいること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "ができない場合があります。",
+      "furigana": "ができないばあいがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その理由は、",
-      "furigana": "そのりゆうは、",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "江戸時代（1603年～1868年）に",
-      "furigana": "えどじだいきごういちろくれいさんねんからいちはちろくはちねんきごうに",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "悪いことをした人に罰と",
-      "furigana": "わるいことをしたひとにばつと",
+      "clause_text": "タトゥーに対して、",
+      "furigana": "たとぅーにたいして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "してタトゥーを入れたか",
-      "furigana": "してたとぅーをいれたか",
+      "clause_text": "悪い、",
+      "furigana": "わるい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "らです。",
-      "furigana": "らです。",
+      "clause_text": "マイナスのイメージがあります。",
+      "furigana": "まいなすのいめーじがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その後、",
-      "furigana": "そのご、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "その理由は、",
+      "furigana": "そのりゆうは、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1872年に罰と",
-      "furigana": "いちはちななにねんにばつと",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "江戸時代（1603年～1868年）に悪いこと",
+      "furigana": "えどじだいきごういちろくれいさんねんからいちはちろくはちねんきごうにわるいこと",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "してタトゥーを",
-      "furigana": "してたとぅーを",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "をした人に罰と",
+      "furigana": "をしたひとにばつと",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "入れることが禁止さ",
-      "furigana": "いれることがきんしさ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "してタトゥーを入れた",
+      "furigana": "してたとぅーをいれた",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "れました。",
-      "furigana": "れました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "からです。",
+      "furigana": "からです。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:00:26"
+    "extraction_date_time": "2026.07.15 09:14:17"
   }
 }

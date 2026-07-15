@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "おじいさんと",
-      "furigana": "おじいさんと",
+      "clause_text": "おじいさん",
+      "furigana": "おじいさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "一緒に家の",
-      "furigana": "いっしょにいえの",
+      "clause_text": "と一緒に家",
+      "furigana": "といっしょにいえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "近くの海に",
-      "furigana": "ちかくのうみに",
+      "clause_text": "の近くの海",
+      "furigana": "のちかくのうみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "出かけた。",
-      "furigana": "でかけた。",
+      "clause_text": "に出かけた。",
+      "furigana": "にでかけた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "しかし男の子は、",
-      "furigana": "しかしおとこのこは、",
+      "clause_text": "しかし男の子",
+      "furigana": "しかしおとこのこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "海に行く",
-      "furigana": "うみにいく",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "途中で家に",
-      "furigana": "とちゅうでいえに",
+      "clause_text": "海に",
+      "furigana": "うみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "帰ると言い",
-      "furigana": "かえるといい",
+      "clause_text": "行く途中で家に",
+      "furigana": "いくとちゅうでいえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "出した。",
-      "furigana": "だした。",
+      "clause_text": "帰ると言い出した。",
+      "furigana": "かえるといいだした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人で家に",
-      "furigana": "ひとりでいえに",
+      "clause_text": "一人で家",
+      "furigana": "ひとりでいえ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "戻っているときに、",
-      "furigana": "もどっているときに、",
+      "clause_text": "に戻っている",
+      "furigana": "にもどっている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いなく",
-      "furigana": "いなく",
+      "clause_text": "ときに、",
+      "furigana": "ときに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なってしまった。",
-      "furigana": "なってしまった。",
+      "clause_text": "いなくなってしまった。",
+      "furigana": "いなくなってしまった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "家族や150人以上の警察が",
-      "furigana": "かぞくやいちごれいにんいじょうのけいさつが",
+      "clause_text": "家族や150人以上の警察",
+      "furigana": "かぞくやいちごれいにんいじょうのけいさつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いろいろな場所を",
-      "furigana": "いろいろなばしょを",
+      "clause_text": "がいろいろな場所",
+      "furigana": "がいろいろなばしょ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "探したが、",
-      "furigana": "さがしたが、",
+      "clause_text": "を探したが、",
+      "furigana": "をさがしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "男の子がいなく",
-      "furigana": "おとこのこがいなく",
+      "clause_text": "男の子がいなくなって3日後",
+      "furigana": "おとこのこがいなくなってみっかご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "なって3日後の朝、",
-      "furigana": "なってみっかごのあさ、",
+      "clause_text": "の朝、",
+      "furigana": "のあさ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "一人のボランティアが",
-      "furigana": "ひとりのぼらんてぃあが",
+      "clause_text": "一人のボランティア",
+      "furigana": "ひとりのぼらんてぃあ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "捜索に参加",
-      "furigana": "そうさくにさんか",
+      "clause_text": "が捜索に",
+      "furigana": "がそうさくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "した。",
-      "furigana": "した。",
+      "clause_text": "参加した。",
+      "furigana": "さんかした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:01:10"
+    "extraction_date_time": "2026.07.15 09:12:00"
   }
 }

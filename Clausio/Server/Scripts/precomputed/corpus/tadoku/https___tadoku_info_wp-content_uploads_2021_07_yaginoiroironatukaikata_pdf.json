@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "地球の環境を",
-      "furigana": "ちきゅうのかんきょうを",
+      "clause_text": "地球の環境",
+      "furigana": "ちきゅうのかんきょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "守るために、",
-      "furigana": "まもるために、",
+      "clause_text": "を守るために、",
+      "furigana": "をまもるために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ヤギの新しい使い方が",
-      "furigana": "やぎのあたらしいつかいかたが",
+      "clause_text": "ヤギの新しい使い方",
+      "furigana": "やぎのあたらしいつかいかた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "始まっています。",
-      "furigana": "はじまっています。",
+      "clause_text": "が始まっています。",
+      "furigana": "がはじまっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "屋上に緑を",
-      "furigana": "おくじょうにみどりを",
+      "clause_text": "屋上",
+      "furigana": "おくじょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "増やす",
-      "furigana": "ふやす",
+      "clause_text": "に緑を",
+      "furigana": "にみどりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "研究の",
-      "furigana": "けんきゅうの",
+      "clause_text": "増やす",
+      "furigana": "ふやす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ためで",
-      "furigana": "ためで",
+      "clause_text": "研究の",
+      "furigana": "けんきゅうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "す。",
-      "furigana": "す。",
+      "clause_text": "ためです。",
+      "furigana": "ためです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、2018年",
+      "furigana": "そして、にれいいちはちねん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "2018年から、",
-      "furigana": "にれいいちはちねんから、",
+      "clause_text": "から、",
+      "furigana": "から、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "1年のうち数日だけ、",
-      "furigana": "いちねんのうちすうじつだけ、",
+      "clause_text": "1年のうち数日",
+      "furigana": "いちねんのうちすうじつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "屋上のいらない草をヤギに食べてもらうヤギ除草を",
-      "furigana": "おくじょうのいらないくさをやぎにたべてもらうやぎじょそうを",
+      "clause_text": "だけ、",
+      "furigana": "だけ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "始めました。",
-      "furigana": "はじめました。",
+      "clause_text": "屋上のいらない草をヤギに食べてもらうヤギ除草を始めました。",
+      "furigana": "おくじょうのいらないくさをやぎにたべてもらうやぎじょそうをはじめました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "人が機械を使っていらない",
-      "furigana": "ひとがきかいをつかっていらない",
+      "clause_text": "人が機械",
+      "furigana": "ひとがきかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "草を取ると、",
-      "furigana": "くさをとると、",
+      "clause_text": "を使っていらない草",
+      "furigana": "をつかっていらないくさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "大きな音や二酸化炭素（",
-      "furigana": "おおきなおとやにさんかたんそきごう",
+      "clause_text": "を取ると、",
+      "furigana": "をとると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "CO2）が",
-      "furigana": "しーおーつーきごうが",
+      "clause_text": "大きな音や二酸化炭素（CO2）が",
+      "furigana": "おおきなおとやにさんかたんそきごうしーおーつーきごうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:38"
+    "extraction_date_time": "2026.07.15 09:12:14"
   }
 }

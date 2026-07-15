@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "不思議な眼鏡－子供の視点に",
-      "furigana": "ふしぎなめがね-こどものしてんに",
+      "clause_text": "－子供の視点に",
+      "furigana": "-こどものしてんに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついて思うこと－",
-      "furigana": "ついておもうこと-",
+      "clause_text": "ついて思うこと－これ",
+      "furigana": "ついておもうこと-これ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "これはもう",
-      "furigana": "これはもう",
+      "clause_text": "はもう10年",
+      "furigana": "はもういちれいねん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "10年くらい前の",
-      "furigana": "いちれいねんくらいまえの",
+      "clause_text": "くらい前の",
+      "furigana": "くらいまえの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "電話で",
-      "furigana": "でんわで",
+      "clause_text": "電話で話していた",
+      "furigana": "でんわではなしていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "話してい",
-      "furigana": "はなしてい",
+      "clause_text": "ときの",
+      "furigana": "ときの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たときの",
-      "furigana": "たときの",
+      "clause_text": "ことで",
+      "furigana": "ことで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことである。",
-      "furigana": "ことである。",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その友人は何年も前に結婚",
-      "furigana": "そのゆうじんはなんねんもまえにけっこん",
+      "clause_text": "その友人は何年も前に結婚していて、",
+      "furigana": "そのゆうじんはなんねんもまえにけっこんしていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "していて、",
-      "furigana": "していて、",
+      "clause_text": "ちょうどその",
+      "furigana": "ちょうどその",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ちょうどそのころ、",
-      "furigana": "ちょうどそのころ、",
+      "clause_text": "ころ、",
+      "furigana": "ころ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "６歳の娘さんと４歳の息子さんを",
-      "furigana": "ろくさいのむすめさんとよんさいのむすこさんを",
+      "clause_text": "６歳の娘さんと４歳の息子さん",
+      "furigana": "ろくさいのむすめさんとよんさいのむすこさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "育てていた。",
-      "furigana": "そだてていた。",
+      "clause_text": "を育てていた。",
+      "furigana": "をそだてていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「二人も",
-      "furigana": "きごうふたりも",
+      "clause_text": "「",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いると、",
-      "furigana": "いると、",
+      "clause_text": "二人も",
+      "furigana": "ふたりも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "子育てが",
-      "furigana": "こそだてが",
+      "clause_text": "いると、",
+      "furigana": "いると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "大変だ",
-      "furigana": "たいへんだ",
+      "clause_text": "子育てが",
+      "furigana": "こそだてが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "大変だね。",
+      "furigana": "たいへんだね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」そんな",
-      "furigana": "きごうそんな",
+      "clause_text": "」そんな私の言葉",
+      "furigana": "きごうそんなわたくしのことば",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "私の言葉に、",
-      "furigana": "わたくしのことばに、",
+      "clause_text": "に、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "くすくすと笑い",
-      "furigana": "くすくすとわらい",
+      "clause_text": "くすくすと",
+      "furigana": "くすくすと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "出した。",
-      "furigana": "だした。",
+      "clause_text": "笑い出した。",
+      "furigana": "わらいだした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:04:41"
+    "extraction_date_time": "2026.07.15 09:10:20"
   }
 }

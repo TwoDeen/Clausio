@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "マンションの気密性昔の",
-      "furigana": "まんしょんのきみつせいむかしの",
+      "clause_text": "昔の日本の家",
+      "furigana": "むかしのにっぽんのいえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の家は、",
-      "furigana": "にっぽんのいえは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "窓を全部閉めても",
-      "furigana": "まどをぜんぶしめても",
+      "clause_text": "窓を全部閉めてもどこ",
+      "furigana": "まどをぜんぶしめてもどこ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "どこかに隙間があって、",
-      "furigana": "どこかにすきまがあって、",
+      "clause_text": "かに隙間があって、",
+      "furigana": "かにすきまがあって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "冬はすきま風が",
-      "furigana": "ふゆはすきまかぜが",
+      "clause_text": "冬はすきま風が吹いて寒かったのだ",
+      "furigana": "ふゆはすきまかぜがふいてさむかったのだ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "吹いて寒かったのだが、",
-      "furigana": "ふいてさむかったのだが、",
+      "clause_text": "が、",
+      "furigana": "が、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "家の中の空気の入れ換えが自然に行わ",
-      "furigana": "いえのなかのくうきのいれかえがしぜんにおこなわ",
+      "clause_text": "家の中の空気の入れ換えが自然",
+      "furigana": "いえのなかのくうきのいれかえがしぜん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "れていた。",
-      "furigana": "れていた。",
+      "clause_text": "に行われていた。",
+      "furigana": "におこなわれていた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それが現代の住宅では、",
-      "furigana": "それがげんだいのじゅうたくでは、",
+      "clause_text": "それが現代の住宅",
+      "furigana": "それがげんだいのじゅうたく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "家全体がしっかりと密閉さ",
-      "furigana": "いえぜんたいがしっかりとみっぺいさ",
+      "clause_text": "では、",
+      "furigana": "では、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "れるようになり、",
-      "furigana": "れるようになり、",
+      "clause_text": "家全体がしっかりと密閉されるようになり、",
+      "furigana": "いえぜんたいがしっかりとみっぺいされるようになり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "すきま風が",
-      "furigana": "すきまかぜが",
+      "clause_text": "すきま風",
+      "furigana": "すきまかぜ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "入らなくなった。",
-      "furigana": "はいらなくなった。",
+      "clause_text": "が入らなくなった。",
+      "furigana": "がはいらなくなった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "冬には暖房で暖まった空気が逃げないので部屋が暖かく保たれるのだが、",
-      "furigana": "ふゆにはだんぼうであたたまったくうきがにげないのでへやがあたたかくたもたれるのだが、",
+      "clause_text": "冬には暖房で",
+      "furigana": "ふゆにはだんぼうで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "自然に空気が入れ換わらないため、",
-      "furigana": "しぜんにくうきがいれかわらないため、",
+      "clause_text": "暖まった空気が逃げないので",
+      "furigana": "あたたまったくうきがにげないので",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "換気システムを設置して強制的に",
-      "furigana": "かんきしすてむをせっちしてきょうせいてきに",
+      "clause_text": "部屋が暖かく保たれるのだが、",
+      "furigana": "へやがあたたかくたもたれるのだが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "空気の入れ換えを行わなければならなくなった。",
-      "furigana": "くうきのいれかえをおこなわなければならなくなった。",
+      "clause_text": "自然に空気が入れ換わらないため、換気システムを設置して強制的に空気の入れ換えを行わなければならなくなった。",
+      "furigana": "しぜんにくうきがいれかわらないため、かんきしすてむをせっちしてきょうせいてきにくうきのいれかえをおこなわなければならなくなった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "部屋の広さや建物",
-      "furigana": "へやのひろさやたてもの",
+      "clause_text": "部屋の広さや建物全体",
+      "furigana": "へやのひろさやたてものぜんたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "全体の構造から、",
-      "furigana": "ぜんたいのこうぞうから、",
+      "clause_text": "の構造から、",
+      "furigana": "のこうぞうから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -307,6 +307,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.13 14:02:34"
+    "extraction_date_time": "2026.07.15 09:12:49"
   }
 }

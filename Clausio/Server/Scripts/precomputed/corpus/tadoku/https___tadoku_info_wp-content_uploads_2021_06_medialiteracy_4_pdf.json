@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "絵本の世界ジョン・バーニンガム作『おじい",
-      "furigana": "えほんのせかいじょん・ばーにんがむさくきごうおじい",
+      "clause_text": "ジョン・バーニンガム作『おじいちゃん』表紙絵本は小さな子ども",
+      "furigana": "じょん・ばーにんがむさくきごうおじいちゃんきごうひょうしえほんはちいさなこども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ちゃん』表紙絵本は小さな",
-      "furigana": "ちゃんきごうひょうしえほんはちいさな",
+      "clause_text": "がお母さんに読ん",
+      "furigana": "がおかあさんによん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "子どもがお母さんに",
-      "furigana": "こどもがおかあさんに",
+      "clause_text": "でもらうものだ",
+      "furigana": "でもらうものだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "読んでもらうものだ、と",
-      "furigana": "よんでもらうものだ、と",
+      "clause_text": "、と思う人も多い",
+      "furigana": "、とおもうひともおおい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "思う人も多いかもしれません。",
-      "furigana": "おもうひともおおいかもしれません。",
+      "clause_text": "かもしれません。",
+      "furigana": "かもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "絵本の中には、",
-      "furigana": "えほんのなかには、",
+      "clause_text": "絵本の中",
+      "furigana": "えほんのなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "みなさんが読んでも",
-      "furigana": "みなさんがよんでも",
+      "clause_text": "には、",
+      "furigana": "には、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "おもしろいものがたくさん",
-      "furigana": "おもしろいものがたくさん",
+      "clause_text": "みなさんが読んでも",
+      "furigana": "みなさんがよんでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "おもしろいものがたくさんあります。",
+      "furigana": "おもしろいものがたくさんあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きな本屋の絵本",
-      "furigana": "おおきなほんやのえほん",
+      "clause_text": "大きな本屋",
+      "furigana": "おおきなほんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "コーナーや図書館の絵本",
-      "furigana": "こーなーやとしょかんのえほん",
+      "clause_text": "の絵本コーナーや図書館",
+      "furigana": "のえほんこーなーやとしょかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "コーナーに",
-      "furigana": "こーなーに",
+      "clause_text": "の絵本コーナーに",
+      "furigana": "のえほんこーなーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさんある絵本の",
-      "furigana": "たくさんあるえほんの",
+      "clause_text": "たくさんある絵本の中",
+      "furigana": "たくさんあるえほんのなか",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "中には、",
-      "furigana": "なかには、",
+      "clause_text": "には、",
+      "furigana": "には、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "読んでみようと",
-      "furigana": "よんでみようと",
+      "clause_text": "読んでみようと思う絵本",
+      "furigana": "よんでみようとおもうえほん",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "思う絵本があるは",
-      "furigana": "おもうえほんがあるは",
+      "clause_text": "がある",
+      "furigana": "がある",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずです。",
-      "furigana": "ずです。",
+      "clause_text": "はずです。",
+      "furigana": "はずです。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "5冊くらい",
-      "furigana": "ごさつくらい",
+      "clause_text": "5冊くらい読んで",
+      "furigana": "ごさつくらいよんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "読んでみましょう。",
-      "furigana": "よんでみましょう。",
+      "clause_text": "みましょう。",
+      "furigana": "みましょう。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.13 13:59:45"
+    "extraction_date_time": "2026.07.15 09:15:41"
   }
 }

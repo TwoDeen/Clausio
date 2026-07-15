@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "紙と筆記具鉛筆や",
-      "furigana": "かみとひっきぐえんぴつや",
+      "clause_text": "鉛筆や",
+      "furigana": "えんぴつや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ペンで紙に",
-      "furigana": "ぺんでかみに",
+      "clause_text": "ペンで",
+      "furigana": "ぺんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "字を書いた",
-      "furigana": "じをかいた",
+      "clause_text": "紙に字を書いたことが",
+      "furigana": "かみにじをかいたことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことがない人は",
-      "furigana": "ことがないひとは",
+      "clause_text": "ない人は",
+      "furigana": "ないひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうして鉛筆やペンで紙に",
-      "furigana": "どうしてえんぴつやぺんでかみに",
+      "clause_text": "どうして鉛筆や",
+      "furigana": "どうしてえんぴつや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "字が書けるか、",
-      "furigana": "じがかけるか、",
+      "clause_text": "ペンで紙に字が書けるか、",
+      "furigana": "ぺんでかみにじがかけるか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "考えたことは",
-      "furigana": "かんがえたことは",
+      "clause_text": "考えたことはあるだ",
+      "furigana": "かんがえたことはある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あるだろうか。",
-      "furigana": "あるだろうか。",
+      "clause_text": "ろうか。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "まず紙が",
-      "furigana": "まずかみが",
+      "clause_text": "まず紙が何",
+      "furigana": "まずかみがなん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "何から作ら",
-      "furigana": "なんからつくら",
+      "clause_text": "から作られている",
+      "furigana": "からつくられている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "れているかを知る",
-      "furigana": "れているかをしる",
+      "clause_text": "かを知る必要",
+      "furigana": "かをしるひつよう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "必要がある。",
-      "furigana": "ひつようがある。",
+      "clause_text": "がある。",
+      "furigana": "がある。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,8 +186,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「紙を無駄使いすると、森がなくなる」",
-      "furigana": "きごうかみをむだづかいすると、もりがなくなるきごう",
+      "clause_text": "「紙を無駄使いすると、森がなくなる」と言われるよ",
+      "furigana": "きごうかみをむだづかいすると、もりがなくなるきごうといわれる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -197,8 +197,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "と言われるよ",
-      "furigana": "といわれるよ",
+      "clause_text": "うに、",
+      "furigana": "に、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -208,8 +208,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "うに、",
-      "furigana": "うに、",
+      "clause_text": "紙の原料は",
+      "furigana": "かみのげんりょうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -219,8 +219,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "紙の原料は主に",
-      "furigana": "かみのげんりょうはおもに",
+      "clause_text": "主に植物で",
+      "furigana": "おもにしょくぶつで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -230,8 +230,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "植物である。",
-      "furigana": "しょくぶつである。",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -241,8 +241,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "植物から繊維質を",
-      "furigana": "しょくぶつからせんいしつを",
+      "clause_text": "植物から繊維質",
+      "furigana": "しょくぶつからせんいしつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -252,8 +252,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "取り出し、",
-      "furigana": "とりだし、",
+      "clause_text": "を取り出し、",
+      "furigana": "をとりだし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -263,8 +263,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "それを絡め合わせて薄い",
-      "furigana": "それをからめあわせてうすい",
+      "clause_text": "それを絡め合わせて薄いシート",
+      "furigana": "それをからめあわせてうすいしーと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -274,8 +274,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "シートにしたものが",
-      "furigana": "しーとにしたものが",
+      "clause_text": "にしたものが紙",
+      "furigana": "にしたものがかみ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -285,8 +285,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "紙である。",
-      "furigana": "かみである。",
+      "clause_text": "である。",
+      "furigana": "である。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -307,6 +307,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.13 14:03:18"
+    "extraction_date_time": "2026.07.15 09:13:44"
   }
 }

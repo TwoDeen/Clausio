@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "私の周りの人に",
-      "furigana": "わたくしのまわりのひとに",
+      "clause_text": "お兄ちゃんがしゃべ",
+      "furigana": "おにいちゃんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "聞いてみると、",
-      "furigana": "きいてみると、",
+      "clause_text": "ったよ！",
+      "furigana": "たよ!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "まず知らない",
-      "furigana": "まずしらない",
+      "clause_text": "－シエラレオネの",
+      "furigana": "-しえられおねの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "という人が",
-      "furigana": "というひとが",
+      "clause_text": "少年アラジ－「シエラレオネ」という国を知って",
+      "furigana": "しょうねんあらじ-きごうしえられおねきごうというくにをしって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -65,8 +65,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "多いです。",
-      "furigana": "おおいです。",
+      "clause_text": "いますか。",
+      "furigana": "いますか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "アフリカ大陸の",
-      "furigana": "あふりかたいりくの",
+      "clause_text": "私の周りの人",
+      "furigana": "わたくしのまわりのひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "西のでっぱりの",
-      "furigana": "にしのでっぱりの",
+      "clause_text": "に聞いてみる",
+      "furigana": "にきいてみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "部分にある、",
-      "furigana": "ぶぶんにある、",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "海に面した小さな",
-      "furigana": "うみにめんしたちいさな",
+      "clause_text": "まず知らないという人",
+      "furigana": "まずしらないというひと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "国です。",
-      "furigana": "くにです。",
+      "clause_text": "が多いです。",
+      "furigana": "がおおいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -131,9 +131,9 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "昔は",
-      "furigana": "むかしは",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "アフリカ大陸の西の",
+      "furigana": "あふりかたいりくのにしの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 12,
@@ -142,9 +142,9 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "奴隷",
-      "furigana": "どれい",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "でっぱり",
+      "furigana": "でっぱり",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 13,
@@ -153,9 +153,9 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "貿易が",
-      "furigana": "ぼうえきが",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "の部分",
+      "furigana": "のぶぶん",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 14,
@@ -164,9 +164,9 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "行わ",
-      "furigana": "おこなわ",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "にある、",
+      "furigana": "にある、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 15,
@@ -175,9 +175,9 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れていました。",
-      "furigana": "れていました。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "海に面した小さな国です。",
+      "furigana": "うみにめんしたちいさなくにです。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 16,
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "また品質の",
-      "furigana": "またひんしつの",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "昔は",
+      "furigana": "むかしは",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "高い",
-      "furigana": "たかい",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "奴隷",
+      "furigana": "どれい",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ダイヤモンドがと",
-      "furigana": "だいやもんどがと",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "貿易が",
+      "furigana": "ぼうえきが",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "れることでも",
-      "furigana": "れることでも",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "行われて",
+      "furigana": "おこなわれて",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "有名です。",
-      "furigana": "ゆうめいです。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "いました。",
+      "furigana": "いました。",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 21,
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "実は、",
-      "furigana": "じつは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "また品質の",
+      "furigana": "またひんしつの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "この国は、",
-      "furigana": "このくには、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "高いダイヤモンド",
+      "furigana": "たかいだいやもんど",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "世界で最も",
-      "furigana": "せかいでもっとも",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "がとれること",
+      "furigana": "がとれること",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "命が短い国として知ら",
-      "furigana": "いのちがみじかいくにとしてしら",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "でも",
+      "furigana": "でも",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "れています。",
-      "furigana": "れています。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "有名です。",
+      "furigana": "ゆうめいです。",
+      "sentence_individual_grammar_level": "N5"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.13 14:04:19"
+    "extraction_date_time": "2026.07.15 09:12:55"
   }
 }

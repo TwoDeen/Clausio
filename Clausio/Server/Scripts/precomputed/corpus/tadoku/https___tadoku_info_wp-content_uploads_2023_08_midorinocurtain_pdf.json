@@ -21,8 +21,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "緑のカーテン",
-      "furigana": "みどりのかーてん",
+      "clause_text": "緑の",
+      "furigana": "みどりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -32,8 +32,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "みなさんは",
-      "furigana": "みなさんは",
+      "clause_text": "カーテンみなさんは",
+      "furigana": "かーてんみなさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -43,8 +43,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「緑のカーテン」を",
-      "furigana": "きごうみどりのかーてんきごうを",
+      "clause_text": "「緑のカーテン」を知ってい",
+      "furigana": "きごうみどりのかーてんきごうをしってい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -54,8 +54,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "知っています",
-      "furigana": "しっています",
+      "clause_text": "ます",
+      "furigana": "ます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -76,8 +76,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "緑のカーテンとは、",
-      "furigana": "みどりのかーてんとは、",
+      "clause_text": "緑のカーテン",
+      "furigana": "みどりのかーてん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -87,8 +87,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "植物で作ら",
-      "furigana": "しょくぶつでつくら",
+      "clause_text": "とは、",
+      "furigana": "とは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -98,8 +98,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "れたカーテン",
-      "furigana": "れたかーてん",
+      "clause_text": "植物",
+      "furigana": "しょくぶつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -109,8 +109,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "つるの",
-      "furigana": "つるの",
+      "clause_text": "で作られたカーテン",
+      "furigana": "でつくられたかーてん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -120,8 +120,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "のことです。",
+      "furigana": "のことです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -131,8 +131,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "よく、",
-      "furigana": "よく、",
+      "clause_text": "代表的",
+      "furigana": "だいひょうてき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -142,8 +142,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "蔓の",
-      "furigana": "つるの",
+      "clause_text": "なものは、",
+      "furigana": "なものは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -153,8 +153,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "植物が",
-      "furigana": "しょくぶつが",
+      "clause_text": "アサ町で見つけたゴーヤの緑のカーテンガオや",
+      "furigana": "あさまちでみつけたごーやのみどりのかーてんがおや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -164,8 +164,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "使わ",
-      "furigana": "つかわ",
+      "clause_text": "ジャスミンなどで、",
+      "furigana": "じゃすみんなどで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -175,8 +175,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れます。",
-      "furigana": "れます。",
+      "clause_text": "キュウリも使われたりします。",
+      "furigana": "きゅうりもつかわれたりします。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -186,9 +186,9 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "代表的なものは、",
-      "furigana": "だいひょうてきなものは、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "緑のカーテンは夏の強い陽射しを遮り、",
+      "furigana": "みどりのかーてんはなつのつよいひざしをさえぎり、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 17,
@@ -197,9 +197,9 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "アサ町で見つけたゴーヤの緑のカーテンガオや",
-      "furigana": "あさまちでみつけたごーやのみどりのかーてんがおや",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "室内の気温を低く保つため",
+      "furigana": "しつないのきおんをひくくたもつため",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 18,
@@ -208,9 +208,9 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ジャスミンなどで、",
-      "furigana": "じゃすみんなどで、",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "のものなの",
+      "furigana": "のものなの",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 19,
@@ -219,9 +219,9 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "キュさえぎウリも使われたり",
-      "furigana": "きゅさえぎうりもつかわれたり",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "で、",
+      "furigana": "で、",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 20,
@@ -230,9 +230,9 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "します。",
-      "furigana": "します。",
-      "sentence_individual_grammar_level": "N4"
+      "clause_text": "たいてい建物の南側や西側に植えらます。",
+      "furigana": "たいていたてもののみなみがわやにしがわにうえらます。",
+      "sentence_individual_grammar_level": "N5"
     },
     {
       "clause_id": 21,
@@ -241,9 +241,9 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "緑のカーテンは夏の強い陽射しを遮り、",
-      "furigana": "みどりのかーてんはなつのつよいひざしをさえぎり、",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "家だけで",
+      "furigana": "いえだけで",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 22,
@@ -252,9 +252,9 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "室内の気温を低く",
-      "furigana": "しつないのきおんをひくく",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "なく、",
+      "furigana": "なく、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 23,
@@ -263,9 +263,9 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "保つためのものなので、たいてい",
-      "furigana": "たもつためのものなので、たいてい",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "学校、",
+      "furigana": "がっこう、",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 24,
@@ -274,9 +274,9 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "建物の南側や西側に植え",
-      "furigana": "たてもののみなみがわやにしがわにうえ",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "図書館や",
+      "furigana": "としょかんや",
+      "sentence_individual_grammar_level": "N4"
     },
     {
       "clause_id": 25,
@@ -285,9 +285,9 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "らます。",
-      "furigana": "らます。",
-      "sentence_individual_grammar_level": "N5"
+      "clause_text": "病院などでもよく見られます。",
+      "furigana": "びょういんなどでもよくみられます。",
+      "sentence_individual_grammar_level": "N4"
     }
   ],
   "corpus_ref": {
@@ -307,6 +307,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.13 14:05:02"
+    "extraction_date_time": "2026.07.15 09:13:15"
   }
 }
