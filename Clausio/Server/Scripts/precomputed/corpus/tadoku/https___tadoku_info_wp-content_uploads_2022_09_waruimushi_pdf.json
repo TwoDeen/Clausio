@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "虫を捕まえ",
-      "furigana": "むしをつかまえ",
+      "clause_text": "虫を",
+      "furigana": "むしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "て、",
-      "furigana": "て、",
+      "clause_text": "捕まえて、",
+      "furigana": "つかまえて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "入れてじっくり",
-      "furigana": "いれてじっくり",
+      "clause_text": "入れて",
+      "furigana": "いれて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "見る。",
-      "furigana": "みる。",
+      "clause_text": "じっくり見る。",
+      "furigana": "じっくりみる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "自然",
-      "furigana": "しぜん",
+      "clause_text": "自然に",
+      "furigana": "しぜんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "にかえす。",
-      "furigana": "にかえす。",
+      "clause_text": "かえす。",
+      "furigana": "かえす。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "虫の本を見る",
-      "furigana": "むしのほんをみる",
+      "clause_text": "虫の本を見るのも",
+      "furigana": "むしのほんをみるのも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "のも好きだし、",
-      "furigana": "のもすきだし、",
+      "clause_text": "好きだし、テレビや",
+      "furigana": "すきだし、てれびや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "テレビやインターネットで虫の動画",
-      "furigana": "てれびやいんたーねっとでむしのどうが",
+      "clause_text": "インターネットで",
+      "furigana": "いんたーねっとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "を見る",
-      "furigana": "をみる",
+      "clause_text": "虫の動画を",
+      "furigana": "むしのどうがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のも好きだ。",
-      "furigana": "のもすきだ。",
+      "clause_text": "見るのも好きだ。",
+      "furigana": "みるのもすきだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いろいろな色や",
-      "furigana": "いろいろないろや",
+      "clause_text": "いろいろな",
+      "furigana": "いろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "柄を",
-      "furigana": "がらを",
+      "clause_text": "色や",
+      "furigana": "いろや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "し",
-      "furigana": "し",
+      "clause_text": "柄を",
+      "furigana": "がらを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ている。",
-      "furigana": "ている。",
+      "clause_text": "している。",
+      "furigana": "している。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それ",
-      "furigana": "それ",
+      "clause_text": "それぞれの",
+      "furigana": "それぞれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぞれの色や",
-      "furigana": "のいろや",
+      "clause_text": "色や",
+      "furigana": "いろや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:36:06"
+    "extraction_date_time": "2026.07.16 09:45:59"
   }
 }

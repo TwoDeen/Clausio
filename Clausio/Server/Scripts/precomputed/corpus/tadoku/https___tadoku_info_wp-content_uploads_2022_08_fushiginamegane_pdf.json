@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "－子供の視点に",
-      "furigana": "-こどものしてんに",
+      "clause_text": "－子供の",
+      "furigana": "-こどもの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついて思うこと－これ",
-      "furigana": "ついておもうこと-これ",
+      "clause_text": "視点について",
+      "furigana": "してんについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "はもう10年",
-      "furigana": "はもういちれいねん",
+      "clause_text": "思うこと－これは",
+      "furigana": "おもうこと-これは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "くらい前の",
-      "furigana": "くらいまえの",
+      "clause_text": "もう10年くらい",
+      "furigana": "もういちれいねんくらい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "話だ。",
-      "furigana": "はなしだ。",
+      "clause_text": "前の話だ。",
+      "furigana": "まえのはなしだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "電話で話していた",
-      "furigana": "でんわではなしていた",
+      "clause_text": "電話で",
+      "furigana": "でんわで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ときの",
-      "furigana": "ときの",
+      "clause_text": "話していた",
+      "furigana": "はなしていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことで",
-      "furigana": "ことで",
+      "clause_text": "ときの",
+      "furigana": "ときの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある。",
-      "furigana": "ある。",
+      "clause_text": "ことである。",
+      "furigana": "ことである。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その友人は何年も前に結婚していて、",
-      "furigana": "そのゆうじんはなんねんもまえにけっこんしていて、",
+      "clause_text": "その友人は何年も",
+      "furigana": "そのゆうじんはなんねんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ちょうどその",
-      "furigana": "ちょうどその",
+      "clause_text": "前に結婚していて、",
+      "furigana": "まえにけっこんしていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ころ、",
-      "furigana": "ころ、",
+      "clause_text": "ちょうどそのころ、",
+      "furigana": "ちょうどそのころ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "６歳の娘さんと４歳の息子さん",
-      "furigana": "ろくさいのむすめさんとよんさいのむすこさん",
+      "clause_text": "６歳の娘さんと４歳の",
+      "furigana": "ろくさいのむすめさんとよんさいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を育てていた。",
-      "furigana": "をそだてていた。",
+      "clause_text": "息子さんを育てていた。",
+      "furigana": "むすこさんをそだてていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「",
-      "furigana": "きごう",
+      "clause_text": "「二人も",
+      "furigana": "きごうふたりも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "二人も",
-      "furigana": "ふたりも",
+      "clause_text": "いると、",
+      "furigana": "いると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いると、",
-      "furigana": "いると、",
+      "clause_text": "子育てが",
+      "furigana": "こそだてが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "子育てが",
-      "furigana": "こそだてが",
+      "clause_text": "大変だ",
+      "furigana": "たいへんだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "大変だね。",
-      "furigana": "たいへんだね。",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」そんな私の言葉",
-      "furigana": "きごうそんなわたくしのことば",
+      "clause_text": "」そんな私の",
+      "furigana": "きごうそんなわたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "言葉に、",
+      "furigana": "ことばに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:43:02"
+    "extraction_date_time": "2026.07.16 09:49:35"
   }
 }

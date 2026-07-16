@@ -48,7 +48,7 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "マンホールのふ",
+      "clause_text": "マンホールの",
       "furigana": "まんほーるの",
       "sentence_individual_grammar_level": "N5"
     },
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "た－進化する役割－どの国にも",
-      "furigana": "-しんかするやくわり-どのくににも",
+      "clause_text": "ふた－進化する",
+      "furigana": "ふた-しんかする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "独自の",
-      "furigana": "どくじの",
+      "clause_text": "役割－どの国にも",
+      "furigana": "やくわり-どのくににも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "芸術文化が",
-      "furigana": "げいじゅつぶんかが",
+      "clause_text": "独自の芸術文化が",
+      "furigana": "どくじのげいじゅつぶんかが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本の芸術文化といえば、",
-      "furigana": "にっぽんのげいじゅつぶんかといえば、",
+      "clause_text": "日本の芸術文化と",
+      "furigana": "にっぽんのげいじゅつぶんかと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "映画、",
-      "furigana": "えいが、",
+      "clause_text": "いえば、映画、漫画、",
+      "furigana": "いえば、えいが、まんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "漫画、アニメ、舞踊、歌舞伎、陶器、着物、",
-      "furigana": "まんが、あにめ、ぶよう、かぶき、とうき、きもの、",
+      "clause_text": "アニメ、舞踊、歌舞伎、",
+      "furigana": "あにめ、ぶよう、かぶき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "絵画など、",
-      "furigana": "かいがなど、",
+      "clause_text": "陶器、着物、絵画など、",
+      "furigana": "とうき、きもの、かいがなど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "マンホールの中には",
-      "furigana": "まんほーるのなかには",
+      "clause_text": "マンホールの",
+      "furigana": "まんほーるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、トイレやお風呂",
-      "furigana": "、といれやおふろ",
+      "clause_text": "中には、トイレや",
+      "furigana": "なかには、といれや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、台所で使った水、",
-      "furigana": "、だいどころでつかったみず、",
+      "clause_text": "お風呂、台所で",
+      "furigana": "おふろ、だいどころで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "雨水",
-      "furigana": "あまみず",
+      "clause_text": "使った水、雨水などの",
+      "furigana": "つかったみず、あまみずなどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "などの下水が流れています。",
-      "furigana": "などのげすいがながれています。",
+      "clause_text": "下水が流れています。",
+      "furigana": "げすいがながれています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほとんど",
-      "furigana": "ほとんど",
+      "clause_text": "ほとんどの",
+      "furigana": "ほとんどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "のマンホール",
-      "furigana": "のまんほーる",
+      "clause_text": "マンホールの",
+      "furigana": "まんほーるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "のふたは丸い形を",
-      "furigana": "のふたはまるいかたちを",
+      "clause_text": "ふたは丸い形を",
+      "furigana": "ふたはまるいかたちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "なぜ",
-      "furigana": "なぜ",
+      "clause_text": "なぜ丸い形なのでしょうか？もし",
+      "furigana": "なぜまるいかたちなのでしょうか?もし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "丸い形なのでしょう",
-      "furigana": "まるいかたちなのでしょう",
+      "clause_text": "マンホールのふたが四角い形でふたが",
+      "furigana": "まんほーるのふたがしかくいかたちでふたが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "か？もしマンホールのふたが四角い形でふたが外れてしまった場合、",
-      "furigana": "か?もしまんほーるのふたがしかくいかたちでふたがはずれてしまったばあい、",
+      "clause_text": "外れてしまった場合、1つの辺の長さは",
+      "furigana": "はずれてしまったばあい、ひとつのへんのながさは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "1つの辺の長さはその対角線よりも短いので、",
-      "furigana": "ひとつのへんのながさはそのたいかくせんよりもみじかいので、",
+      "clause_text": "その対角線よりも短いので、ふたが",
+      "furigana": "そのたいかくせんよりもみじかいので、ふたが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ふたがマンホールの中に落ちてしまいます。",
-      "furigana": "ふたがまんほーるのなかにおちてしまいます。",
+      "clause_text": "マンホールの中に落ちてしまいます。",
+      "furigana": "まんほーるのなかにおちてしまいます。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:31:32"
+    "extraction_date_time": "2026.07.16 09:49:30"
   }
 }

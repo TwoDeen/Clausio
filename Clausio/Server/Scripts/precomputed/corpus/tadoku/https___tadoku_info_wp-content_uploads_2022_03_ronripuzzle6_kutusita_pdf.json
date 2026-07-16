@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】まっ暗な部屋の箱の中",
-      "furigana": "きごうもんだいきごうまっくらなへやのばこのなか",
+      "clause_text": "【問題】まっ暗な部屋の",
+      "furigana": "きごうもんだいきごうまっくらなへやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "箱の中に、６枚の",
+      "furigana": "ばこのなかに、ろくまいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "６枚の赤い靴下",
-      "furigana": "ろくまいのあかいくつした",
+      "clause_text": "赤い靴下と",
+      "furigana": "あかいくつしたと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "と６枚の青い靴下",
-      "furigana": "とろくまいのあおいくつした",
+      "clause_text": "６枚の青い靴下が",
+      "furigana": "ろくまいのあおいくつしたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が入っています。",
-      "furigana": "がはいっています。",
+      "clause_text": "入っています。",
+      "furigana": "はいっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,7 +103,7 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "12枚の靴",
+      "clause_text": "12枚の",
       "furigana": "いちにまいの",
       "sentence_individual_grammar_level": "N4"
     },
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "下は、",
-      "furigana": "は、",
+      "clause_text": "靴下は、赤と",
+      "furigana": "くつしたは、あかと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "赤と青には全然",
-      "furigana": "あかとあおにはぜんぜん",
+      "clause_text": "青には",
+      "furigana": "あおには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "分けられて",
-      "furigana": "わけられて",
+      "clause_text": "全然",
+      "furigana": "ぜんぜん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "いません。",
-      "furigana": "いません。",
+      "clause_text": "分けられていません。",
+      "furigana": "わけられていません。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あなたはパーティーに出かけるの",
-      "furigana": "あなたはぱーてぃーにでかけるの",
+      "clause_text": "あなたはパーティーに",
+      "furigana": "あなたはぱーてぃーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "出かけるので、その中から",
+      "furigana": "でかけるので、そのなかから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "その中から同じ色",
-      "furigana": "そのなかからおなじいろ",
+      "clause_text": "同じ色の靴下を",
+      "furigana": "おなじいろのくつしたを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "の靴下を２枚",
-      "furigana": "のくつしたをにまい",
+      "clause_text": "２枚とり出さなければ",
+      "furigana": "にまいとりださなければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "とり出さなければなりません。",
-      "furigana": "とりださなければなりません。",
+      "clause_text": "なりません。",
+      "furigana": "なりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのためには、",
+      "furigana": "そのためには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ためには、",
-      "furigana": "ためには、",
+      "clause_text": "最低何枚の靴下を",
+      "furigana": "さいていなんまいのくつしたを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "最低何枚の靴下を取り出せばいいでしょうか？",
-      "furigana": "さいていなんまいのくつしたをとりだせばいいでしょうか?",
+      "clause_text": "取り出せばいいでしょうか？（解答は",
+      "furigana": "とりだせばいいでしょうか?きごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "（解答は次のページ）【解答】正解は、",
-      "furigana": "きごうかいとうはつぎのぺーじきごうきごうかいとうきごうせいかいは、",
+      "clause_text": "次のページ）【解答】",
+      "furigana": "つぎのぺーじきごうきごうかいとうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "３枚です。",
-      "furigana": "さんまいです。",
+      "clause_text": "正解は、３枚です。",
+      "furigana": "せいかいは、さんまいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "答えた人が",
-      "furigana": "こたえたひとが",
+      "clause_text": "答えた",
+      "furigana": "こたえた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いる",
-      "furigana": "いる",
+      "clause_text": "人が",
+      "furigana": "ひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "かもしれませ",
-      "furigana": "かもしれませ",
+      "clause_text": "いるかも",
+      "furigana": "いるかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "しれません。",
+      "furigana": "しれません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:22:21"
+    "extraction_date_time": "2026.07.16 09:40:26"
   }
 }

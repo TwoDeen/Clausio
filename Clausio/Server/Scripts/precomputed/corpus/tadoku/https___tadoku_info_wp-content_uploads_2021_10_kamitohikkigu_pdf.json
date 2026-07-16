@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "鉛筆や",
-      "furigana": "えんぴつや",
+      "clause_text": "鉛筆やペンで",
+      "furigana": "えんぴつやぺんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ペンで",
-      "furigana": "ぺんで",
+      "clause_text": "紙に字を",
+      "furigana": "かみにじを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "紙に字を書いたことが",
-      "furigana": "かみにじをかいたことが",
+      "clause_text": "書いたことが",
+      "furigana": "かいたことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "では、どうして鉛筆や",
+      "furigana": "では、どうしてえんぴつや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どうして鉛筆や",
-      "furigana": "どうしてえんぴつや",
+      "clause_text": "ペンで紙に",
+      "furigana": "ぺんでかみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ペンで紙に字が書けるか、",
-      "furigana": "ぺんでかみにじがかけるか、",
+      "clause_text": "字が書けるか、",
+      "furigana": "じがかけるか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "考えたことはあるだ",
-      "furigana": "かんがえたことはある",
+      "clause_text": "考えたことは",
+      "furigana": "かんがえたことは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ろうか。",
-      "furigana": "か。",
+      "clause_text": "あるだろうか。",
+      "furigana": "あるだろうか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それを知るには、",
-      "furigana": "それをしるには、",
+      "clause_text": "それを",
+      "furigana": "それを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "まず紙が何",
-      "furigana": "まずかみがなん",
+      "clause_text": "知るには、",
+      "furigana": "しるには、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "から作られている",
-      "furigana": "からつくられている",
+      "clause_text": "まず紙が何から",
+      "furigana": "まずかみがなんから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "かを知る必要",
-      "furigana": "かをしるひつよう",
+      "clause_text": "作られているかを",
+      "furigana": "つくられているかを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "がある。",
-      "furigana": "がある。",
+      "clause_text": "知る必要がある。",
+      "furigana": "しるひつようがある。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「紙を無駄使いすると、森がなくなる」と言われるよ",
-      "furigana": "きごうかみをむだづかいすると、もりがなくなるきごうといわれる",
+      "clause_text": "「紙を無駄使いすると、",
+      "furigana": "きごうかみをむだづかいすると、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "うに、",
-      "furigana": "に、",
+      "clause_text": "森がなくなる」と",
+      "furigana": "もりがなくなるきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "紙の原料は",
-      "furigana": "かみのげんりょうは",
+      "clause_text": "言われるように、",
+      "furigana": "いわれるように、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "主に植物で",
-      "furigana": "おもにしょくぶつで",
+      "clause_text": "紙の原料は",
+      "furigana": "かみのげんりょうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある。",
-      "furigana": "ある。",
+      "clause_text": "主に植物である。",
+      "furigana": "おもにしょくぶつである。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "植物から繊維質",
-      "furigana": "しょくぶつからせんいしつ",
+      "clause_text": "植物から繊維質を",
+      "furigana": "しょくぶつからせんいしつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "を取り出し、",
-      "furigana": "をとりだし、",
+      "clause_text": "取り出し、それを",
+      "furigana": "とりだし、それを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "それを絡め合わせて薄いシート",
-      "furigana": "それをからめあわせてうすいしーと",
+      "clause_text": "絡め合わせて",
+      "furigana": "からめあわせて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "にしたものが紙",
-      "furigana": "にしたものがかみ",
+      "clause_text": "薄いシートに",
+      "furigana": "うすいしーとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "である。",
-      "furigana": "である。",
+      "clause_text": "したものが紙である。",
+      "furigana": "したものがかみである。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 13:39:36"
+    "extraction_date_time": "2026.07.16 09:39:53"
   }
 }

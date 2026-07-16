@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "乗った",
-      "furigana": "のった",
+      "clause_text": "乗った人にしか",
+      "furigana": "のったひとにしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "人に",
-      "furigana": "ひとに",
+      "clause_text": "わからない",
+      "furigana": "わからない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "しかわからない魅力",
-      "furigana": "しかわからないみりょく",
+      "clause_text": "魅力が",
+      "furigana": "みりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がある。",
-      "furigana": "がある。",
+      "clause_text": "ある。",
+      "furigana": "ある。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "それは、",
-      "furigana": "それは、",
+      "clause_text": "それは、全身で風を受けること、",
+      "furigana": "それは、ぜんしんでかぜをうけること、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "全身で風を受けること、",
-      "furigana": "ぜんしんでかぜをうけること、",
+      "clause_text": "スピードを肌で感じること、",
+      "furigana": "すぴーどをはだでかんじること、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "スピードを肌で感じること、",
-      "furigana": "すぴーどをはだでかんじること、",
+      "clause_text": "遠くまで行けること、一人に",
+      "furigana": "とおくまでいけること、ひとりに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "遠くまで行けること、一人になっていろいろなことが考えられること、不便なこと、",
-      "furigana": "とおくまでいけること、ひとりになっていろいろなことがかんがえられること、ふべんなこと、",
+      "clause_text": "なっていろいろなことが考えられる",
+      "furigana": "なっていろいろなことがかんがえられる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "危ないことだ。",
-      "furigana": "あぶないことだ。",
+      "clause_text": "こと、不便なこと、危ないことだ。",
+      "furigana": "こと、ふべんなこと、あぶないことだ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バイクは、",
-      "furigana": "ばいくは、",
+      "clause_text": "バイクは、車と違って、",
+      "furigana": "ばいくは、くるまとちがって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "車と違って、",
-      "furigana": "くるまとちがって、",
+      "clause_text": "ドアや窓といった囲いが",
+      "furigana": "どあやまどといったかこいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ドアや窓といった囲いがないから風やスピードを全身",
-      "furigana": "どあやまどといったかこいがないからかぜやすぴーどをぜんしん",
+      "clause_text": "ないから風や",
+      "furigana": "ないからかぜや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "でダイレクト",
-      "furigana": "でだいれくと",
+      "clause_text": "スピードを全身で",
+      "furigana": "すぴーどをぜんしんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "に感じる。",
-      "furigana": "にかんじる。",
+      "clause_text": "ダイレクトに感じる。",
+      "furigana": "だいれくとにかんじる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "わから",
-      "furigana": "わから",
+      "clause_text": "わからない",
+      "furigana": "わからない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ない快感だ。",
-      "furigana": "ないかいかんだ。",
+      "clause_text": "快感だ。",
+      "furigana": "かいかんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "また、",
-      "furigana": "また、",
+      "clause_text": "また、バイクはメカメカしい",
+      "furigana": "また、ばいくはめかめかしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "バイクはメカメカしいものだから、",
-      "furigana": "ばいくはめかめかしいものだから、",
+      "clause_text": "ものだから、それに",
+      "furigana": "ものだから、それに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "それに乗っている自分はマンガや映画",
-      "furigana": "それにのっているじぶんはまんがやえいが",
+      "clause_text": "乗っている自分は",
+      "furigana": "のっているじぶんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "の登場人物",
-      "furigana": "のとうじょうじんぶつ",
+      "clause_text": "マンガや映画の登場人物に",
+      "furigana": "まんがやえいがのとうじょうじんぶつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "になったような気分になる。",
-      "furigana": "になったようなきぶんになる。",
+      "clause_text": "なったような気分になる。",
+      "furigana": "なったようなきぶんになる。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 13:33:05"
+    "extraction_date_time": "2026.07.16 09:50:17"
   }
 }

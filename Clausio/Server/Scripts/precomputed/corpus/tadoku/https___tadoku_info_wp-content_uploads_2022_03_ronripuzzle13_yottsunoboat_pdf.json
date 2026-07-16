@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "４つのボート【問題】あなた",
-      "furigana": "よんつのぼーときごうもんだいきごうあなた",
+      "clause_text": "４つのボート【問題】",
+      "furigana": "よんつのぼーときごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "あなたは、４つの",
+      "furigana": "あなたは、よんつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "４つのボートを川",
-      "furigana": "よんつのぼーとをかわ",
+      "clause_text": "ボートを川の向こうの",
+      "furigana": "ぼーとをかわのむこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の向こうの岸",
-      "furigana": "のむこうのきし",
+      "clause_text": "岸に渡さなくては",
+      "furigana": "きしにわたさなくては",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に渡さなくてはなりません。",
-      "furigana": "にわたさなくてはなりません。",
+      "clause_text": "なりません。",
+      "furigana": "なりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ボートは川を渡るの",
-      "furigana": "ぼーとはかわをわたるの",
+      "clause_text": "ボートは川を",
+      "furigana": "ぼーとはかわを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、それぞれ１分",
-      "furigana": "に、それぞれいちふん",
+      "clause_text": "渡るのに、",
+      "furigana": "わたるのに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、２分、",
-      "furigana": "、にふん、",
+      "clause_text": "それぞれ１分、",
+      "furigana": "それぞれいちふん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "４分、",
-      "furigana": "よんふん、",
+      "clause_text": "２分、４分、",
+      "furigana": "にふん、よんふん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "４つのボートを川の向こうの岸に全部渡すのに",
-      "furigana": "よんつのぼーとをかわのむこうのきしにぜんぶわたすのに",
+      "clause_text": "４つのボートを川の向こうの岸に",
+      "furigana": "よんつのぼーとをかわのむこうのきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、一番短い時間で何分かかるでしょうか？ボートを渡すとき",
-      "furigana": "、いちばんみじかいじかんでなにぶんかかるでしょうか?ぼーとをわたすとき",
+      "clause_text": "全部渡すのに、一番短い時間で",
+      "furigana": "ぜんぶわたすのに、いちばんみじかいじかんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "何分かかるでしょうか？ボートを",
+      "furigana": "なにぶんかかるでしょうか?ぼーとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "２つ",
-      "furigana": "ふつつ",
+      "clause_text": "渡すときは、２つのボートしか",
+      "furigana": "わたすときは、ふつつのぼーとしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のボートしかいっしょに行けません。",
-      "furigana": "のぼーとしかいっしょにいけません。",
+      "clause_text": "いっしょに行けません。",
+      "furigana": "いっしょにいけません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "３つ以上",
-      "furigana": "みっついじょう",
+      "clause_text": "３つ以上の",
+      "furigana": "みっついじょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "のボート",
-      "furigana": "のぼーと",
+      "clause_text": "ボートを",
+      "furigana": "ぼーとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "をいっしょに",
-      "furigana": "をいっしょに",
+      "clause_text": "いっしょに",
+      "furigana": "いっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "２つのボートで川を渡るとき",
-      "furigana": "ふつつのぼーとでかわをわたるとき",
+      "clause_text": "２つのボートで",
+      "furigana": "ふつつのぼーとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "川を渡るときは、",
+      "furigana": "かわをわたるときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "遅い方のボート",
-      "furigana": "おそいほうのぼーと",
+      "clause_text": "遅い方のボートが",
+      "furigana": "おそいほうのぼーとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が渡る時の時間",
-      "furigana": "がわたるときのじかん",
+      "clause_text": "渡る時の時間が",
+      "furigana": "わたるときのじかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "がかかります。",
-      "furigana": "がかかります。",
+      "clause_text": "かかります。",
+      "furigana": "かかります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:27:14"
+    "extraction_date_time": "2026.07.16 09:47:12"
   }
 }

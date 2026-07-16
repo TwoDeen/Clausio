@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "昔、",
-      "furigana": "むかし、",
+      "clause_text": "昔、海の",
+      "furigana": "むかし、うみの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "海の近くの町に、",
-      "furigana": "うみのちかくのまちに、",
+      "clause_text": "近くの町に、",
+      "furigana": "ちかくのまちに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "トキオという名前",
-      "furigana": "ときおというなまえ",
+      "clause_text": "トキオという名前の",
+      "furigana": "ときおというなまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の時計屋",
-      "furigana": "のとけいや",
+      "clause_text": "時計屋が",
+      "furigana": "とけいやが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がいました。",
-      "furigana": "がいました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "時計を売ったり買った",
-      "furigana": "とけいをうったりかっ",
+      "clause_text": "時計を売ったり",
+      "furigana": "とけいをうったり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "り、",
-      "furigana": "、",
+      "clause_text": "買ったり、修理したり",
+      "furigana": "かったり、しゅうりしたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "修理したりするので、",
-      "furigana": "しゅうりしたりするので、",
+      "clause_text": "するので、店には",
+      "furigana": "するので、みせには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "店にはいつもいろいろ",
-      "furigana": "みせにはいつもいろいろ",
+      "clause_text": "いつもいろいろな時計が",
+      "furigana": "いつもいろいろなとけいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "な時計がありました。",
-      "furigana": "なとけいがありました。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "時計の音",
-      "furigana": "とけいのおと",
+      "clause_text": "時計の",
+      "furigana": "とけいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "を聞いている",
-      "furigana": "をきいている",
+      "clause_text": "音を",
+      "furigana": "おとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "聞いていると、",
+      "furigana": "きいていると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "トキオ",
-      "furigana": "ときお",
+      "clause_text": "トキオには",
+      "furigana": "ときおには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "には",
-      "furigana": "には",
+      "clause_text": "気に",
+      "furigana": "きに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "気になること",
-      "furigana": "きになること",
+      "clause_text": "なることが",
+      "furigana": "なることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "がありました。",
-      "furigana": "がありました。",
+      "clause_text": "ありました。",
+      "furigana": "ありました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「時間は、どこに行くのだろう」",
-      "furigana": "きごうじかんは、どこにいくのだろうきごう",
+      "clause_text": "「時間は、どこに",
+      "furigana": "きごうじかんは、どこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "過ぎた時間は、も",
-      "furigana": "すぎたじかんは、",
+      "clause_text": "行くのだろう」",
+      "furigana": "いくのだろうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "う戻ってき",
-      "furigana": "もどってき",
+      "clause_text": "過ぎた時間は、",
+      "furigana": "すぎたじかんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ませ",
-      "furigana": "ませ",
+      "clause_text": "もう戻って",
+      "furigana": "もうもどって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "きません。",
+      "furigana": "きません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:44:29"
+    "extraction_date_time": "2026.07.16 09:45:19"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つき（２）【問題】ある島",
-      "furigana": "うそつききごうにきごうきごうもんだいきごうあるしま",
+      "clause_text": "嘘つき（２）【問題】",
+      "furigana": "うそつききごうにきごうきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "には",
-      "furigana": "には",
+      "clause_text": "ある島には正直者か",
+      "furigana": "あるしまにはしょうじきものか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "正直者か嘘つきのどちらかしか住んで",
-      "furigana": "しょうじきものかうそつきのどちらかしかすんで",
+      "clause_text": "嘘つきのどちらかしか",
+      "furigana": "うそつきのどちらかしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いません。",
-      "furigana": "いません。",
+      "clause_text": "住んでいません。",
+      "furigana": "すんでいません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "正直者",
-      "furigana": "しょうじきもの",
+      "clause_text": "正直者は",
+      "furigana": "しょうじきものは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "はいつも",
-      "furigana": "はいつも",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,7 +158,7 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あなたが船でその島を訪ね",
+      "clause_text": "あなたが船でその島を",
       "furigana": "あなたがふねでそのしまを",
       "sentence_individual_grammar_level": "N5"
     },
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ると、",
-      "furigana": "と、",
+      "clause_text": "訪ねると、A、",
+      "furigana": "たずねると、あーる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "A、",
-      "furigana": "あーる、",
+      "clause_text": "B、Cという３人の",
+      "furigana": "b、cというさんにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "B、",
-      "furigana": "b、",
+      "clause_text": "住民がいっしょに港で",
+      "furigana": "じゅうみんがいっしょにみなとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "Cという３人の住民がいっしょに港で迎えてくれました。",
-      "furigana": "cというさんにんのじゅうみんがいっしょにみなとでむかえてくれました。",
+      "clause_text": "迎えてくれました。",
+      "furigana": "むかえてくれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その中のA",
-      "furigana": "そのなかのあーる",
+      "clause_text": "その中の",
+      "furigana": "そのなかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "とBは、",
-      "furigana": "とbは、",
+      "clause_text": "Aと",
+      "furigana": "あーると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "次の",
-      "furigana": "つぎの",
+      "clause_text": "Bは、次の",
+      "furigana": "bは、つぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "よう",
-      "furigana": "よう",
+      "clause_text": "ように",
+      "furigana": "ように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "に言いました。",
-      "furigana": "にいいました。",
+      "clause_text": "言いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "A「私たちは３人とも嘘つきです」B「私たち３人のうち、１人だけが嘘つきです」さて、",
-      "furigana": "あーるきごうわたしたちはさんにんともうそつきですきごうbきごうわたしたちさんにんのうち、ひとりだけがうそつきですきごうさて、",
+      "clause_text": "A「私たちは３人とも嘘つきです」",
+      "furigana": "あーるきごうわたしたちはさんにんともうそつきですきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "Cは正直",
-      "furigana": "cはしょうじき",
+      "clause_text": "B「私たち３人のうち、１人だけが",
+      "furigana": "bきごうわたしたちさんにんのうち、ひとりだけが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "者と嘘つきのどちらでしょうか？",
-      "furigana": "ものとうそつきのどちらでしょうか?",
+      "clause_text": "嘘つきです」さて、Cは正直者と",
+      "furigana": "うそつきですきごうさて、cはしょうじきものと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "（解答は次のページ）【解答】Cは",
-      "furigana": "きごうかいとうはつぎのぺーじきごうきごうかいとうきごうcは",
+      "clause_text": "嘘つきのどちらでしょうか？（解答は",
+      "furigana": "うそつきのどちらでしょうか?きごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "正直者です。",
-      "furigana": "しょうじきものです。",
+      "clause_text": "次のページ）【解答】Cは正直者です。",
+      "furigana": "つぎのぺーじきごうきごうかいとうきごうcはしょうじきものです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:25:37"
+    "extraction_date_time": "2026.07.16 09:43:58"
   }
 }

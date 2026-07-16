@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "森の木を切らないでー地球温暖化をストップしてくれるんだ",
-      "furigana": "もりのきをきらないでーちきゅうおんだんかをすとっぷしてくれるんだ",
+      "clause_text": "森の木を切らないでー地球温暖化を",
+      "furigana": "もりのきをきらないでーちきゅうおんだんかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "よ！",
-      "furigana": "よ!",
+      "clause_text": "ストップしてくれるんだよ！「地球全体の",
+      "furigana": "すとっぷしてくれるんだよ!きごうちきゅうぜんたいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「地球全体の平均気温があがっている」という気になるニュース",
-      "furigana": "きごうちきゅうぜんたいのへいきんきおんがあがっているきごうというきになるにゅーす",
+      "clause_text": "平均気温があがっている」という気に",
+      "furigana": "へいきんきおんがあがっているきごうというきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "を、",
-      "furigana": "を、",
+      "clause_text": "なるニュースを、皆さんも",
+      "furigana": "なるにゅーすを、みなさんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "皆さんも聞いたことがあると思います。",
-      "furigana": "みなさんもきいたことがあるとおもいます。",
+      "clause_text": "聞いたことがあると思います。",
+      "furigana": "きいたことがあるとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "地球",
-      "furigana": "ちきゅう",
+      "clause_text": "地球は",
+      "furigana": "ちきゅうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は２０世紀後半",
-      "furigana": "はにれいせいきこうはん",
+      "clause_text": "２０世紀後半に",
+      "furigana": "にれいせいきこうはんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "になって",
-      "furigana": "になって",
+      "clause_text": "なってから",
+      "furigana": "なってから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "から少しずつ気温が",
-      "furigana": "からすこしずつきおんが",
+      "clause_text": "少しずつ気温が",
+      "furigana": "すこしずつきおんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "こ",
-      "furigana": "こ",
+      "clause_text": "これを「地球",
+      "furigana": "これをきごうちきゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "れを",
-      "furigana": "を",
+      "clause_text": "温暖化",
+      "furigana": "おんだんか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「地球温暖化現象」と",
-      "furigana": "きごうちきゅうおんだんかげんしょうきごうと",
+      "clause_text": "現象」",
+      "furigana": "げんしょうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "言",
-      "furigana": "げん",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "います。",
-      "furigana": "ます。",
+      "clause_text": "言います。",
+      "furigana": "いいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "氷河の氷が溶けたり海面が上昇したり、",
-      "furigana": "ひょうがのこおりがとけたりかいめんがじょうしょうしたり、",
+      "clause_text": "氷河の氷が溶けたり",
+      "furigana": "ひょうがのこおりがとけたり",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "熱波",
-      "furigana": "ねっぱ",
+      "clause_text": "海面が上昇したり、",
+      "furigana": "かいめんがじょうしょうしたり、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "などの異常気象",
-      "furigana": "などのいじょうきしょう",
+      "clause_text": "熱波などの異常気象が",
+      "furigana": "ねっぱなどのいじょうきしょうが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "が起きたりしています。",
-      "furigana": "がおきたりしています。",
+      "clause_text": "起きたりしています。",
+      "furigana": "おきたりしています。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ではなぜ、「地球温暖化現象」は起きるの",
-      "furigana": "ではなぜ、きごうちきゅうおんだんかげんしょうきごうはおきるの",
+      "clause_text": "ではなぜ、「地球温暖化現象」は起きるのでしょう？",
+      "furigana": "ではなぜ、きごうちきゅうおんだんかげんしょうきごうはおきるのでしょう?",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "でしょう？それは「石油」や「石炭」",
-      "furigana": "でしょう?それはきごうせきゆきごうやきごうせきたんきごう",
+      "clause_text": "それは「石油」や「石炭」などの「化石燃料」と",
+      "furigana": "それはきごうせきゆきごうやきごうせきたんきごうなどのきごうかせきねんりょうきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "などの「化石燃料」と言われるものを使うこと",
-      "furigana": "などのきごうかせきねんりょうきごうといわれるものをつかうこと",
+      "clause_text": "言われるものを使うことで、",
+      "furigana": "いわれるものをつかうことで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、空気中に「二酸化炭素」（CO2）が増えて行くからな",
-      "furigana": "で、くうきちゅうにきごうにさんかたんそきごうきごうしーおーつーきごうがふえていくからな",
+      "clause_text": "空気中に「二酸化炭素」（CO2）が",
+      "furigana": "くうきちゅうにきごうにさんかたんそきごうきごうしーおーつーきごうが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "増えて行くからなのです。",
+      "furigana": "ふえていくからなのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 13:35:23"
+    "extraction_date_time": "2026.07.16 09:49:23"
   }
 }

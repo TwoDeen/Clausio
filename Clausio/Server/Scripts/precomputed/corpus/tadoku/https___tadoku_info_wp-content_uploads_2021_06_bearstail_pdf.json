@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「熊のしっぽ」（フィンランド",
-      "furigana": "きごうくまのしっぽきごうきごうふぃんらんど",
+      "clause_text": "「熊の",
+      "furigana": "きごうくまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の昔話）むかしむかし、",
-      "furigana": "のむかしばなしきごうむかしむかし、",
+      "clause_text": "しっぽ」（フィンランドの",
+      "furigana": "しっぽきごうきごうふぃんらんどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるところ",
-      "furigana": "あるところ",
+      "clause_text": "昔話）むかしむかし、",
+      "furigana": "むかしばなしきごうむかしむかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に一匹の狐が",
-      "furigana": "にいちひきのきつねが",
+      "clause_text": "あるところに一匹の",
+      "furigana": "あるところにいちひきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いました。",
-      "furigana": "いました。",
+      "clause_text": "狐がいました。",
+      "furigana": "きつねがいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "狐はたくさん",
-      "furigana": "きつねはたくさん",
+      "clause_text": "狐は",
+      "furigana": "きつねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の魚",
-      "furigana": "のさかな",
+      "clause_text": "たくさんの魚を",
+      "furigana": "たくさんのさかなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "を持っていて、",
-      "furigana": "をもっていて、",
+      "clause_text": "持っていて、",
+      "furigana": "もっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "おいしそうに",
-      "furigana": "おいしそうに",
+      "clause_text": "おいしそうに魚を",
+      "furigana": "おいしそうにさかなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "魚を食べています。",
-      "furigana": "さかなをたべています。",
+      "clause_text": "食べています。",
+      "furigana": "たべています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「そんなにたくさんの魚をどこでとったの？」と、",
-      "furigana": "きごうそんなにたくさんのさかなをどこでとったの?きごうと、",
+      "clause_text": "「そんなに",
+      "furigana": "きごうそんなに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "熊が",
-      "furigana": "くまが",
+      "clause_text": "たくさんの",
+      "furigana": "たくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "言い",
-      "furigana": "いい",
+      "clause_text": "魚をどこで",
+      "furigana": "さかなをどこで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "とったの？」と、",
+      "furigana": "とったの?きごうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "熊が言いました。",
+      "furigana": "くまがいいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「湖で釣ったんだよ」と、",
-      "furigana": "きごうみずうみでつったんだよきごうと、",
+      "clause_text": "「湖で",
+      "furigana": "きごうみずうみで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "狐が",
-      "furigana": "きつねが",
+      "clause_text": "釣ったんだ",
+      "furigana": "つったんだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "答え",
-      "furigana": "こたえ",
+      "clause_text": "よ」と、",
+      "furigana": "よきごうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "狐が",
+      "furigana": "きつねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "答えました。",
+      "furigana": "こたえました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「どうやって釣ったんだい？」と、",
-      "furigana": "きごうどうやってつったんだい?きごうと、",
+      "clause_text": "「どうやって",
+      "furigana": "きごうどうやって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ま",
-      "furigana": "ま",
+      "clause_text": "釣ったんだい？」と、",
+      "furigana": "つったんだい?きごうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "た、",
-      "furigana": "、",
+      "clause_text": "また、",
+      "furigana": "また、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:34:43"
+    "extraction_date_time": "2026.07.16 09:38:44"
   }
 }

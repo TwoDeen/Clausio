@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "マクドナルド",
-      "furigana": "まくどなるど",
+      "clause_text": "マクドナルドは",
+      "furigana": "まくどなるどは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は100以上の国",
-      "furigana": "はいちれいれいいじょうのくに",
+      "clause_text": "100以上の国と",
+      "furigana": "いちれいれいいじょうのくにと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "と地域にあり、",
-      "furigana": "とちいきにあり、",
+      "clause_text": "地域にあり、世界で",
+      "furigana": "ちいきにあり、せかいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "世界で有名なチェーンストア",
-      "furigana": "せかいでゆうめいなちぇーんすとあ",
+      "clause_text": "有名なチェーンストアの",
+      "furigana": "ゆうめいなちぇーんすとあの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のひとつだと言えます。",
-      "furigana": "のひとつだといえます。",
+      "clause_text": "ひとつだと言えます。",
+      "furigana": "ひとつだといえます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "チェーンストア",
-      "furigana": "ちぇーんすとあ",
+      "clause_text": "チェーンストアではどこでも",
+      "furigana": "ちぇーんすとあではどこでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ではどこで",
-      "furigana": "ではどこで",
+      "clause_text": "同じものが食べられるというイメージが",
+      "furigana": "おなじものがたべられるといういめーじが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "も同じものが食べられるというイメージがありますが、色々な国でマクドナルドに入ってみると",
-      "furigana": "もおなじものがたべられるといういめーじがありますが、いろいろなくにでまくどなるどにはいってみると",
+      "clause_text": "ありますが、色々な国でマクドナルドに",
+      "furigana": "ありますが、いろいろなくにでまくどなるどに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "、その国独自のメニューを見つけること",
-      "furigana": "、そのくにどくじのめにゅーをみつけること",
+      "clause_text": "入ってみると、その国独自の",
+      "furigana": "はいってみると、そのくにどくじの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "メニューを見つけることができます。",
+      "furigana": "めにゅーをみつけることができます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ここで",
-      "furigana": "ここで",
+      "clause_text": "ここでは私が",
+      "furigana": "ここではわたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は私が行った国で見た",
-      "furigana": "はわたくしがおこなったくにでみた",
+      "clause_text": "行った国で見た、でも",
+      "furigana": "おこなったくにでみた、でも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、でも本家のアメリカ",
-      "furigana": "、でもほんけのあめりか",
+      "clause_text": "本家のアメリカには",
+      "furigana": "ほんけのあめりかには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "にはないマクドナルドのメニュー",
-      "furigana": "にはないまくどなるどのめにゅー",
+      "clause_text": "ないマクドナルドの",
+      "furigana": "ないまくどなるどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を紹介します。",
-      "furigana": "をしょうかいします。",
+      "clause_text": "メニューを紹介します。",
+      "furigana": "めにゅーをしょうかいします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "まず、",
-      "furigana": "まず、",
+      "clause_text": "まず、日本のマクドナルドに",
+      "furigana": "まず、にっぽんのまくどなるどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本のマクドナルドにあって、",
-      "furigana": "にっぽんのまくどなるどにあって、",
+      "clause_text": "あって、アメリカの",
+      "furigana": "あって、あめりかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "アメリカのマクドナルドにないもの",
-      "furigana": "あめりかのまくどなるどにないもの",
+      "clause_text": "マクドナルドにないものは、てり",
+      "furigana": "まくどなるどにないものは、てり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "やきマックバーガーや",
+      "furigana": "やきまっくばーがーや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "てりやきマックバーガーやエビフィレオといったバーガーです。",
-      "furigana": "てりやきまっくばーがーやえびふぃれおといったばーがーです。",
+      "clause_text": "エビフィレオといったバーガーです。",
+      "furigana": "えびふぃれおといったばーがーです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "てり",
-      "furigana": "てり",
+      "clause_text": "てりやきマック",
+      "furigana": "てりやきまっく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "やきマックバーガーには",
-      "furigana": "やきまっくばーがーには",
+      "clause_text": "バーガーには、",
+      "furigana": "ばーがーには、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、もちろんてり",
-      "furigana": "、もちろんてり",
+      "clause_text": "もちろんてり",
+      "furigana": "もちろんてり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:24:53"
+    "extraction_date_time": "2026.07.16 09:42:16"
   }
 }

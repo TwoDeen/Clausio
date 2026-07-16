@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "セロハンテープのようにクルクル巻いてあるテープ",
-      "furigana": "せろはんてーぷのようにくるくるまいてあるてーぷ",
+      "clause_text": "セロハンテープの",
+      "furigana": "せろはんてーぷの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "ようにクルクル巻いてある",
+      "furigana": "ようにくるくるまいてある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "何回も貼ったり",
-      "furigana": "なんかいもはったり",
+      "clause_text": "テープで、何回も",
+      "furigana": "てーぷで、なんかいも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "はがしたりできます。",
-      "furigana": "はがしたりできます。",
+      "clause_text": "貼ったりはがしたりできます。",
+      "furigana": "はったりはがしたりできます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろなデザインのテープがあるの",
-      "furigana": "いろいろなでざいんのてーぷがあるの",
+      "clause_text": "いろいろなデザインの",
+      "furigana": "いろいろなでざいんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "テープがあるので、手帳や",
+      "furigana": "てーぷがあるので、てちょうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "手帳やノートに貼って、",
-      "furigana": "てちょうやのーとにはって、",
+      "clause_text": "ノートに貼って、内容を",
+      "furigana": "のーとにはって、ないようを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "内容を目立たせたり、",
-      "furigana": "ないようをめだたせたり、",
+      "clause_text": "目立たせたり、かわいく",
+      "furigana": "めだたせたり、かわいく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "かわいく飾ったりできます。",
-      "furigana": "かわいくかざったりできます。",
+      "clause_text": "飾ったりできます。",
+      "furigana": "かざったりできます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "文房具店に行くといろいろなマスキングテープ",
-      "furigana": "ぶんぼうぐてんにいくといろいろなますきんぐてーぷ",
+      "clause_text": "文房具店に行くといろいろな",
+      "furigana": "ぶんぼうぐてんにいくといろいろな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "が売られていますが、",
-      "furigana": "がうられていますが、",
+      "clause_text": "マスキングテープが",
+      "furigana": "ますきんぐてーぷが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ここで私",
-      "furigana": "ここでわたくし",
+      "clause_text": "売られていますが、",
+      "furigana": "うられていますが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "は2つの特別なマスキングテープ",
-      "furigana": "はふつつのとくべつなますきんぐてーぷ",
+      "clause_text": "ここで私は2つの特別な",
+      "furigana": "ここでわたくしはふつつのとくべつな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を紹介します。",
-      "furigana": "をしょうかいします。",
+      "clause_text": "マスキングテープを紹介します。",
+      "furigana": "ますきんぐてーぷをしょうかいします。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "1つは、",
-      "furigana": "ひとつは、",
+      "clause_text": "1つは、「点字ブロック」の",
+      "furigana": "ひとつは、きごうてんじぶろっくきごうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "「点字ブロック」の",
-      "furigana": "きごうてんじぶろっくきごうの",
+      "clause_text": "マスキングテープで、もう",
+      "furigana": "ますきんぐてーぷで、もう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "マスキングテープで、も",
-      "furigana": "ますきんぐてーぷで、",
+      "clause_text": "1つは、「点字」で「ありがとう」と",
+      "furigana": "ひとつは、きごうてんじきごうできごうありがとうきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "う1つは、",
-      "furigana": "ひとつは、",
+      "clause_text": "書いてある",
+      "furigana": "かいてある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「点字」で「ありがとう」と書いてあるマスキングテープです。",
-      "furigana": "きごうてんじきごうできごうありがとうきごうとかいてあるますきんぐてーぷです。",
+      "clause_text": "マスキングテープです。",
+      "furigana": "ますきんぐてーぷです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "駅や道路に敷いてある黄色いブロック",
-      "furigana": "えきやどうろにしいてあるきいろいぶろっく",
+      "clause_text": "駅や道路に敷いてある",
+      "furigana": "えきやどうろにしいてある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "黄色いブロックで、",
+      "furigana": "きいろいぶろっくで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "デコボコ",
-      "furigana": "でこぼこ",
+      "clause_text": "デコボコが",
+      "furigana": "でこぼこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が付いています。",
-      "furigana": "がついています。",
+      "clause_text": "付いています。",
+      "furigana": "ついています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:32:27"
+    "extraction_date_time": "2026.07.16 09:48:39"
   }
 }

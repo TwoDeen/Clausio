@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つき（３）【問題】ある島",
-      "furigana": "うそつききごうさんきごうきごうもんだいきごうあるしま",
+      "clause_text": "嘘つき（３）【問題】",
+      "furigana": "うそつききごうさんきごうきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "には",
-      "furigana": "には",
+      "clause_text": "ある島には正直者か",
+      "furigana": "あるしまにはしょうじきものか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "正直者か嘘つきのどちらかしか住んで",
-      "furigana": "しょうじきものかうそつきのどちらかしかすんで",
+      "clause_text": "嘘つきのどちらかしか",
+      "furigana": "うそつきのどちらかしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "いません。",
-      "furigana": "いません。",
+      "clause_text": "住んでいません。",
+      "furigana": "すんでいません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "本当のことを",
-      "furigana": "ほんとうのことを",
+      "clause_text": "本当の",
+      "furigana": "ほんとうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "言い",
-      "furigana": "いい",
+      "clause_text": "ことを",
+      "furigana": "ことを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "言います。",
+      "furigana": "いいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,7 +158,7 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あなたが船でその島を訪ね",
+      "clause_text": "あなたが船でその島を",
       "furigana": "あなたがふねでそのしまを",
       "sentence_individual_grammar_level": "N5"
     },
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ると、",
-      "furigana": "と、",
+      "clause_text": "訪ねると、A、",
+      "furigana": "たずねると、あーる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "A、",
-      "furigana": "あーる、",
+      "clause_text": "B、Cという３人の",
+      "furigana": "b、cというさんにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "B、",
-      "furigana": "b、",
+      "clause_text": "住民がいっしょに港で",
+      "furigana": "じゅうみんがいっしょにみなとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "Cという３人の住民がいっしょに港で迎えてくれました。",
-      "furigana": "cというさんにんのじゅうみんがいっしょにみなとでむかえてくれました。",
+      "clause_text": "迎えてくれました。",
+      "furigana": "むかえてくれました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "あな",
-      "furigana": "あな",
+      "clause_text": "あなたは、「あなた方の",
+      "furigana": "あなたは、きごうあなたかたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "たは、",
-      "furigana": "は、",
+      "clause_text": "中に正直者は",
+      "furigana": "なかにしょうじきものは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "「あなた方の中に正直者は何人いますか」と",
-      "furigana": "きごうあなたかたのなかにしょうじきものはなんにんいますかきごうと",
+      "clause_text": "何人いますか」と",
+      "furigana": "なんにんいますかきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "Aの答え",
-      "furigana": "あーるのこたえ",
+      "clause_text": "Aの答えは、",
+      "furigana": "あーるのこたえは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "まわりの",
+      "furigana": "まわりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "まわりの人たちの声",
-      "furigana": "まわりのひとたちのこえ",
+      "clause_text": "人たちの声が",
+      "furigana": "ひとたちのこえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "がうるさくて、",
-      "furigana": "がうるさくて、",
+      "clause_text": "うるさくて、よく",
+      "furigana": "うるさくて、よく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "よく聞こえませんでした。",
-      "furigana": "よくきこえませんでした。",
+      "clause_text": "聞こえませんでした。",
+      "furigana": "きこえませんでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:33:13"
+    "extraction_date_time": "2026.07.16 09:37:05"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "人は",
-      "furigana": "ひとは",
+      "clause_text": "人は一人か",
+      "furigana": "ひとはひとりか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "一人",
-      "furigana": "ひとり",
+      "clause_text": "二人しか",
+      "furigana": "ふたりしか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "か二人しか乗れないし、",
-      "furigana": "かふたりしかのれないし、",
+      "clause_text": "乗れないし、",
+      "furigana": "のれないし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "荷物も",
-      "furigana": "にもつも",
+      "clause_text": "荷物もたくさん",
+      "furigana": "にもつもたくさん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん載せられない。",
-      "furigana": "たくさんのせられない。",
+      "clause_text": "載せられない。",
+      "furigana": "のせられない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そのような不便で、",
-      "furigana": "そのようなふべんで、",
+      "clause_text": "そのような不便で、「特別な」",
+      "furigana": "そのようなふべんで、きごうとくべつなきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「特別な」乗り物に乗っているライダー同士",
-      "furigana": "きごうとくべつなきごうのりものにのっているらいだーどうし",
+      "clause_text": "乗り物に乗っている",
+      "furigana": "のりものにのっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の、",
-      "furigana": "の、",
+      "clause_text": "ライダー同士の、",
+      "furigana": "らいだーどうしの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "初めて会った人が自分と同じ趣味だったの",
-      "furigana": "はじめてあったひとがじぶんとおなじしゅみだったの",
+      "clause_text": "初めて会った人が自分と",
+      "furigana": "はじめてあったひとがじぶんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、すぐに仲良くなれたという経験",
-      "furigana": "で、すぐになかよくなれたというけいけん",
+      "clause_text": "同じ趣味だったので、",
+      "furigana": "おなじしゅみだったので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "すぐに仲良く",
+      "furigana": "すぐになかよく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "誰にで",
-      "furigana": "だれにで",
+      "clause_text": "なれたという経験は、",
+      "furigana": "なれたというけいけんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "もあるだろう。",
-      "furigana": "もあるだろう。",
+      "clause_text": "誰にでもあるだろう。",
+      "furigana": "だれにでもあるだろう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "趣味と",
-      "furigana": "しゅみと",
+      "clause_text": "趣味としての",
+      "furigana": "しゅみとしての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "してのバイク",
-      "furigana": "してのばいく",
+      "clause_text": "バイクは、",
+      "furigana": "ばいくは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "仲間意識を",
+      "furigana": "なかまいしきを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "仲間意識を作りやすい。",
-      "furigana": "なかまいしきをつくりやすい。",
+      "clause_text": "作りやすい。",
+      "furigana": "つくりやすい。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ちょっと違う形",
-      "furigana": "ちょっとちがうかたち",
+      "clause_text": "ちょっと",
+      "furigana": "ちょっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "で。",
-      "furigana": "で。",
+      "clause_text": "違う形で。",
+      "furigana": "ちがうかたちで。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 13:25:21"
+    "extraction_date_time": "2026.07.16 09:41:57"
   }
 }

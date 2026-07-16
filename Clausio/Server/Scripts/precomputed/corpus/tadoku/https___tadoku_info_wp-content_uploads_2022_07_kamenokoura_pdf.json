@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "カメのこうらはつぎはぎだらけ？",
-      "furigana": "かめのこうらはつぎはぎだらけ?",
+      "clause_text": "カメのこうらは",
+      "furigana": "かめのこうらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "（西アフリカの昔話）カメ",
-      "furigana": "きごうにしあふりかのむかしばなしきごうかめ",
+      "clause_text": "つぎはぎだらけ？（",
+      "furigana": "つぎはぎだらけ?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の背中",
-      "furigana": "のせなか",
+      "clause_text": "西アフリカの昔話）",
+      "furigana": "にしあふりかのむかしばなしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "には、",
-      "furigana": "には、",
+      "clause_text": "カメの背中には、",
+      "furigana": "かめのせなかには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "こう",
-      "furigana": "こう",
+      "clause_text": "こうらは、",
+      "furigana": "こうらは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "らは、",
-      "furigana": "は、",
+      "clause_text": "つぎはぎ",
+      "furigana": "つぎはぎ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "つぎはぎだらけです。",
-      "furigana": "つぎはぎだらけです。",
+      "clause_text": "だらけです。",
+      "furigana": "だらけです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "どう",
-      "furigana": "どう",
+      "clause_text": "どうしてか、知っていますか？",
+      "furigana": "どうしてか、しっていますか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "してか、",
-      "furigana": "してか、",
+      "clause_text": "知らない？じゃあ、",
+      "furigana": "しらない?じゃあ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "知っていますか？",
-      "furigana": "しっていますか?",
+      "clause_text": "この西アフリカの",
+      "furigana": "このにしあふりかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "知らない？",
-      "furigana": "しらない?",
+      "clause_text": "ストーリーを",
+      "furigana": "すとーりーを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "じゃあ、この西アフリカのストーリーを読んでみましょう。",
-      "furigana": "じゃあ、このにしあふりかのすとーりーをよんでみましょう。",
+      "clause_text": "読んでみましょう。",
+      "furigana": "よんでみましょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "お母さんカメが",
-      "furigana": "おかあさんかめが",
+      "clause_text": "お母さん",
+      "furigana": "おかあさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いまし",
-      "furigana": "いまし",
+      "clause_text": "カメが",
+      "furigana": "かめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ある日",
-      "furigana": "あるひ",
+      "clause_text": "ある日、",
+      "furigana": "あるひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、鳥たちが",
-      "furigana": "、とりたちが",
+      "clause_text": "鳥たちが",
+      "furigana": "とりたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:52"
+    "extraction_date_time": "2026.07.16 09:48:49"
   }
 }

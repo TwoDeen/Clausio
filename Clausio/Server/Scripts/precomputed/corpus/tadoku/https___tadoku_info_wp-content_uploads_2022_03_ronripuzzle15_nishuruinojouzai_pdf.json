@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "錠剤【問題】２種類の",
-      "furigana": "じょうざいきごうもんだいきごうにしゅるいの",
+      "clause_text": "錠剤【問題】",
+      "furigana": "じょうざいきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "錠剤A",
-      "furigana": "じょうざいあーる",
+      "clause_text": "２種類の",
+      "furigana": "にしゅるいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "とBが",
-      "furigana": "とbが",
+      "clause_text": "錠剤AとBが",
+      "furigana": "じょうざいあーるとbが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "あなたは病気",
-      "furigana": "あなたはびょうき",
+      "clause_text": "あなたは病気を",
+      "furigana": "あなたはびょうきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "を治すために、",
-      "furigana": "をなおすために、",
+      "clause_text": "治すために、毎日Aと",
+      "furigana": "なおすために、まいにちあーると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "毎日AとB",
-      "furigana": "まいにちあーるとb",
+      "clause_text": "Bを１錠ずつ",
+      "furigana": "bをいちじょうずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を１錠ずつ同時",
-      "furigana": "をいちじょうずつどうじ",
+      "clause_text": "同時に飲まなければ",
+      "furigana": "どうじにのまなければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "に飲まなければなりません。",
-      "furigana": "にのまなければなりません。",
+      "clause_text": "なりません。",
+      "furigana": "なりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある日、",
-      "furigana": "あるひ、",
+      "clause_text": "ある日、あなたは",
+      "furigana": "あるひ、あなたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "あなたはAのビン",
-      "furigana": "あなたはあーるのびん",
+      "clause_text": "Aのビンから",
+      "furigana": "あーるのびんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "からAを１錠、",
-      "furigana": "からあーるをいちじょう、",
+      "clause_text": "Aを１錠、",
+      "furigana": "あーるをいちじょう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "手のひら",
-      "furigana": "てのひら",
+      "clause_text": "手のひらに",
+      "furigana": "てのひらに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "に取り出しました。",
-      "furigana": "にとりだしました。",
+      "clause_text": "取り出しました。",
+      "furigana": "とりだしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "１錠取り出そう",
-      "furigana": "いちじょうとりだそう",
+      "clause_text": "１錠取り出そうと",
+      "furigana": "いちじょうとりだそうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "としました。",
-      "furigana": "としました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ところ",
-      "furigana": "ところ",
+      "clause_text": "ところが、",
+      "furigana": "ところが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "間違ってBを",
+      "furigana": "まちがってbを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "間違ってBを２錠取り出してしまい、",
-      "furigana": "まちがってbをにじょうとりだしてしまい、",
+      "clause_text": "２錠取り出してしまい、",
+      "furigana": "にじょうとりだしてしまい、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "手のひらの上でA",
-      "furigana": "てのひらのうえであーる",
+      "clause_text": "手のひらの上でAと",
+      "furigana": "てのひらのうえであーると",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "と混ざってしまいました。",
-      "furigana": "とまざってしまいました。",
+      "clause_text": "混ざってしまいました。",
+      "furigana": "まざってしまいました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:42:02"
+    "extraction_date_time": "2026.07.16 09:47:06"
   }
 }

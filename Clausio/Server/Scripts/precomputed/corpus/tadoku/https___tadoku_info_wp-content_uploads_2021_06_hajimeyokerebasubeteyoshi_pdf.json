@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "Uberもない、",
-      "furigana": "uberもない、",
+      "clause_text": "Uberも",
+      "furigana": "uberも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "スマホ",
-      "furigana": "すまほ",
+      "clause_text": "ない、スマホも",
+      "furigana": "ない、すまほも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "もない時代",
-      "furigana": "もないじだい",
+      "clause_text": "ない時代の",
+      "furigana": "ないじだいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のお話です。",
-      "furigana": "のおはなしです。",
+      "clause_text": "お話です。",
+      "furigana": "おはなしです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "クアラルンプールからタイ",
-      "furigana": "くあらるんぷーるからたい",
+      "clause_text": "クアラルンプールから",
+      "furigana": "くあらるんぷーるから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のバンコク",
-      "furigana": "のばんこく",
+      "clause_text": "タイのバンコクへ",
+      "furigana": "たいのばんこくへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "へ旅行に行こう",
-      "furigana": "へりょこうにいこう",
+      "clause_text": "旅行に行こうと",
+      "furigana": "りょこうにいこうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と思いました。",
-      "furigana": "とおもいました。",
+      "clause_text": "思いました。",
+      "furigana": "おもいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バンコクへ行く",
-      "furigana": "ばんこくへいく",
+      "clause_text": "バンコクへ",
+      "furigana": "ばんこくへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "には",
-      "furigana": "には",
+      "clause_text": "行くには、まず、私の",
+      "furigana": "いくには、まず、わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "、まず、",
-      "furigana": "、まず、",
+      "clause_text": "住んでいるところから",
+      "furigana": "すんでいるところから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "私の住んでいるところからタクシーに乗って、",
-      "furigana": "わたくしのすんでいるところからたくしーにのって、",
+      "clause_text": "タクシーに乗って、",
+      "furigana": "たくしーにのって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "クアラルンプール国際空港",
-      "furigana": "くあらるんぷーるこくさいくうこう",
+      "clause_text": "クアラルンプール国際空港へ",
+      "furigana": "くあらるんぷーるこくさいくうこうへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "へ行く電車に",
-      "furigana": "へいくでんしゃに",
+      "clause_text": "行く電車に",
+      "furigana": "いくでんしゃに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、空港から",
+      "furigana": "そして、くうこうから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "空港から飛行機",
-      "furigana": "くうこうからひこうき",
+      "clause_text": "飛行機に",
+      "furigana": "ひこうきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に乗って、",
-      "furigana": "にのって、",
+      "clause_text": "乗って、タイの",
+      "furigana": "のって、たいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "タイのバンコク",
-      "furigana": "たいのばんこく",
+      "clause_text": "バンコクへ",
+      "furigana": "ばんこくへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "へ行きます。",
-      "furigana": "へいきます。",
+      "clause_text": "行きます。",
+      "furigana": "いきます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:38:39"
+    "extraction_date_time": "2026.07.16 09:50:48"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "受け入れる社会小国士朗（おぐ",
-      "furigana": "うけいれるしゃかいおぐにしろうきごうおぐ",
+      "clause_text": "受け入れる社会小国士朗（",
+      "furigana": "うけいれるしゃかいおぐにしろうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "にしろう）さんは",
-      "furigana": "にしろうきごうさんは",
+      "clause_text": "おぐにしろう）さんは",
+      "furigana": "おぐにしろうきごうさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "NHKという日本のテレビ局",
-      "furigana": "えぬえいちけーというにっぽんのてれびきょく",
+      "clause_text": "NHKという日本の",
+      "furigana": "えぬえいちけーというにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "で働いていました。",
-      "furigana": "ではたらいていました。",
+      "clause_text": "テレビ局で働いていました。",
+      "furigana": "てれびきょくではたらいていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "テレビ番組",
-      "furigana": "てれびばんぐみ",
+      "clause_text": "テレビ番組を",
+      "furigana": "てれびばんぐみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を作ることです。",
-      "furigana": "をつくることです。",
+      "clause_text": "作ることです。",
+      "furigana": "つくることです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある日、",
-      "furigana": "あるひ、",
+      "clause_text": "ある日、小国さんは",
+      "furigana": "あるひ、おぐにさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "小国さんは新しい番組を作るために、",
-      "furigana": "おぐにさんはあたらしいばんぐみをつくるために、",
+      "clause_text": "新しい番組を作るために、",
+      "furigana": "あたらしいばんぐみをつくるために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "認知症のお年寄りたちが一緒",
-      "furigana": "にんちしょうのおとしよりたちがいっしょ",
+      "clause_text": "認知症のお年寄りたちが",
+      "furigana": "にんちしょうのおとしよりたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "に住んでいる施設",
-      "furigana": "にすんでいるしせつ",
+      "clause_text": "一緒に住んでいる施設へ",
+      "furigana": "いっしょにすんでいるしせつへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "へ行きました。",
-      "furigana": "へいきました。",
+      "clause_text": "行きました。",
+      "furigana": "いきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "認知症になると、",
-      "furigana": "にんちしょうになると、",
+      "clause_text": "認知症に",
+      "furigana": "にんちしょうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "記憶力",
-      "furigana": "きおくりょく",
+      "clause_text": "なると、記憶力が",
+      "furigana": "なると、きおくりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "が弱くなったり、",
-      "furigana": "がよわくなったり、",
+      "clause_text": "弱くなったり、家族の",
+      "furigana": "よわくなったり、かぞくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "家族",
-      "furigana": "かぞく",
+      "clause_text": "ことが分からなく",
+      "furigana": "ことがわからなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のことが分からなくなったりします。",
-      "furigana": "のことがわからなくなったりします。",
+      "clause_text": "なったりします。",
+      "furigana": "なったりします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこ",
-      "furigana": "そこ",
+      "clause_text": "そこでは、そんな認知症の",
+      "furigana": "そこでは、そんなにんちしょうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "では",
-      "furigana": "では",
+      "clause_text": "お年寄りたちが、",
+      "furigana": "おとしよりたちが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、そんな認知症のお年寄りたちが",
-      "furigana": "、そんなにんちしょうのおとしよりたちが",
+      "clause_text": "いろいろな人の",
+      "furigana": "いろいろなひとの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、いろいろな人の世話を受けながら、",
-      "furigana": "、いろいろなひとのせわをうけながら、",
+      "clause_text": "世話を受けながら、",
+      "furigana": "せわをうけながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:43:38"
+    "extraction_date_time": "2026.07.16 09:41:29"
   }
 }

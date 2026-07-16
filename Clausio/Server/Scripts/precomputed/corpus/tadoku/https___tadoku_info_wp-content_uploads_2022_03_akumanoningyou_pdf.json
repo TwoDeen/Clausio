@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "古くて大きな",
-      "furigana": "ふるくておおきな",
+      "clause_text": "古く",
+      "furigana": "ふるく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "家が",
-      "furigana": "いえが",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あっ",
-      "furigana": "あっ",
+      "clause_text": "大きな家が",
+      "furigana": "おおきないえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "あった。",
+      "furigana": "あった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "その家",
-      "furigana": "そのいえ",
+      "clause_text": "その家には、",
+      "furigana": "そのいえには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "には、",
-      "furigana": "には、",
+      "clause_text": "大金持ちの",
+      "furigana": "おおがねもちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大金持ちの家族が住ん",
-      "furigana": "おおがねもちのかぞくがすん",
+      "clause_text": "家族が",
+      "furigana": "かぞくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "でいた。",
-      "furigana": "でいた。",
+      "clause_text": "住んでいた。",
+      "furigana": "すんでいた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも、ある日",
-      "furigana": "でも、あるひ",
+      "clause_text": "でも、ある日、泥棒が",
+      "furigana": "でも、あるひ、どろぼうが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、泥棒がその家に入り、",
-      "furigana": "、どろぼうがそのいえにはいり、",
+      "clause_text": "その家に入り、その家の",
+      "furigana": "そのいえにはいり、そのいえの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "その家のお金や宝石をすべて盗んだうえ",
-      "furigana": "そのいえのおかねやほうせきをすべてぬすんだうえ",
+      "clause_text": "お金や宝石をすべて",
+      "furigana": "おかねやほうせきをすべて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "盗んだうえに、家族を",
+      "furigana": "ぬすんだうえに、かぞくを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "家族を全員殺してしまったらしい。",
-      "furigana": "かぞくをぜんいんころしてしまったらしい。",
+      "clause_text": "全員殺してしまったらしい。",
+      "furigana": "ぜんいんころしてしまったらしい。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、ぼくの",
+      "furigana": "でも、ぼくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぼくの",
-      "furigana": "ぼくの",
+      "clause_text": "おじい",
+      "furigana": "おじい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "おじいちゃん",
-      "furigana": "おじいちゃん",
+      "clause_text": "ちゃんが、",
+      "furigana": "ちゃんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "そう",
+      "furigana": "そう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "そう言っていた。",
-      "furigana": "そういっていた。",
+      "clause_text": "言っていた。",
+      "furigana": "いっていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "おじいちゃんは",
-      "furigana": "おじいちゃんは",
+      "clause_text": "おじいちゃんは、低くてこわい声で",
+      "furigana": "おじいちゃんは、ひくくてこわいこえで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、低くてこわい声でゆっくりその話をしたから、ぼくはほとんど泣きそうになってしまった",
-      "furigana": "、ひくくてこわいこえでゆっくりそのはなしをしたから、ぼくはほとんどなきそうになってしまった",
+      "clause_text": "ゆっくりその話をしたから、",
+      "furigana": "ゆっくりそのはなしをしたから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "けど、",
-      "furigana": "けど、",
+      "clause_text": "ぼくはほとんど泣きそうに",
+      "furigana": "ぼくはほとんどなきそうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なんと",
-      "furigana": "なんと",
+      "clause_text": "なってしまったけど、",
+      "furigana": "なってしまったけど、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "かがまんした。",
-      "furigana": "かがまんした。",
+      "clause_text": "なんとかがまんした。",
+      "furigana": "なんとかがまんした。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:38:58"
+    "extraction_date_time": "2026.07.16 09:45:07"
   }
 }

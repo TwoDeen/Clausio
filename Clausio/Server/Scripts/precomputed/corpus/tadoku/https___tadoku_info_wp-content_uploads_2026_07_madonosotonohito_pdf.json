@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ころ、",
-      "furigana": "ころ、",
+      "clause_text": "ころ、家族と",
+      "furigana": "ころ、かぞくと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "家族と一緒に一階の家",
-      "furigana": "かぞくといっしょにいちかいのいえ",
+      "clause_text": "一緒に",
+      "furigana": "いっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に住ん",
-      "furigana": "にすん",
+      "clause_text": "一階の家に",
+      "furigana": "いちかいのいえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいた。",
-      "furigana": "でいた。",
+      "clause_text": "住んでいた。",
+      "furigana": "すんでいた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "窓の外を",
-      "furigana": "まどのそとを",
+      "clause_text": "窓の",
+      "furigana": "まどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "人が",
-      "furigana": "ひとが",
+      "clause_text": "外を人が",
+      "furigana": "そとをひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "入ると、",
-      "furigana": "はいると、",
+      "clause_text": "入る",
+      "furigana": "はいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人暮らし",
-      "furigana": "ひとりぐらし",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "を始め",
-      "furigana": "をはじめ",
+      "clause_text": "一人暮らしを",
+      "furigana": "ひとりぐらしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "始めた。",
+      "furigana": "はじめた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "学校の近く",
-      "furigana": "がっこうのちかく",
+      "clause_text": "学校の近くの",
+      "furigana": "がっこうのちかくの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "のアパート",
-      "furigana": "のあぱーと",
+      "clause_text": "アパートに",
+      "furigana": "あぱーとに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "に引っ越したばかりで、",
-      "furigana": "にひっこしたばかりで、",
+      "clause_text": "引っ越したばかりで、",
+      "furigana": "ひっこしたばかりで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:34:14"
+    "extraction_date_time": "2026.07.16 09:41:39"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ブラジルで行われた地球環境",
-      "furigana": "ぶらじるでおこなわれたちきゅうかんきょう",
+      "clause_text": "ブラジルで行われた",
+      "furigana": "ぶらじるでおこなわれた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "についての国際会議で、",
-      "furigana": "についてのこくさいかいぎで、",
+      "clause_text": "地球環境についての",
+      "furigana": "ちきゅうかんきょうについての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "彼女は世界中",
-      "furigana": "かのじょはせかいじゅう",
+      "clause_text": "国際会議で、彼女は",
+      "furigana": "こくさいかいぎで、かのじょは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の大人たち",
-      "furigana": "のおとなたち",
+      "clause_text": "世界中の大人たちに",
+      "furigana": "せかいじゅうのおとなたちに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に向かってこう言った。",
-      "furigana": "にむかってこういった。",
+      "clause_text": "向かってこう言った。",
+      "furigana": "むかってこういった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "1992年にこのスピーチを聞いたとき、まだ英語がよくわからなかった",
-      "furigana": "いちきゅうきゅうにねんにこのすぴーちをきいたとき、まだえいごがよくわからなかった",
+      "clause_text": "1992年にこのスピーチを聞いたとき、",
+      "furigana": "いちきゅうきゅうにねんにこのすぴーちをきいたとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "けど、",
-      "furigana": "けど、",
+      "clause_text": "まだ英語がよくわからなかったけど、",
+      "furigana": "まだえいごがよくわからなかったけど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "スピーチの日本語訳を何度も何度も読んだし、",
-      "furigana": "すぴーちのにほんごやくをなんどもなんどもよんだし、",
+      "clause_text": "スピーチの日本語訳を何度も何度も",
+      "furigana": "すぴーちのにほんごやくをなんどもなんども",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "英語も理解したいと思って、",
-      "furigana": "えいごもりかいしたいとおもって、",
+      "clause_text": "読んだし、英語も理解したいと",
+      "furigana": "よんだし、えいごもりかいしたいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "原文も何度も何度も読んだ。",
-      "furigana": "げんぶんもなんどもなんどもよんだ。",
+      "clause_text": "思って、原文も何度も何度も読んだ。",
+      "furigana": "おもって、げんぶんもなんどもなんどもよんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、彼女と",
+      "furigana": "そして、かのじょと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "彼女と同じように大人に腹が立ったし、",
-      "furigana": "かのじょとおなじようにおとなにはらがたったし、",
+      "clause_text": "同じように大人に",
+      "furigana": "おなじようにおとなに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "自分は環境を壊す大人",
-      "furigana": "じぶんはかんきょうをこわすおとな",
+      "clause_text": "腹が立ったし、自分は",
+      "furigana": "はらがたったし、じぶんは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "にはならない",
-      "furigana": "にはならない",
+      "clause_text": "環境を壊す大人には",
+      "furigana": "かんきょうをこわすおとなには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "と強く思った。",
-      "furigana": "とつよくおもった。",
+      "clause_text": "ならないと強く思った。",
+      "furigana": "ならないとつよくおもった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それなの",
-      "furigana": "それなの",
+      "clause_text": "それなのに、",
+      "furigana": "それなのに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "そう思ったことを",
+      "furigana": "そうおもったことを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "そう思ったことを忘れて、",
-      "furigana": "そうおもったことをわすれて、",
+      "clause_text": "忘れて、",
+      "furigana": "わすれて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎日",
-      "furigana": "まいにち",
+      "clause_text": "毎日を",
+      "furigana": "まいにちを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "を過ごしてしまっていた。",
-      "furigana": "をすごしてしまっていた。",
+      "clause_text": "過ごしてしまっていた。",
+      "furigana": "すごしてしまっていた。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "正直、",
-      "furigana": "しょうじき、",
+      "clause_text": "正直、2022年６月に「あの伝説の",
+      "furigana": "しょうじき、にれいににねんろくがつにきごうあのでんせつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "2022年６月に「あの伝説のスピーチから30年」という新聞記事",
-      "furigana": "にれいににねんろくがつにきごうあのでんせつのすぴーちからさんれいねんきごうというしんぶんきじ",
+      "clause_text": "スピーチから30年」という",
+      "furigana": "すぴーちからさんれいねんきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "を見るまで、",
-      "furigana": "をみるまで、",
+      "clause_text": "新聞記事を見るまで、",
+      "furigana": "しんぶんきじをみるまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しばらくこのスピーチ",
-      "furigana": "しばらくこのすぴーち",
+      "clause_text": "しばらくこのスピーチの",
+      "furigana": "しばらくこのすぴーちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のことを忘れていた。",
-      "furigana": "のことをわすれていた。",
+      "clause_text": "ことを忘れていた。",
+      "furigana": "ことをわすれていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:41:05"
+    "extraction_date_time": "2026.07.16 09:38:32"
   }
 }

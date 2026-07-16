@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "100メートル競走【問題】A、",
-      "furigana": "いちれいれいめーとるきょうそうきごうもんだいきごうあーる、",
+      "clause_text": "100メートル競走【問題】",
+      "furigana": "いちれいれいめーとるきょうそうきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "B、",
-      "furigana": "b、",
+      "clause_text": "A、B、Cの",
+      "furigana": "あーる、b、cの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "Cの３人",
-      "furigana": "cのさんにん",
+      "clause_text": "３人が１対１の",
+      "furigana": "さんにんがいちついいちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "が１対１の100メートル競走",
-      "furigana": "がいちついいちのいちれいれいめーとるきょうそう",
+      "clause_text": "100メートル競走を",
+      "furigana": "いちれいれいめーとるきょうそうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "を行いました。",
-      "furigana": "をおこないました。",
+      "clause_text": "行いました。",
+      "furigana": "おこないました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その結果",
-      "furigana": "そのけっか",
+      "clause_text": "その結果、",
+      "furigana": "そのけっか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、Aは",
-      "furigana": "、あーるは",
+      "clause_text": "Aは",
+      "furigana": "あーるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それでは、",
-      "furigana": "それでは、",
+      "clause_text": "それでは、AとCが",
+      "furigana": "それでは、あーるとcが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "AとCが競走すると、",
-      "furigana": "あーるとcがきょうそうすると、",
+      "clause_text": "競走すると、Aは何メートル差で",
+      "furigana": "きょうそうすると、あーるはなんめーとるさで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "Aは何メートル差でCに勝つでしょうか？",
-      "furigana": "あーるはなんめーとるさでcにかつでしょうか?",
+      "clause_text": "Cに勝つでしょうか？",
+      "furigana": "cにかつでしょうか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "（解答は",
-      "furigana": "きごうかいとうは",
+      "clause_text": "（解答は次の",
+      "furigana": "きごうかいとうはつぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "次のペ",
-      "furigana": "つぎの",
+      "clause_text": "ページ）【解答】",
+      "furigana": "ぺーじきごうきごうかいとうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ージ）【解答】Aは",
-      "furigana": "きごうきごうかいとうきごうあーるは",
+      "clause_text": "Aは",
+      "furigana": "あーるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:32:11"
+    "extraction_date_time": "2026.07.16 09:36:47"
   }
 }

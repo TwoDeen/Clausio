@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "クリスマスプレゼントはなかった－子ども",
-      "furigana": "くりすますぷれぜんとはなかった-こども",
+      "clause_text": "クリスマスプレゼントは",
+      "furigana": "くりすますぷれぜんとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の貧困－「貧困」",
-      "furigana": "のひんこん-きごうひんこんきごう",
+      "clause_text": "なかった－子どもの",
+      "furigana": "なかった-こどもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "とは、",
-      "furigana": "とは、",
+      "clause_text": "貧困－「貧困」とは、",
+      "furigana": "ひんこん-きごうひんこんきごうとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "どのようなものなのでしょう",
-      "furigana": "どのようなものなのでしょう",
+      "clause_text": "どのようなものな",
+      "furigana": "どのようなものな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "のでしょうか。",
+      "furigana": "のでしょうか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これ",
-      "furigana": "これ",
+      "clause_text": "これは、",
+      "furigana": "これは、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "人によって考えも",
+      "furigana": "ひとによってかんがえも",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "人によって考えも違いますし、",
-      "furigana": "ひとによってかんがえもちがいますし、",
+      "clause_text": "違いますし、国や",
+      "furigana": "ちがいますし、くにや",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "国や地域によってもさまざま",
-      "furigana": "くにやちいきによってもさまざま",
+      "clause_text": "地域によっても",
+      "furigana": "ちいきによっても",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "かもしれません。",
-      "furigana": "かもしれません。",
+      "clause_text": "さまざまかもしれません。",
+      "furigana": "さまざまかもしれません。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "貧困について",
-      "furigana": "ひんこんについて",
+      "clause_text": "貧困についての",
+      "furigana": "ひんこんについての",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の代表的な考え方と",
-      "furigana": "のだいひょうてきなかんがえかたと",
+      "clause_text": "代表的な",
+      "furigana": "だいひょうてきな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "して「絶対的貧困」と",
-      "furigana": "してきごうぜったいてきひんこんきごうと",
+      "clause_text": "考え方として「絶対的",
+      "furigana": "かんがえかたとしてきごうぜったいてき",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "「相対的貧困」が",
-      "furigana": "きごうそうたいてきひんこんきごうが",
+      "clause_text": "貧困」と「相対的貧困」が",
+      "furigana": "ひんこんきごうときごうそうたいてきひんこんきごうが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「絶対的貧困」は、",
-      "furigana": "きごうぜったいてきひんこんきごうは、",
+      "clause_text": "「絶対的貧困」は、食べ物が",
+      "furigana": "きごうぜったいてきひんこんきごうは、たべものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "食べ",
-      "furigana": "たべ",
+      "clause_text": "ない、家がないなど、",
+      "furigana": "ない、いえがないなど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "物がない、",
-      "furigana": "がない、",
+      "clause_text": "生きるために必要なものが",
+      "furigana": "いきるためにひつようなものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "家がないなど、",
-      "furigana": "いえがないなど、",
+      "clause_text": "ないような貧困の",
+      "furigana": "ないようなひんこんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "生きるために必要なものがないような貧困のことを意味します。",
-      "furigana": "いきるためにひつようなものがないようなひんこんのことをいみします。",
+      "clause_text": "ことを意味します。",
+      "furigana": "ことをいみします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私たちが一般",
-      "furigana": "わたしたちがいっぱん",
+      "clause_text": "私たちが",
+      "furigana": "わたしたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に「貧困」",
-      "furigana": "にきごうひんこんきごう",
+      "clause_text": "一般に「貧困」と",
+      "furigana": "いっぱんにきごうひんこんきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "と聞いてイメージする",
-      "furigana": "ときいていめーじする",
+      "clause_text": "聞いて",
+      "furigana": "きいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "のは、",
-      "furigana": "のは、",
+      "clause_text": "イメージするのは、",
+      "furigana": "いめーじするのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 13:35:59"
+    "extraction_date_time": "2026.07.16 09:45:02"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「おか",
-      "furigana": "きごう",
+      "clause_text": "「おかあさん、",
+      "furigana": "きごうおかあさん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "あさん、来て",
-      "furigana": "、き",
+      "clause_text": "来てー！",
+      "furigana": "きてー!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ー！",
-      "furigana": "!",
+      "clause_text": "早く！！」",
+      "furigana": "はやく!!きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "早く！！",
-      "furigana": "はやく!!",
+      "clause_text": "娘は",
+      "furigana": "むすめは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "」娘は６歳だ。",
-      "furigana": "きごうむすめはろくさいだ。",
+      "clause_text": "６歳だ。",
+      "furigana": "ろくさいだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "トイレでうんち",
-      "furigana": "といれでうんち",
+      "clause_text": "トイレで",
+      "furigana": "といれで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "をしておしり",
-      "furigana": "をしておしり",
+      "clause_text": "うんちを",
+      "furigana": "うんちを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "をふくとき",
-      "furigana": "をふくとき",
+      "clause_text": "しておしりを",
+      "furigana": "しておしりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "ふくときに、",
+      "furigana": "ふくときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "それはいつものことな",
-      "furigana": "それはいつものことな",
+      "clause_text": "それは",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "のだ",
-      "furigana": "のだ",
+      "clause_text": "いつもの",
+      "furigana": "いつもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "けれど、",
-      "furigana": "けれど、",
+      "clause_text": "ことなのだけれど、",
+      "furigana": "ことなのだけれど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "今日",
-      "furigana": "きょう",
+      "clause_text": "今日はいつもと",
+      "furigana": "きょうはいつもと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "はいつもと違う。",
-      "furigana": "はいつもとちがう。",
+      "clause_text": "違う。",
+      "furigana": "ちがう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "怖いもので",
-      "furigana": "こわいもので",
+      "clause_text": "怖いものでも",
+      "furigana": "こわいものでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "も見たような、",
-      "furigana": "もみたような、",
+      "clause_text": "見たような、助けを",
+      "furigana": "みたような、たすけを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "助けを求めるような声",
-      "furigana": "たすけをもとめるようなこえ",
+      "clause_text": "求めるような声で",
+      "furigana": "もとめるようなこえで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "で私を呼ん",
-      "furigana": "でわたくしをよん",
+      "clause_text": "私を",
+      "furigana": "わたくしを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "でいるのだ。",
-      "furigana": "でいるのだ。",
+      "clause_text": "呼んでいるのだ。",
+      "furigana": "よんでいるのだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私が急いでトイレに行くと",
-      "furigana": "わたくしがいそいでといれにいくと",
+      "clause_text": "私が急いでトイレに",
+      "furigana": "わたくしがいそいでといれに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、娘が泣きそうな顔で、",
-      "furigana": "、むすめがなきそうなかおで、",
+      "clause_text": "行くと、娘が泣きそうな",
+      "furigana": "いくと、むすめがなきそうな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "「うんちが、ね、うんちがプラプラする！」",
-      "furigana": "きごううんちが、ね、うんちがぷらぷらする!きごう",
+      "clause_text": "顔で、「うんちが、ね、",
+      "furigana": "かおで、きごううんちが、ね、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "うんちが",
+      "furigana": "うんちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "言う。",
-      "furigana": "ゆう。",
+      "clause_text": "プラプラする！」と、言う。",
+      "furigana": "ぷらぷらする!きごうと、ゆう。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:25:00"
+    "extraction_date_time": "2026.07.16 09:39:37"
   }
 }

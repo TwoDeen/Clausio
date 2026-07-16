@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の学校や会社",
-      "furigana": "にっぽんのがっこうやかいしゃ",
+      "clause_text": "日本の学校や",
+      "furigana": "にっぽんのがっこうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "会社では、",
+      "furigana": "かいしゃでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "４月",
-      "furigana": "よんがつ",
+      "clause_text": "４月に",
+      "furigana": "よんがつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に新しい年",
-      "furigana": "にあたらしいとし",
+      "clause_text": "新しい年が",
+      "furigana": "あたらしいとしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がはじまります。",
-      "furigana": "がはじまります。",
+      "clause_text": "はじまります。",
+      "furigana": "はじまります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "たとえば",
-      "furigana": "たとえば",
+      "clause_text": "たとえば、新しく小学校に",
+      "furigana": "たとえば、あたらしくしょうがっこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、新しく小学校に入る子ども",
-      "furigana": "、あたらしくしょうがっこうにはいるこども",
+      "clause_text": "入る子どもは、",
+      "furigana": "はいるこどもは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "４月に「小学１年生」に",
+      "furigana": "よんがつにきごうしょうがくいちねんせいきごうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "４月に「小学１年生」になって、",
-      "furigana": "よんがつにきごうしょうがくいちねんせいきごうになって、",
+      "clause_text": "なって、次の年の",
+      "furigana": "なって、つぎのとしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "次の年の４月に「小学２年生」になります。",
-      "furigana": "つぎのとしのよんがつにきごうしょうがくにねんせいきごうになります。",
+      "clause_text": "４月に「小学２年生」になります。",
+      "furigana": "よんがつにきごうしょうがくにねんせいきごうになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "会社でも",
-      "furigana": "かいしゃでも",
+      "clause_text": "会社でも、",
+      "furigana": "かいしゃでも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、新しく入る人",
-      "furigana": "、あたらしくはいるひと",
+      "clause_text": "新しく入る人は、",
+      "furigana": "あたらしくはいるひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "基本的には",
+      "furigana": "きほんてきには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "基本的",
-      "furigana": "きほんてき",
+      "clause_text": "４月に",
+      "furigana": "よんがつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "には４月に入ります。",
-      "furigana": "にはよんがつにはいります。",
+      "clause_text": "入ります。",
+      "furigana": "はいります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "カレンダー上",
-      "furigana": "かれんだーじょう",
+      "clause_text": "カレンダー",
+      "furigana": "かれんだー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "上では、",
+      "furigana": "じょうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "１月",
-      "furigana": "いちがつ",
+      "clause_text": "１月から",
+      "furigana": "いちがつから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "から12月が",
-      "furigana": "からいちにがつが",
+      "clause_text": "12月が「１",
+      "furigana": "いちにがつがきごういち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「１年」です。",
-      "furigana": "きごういちねんきごうです。",
+      "clause_text": "年」です。",
+      "furigana": "ねんきごうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ですから、",
-      "furigana": "ですから、",
+      "clause_text": "ですから、１月に「今年は、",
+      "furigana": "ですから、いちがつにきごうことしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "１月に「今年は、たくさん旅行に行きたい！」",
-      "furigana": "いちがつにきごうことしは、たくさんりょこうにいきたい!きごう",
+      "clause_text": "たくさん旅行に",
+      "furigana": "たくさんりょこうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "など、",
-      "furigana": "など、",
+      "clause_text": "行きたい！」など、「新年の",
+      "furigana": "いきたい!きごうなど、きごうしんねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「新年の目標」をみんな",
-      "furigana": "きごうしんねんのもくひょうきごうをみんな",
+      "clause_text": "目標」をみんなで",
+      "furigana": "もくひょうきごうをみんなで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "で話したりします。",
-      "furigana": "ではなしたりします。",
+      "clause_text": "話したりします。",
+      "furigana": "はなしたりします。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:31:19"
+    "extraction_date_time": "2026.07.16 09:39:27"
   }
 }

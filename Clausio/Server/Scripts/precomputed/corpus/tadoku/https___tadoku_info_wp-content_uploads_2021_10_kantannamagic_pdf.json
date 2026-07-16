@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "簡",
-      "furigana": "かん",
+      "clause_text": "簡単に",
+      "furigana": "かんたんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "単にで",
-      "furigana": "に",
+      "clause_text": "できる",
+      "furigana": "できる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,7 +81,7 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "きるマジックを",
+      "clause_text": "マジックを",
       "furigana": "まじっくを",
       "sentence_individual_grammar_level": "N5"
     },
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "は、「手品」",
+      "furigana": "は、きごうてじなきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「手品」",
-      "furigana": "きごうてじなきごう",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "とも",
-      "furigana": "とも",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "パーティー",
-      "furigana": "ぱーてぃー",
+      "clause_text": "パーティーなどで",
+      "furigana": "ぱーてぃーなどで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "などで手品",
-      "furigana": "などでてじな",
+      "clause_text": "手品を",
+      "furigana": "てじなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "をして、",
-      "furigana": "をして、",
+      "clause_text": "して、",
+      "furigana": "して、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この手品で",
-      "furigana": "このてじなで",
+      "clause_text": "この手品では、",
+      "furigana": "このてじなでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "トランプの「７」の",
+      "furigana": "とらんぷのきごうななきごうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "トランプの「７」",
-      "furigana": "とらんぷのきごうななきごう",
+      "clause_text": "カードを",
+      "furigana": "かーどを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "のカードを",
-      "furigana": "のかーどを",
+      "clause_text": "４枚",
+      "furigana": "よんまい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "４枚使います。",
-      "furigana": "よんまいつかいます。",
+      "clause_text": "使います。",
+      "furigana": "つかいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "まず",
-      "furigana": "まず",
+      "clause_text": "まず始めに、この４枚の",
+      "furigana": "まずはじめに、このよんまいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "始めに、",
-      "furigana": "はじめに、",
+      "clause_text": "カードをテーブルの上に",
+      "furigana": "かーどをてーぶるのうえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "この４枚のカードを",
-      "furigana": "このよんまいのかーどを",
+      "clause_text": "並べて、「ここに、ハートの",
+      "furigana": "ならべて、きごうここに、はーとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "テーブルの上に並べて、",
-      "furigana": "てーぶるのうえにならべて、",
+      "clause_text": "７、スペードの７、ダイヤの",
+      "furigana": "なな、すぺーどのなな、だいやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "「ここに、ハートの７、スペードの７、ダイヤの７、クラブの７があります。",
-      "furigana": "きごうここに、はーとのなな、すぺーどのなな、だいやのなな、くらぶのなながあります。",
+      "clause_text": "７、クラブの７があります。",
+      "furigana": "なな、くらぶのなながあります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:43:30"
+    "extraction_date_time": "2026.07.16 09:42:34"
   }
 }

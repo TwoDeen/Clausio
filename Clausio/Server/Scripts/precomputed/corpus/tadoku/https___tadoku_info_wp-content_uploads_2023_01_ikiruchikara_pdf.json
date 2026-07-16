@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "テレビや",
-      "furigana": "てれびや",
+      "clause_text": "テレビやSNSで話題に",
+      "furigana": "てれびやえすえぬえすでわだいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "SNSで話題になった人は、",
-      "furigana": "えすえぬえすでわだいになったひとは、",
+      "clause_text": "なった人は、他の人と",
+      "furigana": "なったひとは、たのひとと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "他の人と違った才能を持っていて、",
-      "furigana": "たのひととちがったさいのうをもっていて、",
+      "clause_text": "違った才能を持っていて、",
+      "furigana": "ちがったさいのうをもっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "何かに成功した",
-      "furigana": "なんかにせいこうした",
+      "clause_text": "何かに成功した人が",
+      "furigana": "なんかにせいこうしたひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "人が多いと思います。",
-      "furigana": "ひとがおおいとおもいます。",
+      "clause_text": "多いと思います。",
+      "furigana": "おおいとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "自分もその人のような人生",
-      "furigana": "じぶんもそのひとのようなじんせい",
+      "clause_text": "自分もその人の",
+      "furigana": "じぶんもそのひとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "を送りたいなと、",
-      "furigana": "をおくりたいなと、",
+      "clause_text": "ような人生を",
+      "furigana": "ようなじんせいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "うらやましい気持ち",
-      "furigana": "うらやましいきもち",
+      "clause_text": "送りたいなと、",
+      "furigana": "おくりたいなと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "になる",
-      "furigana": "になる",
+      "clause_text": "うらやましい気持ちに",
+      "furigana": "うらやましいきもちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "かもしれません。",
-      "furigana": "かもしれません。",
+      "clause_text": "なるかもしれません。",
+      "furigana": "なるかもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "しかし、人生は",
+      "furigana": "しかし、じんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "人生は山あり谷あり",
-      "furigana": "じんせいはやまありたにあり",
+      "clause_text": "山あり谷ありで、",
+      "furigana": "やまありたにありで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "いいことも",
+      "furigana": "いいことも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いいことも悪いこと",
-      "furigana": "いいこともわるいこと",
+      "clause_text": "悪いことも",
+      "furigana": "わるいことも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "も起こります。",
-      "furigana": "もおこります。",
+      "clause_text": "起こります。",
+      "furigana": "おこります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本で",
-      "furigana": "にっぽんで",
+      "clause_text": "日本では、",
+      "furigana": "にっぽんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "野球は",
+      "furigana": "やきゅうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "野球は人気",
-      "furigana": "やきゅうはにんき",
+      "clause_text": "人気が",
+      "furigana": "にんきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "があるスポーツ",
-      "furigana": "があるすぽーつ",
+      "clause_text": "あるスポーツの",
+      "furigana": "あるすぽーつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "のひとつです。",
-      "furigana": "のひとつです。",
+      "clause_text": "ひとつです。",
+      "furigana": "ひとつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "高校生の野球の大会",
-      "furigana": "こうこうせいのやきゅうのたいかい",
+      "clause_text": "高校生の野球の",
+      "furigana": "こうこうせいのやきゅうの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が行われ、",
-      "furigana": "がおこなわれ、",
+      "clause_text": "大会が行われ、",
+      "furigana": "たいかいがおこなわれ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "テレビで全国",
-      "furigana": "てれびでぜんこく",
+      "clause_text": "テレビで全国に",
+      "furigana": "てれびでぜんこくに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に放送されます。",
-      "furigana": "にほうそうされます。",
+      "clause_text": "放送されます。",
+      "furigana": "ほうそうされます。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:21:58"
+    "extraction_date_time": "2026.07.16 09:42:39"
   }
 }

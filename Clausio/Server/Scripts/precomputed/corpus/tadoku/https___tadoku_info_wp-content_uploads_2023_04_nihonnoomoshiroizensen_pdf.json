@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本で",
-      "furigana": "にっぽんで",
+      "clause_text": "日本では天気が",
+      "furigana": "にっぽんではてんきが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は天気がとても変わりやすいの",
-      "furigana": "はてんきがとてもかわりやすいの",
+      "clause_text": "とても変わりやすいので、",
+      "furigana": "とてもかわりやすいので、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "たいていの人は",
+      "furigana": "たいていのひとは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "たいていの人は天気予報",
-      "furigana": "たいていのひとはてんきよほう",
+      "clause_text": "天気予報を見てから",
+      "furigana": "てんきよほうをみてから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "を見てから出かけます。",
-      "furigana": "をみてからでかけます。",
+      "clause_text": "出かけます。",
+      "furigana": "でかけます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "天気予報",
-      "furigana": "てんきよほう",
+      "clause_text": "天気予報では",
+      "furigana": "てんきよほうでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "では天気や気温",
-      "furigana": "ではてんきやきおん",
+      "clause_text": "天気や気温の",
+      "furigana": "てんきやきおんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のことはもちろん、",
-      "furigana": "のことはもちろん、",
+      "clause_text": "ことはもちろん、",
+      "furigana": "ことはもちろん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ちょっとしたアドバイス",
-      "furigana": "ちょっとしたあどばいす",
+      "clause_text": "ちょっとしたアドバイスも",
+      "furigana": "ちょっとしたあどばいすも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "もしてくれます。",
-      "furigana": "もしてくれます。",
+      "clause_text": "してくれます。",
+      "furigana": "してくれます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "例えば、",
-      "furigana": "たとえば、",
+      "clause_text": "例えば、「朝は",
+      "furigana": "たとえば、きごうあさは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「朝は",
-      "furigana": "きごうあさは",
+      "clause_text": "いい天気ですが、",
+      "furigana": "いいてんきですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "いい天気ですが、",
-      "furigana": "いいてんきですが、",
+      "clause_text": "帰宅時間ごろには",
+      "furigana": "きたくじかんごろには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "帰宅",
-      "furigana": "きたく",
+      "clause_text": "雨が",
+      "furigana": "あめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "時間ごろには雨が降ります。",
-      "furigana": "じかんごろにはあめがふります。",
+      "clause_text": "降ります。",
+      "furigana": "ふります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "お出かけの際は、",
-      "furigana": "おでかけのさいは、",
+      "clause_text": "お出かけの際は、折りたたみ傘を鞄に",
+      "furigana": "おでかけのさいは、おりたたみかさをかばんに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "折りたたみ傘を鞄に入れておくといいで",
-      "furigana": "おりたたみかさをかばんにいれておくといい",
+      "clause_text": "入れておくといいでしょう」「熱中症に",
+      "furigana": "いれておくといいでしょうきごうきごうねっちゅうしょうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "しょう」「熱中症にならないよう、",
-      "furigana": "きごうきごうねっちゅうしょうにならないよう、",
+      "clause_text": "ならないよう、水分をこまめにとるように",
+      "furigana": "ならないよう、すいぶんをこまめにとるように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "水分をこまめにとるようにしてください」などといったアドバイスで、",
-      "furigana": "すいぶんをこまめにとるようにしてくださいきごうなどといったあどばいすで、",
+      "clause_text": "してください」などといったアドバイスで、",
+      "furigana": "してくださいきごうなどといったあどばいすで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "天気予報",
-      "furigana": "てんきよほう",
+      "clause_text": "天気予報で",
+      "furigana": "てんきよほうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "で欠かせない",
-      "furigana": "でかかせない",
+      "clause_text": "欠かせないものは",
+      "furigana": "かかせないものは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものは",
-      "furigana": "ものは",
+      "clause_text": "前線の",
+      "furigana": "ぜんせんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "前線の情報です。",
-      "furigana": "ぜんせんのじょうほうです。",
+      "clause_text": "情報です。",
+      "furigana": "じょうほうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:27:35"
+    "extraction_date_time": "2026.07.16 09:36:21"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "外国語を身につけること",
-      "furigana": "がいこくごをみにつけること",
+      "clause_text": "外国語を身につけることは",
+      "furigana": "がいこくごをみにつけることは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "はむずかしいか日本では、",
-      "furigana": "はむずかしいかにっぽんでは、",
+      "clause_text": "むずかしいか日本では、",
+      "furigana": "むずかしいかにっぽんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "中学校・高校",
-      "furigana": "ちゅうがっこう・こうこう",
+      "clause_text": "中学校・高校の",
+      "furigana": "ちゅうがっこう・こうこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の6年間あるいはそれ以上英語",
-      "furigana": "のろくねんかんあるいはそれいじょうえいご",
+      "clause_text": "6年間あるいはそれ以上",
+      "furigana": "ろくねんかんあるいはそれいじょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "を勉強します。",
-      "furigana": "をべんきょうします。",
+      "clause_text": "英語を勉強します。",
+      "furigana": "えいごをべんきょうします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "なかなか英語を",
-      "furigana": "なかなかえいごを",
+      "clause_text": "なかなか",
+      "furigana": "なかなか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "使えるように",
-      "furigana": "つかえるように",
+      "clause_text": "英語を",
+      "furigana": "えいごを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりませ",
-      "furigana": "なりませ",
+      "clause_text": "使えるように",
+      "furigana": "つかえるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "なりません。",
+      "furigana": "なりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ですから、",
-      "furigana": "ですから、",
+      "clause_text": "ですから、多くの",
+      "furigana": "ですから、おおくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "多くの日本人",
-      "furigana": "おおくのにほんじん",
+      "clause_text": "日本人は、外国語を",
+      "furigana": "にほんじんは、がいこくごを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "身につけることは",
+      "furigana": "みにつけることは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "外国語を身につけることはむずかしい",
-      "furigana": "がいこくごをみにつけることはむずかしい",
+      "clause_text": "むずかしいと",
+      "furigana": "むずかしいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "と思っています。",
-      "furigana": "とおもっています。",
+      "clause_text": "思っています。",
+      "furigana": "おもっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "英語やその他",
-      "furigana": "えいごやそのた",
+      "clause_text": "英語やその他のヨーロッパの",
+      "furigana": "えいごやそのたのよーろっぱの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "のヨーロッパの言語",
-      "furigana": "のよーろっぱのげんご",
+      "clause_text": "言語では、「外国語」",
+      "furigana": "げんごでは、きごうがいこくごきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "つまり「外国の",
+      "furigana": "つまりきごうがいこくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "「外国語」つまり「外国の言語」という言い方は",
-      "furigana": "きごうがいこくごきごうつまりきごうがいこくのげんごきごうといういいかたは",
+      "clause_text": "言語」という言い方は",
+      "furigana": "げんごきごうといういいかたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 13:25:53"
+    "extraction_date_time": "2026.07.16 09:49:40"
   }
 }

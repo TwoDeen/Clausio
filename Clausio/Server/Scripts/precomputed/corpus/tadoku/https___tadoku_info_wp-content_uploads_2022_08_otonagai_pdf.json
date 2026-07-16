@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "『鬼",
-      "furigana": "きごうおに",
+      "clause_text": "『鬼滅の",
+      "furigana": "きごうおに滅の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "滅の刃",
-      "furigana": "滅のは",
+      "clause_text": "刃』と",
+      "furigana": "はきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "』というア",
-      "furigana": "きごうという",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ニメーションが",
-      "furigana": "が",
+      "clause_text": "アニメーションが",
+      "furigana": "あにめーしょんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「ビックリマンチョコレート」と",
-      "furigana": "きごうびっくりまんちょこれーときごうと",
+      "clause_text": "「ビックリマンチョコレート」",
+      "furigana": "きごうびっくりまんちょこれーときごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "い",
-      "furigana": "い",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "うお菓子が",
-      "furigana": "おかしが",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あ",
-      "furigana": "あ",
+      "clause_text": "お菓子が",
+      "furigana": "おかしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ります。",
-      "furigana": "ます。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この２つが",
-      "furigana": "このふつつが",
+      "clause_text": "この２つがいっしょに",
+      "furigana": "このふつつがいっしょに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "いっしょに",
-      "furigana": "いっしょに",
+      "clause_text": "なった「鬼滅の",
+      "furigana": "なったきごうおに滅の",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なった「鬼滅の刃マンチョコレート」という",
-      "furigana": "なったきごうおに滅のはまんちょこれーときごうという",
+      "clause_text": "刃マンチョコレート」と",
+      "furigana": "はまんちょこれーときごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "お菓子が、",
-      "furigana": "おかしが、",
+      "clause_text": "いうお菓子が、",
+      "furigana": "いうおかしが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「鬼滅の刃マンチョコレート」は、",
-      "furigana": "きごうおに滅のはまんちょこれーときごうは、",
+      "clause_text": "「鬼滅の",
+      "furigana": "きごうおに滅の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "チョコレー",
-      "furigana": "ちょこれー",
+      "clause_text": "刃マンチョコレート」は、",
+      "furigana": "はまんちょこれーときごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "トが",
-      "furigana": "が",
+      "clause_text": "チョコレートが",
+      "furigana": "ちょこれーとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "チョコレー",
-      "furigana": "ちょこれー",
+      "clause_text": "チョコレート",
+      "furigana": "ちょこれーと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,7 +290,7 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "トが",
+      "clause_text": "が",
       "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "好き",
-      "furigana": "すき",
+      "clause_text": "好きな",
+      "furigana": "すきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "なのです。",
-      "furigana": "なのです。",
+      "clause_text": "のです。",
+      "furigana": "のです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:44:11"
+    "extraction_date_time": "2026.07.16 09:48:32"
   }
 }

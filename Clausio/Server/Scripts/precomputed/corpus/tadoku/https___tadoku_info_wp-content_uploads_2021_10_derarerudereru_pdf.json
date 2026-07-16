@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "出られる？",
-      "furigana": "でられる?",
+      "clause_text": "出られる？出れる？",
+      "furigana": "でられる?でれる?",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "出れる？",
-      "furigana": "でれる?",
+      "clause_text": "文化庁という、",
+      "furigana": "ぶんかちょうという、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "文化庁という、",
-      "furigana": "ぶんかちょうという、",
+      "clause_text": "文化に関する仕事を",
+      "furigana": "ぶんかにかんするしごとを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "文化に関する仕事を行う",
-      "furigana": "ぶんかにかんするしごとをおこなう",
+      "clause_text": "行う、国の",
+      "furigana": "おこなう、くにの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "、国の機関があります。",
-      "furigana": "、くにのきかんがあります。",
+      "clause_text": "機関があります。",
+      "furigana": "きかんがあります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "文化庁は",
-      "furigana": "ぶんかちょうは",
+      "clause_text": "文化庁は、",
+      "furigana": "ぶんかちょうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、いろいろな仕事をしています",
-      "furigana": "、いろいろなしごとをしています",
+      "clause_text": "いろいろな仕事を",
+      "furigana": "いろいろなしごとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "していますが、その中の",
+      "furigana": "していますが、そのなかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "その中の一つに、",
-      "furigana": "そのなかのひとつに、",
+      "clause_text": "一つに、「国語に関する",
+      "furigana": "ひとつに、きごうこくごにかんする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "「国語に関する世論調査」があります。",
-      "furigana": "きごうこくごにかんするよろんちょうさきごうがあります。",
+      "clause_text": "世論調査」があります。",
+      "furigana": "よろんちょうさきごうがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本語の変化",
-      "furigana": "にほんごのへんか",
+      "clause_text": "日本語の",
+      "furigana": "にほんごの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "や、",
-      "furigana": "や、",
+      "clause_text": "変化や、",
+      "furigana": "へんかや、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "新しい言葉",
-      "furigana": "あたらしいことば",
+      "clause_text": "新しい言葉について",
+      "furigana": "あたらしいことばについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "について調べる調査です。",
-      "furigana": "についてしらべるちょうさです。",
+      "clause_text": "調べる調査です。",
+      "furigana": "しらべるちょうさです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この調査は",
+      "furigana": "このちょうさは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "調査は",
-      "furigana": "ちょうさは",
+      "clause_text": "毎年",
+      "furigana": "まいとし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎年行",
-      "furigana": "まいとし",
+      "clause_text": "行われ",
+      "furigana": "おこなわれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "われて",
-      "furigana": "れて",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "2021年の３月に行われた調査",
-      "furigana": "にれいにいちねんのさんがつにおこなわれたちょうさ",
+      "clause_text": "2021年の３月に",
+      "furigana": "にれいにいちねんのさんがつに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "行われた調査では、",
+      "furigana": "おこなわれたちょうさでは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "約3800人の日本語母語話者",
-      "furigana": "やくさんはちれいれいにんのにほんごぼごわしゃ",
+      "clause_text": "約3800人の",
+      "furigana": "やくさんはちれいれいにんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が調査",
-      "furigana": "がちょうさ",
+      "clause_text": "日本語母語話者が",
+      "furigana": "にほんごぼごわしゃが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に参加しました。",
-      "furigana": "にさんかしました。",
+      "clause_text": "調査に参加しました。",
+      "furigana": "ちょうさにさんかしました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:29:13"
+    "extraction_date_time": "2026.07.16 09:50:43"
   }
 }

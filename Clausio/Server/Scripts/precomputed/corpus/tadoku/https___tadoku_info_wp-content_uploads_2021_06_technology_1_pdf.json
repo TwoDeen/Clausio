@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "小学生",
-      "furigana": "しょうがくせい",
+      "clause_text": "小学生のとき、",
+      "furigana": "しょうがくせいのとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "のとき、",
-      "furigana": "のとき、",
+      "clause_text": "年賀状（新年の",
+      "furigana": "ねんがじょうきごうしんねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "年賀状（新年",
-      "furigana": "ねんがじょうきごうしんねん",
+      "clause_text": "あいさつ）を",
+      "furigana": "あいさつきごうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "のあいさつ）を書く",
-      "furigana": "のあいさつきごうをかく",
+      "clause_text": "書くのが",
+      "furigana": "かくのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のが好きでした。",
-      "furigana": "のがすきでした。",
+      "clause_text": "好きでした。",
+      "furigana": "すきでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "多いとき",
-      "furigana": "おおいとき",
+      "clause_text": "多いときは",
+      "furigana": "おおいときは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は50枚ぐらい",
-      "furigana": "はごれいまいぐらい",
+      "clause_text": "50",
+      "furigana": "ごれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "書い",
-      "furigana": "かい",
+      "clause_text": "枚ぐらい",
+      "furigana": "まいぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たと",
-      "furigana": "たと",
+      "clause_text": "書いたと",
+      "furigana": "かいたと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "中学2年生",
-      "furigana": "ちゅうがくにねんせい",
+      "clause_text": "中学2年生の",
+      "furigana": "ちゅうがくにねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "のときは、",
-      "furigana": "のときは、",
+      "clause_text": "ときは、友だちの",
+      "furigana": "ときは、ともだちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "友だちのまねをして、",
-      "furigana": "ともだちのまねをして、",
+      "clause_text": "まねをして、",
+      "furigana": "まねをして、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "アマチュア無線の免許",
-      "furigana": "あまちゅあむせんのめんきょ",
+      "clause_text": "アマチュア無線の",
+      "furigana": "あまちゅあむせんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を取りました。",
-      "furigana": "をとりました。",
+      "clause_text": "免許を取りました。",
+      "furigana": "めんきょをとりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "局を開局",
-      "furigana": "きょくをかいきょく",
+      "clause_text": "局を",
+      "furigana": "きょくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "しまし",
-      "furigana": "しまし",
+      "clause_text": "開局し",
+      "furigana": "かいきょくし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "ました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "年齢も顔もわかりません",
-      "furigana": "ねんれいもかおもわかりません",
+      "clause_text": "年齢も顔もわかりませんが、",
+      "furigana": "ねんれいもかおもわかりませんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "100kmも200kmも",
+      "furigana": "いちれいれいきろめーとるもにれいれいきろめーとるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "100kmも200kmも離れている人と話すこと",
-      "furigana": "いちれいれいきろめーとるもにれいれいきろめーとるもはなれているひととはなすこと",
+      "clause_text": "離れている人と",
+      "furigana": "はなれているひとと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ができて、",
-      "furigana": "ができて、",
+      "clause_text": "話すことができて、",
+      "furigana": "はなすことができて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 13:43:22"
+    "extraction_date_time": "2026.07.16 09:46:10"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "町家を直す人",
-      "furigana": "まちやをなおすひと",
+      "clause_text": "町家を直す人との",
+      "furigana": "まちやをなおすひととの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "との対話２－自由になるため",
-      "furigana": "とのたいわに-じゆうになるため",
+      "clause_text": "対話２－自由になるための",
+      "furigana": "たいわに-じゆうになるための",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の町家－松田：建築",
-      "furigana": "のまちや-まつだきごうけんちく",
+      "clause_text": "町家－松田：建築の",
+      "furigana": "まちや-まつだきごうけんちくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の魅力はいろいろある",
-      "furigana": "のみりょくはいろいろある",
+      "clause_text": "魅力はいろいろあると",
+      "furigana": "みりょくはいろいろあると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "と思っています。",
-      "furigana": "とおもっています。",
+      "clause_text": "思っています。",
+      "furigana": "おもっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "たとえば町家の改修みたいなものは",
-      "furigana": "たとえばまちやのかいしゅうみたいなものは",
+      "clause_text": "たとえば町家の改修みたいなものは、",
+      "furigana": "たとえばまちやのかいしゅうみたいなものは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、茶道で千利休が魚のかごを花器につかったような",
-      "furigana": "、さどうでせんのりきゅうがさかなのかごをかきにつかったような",
+      "clause_text": "茶道で千利休が魚のかごを花器に",
+      "furigana": "さどうでせんのりきゅうがさかなのかごをかきに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、もともとあるものを見直したり、",
-      "furigana": "、もともとあるものをみなおしたり、",
+      "clause_text": "つかったような、もともとあるものを",
+      "furigana": "つかったような、もともとあるものを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あまり形をつくらないで何",
-      "furigana": "あまりかたちをつくらないでなん",
+      "clause_text": "見直したり、あまり形をつくらないで何かを",
+      "furigana": "みなおしたり、あまりかたちをつくらないでなんかを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "かを表すというような魅力があります。",
-      "furigana": "かをあらわすというようなみりょくがあります。",
+      "clause_text": "表すというような魅力があります。",
+      "furigana": "あらわすというようなみりょくがあります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "もう一つ",
-      "furigana": "もうひとつ",
+      "clause_text": "もう一つは",
+      "furigana": "もうひとつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は何",
-      "furigana": "はなん",
+      "clause_text": "何か世界を",
+      "furigana": "なんかせかいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "か世界を",
-      "furigana": "かせかいを",
+      "clause_text": "変えていけるような",
+      "furigana": "かえていけるような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "変えていけるような発信力が",
-      "furigana": "かえていけるようなはっしんりょくが",
+      "clause_text": "発信力が",
+      "furigana": "はっしんりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "どっちも魅力かなと思います",
-      "furigana": "どっちもみりょくかなとおもいます",
+      "clause_text": "どっちも",
+      "furigana": "どっちも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "魅力かなと",
+      "furigana": "みりょくかなと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "林野さんは、",
-      "furigana": "りんやさんは、",
+      "clause_text": "思いますが、",
+      "furigana": "おもいますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "どう考えます",
-      "furigana": "どうかんがえます",
+      "clause_text": "林野さんは、",
+      "furigana": "りんやさんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "どう考えますか。",
+      "furigana": "どうかんがえますか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "すごく自由",
-      "furigana": "すごくじゆう",
+      "clause_text": "すごく自由を",
+      "furigana": "すごくじゆうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "を教えてくれるものだと",
-      "furigana": "をおしえてくれるものだと",
+      "clause_text": "教えてくれる",
+      "furigana": "おしえてくれる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "思うんです",
-      "furigana": "おもうんです",
+      "clause_text": "ものだと",
+      "furigana": "ものだと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "よ。",
-      "furigana": "よ。",
+      "clause_text": "思うんですよ。",
+      "furigana": "おもうんですよ。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 13:41:26"
+    "extraction_date_time": "2026.07.16 09:37:13"
   }
 }

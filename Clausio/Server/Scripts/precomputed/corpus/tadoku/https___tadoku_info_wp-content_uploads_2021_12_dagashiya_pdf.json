@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "駄菓子屋－子供の社会－このお店",
-      "furigana": "だがしや-こどものしゃかい-このおみせ",
+      "clause_text": "駄菓子屋－子供の",
+      "furigana": "だがしや-こどもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "社会－このお店は、お菓子や",
+      "furigana": "しゃかい-このおみせは、おかしや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "お菓子やおもちゃ、",
-      "furigana": "おかしやおもちゃ、",
+      "clause_text": "おもちゃ、有名人の写真や",
+      "furigana": "おもちゃ、ゆうめいじんのしゃしんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "有名人の写真や人気のキャラクターが描いてあるカード",
-      "furigana": "ゆうめいじんのしゃしんやにんきのきゃらくたーがえがいてあるかーど",
+      "clause_text": "人気のキャラクターが描いてある",
+      "furigana": "にんきのきゃらくたーがえがいてある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "などを売っています。",
-      "furigana": "などをうっています。",
+      "clause_text": "カードなどを売っています。",
+      "furigana": "かーどなどをうっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "毎日同じでは",
-      "furigana": "まいにちおなじでは",
+      "clause_text": "毎日",
+      "furigana": "まいにち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "なく",
-      "furigana": "なく",
+      "clause_text": "同じではなくて、",
+      "furigana": "おなじではなくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "て、ときどき",
-      "furigana": "て、ときどき",
+      "clause_text": "ときどき",
+      "furigana": "ときどき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "他のお店",
-      "furigana": "ほかのおみせ",
+      "clause_text": "他のお店に",
+      "furigana": "ほかのおみせに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に比べて、",
-      "furigana": "にくらべて、",
+      "clause_text": "比べて、",
+      "furigana": "くらべて、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "お店",
-      "furigana": "おみせ",
+      "clause_text": "お店が",
+      "furigana": "おみせが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "が開く時間が",
-      "furigana": "がひらくじかんが",
+      "clause_text": "開く時間が",
+      "furigana": "ひらくじかんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "小学生が家",
-      "furigana": "しょうがくせいがいえ",
+      "clause_text": "小学生が",
+      "furigana": "しょうがくせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に帰る時間",
-      "furigana": "にかえるじかん",
+      "clause_text": "家に",
+      "furigana": "いえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に合わせている",
-      "furigana": "にあわせている",
+      "clause_text": "帰る時間に",
+      "furigana": "かえるじかんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "からです。",
-      "furigana": "からです。",
+      "clause_text": "合わせているからです。",
+      "furigana": "あわせているからです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:22:56"
+    "extraction_date_time": "2026.07.16 09:43:10"
   }
 }

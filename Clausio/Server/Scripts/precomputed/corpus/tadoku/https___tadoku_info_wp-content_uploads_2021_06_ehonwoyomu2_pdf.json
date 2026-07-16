@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "加古里子",
-      "furigana": "かこさとご",
+      "clause_text": "加古里子）という",
+      "furigana": "かこさとごきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "）という絵本作家の",
-      "furigana": "きごうというえほんさっかの",
+      "clause_text": "絵本作家の",
+      "furigana": "えほんさっかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "かこさとし",
-      "furigana": "かこさとし",
+      "clause_text": "かこさとしは、",
+      "furigana": "かこさとしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "子どもたちに",
+      "furigana": "こどもたちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "子どもたちに",
-      "furigana": "こどもたちに",
+      "clause_text": "大人気の",
+      "furigana": "だいにんきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大人気の絵本を",
-      "furigana": "だいにんきのえほんを",
+      "clause_text": "絵本をたくさん",
+      "furigana": "えほんをたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "たくさん書いています。",
-      "furigana": "たくさんかいています。",
+      "clause_text": "書いています。",
+      "furigana": "かいています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その中でも、",
+      "furigana": "そのなかでも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "中でも、か",
-      "furigana": "なかでも、",
+      "clause_text": "かこさとしが",
+      "furigana": "かこさとしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "こさとしが得意",
-      "furigana": "さとしがとくい",
+      "clause_text": "得意なのは、科学の",
+      "furigana": "とくいなのは、かがくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "なのは、",
-      "furigana": "なのは、",
+      "clause_text": "テーマを絵本に",
+      "furigana": "てーまをえほんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "科学のテーマを絵本にした科学絵本です。",
-      "furigana": "かがくのてーまをえほんにしたかがくえほんです。",
+      "clause_text": "した科学絵本です。",
+      "furigana": "したかがくえほんです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "かこさとしは人生の後半",
-      "furigana": "かこさとしはじんせいのこうはん",
+      "clause_text": "かこさとしは人生の",
+      "furigana": "かこさとしはじんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "後半に、３冊の",
+      "furigana": "こうはんに、さんさつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "３冊の科学絵本の大作シリーズ",
-      "furigana": "さんさつのかがくえほんのたいさくしりーず",
+      "clause_text": "科学絵本の大作シリーズを",
+      "furigana": "かがくえほんのたいさくしりーずを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "を多くの年月",
-      "furigana": "をおおくのとしつき",
+      "clause_text": "多くの年月を",
+      "furigana": "おおくのとしつきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "をかけて描きました。",
-      "furigana": "をかけてえがきました。",
+      "clause_text": "かけて描きました。",
+      "furigana": "かけてえがきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それ",
-      "furigana": "それ",
+      "clause_text": "それが、『海』（",
+      "furigana": "それが、きごううみきごうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "1969年）、『",
+      "furigana": "いちきゅうろくきゅうねんきごう、きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "『海』（1969年）、",
-      "furigana": "きごううみきごうきごういちきゅうろくきゅうねんきごう、",
+      "clause_text": "地球』（1975",
+      "furigana": "ちきゅうきごうきごういちきゅうななご",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "『地球』（1975年）、",
-      "furigana": "きごうちきゅうきごうきごういちきゅうななごねんきごう、",
+      "clause_text": "年）、『人間』（",
+      "furigana": "ねんきごう、きごうにんげんきごうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "『人間』（1995年）です。",
-      "furigana": "きごうにんげんきごうきごういちきゅうきゅうごねんきごうです。",
+      "clause_text": "1995年）です。",
+      "furigana": "いちきゅうきゅうごねんきごうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:27:24"
+    "extraction_date_time": "2026.07.16 09:39:48"
   }
 }

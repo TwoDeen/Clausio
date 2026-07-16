@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "－夏休みの宿題",
-      "furigana": "-なつやすみのしゅくだい",
+      "clause_text": "－夏休みの宿題を",
+      "furigana": "-なつやすみのしゅくだいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "を研究する－このタイトル",
-      "furigana": "をけんきゅうする-このたいとる",
+      "clause_text": "研究する－このタイトルを",
+      "furigana": "けんきゅうする-このたいとるを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "を読んで、",
-      "furigana": "をよんで、",
+      "clause_text": "読んで、難しそうな",
+      "furigana": "よんで、むずかしそうな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "難しそうな読み物だなと思った",
-      "furigana": "むずかしそうなよみものだなとおもった",
+      "clause_text": "読み物だなと",
+      "furigana": "よみものだなと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "かもしれません。",
-      "furigana": "かもしれません。",
+      "clause_text": "思ったかもしれません。",
+      "furigana": "おもったかもしれません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本の学校",
-      "furigana": "にっぽんのがっこう",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "学校では、",
+      "furigana": "がっこうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "夏休みにたくさん",
-      "furigana": "なつやすみにたくさん",
+      "clause_text": "夏休みに",
+      "furigana": "なつやすみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "の宿題",
-      "furigana": "のしゅくだい",
+      "clause_text": "たくさんの",
+      "furigana": "たくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "があります。",
-      "furigana": "があります。",
+      "clause_text": "宿題があります。",
+      "furigana": "しゅくだいがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "最後",
-      "furigana": "さいご",
+      "clause_text": "最後まで",
+      "furigana": "さいごまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "までやらない人、",
-      "furigana": "までやらないひと、",
+      "clause_text": "やらない人、",
+      "furigana": "やらないひと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は計画を立てて行動すること",
-      "furigana": "わたくしはけいかくをたててこうどうすること",
+      "clause_text": "私は計画を",
+      "furigana": "わたくしはけいかくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が好きなの",
-      "furigana": "がすきなの",
+      "clause_text": "立てて行動することが",
+      "furigana": "たててこうどうすることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "好きなので、まず、",
+      "furigana": "すきなので、まず、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "まず、",
-      "furigana": "まず、",
+      "clause_text": "宿題のスケジュールを",
+      "furigana": "しゅくだいのすけじゅーるを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "宿題のスケジュールを作ります。",
-      "furigana": "しゅくだいのすけじゅーるをつくります。",
+      "clause_text": "作ります。",
+      "furigana": "つくります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:30:37"
+    "extraction_date_time": "2026.07.16 09:45:40"
   }
 }

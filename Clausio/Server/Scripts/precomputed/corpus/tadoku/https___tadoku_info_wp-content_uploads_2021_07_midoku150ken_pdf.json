@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "未読150件!?スマホ",
-      "furigana": "みどくいちごれいけん!?すまほ",
+      "clause_text": "未読150件!?スマホなどで",
+      "furigana": "みどくいちごれいけん!?すまほなどで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "などで短いメッセージを送るためのアプリ",
-      "furigana": "などでみじかいめっせーじをおくるためのあぷり",
+      "clause_text": "短いメッセージを送るための",
+      "furigana": "みじかいめっせーじをおくるための",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "を「メッセンジャー・アプリ」「インスタント・メッセンジャー・アプリ」",
-      "furigana": "をきごうめっせんじゃー・あぷりきごうきごういんすたんと・めっせんじゃー・あぷりきごう",
+      "clause_text": "アプリを「メッセンジャー・",
+      "furigana": "あぷりをきごうめっせんじゃー・",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "などと",
-      "furigana": "などと",
+      "clause_text": "アプリ」「インスタント・メッセンジャー",
+      "furigana": "あぷりきごうきごういんすたんと・めっせんじゃー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "呼びます。",
-      "furigana": "よびます。",
+      "clause_text": "・アプリ」などと呼びます。",
+      "furigana": "・あぷりきごうなどとよびます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,7 +125,7 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いちばんよ",
+      "clause_text": "いちばん",
       "furigana": "いちばん",
       "sentence_individual_grammar_level": "N4"
     },
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "く使われ",
-      "furigana": "つかわれ",
+      "clause_text": "よく",
+      "furigana": "よく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ています。",
-      "furigana": "ています。",
+      "clause_text": "使われています。",
+      "furigana": "つかわれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "LIN",
-      "furigana": "lin",
+      "clause_text": "LINEを",
+      "furigana": "らいんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "Eを",
-      "furigana": "を",
+      "clause_text": "使っ",
+      "furigana": "つかっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "使って",
-      "furigana": "つかって",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "中学生の娘もスマホを持っているの",
-      "furigana": "ちゅうがくせいのむすめもすまほをもっているの",
+      "clause_text": "中学生の娘もスマホを",
+      "furigana": "ちゅうがくせいのむすめもすまほを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "持っているので、",
+      "furigana": "もっているので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "わたしと妻と娘は３人でLINEグループ",
-      "furigana": "わたしとつまとむすめはさんにんでらいんぐるーぷ",
+      "clause_text": "わたしと妻と娘は３人で",
+      "furigana": "わたしとつまとむすめはさんにんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "を作って、",
-      "furigana": "をつくって、",
+      "clause_text": "LINEグループを作って、",
+      "furigana": "らいんぐるーぷをつくって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "あるとき、",
-      "furigana": "あるとき、",
+      "clause_text": "あるとき、妻と",
+      "furigana": "あるとき、つまと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "妻とこんなやりとり",
-      "furigana": "つまとこんなやりとり",
+      "clause_text": "こんなやりとりを",
+      "furigana": "こんなやりとりを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "をしていたら、",
-      "furigana": "をしていたら、",
+      "clause_text": "していたら、娘から「テキスト",
+      "furigana": "していたら、むすめからきごうてきすと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "娘から「テキスト長いwww」というメッセージ",
-      "furigana": "むすめからきごうてきすとながいだぶりゅーだぶりゅーだぶりゅーきごうというめっせーじ",
+      "clause_text": "長いwww」という",
+      "furigana": "ながいだぶりゅーだぶりゅーだぶりゅーきごうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が来ました。",
-      "furigana": "がきました。",
+      "clause_text": "メッセージが来ました。",
+      "furigana": "めっせーじがきました。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:40:22"
+    "extraction_date_time": "2026.07.16 09:34:56"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "子どものスポーツ大会近所のテニスコート",
-      "furigana": "こどものすぽーつたいかいきんじょのてにすこーと",
+      "clause_text": "子どものスポーツ大会近所の",
+      "furigana": "こどものすぽーつたいかいきんじょの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "テニスコートでは、",
+      "furigana": "てにすこーとでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "毎日たくさんの子どもたち",
-      "furigana": "まいにちたくさんのこどもたち",
+      "clause_text": "毎日たくさんの",
+      "furigana": "まいにちたくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "がテニスの練習",
-      "furigana": "がてにすのれんしゅう",
+      "clause_text": "子どもたちがテニスの",
+      "furigana": "こどもたちがてにすの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をしています。",
-      "furigana": "をしています。",
+      "clause_text": "練習をしています。",
+      "furigana": "れんしゅうをしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "朝はやく",
-      "furigana": "あさはやく",
+      "clause_text": "朝はやくから",
+      "furigana": "あさはやくから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "から夜おそく",
-      "furigana": "からよるおそく",
+      "clause_text": "夜おそくまで、",
+      "furigana": "よるおそくまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "まで、",
-      "furigana": "まで、",
+      "clause_text": "みんな一生懸命",
+      "furigana": "みんないっしょうけんめい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みんな一生懸命練習しています。",
-      "furigana": "みんないっしょうけんめいれんしゅうしています。",
+      "clause_text": "練習しています。",
+      "furigana": "れんしゅうしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "子どもたちの肌",
-      "furigana": "こどもたちのはだ",
+      "clause_text": "子どもたちの肌は",
+      "furigana": "こどもたちのはだは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "はどんどん日焼けして、",
-      "furigana": "はどんどんひやけして、",
+      "clause_text": "どんどん日焼けして、",
+      "furigana": "どんどんひやけして、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "顔も体",
-      "furigana": "かおもからだ",
+      "clause_text": "顔も体もたくましく",
+      "furigana": "かおもからだもたくましく",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "もたくましくなっていきます。",
-      "furigana": "もたくましくなっていきます。",
+      "clause_text": "なっていきます。",
+      "furigana": "なっていきます。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "している理由",
-      "furigana": "しているりゆう",
+      "clause_text": "している",
+      "furigana": "している",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "理由は、",
+      "furigana": "りゆうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "試合で勝ちたい",
-      "furigana": "しあいでかちたい",
+      "clause_text": "試合で",
+      "furigana": "しあいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "からだそうです。",
-      "furigana": "からだそうです。",
+      "clause_text": "勝ちたいからだそうです。",
+      "furigana": "かちたいからだそうです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "特に",
-      "furigana": "とくに",
+      "clause_text": "特に上手な",
+      "furigana": "とくにじょうずな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "上手",
-      "furigana": "じょうず",
+      "clause_text": "子どもたちは「全国大会に",
+      "furigana": "こどもたちはきごうぜんこくたいかいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "な子ども",
-      "furigana": "な",
+      "clause_text": "行きたいから、",
+      "furigana": "いきたいから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "たちは",
-      "furigana": "は",
+      "clause_text": "たくさん練習している」と",
+      "furigana": "たくさんれんしゅうしているきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "「全国大会に行きたいから、たくさん練習している」と言います。",
-      "furigana": "きごうぜんこくたいかいにいきたいから、たくさんれんしゅうしているきごうといいます。",
+      "clause_text": "言います。",
+      "furigana": "いいます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:40:11"
+    "extraction_date_time": "2026.07.16 09:41:04"
   }
 }

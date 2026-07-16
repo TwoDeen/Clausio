@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "お客さん",
-      "furigana": "おきゃくさん",
+      "clause_text": "お客さんから",
+      "furigana": "おきゃくさんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "から動物園",
-      "furigana": "からどうぶつえん",
+      "clause_text": "動物園に対する",
+      "furigana": "どうぶつえんにたいする",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に対する意見",
-      "furigana": "にたいするいけん",
+      "clause_text": "意見を",
+      "furigana": "いけんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をもらっています。",
-      "furigana": "をもらっています。",
+      "clause_text": "もらっています。",
+      "furigana": "もらっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある日、",
-      "furigana": "あるひ、",
+      "clause_text": "ある日、「動物園の",
+      "furigana": "あるひ、きごうどうぶつえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「動物園の中のにおいが気になる」という",
-      "furigana": "きごうどうぶつえんのなかのにおいがきになるきごうという",
+      "clause_text": "中のにおいが",
+      "furigana": "なかのにおいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "意見をもらい",
-      "furigana": "いけんをもらい",
+      "clause_text": "気に",
+      "furigana": "きに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "なる」という意見を",
+      "furigana": "なるきごうといういけんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "もらいました。",
+      "furigana": "もらいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "動物園の",
-      "furigana": "どうぶつえんの",
+      "clause_text": "動物園の園長は",
+      "furigana": "どうぶつえんのえんちょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "園長はホームページのブログで、",
-      "furigana": "えんちょうはほーむぺーじのぶろぐで、",
+      "clause_text": "ホームページの",
+      "furigana": "ほーむぺーじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "考えを",
-      "furigana": "かんがえを",
+      "clause_text": "ブログで、考えを",
+      "furigana": "ぶろぐで、かんがえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "病気にならないよう",
-      "furigana": "びょうきにならないよう",
+      "clause_text": "病気に",
+      "furigana": "びょうきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "ならないように、",
+      "furigana": "ならないように、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "きれいな環境",
-      "furigana": "きれいなかんきょう",
+      "clause_text": "きれいな環境で",
+      "furigana": "きれいなかんきょうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "で動物",
-      "furigana": "でどうぶつ",
+      "clause_text": "動物を育てることは",
+      "furigana": "どうぶつをそだてることは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "を育てることは大切です。",
-      "furigana": "をそだてることはたいせつです。",
+      "clause_text": "大切です。",
+      "furigana": "たいせつです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのため",
-      "furigana": "そのため",
+      "clause_text": "そのために、",
+      "furigana": "そのために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "動物園の",
+      "furigana": "どうぶつえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "動物園の",
-      "furigana": "どうぶつえんの",
+      "clause_text": "中を",
+      "furigana": "なかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "中を掃除しています。",
-      "furigana": "なかをそうじしています。",
+      "clause_text": "掃除しています。",
+      "furigana": "そうじしています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:26:17"
+    "extraction_date_time": "2026.07.16 09:35:27"
   }
 }

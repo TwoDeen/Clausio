@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ブリンカーテレビで競馬中継を見ていると、",
-      "furigana": "ぶりんかーてれびでけいばちゅうけいをみていると、",
+      "clause_text": "ブリンカーテレビで競馬中継を",
+      "furigana": "ぶりんかーてれびでけいばちゅうけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "競走馬の中",
-      "furigana": "きょうそうばのなか",
+      "clause_text": "見ていると、競走馬の",
+      "furigana": "みていると、きょうそうばの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "にときどき頭にマスクのようなもの",
-      "furigana": "にときどきあたまにますくのようなもの",
+      "clause_text": "中にときどき頭にマスクの",
+      "furigana": "なかにときどきあたまにますくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "を被っている馬",
-      "furigana": "をかぶっているうま",
+      "clause_text": "ようなものを被っている馬が",
+      "furigana": "ようなものをかぶっているうまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がいることに気づく。",
-      "furigana": "がいることにきづく。",
+      "clause_text": "いることに気づく。",
+      "furigana": "いることにきづく。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "あれはブリンカーという",
-      "furigana": "あれはぶりんかーという",
+      "clause_text": "あれは",
+      "furigana": "あれは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "もので、",
-      "furigana": "もので、",
+      "clause_text": "ブリンカーという",
+      "furigana": "ぶりんかーという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "馬がレースに集中",
-      "furigana": "うまがれーすにしゅうちゅう",
+      "clause_text": "もので、馬がレースに",
+      "furigana": "もので、うまがれーすに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "できるよう",
-      "furigana": "できるよう",
+      "clause_text": "集中できるように",
+      "furigana": "しゅうちゅうできるように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "に被せられる。",
-      "furigana": "にかぶせられる。",
+      "clause_text": "被せられる。",
+      "furigana": "かぶせられる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "馬はとても",
-      "furigana": "うまはとても",
+      "clause_text": "馬はとても視野が",
+      "furigana": "うまはとてもしやが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "視野が",
-      "furigana": "しやが",
+      "clause_text": "広い動物で、",
+      "furigana": "ひろいどうぶつで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "広い",
-      "furigana": "ひろい",
+      "clause_text": "両目で",
+      "furigana": "りょうめで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "動物で、",
-      "furigana": "どうぶつで、",
+      "clause_text": "およそ350度",
+      "furigana": "およそさんごれいど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "両目でおよそ350度見渡せる。",
-      "furigana": "りょうめでおよそさんごれいどみわたせる。",
+      "clause_text": "見渡せる。",
+      "furigana": "みわたせる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "自分の真後ろ以外は見えるのだが",
-      "furigana": "じぶんのまうしろいがいはみえるのだが",
+      "clause_text": "自分の真後ろ以外は",
+      "furigana": "じぶんのまうしろいがいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、これ",
-      "furigana": "、これ",
+      "clause_text": "見えるのだが、",
+      "furigana": "みえるのだが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "これは、野生の",
+      "furigana": "これは、やせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "野生の中で早く敵を発見するの",
-      "furigana": "やせいのなかではやくてきをはっけんするの",
+      "clause_text": "中で早く敵を",
+      "furigana": "なかではやくてきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "に役に立つ。",
-      "furigana": "にやくにたつ。",
+      "clause_text": "発見するのに役に立つ。",
+      "furigana": "はっけんするのにやくにたつ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "しかし、競馬の時には",
+      "furigana": "しかし、けいばのときには",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "競馬の時",
-      "furigana": "けいばのとき",
+      "clause_text": "いろいろなものが",
+      "furigana": "いろいろなものが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "にはいろいろなものが見えてしまう",
-      "furigana": "にはいろいろなものがみえてしまう",
+      "clause_text": "見えてしまうと、",
+      "furigana": "みえてしまうと、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "走ることに",
+      "furigana": "はしることに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "走ることに集中できないことがある。",
-      "furigana": "はしることにしゅうちゅうできないことがある。",
+      "clause_text": "集中できないことがある。",
+      "furigana": "しゅうちゅうできないことがある。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.15 13:32:48"
+    "extraction_date_time": "2026.07.16 09:38:50"
   }
 }

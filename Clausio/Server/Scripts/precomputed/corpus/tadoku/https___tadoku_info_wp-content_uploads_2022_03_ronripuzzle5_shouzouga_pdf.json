@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "よく見て、",
-      "furigana": "よくみて、",
+      "clause_text": "よく見て、その人に",
+      "furigana": "よくみて、そのひとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "その人に似ているように",
-      "furigana": "そのひとににているように",
+      "clause_text": "似ているように",
+      "furigana": "にているように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "かいた絵",
-      "furigana": "かいたえ",
+      "clause_text": "かいた絵を",
+      "furigana": "かいたえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "を肖像画といいます。",
-      "furigana": "をしょうぞうがといいます。",
+      "clause_text": "肖像画といいます。",
+      "furigana": "しょうぞうがといいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある",
-      "furigana": "ある",
+      "clause_text": "ある男性が",
+      "furigana": "あるだんせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "男性が",
-      "furigana": "だんせいが",
+      "clause_text": "肖像画を",
+      "furigana": "しょうぞうがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "肖像画を",
-      "furigana": "しょうぞうがを",
+      "clause_text": "見",
+      "furigana": "み",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見て",
-      "furigana": "みて",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "私は、",
-      "furigana": "わたくしは、",
+      "clause_text": "私は、「誰の",
+      "furigana": "わたくしは、きごうだれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「誰の絵を見ているのですか",
-      "furigana": "きごうだれのえをみているのですか",
+      "clause_text": "絵を",
+      "furigana": "えを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "」と、",
-      "furigana": "きごうと、",
+      "clause_text": "見ているのですか」と、",
+      "furigana": "みているのですかきごうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "すると、",
-      "furigana": "すると、",
+      "clause_text": "する",
+      "furigana": "する",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "その男性はこう",
-      "furigana": "そのだんせいはこう",
+      "clause_text": "と、",
+      "furigana": "と、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "答え",
-      "furigana": "こたえ",
+      "clause_text": "その男性は",
+      "furigana": "そのだんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "こう",
+      "furigana": "こう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "答えました。",
+      "furigana": "こたえました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "かかれている男性",
-      "furigana": "かかれているだんせい",
+      "clause_text": "かかれている",
+      "furigana": "かかれている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の父親は",
-      "furigana": "のちちおやは",
+      "clause_text": "男性の父親は",
+      "furigana": "だんせいのちちおやは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "私の父親の息子",
-      "furigana": "わたくしのちちおやのむすこ",
+      "clause_text": "私の父親の",
+      "furigana": "わたくしのちちおやの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "です」。",
-      "furigana": "ですきごう。",
+      "clause_text": "息子です」。",
+      "furigana": "むすこですきごう。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:36:57"
+    "extraction_date_time": "2026.07.16 09:38:00"
   }
 }

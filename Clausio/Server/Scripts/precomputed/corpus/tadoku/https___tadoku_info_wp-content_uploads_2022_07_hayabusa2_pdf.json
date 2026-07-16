@@ -48,7 +48,7 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "宇宙船「はやぶさ２」はや",
+      "clause_text": "宇宙船「はやぶさ２」",
       "furigana": "うちゅうせんきごうはやぶさにきごう",
       "sentence_individual_grammar_level": "N5"
     },
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぶさ２という",
-      "furigana": "にという",
+      "clause_text": "はやぶさ２という",
+      "furigana": "はやぶさにという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "この宇宙船は",
-      "furigana": "このうちゅうせんは",
+      "clause_text": "この宇宙船は「リュウグウ」と",
+      "furigana": "このうちゅうせんはきごうりゅうぐうきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「リュウグウ」という小さな星を",
-      "furigana": "きごうりゅうぐうきごうというちいさなほしを",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "調べるために",
-      "furigana": "しらべるために",
+      "clause_text": "小さな星を",
+      "furigana": "ちいさなほしを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "作られまし",
-      "furigana": "つくられまし",
+      "clause_text": "調べるために",
+      "furigana": "しらべるために",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "作られました。",
+      "furigana": "つくられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "リュウグウの砂",
-      "furigana": "りゅうぐうのすな",
+      "clause_text": "リュウグウの",
+      "furigana": "りゅうぐうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "をとるため",
-      "furigana": "をとるため",
+      "clause_text": "砂をとるために",
+      "furigana": "すなをとるために",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "にリュウグウ",
-      "furigana": "にりゅうぐう",
+      "clause_text": "リュウグウに",
+      "furigana": "りゅうぐうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "に行きます。",
-      "furigana": "にいきます。",
+      "clause_text": "行きます。",
+      "furigana": "いきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "リュウグウの砂を調べると、",
-      "furigana": "りゅうぐうのすなをしらべると、",
+      "clause_text": "リュウグウの砂を",
+      "furigana": "りゅうぐうのすなを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "生命が生まれた秘密",
-      "furigana": "せいめいがうまれたひみつ",
+      "clause_text": "調べると、生命が",
+      "furigana": "しらべると、せいめいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "がわかる",
-      "furigana": "がわかる",
+      "clause_text": "生まれた秘密が",
+      "furigana": "うまれたひみつが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "かもしれない",
-      "furigana": "かもしれない",
+      "clause_text": "わかるかも",
+      "furigana": "わかるかも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "からです。",
-      "furigana": "からです。",
+      "clause_text": "しれないからです。",
+      "furigana": "しれないからです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "はやぶさ２",
-      "furigana": "はやぶさに",
+      "clause_text": "はやぶさ２は",
+      "furigana": "はやぶさには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "はリュウグウで",
-      "furigana": "はりゅうぐうで",
+      "clause_text": "リュウグウで",
+      "furigana": "りゅうぐうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:38:24"
+    "extraction_date_time": "2026.07.16 09:48:44"
   }
 }

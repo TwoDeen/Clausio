@@ -543,17 +543,32 @@ struct CorpusInfoSheetView: View {
   var body: some View {
     NavigationView {
       List {
-        infoRow("Source", corpusRef?.source)
-        infoRow("Topic ID", corpusRef?.topic_id)
+        infoRow("Copyright", "Tadoku No Hiroba " + (corpusRef?.site_url ?? ""))
+        infoRow("Story", "copyright belongs to respective author(s) of the story")
+        //infoRow("Topic ID", corpusRef?.topic_id)
+        infoRow("Author", corpusRef?.author)
         infoRow("Title", corpusRef?.title)
-        infoRow("Link", corpusRef?.link)
-        infoRow("File Path", corpusRef?.file_path)
+        infoRow("Published Date", corpusRef?.article_date)
+        infoRow("Extraction Date", corpusRef?.extraction_date_time)
+        infoRow("Word Level", corpusRef?.word_level?.description)
+        infoRow("Sentence Level", corpusRef?.sentence_level?.description)
+        if let value = corpusRef?.link, let url = URL(string: value), !value.isEmpty {
+          VStack(alignment: .leading, spacing: 4) {
+            Text("Story  Link:").font(.caption).foregroundColor(.secondary)
+            Link(value, destination: url)
+              .font(.body)
+          }
+          .padding(.vertical, 4)
+        }
+
+//        infoRow("Story Link", corpusRef?.link)
+        //infoRow("File Path", corpusRef?.file_path)
       }
-      .navigationTitle("Story Details")
+      .navigationTitle("Info")
       .navigationBarTitleDisplayMode(.inline)
       .toolbar {
         ToolbarItem(placement: .navigationBarTrailing) {
-          Button("Done") {
+          Button("X") {
             dismiss()
           }
         }

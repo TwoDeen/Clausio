@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "台湾の小学生２人が学校の活動",
-      "furigana": "たいわんのしょうがくせいふたりががっこうのかつどう",
+      "clause_text": "台湾の小学生２人が",
+      "furigana": "たいわんのしょうがくせいふたりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "で海岸を掃除している",
-      "furigana": "でかいがんをそうじしている",
+      "clause_text": "学校の活動で海岸を",
+      "furigana": "がっこうのかつどうでかいがんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ときに、",
-      "furigana": "ときに、",
+      "clause_text": "掃除しているときに、",
+      "furigana": "そうじしているときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "貝や海藻がびっしり付いた箱",
-      "furigana": "かいやかいそうがびっしりついたばこ",
+      "clause_text": "貝や海藻がびっしり",
+      "furigana": "かいやかいそうがびっしり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "を拾った。",
-      "furigana": "をひろった。",
+      "clause_text": "付いた箱を拾った。",
+      "furigana": "ついたばこをひろった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ゴミだと思ってゴミ袋に入れようとした",
-      "furigana": "ごみだとおもってごみぶくろにいれようとした",
+      "clause_text": "ゴミだと思ってゴミ袋に",
+      "furigana": "ごみだとおもってごみぶくろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "入れようとしたが、",
+      "furigana": "いれようとしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "箱の中に何",
-      "furigana": "ばこのなかになん",
+      "clause_text": "箱の中に何かが",
+      "furigana": "ばこのなかになんかが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "かが入っている",
-      "furigana": "かがはいっている",
+      "clause_text": "入っているのが",
+      "furigana": "はいっているのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "のが見えた。",
-      "furigana": "のがみえた。",
+      "clause_text": "見えた。",
+      "furigana": "みえた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「何だろう？」",
-      "furigana": "きごうなんだろう?きごう",
+      "clause_text": "「何だろう？」と",
+      "furigana": "きごうなんだろう?きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "と思って箱を開けてみる",
-      "furigana": "とおもってばこをあけてみる",
+      "clause_text": "思って箱を",
+      "furigana": "おもってばこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "開けてみると、中には",
+      "furigana": "あけてみると、なかには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "中にはデジタルカメラ",
-      "furigana": "なかにはでじたるかめら",
+      "clause_text": "デジタルカメラが",
+      "furigana": "でじたるかめらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "が入っていた。",
-      "furigana": "がはいっていた。",
+      "clause_text": "入っていた。",
+      "furigana": "はいっていた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その箱は",
+      "furigana": "そのばこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "箱は",
-      "furigana": "ばこは",
+      "clause_text": "カメラの",
+      "furigana": "かめらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "カメラの",
-      "furigana": "かめらの",
+      "clause_text": "防水",
+      "furigana": "ぼうすい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "防水",
-      "furigana": "ぼうすい",
+      "clause_text": "ケース",
+      "furigana": "けーす",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ケースだった。",
-      "furigana": "けーすだった。",
+      "clause_text": "だった。",
+      "furigana": "だった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "箱の中に海水",
-      "furigana": "ばこのなかにかいすい",
+      "clause_text": "箱の中に",
+      "furigana": "ばこのなかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は入っていなくて、",
-      "furigana": "ははいっていなくて、",
+      "clause_text": "海水は",
+      "furigana": "かいすいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "カメラ",
-      "furigana": "かめら",
+      "clause_text": "入っていなくて、",
+      "furigana": "はいっていなくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "は無事の",
-      "furigana": "はぶじの",
+      "clause_text": "カメラは",
+      "furigana": "かめらは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ようだった。",
-      "furigana": "ようだった。",
+      "clause_text": "無事のようだった。",
+      "furigana": "ぶじのようだった。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:20:45"
+    "extraction_date_time": "2026.07.16 09:46:56"
   }
 }

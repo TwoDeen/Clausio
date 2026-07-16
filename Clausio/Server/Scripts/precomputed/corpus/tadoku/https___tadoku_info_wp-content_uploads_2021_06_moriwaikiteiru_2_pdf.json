@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「キャ」と",
-      "furigana": "きごうきゃきごうと",
+      "clause_text": "「キャ」",
+      "furigana": "きごうきゃきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ターニャの",
-      "furigana": "たーにゃの",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "叫び声が",
-      "furigana": "さけびごえが",
+      "clause_text": "ターニャの",
+      "furigana": "たーにゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "聞こえ",
-      "furigana": "きこえ",
+      "clause_text": "叫び声が",
+      "furigana": "さけびごえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "聞こえます。",
+      "furigana": "きこえます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「どうしたの？大丈夫？」私たちがいる",
-      "furigana": "きごうどうしたの?だいじょうぶ?きごうわたしたちがいる",
+      "clause_text": "「どうしたの？大丈夫？」私たちが",
+      "furigana": "きごうどうしたの?だいじょうぶ?きごうわたしたちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "のは、蓼科の森の中",
-      "furigana": "のは、たてしなのもりのなか",
+      "clause_text": "いるのは、蓼科の森の中、ターニャの",
+      "furigana": "いるのは、たてしなのもりのなか、たーにゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、ターニャの方を見ると長いシッポのキツネがターニャの叫び声に驚いたの",
-      "furigana": "、たーにゃのほうをみるとながいしっぽのきつねがたーにゃのさけびごえにおどろいたの",
+      "clause_text": "方を見ると長いシッポのキツネが",
+      "furigana": "ほうをみるとながいしっぽのきつねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "か、",
-      "furigana": "か、",
+      "clause_text": "ターニャの叫び声に驚いたのか、",
+      "furigana": "たーにゃのさけびごえにおどろいたのか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "キツネ、ロシア",
-      "furigana": "きつね、ろしあ",
+      "clause_text": "キツネ、ロシアにも",
+      "furigana": "きつね、ろしあにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "にもいるでしょう？",
-      "furigana": "にもいるでしょう?",
+      "clause_text": "いるでしょう？」一番多いのは",
+      "furigana": "いるでしょう?きごういちばんおおいのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "」一番多い",
-      "furigana": "きごういちばんおおい",
+      "clause_text": "鹿、親子の鹿が目の",
+      "furigana": "しか、おやこのしかがめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "のは鹿、",
-      "furigana": "のはしか、",
+      "clause_text": "前に飛び出すことは",
+      "furigana": "まえにとびだすことは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "親子の鹿が目の前に飛び出すことは珍しくありません。",
-      "furigana": "おやこのしかがめのまえにとびだすことはめずらしくありません。",
+      "clause_text": "珍しくありません。",
+      "furigana": "めずらしくありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ウサギやいのしし、",
-      "furigana": "うさぎやいのしし、",
+      "clause_text": "ウサギや",
+      "furigana": "うさぎや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "秋になるとドングリ",
-      "furigana": "あきになるとどんぐり",
+      "clause_text": "いのしし、秋に",
+      "furigana": "いのしし、あきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "を落とす木",
-      "furigana": "をおとすき",
+      "clause_text": "なるとドングリを",
+      "furigana": "なるとどんぐりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "のまわりにはリス",
-      "furigana": "のまわりにはりす",
+      "clause_text": "落とす木のまわりには",
+      "furigana": "おとすきのまわりには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "がよく来ます。",
-      "furigana": "がよくきます。",
+      "clause_text": "リスがよく来ます。",
+      "furigana": "りすがよくきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「先生、熊はいませんよね？」と",
-      "furigana": "きごうせんせい、くまはいませんよね?きごうと",
+      "clause_text": "「先生、",
+      "furigana": "きごうせんせい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "心",
-      "furigana": "こころ",
+      "clause_text": "熊は",
+      "furigana": "くまは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "配そ",
-      "furigana": "はいそ",
+      "clause_text": "いませんよね？」と",
+      "furigana": "いませんよね?きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "うに",
-      "furigana": "に",
+      "clause_text": "心配そうに",
+      "furigana": "しんぱいそうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.15 13:28:36"
+    "extraction_date_time": "2026.07.16 09:42:03"
   }
 }

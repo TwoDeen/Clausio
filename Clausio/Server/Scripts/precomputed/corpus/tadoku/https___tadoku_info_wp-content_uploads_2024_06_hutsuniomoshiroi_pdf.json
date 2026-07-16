@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "先日",
-      "furigana": "せんじつ",
+      "clause_text": "先日、",
+      "furigana": "せんじつ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、友だちと",
-      "furigana": "、ともだちと",
+      "clause_text": "友だちと",
+      "furigana": "ともだちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "その映画に",
-      "furigana": "そのえいがに",
+      "clause_text": "その映画について",
+      "furigana": "そのえいがについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ついて友だち",
-      "furigana": "ついてともだち",
+      "clause_text": "友だちと",
+      "furigana": "ともだちと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と話した。",
-      "furigana": "とはなした。",
+      "clause_text": "話した。",
+      "furigana": "はなした。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「映画、どうだった？」",
-      "furigana": "きごうえいが、どうだった?きごう",
+      "clause_text": "「映画、",
+      "furigana": "きごうえいが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「普通におもしろかった」",
-      "furigana": "きごうふつうにおもしろかったきごう",
+      "clause_text": "どうだった？」「普通に",
+      "furigana": "どうだった?きごうきごうふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "「うん、",
-      "furigana": "きごううん、",
+      "clause_text": "おもしろかった」「うん、",
+      "furigana": "おもしろかったきごうきごううん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通におもしろかっ",
-      "furigana": "ふつうにおもしろかっ",
+      "clause_text": "普通に",
+      "furigana": "ふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "たよね。",
-      "furigana": "たよね。",
+      "clause_text": "おもしろかったよね。",
+      "furigana": "おもしろかったよね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "最後、",
-      "furigana": "さいご、",
+      "clause_text": "最後、感動して",
+      "furigana": "さいご、かんどうして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "感動して泣いちゃった」「うん、うん」そう",
-      "furigana": "かんどうしてないちゃったきごうきごううん、うんきごうそう",
+      "clause_text": "泣いちゃった」「うん、",
+      "furigana": "ないちゃったきごうきごううん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、その映画は",
-      "furigana": "、そのえいがは",
+      "clause_text": "うん」そう、",
+      "furigana": "うんきごうそう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "普通に",
-      "furigana": "ふつうに",
+      "clause_text": "その映画は普通に",
+      "furigana": "そのえいがはふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "夕ごはん",
-      "furigana": "ゆうごはん",
+      "clause_text": "夕ごはんを",
+      "furigana": "ゆうごはんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "を食べたあと、",
-      "furigana": "をたべたあと、",
+      "clause_text": "食べたあと、",
+      "furigana": "たべたあと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "母は",
-      "furigana": "ははは",
+      "clause_text": "母は私に",
+      "furigana": "はははわたくしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "私にこう聞いた。",
-      "furigana": "わたくしにこうきいた。",
+      "clause_text": "こう聞いた。",
+      "furigana": "こうきいた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:41:41"
+    "extraction_date_time": "2026.07.16 09:36:36"
   }
 }

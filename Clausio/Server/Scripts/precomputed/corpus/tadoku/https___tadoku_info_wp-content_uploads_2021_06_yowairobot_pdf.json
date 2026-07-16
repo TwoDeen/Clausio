@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "見つけ",
-      "furigana": "みつけ",
+      "clause_text": "見つけて",
+      "furigana": "みつけて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "て近づい",
-      "furigana": "てちかづい",
+      "clause_text": "近づいて",
+      "furigana": "ちかづいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "てきます。",
-      "furigana": "てきます。",
+      "clause_text": "きます。",
+      "furigana": "きます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "拾うこと",
-      "furigana": "ひろうこと",
+      "clause_text": "拾う",
+      "furigana": "ひろう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ができませ",
-      "furigana": "ができませ",
+      "clause_text": "ことが",
+      "furigana": "ことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "できません。",
+      "furigana": "できません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ゴミの周り",
-      "furigana": "ごみのまわり",
+      "clause_text": "ゴミの",
+      "furigana": "ごみの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "周りで、",
+      "furigana": "まわりで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "少し困って",
-      "furigana": "すこしこまって",
+      "clause_text": "少し",
+      "furigana": "すこし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いるよ",
-      "furigana": "いる",
+      "clause_text": "困っているような",
+      "furigana": "こまっているような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "うな弱い鳴き声を",
-      "furigana": "なよわいなきごえを",
+      "clause_text": "弱い鳴き声を",
+      "furigana": "よわいなきごえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "近くにいる人",
-      "furigana": "ちかくにいるひと",
+      "clause_text": "近くに",
+      "furigana": "ちかくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "いる人に、",
+      "furigana": "いるひとに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ごみ",
-      "furigana": "ごみ",
+      "clause_text": "ごみが",
+      "furigana": "ごみが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "があることを",
-      "furigana": "があることを",
+      "clause_text": "あることを",
+      "furigana": "あることを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:36:30"
+    "extraction_date_time": "2026.07.16 09:44:14"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】アラビアのある大金持ち",
-      "furigana": "きごうもんだいきごうあらびあのあるおおかねもち",
+      "clause_text": "【問題】アラビアの",
+      "furigana": "きごうもんだいきごうあらびあの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "が２人の息子を",
-      "furigana": "がふたりのむすこを",
+      "clause_text": "ある大金持ちが",
+      "furigana": "あるおおかねもちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "呼ん",
-      "furigana": "よん",
+      "clause_text": "２人の息子を",
+      "furigana": "ふたりのむすこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "呼んで、",
+      "furigana": "よんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "真ん中のオアシスまで、",
-      "furigana": "まんなかのおあしすまで、",
+      "clause_text": "真ん中の",
+      "furigana": "まんなかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きみ",
-      "furigana": "きみ",
+      "clause_text": "オアシスまで、",
+      "furigana": "おあしすまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たちの",
-      "furigana": "たちの",
+      "clause_text": "きみたちの馬で",
+      "furigana": "きみたちのうまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "馬で競走しなさい。",
-      "furigana": "うまできょうそうしなさい。",
+      "clause_text": "競走しなさい。",
+      "furigana": "きょうそうしなさい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "どちらか、",
-      "furigana": "どちらか、",
+      "clause_text": "どちらか、勝ったほうの",
+      "furigana": "どちらか、かったほうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "勝ったほうの馬の持ち主",
-      "furigana": "かったほうのうまのもちぬし",
+      "clause_text": "馬の持ち主に、私が",
+      "furigana": "うまのもちぬしに、わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "死んだ後、私の",
+      "furigana": "しんだあと、わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "私が死んだ後、",
-      "furigana": "わたくしがしんだあと、",
+      "clause_text": "全部の財産を",
+      "furigana": "ぜんぶのざいさんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "私の全部の財産をあげることにしよう。",
-      "furigana": "わたくしのぜんぶのざいさんをあげることにしよう。",
+      "clause_text": "あげることにしよう。",
+      "furigana": "あげることにしよう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "競走といって",
-      "furigana": "きょうそうといって",
+      "clause_text": "競走と",
+      "furigana": "きょうそうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "も、",
-      "furigana": "も、",
+      "clause_text": "いっても、",
+      "furigana": "いっても、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふつうの競走ではない",
-      "furigana": "ふつうのきょうそうではない",
+      "clause_text": "ふつうの",
+      "furigana": "ふつうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "よ。",
-      "furigana": "よ。",
+      "clause_text": "競走ではないよ。",
+      "furigana": "きょうそうではないよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なる",
-      "furigana": "なる",
+      "clause_text": "なる、",
+      "furigana": "なる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、のろのろ競走だ。",
-      "furigana": "、のろのろきょうそうだ。",
+      "clause_text": "のろのろ競走だ。",
+      "furigana": "のろのろきょうそうだ。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:29:49"
+    "extraction_date_time": "2026.07.16 09:42:22"
   }
 }

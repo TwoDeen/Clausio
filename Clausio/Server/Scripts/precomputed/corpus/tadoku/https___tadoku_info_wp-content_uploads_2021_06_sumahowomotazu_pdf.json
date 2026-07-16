@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことがない",
-      "furigana": "ことがない",
+      "clause_text": "ことが",
+      "furigana": "ことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "国に",
-      "furigana": "くにに",
+      "clause_text": "ない国に",
+      "furigana": "ないくにに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "その国の",
+      "furigana": "そのくにの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "国の",
-      "furigana": "くにの",
+      "clause_text": "言葉が",
+      "furigana": "ことばが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "言葉が",
-      "furigana": "ことばが",
+      "clause_text": "まったく",
+      "furigana": "まったく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "まったくできない。",
-      "furigana": "まったくできない。",
+      "clause_text": "できない。",
+      "furigana": "できない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんな旅に出る",
-      "furigana": "そんなたびにでる",
+      "clause_text": "そんな旅に",
+      "furigana": "そんなたびに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ときは、",
-      "furigana": "ときは、",
+      "clause_text": "出るときは、",
+      "furigana": "でるときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "出発前から不安",
-      "furigana": "しゅっぱつまえからふあん",
+      "clause_text": "出発前から",
+      "furigana": "しゅっぱつまえから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "と期待で胸",
-      "furigana": "ときたいでむね",
+      "clause_text": "不安と期待で胸が",
+      "furigana": "ふあんときたいでむねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "がどきどきします。",
-      "furigana": "がどきどきします。",
+      "clause_text": "どきどきします。",
+      "furigana": "どきどきします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "これはわたし",
-      "furigana": "これはわたし",
+      "clause_text": "これはわたしが",
+      "furigana": "これはわたしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が数年前、",
-      "furigana": "がすうねんまえ、",
+      "clause_text": "数年前、",
+      "furigana": "すうねんまえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひとりである国",
-      "furigana": "ひとりであるくに",
+      "clause_text": "ひとりである国に",
+      "furigana": "ひとりであるくにに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "に行ったとき",
-      "furigana": "にいったとき",
+      "clause_text": "行ったときの",
+      "furigana": "いったときの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "の話です。",
-      "furigana": "のはなしです。",
+      "clause_text": "話です。",
+      "furigana": "はなしです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:34:36"
+    "extraction_date_time": "2026.07.16 09:47:01"
   }
 }

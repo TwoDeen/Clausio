@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？",
-      "furigana": "か?",
+      "clause_text": "か？「パトリック」「じょうたろう「みきこ」など、",
+      "furigana": "か?きごうぱとりっくきごうきごうじょうたろうきごうみきこきごうなど、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「パトリック」「じょうたろう「みきこ」など、名前で呼ばれていますか？あだ名で呼ばれていますか？「あだ名」",
-      "furigana": "きごうぱとりっくきごうきごうじょうたろうきごうみきこきごうなど、なまえでよばれていますか?あだなでよばれていますか?きごうあだなきごう",
+      "clause_text": "名前で呼ばれていますか？あだ名で呼ばれています",
+      "furigana": "なまえでよばれていますか?あだなでよばれています",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "にはいろいろなものがありますが、",
-      "furigana": "にはいろいろなものがありますが、",
+      "clause_text": "か？「あだ名」にはいろいろなものがありますが、",
+      "furigana": "か?きごうあだなきごうにはいろいろなものがありますが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "例えば、",
-      "furigana": "たとえば、",
+      "clause_text": "例えば、「パトリック」は「パット」、",
+      "furigana": "たとえば、きごうぱとりっくきごうはきごうぱっときごう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「パトリック」は「パット」、",
-      "furigana": "きごうぱとりっくきごうはきごうぱっときごう、",
+      "clause_text": "「じょうたろう」は「じょう」などと",
+      "furigana": "きごうじょうたろうきごうはきごうじょうきごうなどと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "「じょうたろう」",
-      "furigana": "きごうじょうたろうきごう",
+      "clause_text": "呼ばれる",
+      "furigana": "よばれる",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "は「じょう」",
-      "furigana": "はきごうじょうきごう",
+      "clause_text": "ことが",
+      "furigana": "ことが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "などと呼ばれることがあります。",
-      "furigana": "などとよばれることがあります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "また、",
-      "furigana": "また、",
+      "clause_text": "また、「みきこ」という名前の",
+      "furigana": "また、きごうみきこきごうというなまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「みきこ」という名前の人を「みっきー」と呼ぶよう",
-      "furigana": "きごうみきこきごうというなまえのひとをきごうみっきーきごうとよぶよう",
+      "clause_text": "人を「みっきー」と",
+      "furigana": "ひとをきごうみっきーきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "呼ぶように、もともとの",
+      "furigana": "よぶように、もともとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "もともとの名前を少し変えたりすること",
-      "furigana": "もともとのなまえをすこしかえたりすること",
+      "clause_text": "名前を少し変えたり",
+      "furigana": "なまえをすこしかえたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "も多いです。",
-      "furigana": "もおおいです。",
+      "clause_text": "することも多いです。",
+      "furigana": "することもおおいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "他にも",
-      "furigana": "ほかにも",
+      "clause_text": "他にも、「石田」という名前の",
+      "furigana": "ほかにも、きごういしだきごうというなまえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、「石田」という名前の人を「石ちゃん」「石っち」「石ぴょん」",
-      "furigana": "、きごういしだきごうというなまえのひとをきごういしちゃんきごうきごういしっちきごうきごういしぴょんきごう",
+      "clause_text": "人を「石ちゃん」「石っち」「石",
+      "furigana": "ひとをきごういしちゃんきごうきごういしっちきごうきごういし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "などと呼ぶよう",
-      "furigana": "などとよぶよう",
+      "clause_text": "ぴょん」などと呼ぶように、",
+      "furigana": "ぴょんきごうなどとよぶように、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "名前の一部に短い言葉を",
+      "furigana": "なまえのいちぶにみじかいことばを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "名前の一部に短い言葉を付けたあだ名もよく聞きます。",
-      "furigana": "なまえのいちぶにみじかいことばをつけたあだなもよくききます。",
+      "clause_text": "付けたあだ名もよく聞きます。",
+      "furigana": "つけたあだなもよくききます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「あだ名」の中",
-      "furigana": "きごうあだなきごうのなか",
+      "clause_text": "「あだ名」の",
+      "furigana": "きごうあだなきごうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "には、",
-      "furigana": "には、",
+      "clause_text": "中には、もともとの",
+      "furigana": "なかには、もともとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "もともとの名前と全く関係",
-      "furigana": "もともとのなまえとまったくかんけい",
+      "clause_text": "名前と全く関係の",
+      "furigana": "なまえとまったくかんけいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "のないもの",
-      "furigana": "のないもの",
+      "clause_text": "ないものも",
+      "furigana": "ないものも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "もあります。",
-      "furigana": "もあります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:10"
+    "extraction_date_time": "2026.07.16 09:36:30"
   }
 }

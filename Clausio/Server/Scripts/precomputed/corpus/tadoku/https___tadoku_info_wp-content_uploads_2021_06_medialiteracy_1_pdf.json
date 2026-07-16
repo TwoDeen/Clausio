@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "メディア",
-      "furigana": "めでぃあ",
+      "clause_text": "メディアとの3つの",
+      "furigana": "めでぃあとのみっつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "との3つの出会いが",
-      "furigana": "とのみっつのであいが",
+      "clause_text": "出会いが、私の",
+      "furigana": "であいが、わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、私のこれまで",
-      "furigana": "、わたくしのこれまで",
+      "clause_text": "これまでの長い人生の",
+      "furigana": "これまでのながいじんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の長い人生の中",
-      "furigana": "のながいじんせいのなか",
+      "clause_text": "中で、特に思い出に",
+      "furigana": "なかで、とくにおもいでに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、特に思い出に残っています。",
-      "furigana": "で、とくにおもいでにのこっています。",
+      "clause_text": "残っています。",
+      "furigana": "のこっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その第一は",
-      "furigana": "そのだいいちは",
+      "clause_text": "その第一は、",
+      "furigana": "そのだいいちは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、1959年",
-      "furigana": "、いちきゅうごきゅうねん",
+      "clause_text": "1959年、私が",
+      "furigana": "いちきゅうごきゅうねん、わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、私が小学校5年生",
-      "furigana": "、わたくしがしょうがっこうごねんせい",
+      "clause_text": "小学校5年生の",
+      "furigana": "しょうがっこうごねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "のときに、",
-      "furigana": "のときに、",
+      "clause_text": "ときに、家族がテレビを",
+      "furigana": "ときに、かぞくがてれびを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "家族がテレビを買ったことです。",
-      "furigana": "かぞくがてれびをかったことです。",
+      "clause_text": "買ったことです。",
+      "furigana": "かったことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "小さな映画館が",
-      "furigana": "ちいさなえいがかんが",
+      "clause_text": "小さな映画館",
+      "furigana": "ちいさなえいがかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "家に",
-      "furigana": "いえに",
+      "clause_text": "が",
+      "furigana": "が",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "来",
-      "furigana": "き",
+      "clause_text": "家に",
+      "furigana": "いえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "たよ",
-      "furigana": "た",
+      "clause_text": "来たよう",
+      "furigana": "きたよう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,7 +202,7 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "うでした。",
+      "clause_text": "でした。",
       "furigana": "でした。",
       "sentence_individual_grammar_level": "N5"
     },
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "アメリカのアニメ",
-      "furigana": "あめりかのあにめ",
+      "clause_text": "アメリカの",
+      "furigana": "あめりかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の主人公が",
-      "furigana": "のしゅじんこうが",
+      "clause_text": "アニメの",
+      "furigana": "あにめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "テレビの",
-      "furigana": "てれびの",
+      "clause_text": "主人公が",
+      "furigana": "しゅじんこうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "画面で",
-      "furigana": "がめんで",
+      "clause_text": "テレビの画面で",
+      "furigana": "てれびのがめんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それまで",
-      "furigana": "それまで",
+      "clause_text": "それまでは、",
+      "furigana": "それまでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "映画館でしか",
+      "furigana": "えいがかんでしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "映画館でしか動画",
-      "furigana": "えいがかんでしかどうが",
+      "clause_text": "動画を",
+      "furigana": "どうがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "を見ることが",
-      "furigana": "をみることが",
+      "clause_text": "見る",
+      "furigana": "みる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "できませんでした。",
-      "furigana": "できませんでした。",
+      "clause_text": "ことができませんでした。",
+      "furigana": "ことができませんでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 13:36:39"
+    "extraction_date_time": "2026.07.16 09:37:55"
   }
 }

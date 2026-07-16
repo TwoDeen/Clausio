@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "あなた",
-      "furigana": "あなた",
+      "clause_text": "あなたにとってスマホとは何かたくさんある",
+      "furigana": "あなたにとってすまほとはなんかたくさんある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "にとってスマホ",
-      "furigana": "にとってすまほ",
+      "clause_text": "メディアの中で、あなたが一番好きなメディアは",
+      "furigana": "めでぃあのなかで、あなたがいちばんすきなめでぃあは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "とは何かたくさんあるメディアの中で、あなたが一番好きなメディアは何ですか？たぶんスマホ",
-      "furigana": "とはなんかたくさんあるめでぃあのなかで、あなたがいちばんすきなめでぃあはなんですか?たぶんすまほ",
+      "clause_text": "何ですか？たぶんスマホではないでしょうか？",
+      "furigana": "なんですか?たぶんすまほではないでしょうか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ではないでしょうか？メディア・リテラシーのワークの一つ",
-      "furigana": "ではないでしょうか?めでぃあ・りてらしーのわーくのひとつ",
+      "clause_text": "メディア・リテラシーのワークの",
+      "furigana": "めでぃあ・りてらしーのわーくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に、「メディア1週間日記」があります。",
-      "furigana": "に、きごうめでぃあいちしゅうかんにっききごうがあります。",
+      "clause_text": "一つに、「メディア1週間日記」があります。",
+      "furigana": "ひとつに、きごうめでぃあいちしゅうかんにっききごうがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "自分が一番好きなメディアを1日に何時間、",
-      "furigana": "じぶんがいちばんすきなめでぃあをいちにちになんじかん、",
+      "clause_text": "自分が一番好きなメディアを",
+      "furigana": "じぶんがいちばんすきなめでぃあを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どのように使っていたか",
-      "furigana": "どのようにつかっていたか",
+      "clause_text": "1日に何時間、",
+      "furigana": "いちにちになんじかん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "を、",
-      "furigana": "を、",
+      "clause_text": "どのように使っていたかを、",
+      "furigana": "どのようにつかっていたかを、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "1週間、",
-      "furigana": "いちしゅうかん、",
+      "clause_text": "1週間、日記に",
+      "furigana": "いちしゅうかん、にっきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "日記に記録するワークです。",
-      "furigana": "にっきにきろくするわーくです。",
+      "clause_text": "記録するワークです。",
+      "furigana": "きろくするわーくです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あなたもこの日記を",
-      "furigana": "あなたもこのにっきを",
+      "clause_text": "あなたも",
+      "furigana": "あなたも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "つけ",
-      "furigana": "つけ",
+      "clause_text": "この日記を",
+      "furigana": "このにっきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "てみ",
-      "furigana": "てみ",
+      "clause_text": "つけて",
+      "furigana": "つけて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ませ",
-      "furigana": "ませ",
+      "clause_text": "みません",
+      "furigana": "みません",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "んか。",
-      "furigana": "んか。",
+      "clause_text": "か。",
+      "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そう",
-      "furigana": "そう",
+      "clause_text": "そうすると、自分が",
+      "furigana": "そうすると、じぶんが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "すると、",
-      "furigana": "すると、",
+      "clause_text": "好きなメディアと",
+      "furigana": "すきなめでぃあと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "自分が好きなメディアとどのように付き合っているかが分か",
-      "furigana": "じぶんがすきなめでぃあとどのようにつきあっているかが",
+      "clause_text": "どのように付き合っているかが",
+      "furigana": "どのようにつきあっているかが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "って、",
-      "furigana": "て、",
+      "clause_text": "分かって、面白いと",
+      "furigana": "わかって、おもしろいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "面白いと思います。",
-      "furigana": "おもしろいとおもいます。",
+      "clause_text": "思います。",
+      "furigana": "おもいます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "また、",
-      "furigana": "また、",
+      "clause_text": "また、メディアとの",
+      "furigana": "また、めでぃあとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "メディアとの付き合いにそんなに長い時間を使って",
-      "furigana": "めでぃあとのつきあいにそんなにながいじかんをつかって",
+      "clause_text": "付き合いに",
+      "furigana": "つきあいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いたのか、と",
-      "furigana": "いたのか、と",
+      "clause_text": "そんなに長い時間を",
+      "furigana": "そんなにながいじかんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "反省する",
-      "furigana": "はんせいする",
+      "clause_text": "使っていたのか、と",
+      "furigana": "つかっていたのか、と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "かもしれません。",
-      "furigana": "かもしれません。",
+      "clause_text": "反省するかもしれません。",
+      "furigana": "はんせいするかもしれません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.15 13:34:01"
+    "extraction_date_time": "2026.07.16 09:42:09"
   }
 }

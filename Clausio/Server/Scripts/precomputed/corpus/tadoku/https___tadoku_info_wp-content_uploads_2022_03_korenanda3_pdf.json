@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "－その３－「これ何だ？―その2―」",
-      "furigana": "-そのさん-きごうこれなんだ?きごうそのにきごうきごう",
+      "clause_text": "－その３－「これ",
+      "furigana": "-そのさん-きごうこれ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "何だ？―その2―」で、",
+      "furigana": "なんだ?きごうそのにきごうきごうで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "古墳の大きさに",
-      "furigana": "こふんのおおきさに",
+      "clause_text": "古墳の大きさについて",
+      "furigana": "こふんのおおきさについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ついて勉強しました。",
-      "furigana": "ついてべんきょうしました。",
+      "clause_text": "勉強しました。",
+      "furigana": "べんきょうしました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本で一番大きい古墳は何ですか？どれ",
-      "furigana": "にっぽんでいちばんおおきいこふんはなんですか?どれ",
+      "clause_text": "日本で一番大きい古墳は何ですか？",
+      "furigana": "にっぽんでいちばんおおきいこふんはなんですか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ぐらいの長さですか？大きい古墳は、",
-      "furigana": "ぐらいのながさですか?おおきいこふんは、",
+      "clause_text": "どれぐらいの長さですか？",
+      "furigana": "どれぐらいのながさですか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "何県に多いですか？日本で一番大きな古墳",
-      "furigana": "なにけんにおおいですか?にっぽんでいちばんおおきなこふん",
+      "clause_text": "大きい古墳は、何県に多いですか？",
+      "furigana": "おおきいこふんは、なにけんにおおいですか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "日本で一番大きな古墳は、",
+      "furigana": "にっぽんでいちばんおおきなこふんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "古墳",
-      "furigana": "こふん",
+      "clause_text": "古墳は、",
+      "furigana": "こふんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "大阪府に",
+      "furigana": "おおさかふに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "大阪府に",
-      "furigana": "おおさかふに",
+      "clause_text": "あり",
+      "furigana": "あり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その",
-      "furigana": "その",
+      "clause_text": "そのような",
+      "furigana": "そのような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ような大きな前方後円墳は、",
-      "furigana": "ようなおおきなぜんぽうこうえんふんは、",
+      "clause_text": "大きな前方後円墳は、",
+      "furigana": "おおきなぜんぽうこうえんふんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "奈良県",
-      "furigana": "ならけん",
+      "clause_text": "奈良県や",
+      "furigana": "ならけんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "や大阪府に",
-      "furigana": "やおおさかふに",
+      "clause_text": "大阪府に",
+      "furigana": "おおさかふに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "奈良県",
-      "furigana": "ならけん",
+      "clause_text": "奈良県の",
+      "furigana": "ならけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "のことを",
-      "furigana": "のことを",
+      "clause_text": "ことを",
+      "furigana": "ことを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 13:38:33"
+    "extraction_date_time": "2026.07.16 09:46:32"
   }
 }

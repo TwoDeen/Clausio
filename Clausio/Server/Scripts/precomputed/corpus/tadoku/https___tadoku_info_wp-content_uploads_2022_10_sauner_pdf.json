@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "サウナ",
-      "furigana": "さうな",
+      "clause_text": "サウナー",
+      "furigana": "さうなー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ーわた",
-      "furigana": "ーわた",
+      "clause_text": "わたし",
+      "furigana": "わたし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,7 +70,7 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "しは",
+      "clause_text": "は",
       "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "サウナ",
-      "furigana": "さうな",
+      "clause_text": "サウナー",
+      "furigana": "さうなー",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,7 +92,7 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ーです。",
+      "clause_text": "です。",
       "furigana": "です。",
       "sentence_individual_grammar_level": "N5"
     },
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "サウナ",
-      "furigana": "さうな",
+      "clause_text": "サウナーとは、",
+      "furigana": "さうなーとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ーとは、",
-      "furigana": "とは、",
+      "clause_text": "サウナが",
+      "furigana": "さうなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "サウナが大好",
-      "furigana": "さうなが",
+      "clause_text": "大好きで、",
+      "furigana": "だいすきで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "きで、よ",
-      "furigana": "で、",
+      "clause_text": "よくサウナに",
+      "furigana": "よくさうなに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "くサウナに行く人のことです。",
-      "furigana": "さうなにいくひとのことです。",
+      "clause_text": "行く人のことです。",
+      "furigana": "いくひとのことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "大きな風呂や温泉があるところ",
-      "furigana": "おおきなふろやおんせんがあるところ",
+      "clause_text": "大きな風呂や温泉が",
+      "furigana": "おおきなふろやおんせんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "あるところに、",
+      "furigana": "あるところに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "サウナもあること",
-      "furigana": "さうなもあること",
+      "clause_text": "サウナもあることが",
+      "furigana": "さうなもあることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "が多いです。",
-      "furigana": "がおおいです。",
+      "clause_text": "多いです。",
+      "furigana": "おおいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "風呂や温泉がなく、",
-      "furigana": "ふろやおんせんがなく、",
+      "clause_text": "風呂や温泉が",
+      "furigana": "ふろやおんせんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "サウナ",
-      "furigana": "さうな",
+      "clause_text": "なく、サウナだけの",
+      "furigana": "なく、さうなだけの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "だけのところもあります",
-      "furigana": "だけのところもあります",
+      "clause_text": "ところもありますが、",
+      "furigana": "ところもありますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "あまり多くは",
+      "furigana": "あまりおおくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "あまり多くはありません。",
-      "furigana": "あまりおおくはありません。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "わたし",
-      "furigana": "わたし",
+      "clause_text": "わたしは",
+      "furigana": "わたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は大きなお風呂や温泉",
-      "furigana": "はおおきなおふろやおんせん",
+      "clause_text": "大きなお風呂や",
+      "furigana": "おおきなおふろや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が好きなので、",
-      "furigana": "がすきなので、",
+      "clause_text": "温泉が好きなので、",
+      "furigana": "おんせんがすきなので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "子どもの頃",
-      "furigana": "こどものころ",
+      "clause_text": "子どもの頃から",
+      "furigana": "こどものころから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "からよく行っていました。",
-      "furigana": "からよくいっていました。",
+      "clause_text": "よく行っていました。",
+      "furigana": "よくいっていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:33:50"
+    "extraction_date_time": "2026.07.16 09:35:10"
   }
 }

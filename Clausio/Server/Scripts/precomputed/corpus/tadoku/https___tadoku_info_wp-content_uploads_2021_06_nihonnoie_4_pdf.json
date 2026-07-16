@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本にレンガの家は必要",
-      "furigana": "にっぽんにれんがのいえはひつよう",
+      "clause_text": "日本にレンガの",
+      "furigana": "にっぽんにれんがの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？",
-      "furigana": "か?",
+      "clause_text": "家は必要か？",
+      "furigana": "いえはひつようか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "有名な日本の神社",
-      "furigana": "ゆうめいなにっぽんのじんじゃ",
+      "clause_text": "有名な日本の",
+      "furigana": "ゆうめいなにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "神社に、三重県の",
+      "furigana": "じんじゃに、みえけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "三重県の伊勢神宮があります。",
-      "furigana": "みえけんのいせじんぐうがあります。",
+      "clause_text": "伊勢神宮があります。",
+      "furigana": "いせじんぐうがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そこにある神社",
-      "furigana": "そこにあるじんじゃ",
+      "clause_text": "そこに",
+      "furigana": "そこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は20年",
-      "furigana": "はにれいねん",
+      "clause_text": "ある神社は",
+      "furigana": "あるじんじゃは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "に一回、",
-      "furigana": "にいちかい、",
+      "clause_text": "20年に一回、",
+      "furigana": "にれいねんにいちかい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "壊して、",
-      "furigana": "こわして、",
+      "clause_text": "壊して、隣に",
+      "furigana": "こわして、となりに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "隣に建て直します。",
-      "furigana": "となりにたてなおします。",
+      "clause_text": "建て直します。",
+      "furigana": "たてなおします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "何千",
-      "furigana": "なんぜん",
+      "clause_text": "何千年も",
+      "furigana": "なんぜんねんも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "年も前から",
-      "furigana": "ねんもまえから",
+      "clause_text": "前から",
+      "furigana": "まえから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "続けられているルールだ",
-      "furigana": "つづけられているるーるだ",
+      "clause_text": "続けられている",
+      "furigana": "つづけられている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "そうです。",
-      "furigana": "そうです。",
+      "clause_text": "ルールだそうです。",
+      "furigana": "るーるだそうです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "わたし",
-      "furigana": "わたし",
+      "clause_text": "わたしは、",
+      "furigana": "わたしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "どうして壊して",
+      "furigana": "どうしてこわして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どうして壊して作り直すの",
-      "furigana": "どうしてこわしてつくりなおすの",
+      "clause_text": "作り直すのか、",
+      "furigana": "つくりなおすのか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "か、",
-      "furigana": "か、",
+      "clause_text": "ずっと不思議に",
+      "furigana": "ずっとふしぎに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずっと不思議に思っていました。",
-      "furigana": "ずっとふしぎにおもっていました。",
+      "clause_text": "思っていました。",
+      "furigana": "おもっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 13:30:31"
+    "extraction_date_time": "2026.07.16 09:35:52"
   }
 }

@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "近いの",
-      "furigana": "ちかいの",
+      "clause_text": "近い",
+      "furigana": "ちかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "ので、",
+      "furigana": "ので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "実家にいる間",
-      "furigana": "じっかにいるあいだ",
+      "clause_text": "実家にいる間は、",
+      "furigana": "じっかにいるあいだは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "子どもの頃の",
+      "furigana": "こどものころの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "子どもの頃のよう",
-      "furigana": "こどものころのよう",
+      "clause_text": "ように何も",
+      "furigana": "ようになんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "に何もしないで",
-      "furigana": "になんもしないで",
+      "clause_text": "しないで",
+      "furigana": "しないで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "見たり",
-      "furigana": "みたり",
+      "clause_text": "見たり、",
+      "furigana": "みたり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、昼寝を",
-      "furigana": "、ひるねを",
+      "clause_text": "昼寝を",
+      "furigana": "ひるねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "帰るとき",
-      "furigana": "かえるとき",
+      "clause_text": "帰るときは、",
+      "furigana": "かえるときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "いつも子どもたち",
-      "furigana": "いつもこどもたち",
+      "clause_text": "子どもたちと",
+      "furigana": "こどもたちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "といっしょです。",
-      "furigana": "といっしょです。",
+      "clause_text": "いっしょです。",
+      "furigana": "いっしょです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:24:06"
+    "extraction_date_time": "2026.07.16 09:34:24"
   }
 }

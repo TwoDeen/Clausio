@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "詩を",
-      "furigana": "しを",
+      "clause_text": "詩を読む2あたり前な",
+      "furigana": "しをよむにあたりまえな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "読む2あたり前なこと－谷川俊太郎「ぼくは言う」あたり前なことを",
-      "furigana": "よむにあたりまえなこと-たにがわしゅんたろうきごうぼくはゆうきごうあたりまえなことを",
+      "clause_text": "こと－谷川俊太郎「ぼくは",
+      "furigana": "こと-たにがわしゅんたろうきごうぼくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あたり前と思わないで、",
-      "furigana": "あたりまえとおもわないで、",
+      "clause_text": "言う」あたり前なことを",
+      "furigana": "ゆうきごうあたりまえなことを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "考えてみよ",
-      "furigana": "かんがえて",
+      "clause_text": "あたり前と思わないで、",
+      "furigana": "あたりまえとおもわないで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "う、と哲学者は言う。",
-      "furigana": "、とてつがくしゃはゆう。",
+      "clause_text": "考えてみよう、と哲学者は言う。",
+      "furigana": "かんがえてみよう、とてつがくしゃはゆう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "あたり前なこと",
-      "furigana": "あたりまえなこと",
+      "clause_text": "あたり前なことを",
+      "furigana": "あたりまえなことを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "をあたり前にするため",
-      "furigana": "をあたりまえにするため",
+      "clause_text": "あたり前に",
+      "furigana": "あたりまえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "するために、法律に",
+      "furigana": "するために、ほうりつに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "法律に書いておこう",
-      "furigana": "ほうりつにかいておこう",
+      "clause_text": "書いておこう、と",
+      "furigana": "かいておこう、と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "、と法学者は言う。",
-      "furigana": "、とほうがくしゃはゆう。",
+      "clause_text": "法学者は言う。",
+      "furigana": "ほうがくしゃはゆう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "あたり前なことがどのよう",
-      "furigana": "あたりまえなことがどのよう",
+      "clause_text": "あたり前なことが",
+      "furigana": "あたりまえなことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "にあたり前になっている",
-      "furigana": "にあたりまえになっている",
+      "clause_text": "どのようにあたり前に",
+      "furigana": "どのようにあたりまえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "かを調べよう",
-      "furigana": "かをしらべよう",
+      "clause_text": "なっているかを",
+      "furigana": "なっているかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "、と文化人類学者",
-      "furigana": "、とぶんかじんるいがくしゃ",
+      "clause_text": "調べよう、と",
+      "furigana": "しらべよう、と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "は言う。",
-      "furigana": "はゆう。",
+      "clause_text": "文化人類学者は言う。",
+      "furigana": "ぶんかじんるいがくしゃはゆう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、ふつうは",
+      "furigana": "でも、ふつうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふつうはあたり前なこと",
-      "furigana": "ふつうはあたりまえなこと",
+      "clause_text": "あたり前なことについては",
+      "furigana": "あたりまえなことについては",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "については考えないし",
-      "furigana": "についてはかんがえないし",
+      "clause_text": "考えないし、",
+      "furigana": "かんがえないし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、書かないし、",
-      "furigana": "、かかないし、",
+      "clause_text": "書かないし、",
+      "furigana": "かかないし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "あたり前なことについて考える",
-      "furigana": "あたりまえなことについてかんがえる",
+      "clause_text": "あたり前な",
+      "furigana": "あたりまえな",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "のはたいへんだし、書く",
-      "furigana": "のはたいへんだし、かく",
+      "clause_text": "ことについて考えるのは",
+      "furigana": "ことについてかんがえるのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "のは面倒だし、",
-      "furigana": "のはめんどうだし、",
+      "clause_text": "たいへんだし、書くのは",
+      "furigana": "たいへんだし、かくのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "調べるの",
-      "furigana": "しらべるの",
+      "clause_text": "面倒だし、調べるのは",
+      "furigana": "めんどうだし、しらべるのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "はけっこう難しそうだ。",
-      "furigana": "はけっこうむずかしそうだ。",
+      "clause_text": "けっこう難しそうだ。",
+      "furigana": "けっこうむずかしそうだ。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:25:47"
+    "extraction_date_time": "2026.07.16 09:38:38"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "おじいさん",
-      "furigana": "おじいさん",
+      "clause_text": "おじいさんと",
+      "furigana": "おじいさんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "と一緒に家",
-      "furigana": "といっしょにいえ",
+      "clause_text": "一緒に家の",
+      "furigana": "いっしょにいえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の近くの海",
-      "furigana": "のちかくのうみ",
+      "clause_text": "近くの海に",
+      "furigana": "ちかくのうみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に出かけた。",
-      "furigana": "にでかけた。",
+      "clause_text": "出かけた。",
+      "furigana": "でかけた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "しかし男の子",
-      "furigana": "しかしおとこのこ",
+      "clause_text": "しかし男の子は、",
+      "furigana": "しかしおとこのこは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "海に",
+      "furigana": "うみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "海に",
-      "furigana": "うみに",
+      "clause_text": "行く途中で",
+      "furigana": "いくとちゅうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "行く途中で家に",
-      "furigana": "いくとちゅうでいえに",
+      "clause_text": "家に帰ると",
+      "furigana": "いえにかえると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "帰ると言い出した。",
-      "furigana": "かえるといいだした。",
+      "clause_text": "言い出した。",
+      "furigana": "いいだした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人で家",
-      "furigana": "ひとりでいえ",
+      "clause_text": "一人で家に",
+      "furigana": "ひとりでいえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "に戻っている",
-      "furigana": "にもどっている",
+      "clause_text": "戻っている",
+      "furigana": "もどっている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ときに、",
-      "furigana": "ときに、",
+      "clause_text": "ときに、いなく",
+      "furigana": "ときに、いなく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "いなくなってしまった。",
-      "furigana": "いなくなってしまった。",
+      "clause_text": "なってしまった。",
+      "furigana": "なってしまった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "家族や150人以上の警察",
-      "furigana": "かぞくやいちごれいにんいじょうのけいさつ",
+      "clause_text": "家族や",
+      "furigana": "かぞくや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "がいろいろな場所",
-      "furigana": "がいろいろなばしょ",
+      "clause_text": "150人以上の警察が",
+      "furigana": "いちごれいにんいじょうのけいさつが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "を探したが、",
-      "furigana": "をさがしたが、",
+      "clause_text": "いろいろな場所を",
+      "furigana": "いろいろなばしょを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "男の子は",
-      "furigana": "おとこのこは",
+      "clause_text": "探したが、男の子は",
+      "furigana": "さがしたが、おとこのこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "男の子がいなくなって3日後",
-      "furigana": "おとこのこがいなくなってみっかご",
+      "clause_text": "男の子がいなく",
+      "furigana": "おとこのこがいなく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の朝、",
-      "furigana": "のあさ、",
+      "clause_text": "なって3日後の",
+      "furigana": "なってみっかごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "一人のボランティア",
-      "furigana": "ひとりのぼらんてぃあ",
+      "clause_text": "朝、一人の",
+      "furigana": "あさ、ひとりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が捜索に",
-      "furigana": "がそうさくに",
+      "clause_text": "ボランティアが",
+      "furigana": "ぼらんてぃあが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "参加した。",
-      "furigana": "さんかした。",
+      "clause_text": "捜索に参加した。",
+      "furigana": "そうさくにさんかした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:24:29"
+    "extraction_date_time": "2026.07.16 09:46:46"
   }
 }

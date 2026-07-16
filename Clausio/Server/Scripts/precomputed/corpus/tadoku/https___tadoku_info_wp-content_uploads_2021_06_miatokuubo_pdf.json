@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ミアとクーボ次女",
-      "furigana": "みあとくーぼじじょ",
+      "clause_text": "ミアとクーボ次女の",
+      "furigana": "みあとくーぼじじょの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "のミアは、",
-      "furigana": "のみあは、",
+      "clause_text": "ミアは、",
+      "furigana": "みあは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "小さい頃",
-      "furigana": "ちいさいころ",
+      "clause_text": "小さい頃から",
+      "furigana": "ちいさいころから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "から生きものに",
-      "furigana": "からいきものに",
+      "clause_text": "生きものに",
+      "furigana": "いきものに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "母親の友だちの家があり、",
-      "furigana": "ははおやのともだちのいえがあり、",
+      "clause_text": "母親の友だちの",
+      "furigana": "ははおやのともだちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "そこ",
-      "furigana": "そこ",
+      "clause_text": "家があり、そこには",
+      "furigana": "いえがあり、そこには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "にはイチローという大きな雄犬",
-      "furigana": "にはいちろーというおおきなおすいぬ",
+      "clause_text": "イチローという",
+      "furigana": "いちろーという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "がいた。",
-      "furigana": "がいた。",
+      "clause_text": "大きな雄犬がいた。",
+      "furigana": "おおきなおすいぬがいた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "イチローは",
-      "furigana": "いちろーは",
+      "clause_text": "イチローは、",
+      "furigana": "いちろーは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "、遠くから",
-      "furigana": "、とおくから",
+      "clause_text": "遠くからでも",
+      "furigana": "とおくからでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも匂い",
-      "furigana": "でもにおい",
+      "clause_text": "匂いで、ミアが",
+      "furigana": "においで、みあが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、ミアが近づいてくる",
-      "furigana": "で、みあがちかづいてくる",
+      "clause_text": "近づいてくるのが",
+      "furigana": "ちかづいてくるのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のがわかる。",
-      "furigana": "のがわかる。",
+      "clause_text": "わかる。",
+      "furigana": "わかる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "うれしくて、",
-      "furigana": "うれしくて、",
+      "clause_text": "うれしくて、「早く",
+      "furigana": "うれしくて、きごうはやく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "「早く来て！」",
-      "furigana": "きごうはやくきて!きごう",
+      "clause_text": "来て！」と",
+      "furigana": "きて!きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "と吠える。",
-      "furigana": "とほえる。",
+      "clause_text": "吠える。",
+      "furigana": "ほえる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "イチロー",
-      "furigana": "いちろー",
+      "clause_text": "イチローに",
+      "furigana": "いちろーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に近寄ると、",
-      "furigana": "にちかよると、",
+      "clause_text": "近寄ると、走って",
+      "furigana": "ちかよると、はしって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "走ってきて大きな身体",
-      "furigana": "はしってきておおきなしんたい",
+      "clause_text": "きて大きな身体を",
+      "furigana": "きておおきなしんたいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "をぶつけてくる。",
-      "furigana": "をぶつけてくる。",
+      "clause_text": "ぶつけてくる。",
+      "furigana": "ぶつけてくる。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:45"
+    "extraction_date_time": "2026.07.16 09:43:20"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "言葉は思考を洗練する道具",
-      "furigana": "ことばはしこうをせんれんするどうぐ",
+      "clause_text": "言葉は思考を洗練する",
+      "furigana": "ことばはしこうをせんれんする",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "であるこれ",
-      "furigana": "であるこれ",
+      "clause_text": "道具であるこれまでの",
+      "furigana": "どうぐであるこれまでの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "までの外国語教育では、",
-      "furigana": "までのがいこくごきょういくでは、",
+      "clause_text": "外国語教育では、",
+      "furigana": "がいこくごきょういくでは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "コミュニケーション",
-      "furigana": "こみゅにけーしょん",
+      "clause_text": "コミュニケーションが",
+      "furigana": "こみゅにけーしょんが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が重視されてきました。",
-      "furigana": "がじゅうしされてきました。",
+      "clause_text": "重視されてきました。",
+      "furigana": "じゅうしされてきました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ここに言うコミュニケーション",
-      "furigana": "ここにいうこみゅにけーしょん",
+      "clause_text": "ここに言う",
+      "furigana": "ここにいう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "とは、",
-      "furigana": "とは、",
+      "clause_text": "コミュニケーションとは、",
+      "furigana": "こみゅにけーしょんとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "実用的なコミュニケーションをすること",
-      "furigana": "じつようてきなこみゅにけーしょんをすること",
+      "clause_text": "実用的なコミュニケーションを",
+      "furigana": "じつようてきなこみゅにけーしょんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "することと、他の人に自分の",
+      "furigana": "することと、たのひとにじぶんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "他の人に自分の意思を伝えることです。",
-      "furigana": "たのひとにじぶんのいしをつたえることです。",
+      "clause_text": "意思を伝えることです。",
+      "furigana": "いしをつたえることです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "コミュニケーション",
-      "furigana": "こみゅにけーしょん",
+      "clause_text": "コミュニケーションは",
+      "furigana": "こみゅにけーしょんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は言語の",
-      "furigana": "はげんごの",
+      "clause_text": "言語の",
+      "furigana": "げんごの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "重要な役割で",
-      "furigana": "じゅうようなやくわりで",
+      "clause_text": "重要な役割である",
+      "furigana": "じゅうようなやくわりである",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "あることは",
-      "furigana": "あることは",
+      "clause_text": "ことは間違い",
+      "furigana": "ことはまちがい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "間違いありません。",
-      "furigana": "まちがいありません。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "しかし、言語には",
+      "furigana": "しかし、げんごには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "言語",
-      "furigana": "げんご",
+      "clause_text": "もう1つの",
+      "furigana": "もうひとつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "にはもう1つの",
-      "furigana": "にはもうひとつの",
+      "clause_text": "とても重要な",
+      "furigana": "とてもじゅうような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "とても重要な役割",
-      "furigana": "とてもじゅうようなやくわり",
+      "clause_text": "役割が",
+      "furigana": "やくわりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "があります。",
-      "furigana": "があります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "言語",
-      "furigana": "げんご",
+      "clause_text": "言語は、",
+      "furigana": "げんごは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "人間の",
+      "furigana": "にんげんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "人間の思考や意識",
-      "furigana": "にんげんのしこうやいしき",
+      "clause_text": "思考や",
+      "furigana": "しこうや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と直接",
-      "furigana": "とちょくせつ",
+      "clause_text": "意識と直接に",
+      "furigana": "いしきとちょくせつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に関わっているのです。",
-      "furigana": "にかかわっているのです。",
+      "clause_text": "関わっているのです。",
+      "furigana": "かかわっているのです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 13:26:34"
+    "extraction_date_time": "2026.07.16 09:49:56"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "普通に金魚",
-      "furigana": "ふつうにきんぎょ",
+      "clause_text": "普通に金魚を",
+      "furigana": "ふつうにきんぎょを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "を見る",
-      "furigana": "をみる",
+      "clause_text": "見る",
+      "furigana": "みる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ところで",
-      "furigana": "ところで",
+      "clause_text": "ところでは",
+      "furigana": "ところでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "はありません。",
-      "furigana": "はありません。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「光」「影」「音楽」「日本文化」を",
-      "furigana": "きごうひかりきごうきごうかげきごうきごうおんがくきごうきごうにっぽんぶんかきごうを",
+      "clause_text": "「光」「影」「音楽」「日本",
+      "furigana": "きごうひかりきごうきごうかげきごうきごうおんがくきごうきごうにっぽん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "感じながら、",
-      "furigana": "かんじながら、",
+      "clause_text": "文化」を",
+      "furigana": "ぶんかきごうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "金魚を",
-      "furigana": "きんぎょを",
+      "clause_text": "感じながら、",
+      "furigana": "かんじながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見ること",
-      "furigana": "みること",
+      "clause_text": "金魚を",
+      "furigana": "きんぎょを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "見ることができます。",
+      "furigana": "みることができます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "楽しむこと",
-      "furigana": "たのしむこと",
+      "clause_text": "楽しむ",
+      "furigana": "たのしむ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "ことができます。",
+      "furigana": "ことができます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、日本のガラス、着物",
-      "furigana": "そして、にっぽんのがらす、きもの",
+      "clause_text": "そして、日本の",
+      "furigana": "そして、にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、陶器、",
-      "furigana": "、とうき、",
+      "clause_text": "ガラス、着物、",
+      "furigana": "がらす、きもの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "建築を取り入れて、",
-      "furigana": "けんちくをとりいれて、",
+      "clause_text": "陶器、建築を",
+      "furigana": "とうき、けんちくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "「日本文化」も知ること",
-      "furigana": "きごうにっぽんぶんかきごうもしること",
+      "clause_text": "取り入れて、「日本文化」も",
+      "furigana": "とりいれて、きごうにっぽんぶんかきごうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "知ることができます。",
+      "furigana": "しることができます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "いつもとは",
+      "furigana": "いつもとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "とは",
-      "furigana": "とは",
+      "clause_text": "違う",
+      "furigana": "ちがう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "違う世界に",
-      "furigana": "ちがうせかいに",
+      "clause_text": "世界に",
+      "furigana": "せかいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:22:11"
+    "extraction_date_time": "2026.07.16 09:35:16"
   }
 }

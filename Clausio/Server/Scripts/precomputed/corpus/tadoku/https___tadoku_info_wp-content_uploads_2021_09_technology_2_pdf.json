@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いくらお金を",
-      "furigana": "いくらおかねを",
+      "clause_text": "いくら",
+      "furigana": "いくら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "使ったでしょう",
-      "furigana": "つかったでしょう",
+      "clause_text": "お金を",
+      "furigana": "おかねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "使ったでしょうか。",
+      "furigana": "つかったでしょうか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "お昼ごはん",
-      "furigana": "おひるごはん",
+      "clause_text": "お昼ごはんは、",
+      "furigana": "おひるごはんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "会社の",
+      "furigana": "かいしゃの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "会社の食堂で",
-      "furigana": "かいしゃのしょくどうで",
+      "clause_text": "食堂で",
+      "furigana": "しょくどうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "460円の",
-      "furigana": "よんろくれいえんの",
+      "clause_text": "460",
+      "furigana": "よんろくれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "唐揚げ",
-      "furigana": "からあげ",
+      "clause_text": "円の",
+      "furigana": "えんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "丼を",
-      "furigana": "どんを",
+      "clause_text": "唐揚げ丼を",
+      "furigana": "からあげどんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "午後",
-      "furigana": "ごご",
+      "clause_text": "午後、",
+      "furigana": "ごご、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、自動販売機で",
-      "furigana": "、じどうはんばいきで",
+      "clause_text": "自動販売機で",
+      "furigana": "じどうはんばいきで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 13:42:33"
+    "extraction_date_time": "2026.07.16 09:35:31"
   }
 }

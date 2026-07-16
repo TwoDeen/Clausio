@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "計算",
-      "furigana": "けいさん",
+      "clause_text": "計算ができない！買い物の",
+      "furigana": "けいさんができない!かいものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ができない！買い物の",
-      "furigana": "ができない!かいものの",
+      "clause_text": "とき、スマートフォンの",
+      "furigana": "とき、すまーとふぉんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "とき、スマートフォンのアプリや、クレジットカード、プリペイドカード",
-      "furigana": "とき、すまーとふぉんのあぷりや、くれじっとかーど、ぷりぺいどかーど",
+      "clause_text": "アプリや、クレジットカード、",
+      "furigana": "あぷりや、くれじっとかーど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "などを使って、",
-      "furigana": "などをつかって、",
+      "clause_text": "プリペイドカードなどを使って、料金を",
+      "furigana": "ぷりぺいどかーどなどをつかって、りょうきんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "料金を払うことが多くなってきました。",
-      "furigana": "りょうきんをはらうことがおおくなってきました。",
+      "clause_text": "払うことが多くなってきました。",
+      "furigana": "はらうことがおおくなってきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "小さなお店",
-      "furigana": "ちいさなおみせ",
+      "clause_text": "小さなお店などでは、",
+      "furigana": "ちいさなおみせなどでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "などで",
-      "furigana": "などで",
+      "clause_text": "現金（キャッシュ）しか",
+      "furigana": "げんきんきごうきゃっしゅきごうしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、現金（キャッシュ）しか使えないところもあります",
-      "furigana": "は、げんきんきごうきゃっしゅきごうしかつかえないところもあります",
+      "clause_text": "使えないところもありますが、",
+      "furigana": "つかえないところもありますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "が、多くのお店で",
-      "furigana": "が、おおくのおみせで",
+      "clause_text": "多くのお店ではキャッシュレスで",
+      "furigana": "おおくのおみせではきゃっしゅれすで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "はキャッシュレスで払うことができます。",
-      "furigana": "はきゃっしゅれすではらうことができます。",
+      "clause_text": "払うことができます。",
+      "furigana": "はらうことができます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "とても便利で",
-      "furigana": "とてもべんり",
+      "clause_text": "とても便利ですが、",
+      "furigana": "とてもべんりですが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すが、",
-      "furigana": "が、",
+      "clause_text": "私たちの暗算の",
+      "furigana": "わたしたちのあんざんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "私たちの暗算の能力は一気に落ちて",
-      "furigana": "わたしたちのあんざんののうりょくはいっきにおちて",
+      "clause_text": "能力は一気に",
+      "furigana": "のうりょくはいっきに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "しまったのでは",
-      "furigana": "しまったのでは",
+      "clause_text": "落ちてしまった",
+      "furigana": "おちてしまった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ないでしょうか。",
-      "furigana": "ないでしょうか。",
+      "clause_text": "のではないでしょうか。",
+      "furigana": "のではないでしょうか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「暗算」という",
-      "furigana": "きごうあんざんきごうという",
+      "clause_text": "「暗算」というのは、",
+      "furigana": "きごうあんざんきごうというのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "のは",
-      "furigana": "のは",
+      "clause_text": "計算機を使ったり紙に",
+      "furigana": "けいさんきをつかったりかみに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、計算機を使ったり紙に書いたりしないで",
-      "furigana": "、けいさんきをつかったりかみにかいたりしないで",
+      "clause_text": "書いたりしないで、",
+      "furigana": "かいたりしないで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、頭の中",
-      "furigana": "、あたまのなか",
+      "clause_text": "頭の中だけで計算を",
+      "furigana": "あたまのなかだけでけいさんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "だけで計算をすることです。",
-      "furigana": "だけでけいさんをすることです。",
+      "clause_text": "することです。",
+      "furigana": "することです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は",
-      "furigana": "わたくしは",
+      "clause_text": "私は、2010年代の",
+      "furigana": "わたくしは、にれいいちれいねんだいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、2010年代の前半",
-      "furigana": "、にれいいちれいねんだいのぜんはん",
+      "clause_text": "前半くらいまでは、",
+      "furigana": "ぜんはんくらいまでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "くらいまでは",
-      "furigana": "くらいまでは",
+      "clause_text": "買い物のときは",
+      "furigana": "かいもののときは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、買い物",
-      "furigana": "、かいもの",
+      "clause_text": "いつも現金で",
+      "furigana": "いつもげんきんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のときはいつも現金で払っていました。",
-      "furigana": "のときはいつもげんきんではらっていました。",
+      "clause_text": "払っていました。",
+      "furigana": "はらっていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:24:22"
+    "extraction_date_time": "2026.07.16 09:45:46"
   }
 }

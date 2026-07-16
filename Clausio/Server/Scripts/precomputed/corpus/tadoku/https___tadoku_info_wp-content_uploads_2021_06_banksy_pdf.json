@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "バン",
-      "furigana": "ばん",
+      "clause_text": "バンクシーという",
+      "furigana": "ばんくしーという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "クシーというアーティストの",
-      "furigana": "というあーてぃすとの",
+      "clause_text": "アーティストの",
+      "furigana": "あーてぃすとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バンクシーという名前",
-      "furigana": "ばんくしーというなまえ",
+      "clause_text": "バンクシーという名前は",
+      "furigana": "ばんくしーというなまえは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "はもちろんニックネームで、彼（彼女",
-      "furigana": "はもちろんにっくねーむで、かれきごうかのじょ",
+      "clause_text": "もちろんニックネームで、",
+      "furigana": "もちろんにっくねーむで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "かもしれないが、ここで",
-      "furigana": "かもしれないが、ここで",
+      "clause_text": "彼（彼女かもしれないが、",
+      "furigana": "かれきごうかのじょかもしれないが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "は彼と言おう）の本名も、どんな人",
-      "furigana": "はかれといおうきごうのほんみょうも、どんなひと",
+      "clause_text": "ここでは彼と言おう）の本名も、",
+      "furigana": "ここではかれといおうきごうのほんみょうも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "かもわからない。",
-      "furigana": "かもわからない。",
+      "clause_text": "どんな人かもわからない。",
+      "furigana": "どんなひとかもわからない。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "生まれた場所はイギリス",
-      "furigana": "うまれたばしょはいぎりす",
+      "clause_text": "生まれた場所はイギリスの",
+      "furigana": "うまれたばしょはいぎりすの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "のブリストルという町だと言われている",
-      "furigana": "のぶりすとるというまちだといわれている",
+      "clause_text": "ブリストルという町だと",
+      "furigana": "ぶりすとるというまちだと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "言われているが、",
+      "furigana": "いわれているが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "それも本当かどう",
-      "furigana": "それもほんとうかどう",
+      "clause_text": "それも本当か",
+      "furigana": "それもほんとうか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "かはわからない。",
-      "furigana": "かはわからない。",
+      "clause_text": "どうかはわからない。",
+      "furigana": "どうかはわからない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "彼は町に出て、",
-      "furigana": "かれはまちにでて、",
+      "clause_text": "彼は町に",
+      "furigana": "かれはまちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "建物や電車",
-      "furigana": "たてものやでんしゃ",
+      "clause_text": "出て、建物や",
+      "furigana": "でて、たてものや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の壁に絵",
-      "furigana": "のかべにえ",
+      "clause_text": "電車の壁に",
+      "furigana": "でんしゃのかべに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "を描く、",
-      "furigana": "をえがく、",
+      "clause_text": "絵を描く、",
+      "furigana": "えをえがく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:41:35"
+    "extraction_date_time": "2026.07.16 09:35:22"
   }
 }

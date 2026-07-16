@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "古墳は、",
-      "furigana": "こふんは、",
+      "clause_text": "古墳は、何でしたか？だれの",
+      "furigana": "こふんは、なんでしたか?だれの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "何でしたか？だれのお墓でしたか？いつつくられ始めましたか？どこでつくられました",
-      "furigana": "なんでしたか?だれのおはかでしたか?いつつくられはじめましたか?どこでつくられました",
+      "clause_text": "お墓でしたか？いつつくられ",
+      "furigana": "おはかでしたか?いつつくられ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？",
-      "furigana": "か?",
+      "clause_text": "始めましたか？どこで",
+      "furigana": "はじめましたか?どこで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "忘れてしまった人は、もう一度読んでみて",
-      "furigana": "わすれてしまったひとは、もういちどよんでみて",
+      "clause_text": "つくられましたか？忘れてしまった",
+      "furigana": "つくられましたか?わすれてしまった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ください。",
-      "furigana": "ください。",
+      "clause_text": "人は、もう一度読んでみてください。",
+      "furigana": "ひとは、もういちどよんでみてください。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本で一番大きな古墳",
-      "furigana": "にっぽんでいちばんおおきなこふん",
+      "clause_text": "日本で一番大きな古墳は",
+      "furigana": "にっぽんでいちばんおおきなこふんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "はどれぐらい",
-      "furigana": "はどれぐらい",
+      "clause_text": "どれぐらいの",
+      "furigana": "どれぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "の大きさだと思います",
-      "furigana": "のおおきさだとおもいます",
+      "clause_text": "大きさだと",
+      "furigana": "おおきさだと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "か？",
-      "furigana": "か?",
+      "clause_text": "思いますか？525ｍも",
+      "furigana": "おもいますか?ごにごめーとるも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "525ｍもあります※。",
-      "furigana": "ごにごめーとるもありますきごう。",
+      "clause_text": "あります※。",
+      "furigana": "ありますきごう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "525ｍ",
-      "furigana": "ごにごめーとる",
+      "clause_text": "525ｍとは、",
+      "furigana": "ごにごめーとるとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "とは、",
-      "furigana": "とは、",
+      "clause_text": "どれぐらいの",
+      "furigana": "どれぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どれぐらい",
-      "furigana": "どれぐらい",
+      "clause_text": "長さでしょうか？学校の",
+      "furigana": "ながさでしょうか?がっこうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の長さでしょう",
-      "furigana": "のながさでしょう",
+      "clause_text": "25mプール21個と",
+      "furigana": "にごめーとるぷーるにいちこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "か？学校の25mプール21個と同じ長さです。",
-      "furigana": "か?がっこうのにごめーとるぷーるにいちことおなじながさです。",
+      "clause_text": "同じ長さです。",
+      "furigana": "おなじながさです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "525m525",
-      "furigana": "ごにごめーとるごにご",
+      "clause_text": "525m525m",
+      "furigana": "ごにごめーとるごにごめーとる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "m日本で",
-      "furigana": "めーとるにっぽんで",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 13:36:25"
+    "extraction_date_time": "2026.07.16 09:45:35"
   }
 }

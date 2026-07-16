@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "僕の夢は",
-      "furigana": "ぼくのゆめは",
+      "clause_text": "僕の夢は兵士になることだった－日本で",
+      "furigana": "ぼくのゆめはへいしになることだった-にっぽんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "兵士になることだった－日本で学ぶ難民ベントゥ－カレン族という少数民族のベントゥは、",
-      "furigana": "へいしになることだった-にっぽんでまなぶなんみんべんとぅ-かれんぞくというしょうすうみんぞくのべんとぅは、",
+      "clause_text": "学ぶ難民ベントゥ－カレン族という",
+      "furigana": "まなぶなんみんべんとぅ-かれんぞくという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "タイの難民キャンプで",
-      "furigana": "たいのなんみんきゃんぷで",
+      "clause_text": "少数民族のベントゥは、タイの",
+      "furigana": "しょうすうみんぞくのべんとぅは、たいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "生まれ育ち、",
-      "furigana": "うまれそだち、",
+      "clause_text": "難民キャンプで生まれ育ち、",
+      "furigana": "なんみんきゃんぷでうまれそだち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "祖国ミャンマーで",
-      "furigana": "そこくみゃんまーで",
+      "clause_text": "祖国ミャンマーでは",
+      "furigana": "そこくみゃんまーでは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は民族の争いが続いていて、",
-      "furigana": "はみんぞくのあらそいがつづいていて、",
+      "clause_text": "民族の争いが",
+      "furigana": "みんぞくのあらそいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ミャンマー軍に追われ、",
-      "furigana": "みゃんまーぐんにおわれ、",
+      "clause_text": "続いていて、",
+      "furigana": "つづいていて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "住むこと",
-      "furigana": "すむこと",
+      "clause_text": "ミャンマー軍に追われ、",
+      "furigana": "みゃんまーぐんにおわれ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ができません。",
-      "furigana": "ができません。",
+      "clause_text": "住むことができません。",
+      "furigana": "すむことができません。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "自由に",
-      "furigana": "じゆうに",
+      "clause_text": "自由について",
+      "furigana": "じゆうについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ついてどのように",
-      "furigana": "ついてどのように",
+      "clause_text": "どのように",
+      "furigana": "どのように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "考えています",
-      "furigana": "かんがえています",
+      "clause_text": "考えて",
+      "furigana": "かんがえて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "いますか。",
+      "furigana": "いますか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "次の休み",
-      "furigana": "つぎのやすみ",
+      "clause_text": "次の休みには旅行へ",
+      "furigana": "つぎのやすみにはりょこうへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "には旅行へ行こうかな、",
-      "furigana": "にはりょこうへいこうかな、",
+      "clause_text": "行こうかな、将来は",
+      "furigana": "いこうかな、しょうらいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "将来はどんな仕事をしようかな、",
-      "furigana": "しょうらいはどんなしごとをしようかな、",
+      "clause_text": "どんな仕事を",
+      "furigana": "どんなしごとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "など色々な選択がある",
-      "furigana": "などいろいろなせんたくがある",
+      "clause_text": "しようかな、など色々な",
+      "furigana": "しようかな、などいろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "と思います。",
-      "furigana": "とおもいます。",
+      "clause_text": "選択があると思います。",
+      "furigana": "せんたくがあるとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "難民キャンプ",
-      "furigana": "なんみんきゃんぷ",
+      "clause_text": "難民",
+      "furigana": "なんみん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ではそうは",
-      "furigana": "ではそうは",
+      "clause_text": "キャンプでは",
+      "furigana": "きゃんぷでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "いきませ",
-      "furigana": "いきませ",
+      "clause_text": "そうは",
+      "furigana": "そうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "いきません。",
+      "furigana": "いきません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.15 13:26:10"
+    "extraction_date_time": "2026.07.16 09:38:18"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ベトナムのホーチミン市に",
-      "furigana": "べとなむのほーちみんしに",
+      "clause_text": "ベトナムの",
+      "furigana": "べとなむの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "住ん",
-      "furigana": "すん",
+      "clause_text": "ホーチミン市に",
+      "furigana": "ほーちみんしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいたことが",
-      "furigana": "でいたことが",
+      "clause_text": "住んでいたことが",
+      "furigana": "すんでいたことが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "住む",
-      "furigana": "すむ",
+      "clause_text": "住む前は、",
+      "furigana": "すむまえは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "前は、",
-      "furigana": "まえは、",
+      "clause_text": "ベトナムの食べ物と",
+      "furigana": "べとなむのたべものと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ベトナムの食べ",
-      "furigana": "べとなむの",
+      "clause_text": "言えば「フォー（",
+      "furigana": "いえばきごうふぉーきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "物と言えば「フォー（Phở）」",
-      "furigana": "といえばきごうふぉーきごうphởきごうきごう",
+      "clause_text": "Phở）」だと",
+      "furigana": "phởきごうきごうだと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "だと思っていました。",
-      "furigana": "だとおもっていました。",
+      "clause_text": "思っていました。",
+      "furigana": "おもっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "実際、",
-      "furigana": "じっさい、",
+      "clause_text": "実際、ホーチミンには",
+      "furigana": "じっさい、ほーちみんには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ホーチミン",
-      "furigana": "ほーちみん",
+      "clause_text": "たくさんのフォーの",
+      "furigana": "たくさんのふぉーの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "にはたくさんのフォーの店があって、",
-      "furigana": "にはたくさんのふぉーのみせがあって、",
+      "clause_text": "店があって、わたしは",
+      "furigana": "みせがあって、わたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "わたしはどの店のフォーもおいしい",
-      "furigana": "わたしはどのみせのふぉーもおいしい",
+      "clause_text": "どの店のフォーも",
+      "furigana": "どのみせのふぉーも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "と思いました。",
-      "furigana": "とおもいました。",
+      "clause_text": "おいしいと思いました。",
+      "furigana": "おいしいとおもいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ところが",
-      "furigana": "ところが",
+      "clause_text": "ところがある日、ベトナム人の",
+      "furigana": "ところがあるひ、べとなむじんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある日",
-      "furigana": "あるひ",
+      "clause_text": "知り合いが「ホーチミンの",
+      "furigana": "しりあいがきごうほーちみんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、ベトナム人の",
-      "furigana": "、べとなむじんの",
+      "clause_text": "フォーは、本物の",
+      "furigana": "ふぉーは、ほんものの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "知り合いが",
-      "furigana": "しりあいが",
+      "clause_text": "フォーじゃない！」と",
+      "furigana": "ふぉーじゃない!きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「ホーチミンのフォーは、本物のフォーじゃない！」と言いました。",
-      "furigana": "きごうほーちみんのふぉーは、ほんもののふぉーじゃない!きごうといいました。",
+      "clause_text": "言いました。",
+      "furigana": "いいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その知り合い",
-      "furigana": "そのしりあい",
+      "clause_text": "その知り合いに",
+      "furigana": "そのしりあいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に聞いたところ、",
-      "furigana": "にきいたところ、",
+      "clause_text": "聞いたところ、",
+      "furigana": "きいたところ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ハノイ",
-      "furigana": "はのい",
+      "clause_text": "ハノイの",
+      "furigana": "はのいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "の名物だそうです。",
-      "furigana": "のめいぶつだそうです。",
+      "clause_text": "名物だそうです。",
+      "furigana": "めいぶつだそうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:30:13"
+    "extraction_date_time": "2026.07.16 09:39:42"
   }
 }

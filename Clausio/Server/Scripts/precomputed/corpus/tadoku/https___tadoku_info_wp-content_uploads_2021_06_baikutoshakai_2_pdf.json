@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "災害とバイク－バイクの機動力",
-      "furigana": "さいがいとばいく-ばいくのきどうりょく",
+      "clause_text": "災害とバイク－バイクの",
+      "furigana": "さいがいとばいく-ばいくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "が生きる場面－バイク",
-      "furigana": "がいきるばめん-ばいく",
+      "clause_text": "機動力が生きる場面",
+      "furigana": "きどうりょくがいきるばめん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の良い点のひとつに、",
-      "furigana": "のよいてんのひとつに、",
+      "clause_text": "－バイクの良い点の",
+      "furigana": "-ばいくのよいてんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "機動力",
-      "furigana": "きどうりょく",
+      "clause_text": "ひとつに、機動力が",
+      "furigana": "ひとつに、きどうりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が高いことがあります。",
-      "furigana": "がたかいことがあります。",
+      "clause_text": "高いことがあります。",
+      "furigana": "たかいことがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "詳しく言うと",
-      "furigana": "くわしくゆうと",
+      "clause_text": "詳しく言うと、バイクは",
+      "furigana": "くわしくゆうと、ばいくは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、バイクは車と同じようにエンジンで動くの",
-      "furigana": "、ばいくはくるまとおなじようにえんじんでうごくの",
+      "clause_text": "車と同じようにエンジンで",
+      "furigana": "くるまとおなじようにえんじんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "動くので、スピードが",
+      "furigana": "うごくので、すぴーどが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "スピードが出るし、",
-      "furigana": "すぴーどがでるし、",
+      "clause_text": "出るし、遠くまで",
+      "furigana": "でるし、とおくまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "遠くまで行けます。",
-      "furigana": "とおくまでいけます。",
+      "clause_text": "行けます。",
+      "furigana": "いけます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "また、車より小さくて軽いの",
-      "furigana": "また、くるまよりちいさくてかるいの",
+      "clause_text": "また、車より",
+      "furigana": "また、くるまより",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "小さくて軽いので、車で",
+      "furigana": "ちいさくてかるいので、くるまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "車で行けない細い道や悪い道",
-      "furigana": "くるまでいけないほそいみちやわるいみち",
+      "clause_text": "行けない細い道や",
+      "furigana": "いけないほそいみちや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも通ること",
-      "furigana": "でもとおること",
+      "clause_text": "悪い道でも",
+      "furigana": "わるいみちでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ができます。",
-      "furigana": "ができます。",
+      "clause_text": "通ることができます。",
+      "furigana": "とおることができます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "こんなバイク",
-      "furigana": "こんなばいく",
+      "clause_text": "こんなバイクの",
+      "furigana": "こんなばいくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の機動力",
-      "furigana": "のきどうりょく",
+      "clause_text": "機動力が",
+      "furigana": "きどうりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "が役に立つ",
-      "furigana": "がやくにたつ",
+      "clause_text": "役に",
+      "furigana": "やくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときが、",
-      "furigana": "ときが、",
+      "clause_text": "立つときが、",
+      "furigana": "たつときが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "日本",
-      "furigana": "にっぽん",
+      "clause_text": "日本は、地震や",
+      "furigana": "にっぽんは、じしんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "台風、大雨や",
+      "furigana": "たいふう、おおあめや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "地震や台風、",
-      "furigana": "じしんやたいふう、",
+      "clause_text": "火山の噴火など、",
+      "furigana": "かざんのふんかなど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "大雨や火山の噴火など、",
-      "furigana": "おおあめやかざんのふんかなど、",
+      "clause_text": "自然災害が",
+      "furigana": "しぜんさいがいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "自然災害が多い国です。",
-      "furigana": "しぜんさいがいがおおいくにです。",
+      "clause_text": "多い国です。",
+      "furigana": "おおいくにです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 13:21:29"
+    "extraction_date_time": "2026.07.16 09:47:38"
   }
 }

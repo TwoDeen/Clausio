@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "７月７日七夕いつも",
-      "furigana": "しちがつななかたなばたいつも",
+      "clause_text": "７月７日七夕いつもは",
+      "furigana": "しちがつななかたなばたいつもは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は少し寂しい感じがする商店街",
-      "furigana": "はすこしさびしいかんじがするしょうてんがい",
+      "clause_text": "少し寂しい感じが",
+      "furigana": "すこしさびしいかんじが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ですが、",
-      "furigana": "ですが、",
+      "clause_text": "する商店街ですが、",
+      "furigana": "するしょうてんがいですが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "今日はずいぶん",
-      "furigana": "きょうはずいぶん",
+      "clause_text": "今日はずいぶんと",
+      "furigana": "きょうはずいぶんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "とにぎやかです。",
-      "furigana": "とにぎやかです。",
+      "clause_text": "にぎやかです。",
+      "furigana": "にぎやかです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "アーケードはいろいろな飾りで飾られて、",
-      "furigana": "あーけーどはいろいろなかざりでかざられて、",
+      "clause_text": "アーケードは",
+      "furigana": "あーけーどは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いくつ",
-      "furigana": "いくつ",
+      "clause_text": "いろいろな飾りで",
+      "furigana": "いろいろなかざりで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "かのお店の前",
-      "furigana": "かのおみせのまえ",
+      "clause_text": "飾られて、いくつかの",
+      "furigana": "かざられて、いくつかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "には笹",
-      "furigana": "にはささ",
+      "clause_text": "お店の前には笹が",
+      "furigana": "おみせのまえにはささが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "が立てられています。",
-      "furigana": "がたてられています。",
+      "clause_text": "立てられています。",
+      "furigana": "たてられています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "笹の枝",
-      "furigana": "ささのえだ",
+      "clause_text": "笹の枝には赤や",
+      "furigana": "ささのえだにはあかや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "には赤や黄色、",
-      "furigana": "にはあかやきいろ、",
+      "clause_text": "黄色、青など",
+      "furigana": "きいろ、あおなど",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "青などいろいろな色",
-      "furigana": "あおなどいろいろないろ",
+      "clause_text": "いろいろな色の",
+      "furigana": "いろいろないろの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "の短冊が糸",
-      "furigana": "のたんざくがいと",
+      "clause_text": "短冊が糸で",
+      "furigana": "たんざくがいとで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "でつるされています。",
-      "furigana": "でつるされています。",
+      "clause_text": "つるされています。",
+      "furigana": "つるされています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "今日は７月",
-      "furigana": "きょうはなながつ",
+      "clause_text": "今日は",
+      "furigana": "きょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "７日、",
-      "furigana": "ななか、",
+      "clause_text": "７月７日、",
+      "furigana": "なながつななか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "七夕",
-      "furigana": "たなばた",
+      "clause_text": "七夕の",
+      "furigana": "たなばたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "の日です。",
-      "furigana": "のひです。",
+      "clause_text": "日です。",
+      "furigana": "ひです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一年に一度、",
-      "furigana": "いちねんにいちど、",
+      "clause_text": "一年に一度、天の川の",
+      "furigana": "いちねんにいちど、あまのがわの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "天の川の両側",
-      "furigana": "あまのがわのりょうがわ",
+      "clause_text": "両側に離された",
+      "furigana": "りょうがわにはなされた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に離された織姫という女性",
-      "furigana": "にはなされたおりひめというじょせい",
+      "clause_text": "織姫という女性と",
+      "furigana": "おりひめというじょせいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と彦星という男性",
-      "furigana": "とひこぼしというだんせい",
+      "clause_text": "彦星という男性が",
+      "furigana": "ひこぼしというだんせいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が会える日です。",
-      "furigana": "があえるひです。",
+      "clause_text": "会える日です。",
+      "furigana": "あえるひです。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:18"
+    "extraction_date_time": "2026.07.16 09:41:10"
   }
 }

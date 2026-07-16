@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "バイクに乗ったことが",
-      "furigana": "ばいくにのったことが",
+      "clause_text": "バイクに",
+      "furigana": "ばいくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある人",
-      "furigana": "あるひと",
+      "clause_text": "乗ったことがある",
+      "furigana": "のったことがある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "人は、",
+      "furigana": "ひとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "バイクの魅力は",
-      "furigana": "ばいくのみりょくは",
+      "clause_text": "バイクの魅力は、風やスピードを全身で",
+      "furigana": "ばいくのみりょくは、かぜやすぴーどをぜんしんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "、風やスピードを全身で感じること、遠くまで行けること、一人になっていろいろなことが考えられること、",
-      "furigana": "、かぜやすぴーどをぜんしんでかんじること、とおくまでいけること、ひとりになっていろいろなことがかんがえられること、",
+      "clause_text": "感じること、遠くまで行けること、",
+      "furigana": "かんじること、とおくまでいけること、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "かっこいいこと、不便なこと、",
-      "furigana": "かっこいいこと、ふべんなこと、",
+      "clause_text": "一人になっていろいろなことが",
+      "furigana": "ひとりになっていろいろなことが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "危ないこと",
-      "furigana": "あぶないこと",
+      "clause_text": "考えられること、かっこいいこと、",
+      "furigana": "かんがえられること、かっこいいこと、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "などです。",
-      "furigana": "などです。",
+      "clause_text": "不便なこと、危ないことなどです。",
+      "furigana": "ふべんなこと、あぶないことなどです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バイク",
-      "furigana": "ばいく",
+      "clause_text": "バイクは、車と",
+      "furigana": "ばいくは、くるまと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "違って、ドアや",
+      "furigana": "ちがって、どあや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "車と違って、",
-      "furigana": "くるまとちがって、",
+      "clause_text": "フロントガラスや",
+      "furigana": "ふろんとがらすや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ドアやフロントガラスや屋根が",
-      "furigana": "どあやふろんとがらすややねが",
+      "clause_text": "屋根が",
+      "furigana": "やねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "乗った人に",
-      "furigana": "のったひとに",
+      "clause_text": "乗った",
+      "furigana": "のった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかわかりませ",
-      "furigana": "しかわかりませ",
+      "clause_text": "人にしか",
+      "furigana": "ひとにしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ん。",
-      "furigana": "ん。",
+      "clause_text": "わかりません。",
+      "furigana": "わかりません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 13:43:46"
+    "extraction_date_time": "2026.07.16 09:46:16"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "みなさんの国では",
-      "furigana": "みなさんのくにでは",
+      "clause_text": "みなさんの国では、給食が",
+      "furigana": "みなさんのくにでは、きゅうしょくが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "、給食がありますか？給食のなかで",
-      "furigana": "、きゅうしょくがありますか?きゅうしょくのなかで",
+      "clause_text": "ありますか？給食のなかで、どの料理が",
+      "furigana": "ありますか?きゅうしょくのなかで、どのりょうりが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、どの料理が好きですか？1790年にドイツのミュンヘン",
-      "furigana": "、どのりょうりがすきですか?いちななきゅうれいねんにどいつのみゅんへん",
+      "clause_text": "好きですか？1790年にドイツの",
+      "furigana": "すきですか?いちななきゅうれいねんにどいつの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "ミュンヘンで、貧しい子どもたちに",
+      "furigana": "みゅんへんで、まずしいこどもたちに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "貧しい子どもたちに無料で食事が配られました。",
-      "furigana": "まずしいこどもたちにむりょうでしょくじがくばられました。",
+      "clause_text": "無料で食事が配られました。",
+      "furigana": "むりょうでしょくじがくばられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これ",
-      "furigana": "これ",
+      "clause_text": "これが、",
+      "furigana": "これが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "世界で",
+      "furigana": "せかいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "世界で",
-      "furigana": "せかいで",
+      "clause_text": "の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の給食の",
-      "furigana": "のきゅうしょくの",
+      "clause_text": "給食の",
+      "furigana": "きゅうしょくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その後、",
-      "furigana": "そのご、",
+      "clause_text": "その後、貧しい人を",
+      "furigana": "そのご、まずしいひとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "貧しい人を助けるために、",
-      "furigana": "まずしいひとをたすけるために、",
+      "clause_text": "助けるために、",
+      "furigana": "たすけるために、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "世界の色々な国",
-      "furigana": "せかいのいろいろなくに",
+      "clause_text": "世界の",
+      "furigana": "せかいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "で給食",
-      "furigana": "できゅうしょく",
+      "clause_text": "色々な国で給食が",
+      "furigana": "いろいろなくにできゅうしょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "が始まりました。",
-      "furigana": "がはじまりました。",
+      "clause_text": "始まりました。",
+      "furigana": "はじまりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "19世紀（1801～1900年）に",
-      "furigana": "いちきゅうせいききごういちはちれいいち~いちきゅうれいれいねんきごうに",
+      "clause_text": "19世紀（1801～1900年）に、",
+      "furigana": "いちきゅうせいききごういちはちれいいち~いちきゅうれいれいねんきごうに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、フランスのパリで、貧しい子ども",
-      "furigana": "、ふらんすのぱりで、まずしいこども",
+      "clause_text": "フランスのパリで、",
+      "furigana": "ふらんすのぱりで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "には無料で、お金がある子どもの家庭から",
-      "furigana": "にはむりょうで、おかねがあるこどものかていから",
+      "clause_text": "貧しい子どもには無料で、お金が",
+      "furigana": "まずしいこどもにはむりょうで、おかねが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "はお金",
-      "furigana": "はおかね",
+      "clause_text": "ある子どもの家庭からはお金を",
+      "furigana": "あるこどものかていからはおかねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "をもらって、給食を配りました。",
-      "furigana": "をもらって、きゅうしょくをくばりました。",
+      "clause_text": "もらって、給食を配りました。",
+      "furigana": "もらって、きゅうしょくをくばりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1889年",
-      "furigana": "いちはちはちきゅうねん",
+      "clause_text": "1889年に、",
+      "furigana": "いちはちはちきゅうねんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "山形県の小学校で",
+      "furigana": "やまがたけんのしょうがっこうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "山形県の小学校で貧しい子ども",
-      "furigana": "やまがたけんのしょうがっこうでまずしいこども",
+      "clause_text": "貧しい子どもに無料で",
+      "furigana": "まずしいこどもにむりょうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に無料で給食を配りました。",
-      "furigana": "にむりょうできゅうしょくをくばりました。",
+      "clause_text": "給食を配りました。",
+      "furigana": "きゅうしょくをくばりました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 13:39:27"
+    "extraction_date_time": "2026.07.16 09:44:05"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そこに積み上げてあった本を本棚に戻し、",
-      "furigana": "そこにつみあげてあったほんをほんだなにもどし、",
+      "clause_text": "そこに",
+      "furigana": "そこに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ほこりを払い、",
-      "furigana": "ほこりをはらい、",
+      "clause_text": "積み上げてあった本を",
+      "furigana": "つみあげてあったほんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "本棚に戻し、ほこりを",
+      "furigana": "ほんだなにもどし、ほこりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "雑巾できれい",
-      "furigana": "ぞうきんできれい",
+      "clause_text": "払い、そして、雑巾で",
+      "furigana": "はらい、そして、ぞうきんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に拭く。",
-      "furigana": "にふく。",
+      "clause_text": "きれいに拭く。",
+      "furigana": "きれいにふく。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "すっきりとした机の上を満足そう",
-      "furigana": "すっきりとしたつくえのうえをまんぞくそう",
+      "clause_text": "すっきりとした机の",
+      "furigana": "すっきりとしたつくえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に眺め、",
-      "furigana": "にながめ、",
+      "clause_text": "上を満足そうに眺め、",
+      "furigana": "うえをまんぞくそうにながめ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "男は机の引き出し",
-      "furigana": "おとこはつくえのひきだし",
+      "clause_text": "男は机の引き出しの",
+      "furigana": "おとこはつくえのひきだしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の中から小さな箱",
-      "furigana": "のなかからちいさなばこ",
+      "clause_text": "中から小さな箱を",
+      "furigana": "なかからちいさなばこを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を取り出す。",
-      "furigana": "をとりだす。",
+      "clause_text": "取り出す。",
+      "furigana": "とりだす。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "男の手に収まる",
-      "furigana": "おとこのてにおさまる",
+      "clause_text": "男の手に",
+      "furigana": "おとこのてに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ぐらいのその小さな箱",
-      "furigana": "ぐらいのそのちいさなばこ",
+      "clause_text": "収まるぐらいの",
+      "furigana": "おさまるぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "から、",
-      "furigana": "から、",
+      "clause_text": "その小さな箱から、",
+      "furigana": "そのちいさなばこから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "雛人形",
-      "furigana": "ひなにんぎょう",
+      "clause_text": "雛人形が",
+      "furigana": "ひなにんぎょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "が出てくる。",
-      "furigana": "がでてくる。",
+      "clause_text": "出てくる。",
+      "furigana": "でてくる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "一体",
-      "furigana": "いったい",
+      "clause_text": "一体ずつ",
+      "furigana": "いったいずつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずつだ。",
-      "furigana": "ずつだ。",
+      "clause_text": "だ。",
+      "furigana": "だ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "男は卵",
-      "furigana": "おとこはたまご",
+      "clause_text": "男は卵でも",
+      "furigana": "おとこはたまごでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも扱う",
-      "furigana": "でもあつかう",
+      "clause_text": "扱うかのように、",
+      "furigana": "あつかうかのように、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "かのように、丁寧に",
-      "furigana": "かのように、ていねいに",
+      "clause_text": "丁寧に、丁寧に、",
+      "furigana": "ていねいに、ていねいに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "、丁寧に",
-      "furigana": "、ていねいに",
+      "clause_text": "その人形を",
+      "furigana": "そのにんぎょうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "、その人形を机の上に飾る。",
-      "furigana": "、そのにんぎょうをつくえのうえにかざる。",
+      "clause_text": "机の上に飾る。",
+      "furigana": "つくえのうえにかざる。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:40:41"
+    "extraction_date_time": "2026.07.16 09:41:35"
   }
 }

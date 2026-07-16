@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "敬語の将来－留学生",
-      "furigana": "けいごのしょうらい-りゅうがくせい",
+      "clause_text": "敬語の将来－留学生の",
+      "furigana": "けいごのしょうらい-りゅうがくせいの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "の意見－日本語の敬語は、",
-      "furigana": "のいけん-にほんごのけいごは、",
+      "clause_text": "意見－日本語の",
+      "furigana": "いけん-にほんごの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本語",
-      "furigana": "にほんご",
+      "clause_text": "敬語は、日本語を",
+      "furigana": "けいごは、にほんごを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "を勉強している人々",
-      "furigana": "をべんきょうしているひとびと",
+      "clause_text": "勉強している人々から",
+      "furigana": "べんきょうしているひとびとから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "からよく難しいと言われます。",
-      "furigana": "からよくむずかしいといわれます。",
+      "clause_text": "よく難しいと言われます。",
+      "furigana": "よくむずかしいといわれます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "敬語は難しい",
-      "furigana": "けいごはむずかしい",
+      "clause_text": "敬語は",
+      "furigana": "けいごは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "と思われている",
-      "furigana": "とおもわれている",
+      "clause_text": "難しいと",
+      "furigana": "むずかしいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "だけでしょう",
-      "furigana": "だけでしょう",
+      "clause_text": "思われている",
+      "furigana": "おもわれている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "だけでしょうか。",
+      "furigana": "だけでしょうか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "敬語を勉強した留学生15人",
-      "furigana": "けいごをべんきょうしたりゅうがくせいいちごにん",
+      "clause_text": "敬語を勉強した",
+      "furigana": "けいごをべんきょうした",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "留学生15人に、",
+      "furigana": "りゅうがくせいいちごにんに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "日本の敬語の将来",
-      "furigana": "にっぽんのけいごのしょうらい",
+      "clause_text": "日本の敬語の",
+      "furigana": "にっぽんのけいごの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "について意見",
-      "furigana": "についていけん",
+      "clause_text": "将来について意見を",
+      "furigana": "しょうらいについていけんを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を聞いてみました。",
-      "furigana": "をきいてみました。",
+      "clause_text": "聞いてみました。",
+      "furigana": "きいてみました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その結果、",
-      "furigana": "そのけっか、",
+      "clause_text": "その結果、敬語は大切だから",
+      "furigana": "そのけっか、けいごはたいせつだから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "敬語は大切だから残るという人が５人",
-      "furigana": "けいごはたいせつだからのこるというひとがごにん",
+      "clause_text": "残るという人が５人、",
+      "furigana": "のこるというひとがごにん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "、なくなるだろうという人が５人、",
-      "furigana": "、なくなるだろうというひとがごにん、",
+      "clause_text": "なくなるだろうという人が５人、",
+      "furigana": "なくなるだろうというひとがごにん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ない方がいいという人が３人、",
-      "furigana": "ないほうがいいというひとがさんにん、",
+      "clause_text": "ない方がいいという人が３人、限定的に",
+      "furigana": "ないほうがいいというひとがさんにん、げんていてきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "限定的に残るだろうという人が２人でした。",
-      "furigana": "げんていてきにのこるだろうというひとがふたりでした。",
+      "clause_text": "残るだろうという人が２人でした。",
+      "furigana": "のこるだろうというひとがふたりでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうし",
-      "furigana": "どうし",
+      "clause_text": "どうして",
+      "furigana": "どうして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "て",
-      "furigana": "て",
+      "clause_text": "そう",
+      "furigana": "そう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "そう考えるので",
-      "furigana": "そうかんがえるの",
+      "clause_text": "考える",
+      "furigana": "かんがえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "しょ",
-      "furigana": "しょ",
+      "clause_text": "のでしょう",
+      "furigana": "のでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,7 +312,7 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "うか。",
+      "clause_text": "か。",
       "furigana": "か。",
       "sentence_individual_grammar_level": "N5"
     }
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:28"
+    "extraction_date_time": "2026.07.16 09:41:24"
   }
 }

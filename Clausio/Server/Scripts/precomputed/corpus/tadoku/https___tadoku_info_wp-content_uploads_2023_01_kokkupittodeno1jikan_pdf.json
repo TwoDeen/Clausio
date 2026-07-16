@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "コックピット",
-      "furigana": "こっくぴっと",
+      "clause_text": "コックピットでの",
+      "furigana": "こっくぴっとでの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "での１時間その日、",
-      "furigana": "でのいちじかんそのひ、",
+      "clause_text": "１時間その日、私は",
+      "furigana": "いちじかんそのひ、わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "私はドイツのフランクフルト",
-      "furigana": "わたくしはどいつのふらんくふると",
+      "clause_text": "ドイツのフランクフルトから",
+      "furigana": "どいつのふらんくふるとから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "から東京行きの飛行機",
-      "furigana": "からとうきょういきのひこうき",
+      "clause_text": "東京行きの飛行機に",
+      "furigana": "とうきょういきのひこうきに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に乗っていました。",
-      "furigana": "にのっていました。",
+      "clause_text": "乗っていました。",
+      "furigana": "のっていました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "子供",
-      "furigana": "こども",
+      "clause_text": "子供のころ祖母が",
+      "furigana": "こどものころそぼが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のころ祖母が地球儀",
-      "furigana": "のころそぼがちきゅうぎ",
+      "clause_text": "地球儀を見せながら",
+      "furigana": "ちきゅうぎをみせながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を見せながら話してくれたこと",
-      "furigana": "をみせながらはなしてくれたこと",
+      "clause_text": "話してくれたことを",
+      "furigana": "はなしてくれたことを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を思い出していました。",
-      "furigana": "をおもいだしていました。",
+      "clause_text": "思い出していました。",
+      "furigana": "おもいだしていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ヨーロッパ旅行",
-      "furigana": "よーろっぱりょこう",
+      "clause_text": "ヨーロッパ旅行から",
+      "furigana": "よーろっぱりょこうから",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "から日本に",
-      "furigana": "からにっぽんに",
+      "clause_text": "日本に帰って",
+      "furigana": "にっぽんにかえって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "帰ってきたばかりでした。",
-      "furigana": "かえってきたばかりでした。",
+      "clause_text": "きたばかりでした。",
+      "furigana": "きたばかりでした。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本からヨーロッパへ行く",
-      "furigana": "にっぽんからよーろっぱへいく",
+      "clause_text": "日本から",
+      "furigana": "にっぽんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときは、",
-      "furigana": "ときは、",
+      "clause_text": "ヨーロッパへ",
+      "furigana": "よーろっぱへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ふつう、",
-      "furigana": "ふつう、",
+      "clause_text": "行くときは、",
+      "furigana": "いくときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ロシアの上",
-      "furigana": "ろしあのうえ",
+      "clause_text": "ふつう、ロシアの",
+      "furigana": "ふつう、ろしあの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "を通ります。",
-      "furigana": "をとおります。",
+      "clause_text": "上を通ります。",
+      "furigana": "うえをとおります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも当時は冷戦中",
-      "furigana": "でもとうじはれいせんちゅう",
+      "clause_text": "でも当時は",
+      "furigana": "でもとうじは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "冷戦中で、ロシアの",
+      "furigana": "れいせんちゅうで、ろしあの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ロシアの上を飛行機",
-      "furigana": "ろしあのうえをひこうき",
+      "clause_text": "上を飛行機が",
+      "furigana": "うえをひこうきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が飛ぶことは",
-      "furigana": "がとぶことは",
+      "clause_text": "飛ぶことは",
+      "furigana": "とぶことは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:28:07"
+    "extraction_date_time": "2026.07.16 09:41:45"
   }
 }

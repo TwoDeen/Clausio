@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "おばあさん",
-      "furigana": "おばあさん",
+      "clause_text": "おばあさんが",
+      "furigana": "おばあさんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "がいました。",
-      "furigana": "がいました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "おじいさん",
-      "furigana": "おじいさん",
+      "clause_text": "おじいさんと",
+      "furigana": "おじいさんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "とおばあさん",
-      "furigana": "とおばあさん",
+      "clause_text": "おばあさんには",
+      "furigana": "おばあさんには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "には12人の息子",
-      "furigana": "にはいちににんのむすこ",
+      "clause_text": "12人の息子と",
+      "furigana": "いちににんのむすこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "と３人の娘が",
-      "furigana": "とさんにんのむすめが",
+      "clause_text": "３人の娘が",
+      "furigana": "さんにんのむすめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "15人の兄弟の中で",
-      "furigana": "いちごにんのきょうだいのなかで",
+      "clause_text": "15人の",
+      "furigana": "いちごにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "一番若か",
-      "furigana": "いちばん",
+      "clause_text": "兄弟の中で",
+      "furigana": "きょうだいのなかで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ったのが、",
-      "furigana": "たのが、",
+      "clause_text": "一番若かったのが、",
+      "furigana": "いちばんわかかったのが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,7 +191,7 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "妹のエ",
+      "clause_text": "妹の",
       "furigana": "いもうとの",
       "sentence_individual_grammar_level": "N5"
     },
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "グレでした。",
-      "furigana": "でした。",
+      "clause_text": "エグレでした。",
+      "furigana": "えぐれでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "３人の姉妹",
-      "furigana": "さんにんのしまい",
+      "clause_text": "３人の",
+      "furigana": "さんにんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "姉妹は、",
+      "furigana": "しまいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "エグレは脱いだ服を湖のそばに置いていました",
-      "furigana": "えぐれはぬいだふくをみずうみのそばにおいていました",
+      "clause_text": "エグレは脱いだ服を湖の",
+      "furigana": "えぐれはぬいだふくをみずうみの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "そばに置いていましたが、",
+      "furigana": "そばにおいていましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "湖から上がると、",
-      "furigana": "みずうみからあがると、",
+      "clause_text": "湖から上がると、その服の",
+      "furigana": "みずうみからあがると、そのふくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "その服のそばに蛇がいること",
-      "furigana": "そのふくのそばにへびがいること",
+      "clause_text": "そばに蛇がいることに",
+      "furigana": "そばにへびがいることに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "に気がつきました。",
-      "furigana": "にきがつきました。",
+      "clause_text": "気がつきました。",
+      "furigana": "きがつきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:31:06"
+    "extraction_date_time": "2026.07.16 09:35:37"
   }
 }

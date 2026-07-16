@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある会社員の男性",
-      "furigana": "あるかいしゃいんのだんせい",
+      "clause_text": "ある会社員の",
+      "furigana": "あるかいしゃいんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "が道路の端に",
-      "furigana": "がどうろのはしに",
+      "clause_text": "男性が",
+      "furigana": "だんせいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "車を",
-      "furigana": "くるまを",
+      "clause_text": "道路の端に",
+      "furigana": "どうろのはしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "止めて休ん",
-      "furigana": "とめてやすん",
+      "clause_text": "車を止めて",
+      "furigana": "くるまをとめて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいました。",
-      "furigana": "でいました。",
+      "clause_text": "休んでいました。",
+      "furigana": "やすんでいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「そろそろ家に帰ろうか･･･」男性",
-      "furigana": "きごうそろそろいえにかえろうか・・・きごうだんせい",
+      "clause_text": "「そろそろ家に",
+      "furigana": "きごうそろそろいえに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は出発しようと",
-      "furigana": "はしゅっぱつしようと",
+      "clause_text": "帰ろうか･･･」",
+      "furigana": "かえろうか・・・きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "思って、",
-      "furigana": "おもって、",
+      "clause_text": "男性は出発しようと",
+      "furigana": "だんせいはしゅっぱつしようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "車を",
-      "furigana": "くるまを",
+      "clause_text": "思って、車を",
+      "furigana": "おもって、くるまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "すると、",
-      "furigana": "すると、",
+      "clause_text": "すると、「ゴットン」車が",
+      "furigana": "すると、きごうごっとんきごうくるまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "「ゴットン」車が",
-      "furigana": "きごうごっとんきごうくるまが",
+      "clause_text": "何かに",
+      "furigana": "なんかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "何かに",
-      "furigana": "なんかに",
+      "clause_text": "乗り上げた",
+      "furigana": "のりあげた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "乗り上げた感",
-      "furigana": "のりあげた",
+      "clause_text": "感じが",
+      "furigana": "かんじが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "じがしました。",
-      "furigana": "がしました。",
+      "clause_text": "しました。",
+      "furigana": "しました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "急いで車から降りて見てみる",
-      "furigana": "いそいでくるまからおりてみてみる",
+      "clause_text": "急いで車から",
+      "furigana": "いそいでくるまから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "降りて見てみると、",
+      "furigana": "おりてみてみると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "なんと車の下",
-      "furigana": "なんとくるまのした",
+      "clause_text": "なんと車の",
+      "furigana": "なんとくるまの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "から人の手",
-      "furigana": "からひとのて",
+      "clause_text": "下から人の",
+      "furigana": "したからひとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "が見えます。",
-      "furigana": "がみえます。",
+      "clause_text": "手が見えます。",
+      "furigana": "てがみえます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 1,
     "sentence_level": 3,
     "article_length": 349,
-    "extraction_date_time": "2026.07.15 13:24:00"
+    "extraction_date_time": "2026.07.16 09:44:44"
   }
 }

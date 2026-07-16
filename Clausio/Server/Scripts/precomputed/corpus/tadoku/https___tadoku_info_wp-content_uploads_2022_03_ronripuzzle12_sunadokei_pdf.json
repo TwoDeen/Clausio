@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題",
-      "furigana": "きごうもんだい",
+      "clause_text": "【",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "】２",
-      "furigana": "きごうふつ",
+      "clause_text": "問題】",
+      "furigana": "もんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "つの",
-      "furigana": "つの",
+      "clause_text": "２つの",
+      "furigana": "ふつつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひと",
-      "furigana": "ひと",
+      "clause_text": "ひとつは",
+      "furigana": "ひとつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "つは",
-      "furigana": "つは",
+      "clause_text": "４分で",
+      "furigana": "よんふんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "４分で",
-      "furigana": "よんふんで",
+      "clause_text": "砂が",
+      "furigana": "すなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "砂が",
-      "furigana": "すなが",
+      "clause_text": "全部",
+      "furigana": "ぜんぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "全部落ちます。",
-      "furigana": "ぜんぶおちます。",
+      "clause_text": "落ちます。",
+      "furigana": "おちます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "もうひと",
-      "furigana": "もうひと",
+      "clause_text": "もうひとつは",
+      "furigana": "もうひとつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "つは",
-      "furigana": "つは",
+      "clause_text": "７分で",
+      "furigana": "ななふんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "７分で",
-      "furigana": "ななふんで",
+      "clause_text": "砂が",
+      "furigana": "すなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "砂が",
-      "furigana": "すなが",
+      "clause_text": "全部",
+      "furigana": "ぜんぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "全部落ちます。",
-      "furigana": "ぜんぶおちます。",
+      "clause_text": "落ちます。",
+      "furigana": "おちます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この２つ",
-      "furigana": "このふつつ",
+      "clause_text": "この２つの",
+      "furigana": "このふつつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の砂時計を",
-      "furigana": "のすなどけいを",
+      "clause_text": "砂時計を",
+      "furigana": "すなどけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうすればいいでしょう",
-      "furigana": "どうすればいいでしょう",
+      "clause_text": "どうすればいいでしょうか？",
+      "furigana": "どうすればいいでしょうか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "か？４分の砂時計の砂が全部落ちて",
-      "furigana": "か?よんぶんのすなどけいのすながぜんぶおちて",
+      "clause_text": "４分の砂時計の砂が",
+      "furigana": "よんぶんのすなどけいのすなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "から、",
-      "furigana": "から、",
+      "clause_text": "全部落ちてから、",
+      "furigana": "ぜんぶおちてから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ひっくり返して、",
-      "furigana": "ひっくりかえして、",
+      "clause_text": "ひっくり返して、またその砂が",
+      "furigana": "ひっくりかえして、またそのすなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "またその砂が全部落ちると８分ですね。",
-      "furigana": "またそのすながぜんぶおちるとはちふんですね。",
+      "clause_text": "全部落ちると８分ですね。",
+      "furigana": "ぜんぶおちるとはちふんですね。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:31:55"
+    "extraction_date_time": "2026.07.16 09:47:22"
   }
 }

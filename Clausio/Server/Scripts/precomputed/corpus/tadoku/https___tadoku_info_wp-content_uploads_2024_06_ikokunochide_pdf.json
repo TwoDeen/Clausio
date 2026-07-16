@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "異国の地",
-      "furigana": "いこくのち",
+      "clause_text": "異国の地に",
+      "furigana": "いこくのちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "に住ん",
-      "furigana": "にすん",
+      "clause_text": "住んでいた",
+      "furigana": "すんでいた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "でいたころ",
-      "furigana": "でいたころ",
+      "clause_text": "ころの",
+      "furigana": "ころの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のことである。",
-      "furigana": "のことである。",
+      "clause_text": "ことである。",
+      "furigana": "ことである。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その国",
-      "furigana": "そのくに",
+      "clause_text": "その国で、",
+      "furigana": "そのくにで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "私は",
+      "furigana": "わたくしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "私は",
-      "furigana": "わたくしは",
+      "clause_text": "あまり",
+      "furigana": "あまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あまり肉を",
-      "furigana": "あまりにくを",
+      "clause_text": "肉を",
+      "furigana": "にくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "注文の仕方が",
-      "furigana": "ちゅうもんのしかたが",
+      "clause_text": "注文の",
+      "furigana": "ちゅうもんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "わからなかった",
-      "furigana": "わからなかった",
+      "clause_text": "仕方が",
+      "furigana": "しかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "からで",
-      "furigana": "からで",
+      "clause_text": "わからなかった",
+      "furigana": "わからなかった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ある。",
-      "furigana": "ある。",
+      "clause_text": "からである。",
+      "furigana": "からである。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本で肉を買いたい",
-      "furigana": "にっぽんでにくをかいたい",
+      "clause_text": "日本で肉を",
+      "furigana": "にっぽんでにくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときは、",
-      "furigana": "ときは、",
+      "clause_text": "買いたいときは、",
+      "furigana": "かいたいときは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "普通",
-      "furigana": "ふつう",
+      "clause_text": "普通に",
+      "furigana": "ふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "にスーパーマーケットや肉屋",
-      "furigana": "にすーぱーまーけっとやにくや",
+      "clause_text": "スーパーマーケットや",
+      "furigana": "すーぱーまーけっとや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "に行けばいい。",
-      "furigana": "にいけばいい。",
+      "clause_text": "肉屋に行けばいい。",
+      "furigana": "にくやにいけばいい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこには",
-      "furigana": "そこには",
+      "clause_text": "そこには、牛、豚、",
+      "furigana": "そこには、うし、ぶた、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "、牛、豚、鶏の肉が",
-      "furigana": "、うし、ぶた、にわとりのにくが",
+      "clause_text": "鶏の肉が、すぐに",
+      "furigana": "にわとりのにくが、すぐに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "、すぐに料理できる形",
-      "furigana": "、すぐにりょうりできるかたち",
+      "clause_text": "料理できる形で、",
+      "furigana": "りょうりできるかたちで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "部位ごとにパックされて",
+      "furigana": "ぶいごとにぱっくされて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "部位ごとにパックされて売られている。",
-      "furigana": "ぶいごとにぱっくされてうられている。",
+      "clause_text": "売られている。",
+      "furigana": "うられている。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:28:44"
+    "extraction_date_time": "2026.07.16 09:46:26"
   }
 }

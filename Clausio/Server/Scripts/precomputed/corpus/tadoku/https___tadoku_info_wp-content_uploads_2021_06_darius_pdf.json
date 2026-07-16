@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "オバマさん",
-      "furigana": "おばまさん",
+      "clause_text": "オバマさんから",
+      "furigana": "おばまさんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "から手紙",
-      "furigana": "からてがみ",
+      "clause_text": "手紙を",
+      "furigana": "てがみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "をもらいました。",
-      "furigana": "をもらいました。",
+      "clause_text": "もらいました。",
+      "furigana": "もらいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "オバマさん",
-      "furigana": "おばまさん",
+      "clause_text": "オバマ",
+      "furigana": "おばま",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "さんは、",
+      "furigana": "さんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "したので",
-      "furigana": "したの",
+      "clause_text": "した",
+      "furigana": "した",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "しょう。",
-      "furigana": "。",
+      "clause_text": "のでしょう。",
+      "furigana": "のでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ダリウス",
-      "furigana": "だりうす",
+      "clause_text": "ダリウス君は、２歳のときに",
+      "furigana": "だりうすくんは、にさいのときに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "君は、",
-      "furigana": "くんは、",
+      "clause_text": "お医者さんに、「君は、",
+      "furigana": "おいしゃさんに、きごうきみは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "２歳のときに",
-      "furigana": "にさいのときに",
+      "clause_text": "話す力、理解する力、",
+      "furigana": "はなすちから、りかいするちから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "お医者さんに、",
-      "furigana": "おいしゃさんに、",
+      "clause_text": "運動する力がほかの子どもより",
+      "furigana": "うんどうするちからがほかのこどもより",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「君は、話す力、理解する力、運動する力がほかの子どもより少し低い」と言われました。",
-      "furigana": "きごうきみは、はなすちから、りかいするちから、うんどうするちからがほかのこどもよりすこしひくいきごうといわれました。",
+      "clause_text": "少し低い」と言われました。",
+      "furigana": "すこしひくいきごうといわれました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかし、",
-      "furigana": "しかし、",
+      "clause_text": "しかし、ダリウス君は",
+      "furigana": "しかし、だりうすくんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ダリウス君",
-      "furigana": "だりうすくん",
+      "clause_text": "いつも誰かの",
+      "furigana": "いつもだれかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "はいつも誰",
-      "furigana": "はいつもだれ",
+      "clause_text": "役に",
+      "furigana": "やくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "かの役に立ちたいと",
-      "furigana": "かのやくにたちたいと",
+      "clause_text": "立ちたいと",
+      "furigana": "たちたいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:44:03"
+    "extraction_date_time": "2026.07.16 09:49:11"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ケーキ",
-      "furigana": "けーき",
+      "clause_text": "ケーキを分ける",
+      "furigana": "けーきをわける",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "を分けるさるむかしむかし、",
-      "furigana": "をわけるさるむかしむかし、",
+      "clause_text": "さるむかしむかし、",
+      "furigana": "さるむかしむかし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ある日、",
-      "furigana": "あるひ、",
+      "clause_text": "ある日、一匹が",
+      "furigana": "あるひ、いちひきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "一匹がどこ",
-      "furigana": "いちひきがどこ",
+      "clause_text": "どこかから",
+      "furigana": "どこかから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "かからケーキを",
-      "furigana": "かからけーきを",
+      "clause_text": "ケーキをひとつ",
+      "furigana": "けーきをひとつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ひとつぬすん",
-      "furigana": "ひとつぬすん",
+      "clause_text": "ぬすんで",
+      "furigana": "ぬすんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "で来ました。",
-      "furigana": "できました。",
+      "clause_text": "来ました。",
+      "furigana": "きました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "分けて食べること",
-      "furigana": "わけてたべること",
+      "clause_text": "分けて",
+      "furigana": "わけて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "にしました。",
-      "furigana": "にしました。",
+      "clause_text": "食べることにしました。",
+      "furigana": "たべることにしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "かた",
-      "furigana": "かた",
+      "clause_text": "かた方が",
+      "furigana": "かたかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "方が少し大きくなり",
-      "furigana": "かたがすこしおおきくなり",
+      "clause_text": "少し",
+      "furigana": "すこし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "大きく",
+      "furigana": "おおきく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,7 +268,7 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "二匹のね",
+      "clause_text": "二匹の",
       "furigana": "にひきの",
       "sentence_individual_grammar_level": "N5"
     },
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "こを",
-      "furigana": "を",
+      "clause_text": "ねこを木の",
+      "furigana": "ねこをきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "木の上から",
-      "furigana": "きのうえから",
+      "clause_text": "上から一匹の",
+      "furigana": "うえからいちひきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "一匹のさるが",
-      "furigana": "いちひきのさるが",
+      "clause_text": "さるがずっと",
+      "furigana": "さるがずっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ずっと見ていました。",
-      "furigana": "ずっとみていました。",
+      "clause_text": "見ていました。",
+      "furigana": "みていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:37:45"
+    "extraction_date_time": "2026.07.16 09:43:36"
   }
 }

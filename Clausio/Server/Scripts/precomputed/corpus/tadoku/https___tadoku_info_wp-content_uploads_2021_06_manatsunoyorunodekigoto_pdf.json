@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "大学生活にも",
-      "furigana": "だいがくせいかつにも",
+      "clause_text": "大学",
+      "furigana": "だいがく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "慣れて、",
-      "furigana": "なれて、",
+      "clause_text": "生活にも",
+      "furigana": "せいかつにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "新しい友達",
-      "furigana": "あたらしいともだち",
+      "clause_text": "慣れて、",
+      "furigana": "なれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "もでき",
-      "furigana": "もでき",
+      "clause_text": "新しい友達も",
+      "furigana": "あたらしいともだちも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "できた。",
+      "furigana": "できた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "お金はなかった",
-      "furigana": "おかねはなかった",
+      "clause_text": "お金は",
+      "furigana": "おかねは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "けど、",
-      "furigana": "けど、",
+      "clause_text": "なかったけど、",
+      "furigana": "なかったけど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "時間と元気",
-      "furigana": "じかんとげんき",
+      "clause_text": "時間と",
+      "furigana": "じかんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "だけは十分",
-      "furigana": "だけはじゅうぶん",
+      "clause_text": "元気だけは",
+      "furigana": "げんきだけは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "にあった。",
-      "furigana": "にあった。",
+      "clause_text": "十分にあった。",
+      "furigana": "じゅうぶんにあった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "友達の一人が車",
-      "furigana": "ともだちのひとりがくるま",
+      "clause_text": "友達の一人が",
+      "furigana": "ともだちのひとりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "を持っていて、",
-      "furigana": "をもっていて、",
+      "clause_text": "車を持っていて、",
+      "furigana": "くるまをもっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "行き先も決めず",
-      "furigana": "いきさきもきめず",
+      "clause_text": "行き先も決めずに",
+      "furigana": "いきさきもきめずに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "によくドライブ",
-      "furigana": "によくどらいぶ",
+      "clause_text": "よくドライブを",
+      "furigana": "よくどらいぶを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "をした。",
-      "furigana": "をした。",
+      "clause_text": "した。",
+      "furigana": "した。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "例えば、ずっと海辺を走って、",
-      "furigana": "たとえば、ずっとうみべをはしって、",
+      "clause_text": "例えば、ずっと海辺を",
+      "furigana": "たとえば、ずっとうみべを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "海から太陽が昇る",
-      "furigana": "うみからたいようがのぼる",
+      "clause_text": "走って、海から太陽が",
+      "furigana": "はしって、うみからたいようが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "のを見ながら缶コーヒーを飲み、",
-      "furigana": "のをみながらかんこーひーをのみ、",
+      "clause_text": "昇るのを見ながら",
+      "furigana": "のぼるのをみながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "缶コーヒーを飲み、",
+      "furigana": "かんこーひーをのみ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ただ帰ってくる。",
-      "furigana": "ただかえってくる。",
+      "clause_text": "そして、ただ帰ってくる。",
+      "furigana": "そして、ただかえってくる。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "友達となら",
-      "furigana": "ともだちとなら",
+      "clause_text": "友達と",
+      "furigana": "ともだちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "楽しめ",
-      "furigana": "たのしめ",
+      "clause_text": "なら",
+      "furigana": "なら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "楽しめた。",
+      "furigana": "たのしめた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:25:07"
+    "extraction_date_time": "2026.07.16 09:43:41"
   }
 }

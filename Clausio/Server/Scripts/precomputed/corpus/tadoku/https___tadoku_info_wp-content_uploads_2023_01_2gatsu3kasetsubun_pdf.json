@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "６歳のカイト",
-      "furigana": "ろくさいのかいと",
+      "clause_text": "６歳のカイトを",
+      "furigana": "ろくさいのかいとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "をお風呂に入れて、",
-      "furigana": "をおふろにいれて、",
+      "clause_text": "お風呂に",
+      "furigana": "おふろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ベッド",
-      "furigana": "べっど",
+      "clause_text": "入れて、ベッドに",
+      "furigana": "いれて、べっどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に寝かしつけたの",
-      "furigana": "にねかしつけたの",
+      "clause_text": "寝かしつけたのが",
+      "furigana": "ねかしつけたのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "が９時ちょっと前だった。",
-      "furigana": "がきゅうじちょっとまえだった。",
+      "clause_text": "９時ちょっと前だった。",
+      "furigana": "きゅうじちょっとまえだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そ",
-      "furigana": "そ",
+      "clause_text": "それから、明日の",
+      "furigana": "それから、あすの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "れか",
-      "furigana": "れか",
+      "clause_text": "朝ごはんとお昼の",
+      "furigana": "あさごはんとおひるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ら、",
-      "furigana": "、",
+      "clause_text": "お弁当の準備を",
+      "furigana": "おべんとうのじゅんびを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "明日の朝ごはんとお昼のお弁当の準備をして、",
-      "furigana": "あすのあさごはんとおひるのおべんとうのじゅんびをして、",
+      "clause_text": "して、洗濯物を",
+      "furigana": "して、せんたくものを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "洗濯物をたたんだ。",
-      "furigana": "せんたくものをたたんだ。",
+      "clause_text": "たたんだ。",
+      "furigana": "たたんだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "あっという",
-      "furigana": "あっという",
+      "clause_text": "あっと",
+      "furigana": "あっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "間に",
-      "furigana": "まに",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "１時間が",
-      "furigana": "いちじかんが",
+      "clause_text": "間に",
+      "furigana": "まに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "過ぎ",
-      "furigana": "すぎ",
+      "clause_text": "１時間が",
+      "furigana": "いちじかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "過ぎた。",
+      "furigana": "すぎた。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "カナコとカイトの二人が住む２LDKのマンションの掃除",
-      "furigana": "かなことかいとのふたりがすむにえるでぃーけーのまんしょんのそうじ",
+      "clause_text": "カナコとカイトの二人が",
+      "furigana": "かなことかいとのふたりが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "住む２LDKのマンションの",
+      "furigana": "すむにえるでぃーけーのまんしょんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "一週間に１回、",
-      "furigana": "いちしゅうかんにいちかい、",
+      "clause_text": "掃除は、一週間に",
+      "furigana": "そうじは、いちしゅうかんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "土曜日の午前中にする",
-      "furigana": "どようびのごぜんちゅうにする",
+      "clause_text": "１回、土曜日の午前中に",
+      "furigana": "いちかい、どようびのごぜんちゅうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "とカナコは決めていた。",
-      "furigana": "とかなこはきめていた。",
+      "clause_text": "するとカナコは決めていた。",
+      "furigana": "するとかなこはきめていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:37:53"
+    "extraction_date_time": "2026.07.16 09:36:03"
   }
 }

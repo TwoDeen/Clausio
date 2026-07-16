@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "皆さんは「出世魚」という言葉を聞いたことがあります",
-      "furigana": "みなさんはきごうしゅっせうおきごうということばをきいたことがあります",
+      "clause_text": "皆さんは「出世魚」という言葉を",
+      "furigana": "みなさんはきごうしゅっせうおきごうということばを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？",
-      "furigana": "か?",
+      "clause_text": "聞いたことがありますか？",
+      "furigana": "きいたことがありますか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "出世魚という",
-      "furigana": "しゅっせうおという",
+      "clause_text": "出世魚というのは",
+      "furigana": "しゅっせうおというのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "のは大きくなると、",
-      "furigana": "のはおおきくなると、",
+      "clause_text": "大きくなると、呼び方が",
+      "furigana": "おおきくなると、よびかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "呼び方が変わる魚のことです。",
-      "furigana": "よびかたがかわるさかなのことです。",
+      "clause_text": "変わる魚のことです。",
+      "furigana": "かわるさかなのことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "呼び方が変わる",
-      "furigana": "よびかたがかわる",
+      "clause_text": "呼び方が",
+      "furigana": "よびかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "だけではなく、",
-      "furigana": "だけではなく、",
+      "clause_text": "変わるだけではなく、",
+      "furigana": "かわるだけではなく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "それぞれの大きさ",
-      "furigana": "それぞれのおおきさ",
+      "clause_text": "それぞれの大きさで",
+      "furigana": "それぞれのおおきさで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "でおいしい食べ方",
-      "furigana": "でおいしいたべかた",
+      "clause_text": "おいしい食べ方が",
+      "furigana": "おいしいたべかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "があります。",
-      "furigana": "があります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "見てください",
-      "furigana": "みてください",
+      "clause_text": "見てください（",
+      "furigana": "みてくださいきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "（地域に",
-      "furigana": "きごうちいきに",
+      "clause_text": "地域によって",
+      "furigana": "ちいきによって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "よって呼び方が",
-      "furigana": "よってよびかたが",
+      "clause_text": "呼び方が",
+      "furigana": "よびかたが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "関西の呼び方",
-      "furigana": "かんさいのよびかた",
+      "clause_text": "関西の",
+      "furigana": "かんさいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "です）。",
-      "furigana": "ですきごう。",
+      "clause_text": "呼び方です）。",
+      "furigana": "よびかたですきごう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ブリ80cm以上刺身／寿司／煮物ワラサ／60-80cm焼き物／鍋イナダ／35-60cm照り焼き／寿司ワカシ／20-40cm刺身／唐揚げモジャコ20cm以下食べないさて、",
-      "furigana": "ぶりはちれいせんちめーとるいじょうさしみきごうすしきごうにものわらさきごうろくれい-はちれいしーえむやきものきごうなべいなだきごうさんご-ろくれいしーえむてりやききごうすしわかしきごうにれい-よんれいしーえむさしみきごうからあげもじゃこにれいしーえむいかたべないさて、",
+      "clause_text": "ブリ80cm以上刺身／寿司／煮物ワラサ／",
+      "furigana": "ぶりはちれいせんちめーとるいじょうさしみきごうすしきごうにものわらさきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "私のうちにも",
-      "furigana": "わたくしのうちにも",
+      "clause_text": "60-80cm焼き物／鍋イナダ／35-60cm",
+      "furigana": "ろくれい-はちれいしーえむやきものきごうなべいなだきごうさんご-ろくれいしーえむ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "出世魚のよ",
-      "furigana": "しゅっせうおの",
+      "clause_text": "照り焼き／寿司ワカシ／20-40cm刺身／",
+      "furigana": "てりやききごうすしわかしきごうにれい-よんれいしーえむさしみきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "うなもの",
-      "furigana": "なもの",
+      "clause_text": "唐揚げモジャコ20cm以下食べないさて、私の",
+      "furigana": "からあげもじゃこにれいしーえむいかたべないさて、わたくしの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "があります。",
-      "furigana": "があります。",
+      "clause_text": "うちにも出世魚のようなものがあります。",
+      "furigana": "うちにもしゅっせうおのようなものがあります。",
       "sentence_individual_grammar_level": "N3"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:35:43"
+    "extraction_date_time": "2026.07.16 09:44:28"
   }
 }

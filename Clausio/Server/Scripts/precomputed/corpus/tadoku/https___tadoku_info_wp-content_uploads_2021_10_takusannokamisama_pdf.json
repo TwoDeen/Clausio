@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本で",
-      "furigana": "にっぽんで",
+      "clause_text": "日本では、",
+      "furigana": "にっぽんでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "お正月に",
+      "furigana": "おしょうがつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "お正月にたくさん",
-      "furigana": "おしょうがつにたくさん",
+      "clause_text": "たくさんの",
+      "furigana": "たくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "の人が神社",
-      "furigana": "のひとがじんじゃ",
+      "clause_text": "人が神社に",
+      "furigana": "ひとがじんじゃに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に行きます。",
-      "furigana": "にいきます。",
+      "clause_text": "行きます。",
+      "furigana": "いきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "神社",
-      "furigana": "じんじゃ",
+      "clause_text": "神社で、",
+      "furigana": "じんじゃで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "1年間の",
+      "furigana": "いちねんかんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "1年間の",
-      "furigana": "いちねんかんの",
+      "clause_text": "安全や",
+      "furigana": "あんぜんや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "安全や健康を",
-      "furigana": "あんぜんやけんこうを",
+      "clause_text": "健康を",
+      "furigana": "けんこうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、試験の",
+      "furigana": "そして、しけんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "試験の",
-      "furigana": "しけんの",
+      "clause_text": "合格や",
+      "furigana": "ごうかくや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "合格や幸運を",
-      "furigana": "ごうかくやこううんを",
+      "clause_text": "幸運を",
+      "furigana": "こううんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "お願いする人",
-      "furigana": "おねがいするひと",
+      "clause_text": "お願いする人も",
+      "furigana": "おねがいするひとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "もいます。",
-      "furigana": "もいます。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "神奈川県川崎市",
-      "furigana": "かながわけんかわさきし",
+      "clause_text": "神奈川県川崎市に",
+      "furigana": "かながわけんかわさきしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "にある京濱伏見稲荷神社",
-      "furigana": "にあるきょうはまふしみいなりじんじゃ",
+      "clause_text": "ある京濱伏見稲荷",
+      "furigana": "あるきょうはまふしみいなり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "には、",
-      "furigana": "には、",
+      "clause_text": "神社には、",
+      "furigana": "じんじゃには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさんの神様が",
-      "furigana": "たくさんのかみさまが",
+      "clause_text": "たくさんの",
+      "furigana": "たくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "神様がいます。",
+      "furigana": "かみさまがいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "この",
-      "furigana": "この",
+      "clause_text": "この赤い",
+      "furigana": "このあかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "赤い",
-      "furigana": "あかい",
+      "clause_text": "門は、",
+      "furigana": "もんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "門は、",
-      "furigana": "もんは、",
+      "clause_text": "鳥居と",
+      "furigana": "とりいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "鳥居",
-      "furigana": "とりい",
+      "clause_text": "いい",
+      "furigana": "いい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "といいます。",
-      "furigana": "といいます。",
+      "clause_text": "ます。",
+      "furigana": "ます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:43:08"
+    "extraction_date_time": "2026.07.16 09:40:46"
   }
 }

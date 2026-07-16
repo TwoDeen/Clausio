@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "テレワーク・在宅勤務最近、",
-      "furigana": "てれわーく・ざいたくきんむさいきん、",
+      "clause_text": "テレワーク・在宅勤務最近、よく聞くように",
+      "furigana": "てれわーく・ざいたくきんむさいきん、よくきくように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "よく聞くようになった「テレワーク」と「在宅勤務」という言葉が",
-      "furigana": "よくきくようになったきごうてれわーくきごうときごうざいたくきんむきごうということばが",
+      "clause_text": "なった「テレワーク」と「在宅勤務」という",
+      "furigana": "なったきごうてれわーくきごうときごうざいたくきんむきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "、どのぐらい新聞記事",
-      "furigana": "、どのぐらいしんぶんきじ",
+      "clause_text": "言葉が、どのぐらい新聞記事にでているか、",
+      "furigana": "ことばが、どのぐらいしんぶんきじにでているか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "にでている",
-      "furigana": "にでている",
+      "clause_text": "朝日新聞記事データベース「聞蔵（きくぞう）II」を",
+      "furigana": "あさひしんぶんきじでーたべーすきごうききくらiiきごうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "か、朝日新聞記事データベース「聞蔵（きくぞう）II」を使って検索してみました（グラフ参照）。",
-      "furigana": "か、あさひしんぶんきじでーたべーすきごうききくらiiきごうをつかってけんさくしてみましたきごうぐらふさんしょうきごう。",
+      "clause_text": "使って検索してみました（グラフ参照）。",
+      "furigana": "つかってけんさくしてみましたきごうぐらふさんしょうきごう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「在宅勤務」",
-      "furigana": "きごうざいたくきんむきごう",
+      "clause_text": "「在宅勤務」は",
+      "furigana": "きごうざいたくきんむきごうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は1984年",
-      "furigana": "はいちきゅうはちよんねん",
+      "clause_text": "1984年から",
+      "furigana": "いちきゅうはちよんねんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "から2015年まで、",
-      "furigana": "からにれいいちごねんまで、",
+      "clause_text": "2015年まで、",
+      "furigana": "にれいいちごねんまで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "2016年か",
-      "furigana": "にれいいちろくねん",
+      "clause_text": "2016",
+      "furigana": "にれいいちろく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ら徐",
-      "furigana": "らじょ",
+      "clause_text": "年から",
+      "furigana": "ねんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "々に",
-      "furigana": "に",
+      "clause_text": "徐々に",
+      "furigana": "じょじょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "朝日新聞記事データベース「聞蔵Ⅱ」",
-      "furigana": "あさひしんぶんきじでーたべーすきごうききくらにきごう",
+      "clause_text": "朝日新聞記事データベース「聞",
+      "furigana": "あさひしんぶんきじでーたべーすきごうきき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "の検索結果一方、",
-      "furigana": "のけんさくけっかいっぽう、",
+      "clause_text": "蔵Ⅱ」の検索結果",
+      "furigana": "くらにきごうのけんさくけっか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "「テレワーク」",
-      "furigana": "きごうてれわーくきごう",
+      "clause_text": "一方、「テレワーク」が",
+      "furigana": "いっぽう、きごうてれわーくきごうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "が初めて出たのは",
-      "furigana": "がはじめてでたのは",
+      "clause_text": "初めて出たのは",
+      "furigana": "はじめてでたのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "大阪府の隣の兵庫県",
-      "furigana": "おおさかふのとなりのひょうごけん",
+      "clause_text": "大阪府の隣の",
+      "furigana": "おおさかふのとなりの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の小さな町で、",
-      "furigana": "のちいさなまちで、",
+      "clause_text": "兵庫県の小さな町で、",
+      "furigana": "ひょうごけんのちいさなまちで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "テレワーク",
-      "furigana": "てれわーく",
+      "clause_text": "テレワークを",
+      "furigana": "てれわーくを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "をやってみたという記事",
-      "furigana": "をやってみたというきじ",
+      "clause_text": "やってみたという記事が",
+      "furigana": "やってみたというきじが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が出ていました。",
-      "furigana": "がでていました。",
+      "clause_text": "出ていました。",
+      "furigana": "でていました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.15 13:31:42"
+    "extraction_date_time": "2026.07.16 09:42:28"
   }
 }

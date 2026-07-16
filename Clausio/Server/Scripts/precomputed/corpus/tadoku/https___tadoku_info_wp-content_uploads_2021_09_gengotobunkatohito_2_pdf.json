@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「日本語だけでなく、日本の文化や習慣も！」－文化って",
-      "furigana": "きごうにほんごだけでなく、にっぽんのぶんかやしゅうかんも!きごう-ぶんかって",
+      "clause_text": "「日本語だけでなく、日本の文化や",
+      "furigana": "きごうにほんごだけでなく、にっぽんのぶんかや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "何だろう－「外国語を習得するためには、言語だけでなく、その国の文化や習慣も学ばなければならない」と",
-      "furigana": "なんだろう-きごうがいこくごをしゅうとくするためには、げんごだけでなく、そのくにのぶんかやしゅうかんもまなばなければならないきごうと",
+      "clause_text": "習慣も！」－文化って何だろう－「外国語を",
+      "furigana": "しゅうかんも!きごう-ぶんかってなんだろう-きごうがいこくごを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本の",
-      "furigana": "にっぽんの",
+      "clause_text": "習得するためには、言語だけでなく、その国の",
+      "furigana": "しゅうとくするためには、げんごだけでなく、そのくにの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "人はよ",
-      "furigana": "ひとは",
+      "clause_text": "文化や習慣も学ばなければならない」と",
+      "furigana": "ぶんかやしゅうかんもまなばなければならないきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "く言います。",
-      "furigana": "いいます。",
+      "clause_text": "日本の人はよく言います。",
+      "furigana": "にっぽんのひとはよくいいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "たしか",
-      "furigana": "たしか",
+      "clause_text": "たしかに、",
+      "furigana": "たしかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "言語と文化は",
+      "furigana": "げんごとぶんかは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "言語と文化は表裏一体",
-      "furigana": "げんごとぶんかはひょうりいったい",
+      "clause_text": "表裏一体の",
+      "furigana": "ひょうりいったいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "のものだと言っていい",
-      "furigana": "のものだといっていい",
+      "clause_text": "ものだと言って",
+      "furigana": "ものだといって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "でしょう。",
-      "furigana": "でしょう。",
+      "clause_text": "いいでしょう。",
+      "furigana": "いいでしょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "文化",
-      "furigana": "ぶんか",
+      "clause_text": "文化と",
+      "furigana": "ぶんかと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "とは",
-      "furigana": "とは",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "どれ",
-      "furigana": "どれ",
+      "clause_text": "どれも",
+      "furigana": "どれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "も違います。",
-      "furigana": "もちがいます。",
+      "clause_text": "違います。",
+      "furigana": "ちがいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "すべて",
-      "furigana": "すべて",
+      "clause_text": "すべての動物は",
+      "furigana": "すべてのどうぶつは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の動物は自然の中",
-      "furigana": "のどうぶつはしぜんのなか",
+      "clause_text": "自然の中で",
+      "furigana": "しぜんのなかで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "で自然の環境",
-      "furigana": "でしぜんのかんきょう",
+      "clause_text": "自然の環境と",
+      "furigana": "しぜんのかんきょうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と相互作用を",
-      "furigana": "とそうごさようを",
+      "clause_text": "相互作用を",
+      "furigana": "そうごさようを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.15 13:21:49"
+    "extraction_date_time": "2026.07.16 09:39:15"
   }
 }

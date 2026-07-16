@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "白と",
-      "furigana": "しろと",
+      "clause_text": "白と黒の",
+      "furigana": "しろとくろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "黒のボール【問題】箱",
-      "furigana": "くろのぼーるきごうもんだいきごうばこ",
+      "clause_text": "ボール【問題】",
+      "furigana": "ぼーるきごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "の中に、",
-      "furigana": "のなかに、",
+      "clause_text": "箱の中に、",
+      "furigana": "ばこのなかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ボール",
-      "furigana": "ぼーる",
+      "clause_text": "ボールが",
+      "furigana": "ぼーるが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が１つ入っています。",
-      "furigana": "がひとつはいっています。",
+      "clause_text": "１つ入っています。",
+      "furigana": "ひとつはいっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "箱の中のボール",
-      "furigana": "ばこのなかのぼーる",
+      "clause_text": "箱の中の",
+      "furigana": "ばこのなかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の色は、",
-      "furigana": "のいろは、",
+      "clause_text": "ボールの",
+      "furigana": "ぼーるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "黒か白",
-      "furigana": "くろかしろ",
+      "clause_text": "色は、黒か",
+      "furigana": "いろは、くろか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "のどちら",
-      "furigana": "のどちら",
+      "clause_text": "白の",
+      "furigana": "しろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "かです。",
-      "furigana": "かです。",
+      "clause_text": "どちらかです。",
+      "furigana": "どちらかです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、箱を",
+      "furigana": "そして、ばこを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "箱を",
-      "furigana": "ばこを",
+      "clause_text": "よく振って",
+      "furigana": "よくふって",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "よく振ってボール",
-      "furigana": "よくふってぼーる",
+      "clause_text": "ボールを１つ",
+      "furigana": "ぼーるをひとつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "を１つ取り出してみたら、",
-      "furigana": "をひとつとりだしてみたら、",
+      "clause_text": "取り出してみたら、",
+      "furigana": "とりだしてみたら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "さて、",
-      "furigana": "さて、",
+      "clause_text": "さて、箱の中に残ったボールが白である確率は次の",
+      "furigana": "さて、ばこのなかにのこったぼーるがしろであるかくりつはつぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "箱の中に残ったボールが白である確率は次のうちどれでし",
-      "furigana": "ばこのなかにのこったぼーるがしろであるかくりつはつぎのうちどれ",
+      "clause_text": "うちどれでしょうか？1．1/2(50%)2．1",
+      "furigana": "うちどれでしょうか?いち．いちきごうにきごうごれいぱーせんときごうに．いち",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ょうか？",
-      "furigana": "か?",
+      "clause_text": "/3(約33%)3．2/3(約66%)（解答は",
+      "furigana": "きごうさんきごうやくさんさんぱーせんときごうさん．にきごうさんきごうやくろくろくぱーせんときごうきごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "1．1/2(50%)2．1/3(約33%)3．2/3(約66%)（解答は次のページ）【解答】1/2(50%)と思った人が",
-      "furigana": "いち．いちきごうにきごうごれいぱーせんときごうに．いちきごうさんきごうやくさんさんぱーせんときごうさん．にきごうさんきごうやくろくろくぱーせんときごうきごうかいとうはつぎのぺーじきごうきごうかいとうきごういちきごうにきごうごれいぱーせんときごうとおもったひとが",
+      "clause_text": "次のページ）【解答】1/2(50%)と",
+      "furigana": "つぎのぺーじきごうきごうかいとうきごういちきごうにきごうごれいぱーせんときごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "多いかもしれませんね。",
-      "furigana": "おおいかもしれませんね。",
+      "clause_text": "思った人が多いかもしれませんね。",
+      "furigana": "おもったひとがおおいかもしれませんね。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:41:55"
+    "extraction_date_time": "2026.07.16 09:51:01"
   }
 }

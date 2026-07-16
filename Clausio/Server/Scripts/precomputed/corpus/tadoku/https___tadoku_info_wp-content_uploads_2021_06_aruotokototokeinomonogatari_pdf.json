@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇",
-      "furigana": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇",
+      "clause_text": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
+      "furigana": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "◇◆",
-      "furigana": "きごうきごう",
+      "clause_text": "その男の",
+      "furigana": "そのおとこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "その男の前には、",
-      "furigana": "そのおとこのまえには、",
+      "clause_text": "前には、",
+      "furigana": "まえには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "とても大きな時計で、",
-      "furigana": "とてもおおきなとけいで、",
+      "clause_text": "とても",
+      "furigana": "とても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "棚に",
-      "furigana": "たなに",
+      "clause_text": "大きな時計で、",
+      "furigana": "おおきなとけいで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "置く",
-      "furigana": "おく",
+      "clause_text": "棚に置くには",
+      "furigana": "たなにおくには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "には",
-      "furigana": "には",
+      "clause_text": "ちょっと大き",
+      "furigana": "ちょっとおおき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ちょっと大きすぎました。",
-      "furigana": "ちょっとおおきすぎました。",
+      "clause_text": "すぎました。",
+      "furigana": "すぎました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ですか",
-      "furigana": "です",
+      "clause_text": "ですから、",
+      "furigana": "ですから、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ら、",
-      "furigana": "、",
+      "clause_text": "床の",
+      "furigana": "ゆかの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "床の上に",
-      "furigana": "ゆかのうえに",
+      "clause_text": "上に",
+      "furigana": "うえに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "直接置か",
-      "furigana": "ちょくせつおか",
+      "clause_text": "直接",
+      "furigana": "ちょくせつ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "れていました。",
-      "furigana": "れていました。",
+      "clause_text": "置かれていました。",
+      "furigana": "おかれていました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それで",
-      "furigana": "それで",
+      "clause_text": "それでも、時間を",
+      "furigana": "それでも、じかんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "も、",
-      "furigana": "も、",
+      "clause_text": "確認したいとき、",
+      "furigana": "かくにんしたいとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "時間を確認したいとき、",
-      "furigana": "じかんをかくにんしたいとき、",
+      "clause_text": "ほとんどの人は時計を",
+      "furigana": "ほとんどのひとはとけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほとんどの人は時計",
-      "furigana": "ほとんどのひとはとけい",
+      "clause_text": "見上げなければ",
+      "furigana": "みあげなければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "を見上げなければなりません。",
-      "furigana": "をみあげなければなりません。",
+      "clause_text": "なりません。",
+      "furigana": "なりません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "この大きな時計",
-      "furigana": "このおおきなとけい",
+      "clause_text": "この大きな時計を",
+      "furigana": "このおおきなとけいを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "をとても",
-      "furigana": "をとても",
+      "clause_text": "とても",
+      "furigana": "とても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:35:12"
+    "extraction_date_time": "2026.07.16 09:47:17"
   }
 }

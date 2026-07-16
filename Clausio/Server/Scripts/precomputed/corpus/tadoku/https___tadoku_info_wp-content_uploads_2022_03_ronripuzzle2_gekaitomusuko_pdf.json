@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】ある大学病院",
-      "furigana": "きごうもんだいきごうあるだいがくびょういん",
+      "clause_text": "【問題】",
+      "furigana": "きごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "ある大学病院に、",
+      "furigana": "あるだいがくびょういんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "その外",
-      "furigana": "その",
+      "clause_text": "その外科医は",
+      "furigana": "そのげかいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "科医はたいへんな手術を",
-      "furigana": "はたいへんなしゅじゅつを",
+      "clause_text": "たいへんな手術を",
+      "furigana": "たいへんなしゅじゅつを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "終わる",
-      "furigana": "おわる",
+      "clause_text": "終わると、",
+      "furigana": "おわると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "看護師から",
+      "furigana": "かんごしから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "看護師から電話が",
-      "furigana": "かんごしからでんわが",
+      "clause_text": "電話が",
+      "furigana": "でんわが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「先生、",
-      "furigana": "きごうせんせい、",
+      "clause_text": "「先生、交通事故で",
+      "furigana": "きごうせんせい、こうつうじこで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "交通事故で",
-      "furigana": "こうつうじこで",
+      "clause_text": "大けがを",
+      "furigana": "だいけがを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "大けがをし",
-      "furigana": "だいけがをし",
+      "clause_text": "した男性が",
+      "furigana": "しただんせいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "た男性が二人、",
-      "furigana": "ただんせいがふたり、",
+      "clause_text": "二人、運ばれて",
+      "furigana": "ふたり、はこばれて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "運ばれてきました。",
-      "furigana": "はこばれてきました。",
+      "clause_text": "きました。",
+      "furigana": "きました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "親子でした",
-      "furigana": "おやこでした",
+      "clause_text": "親子でしたが、",
+      "furigana": "おやこでしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "父親は",
+      "furigana": "ちちおやは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "父親は",
-      "furigana": "ちちおやは",
+      "clause_text": "すでに",
+      "furigana": "すでに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "すでに死んで",
-      "furigana": "すでにしんで",
+      "clause_text": "死んで",
+      "furigana": "しんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:42:47"
+    "extraction_date_time": "2026.07.16 09:44:38"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "何の食べ物かな？",
-      "furigana": "なんのたべものかな?",
+      "clause_text": "何の食べ物かな？畑を",
+      "furigana": "なんのたべものかな?はたけを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "畑を見たこと",
-      "furigana": "はたけをみたこと",
+      "clause_text": "見たことがあるかな？",
+      "furigana": "みたことがあるかな?",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "があるかな？",
-      "furigana": "があるかな?",
+      "clause_text": "色々な野菜や",
+      "furigana": "いろいろなやさいや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "色々な野菜や果物が育てられている",
-      "furigana": "いろいろなやさいやくだものがそだてられている",
+      "clause_text": "果物が",
+      "furigana": "くだものが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "育てられているね。",
+      "furigana": "そだてられているね。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "葉っぱ（葉）これはなんの葉っぱかな？",
-      "furigana": "はっぱきごうはきごうこれはなんのはっぱかな?",
+      "clause_text": "葉っぱ（葉）これは",
+      "furigana": "はっぱきごうはきごうこれは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "人と同じ",
-      "furigana": "ひととおなじ",
+      "clause_text": "なんの葉っぱかな？人と",
+      "furigana": "なんのはっぱかな?ひとと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "くらいの高さだ",
-      "furigana": "くらいのたかさだ",
+      "clause_text": "同じくらいの高さだから、",
+      "furigana": "おなじくらいのたかさだから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "から、",
-      "furigana": "から、",
+      "clause_text": "160cmぐらい",
+      "furigana": "いちろくれいしーえむぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "160cmぐらいあるのかな。",
-      "furigana": "いちろくれいしーえむぐらいあるのかな。",
+      "clause_text": "あるのかな。",
+      "furigana": "あるのかな。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "よいしょ！",
-      "furigana": "よいしょ!",
+      "clause_text": "よいしょ！よーし、",
+      "furigana": "よいしょ!よーし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "よーし、",
-      "furigana": "よーし、",
+      "clause_text": "ひっぱってみよう！",
+      "furigana": "ひっぱってみよう!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ひっぱってみよう！",
-      "furigana": "ひっぱってみよう!",
+      "clause_text": "なんの葉っぱか",
+      "furigana": "なんのはっぱか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なんの葉っぱかわかるかもしれないね。",
-      "furigana": "なんのはっぱかわかるかもしれないね。",
+      "clause_text": "わかるかもしれないね。",
+      "furigana": "わかるかもしれないね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "根っこ（根）葉っぱ",
-      "furigana": "ねっこきごうねきごうはっぱ",
+      "clause_text": "根っこ（根）",
+      "furigana": "ねっこきごうねきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "の下には長いくき",
-      "furigana": "のしたにはながいくき",
+      "clause_text": "葉っぱの下には",
+      "furigana": "はっぱのしたには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "と根っこがついている",
-      "furigana": "とねっこがついている",
+      "clause_text": "長いくきと根っこが",
+      "furigana": "ながいくきとねっこが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "よ。",
-      "furigana": "よ。",
+      "clause_text": "ついているよ。",
+      "furigana": "ついているよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "こを捨てると、",
-      "furigana": "こをすてると、",
+      "clause_text": "こを",
+      "furigana": "こを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "なにか丸い",
-      "furigana": "なにかまるい",
+      "clause_text": "捨てると、",
+      "furigana": "すてると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ものが",
-      "furigana": "ものが",
+      "clause_text": "なにか",
+      "furigana": "なにか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ある",
-      "furigana": "ある",
+      "clause_text": "丸いものが",
+      "furigana": "まるいものが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "あるね。",
+      "furigana": "あるね。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.15 13:34:23"
+    "extraction_date_time": "2026.07.16 09:40:36"
   }
 }

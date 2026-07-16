@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "◆◇◇◆◇◇◆◇◇◆◇◇◆",
-      "furigana": "◆◇◇◆◇◇◆◇◇◆◇◇◆",
+      "clause_text": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
+      "furigana": "◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
-      "furigana": "◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆",
+      "clause_text": "今日も",
+      "furigana": "きょうも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "今日もステージの",
-      "furigana": "きょうもすてーじの",
+      "clause_text": "ステージの",
+      "furigana": "すてーじの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いつも",
-      "furigana": "いつも",
+      "clause_text": "いつもの",
+      "furigana": "いつもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のように",
-      "furigana": "のように",
+      "clause_text": "ように",
+      "furigana": "ように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "スポットライトを浴びながら、",
-      "furigana": "すぽっとらいとをあびながら、",
+      "clause_text": "スポットライトを",
+      "furigana": "すぽっとらいとを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "口元に笑み",
-      "furigana": "くちもとにえみ",
+      "clause_text": "浴びながら、",
+      "furigana": "あびながら、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "を浮かべて、",
-      "furigana": "をうかべて、",
+      "clause_text": "口元に笑みを",
+      "furigana": "くちもとにえみを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "恋の歌",
-      "furigana": "こいのうた",
+      "clause_text": "浮かべて、恋の",
+      "furigana": "うかべて、こいの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を歌う。",
-      "furigana": "をうたう。",
+      "clause_text": "歌を歌う。",
+      "furigana": "うたをうたう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "私にとって",
-      "furigana": "わたくしにとって",
+      "clause_text": "私に",
+      "furigana": "わたくしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは",
-      "furigana": "それは",
+      "clause_text": "とって",
+      "furigana": "とって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いつもと",
-      "furigana": "いつもと",
+      "clause_text": "それは",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "同じ日",
-      "furigana": "おなじ",
+      "clause_text": "いつもと",
+      "furigana": "いつもと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "常だ。",
-      "furigana": "だ。",
+      "clause_text": "同じ日常だ。",
+      "furigana": "おなじにちじょうだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "長年の夢",
-      "furigana": "ながねんのゆめ",
+      "clause_text": "長年の",
+      "furigana": "ながねんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "だった歌",
-      "furigana": "だった",
+      "clause_text": "夢だった",
+      "furigana": "ゆめだった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "手という",
-      "furigana": "という",
+      "clause_text": "歌手という",
+      "furigana": "かしゅという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:22:49"
+    "extraction_date_time": "2026.07.16 09:37:50"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本で",
-      "furigana": "にっぽんで",
+      "clause_text": "日本で「恋する",
+      "furigana": "にっぽんできごうこいする",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "「恋する惑星」という映画が",
-      "furigana": "きごうこいするわくせいきごうというえいがが",
+      "clause_text": "惑星」という",
+      "furigana": "わくせいきごうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "公開されまし",
-      "furigana": "こうかいされまし",
+      "clause_text": "映画が",
+      "furigana": "えいがが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "公開されました。",
+      "furigana": "こうかいされました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "わたしはその映画",
-      "furigana": "わたしはそのえいが",
+      "clause_text": "わたしはその映画に",
+      "furigana": "わたしはそのえいがに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に出ていた俳優",
-      "furigana": "にでていたはいゆう",
+      "clause_text": "出ていた俳優が",
+      "furigana": "でていたはいゆうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "が好きだったので、",
-      "furigana": "がすきだったので、",
+      "clause_text": "好きだったので、",
+      "furigana": "すきだったので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "何度もその映画",
-      "furigana": "なんどもそのえいが",
+      "clause_text": "何度もその映画を",
+      "furigana": "なんどもそのえいがを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を見ました。",
-      "furigana": "をみました。",
+      "clause_text": "見ました。",
+      "furigana": "みました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "香港の街の様子",
-      "furigana": "ほんこんのまちのようす",
+      "clause_text": "香港の街の",
+      "furigana": "ほんこんのまちの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "がおしゃれ",
-      "furigana": "がおしゃれ",
+      "clause_text": "様子がおしゃれに",
+      "furigana": "ようすがおしゃれに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "に描かれていて、",
-      "furigana": "にえがかれていて、",
+      "clause_text": "描かれていて、いつか",
+      "furigana": "えがかれていて、いつか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いつか行ってみたい",
-      "furigana": "いつかいってみたい",
+      "clause_text": "行ってみたいと",
+      "furigana": "いってみたいと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "と思いました。",
-      "furigana": "とおもいました。",
+      "clause_text": "思いました。",
+      "furigana": "おもいました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その映画から4年後、1999年に",
-      "furigana": "そのえいがからよんねんご、いちきゅうきゅうきゅうねんに",
+      "clause_text": "その映画から4年後、1999年に、わたしは",
+      "furigana": "そのえいがからよんねんご、いちきゅうきゅうきゅうねんに、わたしは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、わたしはついに香港に行くことが",
-      "furigana": "、わたしはついにほんこんにいくことが",
+      "clause_text": "ついに香港に行くことができました！香港で",
+      "furigana": "ついにほんこんにいくことができました!ほんこんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "できました！香港で美味しいものを食べ、映画の雰囲気と同じ、エネルギーにあふれた街を歩き",
-      "furigana": "できました!ほんこんでおいしいものをたべ、えいがのふんいきとおなじ、えねるぎーにあふれたまちをあるき",
+      "clause_text": "美味しいものを食べ、映画の雰囲気と同じ、",
+      "furigana": "おいしいものをたべ、えいがのふんいきとおなじ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "、夜は足の裏をマッサージしてもらいながら",
-      "furigana": "、よるはあしのうらをまっさーじしてもらいながら",
+      "clause_text": "エネルギーにあふれた街を歩き、夜は足の裏を",
+      "furigana": "えねるぎーにあふれたまちをあるき、よるはあしのうらを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "、のんびりしました。",
-      "furigana": "、のんびりしました。",
+      "clause_text": "マッサージしてもらいながら、のんびりしました。",
+      "furigana": "まっさーじしてもらいながら、のんびりしました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "たまたま夕食",
-      "furigana": "たまたまゆうしょく",
+      "clause_text": "たまたま夕食の",
+      "furigana": "たまたまゆうしょくの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "の席で隣",
-      "furigana": "のせきでとなり",
+      "clause_text": "席で隣に",
+      "furigana": "せきでとなりに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "にいた現地の人に",
-      "furigana": "にいたげんちのひとに",
+      "clause_text": "いた現地の人に",
+      "furigana": "いたげんちのひとに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:29:26"
+    "extraction_date_time": "2026.07.16 09:43:00"
   }
 }

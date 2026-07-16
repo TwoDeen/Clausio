@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "二人しか乗れない",
-      "furigana": "ふたりしかのれない",
+      "clause_text": "二人しか",
+      "furigana": "ふたりしか",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "し、",
-      "furigana": "し、",
+      "clause_text": "乗れないし、",
+      "furigana": "のれないし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "荷物も",
-      "furigana": "にもつも",
+      "clause_text": "荷物もたくさん",
+      "furigana": "にもつもたくさん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "たくさん載せられない。",
-      "furigana": "たくさんのせられない。",
+      "clause_text": "載せられない。",
+      "furigana": "のせられない。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "乗っているライダー同士の",
-      "furigana": "のっているらいだーどうしの",
+      "clause_text": "乗っている",
+      "furigana": "のっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "、不思議な",
-      "furigana": "、ふしぎな",
+      "clause_text": "ライダー同士の、",
+      "furigana": "らいだーどうしの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "習慣が",
-      "furigana": "しゅうかんが",
+      "clause_text": "不思議な習慣が",
+      "furigana": "ふしぎなしゅうかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バイクで走っているとき",
-      "furigana": "ばいくではしっているとき",
+      "clause_text": "バイクで走っている",
+      "furigana": "ばいくではしっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "ときに、前から",
+      "furigana": "ときに、まえから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "前から走って来るバイクが手を振ったり、",
-      "furigana": "まえからはしってくるばいくがてをふったり、",
+      "clause_text": "走って来るバイクが手を",
+      "furigana": "はしってくるばいくがてを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "小さく頭",
-      "furigana": "ちいさくあたま",
+      "clause_text": "振ったり、小さく頭を",
+      "furigana": "ふったり、ちいさくあたまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "を下げたりすることがあります。",
-      "furigana": "をさげたりすることがあります。",
+      "clause_text": "下げたりすることがあります。",
+      "furigana": "さげたりすることがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "知り合いだ",
-      "furigana": "しりあいだ",
+      "clause_text": "知り合いだから、",
+      "furigana": "しりあいだから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "から、",
-      "furigana": "から、",
+      "clause_text": "手を",
+      "furigana": "てを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "手を振ったり頭",
-      "furigana": "てをふったりあたま",
+      "clause_text": "振ったり頭を",
+      "furigana": "ふったりあたまを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "を下げたりするの",
-      "furigana": "をさげたりするの",
+      "clause_text": "下げたりするのでは",
+      "furigana": "さげたりするのでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ではありません。",
-      "furigana": "ではありません。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "相手",
-      "furigana": "あいて",
+      "clause_text": "相手は、",
+      "furigana": "あいては、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "会った",
+      "furigana": "あった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "会ったことも、",
-      "furigana": "あったことも、",
+      "clause_text": "ことも、",
+      "furigana": "ことも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "見たこと",
-      "furigana": "みたこと",
+      "clause_text": "見たこともない",
+      "furigana": "みたこともない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "もない人です。",
-      "furigana": "もないひとです。",
+      "clause_text": "人です。",
+      "furigana": "ひとです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.15 13:42:41"
+    "extraction_date_time": "2026.07.16 09:49:17"
   }
 }

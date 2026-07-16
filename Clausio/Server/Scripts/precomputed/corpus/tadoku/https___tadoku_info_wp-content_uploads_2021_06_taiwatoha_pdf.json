@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "昔は、",
-      "furigana": "むかしは、",
+      "clause_text": "昔は、川の",
+      "furigana": "むかしは、かわの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "川のそばに",
-      "furigana": "かわのそばに",
+      "clause_text": "そばに松が",
+      "furigana": "そばにまつが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "松がたくさん",
-      "furigana": "まつがたくさん",
+      "clause_text": "たくさんあったので、",
+      "furigana": "たくさんあったので、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あったので、",
-      "furigana": "あったので、",
+      "clause_text": "松川という名前が",
+      "furigana": "まつかわというなまえが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "松川という名前がつけられました。",
-      "furigana": "まつかわというなまえがつけられました。",
+      "clause_text": "つけられました。",
+      "furigana": "つけられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "第二次世界大戦のあと",
-      "furigana": "だいにじせかいたいせんのあと",
+      "clause_text": "第二次世界大戦の",
+      "furigana": "だいにじせかいたいせんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "あとで、町の成長を",
+      "furigana": "あとで、まちのせいちょうを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "町の成長を願って、",
-      "furigana": "まちのせいちょうをねがって、",
+      "clause_text": "願って、川のそばに",
+      "furigana": "ねがって、かわのそばに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "川のそばに桜が植えられました。",
-      "furigana": "かわのそばにさくらがうえられました。",
+      "clause_text": "桜が植えられました。",
+      "furigana": "さくらがうえられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "今では、",
-      "furigana": "いまでは、",
+      "clause_text": "今では、富山市の",
+      "furigana": "いまでは、とやましの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "富山市の中でも",
-      "furigana": "とやましのなかでも",
+      "clause_text": "中でも有名な桜の",
+      "furigana": "なかでもゆうめいなさくらの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "有名",
-      "furigana": "ゆうめい",
+      "clause_text": "名所で、「日本さくら",
+      "furigana": "めいしょで、きごうにっぽんさくら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "な桜の名所で、",
-      "furigana": "なさくらのめいしょで、",
+      "clause_text": "名所100選」に",
+      "furigana": "めいしょいちれいれいせんきごうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "「日本さくら名所100選」に選ばれています。",
-      "furigana": "きごうにっぽんさくらめいしょいちれいれいせんきごうにえらばれています。",
+      "clause_text": "選ばれています。",
+      "furigana": "えらばれています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "二口金一作「対話」松川",
-      "furigana": "ふたくちきんいちさくきごうたいわきごうまつかわ",
+      "clause_text": "二口金一作「対話」",
+      "furigana": "ふたくちきんいちさくきごうたいわきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "の両側には",
-      "furigana": "のりょうがわには",
+      "clause_text": "松川の",
+      "furigana": "まつかわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "散歩のため",
-      "furigana": "さんぽのため",
+      "clause_text": "両側には散歩の",
+      "furigana": "りょうがわにはさんぽの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "の道が",
-      "furigana": "のみちが",
+      "clause_text": "ための道が",
+      "furigana": "ためのみちが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:23:37"
+    "extraction_date_time": "2026.07.16 09:36:54"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "子ブタ",
-      "furigana": "こぶた",
+      "clause_text": "子ブタは",
+      "furigana": "こぶたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "は３つの",
-      "furigana": "はみっつの",
+      "clause_text": "３つの",
+      "furigana": "みっつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "一匹目の子ブタはわらで家",
-      "furigana": "いちひきめのこぶたはわらでいえ",
+      "clause_text": "一匹目の子ブタはわらで",
+      "furigana": "いちひきめのこぶたはわらで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "を作りましたが、",
-      "furigana": "をつくりましたが、",
+      "clause_text": "家を作りましたが、",
+      "furigana": "いえをつくりましたが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "わらの家はオオカミ",
-      "furigana": "わらのいえはおおかみ",
+      "clause_text": "わらの家は",
+      "furigana": "わらのいえは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に「フーッ」",
-      "furigana": "にきごうふーっきごう",
+      "clause_text": "オオカミに「フーッ」と",
+      "furigana": "おおかみにきごうふーっきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "と吹き飛ばされました。",
-      "furigana": "とふきとばされました。",
+      "clause_text": "吹き飛ばされました。",
+      "furigana": "ふきとばされました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "二匹目の子ブタは木",
-      "furigana": "にひきめのこぶたはき",
+      "clause_text": "二匹目の",
+      "furigana": "にひきめの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "で家を作りました",
-      "furigana": "でいえをつくりました",
+      "clause_text": "子ブタは木で家を",
+      "furigana": "こぶたはきでいえを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "作りましたが、木の",
+      "furigana": "つくりましたが、きの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "木の家はオオカミ",
-      "furigana": "きのいえはおおかみ",
+      "clause_text": "家はオオカミに",
+      "furigana": "いえはおおかみに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "に燃やされました。",
-      "furigana": "にもやされました。",
+      "clause_text": "燃やされました。",
+      "furigana": "もやされました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "子ブタ",
-      "furigana": "こぶた",
+      "clause_text": "子ブタは",
+      "furigana": "こぶたは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "はれんがで",
-      "furigana": "はれんがで",
+      "clause_text": "れんがで",
+      "furigana": "れんがで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "家を作るの",
-      "furigana": "いえをつくるの",
+      "clause_text": "家を作るのに",
+      "furigana": "いえをつくるのに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "に時間がかかりました",
-      "furigana": "にじかんがかかりました",
+      "clause_text": "時間が",
+      "furigana": "じかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が、",
-      "furigana": "が、",
+      "clause_text": "かかりましたが、",
+      "furigana": "かかりましたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "丈夫な家",
-      "furigana": "じょうぶないえ",
+      "clause_text": "丈夫な家が",
+      "furigana": "じょうぶないえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ができました。",
-      "furigana": "ができました。",
+      "clause_text": "できました。",
+      "furigana": "できました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.15 13:20:23"
+    "extraction_date_time": "2026.07.16 09:35:06"
   }
 }

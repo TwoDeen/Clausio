@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "雪と暮らす－北海道の冬－北海道",
-      "furigana": "ゆきとくらす-ほっかいどうのふゆ-ほっかいどう",
+      "clause_text": "雪と暮らす－北海道の",
+      "furigana": "ゆきとくらす-ほっかいどうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "冬－北海道では、",
+      "furigana": "ふゆ-ほっかいどうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "だいたい11月",
-      "furigana": "だいたいいちいちがつ",
+      "clause_text": "だいたい11月から",
+      "furigana": "だいたいいちいちがつから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "から4月まで雪",
-      "furigana": "からよんがつまでゆき",
+      "clause_text": "4月まで雪が",
+      "furigana": "よんがつまでゆきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "が降ります。",
-      "furigana": "がふります。",
+      "clause_text": "降ります。",
+      "furigana": "ふります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "11月や4月の雪は、",
-      "furigana": "いちいちがつやよんがつのゆきは、",
+      "clause_text": "11月や4月の",
+      "furigana": "いちいちがつやよんがつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "降って",
-      "furigana": "ふって",
+      "clause_text": "雪は、降っても",
+      "furigana": "ゆきは、ふっても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "もすぐ",
-      "furigana": "もすぐ",
+      "clause_text": "すぐに溶けて",
+      "furigana": "すぐにとけて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "に溶けてなくなること",
-      "furigana": "にとけてなくなること",
+      "clause_text": "なくなることが",
+      "furigana": "なくなることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "が多いです。",
-      "furigana": "がおおいです。",
+      "clause_text": "多いです。",
+      "furigana": "おおいです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "12月から3月にかけて",
-      "furigana": "いちにがつからさんがつにかけて",
+      "clause_text": "12月から",
+      "furigana": "いちにがつから",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "3月に",
+      "furigana": "さんがつに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "多くの町で、",
-      "furigana": "おおくのまちで、",
+      "clause_text": "かけては、多くの",
+      "furigana": "かけては、おおくの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "景色が真っ白",
-      "furigana": "けしきがまっしろ",
+      "clause_text": "町で、景色が",
+      "furigana": "まちで、けしきが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "になります。",
-      "furigana": "になります。",
+      "clause_text": "真っ白になります。",
+      "furigana": "まっしろになります。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "メートル雪の量は場所によって違いますが",
-      "furigana": "めーとるゆきのりょうはばしょによってちがいますが",
+      "clause_text": "メートル雪の量は",
+      "furigana": "めーとるゆきのりょうは",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "、いちばん大きな町、札幌",
-      "furigana": "、いちばんおおきなまち、さっぽろ",
+      "clause_text": "場所によって違いますが、",
+      "furigana": "ばしょによってちがいますが、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "では、",
-      "furigana": "では、",
+      "clause_text": "いちばん大きな町、",
+      "furigana": "いちばんおおきなまち、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎年５mくらい",
-      "furigana": "まいとしごめーとるくらい",
+      "clause_text": "札幌では、毎年５mくらいの",
+      "furigana": "さっぽろでは、まいとしごめーとるくらいの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "の雪が降ります。",
-      "furigana": "のゆきがふります。",
+      "clause_text": "雪が降ります。",
+      "furigana": "ゆきがふります。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "積もるのは",
-      "furigana": "つもるのは",
+      "clause_text": "積もる",
+      "furigana": "つもる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "60",
-      "furigana": "ろくれい",
+      "clause_text": "のは",
+      "furigana": "のは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "cm",
-      "furigana": "しーえむ",
+      "clause_text": "60",
+      "furigana": "ろくれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぐらいです。",
-      "furigana": "ぐらいです。",
+      "clause_text": "cmぐらいです。",
+      "furigana": "しーえむぐらいです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:30:58"
+    "extraction_date_time": "2026.07.16 09:38:06"
   }
 }

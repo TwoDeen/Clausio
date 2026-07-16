@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "イランの北にあり、",
-      "furigana": "いらんのきたにあり、",
+      "clause_text": "イランの北に",
+      "furigana": "いらんのきたに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "首都バクー",
-      "furigana": "しゅとばくー",
+      "clause_text": "あり、首都バクーは",
+      "furigana": "あり、しゅとばくーは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "はカスピ海",
-      "furigana": "はかすぴかい",
+      "clause_text": "カスピ海に",
+      "furigana": "かすぴかいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "に面している。",
-      "furigana": "にめんしている。",
+      "clause_text": "面している。",
+      "furigana": "めんしている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "バクーで",
-      "furigana": "ばくーで",
+      "clause_text": "バクーでは",
+      "furigana": "ばくーでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "はいつも、",
-      "furigana": "はいつも、",
+      "clause_text": "いつも、",
+      "furigana": "いつも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "カスピ海から",
-      "furigana": "かすぴかいから",
+      "clause_text": "カスピ海からの",
+      "furigana": "かすぴかいからの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "の風が町中",
-      "furigana": "のかぜがまちなか",
+      "clause_text": "風が町中を",
+      "furigana": "かぜがまちなかを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "を吹いている。",
-      "furigana": "をふいている。",
+      "clause_text": "吹いている。",
+      "furigana": "ふいている。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "いいときに",
-      "furigana": "いいときに",
+      "clause_text": "いい",
+      "furigana": "いい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いらっし",
-      "furigana": "いらっし",
+      "clause_text": "ときに",
+      "furigana": "ときに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ゃい",
-      "furigana": "ゃい",
+      "clause_text": "いらっしゃい",
+      "furigana": "いらっしゃい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "ました",
+      "furigana": "ました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "たね。",
-      "furigana": "たね。",
+      "clause_text": "ね。",
+      "furigana": "ね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "5月の公園",
-      "furigana": "ごがつのこうえん",
+      "clause_text": "5月の",
+      "furigana": "ごがつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "には、",
-      "furigana": "には、",
+      "clause_text": "公園には、",
+      "furigana": "こうえんには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "この国の人",
-      "furigana": "このくにのひと",
+      "clause_text": "この国の人が",
+      "furigana": "このくにのひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "が大好きなバラの花",
-      "furigana": "がだいすきなばらのはな",
+      "clause_text": "大好きなバラの花が",
+      "furigana": "だいすきなばらのはなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "が咲き乱れていた。",
-      "furigana": "がさきみだれていた。",
+      "clause_text": "咲き乱れていた。",
+      "furigana": "さきみだれていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:28:15"
+    "extraction_date_time": "2026.07.16 09:50:38"
   }
 }

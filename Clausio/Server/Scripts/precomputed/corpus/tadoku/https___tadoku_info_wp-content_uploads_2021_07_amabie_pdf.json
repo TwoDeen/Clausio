@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "あまり有名では",
-      "furigana": "あまりゆうめいでは",
+      "clause_text": "あまり",
+      "furigana": "あまり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ありませ",
-      "furigana": "ありませ",
+      "clause_text": "有名では",
+      "furigana": "ゆうめいでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "んでし",
-      "furigana": "んでし",
+      "clause_text": "ありませ",
+      "furigana": "ありませ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "んでした。",
+      "furigana": "んでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2020年",
-      "furigana": "にれいにれいねん",
+      "clause_text": "2020",
+      "furigana": "にれいにれい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "に有名に",
-      "furigana": "にゆうめいに",
+      "clause_text": "年に",
+      "furigana": "ねんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なりまし",
-      "furigana": "なりまし",
+      "clause_text": "有名に",
+      "furigana": "ゆうめいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "なりました。",
+      "furigana": "なりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさんの人",
-      "furigana": "たくさんのひと",
+      "clause_text": "たくさんの",
+      "furigana": "たくさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "がアマビエ",
-      "furigana": "があまびえ",
+      "clause_text": "人が",
+      "furigana": "ひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "の絵を",
-      "furigana": "のえを",
+      "clause_text": "アマビエの絵を",
+      "furigana": "あまびえのえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "アマビエは、",
-      "furigana": "あまびえは、",
+      "clause_text": "アマビエ",
+      "furigana": "あまびえ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "キャラクターに",
-      "furigana": "きゃらくたーに",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "なり",
-      "furigana": "なり",
+      "clause_text": "キャラクターに",
+      "furigana": "きゃらくたーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "まし",
-      "furigana": "まし",
+      "clause_text": "なり",
+      "furigana": "なり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "ました。",
+      "furigana": "ました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:27:04"
+    "extraction_date_time": "2026.07.16 09:40:30"
   }
 }

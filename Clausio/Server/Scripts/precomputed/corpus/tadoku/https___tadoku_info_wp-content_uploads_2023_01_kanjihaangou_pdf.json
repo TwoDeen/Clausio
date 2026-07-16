@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "25年",
-      "furigana": "にごねん",
+      "clause_text": "25年ぐらい",
+      "furigana": "にごねんぐらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ぐらい前の",
-      "furigana": "ぐらいまえの",
+      "clause_text": "前の",
+      "furigana": "まえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "私はアメリカ人の仕事仲間",
-      "furigana": "わたくしはあめりかじんのしごとなかま",
+      "clause_text": "私はアメリカ人の",
+      "furigana": "わたくしはあめりかじんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "と出張で韓国",
-      "furigana": "としゅっちょうでかんこく",
+      "clause_text": "仕事仲間と出張で",
+      "furigana": "しごとなかまとしゅっちょうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "のオサン市という",
-      "furigana": "のおさんしという",
+      "clause_text": "韓国のオサン",
+      "furigana": "かんこくのおさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ところに",
-      "furigana": "ところに",
+      "clause_text": "市というところに",
+      "furigana": "しというところに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "オサン市",
-      "furigana": "おさんし",
+      "clause_text": "オサン市は",
+      "furigana": "おさんしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "はソウル市",
-      "furigana": "はそうるし",
+      "clause_text": "ソウル市から",
+      "furigana": "そうるしから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "から南へ",
-      "furigana": "からみなみへ",
+      "clause_text": "南へ",
+      "furigana": "みなみへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "50キロぐらい",
-      "furigana": "ごれいきろぐらい",
+      "clause_text": "50キロぐらいの",
+      "furigana": "ごれいきろぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のところです。",
-      "furigana": "のところです。",
+      "clause_text": "ところです。",
+      "furigana": "ところです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ソウル市",
-      "furigana": "そうるし",
+      "clause_text": "ソウル市から",
+      "furigana": "そうるしから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "から入国します。",
-      "furigana": "からにゅうこくします。",
+      "clause_text": "入国します。",
+      "furigana": "にゅうこくします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、私は東京に",
+      "furigana": "でも、わたくしはとうきょうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は東京にある米",
-      "furigana": "わたくしはとうきょうにある",
+      "clause_text": "ある米軍基地で",
+      "furigana": "あるべいぐんきちで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "軍基地で",
-      "furigana": "きちで",
+      "clause_text": "働いていたので、そこから",
+      "furigana": "はたらいていたので、そこから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "働いていたので、",
-      "furigana": "はたらいていたので、",
+      "clause_text": "オサン市にある米軍基地まで",
+      "furigana": "おさんしにあるべいぐんきちまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "そこからオサン市にある米軍基地まで飛行機で行きました。",
-      "furigana": "そこからおさんしにあるべいぐんきちまでひこうきでいきました。",
+      "clause_text": "飛行機で行きました。",
+      "furigana": "ひこうきでいきました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:22:43"
+    "extraction_date_time": "2026.07.16 09:42:49"
   }
 }

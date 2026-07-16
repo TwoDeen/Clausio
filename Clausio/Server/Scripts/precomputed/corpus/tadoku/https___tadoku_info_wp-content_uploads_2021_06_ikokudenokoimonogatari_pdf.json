@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "語られ",
-      "furigana": "かたられ",
+      "clause_text": "語られて",
+      "furigana": "かたられて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ています。",
-      "furigana": "ています。",
+      "clause_text": "います。",
+      "furigana": "います。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろな人のそれぞれ",
-      "furigana": "いろいろなひとのそれぞれ",
+      "clause_text": "いろいろな人の",
+      "furigana": "いろいろなひとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "の素敵な恋の",
-      "furigana": "のすてきなこいの",
+      "clause_text": "それぞれの",
+      "furigana": "それぞれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "物語",
-      "furigana": "ものがたり",
+      "clause_text": "素敵な恋の",
+      "furigana": "すてきなこいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "を読んで",
-      "furigana": "をよんで",
+      "clause_text": "物語を",
+      "furigana": "ものがたりを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "みましょう。",
-      "furigana": "みましょう。",
+      "clause_text": "読んでみましょう。",
+      "furigana": "よんでみましょう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "♡恋泥棒♡ある秋",
-      "furigana": "きごうこいどろぼうきごうあるあき",
+      "clause_text": "♡恋泥棒♡ある秋の",
+      "furigana": "きごうこいどろぼうきごうあるあきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "の夜、",
-      "furigana": "のよる、",
+      "clause_text": "夜、僕はいつもの",
+      "furigana": "よる、ぼくはいつもの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "僕はいつもの一人カラオケ",
-      "furigana": "ぼくはいつものひとりからおけ",
+      "clause_text": "一人カラオケを",
+      "furigana": "ひとりからおけを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "を楽しもうと",
-      "furigana": "をたのしもうと",
+      "clause_text": "楽しもうと",
+      "furigana": "たのしもうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "以前ネットの",
-      "furigana": "いぜんねっとの",
+      "clause_text": "以前",
+      "furigana": "いぜん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "デートアプリで",
-      "furigana": "でーとあぷりで",
+      "clause_text": "ネットの",
+      "furigana": "ねっとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "知り合った彼から",
-      "furigana": "しりあったかれから",
+      "clause_text": "デートアプリで",
+      "furigana": "でーとあぷりで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "だっ",
-      "furigana": "だっ",
+      "clause_text": "知り合った",
+      "furigana": "しりあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "彼からだった。",
+      "furigana": "かれからだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「カラ",
-      "furigana": "きごう",
+      "clause_text": "「カラオケ、",
+      "furigana": "きごうからおけ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "オケ、",
-      "furigana": "、",
+      "clause_text": "行か",
+      "furigana": "いか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "行か",
-      "furigana": "いか",
+      "clause_text": "ない？」",
+      "furigana": "ない?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない？",
-      "furigana": "ない?",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "」と僕。",
-      "furigana": "きごうとぼく。",
+      "clause_text": "僕。",
+      "furigana": "ぼく。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.15 13:32:17"
+    "extraction_date_time": "2026.07.16 09:47:43"
   }
 }
