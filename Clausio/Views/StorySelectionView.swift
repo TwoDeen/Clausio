@@ -94,7 +94,9 @@ struct StorySelectionView: View {
   @State private var isGeneratingPuzzle = false
   @State private var errorMessage: String?
   
-  let baseURL = "https://clausio.onrender.com"
+  //let baseURL = "https://clausio.onrender.com"  // PRODUCTION
+  // let baseURL = "http://127.0.0.1:8000"  // DESKTOP ONLY
+  let baseURL = "http://192.168.1.140:8000"  // SAME WIFI-network but IP-address needs to be validated
   
   var body: some View {
     NavigationView {

@@ -23,7 +23,6 @@
 				Server/Scripts/export_consecutive_sentences.py,
 				Server/Scripts/generate_grid_puzzle.py,
 				Server/Scripts/main.py,
-				Server/Scripts/OriginalSubset/main.py,
 				Server/Scripts/pull_consecutive_sentences.py,
 				Server/Scripts/requirements.txt,
 				Server/Scripts/tokenise_into_sentences.py,
