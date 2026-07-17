@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "短い文章で",
-      "furigana": "みじかいぶんしょうで",
+      "clause_text": "短い",
+      "furigana": "みじかい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "語られて",
-      "furigana": "かたられて",
+      "clause_text": "文章で",
+      "furigana": "ぶんしょうで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "語られています。",
+      "furigana": "かたられています。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「カラオケ、",
-      "furigana": "きごうからおけ、",
+      "clause_text": "「カラ",
+      "furigana": "きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "行か",
-      "furigana": "いか",
+      "clause_text": "オケ、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない？」",
-      "furigana": "ない?きごう",
+      "clause_text": "行かな",
+      "furigana": "いか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "い？」",
+      "furigana": "?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "僕。",
-      "furigana": "ぼく。",
+      "clause_text": "と僕。",
+      "furigana": "とぼく。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:43"
+    "extraction_date_time": "2026.07.17 10:15:08"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "あるところに、",
-      "furigana": "あるところに、",
+      "clause_text": "ある",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "古く",
-      "furigana": "ふるく",
+      "clause_text": "ところに、",
+      "furigana": "ところに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "て",
-      "furigana": "て",
+      "clause_text": "古くて",
+      "furigana": "ふるくて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも、ある日、泥棒が",
-      "furigana": "でも、あるひ、どろぼうが",
+      "clause_text": "でも、ある日、",
+      "furigana": "でも、あるひ、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "その家に入り、その家の",
-      "furigana": "そのいえにはいり、そのいえの",
+      "clause_text": "泥棒がその家に入り、",
+      "furigana": "どろぼうがそのいえにはいり、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "お金や宝石をすべて",
-      "furigana": "おかねやほうせきをすべて",
+      "clause_text": "その家のお金や宝石を",
+      "furigana": "そのいえのおかねやほうせきを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "盗んだうえに、家族を",
-      "furigana": "ぬすんだうえに、かぞくを",
+      "clause_text": "すべて盗んだうえに、家族を",
+      "furigana": "すべてぬすんだうえに、かぞくを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "でも、ぼくの",
-      "furigana": "でも、ぼくの",
+      "clause_text": "でも",
+      "furigana": "でも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "おじい",
-      "furigana": "おじい",
+      "clause_text": "、ぼくの",
+      "furigana": "、ぼくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ちゃんが、",
-      "furigana": "ちゃんが、",
+      "clause_text": "おじいちゃんが、",
+      "furigana": "おじいちゃんが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "おじいちゃんは、低くてこわい声で",
-      "furigana": "おじいちゃんは、ひくくてこわいこえで",
+      "clause_text": "おじいちゃんは、低くて",
+      "furigana": "おじいちゃんは、ひくくて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ゆっくりその話をしたから、",
-      "furigana": "ゆっくりそのはなしをしたから、",
+      "clause_text": "こわい声でゆっくりその話を",
+      "furigana": "こわいこえでゆっくりそのはなしを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ぼくはほとんど泣きそうに",
-      "furigana": "ぼくはほとんどなきそうに",
+      "clause_text": "したから、ぼくはほとんど",
+      "furigana": "したから、ぼくはほとんど",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なってしまったけど、",
-      "furigana": "なってしまったけど、",
+      "clause_text": "泣きそうになってしまったけど、",
+      "furigana": "なきそうになってしまったけど、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:07"
+    "extraction_date_time": "2026.07.17 10:17:26"
   }
 }

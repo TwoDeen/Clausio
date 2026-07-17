@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "思っていますが、実は",
-      "furigana": "おもっていますが、じつは",
+      "clause_text": "思っていますが、",
+      "furigana": "おもっていますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "熊も、人間を怖いと",
-      "furigana": "くまも、にんげんをこわいと",
+      "clause_text": "実は熊も、人間を",
+      "furigana": "じつはくまも、にんげんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "思っています。",
-      "furigana": "おもっています。",
+      "clause_text": "怖いと思っています。",
+      "furigana": "こわいとおもっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ですから、",
-      "furigana": "ですから、",
+      "clause_text": "ですから、普通、",
+      "furigana": "ですから、ふつう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通、熊は",
-      "furigana": "ふつう、くまは",
+      "clause_text": "熊は人間を",
+      "furigana": "くまはにんげんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "人間を見ると、",
-      "furigana": "にんげんをみると、",
+      "clause_text": "見ると、",
+      "furigana": "みると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "どこかへ",
-      "furigana": "どこかへ",
+      "clause_text": "どこかへ逃げて",
+      "furigana": "どこかへにげて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "逃げて行きます。",
-      "furigana": "にげていきます。",
+      "clause_text": "行きます。",
+      "furigana": "いきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ところが、",
-      "furigana": "ところが、",
+      "clause_text": "ところが、最近は、",
+      "furigana": "ところが、さいきんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "最近は、",
-      "furigana": "さいきんは、",
+      "clause_text": "熊が",
+      "furigana": "くまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "熊が町に",
-      "furigana": "くまがまちに",
+      "clause_text": "町に",
+      "furigana": "まちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:24"
+    "extraction_date_time": "2026.07.17 10:14:30"
   }
 }

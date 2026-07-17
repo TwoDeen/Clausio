@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "昔は、川の",
-      "furigana": "むかしは、かわの",
+      "clause_text": "昔は、川のそばに",
+      "furigana": "むかしは、かわのそばに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "そばに松が",
-      "furigana": "そばにまつが",
+      "clause_text": "松がたくさん",
+      "furigana": "まつがたくさん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "たくさんあったので、",
-      "furigana": "たくさんあったので、",
+      "clause_text": "あったので、",
+      "furigana": "あったので、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "名所で、「日本さくら",
-      "furigana": "めいしょで、きごうにっぽんさくら",
+      "clause_text": "名所で、",
+      "furigana": "めいしょで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "名所100選」に",
-      "furigana": "めいしょいちれいれいせんきごうに",
+      "clause_text": "「日本さくら名所100選」に",
+      "furigana": "きごうにっぽんさくらめいしょいちれいれいせんきごうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "二口金一作「対話」",
-      "furigana": "ふたくちきんいちさくきごうたいわきごう",
+      "clause_text": "二口金一作",
+      "furigana": "ふたくちきんいちさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "松川の",
-      "furigana": "まつかわの",
+      "clause_text": "「対話」松川の",
+      "furigana": "きごうたいわきごうまつかわの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:54"
+    "extraction_date_time": "2026.07.17 10:24:01"
   }
 }

@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "授業が終わって電車に",
-      "furigana": "じゅぎょうがおわってでんしゃに",
+      "clause_text": "授業が終わって",
+      "furigana": "じゅぎょうがおわって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "乗っていた時の",
-      "furigana": "のっていたときの",
+      "clause_text": "電車に乗っていた",
+      "furigana": "でんしゃにのっていた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "ことです。",
-      "furigana": "ことです。",
+      "clause_text": "時のことです。",
+      "furigana": "ときのことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「この席、",
-      "furigana": "きごうこのせき、",
+      "clause_text": "「この席、どうぞ」",
+      "furigana": "きごうこのせき、どうぞきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "どうぞ」",
-      "furigana": "どうぞきごう",
+      "clause_text": "男の人の",
+      "furigana": "おとこのひとの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "男の人の",
-      "furigana": "おとこのひとの",
+      "clause_text": "声で、",
+      "furigana": "こえで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "声で、目が",
-      "furigana": "こえで、めが",
+      "clause_text": "目が",
+      "furigana": "めが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:34:29"
+    "extraction_date_time": "2026.07.17 10:18:00"
   }
 }

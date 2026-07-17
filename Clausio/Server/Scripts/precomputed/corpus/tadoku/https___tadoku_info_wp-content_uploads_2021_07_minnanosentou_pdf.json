@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "温泉、銭湯、プール、海に",
-      "furigana": "おんせん、せんとう、ぷーる、うみに",
+      "clause_text": "温泉、銭湯、プール、",
+      "furigana": "おんせん、せんとう、ぷーる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "入ることができない",
-      "furigana": "はいることができない",
+      "clause_text": "海に入ることができない",
+      "furigana": "うみにはいることができない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "その理由は、江戸時代（",
-      "furigana": "そのりゆうは、えどじだいきごう",
+      "clause_text": "その理由は、",
+      "furigana": "そのりゆうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1603年～1868年）に",
-      "furigana": "いちろくれいさんねんからいちはちろくはちねんきごうに",
+      "clause_text": "江戸時代（1603年～1868年）に",
+      "furigana": "えどじだいきごういちろくれいさんねんからいちはちろくはちねんきごうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:54"
+    "extraction_date_time": "2026.07.17 10:16:54"
   }
 }

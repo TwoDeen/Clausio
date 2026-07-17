@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "詩を読む2あたり前な",
-      "furigana": "しをよむにあたりまえな",
+      "clause_text": "詩を読む2あたり前なこと",
+      "furigana": "しをよむにあたりまえなこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "こと－谷川俊太郎「ぼくは",
-      "furigana": "こと-たにがわしゅんたろうきごうぼくは",
+      "clause_text": "－谷川俊太郎「ぼくは言う」",
+      "furigana": "-たにがわしゅんたろうきごうぼくはゆうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "言う」あたり前なことを",
-      "furigana": "ゆうきごうあたりまえなことを",
+      "clause_text": "あたり前なことを",
+      "furigana": "あたりまえなことを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "あたり前な",
-      "furigana": "あたりまえな",
+      "clause_text": "あたり前なことについて",
+      "furigana": "あたりまえなことについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことについて考えるのは",
-      "furigana": "ことについてかんがえるのは",
+      "clause_text": "考えるのはたいへんだし、",
+      "furigana": "かんがえるのはたいへんだし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "たいへんだし、書くのは",
-      "furigana": "たいへんだし、かくのは",
+      "clause_text": "書くのは面倒だし、",
+      "furigana": "かくのはめんどうだし、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "面倒だし、調べるのは",
-      "furigana": "めんどうだし、しらべるのは",
+      "clause_text": "調べるのは",
+      "furigana": "しらべるのは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:38:38"
+    "extraction_date_time": "2026.07.17 10:25:48"
   }
 }

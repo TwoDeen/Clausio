@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "どう思いましたか？",
-      "furigana": "どうおもいましたか?",
+      "clause_text": "どう思いましたか？私は、",
+      "furigana": "どうおもいましたか?わたくしは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "私は、「真っ黒…、カラス…、",
-      "furigana": "わたくしは、きごうまっくろ．、からすきごう、",
+      "clause_text": "「真っ黒…、カラス…、なんか怖い…」と",
+      "furigana": "きごうまっくろ．、からすきごう、なんかこわい．きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "なんか怖い…」と思いました。",
-      "furigana": "なんかこわい．きごうとおもいました。",
+      "clause_text": "思いました。",
+      "furigana": "おもいました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、このうちわは",
+      "furigana": "でも、このうちわは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "このうちわは",
-      "furigana": "このうちわは",
+      "clause_text": "怖い",
+      "furigana": "こわい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "怖いうちわではなく、",
-      "furigana": "こわいうちわではなく、",
+      "clause_text": "うちわではなく、",
+      "furigana": "うちわではなく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "毎年７月20日に「すもも",
-      "furigana": "まいとししちがつにれいにちにきごうすもも",
+      "clause_text": "毎年７月20日に",
+      "furigana": "まいとししちがつにれいにちに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "祭」というお祭りが",
-      "furigana": "まつりきごうというおまつりが",
+      "clause_text": "「すもも祭」という",
+      "furigana": "きごうすももまつりきごうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "行われます。",
-      "furigana": "おこなわれます。",
+      "clause_text": "お祭りが行われます。",
+      "furigana": "おまつりがおこなわれます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "このうちわ",
-      "furigana": "このうちわ",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "うちわは、",
+      "furigana": "うちわは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "このうちわで",
-      "furigana": "このうちわで",
+      "clause_text": "このうちわであおぐと、",
+      "furigana": "このうちわであおぐと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "あおぐと、畑や田の",
-      "furigana": "あおぐと、はたけやたの",
+      "clause_text": "畑や田の虫が",
+      "furigana": "はたけやたのむしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "虫がいなくなったり、",
-      "furigana": "むしがいなくなったり、",
+      "clause_text": "いなくなったり、",
+      "furigana": "いなくなったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:05"
+    "extraction_date_time": "2026.07.17 10:15:55"
   }
 }

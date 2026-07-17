@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "楽しめる絵本も",
-      "furigana": "たのしめるえほんも",
+      "clause_text": "楽しめる",
+      "furigana": "たのしめる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "たくさん",
-      "furigana": "たくさん",
+      "clause_text": "絵本もたくさん",
+      "furigana": "えほんもたくさん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "アントニー・ブラウンの『",
-      "furigana": "あんとにー・ぶらうんのきごう",
+      "clause_text": "アントニー・ブラウンの",
+      "furigana": "あんとにー・ぶらうんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "すきですゴリラ』（",
-      "furigana": "すきですごりらきごうきごう",
+      "clause_text": "『すきですゴリラ』（1983年）は、",
+      "furigana": "きごうすきですごりらきごうきごういちきゅうはちさんねんきごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "1983年）は、",
-      "furigana": "いちきゅうはちさんねんきごうは、",
+      "clause_text": "そんな",
+      "furigana": "そんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そんな絵本の",
-      "furigana": "そんなえほんの",
+      "clause_text": "絵本の",
+      "furigana": "えほんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:38:24"
+    "extraction_date_time": "2026.07.17 10:20:26"
   }
 }

@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "「そろそろ家に",
-      "furigana": "きごうそろそろいえに",
+      "clause_text": "「そろそろ家に帰ろうか･･･」",
+      "furigana": "きごうそろそろいえにかえろうか・・・きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "帰ろうか･･･」",
-      "furigana": "かえろうか・・・きごう",
+      "clause_text": "男性は",
+      "furigana": "だんせいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "男性は出発しようと",
-      "furigana": "だんせいはしゅっぱつしようと",
+      "clause_text": "出発しようと",
+      "furigana": "しゅっぱつしようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "すると、「ゴットン」車が",
-      "furigana": "すると、きごうごっとんきごうくるまが",
+      "clause_text": "すると、",
+      "furigana": "すると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "何かに",
-      "furigana": "なんかに",
+      "clause_text": "「ゴットン」車が",
+      "furigana": "きごうごっとんきごうくるまが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "乗り上げた",
-      "furigana": "のりあげた",
+      "clause_text": "何かに",
+      "furigana": "なんかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "感じが",
-      "furigana": "かんじが",
+      "clause_text": "乗り上げた感じが",
+      "furigana": "のりあげたかんじが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "轢いてしまった",
-      "furigana": "ひいてしまった",
+      "clause_text": "轢いて",
+      "furigana": "ひいて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "しまったのです。",
+      "furigana": "しまったのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 1,
     "sentence_level": 3,
     "article_length": 349,
-    "extraction_date_time": "2026.07.16 09:44:44"
+    "extraction_date_time": "2026.07.17 10:18:51"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "コックピットでの",
-      "furigana": "こっくぴっとでの",
+      "clause_text": "コックピットでの１時間",
+      "furigana": "こっくぴっとでのいちじかん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "１時間その日、私は",
-      "furigana": "いちじかんそのひ、わたくしは",
+      "clause_text": "その日、私はドイツの",
+      "furigana": "そのひ、わたくしはどいつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ドイツのフランクフルトから",
-      "furigana": "どいつのふらんくふるとから",
+      "clause_text": "フランクフルトから",
+      "furigana": "ふらんくふるとから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "冷戦中で、ロシアの",
-      "furigana": "れいせんちゅうで、ろしあの",
+      "clause_text": "冷戦中で、",
+      "furigana": "れいせんちゅうで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "上を飛行機が",
-      "furigana": "うえをひこうきが",
+      "clause_text": "ロシアの上を",
+      "furigana": "ろしあのうえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "飛ぶことは",
-      "furigana": "とぶことは",
+      "clause_text": "飛行機が飛ぶことは",
+      "furigana": "ひこうきがとぶことは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:45"
+    "extraction_date_time": "2026.07.17 10:26:04"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "カーテンみな",
-      "furigana": "かーてんみな",
+      "clause_text": "カーテンみなさんは",
+      "furigana": "かーてんみなさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "さんは「緑の",
-      "furigana": "さんはきごうみどりの",
+      "clause_text": "「緑のカーテン」",
+      "furigana": "きごうみどりのかーてんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "カーテン」を",
-      "furigana": "かーてんきごうを",
+      "clause_text": "を",
+      "furigana": "を",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "植物で",
-      "furigana": "しょくぶつで",
+      "clause_text": "植物で作られた",
+      "furigana": "しょくぶつでつくられた",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "作られたカーテンの",
-      "furigana": "つくられたかーてんの",
+      "clause_text": "カーテンの",
+      "furigana": "かーてんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "代表的なものは、アサ町で",
-      "furigana": "だいひょうてきなものは、あさまちで",
+      "clause_text": "代表的なものは、",
+      "furigana": "だいひょうてきなものは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "見つけたゴーヤの",
-      "furigana": "みつけたごーやの",
+      "clause_text": "アサ町で見つけたゴーヤの",
+      "furigana": "あさまちでみつけたごーやの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ジャスミンなどで、キュウリも",
-      "furigana": "じゃすみんなどで、きゅうりも",
+      "clause_text": "ジャスミンなどで、",
+      "furigana": "じゃすみんなどで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "使われたりします。",
-      "furigana": "つかわれたりします。",
+      "clause_text": "キュウリも使われたりします。",
+      "furigana": "きゅうりもつかわれたりします。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:29"
+    "extraction_date_time": "2026.07.17 10:17:42"
   }
 }

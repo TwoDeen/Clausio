@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "はじめて歩く",
-      "furigana": "はじめてあるく",
+      "clause_text": "はじめて歩く街で、",
+      "furigana": "はじめてあるくまちで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "街で、ホテルを",
-      "furigana": "まちで、ほてるを",
+      "clause_text": "ホテルを",
+      "furigana": "ほてるを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:21"
+    "extraction_date_time": "2026.07.17 10:15:48"
   }
 }

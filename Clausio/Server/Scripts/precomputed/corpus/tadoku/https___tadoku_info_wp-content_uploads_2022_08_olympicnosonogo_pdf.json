@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "2021",
-      "furigana": "にれいにいち",
+      "clause_text": "2021年、",
+      "furigana": "にれいにいちねん、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "年、",
-      "furigana": "ねん、",
+      "clause_text": "日本で",
+      "furigana": "にっぽんで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本で",
-      "furigana": "にっぽんで",
+      "clause_text": "オリンピックが",
+      "furigana": "おりんぴっくが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "オリンピックが",
-      "furigana": "おりんぴっくが",
+      "clause_text": "開かれました",
+      "furigana": "ひらかれました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "開かれました。",
-      "furigana": "ひらかれました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "そう思い、色々な",
-      "furigana": "そうおもい、いろいろな",
+      "clause_text": "そう思い、",
+      "furigana": "そうおもい、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "競技を見ました。",
-      "furigana": "きょうぎをみました。",
+      "clause_text": "色々な競技を見ました。",
+      "furigana": "いろいろなきょうぎをみました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本のチームが",
-      "furigana": "にっぽんのちーむが",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "勝つと、",
-      "furigana": "かつと、",
+      "clause_text": "チームが",
+      "furigana": "ちーむが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "とても嬉しく",
-      "furigana": "とてもうれしく",
+      "clause_text": "勝つと、",
+      "furigana": "かつと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "なりました。",
-      "furigana": "なりました。",
+      "clause_text": "とても嬉しくなりました。",
+      "furigana": "とてもうれしくなりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、選手たちは",
+      "furigana": "そして、せんしゅたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "選手たちは夢を",
-      "furigana": "せんしゅたちはゆめを",
+      "clause_text": "夢をもち、",
+      "furigana": "ゆめをもち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "もち、人生を",
-      "furigana": "もち、じんせいを",
+      "clause_text": "人生をかけて、",
+      "furigana": "じんせいをかけて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "かけて、練習を",
-      "furigana": "かけて、れんしゅうを",
+      "clause_text": "練習をがんばって",
+      "furigana": "れんしゅうをがんばって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "がんばってきました。",
-      "furigana": "がんばってきました。",
+      "clause_text": "きました。",
+      "furigana": "きました。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:59"
+    "extraction_date_time": "2026.07.17 10:17:54"
   }
 }

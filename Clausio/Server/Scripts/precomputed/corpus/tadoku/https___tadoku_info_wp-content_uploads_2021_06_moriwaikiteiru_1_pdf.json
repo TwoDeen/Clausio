@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "中にある夏の",
-      "furigana": "なかにあるなつの",
+      "clause_text": "中にある夏の別荘、",
+      "furigana": "なかにあるなつのべっそう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "別荘、１５００mの",
-      "furigana": "べっそう、いちごれいれいめーとるの",
+      "clause_text": "１５００mの",
+      "furigana": "いちごれいれいめーとるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「先生、",
-      "furigana": "きごうせんせい、",
+      "clause_text": "「先生、涼しい",
+      "furigana": "きごうせんせい、すずしい",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "涼しい！東京から",
-      "furigana": "すずしい!とうきょうから",
+      "clause_text": "！東京から来",
+      "furigana": "!とうきょうから",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "来ると別の国に",
-      "furigana": "くるとべつのくにに",
+      "clause_text": "ると別の国に",
+      "furigana": "とべつのくにに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "来たみたい」と",
-      "furigana": "きたみたいきごうと",
+      "clause_text": "来たみたい」",
+      "furigana": "きたみたいきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ターニャ。",
-      "furigana": "たーにゃ。",
+      "clause_text": "とターニャ。",
+      "furigana": "とたーにゃ。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "コンクリートジャングルから、私たちは",
-      "furigana": "こんくりーとじゃんぐるから、わたしたちは",
+      "clause_text": "コンクリートジャングルから、",
+      "furigana": "こんくりーとじゃんぐるから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "僅か３時間弱でどこまでも森が広がり小川の",
-      "furigana": "わずかさんじかんじゃくでどこまでももりがひろがりおがわの",
+      "clause_text": "私たちは僅か３時間弱でどこまでも",
+      "furigana": "わたしたちはわずかさんじかんじゃくでどこまでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "せせらぎ、小鳥たちのさえずりが",
-      "furigana": "せせらぎ、ことりたちのさえずりが",
+      "clause_text": "森が広がり小川のせせらぎ、小鳥たちの",
+      "furigana": "もりがひろがりおがわのせせらぎ、ことりたちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "聞こえる別荘地に着いたのです。",
-      "furigana": "きこえるべっそうちについたのです。",
+      "clause_text": "さえずりが聞こえる別荘地に着いたのです。",
+      "furigana": "さえずりがきこえるべっそうちについたのです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "森が占めている、数字では",
-      "furigana": "もりがしめている、すうじでは",
+      "clause_text": "森が占めている、",
+      "furigana": "もりがしめている、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "知っていても、「森に",
-      "furigana": "しっていても、きごうもりに",
+      "clause_text": "数字では知っていても、",
+      "furigana": "すうじではしっていても、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "行ったことがない」という",
-      "furigana": "いったことがないきごうという",
+      "clause_text": "「森に行ったことがない」という",
+      "furigana": "きごうもりにいったことがないきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.16 09:45:54"
+    "extraction_date_time": "2026.07.17 10:22:46"
   }
 }

@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2",
-      "furigana": "に",
+      "clause_text": "2週間ほど",
+      "furigana": "にしゅうかんほど",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "週間ほど",
-      "furigana": "しゅうかんほど",
+      "clause_text": "東京に",
+      "furigana": "とうきょうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "東京に",
-      "furigana": "とうきょうに",
+      "clause_text": "帰りました",
+      "furigana": "かえりました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "帰りました。",
-      "furigana": "かえりました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "付かない",
-      "furigana": "つかない",
+      "clause_text": "付かないほどの",
+      "furigana": "つかないほどの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ほどの",
-      "furigana": "ほどの",
+      "clause_text": "小さな",
+      "furigana": "ちいさな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さな揺れでした。",
-      "furigana": "ちいさなゆれでした。",
+      "clause_text": "揺れでした。",
+      "furigana": "ゆれでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "最初に気が",
-      "furigana": "さいしょにきが",
+      "clause_text": "最初に",
+      "furigana": "さいしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "付き、「あ、",
-      "furigana": "つき、きごうあ、",
+      "clause_text": "気が付き、",
+      "furigana": "きがつき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "地震だ」と",
-      "furigana": "じしんだきごうと",
+      "clause_text": "「あ、地震だ」と",
+      "furigana": "きごうあ、じしんだきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:06"
+    "extraction_date_time": "2026.07.17 10:17:48"
   }
 }

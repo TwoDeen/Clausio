@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "何の食べ物かな？畑を",
-      "furigana": "なんのたべものかな?はたけを",
+      "clause_text": "何の",
+      "furigana": "なんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "見たことがあるかな？",
-      "furigana": "みたことがあるかな?",
+      "clause_text": "食べ物かな？畑を",
+      "furigana": "たべものかな?はたけを",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "色々な野菜や",
-      "furigana": "いろいろなやさいや",
+      "clause_text": "見たことがあるかな？",
+      "furigana": "みたことがあるかな?",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "果物が",
-      "furigana": "くだものが",
+      "clause_text": "色々な野菜や果物が",
+      "furigana": "いろいろなやさいやくだものが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "どこまでのびると思う？",
-      "furigana": "どこまでのびるとおもう?",
+      "clause_text": "どこまでのびると",
+      "furigana": "どこまでのびると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "よいしょ！よーし、",
-      "furigana": "よいしょ!よーし、",
+      "clause_text": "思う？よいしょ！よーし、",
+      "furigana": "おもう?よいしょ!よーし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.16 09:40:36"
+    "extraction_date_time": "2026.07.17 10:22:52"
   }
 }

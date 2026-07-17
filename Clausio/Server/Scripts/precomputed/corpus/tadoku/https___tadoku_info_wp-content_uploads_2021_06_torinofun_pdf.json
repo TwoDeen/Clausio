@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "同じよう",
-      "furigana": "おなじよう",
+      "clause_text": "同じ",
+      "furigana": "おなじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に",
-      "furigana": "に",
+      "clause_text": "ように",
+      "furigana": "ように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "動物には",
-      "furigana": "どうぶつには",
+      "clause_text": "動物に",
+      "furigana": "どうぶつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "トイレが",
-      "furigana": "といれが",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない",
-      "furigana": "ない",
+      "clause_text": "トイレが",
+      "furigana": "といれが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでしょう",
-      "furigana": "のでしょう",
+      "clause_text": "ないのでしょう",
+      "furigana": "ないのでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.16 09:43:15"
+    "extraction_date_time": "2026.07.17 10:27:27"
   }
 }

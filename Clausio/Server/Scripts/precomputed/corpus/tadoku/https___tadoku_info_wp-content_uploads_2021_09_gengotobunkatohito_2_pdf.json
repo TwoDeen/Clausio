@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「日本語だけでなく、日本の文化や",
-      "furigana": "きごうにほんごだけでなく、にっぽんのぶんかや",
+      "clause_text": "「日本語だけでなく、日本の文化や習慣も！」",
+      "furigana": "きごうにほんごだけでなく、にっぽんのぶんかやしゅうかんも!きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "習慣も！」－文化って何だろう－「外国語を",
-      "furigana": "しゅうかんも!きごう-ぶんかってなんだろう-きごうがいこくごを",
+      "clause_text": "－文化って",
+      "furigana": "-ぶんかって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "習得するためには、言語だけでなく、その国の",
-      "furigana": "しゅうとくするためには、げんごだけでなく、そのくにの",
+      "clause_text": "何だろう－",
+      "furigana": "なんだろう-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "文化や習慣も学ばなければならない」と",
-      "furigana": "ぶんかやしゅうかんもまなばなければならないきごうと",
+      "clause_text": "「外国語を習得するためには、言語だけでなく、その国の文化や習慣も学ばなければならない」と",
+      "furigana": "きごうがいこくごをしゅうとくするためには、げんごだけでなく、そのくにのぶんかやしゅうかんもまなばなければならないきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "その場合の",
-      "furigana": "そのばあいの",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "文化と",
-      "furigana": "ぶんかと",
+      "clause_text": "場合の",
+      "furigana": "ばあいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "は",
-      "furigana": "は",
+      "clause_text": "文化とは",
+      "furigana": "ぶんかとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "相互作用を",
-      "furigana": "そうごさようを",
+      "clause_text": "相互作用をしながら",
+      "furigana": "そうごさようをしながら",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "しながら生きています。",
-      "furigana": "しながらいきています。",
+      "clause_text": "生きています。",
+      "furigana": "いきています。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.16 09:39:15"
+    "extraction_date_time": "2026.07.17 10:19:27"
   }
 }

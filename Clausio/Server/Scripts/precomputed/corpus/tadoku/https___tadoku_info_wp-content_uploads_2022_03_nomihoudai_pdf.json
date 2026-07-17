@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "先日、",
-      "furigana": "せんじつ、",
+      "clause_text": "先日、ある国に",
+      "furigana": "せんじつ、あるくにに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある国に",
-      "furigana": "あるくにに",
+      "clause_text": "いる",
+      "furigana": "いる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いる友だちと",
-      "furigana": "いるともだちと",
+      "clause_text": "友だちと",
+      "furigana": "ともだちと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "いつも「早く",
-      "furigana": "いつもきごうはやく",
+      "clause_text": "いつも",
+      "furigana": "いつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "また日本に",
-      "furigana": "またにっぽんに",
+      "clause_text": "「早くまた日本に行きたい」",
+      "furigana": "きごうはやくまたにっぽんにいきたいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "行きたい」と",
-      "furigana": "いきたいきごうと",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "彼女に、「日本の",
-      "furigana": "かのじょに、きごうにっぽんの",
+      "clause_text": "彼女に、",
+      "furigana": "かのじょに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "何が、いちばん",
-      "furigana": "なんが、いちばん",
+      "clause_text": "「日本の何が、いちばん恋しい？」",
+      "furigana": "きごうにっぽんのなんが、いちばんこいしい?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "恋しい？」と",
-      "furigana": "こいしい?きごうと",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "すぐに「飲み",
-      "furigana": "すぐにきごうのみ",
+      "clause_text": "すぐに",
+      "furigana": "すぐに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "放題！」",
-      "furigana": "ほうだい!きごう",
+      "clause_text": "「飲み放題！」",
+      "furigana": "きごうのみほうだい!きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:33"
+    "extraction_date_time": "2026.07.17 10:28:14"
   }
 }

@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "棒高跳、やり投げ、1500m走）実は、私は",
-      "furigana": "ぼうたかとび、やりなげ、いちごれいれいめーとるそうきごうじつは、わたくしは",
+      "clause_text": "棒高跳、やり投げ、1500m走）実は、",
+      "furigana": "ぼうたかとび、やりなげ、いちごれいれいめーとるそうきごうじつは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "一度だけ十種競技をしたことがあります。",
-      "furigana": "いちどだけじゅうしゅきょうぎをしたことがあります。",
+      "clause_text": "私は一度だけ十種競技をしたことがあります。",
+      "furigana": "わたくしはいちどだけじゅうしゅきょうぎをしたことがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ありませ",
-      "furigana": "ありませ",
+      "clause_text": "ありませんでした",
+      "furigana": "ありませんでした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "んでした。",
-      "furigana": "んでした。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ただ、十種競技が",
-      "furigana": "ただ、じゅうしゅきょうぎが",
+      "clause_text": "ただ、十種競技が終わった次の日、",
+      "furigana": "ただ、じゅうしゅきょうぎがおわったつぎのひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "終わった次の日、歩くと体中が",
-      "furigana": "おわったつぎのひ、あるくとたいちゅうが",
+      "clause_text": "歩くと体中が痛くて、",
+      "furigana": "あるくとたいちゅうがいたくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "痛くて、階段をのぼることも",
-      "furigana": "いたくて、かいだんをのぼることも",
+      "clause_text": "階段をのぼることも",
+      "furigana": "かいだんをのぼることも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:37:34"
+    "extraction_date_time": "2026.07.17 10:21:27"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "つぎはぎだらけ？（",
-      "furigana": "つぎはぎだらけ?きごう",
+      "clause_text": "つぎはぎだらけ？（西アフリカの",
+      "furigana": "つぎはぎだらけ?きごうにしあふりかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "西アフリカの昔話）",
-      "furigana": "にしあふりかのむかしばなしきごう",
+      "clause_text": "昔話）カメの",
+      "furigana": "むかしばなしきごうかめの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "カメの背中には、",
-      "furigana": "かめのせなかには、",
+      "clause_text": "背中には、",
+      "furigana": "せなかには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "あるところに",
-      "furigana": "あるところに",
+      "clause_text": "ある",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "お母さん",
-      "furigana": "おかあさん",
+      "clause_text": "ところに",
+      "furigana": "ところに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "カメが",
-      "furigana": "かめが",
+      "clause_text": "お母さんカメが",
+      "furigana": "おかあさんかめが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:48:49"
+    "extraction_date_time": "2026.07.17 10:16:20"
   }
 }

@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "言語の",
-      "furigana": "げんごの",
+      "clause_text": "言語の重要な",
+      "furigana": "げんごのじゅうような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "重要な役割である",
-      "furigana": "じゅうようなやくわりである",
+      "clause_text": "役割である",
+      "furigana": "やくわりである",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1000,
-    "extraction_date_time": "2026.07.16 09:49:56"
+    "extraction_date_time": "2026.07.17 10:30:31"
   }
 }

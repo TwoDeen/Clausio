@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ころ、家族と",
-      "furigana": "ころ、かぞくと",
+      "clause_text": "ころ、",
+      "furigana": "ころ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "一緒に",
-      "furigana": "いっしょに",
+      "clause_text": "家族と一緒に",
+      "furigana": "かぞくといっしょに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "入る",
-      "furigana": "はいる",
+      "clause_text": "入ると",
+      "furigana": "はいると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "と、",
-      "furigana": "と、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:39"
+    "extraction_date_time": "2026.07.17 10:22:14"
   }
 }

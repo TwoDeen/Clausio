@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "そこに",
-      "furigana": "そこに",
+      "clause_text": "そこに積み上げてあった",
+      "furigana": "そこにつみあげてあった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "積み上げてあった本を",
-      "furigana": "つみあげてあったほんを",
+      "clause_text": "本を本棚に戻し、",
+      "furigana": "ほんをほんだなにもどし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "本棚に戻し、ほこりを",
-      "furigana": "ほんだなにもどし、ほこりを",
+      "clause_text": "ほこりを払い、",
+      "furigana": "ほこりをはらい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "払い、そして、雑巾で",
-      "furigana": "はらい、そして、ぞうきんで",
+      "clause_text": "そして、雑巾で",
+      "furigana": "そして、ぞうきんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "小さな男雛と",
-      "furigana": "ちいさなおびなと",
+      "clause_text": "小さな",
+      "furigana": "ちいさな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "女雛が、",
-      "furigana": "めびなが、",
+      "clause_text": "男雛と",
+      "furigana": "おびなと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "それぞれ",
-      "furigana": "それぞれ",
+      "clause_text": "女雛が、",
+      "furigana": "めびなが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "一体ずつ",
-      "furigana": "いったいずつ",
+      "clause_text": "それぞれ",
+      "furigana": "それぞれ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "一体ずつだ。",
+      "furigana": "いったいずつだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:35"
+    "extraction_date_time": "2026.07.17 10:25:13"
   }
 }

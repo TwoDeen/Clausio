@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "10",
-      "furigana": "いちれい",
+      "clause_text": "10人",
+      "furigana": "いちれいにん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "人ぐらい",
-      "furigana": "にんぐらい",
+      "clause_text": "ぐらいだった",
+      "furigana": "ぐらいだった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だった。",
-      "furigana": "だった。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「俺が一番",
-      "furigana": "きごうおれがいちばん",
+      "clause_text": "「俺が一番速い」",
+      "furigana": "きごうおれがいちばんはやいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "速い」「いや、俺の",
-      "furigana": "はやいきごうきごういや、おれの",
+      "clause_text": "「いや、俺の方が速い」",
+      "furigana": "きごういや、おれのほうがはやいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "方が速い」二人は",
-      "furigana": "ほうがはやいきごうふたりは",
+      "clause_text": "二人はカーブが",
+      "furigana": "ふたりはかーぶが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "カーブが多い山道で",
-      "furigana": "かーぶがおおいさんどうで",
+      "clause_text": "多い山道で",
+      "furigana": "おおいさんどうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "スタート",
-      "furigana": "すたーと",
+      "clause_text": "スタートで",
+      "furigana": "すたーとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "で、",
-      "furigana": "で、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:42:44"
+    "extraction_date_time": "2026.07.17 10:14:25"
   }
 }

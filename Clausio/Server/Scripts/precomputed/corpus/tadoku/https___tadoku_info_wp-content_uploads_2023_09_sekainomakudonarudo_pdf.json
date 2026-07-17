@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "てりやきマック",
-      "furigana": "てりやきまっく",
+      "clause_text": "てり",
+      "furigana": "てり",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "バーガーには、",
-      "furigana": "ばーがーには、",
+      "clause_text": "やきマックバーガーには、",
+      "furigana": "やきまっくばーがーには、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:42:16"
+    "extraction_date_time": "2026.07.17 10:14:47"
   }
 }

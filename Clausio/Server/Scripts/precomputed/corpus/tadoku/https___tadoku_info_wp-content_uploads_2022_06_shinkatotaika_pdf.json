@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そのほかに、",
-      "furigana": "そのほかに、",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ホラーマンガと",
-      "furigana": "ほらーまんがと",
+      "clause_text": "ほかに、",
+      "furigana": "ほかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いう",
-      "furigana": "いう",
+      "clause_text": "ホラーマンガという",
+      "furigana": "ほらーまんがという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この人",
-      "furigana": "このひと",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "は、",
-      "furigana": "は、",
+      "clause_text": "人は",
+      "furigana": "ひとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "楳図",
-      "furigana": "うめず",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "かずお",
-      "furigana": "かずお",
+      "clause_text": "楳図かずお",
+      "furigana": "うめずかずお",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "彼の代表的な",
-      "furigana": "かれのだいひょうてきな",
+      "clause_text": "彼の",
+      "furigana": "かれの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "作品は、『",
-      "furigana": "さくひんは、きごう",
+      "clause_text": "代表的な作品は、",
+      "furigana": "だいひょうてきなさくひんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "漂流教室』、『",
-      "furigana": "ひょうりゅうきょうしつきごう、きごう",
+      "clause_text": "『漂流教室』、",
+      "furigana": "きごうひょうりゅうきょうしつきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "14歳』、『まこと",
-      "furigana": "いちよんさいきごう、きごうまこと",
+      "clause_text": "『14歳』、",
+      "furigana": "きごういちよんさいきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ちゃん』などです。",
-      "furigana": "ちゃんきごうなどです。",
+      "clause_text": "『まことちゃん』などです。",
+      "furigana": "きごうまことちゃんきごうなどです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:21"
+    "extraction_date_time": "2026.07.17 10:17:12"
   }
 }

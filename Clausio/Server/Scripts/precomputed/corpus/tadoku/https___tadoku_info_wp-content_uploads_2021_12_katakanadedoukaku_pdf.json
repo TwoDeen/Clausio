@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "カタカナでどう書く？",
-      "furigana": "かたかなでどうかく?",
+      "clause_text": "カタカナでどう",
+      "furigana": "かたかなでどう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "2020年に、",
-      "furigana": "にれいにれいねんに、",
+      "clause_text": "書く？2020年に、",
+      "furigana": "かく?にれいにれいねんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "引退は、日本の",
-      "furigana": "いんたいは、にっぽんの",
+      "clause_text": "引退は、",
+      "furigana": "いんたいは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "メディアでも",
-      "furigana": "めでぃあでも",
+      "clause_text": "日本の",
+      "furigana": "にっぽんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きく",
-      "furigana": "おおきく",
+      "clause_text": "メディアでも",
+      "furigana": "めでぃあでも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "取り上げられました。",
-      "furigana": "とりあげられました。",
+      "clause_text": "大きく取り上げられました。",
+      "furigana": "おおきくとりあげられました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "名前は、",
-      "furigana": "なまえは、",
+      "clause_text": "名前は",
+      "furigana": "なまえは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "もともと",
-      "furigana": "もともと",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ロシア語",
-      "furigana": "ろしあご",
+      "clause_text": "もともと",
+      "furigana": "もともと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "です。",
-      "furigana": "です。",
+      "clause_text": "ロシア語です。",
+      "furigana": "ろしあごです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "日本語の「ワ」の発音に近いため、",
-      "furigana": "にほんごのきごうわきごうのはつおんにちかいため、",
+      "clause_text": "日本語の「ワ」の発音に",
+      "furigana": "にほんごのきごうわきごうのはつおんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "多くのメディアは「Shaシャ、",
-      "furigana": "おおくのめでぃあはきごうshaしゃ、",
+      "clause_text": "近いため、多くのメディアは",
+      "furigana": "ちかいため、おおくのめでぃあは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "raラ、poポ、vaワ」と",
-      "furigana": "あーるえーら、poぽ、vaわきごうと",
+      "clause_text": "「Shaシャ、raラ、poポ、vaワ」と",
+      "furigana": "きごうshaしゃ、あーるえーら、poぽ、vaわきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "一方、",
-      "furigana": "いっぽう、",
+      "clause_text": "一方",
+      "furigana": "いっぽう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "英語では",
-      "furigana": "えいごでは",
+      "clause_text": "、英語では",
+      "furigana": "、えいごでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "発音は「ワ」では",
-      "furigana": "はつおんはきごうわきごうでは",
+      "clause_text": "発音は",
+      "furigana": "はつおんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ありません。",
-      "furigana": "ありません。",
+      "clause_text": "「ワ」ではありません。",
+      "furigana": "きごうわきごうではありません。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:37:40"
+    "extraction_date_time": "2026.07.17 10:24:15"
   }
 }

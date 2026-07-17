@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "『鬼滅の",
-      "furigana": "きごうおに滅の",
+      "clause_text": "『鬼",
+      "furigana": "きごうおに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "刃』と",
-      "furigana": "はきごうと",
+      "clause_text": "滅の",
+      "furigana": "滅の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "いう",
-      "furigana": "いう",
+      "clause_text": "刃』という",
+      "furigana": "はきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "この２つがいっしょに",
-      "furigana": "このふつつがいっしょに",
+      "clause_text": "この２つが",
+      "furigana": "このふつつが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "なった「鬼滅の",
-      "furigana": "なったきごうおに滅の",
+      "clause_text": "いっしょになった",
+      "furigana": "いっしょになった",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "刃マンチョコレート」と",
-      "furigana": "はまんちょこれーときごうと",
+      "clause_text": "「鬼滅の刃マンチョコレート」という",
+      "furigana": "きごうおに滅のはまんちょこれーときごうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いうお菓子が、",
-      "furigana": "いうおかしが、",
+      "clause_text": "お菓子が、",
+      "furigana": "おかしが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「鬼滅の",
-      "furigana": "きごうおに滅の",
+      "clause_text": "「鬼滅の刃マンチョコレート」は",
+      "furigana": "きごうおに滅のはまんちょこれーときごうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "刃マンチョコレート」は、",
-      "furigana": "はまんちょこれーときごうは、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "チョコレート",
-      "furigana": "ちょこれーと",
+      "clause_text": "チョコレートが",
+      "furigana": "ちょこれーとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "が",
-      "furigana": "が",
+      "clause_text": "好きな",
+      "furigana": "すきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "好きな",
-      "furigana": "すきな",
+      "clause_text": "のです",
+      "furigana": "のです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "のです。",
-      "furigana": "のです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:48:32"
+    "extraction_date_time": "2026.07.17 10:25:08"
   }
 }

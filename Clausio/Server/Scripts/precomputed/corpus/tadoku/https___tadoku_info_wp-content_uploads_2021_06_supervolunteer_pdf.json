@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、一人で",
+      "furigana": "そして、ひとりで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人で家に",
-      "furigana": "ひとりでいえに",
+      "clause_text": "家に戻っている",
+      "furigana": "いえにもどっている",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "戻っている",
-      "furigana": "もどっている",
+      "clause_text": "ときに、",
+      "furigana": "ときに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ときに、いなく",
-      "furigana": "ときに、いなく",
+      "clause_text": "いなく",
+      "furigana": "いなく",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "家族や",
-      "furigana": "かぞくや",
+      "clause_text": "家族や150人以上の",
+      "furigana": "かぞくやいちごれいにんいじょうの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "150人以上の警察が",
-      "furigana": "いちごれいにんいじょうのけいさつが",
+      "clause_text": "警察がいろいろな",
+      "furigana": "けいさつがいろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いろいろな場所を",
-      "furigana": "いろいろなばしょを",
+      "clause_text": "場所を探したが、",
+      "furigana": "ばしょをさがしたが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "探したが、男の子は",
-      "furigana": "さがしたが、おとこのこは",
+      "clause_text": "男の子は",
+      "furigana": "おとこのこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:46"
+    "extraction_date_time": "2026.07.17 10:19:21"
   }
 }

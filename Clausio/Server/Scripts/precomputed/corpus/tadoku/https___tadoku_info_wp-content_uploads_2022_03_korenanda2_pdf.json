@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "つくられましたか？忘れてしまった",
-      "furigana": "つくられましたか?わすれてしまった",
+      "clause_text": "つくられましたか？忘れてしまった人は、",
+      "furigana": "つくられましたか?わすれてしまったひとは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "人は、もう一度読んでみてください。",
-      "furigana": "ひとは、もういちどよんでみてください。",
+      "clause_text": "もう一度読んでみてください。",
+      "furigana": "もういちどよんでみてください。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "一番",
-      "furigana": "いちばん",
+      "clause_text": "一番大きな",
+      "furigana": "いちばんおおきな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "大きな古墳は、",
-      "furigana": "おおきなこふんは、",
+      "clause_text": "古墳は、",
+      "furigana": "こふんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.16 09:45:35"
+    "extraction_date_time": "2026.07.17 10:23:26"
   }
 }

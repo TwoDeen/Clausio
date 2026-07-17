@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その理由は",
-      "furigana": "そのりゆうは",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "注文の",
-      "furigana": "ちゅうもんの",
+      "clause_text": "理由は",
+      "furigana": "りゆうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "仕方が",
-      "furigana": "しかたが",
+      "clause_text": "注文の",
+      "furigana": "ちゅうもんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "わからなかった",
-      "furigana": "わからなかった",
+      "clause_text": "仕方が",
+      "furigana": "しかたが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "からである。",
-      "furigana": "からである。",
+      "clause_text": "わからなかったからである。",
+      "furigana": "わからなかったからである。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "普通に",
-      "furigana": "ふつうに",
+      "clause_text": "普通にスーパーマーケットや",
+      "furigana": "ふつうにすーぱーまーけっとや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "スーパーマーケットや",
-      "furigana": "すーぱーまーけっとや",
+      "clause_text": "肉屋に",
+      "furigana": "にくやに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "肉屋に行けばいい。",
-      "furigana": "にくやにいけばいい。",
+      "clause_text": "行けばいい。",
+      "furigana": "いけばいい。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:26"
+    "extraction_date_time": "2026.07.17 10:14:40"
   }
 }

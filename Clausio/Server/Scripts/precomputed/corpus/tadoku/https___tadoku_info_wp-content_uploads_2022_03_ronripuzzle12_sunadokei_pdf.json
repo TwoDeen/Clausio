@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "もうひとつは",
-      "furigana": "もうひとつは",
+      "clause_text": "もう",
+      "furigana": "もう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "７分で",
-      "furigana": "ななふんで",
+      "clause_text": "ひとつは",
+      "furigana": "ひとつは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "砂が",
-      "furigana": "すなが",
+      "clause_text": "７分で",
+      "furigana": "ななふんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "全部",
-      "furigana": "ぜんぶ",
+      "clause_text": "砂が全部",
+      "furigana": "すながぜんぶ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "４分の砂時計の砂が",
-      "furigana": "よんぶんのすなどけいのすなが",
+      "clause_text": "４分の砂時計の",
+      "furigana": "よんぶんのすなどけいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "全部落ちてから、",
-      "furigana": "ぜんぶおちてから、",
+      "clause_text": "砂が全部落ちてから、",
+      "furigana": "すながぜんぶおちてから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:22"
+    "extraction_date_time": "2026.07.17 10:28:29"
   }
 }

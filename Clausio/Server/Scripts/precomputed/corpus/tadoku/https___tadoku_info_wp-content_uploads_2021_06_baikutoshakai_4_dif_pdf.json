@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "そのような不便で、「特別な」",
-      "furigana": "そのようなふべんで、きごうとくべつなきごう",
+      "clause_text": "そのような不便で、",
+      "furigana": "そのようなふべんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "乗り物に乗っている",
-      "furigana": "のりものにのっている",
+      "clause_text": "「特別な」乗り物に",
+      "furigana": "きごうとくべつなきごうのりものに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ライダー同士の、",
-      "furigana": "らいだーどうしの、",
+      "clause_text": "乗っているライダー同士の、",
+      "furigana": "のっているらいだーどうしの、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "すぐに仲良く",
-      "furigana": "すぐになかよく",
+      "clause_text": "すぐに仲良くなれたという",
+      "furigana": "すぐになかよくなれたという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "なれたという経験は、",
-      "furigana": "なれたというけいけんは、",
+      "clause_text": "経験は、",
+      "furigana": "けいけんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "ちょっと",
-      "furigana": "ちょっと",
+      "clause_text": "ちょっと違う",
+      "furigana": "ちょっとちがう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "違う形で。",
-      "furigana": "ちがうかたちで。",
+      "clause_text": "形で。",
+      "furigana": "かたちで。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.16 09:41:57"
+    "extraction_date_time": "2026.07.17 10:22:59"
   }
 }

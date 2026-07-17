@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "460",
-      "furigana": "よんろくれい",
+      "clause_text": "460円の",
+      "furigana": "よんろくれいえんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "円の",
-      "furigana": "えんの",
+      "clause_text": "唐揚げ丼を",
+      "furigana": "からあげどんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "唐揚げ丼を",
-      "furigana": "からあげどんを",
+      "clause_text": "食べました",
+      "furigana": "たべました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "食べました。",
-      "furigana": "たべました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1018,
-    "extraction_date_time": "2026.07.16 09:35:31"
+    "extraction_date_time": "2026.07.17 10:26:26"
   }
 }

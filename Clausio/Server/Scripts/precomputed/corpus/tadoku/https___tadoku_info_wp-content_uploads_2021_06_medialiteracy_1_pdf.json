@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "小学校5年生の",
-      "furigana": "しょうがっこうごねんせいの",
+      "clause_text": "小学校5年生のときに、",
+      "furigana": "しょうがっこうごねんせいのときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ときに、家族がテレビを",
-      "furigana": "ときに、かぞくがてれびを",
+      "clause_text": "家族がテレビを",
+      "furigana": "かぞくがてれびを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "小さな映画館",
-      "furigana": "ちいさなえいがかん",
+      "clause_text": "小さな",
+      "furigana": "ちいさな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "が",
-      "furigana": "が",
+      "clause_text": "映画館が",
+      "furigana": "えいがかんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "来たよう",
-      "furigana": "きたよう",
+      "clause_text": "来たようでした",
+      "furigana": "きたようでした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "でした。",
-      "furigana": "でした。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "見る",
-      "furigana": "みる",
+      "clause_text": "見ること",
+      "furigana": "みること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことができませんでした。",
-      "furigana": "ことができませんでした。",
+      "clause_text": "ができませんでした。",
+      "furigana": "ができませんでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.16 09:37:55"
+    "extraction_date_time": "2026.07.17 10:17:31"
   }
 }

@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "思われている",
-      "furigana": "おもわれている",
+      "clause_text": "思われて",
+      "furigana": "おもわれて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "だけでしょうか。",
-      "furigana": "だけでしょうか。",
+      "clause_text": "いるだけでしょうか。",
+      "furigana": "いるだけでしょうか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ない方がいいという人が３人、限定的に",
-      "furigana": "ないほうがいいというひとがさんにん、げんていてきに",
+      "clause_text": "ない方がいいという人が３人、",
+      "furigana": "ないほうがいいというひとがさんにん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "残るだろうという人が２人でした。",
-      "furigana": "のこるだろうというひとがふたりでした。",
+      "clause_text": "限定的に残るだろうという人が２人でした。",
+      "furigana": "げんていてきにのこるだろうというひとがふたりでした。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "どうして",
-      "furigana": "どうして",
+      "clause_text": "どうし",
+      "furigana": "どうし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "そう",
-      "furigana": "そう",
+      "clause_text": "て",
+      "furigana": "て",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "考える",
-      "furigana": "かんがえる",
+      "clause_text": "そう",
+      "furigana": "そう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "のでしょう",
-      "furigana": "のでしょう",
+      "clause_text": "考えるのでしょう",
+      "furigana": "かんがえるのでしょう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:24"
+    "extraction_date_time": "2026.07.17 10:27:16"
   }
 }

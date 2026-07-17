@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "つい",
-      "furigana": "つい",
+      "clause_text": "ついた",
+      "furigana": "ついた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "た。",
-      "furigana": "た。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "お風呂に",
-      "furigana": "おふろに",
+      "clause_text": "お風呂に入れて、",
+      "furigana": "おふろにいれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "入れて、ベッドに",
-      "furigana": "いれて、べっどに",
+      "clause_text": "ベッドに",
+      "furigana": "べっどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "掃除は、一週間に",
-      "furigana": "そうじは、いちしゅうかんに",
+      "clause_text": "掃除は、一週間に１回、",
+      "furigana": "そうじは、いちしゅうかんにいちかい、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "１回、土曜日の午前中に",
-      "furigana": "いちかい、どようびのごぜんちゅうに",
+      "clause_text": "土曜日の午前中にすると",
+      "furigana": "どようびのごぜんちゅうにすると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "するとカナコは決めていた。",
-      "furigana": "するとかなこはきめていた。",
+      "clause_text": "カナコは決めていた。",
+      "furigana": "かなこはきめていた。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:03"
+    "extraction_date_time": "2026.07.17 10:27:32"
   }
 }

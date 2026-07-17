@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "キツネ、ロシアにも",
-      "furigana": "きつね、ろしあにも",
+      "clause_text": "キツネ、",
+      "furigana": "きつね、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "いるでしょう？」一番多いのは",
-      "furigana": "いるでしょう?きごういちばんおおいのは",
+      "clause_text": "ロシアに",
+      "furigana": "ろしあに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "鹿、親子の鹿が目の",
-      "furigana": "しか、おやこのしかがめの",
+      "clause_text": "も",
+      "furigana": "も",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "前に飛び出すことは",
-      "furigana": "まえにとびだすことは",
+      "clause_text": "いるでしょう？",
+      "furigana": "いるでしょう?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "珍しくありません。",
-      "furigana": "めずらしくありません。",
+      "clause_text": "」一番多いのは鹿、親子の鹿が目の前に飛び出すことは珍しくありません。",
+      "furigana": "きごういちばんおおいのはしか、おやこのしかがめのまえにとびだすことはめずらしくありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ウサギや",
-      "furigana": "うさぎや",
+      "clause_text": "ウサギやいのしし、",
+      "furigana": "うさぎやいのしし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いのしし、秋に",
-      "furigana": "いのしし、あきに",
+      "clause_text": "秋になると",
+      "furigana": "あきになると",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "なるとドングリを",
-      "furigana": "なるとどんぐりを",
+      "clause_text": "ドングリを落とす木の",
+      "furigana": "どんぐりをおとすきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "落とす木のまわりには",
-      "furigana": "おとすきのまわりには",
+      "clause_text": "まわりにはリスが",
+      "furigana": "まわりにはりすが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "リスがよく来ます。",
-      "furigana": "りすがよくきます。",
+      "clause_text": "よく来ます。",
+      "furigana": "よくきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「先生、",
-      "furigana": "きごうせんせい、",
+      "clause_text": "「先生、熊はいませんよね？」",
+      "furigana": "きごうせんせい、くまはいませんよね?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "熊は",
-      "furigana": "くまは",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "いませんよね？」と",
-      "furigana": "いませんよね?きごうと",
+      "clause_text": "心配そうに",
+      "furigana": "しんぱいそうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "心配そうに",
-      "furigana": "しんぱいそうに",
+      "clause_text": "ターニャ",
+      "furigana": "たーにゃ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ターニャ。",
-      "furigana": "たーにゃ。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.16 09:42:03"
+    "extraction_date_time": "2026.07.17 10:13:47"
   }
 }

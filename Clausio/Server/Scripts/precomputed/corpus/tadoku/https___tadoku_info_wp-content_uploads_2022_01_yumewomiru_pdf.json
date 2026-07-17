@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "なったと",
-      "furigana": "なったと",
+      "clause_text": "なったというのに、",
+      "furigana": "なったというのに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いうのに、",
-      "furigana": "いうのに、",
+      "clause_text": "よく",
+      "furigana": "よく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "よく眠る。",
-      "furigana": "よくねむる。",
+      "clause_text": "眠る。",
+      "furigana": "ねむる。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "それでも",
-      "furigana": "それでも",
+      "clause_text": "それでも8時間以上",
+      "furigana": "それでもはちじかんいじょう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "8時間以上寝ている。",
-      "furigana": "はちじかんいじょうねている。",
+      "clause_text": "寝ている。",
+      "furigana": "ねている。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "日、朝早く",
-      "furigana": "ひ、あさはやく",
+      "clause_text": "日、",
+      "furigana": "ひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "起きなくてもいい",
-      "furigana": "おきなくてもいい",
+      "clause_text": "朝早く起きなくてもいい",
+      "furigana": "あさはやくおきなくてもいい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ない時間に",
-      "furigana": "ないじかんに",
+      "clause_text": "ない時間にだいたい",
+      "furigana": "ないじかんにだいたい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "だいたい目覚まし時計が",
-      "furigana": "だいたいめざましどけいが",
+      "clause_text": "目覚まし時計が",
+      "furigana": "めざましどけいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:37:18"
+    "extraction_date_time": "2026.07.17 10:19:55"
   }
 }

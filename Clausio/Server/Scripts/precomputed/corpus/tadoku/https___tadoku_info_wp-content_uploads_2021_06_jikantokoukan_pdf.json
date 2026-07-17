@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、1日中、",
+      "furigana": "でも、いちにちちゅう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "1日中、姿勢も",
-      "furigana": "いちにちちゅう、しせいも",
+      "clause_text": "姿勢も",
+      "furigana": "しせいも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:53"
+    "extraction_date_time": "2026.07.17 10:17:36"
   }
 }

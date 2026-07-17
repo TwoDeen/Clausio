@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "貧困－「貧困」とは、",
-      "furigana": "ひんこん-きごうひんこんきごうとは、",
+      "clause_text": "貧困－",
+      "furigana": "ひんこん-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "どのようなものな",
-      "furigana": "どのようなものな",
+      "clause_text": "「貧困」とは、",
+      "furigana": "きごうひんこんきごうとは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "のでしょうか。",
-      "furigana": "のでしょうか。",
+      "clause_text": "どのようなものなのでしょうか。",
+      "furigana": "どのようなものなのでしょうか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "代表的な",
-      "furigana": "だいひょうてきな",
+      "clause_text": "代表的な考え方として",
+      "furigana": "だいひょうてきなかんがえかたとして",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "考え方として「絶対的",
-      "furigana": "かんがえかたとしてきごうぜったいてき",
+      "clause_text": "「絶対的貧困」と",
+      "furigana": "きごうぜったいてきひんこんきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "貧困」と「相対的貧困」が",
-      "furigana": "ひんこんきごうときごうそうたいてきひんこんきごうが",
+      "clause_text": "「相対的貧困」が",
+      "furigana": "きごうそうたいてきひんこんきごうが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「絶対的貧困」は、食べ物が",
-      "furigana": "きごうぜったいてきひんこんきごうは、たべものが",
+      "clause_text": "「絶対的貧困」は、",
+      "furigana": "きごうぜったいてきひんこんきごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ない、家がないなど、",
-      "furigana": "ない、いえがないなど、",
+      "clause_text": "食べ物がない、家が",
+      "furigana": "たべものがない、いえが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "生きるために必要なものが",
-      "furigana": "いきるためにひつようなものが",
+      "clause_text": "ないなど、生きるために",
+      "furigana": "ないなど、いきるために",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ないような貧困の",
-      "furigana": "ないようなひんこんの",
+      "clause_text": "必要なものがないような",
+      "furigana": "ひつようなものがないような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ことを意味します。",
-      "furigana": "ことをいみします。",
+      "clause_text": "貧困のことを意味します。",
+      "furigana": "ひんこんのことをいみします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私たちが",
-      "furigana": "わたしたちが",
+      "clause_text": "私たちが一般に",
+      "furigana": "わたしたちがいっぱんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "一般に「貧困」と",
-      "furigana": "いっぱんにきごうひんこんきごうと",
+      "clause_text": "「貧困」と聞いて",
+      "furigana": "きごうひんこんきごうときいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "聞いて",
-      "furigana": "きいて",
+      "clause_text": "イメージするのは、",
+      "furigana": "いめーじするのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "イメージするのは、",
-      "furigana": "いめーじするのは、",
+      "clause_text": "このような",
+      "furigana": "このような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "このような貧困です。",
-      "furigana": "このようなひんこんです。",
+      "clause_text": "貧困です。",
+      "furigana": "ひんこんです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.16 09:45:02"
+    "extraction_date_time": "2026.07.17 10:16:33"
   }
 }

@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ボールが",
-      "furigana": "ぼーるが",
+      "clause_text": "ボールが１つ",
+      "furigana": "ぼーるがひとつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "１つ入っています。",
-      "furigana": "ひとつはいっています。",
+      "clause_text": "入っています。",
+      "furigana": "はいっています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "色は、黒か",
-      "furigana": "いろは、くろか",
+      "clause_text": "色は、",
+      "furigana": "いろは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "白の",
-      "furigana": "しろの",
+      "clause_text": "黒か白の",
+      "furigana": "くろかしろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "さて、箱の中に残ったボールが白である確率は次の",
-      "furigana": "さて、ばこのなかにのこったぼーるがしろであるかくりつはつぎの",
+      "clause_text": "さて、箱の中に残ったボールが",
+      "furigana": "さて、ばこのなかにのこったぼーるが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "うちどれでしょうか？1．1/2(50%)2．1",
-      "furigana": "うちどれでしょうか?いち．いちきごうにきごうごれいぱーせんときごうに．いち",
+      "clause_text": "白である確率は次のうちどれでしょうか？",
+      "furigana": "しろであるかくりつはつぎのうちどれでしょうか?",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "/3(約33%)3．2/3(約66%)（解答は",
-      "furigana": "きごうさんきごうやくさんさんぱーせんときごうさん．にきごうさんきごうやくろくろくぱーせんときごうきごうかいとうは",
+      "clause_text": "1．1/2(50%)2．1/3(約33%)",
+      "furigana": "いち．いちきごうにきごうごれいぱーせんときごうに．いちきごうさんきごうやくさんさんぱーせんときごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "次のページ）【解答】1/2(50%)と",
-      "furigana": "つぎのぺーじきごうきごうかいとうきごういちきごうにきごうごれいぱーせんときごうと",
+      "clause_text": "3．2/3(約66%)（解答は次のページ）",
+      "furigana": "さん．にきごうさんきごうやくろくろくぱーせんときごうきごうかいとうはつぎのぺーじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "思った人が多いかもしれませんね。",
-      "furigana": "おもったひとがおおいかもしれませんね。",
+      "clause_text": "【解答】1/2(50%)と思った人が多いかもしれませんね。",
+      "furigana": "きごうかいとうきごういちきごうにきごうごれいぱーせんときごうとおもったひとがおおいかもしれませんね。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:51:01"
+    "extraction_date_time": "2026.07.17 10:17:07"
   }
 }

@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本の芸術文化と",
-      "furigana": "にっぽんのげいじゅつぶんかと",
+      "clause_text": "日本の芸術文化といえば、",
+      "furigana": "にっぽんのげいじゅつぶんかといえば、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いえば、映画、漫画、",
-      "furigana": "いえば、えいが、まんが、",
+      "clause_text": "映画、漫画、アニメ、",
+      "furigana": "えいが、まんが、あにめ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "アニメ、舞踊、歌舞伎、",
-      "furigana": "あにめ、ぶよう、かぶき、",
+      "clause_text": "舞踊、歌舞伎、陶器、",
+      "furigana": "ぶよう、かぶき、とうき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "陶器、着物、絵画など、",
-      "furigana": "とうき、きもの、かいがなど、",
+      "clause_text": "着物、絵画など、",
+      "furigana": "きもの、かいがなど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "マンホールの",
-      "furigana": "まんほーるの",
+      "clause_text": "マンホールの中には、",
+      "furigana": "まんほーるのなかには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "中には、トイレや",
-      "furigana": "なかには、といれや",
+      "clause_text": "トイレやお風呂、",
+      "furigana": "といれやおふろ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "お風呂、台所で",
-      "furigana": "おふろ、だいどころで",
+      "clause_text": "台所で使った水、",
+      "furigana": "だいどころでつかったみず、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "使った水、雨水などの",
-      "furigana": "つかったみず、あまみずなどの",
+      "clause_text": "雨水などの下水が",
+      "furigana": "あまみずなどのげすいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "下水が流れています。",
-      "furigana": "げすいがながれています。",
+      "clause_text": "流れています。",
+      "furigana": "ながれています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:49:30"
+    "extraction_date_time": "2026.07.17 10:18:13"
   }
 }

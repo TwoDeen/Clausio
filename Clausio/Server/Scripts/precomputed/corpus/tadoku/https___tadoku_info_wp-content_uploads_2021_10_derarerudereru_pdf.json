@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "文化庁は、",
-      "furigana": "ぶんかちょうは、",
+      "clause_text": "文化庁は、いろいろな",
+      "furigana": "ぶんかちょうは、いろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろな仕事を",
-      "furigana": "いろいろなしごとを",
+      "clause_text": "仕事をしていますが、",
+      "furigana": "しごとをしていますが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "していますが、その中の",
-      "furigana": "していますが、そのなかの",
+      "clause_text": "その中の一つに、",
+      "furigana": "そのなかのひとつに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "一つに、「国語に関する",
-      "furigana": "ひとつに、きごうこくごにかんする",
+      "clause_text": "「国語に関する世論調査」が",
+      "furigana": "きごうこくごにかんするよろんちょうさきごうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "世論調査」があります。",
-      "furigana": "よろんちょうさきごうがあります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "この調査は",
-      "furigana": "このちょうさは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "毎年",
-      "furigana": "まいとし",
+      "clause_text": "調査は",
+      "furigana": "ちょうさは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "行われ",
-      "furigana": "おこなわれ",
+      "clause_text": "毎年",
+      "furigana": "まいとし",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "て",
-      "furigana": "て",
+      "clause_text": "行われて",
+      "furigana": "おこなわれて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:43"
+    "extraction_date_time": "2026.07.17 10:25:30"
   }
 }

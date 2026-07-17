@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私が「趣味は",
-      "furigana": "わたくしがきごうしゅみは",
+      "clause_text": "私が",
+      "furigana": "わたくしが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "バイクです」と",
-      "furigana": "ばいくですきごうと",
+      "clause_text": "「趣味はバイクです」と",
+      "furigana": "きごうしゅみはばいくですきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "言うと、「私も昔、",
-      "furigana": "ゆうと、きごうわたくしもむかし、",
+      "clause_text": "言うと、",
+      "furigana": "ゆうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "バイクに乗りたかった」と",
-      "furigana": "ばいくにのりたかったきごうと",
+      "clause_text": "「私も昔、バイクに乗りたかった」と",
+      "furigana": "きごうわたくしもむかし、ばいくにのりたかったきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.16 09:34:35"
+    "extraction_date_time": "2026.07.17 10:29:13"
   }
 }

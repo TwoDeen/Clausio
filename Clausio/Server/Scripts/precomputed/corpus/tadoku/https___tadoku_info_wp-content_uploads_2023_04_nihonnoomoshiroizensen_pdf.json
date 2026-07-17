@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "例えば、「朝は",
-      "furigana": "たとえば、きごうあさは",
+      "clause_text": "例えば、「朝",
+      "furigana": "たとえば、きごうあさ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "いい天気ですが、",
-      "furigana": "いいてんきですが、",
+      "clause_text": "はいい天気で",
+      "furigana": "はいいてんき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "帰宅時間ごろには",
-      "furigana": "きたくじかんごろには",
+      "clause_text": "すが、帰宅時",
+      "furigana": "が、きたく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "雨が",
-      "furigana": "あめが",
+      "clause_text": "間ごろには雨",
+      "furigana": "ごろにはあめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "降ります。",
-      "furigana": "ふります。",
+      "clause_text": "が降ります。",
+      "furigana": "がふります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ならないよう、水分をこまめにとるように",
-      "furigana": "ならないよう、すいぶんをこまめにとるように",
+      "clause_text": "ならないよう、",
+      "furigana": "ならないよう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "してください」などといったアドバイスで、",
-      "furigana": "してくださいきごうなどといったあどばいすで、",
+      "clause_text": "水分をこまめにとるように",
+      "furigana": "すいぶんをこまめにとるように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "それに助けられる人も多いです。",
-      "furigana": "それにたすけられるひともおおいです。",
+      "clause_text": "してください」などといったアドバイスで、それに助けられる人も多いです。",
+      "furigana": "してくださいきごうなどといったあどばいすで、それにたすけられるひともおおいです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "また、",
-      "furigana": "また、",
+      "clause_text": "また、天気予報で",
+      "furigana": "また、てんきよほうで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "天気予報で",
-      "furigana": "てんきよほうで",
+      "clause_text": "欠かせない",
+      "furigana": "かかせない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "欠かせないものは",
-      "furigana": "かかせないものは",
+      "clause_text": "ものは",
+      "furigana": "ものは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:21"
+    "extraction_date_time": "2026.07.17 10:18:39"
   }
 }

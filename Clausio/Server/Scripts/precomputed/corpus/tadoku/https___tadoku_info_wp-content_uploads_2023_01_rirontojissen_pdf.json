@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "読んで、難しそうな",
-      "furigana": "よんで、むずかしそうな",
+      "clause_text": "読んで、",
+      "furigana": "よんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "読み物だなと",
-      "furigana": "よみものだなと",
+      "clause_text": "難しそうな読み物だなと",
+      "furigana": "むずかしそうなよみものだなと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "読んだとき、",
-      "furigana": "よんだとき、",
+      "clause_text": "読んだ",
+      "furigana": "よんだ",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "きっと",
-      "furigana": "きっと",
+      "clause_text": "とき、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "笑っている",
-      "furigana": "わらっている",
+      "clause_text": "きっと笑っている",
+      "furigana": "きっとわらっている",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "私は計画を",
-      "furigana": "わたくしはけいかくを",
+      "clause_text": "私は計画を立てて",
+      "furigana": "わたくしはけいかくをたてて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "立てて行動することが",
-      "furigana": "たててこうどうすることが",
+      "clause_text": "行動することが",
+      "furigana": "こうどうすることが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:40"
+    "extraction_date_time": "2026.07.17 10:27:38"
   }
 }

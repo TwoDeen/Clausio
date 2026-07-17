@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "全員で、５匹の",
-      "furigana": "ぜんいんで、ごひきの",
+      "clause_text": "全員で、",
+      "furigana": "ぜんいんで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ネズミを",
-      "furigana": "ねずみを",
+      "clause_text": "５匹のネズミを",
+      "furigana": "ごひきのねずみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ページ）【解答】",
-      "furigana": "ぺーじきごうきごうかいとうきごう",
+      "clause_text": "ページ）",
+      "furigana": "ぺーじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "正解は",
-      "furigana": "せいかいは",
+      "clause_text": "【解答】正解は",
+      "furigana": "きごうかいとうきごうせいかいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "５匹のネコが",
-      "furigana": "ごひきのねこが",
+      "clause_text": "５匹のネコが５分でネズミ５匹を",
+      "furigana": "ごひきのねこがごふんでねずみごひきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "５分でネズミ５匹を",
-      "furigana": "ごふんでねずみごひきを",
+      "clause_text": "つかまえるのですから、",
+      "furigana": "つかまえるのですから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "つかまえるのですから、５匹の",
-      "furigana": "つかまえるのですから、ごひきの",
+      "clause_text": "５匹のネコは１分で",
+      "furigana": "ごひきのねこはいちふんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ネコは１分でネズミ１匹を",
-      "furigana": "ねこはいちふんでねずみいちひきを",
+      "clause_text": "ネズミ１匹をつかまえる",
+      "furigana": "ねずみいちひきをつかまえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "つかまえる割合になります。",
-      "furigana": "つかまえるわりあいになります。",
+      "clause_text": "割合になります。",
+      "furigana": "わりあいになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "つかまえる",
-      "furigana": "つかまえる",
+      "clause_text": "つかまえること",
+      "furigana": "つかまえること",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことができます。",
-      "furigana": "ことができます。",
+      "clause_text": "ができます。",
+      "furigana": "ができます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:44:56"
+    "extraction_date_time": "2026.07.17 10:14:20"
   }
 }

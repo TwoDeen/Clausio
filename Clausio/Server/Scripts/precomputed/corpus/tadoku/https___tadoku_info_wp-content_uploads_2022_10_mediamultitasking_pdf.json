@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "・",
-      "furigana": "・",
+      "clause_text": "・マルチタスキング",
+      "furigana": "・まるちたすきんぐ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "マルチタスキング",
-      "furigana": "まるちたすきんぐ",
+      "clause_text": "わたしは",
+      "furigana": "わたしは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしは",
-      "furigana": "わたしは",
+      "clause_text": "教師です",
+      "furigana": "きょうしです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "教師です。",
-      "furigana": "きょうしです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときどき、",
-      "furigana": "ときどき、",
+      "clause_text": "ときどき、パソコンの",
+      "furigana": "ときどき、ぱそこんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "パソコンの",
-      "furigana": "ぱそこんの",
+      "clause_text": "画面に、",
+      "furigana": "がめんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "画面に、何かの",
-      "furigana": "がめんに、なんかの",
+      "clause_text": "何かの",
+      "furigana": "なんかの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "例えば、「15:00zoom",
-      "furigana": "たとえば、きごういちごきごうれいれいずーむ",
+      "clause_text": "例えば、「15:00zoomミーティング」という",
+      "furigana": "たとえば、きごういちごきごうれいれいずーむみーてぃんぐきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ミーティング」というスケジュールの",
-      "furigana": "みーてぃんぐきごうというすけじゅーるの",
+      "clause_text": "スケジュールの",
+      "furigana": "すけじゅーるの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "お知らせや、「新着メール",
-      "furigana": "おしらせや、きごうしんちゃくめーる",
+      "clause_text": "お知らせや、",
+      "furigana": "おしらせや、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "１件」というメールの",
-      "furigana": "いちけんきごうというめーるの",
+      "clause_text": "「新着メール１件」という",
+      "furigana": "きごうしんちゃくめーるいちけんきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "お知らせなどです。",
-      "furigana": "おしらせなどです。",
+      "clause_text": "メールのお知らせなどです。",
+      "furigana": "めーるのおしらせなどです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:41"
+    "extraction_date_time": "2026.07.17 10:13:52"
   }
 }

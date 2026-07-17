@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "その中",
-      "furigana": "そのなか",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "に、",
-      "furigana": "に、",
+      "clause_text": "中に、",
+      "furigana": "なかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "一人は",
-      "furigana": "ひとりは",
+      "clause_text": "一人は長い髪を",
+      "furigana": "ひとりはながいかみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "長い髪を後ろで",
-      "furigana": "ながいかみをうしろで",
+      "clause_text": "後ろでまとめて、",
+      "furigana": "うしろでまとめて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "まとめて、眼鏡を",
-      "furigana": "まとめて、めがねを",
+      "clause_text": "眼鏡を",
+      "furigana": "めがねを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "でも、",
-      "furigana": "でも、",
+      "clause_text": "でも、眼鏡越しに",
+      "furigana": "でも、めがねごしに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "眼鏡越しに",
-      "furigana": "めがねごしに",
+      "clause_text": "見える",
+      "furigana": "みえる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "見える目は",
-      "furigana": "みえるめは",
+      "clause_text": "目は",
+      "furigana": "めは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "少し",
-      "furigana": "すこし",
+      "clause_text": "少し若い",
+      "furigana": "すこしわかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "若い印象です。",
-      "furigana": "わかいいんしょうです。",
+      "clause_text": "印象です。",
+      "furigana": "いんしょうです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:35:47"
+    "extraction_date_time": "2026.07.17 10:20:44"
   }
 }

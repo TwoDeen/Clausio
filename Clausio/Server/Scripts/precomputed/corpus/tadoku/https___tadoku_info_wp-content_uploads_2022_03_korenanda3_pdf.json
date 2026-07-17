@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "これ何だ？",
-      "furigana": "これなんだ?",
+      "clause_text": "これ何だ？－その３－",
+      "furigana": "これなんだ?-そのさん-",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "－その３－「これ",
-      "furigana": "-そのさん-きごうこれ",
+      "clause_text": "「これ何だ？―その2―」で、",
+      "furigana": "きごうこれなんだ?きごうそのにきごうきごうで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "何だ？―その2―」で、",
-      "furigana": "なんだ?きごうそのにきごうきごうで、",
+      "clause_text": "古墳の",
+      "furigana": "こふんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "古墳の大きさについて",
-      "furigana": "こふんのおおきさについて",
+      "clause_text": "大きさについて",
+      "furigana": "おおきさについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本で一番大きい古墳は何ですか？",
-      "furigana": "にっぽんでいちばんおおきいこふんはなんですか?",
+      "clause_text": "日本で一番大きい古墳は",
+      "furigana": "にっぽんでいちばんおおきいこふんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どれぐらいの長さですか？",
-      "furigana": "どれぐらいのながさですか?",
+      "clause_text": "何ですか？どれぐらいの",
+      "furigana": "なんですか?どれぐらいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "大きい古墳は、何県に多いですか？",
-      "furigana": "おおきいこふんは、なにけんにおおいですか?",
+      "clause_text": "長さですか？大きい古墳は、何県に",
+      "furigana": "ながさですか?おおきいこふんは、なにけんに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "日本で一番大きな古墳は、",
-      "furigana": "にっぽんでいちばんおおきなこふんは、",
+      "clause_text": "多いですか？日本で一番大きな古墳は、",
+      "furigana": "おおいですか?にっぽんでいちばんおおきなこふんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "古墳は、",
-      "furigana": "こふんは、",
+      "clause_text": "古墳は",
+      "furigana": "こふんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "大阪府に",
-      "furigana": "おおさかふに",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "あり",
-      "furigana": "あり",
+      "clause_text": "大阪府に",
+      "furigana": "おおさかふに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.16 09:46:32"
+    "extraction_date_time": "2026.07.17 10:14:08"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "正直者と",
-      "furigana": "しょうじきものと",
+      "clause_text": "正直者と嘘つき（２）",
+      "furigana": "しょうじきものとうそつききごうにきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つき（２）【問題】",
-      "furigana": "うそつききごうにきごうきごうもんだいきごう",
+      "clause_text": "【問題】ある島には",
+      "furigana": "きごうもんだいきごうあるしまには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある島には正直者か",
-      "furigana": "あるしまにはしょうじきものか",
+      "clause_text": "正直者か嘘つきの",
+      "furigana": "しょうじきものかうそつきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つきのどちらかしか",
-      "furigana": "うそつきのどちらかしか",
+      "clause_text": "どちらかしか",
+      "furigana": "どちらかしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "Bは、次の",
-      "furigana": "bは、つぎの",
+      "clause_text": "Bは、",
+      "furigana": "bは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ように",
-      "furigana": "ように",
+      "clause_text": "次のように",
+      "furigana": "つぎのように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "A「私たちは３人とも嘘つきです」",
-      "furigana": "あーるきごうわたしたちはさんにんともうそつきですきごう",
+      "clause_text": "A「私たちは３人とも嘘つきです」B",
+      "furigana": "あーるきごうわたしたちはさんにんともうそつきですきごうb",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "B「私たち３人のうち、１人だけが",
-      "furigana": "bきごうわたしたちさんにんのうち、ひとりだけが",
+      "clause_text": "「私たち３人のうち、１人だけが嘘つきです」",
+      "furigana": "きごうわたしたちさんにんのうち、ひとりだけがうそつきですきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "嘘つきです」さて、Cは正直者と",
-      "furigana": "うそつきですきごうさて、cはしょうじきものと",
+      "clause_text": "さて、Cは正直者と嘘つきの",
+      "furigana": "さて、cはしょうじきものとうそつきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "嘘つきのどちらでしょうか？（解答は",
-      "furigana": "うそつきのどちらでしょうか?きごうかいとうは",
+      "clause_text": "どちらでしょうか？（解答は次の",
+      "furigana": "どちらでしょうか?きごうかいとうはつぎの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "次のページ）【解答】Cは正直者です。",
-      "furigana": "つぎのぺーじきごうきごうかいとうきごうcはしょうじきものです。",
+      "clause_text": "ページ）【解答】Cは正直者です。",
+      "furigana": "ぺーじきごうきごうかいとうきごうcはしょうじきものです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:43:58"
+    "extraction_date_time": "2026.07.17 10:24:57"
   }
 }

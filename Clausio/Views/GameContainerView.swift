@@ -31,14 +31,20 @@ struct ShakeEffect: GeometryEffect {
 }
 
 // MARK: - Main Game Container View
-struct GameContainerView: View {
+struct GameContainerView<LeadingContent: View>: View {
   @ObservedObject var vm: GameViewModel
+  let leadingContent: LeadingContent
+  
   @State private var speechSynthesizer = AVSpeechSynthesizer()
   
   @State private var completedRows: Set<Int> = []
-  @State private var copiedRowIndex: Int? = nil
   @State private var showingPassageSheet = false
   @State private var showingCorpusInfoSheet = false
+  
+  init(vm: GameViewModel, @ViewBuilder leadingContent: () -> LeadingContent) {
+    self.vm = vm
+    self.leadingContent = leadingContent()
+  }
   
   private var tilesSolvedState: [Bool] {
     vm.tiles.map(\.isSolved)
@@ -46,79 +52,27 @@ struct GameContainerView: View {
   
   var body: some View {
     GeometryReader { geometry in
-      let isWidescreen = geometry.size.width > geometry.size.height
+      let hSpacing: CGFloat = vm.isAssistModeOn ? 2 : 8
       
-      HStack(spacing: 0) {
-        if isWidescreen {
-          ZStack(alignment: .trailing) {
-            boardGrid(useSquareLayout: false)
-              .padding(.trailing, 54)
-            
-            VStack {
-              Spacer(minLength: 0)
-              
-              VStack(spacing: 12) {
-                modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
-                modeIconToggle(icon: "brain.head.profile", isOn: $vm.isLearnModeOn)
-                
-                toolbarButton(systemName: "shuffle") {
-                  withAnimation(.easeInOut) {
-                    vm.shuffleIncorrectTiles()
-                  }
-                }
-                
-                toolbarButton(systemName: "arrow.clockwise.circle.fill") {
-                  withAnimation(.easeInOut) {
-                    vm.startNewGame()
-                  }
-                }
-                
-                toolbarButton(systemName: "flag.fill") {
-                  withAnimation(.spring()) {
-                    vm.revealSolution()
-                  }
-                }
-                
-                toolbarButton(systemName: "doc.text.magnifyingglass") {
-                  showingPassageSheet = true
-                }
-                .accessibilityLabel("View entire passage")
-                .help("View entire passage")
-                
-                toolbarButton(systemName: "info.circle") {
-                  showingCorpusInfoSheet = true
-                }
-                .accessibilityLabel("View story details")
-                .help("View story details")
-              }
-              .padding(.vertical, 10)
-              .padding(.horizontal, 6)
-              .background(
-                RoundedRectangle(cornerRadius: 26, style: .continuous)
-                  .fill(Color(.systemBackground).opacity(0.72))
-              )
-              .overlay(
-                RoundedRectangle(cornerRadius: 26, style: .continuous)
-                  .stroke(Color.secondary.opacity(0.08), lineWidth: 1)
-              )
-              
-              Spacer(minLength: 0)
-            }
-            .frame(width: 46)
-            .padding(.trailing, 8)
-          }
-          .frame(width: geometry.size.width, height: geometry.size.height)
-        } else {
-          VStack(spacing: 20) {
-            boardGrid(useSquareLayout: true)
-            modePillsBar
-            Spacer()
-            controlButtonsHorizontal
-          }
-          .padding(.top, 10)
-          .frame(width: geometry.size.width, height: geometry.size.height)
+      // Calculate cell width to force equal columns based strictly on available width.
+      let availableWidth = geometry.size.width - 32 - (hSpacing * 4)
+      let cellWidth = max(0, availableWidth / 5)
+      
+      // Reduced spacing from 20 to 8 to close the gap between the grid and the controls
+      VStack(alignment: .leading, spacing: 8) {
+        // Grid Area
+        ScrollView(.horizontal, showsIndicators: false) {
+          boardGrid(cellWidth: cellWidth)
+            .padding(.horizontal, 16)
         }
+        .layoutPriority(1)
+        
+        // Bottom Control Bar
+        bottomControlBar
+          .padding(.bottom, 8) // Reduced bottom padding
       }
+      .padding(.top, 10)
+      .frame(width: geometry.size.width, height: geometry.size.height)
       .onChange(of: tilesSolvedState) { _ in
         detectNewlyCompletedRows()
       }
@@ -137,60 +91,28 @@ struct GameContainerView: View {
   }
   
   @ViewBuilder
-  private func boardGrid(useSquareLayout: Bool) -> some View {
+  private func boardGrid(cellWidth: CGFloat) -> some View {
     let hSpacing: CGFloat = vm.isAssistModeOn ? 2 : 8
     let vSpacing: CGFloat = vm.isAssistModeOn ? 2 : 10
-    let rowActionSpacing: CGFloat = 6
     
-    if useSquareLayout {
-      VStack(spacing: vSpacing) {
-        ForEach(0..<5, id: \.self) { row in
-          HStack(spacing: rowActionSpacing) {
-            HStack(spacing: hSpacing) {
-              ForEach(0..<5, id: \.self) { col in
-                let index = (row * 5) + col
-                tileCell(at: index, useSquareLayout: true)
-              }
-            }
-            
-            rowCopyButton(for: row)
+    VStack(spacing: vSpacing) {
+      ForEach(0..<5, id: \.self) { row in
+        HStack(spacing: hSpacing) {
+          ForEach(0..<5, id: \.self) { col in
+            let index = (row * 5) + col
+            tileCell(at: index)
+              .frame(width: cellWidth)
+              .frame(maxHeight: .infinity) // Forces equal height for all columns
           }
         }
-      }
-      .padding(.horizontal, 8)
-    } else {
-      GeometryReader { gridGeo in
-        let availableWidth = gridGeo.size.width
-        let availableHeight = gridGeo.size.height
-        
-        let copyButtonWidth: CGFloat = 30
-        let tileRegionWidth = max(0, availableWidth - copyButtonWidth - rowActionSpacing)
-        let cellWidth = max(0, (tileRegionWidth - (hSpacing * 4)) / 5)
-        let cellHeight = max(0, (availableHeight - (vSpacing * 4)) / 5)
-        
-        VStack(spacing: vSpacing) {
-          ForEach(0..<5, id: \.self) { row in
-            HStack(spacing: rowActionSpacing) {
-              HStack(spacing: hSpacing) {
-                ForEach(0..<5, id: \.self) { col in
-                  let index = (row * 5) + col
-                  tileCell(at: index, useSquareLayout: false)
-                    .frame(width: cellWidth, height: cellHeight)
-                }
-              }
-              
-              rowCopyButton(for: row)
-                .frame(width: copyButtonWidth, height: cellHeight)
-            }
-          }
-        }
-        .frame(width: availableWidth, height: availableHeight, alignment: .center)
+        .frame(maxHeight: .infinity) // Forces equal height for all rows
       }
     }
+    .frame(maxHeight: .infinity) // Stretches grid to fill vertical space evenly
   }
   
   @ViewBuilder
-  private func tileCell(at index: Int, useSquareLayout: Bool) -> some View {
+  private func tileCell(at index: Int) -> some View {
     if index < vm.tiles.count {
       let row = index / 5
       let col = index % 5
@@ -202,7 +124,7 @@ struct GameContainerView: View {
         isAssistModeOn: vm.isLearnModeOn,
         mergesLeft: canMergeLeft(row: row, col: col),
         mergesRight: canMergeRight(row: row, col: col),
-        useSquareAspectRatio: useSquareLayout,
+        useSquareAspectRatio: false,
         action: {
           withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
             vm.handleTap(at: index)
@@ -213,6 +135,9 @@ struct GameContainerView: View {
         }
       )
       .frame(maxWidth: .infinity, maxHeight: .infinity)
+      .lineLimit(2) // Strictly enforce 2 lines maximum
+      .environment(\.lineLimit, 2)
+      .minimumScaleFactor(0.85) // Allows text to slightly shrink to fit within 2 lines
       .modifier(
         ShakeEffect(
           animatableData: (vm.selectedIndex == index && vm.errorMessage != nil) ? 1 : 0
@@ -224,82 +149,64 @@ struct GameContainerView: View {
     }
   }
   
-  @ViewBuilder
-  private func rowCopyButton(for row: Int) -> some View {
-    Button(action: {
-      copySentenceForRow(row)
-    }) {
-      Image(systemName: copiedRowIndex == row ? "checkmark.circle.fill" : "doc.on.doc")
-        .font(.caption.bold())
-        .foregroundColor(copiedRowIndex == row ? .green : .secondary)
-        .frame(width: 28, height: 28)
-        .background(
-          Circle().fill(Color.secondary.opacity(0.10))
-        )
-    }
-    .buttonStyle(.plain)
-    .accessibilityLabel("Copy full sentence for row \(row + 1)")
-    .help("Copy full sentence for row \(row + 1)")
-  }
-  
-  private func copySentenceForRow(_ row: Int) {
-    let sentence = vm.fullSentenceForRow(row)
-    guard !sentence.isEmpty else { return }
-    
-#if os(iOS)
-    UIPasteboard.general.string = sentence
-#elseif os(macOS)
-    NSPasteboard.general.clearContents()
-    NSPasteboard.general.setString(sentence, forType: .string)
-#endif
-    
-    copiedRowIndex = row
-    
-    DispatchQueue.main.asyncAfter(deadline: .now() + 1.2) {
-      if copiedRowIndex == row {
-        copiedRowIndex = nil
+  private var bottomControlBar: some View {
+    ScrollView(.horizontal, showsIndicators: false) {
+      HStack(spacing: 24) {
+        
+        // Render passed-in injected content (Gamepad/Settings panel)
+        if LeadingContent.self != EmptyView.self {
+          leadingContent
+          
+          Divider()
+            .frame(height: 24)
+        }
+        
+        // Left-most buttons (Mode Toggles)
+        HStack(spacing: 12) {
+          modeIconToggle(icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
+          modeIconToggle(icon: "brain.head.profile", isOn: $vm.isLearnModeOn)
+        }
+        
+        Divider()
+          .frame(height: 24)
+        
+        // Right-most buttons, immediately to the right
+        HStack(spacing: 24) {
+          toolbarButton(systemName: "shuffle") {
+            withAnimation(.easeInOut) {
+              vm.shuffleIncorrectTiles()
+            }
+          }
+          
+          toolbarButton(systemName: "arrow.clockwise.circle.fill") {
+            withAnimation(.easeInOut) {
+              vm.startNewGame()
+            }
+          }
+          
+          toolbarButton(systemName: "flag.fill") {
+            withAnimation(.spring()) {
+              vm.revealSolution()
+            }
+          }
+          
+          toolbarButton(systemName: "doc.text.magnifyingglass") {
+            showingPassageSheet = true
+          }
+          .accessibilityLabel("View entire passage")
+          .help("View entire passage")
+          
+          toolbarButton(systemName: "info.circle") {
+            showingCorpusInfoSheet = true
+          }
+          .accessibilityLabel("View story details")
+          .help("View story details")
+        }
+        
+        Spacer(minLength: 0)
       }
+      .padding(.horizontal, 16)
     }
-  }
-  
-  private var modePillsBar: some View {
-    HStack(spacing: 10) {
-      modePill(label: "Assist", icon: "puzzlepiece.extension.fill", isOn: $vm.isAssistModeOn)
-      modePill(label: "Learn", icon: "brain.head.profile", isOn: $vm.isLearnModeOn)
-    }
-    .padding(.horizontal, 8)
-  }
-  
-  private func modePill(label: String, icon: String, isOn: Binding<Bool>) -> some View {
-    Button {
-      withAnimation(.spring(response: 0.3, dampingFraction: 0.65)) {
-        isOn.wrappedValue.toggle()
-      }
-    } label: {
-      Image(systemName: icon)
-        .font(.system(size: 18, weight: .semibold))
-        .frame(maxWidth: .infinity)
-        .frame(height: 38)
-        .background(
-          Capsule().fill(
-            isOn.wrappedValue
-            ? Color.accentColor.opacity(0.12)
-            : Color.secondary.opacity(0.1)
-          )
-        )
-        .overlay(
-          Capsule().strokeBorder(
-            isOn.wrappedValue
-            ? Color.accentColor.opacity(0.5)
-            : Color.clear,
-            lineWidth: 1
-          )
-        )
-        .foregroundColor(isOn.wrappedValue ? .accentColor : .secondary)
-    }
-    .buttonStyle(.plain)
-    .accessibilityLabel(label)
-    .help(label)
   }
   
   private func modeIconToggle(icon: String, isOn: Binding<Bool>) -> some View {
@@ -309,8 +216,8 @@ struct GameContainerView: View {
       }
     } label: {
       Image(systemName: icon)
-        .font(.system(size: 17, weight: .medium))
-        .frame(width: 38, height: 38)
+        .font(.system(size: 20, weight: .medium))
+        .frame(width: 44, height: 44)
         .background(
           Circle().fill(
             isOn.wrappedValue
@@ -334,9 +241,9 @@ struct GameContainerView: View {
   private func toolbarButton(systemName: String, action: @escaping () -> Void) -> some View {
     Button(action: action) {
       Image(systemName: systemName)
-        .font(.system(size: 22, weight: .medium))
+        .font(.system(size: 24, weight: .medium))
         .foregroundColor(.blue)
-        .frame(width: 38, height: 38)
+        .frame(width: 44, height: 44)
     }
     .buttonStyle(.plain)
   }
@@ -361,60 +268,6 @@ struct GameContainerView: View {
       completedRows.insert(row)
       speakText(vm.fullSentenceForRow(row))
     }
-  }
-  
-  private var controlButtonsHorizontal: some View {
-    HStack(spacing: 40) {
-      Button(action: {
-        withAnimation(.easeInOut) {
-          vm.shuffleIncorrectTiles()
-        }
-      }) {
-        Image(systemName: "shuffle")
-          .font(.title)
-      }
-      
-      Button(action: {
-        withAnimation(.easeInOut) {
-          vm.startNewGame()
-        }
-      }) {
-        Image(systemName: "arrow.clockwise.circle.fill")
-          .font(.title)
-          .foregroundColor(.blue)
-      }
-      
-      Button(action: {
-        withAnimation(.spring()) {
-          vm.revealSolution()
-        }
-      }) {
-        Image(systemName: "flag.fill")
-          .font(.title)
-          .foregroundColor(.blue)
-      }
-      
-      Button(action: {
-        showingPassageSheet = true
-      }) {
-        Image(systemName: "doc.text.magnifyingglass")
-          .font(.title)
-          .foregroundColor(.blue)
-      }
-      .accessibilityLabel("View entire passage")
-      .help("View entire passage")
-      
-      Button(action: {
-        showingCorpusInfoSheet = true
-      }) {
-        Image(systemName: "info.circle")
-          .font(.title)
-          .foregroundColor(.blue)
-      }
-      .accessibilityLabel("View story details")
-      .help("View story details")
-    }
-    .padding(.bottom, 30)
   }
   
   private func speakText(_ text: String) {
@@ -456,6 +309,13 @@ struct GameContainerView: View {
     
     let rightTile = vm.tiles[currentIndex + 1]
     return rightTile.originalRowId == (row + 1) && rightTile.originalColumnId == (col + 2)
+  }
+}
+
+// Support for standard initialization when no injected content is provided
+extension GameContainerView where LeadingContent == EmptyView {
+  init(vm: GameViewModel) {
+    self.init(vm: vm, leadingContent: { EmptyView() })
   }
 }
 
@@ -535,6 +395,7 @@ struct PassageSheetView: View {
     }
   }
 }
+
 // MARK: - Corpus Info Sheet
 struct CorpusInfoSheetView: View {
   let corpusRef: GamePayload.CorpusReference?
@@ -545,7 +406,6 @@ struct CorpusInfoSheetView: View {
       List {
         infoRow("Copyright", "Tadoku No Hiroba " + (corpusRef?.site_url ?? ""))
         infoRow("Story", "copyright belongs to respective author(s) of the story")
-        //infoRow("Topic ID", corpusRef?.topic_id)
         infoRow("Author", corpusRef?.author)
         infoRow("Title", corpusRef?.title)
         infoRow("Published Date", corpusRef?.article_date)
@@ -560,9 +420,6 @@ struct CorpusInfoSheetView: View {
           }
           .padding(.vertical, 4)
         }
-
-//        infoRow("Story Link", corpusRef?.link)
-        //infoRow("File Path", corpusRef?.file_path)
       }
       .navigationTitle("Info")
       .navigationBarTitleDisplayMode(.inline)

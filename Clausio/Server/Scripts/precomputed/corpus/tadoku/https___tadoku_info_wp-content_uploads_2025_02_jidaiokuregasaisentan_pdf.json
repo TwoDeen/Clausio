@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "内容よりも、それらを",
-      "furigana": "ないようよりも、それらを",
+      "clause_text": "内容よりも、",
+      "furigana": "ないようよりも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "使えるように",
-      "furigana": "つかえるように",
+      "clause_text": "それらを使えるように",
+      "furigana": "それらをつかえるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:16"
+    "extraction_date_time": "2026.07.17 10:21:08"
   }
 }

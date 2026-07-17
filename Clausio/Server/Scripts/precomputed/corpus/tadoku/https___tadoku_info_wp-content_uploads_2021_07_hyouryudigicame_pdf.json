@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "ゴミだと思ってゴミ袋に",
-      "furigana": "ごみだとおもってごみぶくろに",
+      "clause_text": "ゴミだと思って",
+      "furigana": "ごみだとおもって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "入れようとしたが、",
-      "furigana": "いれようとしたが、",
+      "clause_text": "ゴミ袋に入れようと",
+      "furigana": "ごみぶくろにいれようと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "箱の中に何かが",
-      "furigana": "ばこのなかになんかが",
+      "clause_text": "したが、箱の中に",
+      "furigana": "したが、ばこのなかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "入っているのが",
-      "furigana": "はいっているのが",
+      "clause_text": "何かが入っているのが",
+      "furigana": "なんかがはいっているのが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "開けてみると、中には",
-      "furigana": "あけてみると、なかには",
+      "clause_text": "開けてみると、",
+      "furigana": "あけてみると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "デジタルカメラが",
-      "furigana": "でじたるかめらが",
+      "clause_text": "中にはデジタルカメラが",
+      "furigana": "なかにはでじたるかめらが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "その箱は",
-      "furigana": "そのばこは",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "カメラの",
-      "furigana": "かめらの",
+      "clause_text": "箱は",
+      "furigana": "ばこは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "防水",
-      "furigana": "ぼうすい",
+      "clause_text": "カメラの",
+      "furigana": "かめらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ケース",
-      "furigana": "けーす",
+      "clause_text": "防水",
+      "furigana": "ぼうすい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "だった。",
-      "furigana": "だった。",
+      "clause_text": "ケースだった。",
+      "furigana": "けーすだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "箱の中に",
-      "furigana": "ばこのなかに",
+      "clause_text": "箱の",
+      "furigana": "ばこの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "海水は",
-      "furigana": "かいすいは",
+      "clause_text": "中に海水は",
+      "furigana": "なかにかいすいは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:56"
+    "extraction_date_time": "2026.07.17 10:20:15"
   }
 }

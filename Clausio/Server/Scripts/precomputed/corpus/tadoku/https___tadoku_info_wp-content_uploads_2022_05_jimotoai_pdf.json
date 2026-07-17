@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ベトナムの食べ物と",
-      "furigana": "べとなむのたべものと",
+      "clause_text": "ベトナムの",
+      "furigana": "べとなむの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "言えば「フォー（",
-      "furigana": "いえばきごうふぉーきごう",
+      "clause_text": "食べ物と言えば",
+      "furigana": "たべものといえば",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "Phở）」だと",
-      "furigana": "phởきごうきごうだと",
+      "clause_text": "「フォー（Phở）」だと",
+      "furigana": "きごうふぉーきごうphởきごうきごうだと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ところがある日、ベトナム人の",
-      "furigana": "ところがあるひ、べとなむじんの",
+      "clause_text": "ところがある日、",
+      "furigana": "ところがあるひ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "知り合いが「ホーチミンの",
-      "furigana": "しりあいがきごうほーちみんの",
+      "clause_text": "ベトナム人の",
+      "furigana": "べとなむじんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "フォーは、本物の",
-      "furigana": "ふぉーは、ほんものの",
+      "clause_text": "知り合いが",
+      "furigana": "しりあいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "フォーじゃない！」と",
-      "furigana": "ふぉーじゃない!きごうと",
+      "clause_text": "「ホーチミンのフォーは、本物のフォーじゃない！」と",
+      "furigana": "きごうほーちみんのふぉーは、ほんもののふぉーじゃない!きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:42"
+    "extraction_date_time": "2026.07.17 10:20:09"
   }
 }

@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "わらの家は",
-      "furigana": "わらのいえは",
+      "clause_text": "わらの家はオオカミに",
+      "furigana": "わらのいえはおおかみに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "オオカミに「フーッ」と",
-      "furigana": "おおかみにきごうふーっきごうと",
+      "clause_text": "「フーッ」と",
+      "furigana": "きごうふーっきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "作りましたが、木の",
-      "furigana": "つくりましたが、きの",
+      "clause_text": "作りましたが、",
+      "furigana": "つくりましたが、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "家はオオカミに",
-      "furigana": "いえはおおかみに",
+      "clause_text": "木の家はオオカミに",
+      "furigana": "きのいえはおおかみに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.16 09:35:06"
+    "extraction_date_time": "2026.07.17 10:14:14"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "わたしは",
-      "furigana": "わたしは",
+      "clause_text": "わたし",
+      "furigana": "わたし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "バスケットボール",
-      "furigana": "ばすけっとぼーる",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "が",
-      "furigana": "が",
+      "clause_text": "バスケットボールが",
+      "furigana": "ばすけっとぼーるが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "好き",
-      "furigana": "すき",
+      "clause_text": "好きだ",
+      "furigana": "すきだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "だ。",
-      "furigana": "だ。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "子どもの頃からバスケを",
-      "furigana": "こどものころからばすけを",
+      "clause_text": "子どもの頃から",
+      "furigana": "こどものころから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "やっていて、今でも",
-      "furigana": "やっていて、いまでも",
+      "clause_text": "バスケをやっていて、",
+      "furigana": "ばすけをやっていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "ときどきやるし、試合を",
-      "furigana": "ときどきやるし、しあいを",
+      "clause_text": "今でもときどきやるし、",
+      "furigana": "いまでもときどきやるし、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "テレビやネットで",
-      "furigana": "てれびやねっとで",
+      "clause_text": "試合をテレビやネットで",
+      "furigana": "しあいをてれびやねっとで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "パンデミックが起こる",
-      "furigana": "ぱんでみっくがおこる",
+      "clause_text": "パンデミックが起こる前は、",
+      "furigana": "ぱんでみっくがおこるまえは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "前は、よく試合会場にも",
-      "furigana": "まえは、よくしあいかいじょうにも",
+      "clause_text": "よく試合会場にも",
+      "furigana": "よくしあいかいじょうにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "試合であれば何でも",
-      "furigana": "しあいであればなんでも",
+      "clause_text": "試合であれば",
+      "furigana": "しあいであれば",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "好きだ。",
-      "furigana": "すきだ。",
+      "clause_text": "何でも好きだ。",
+      "furigana": "なんでもすきだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:43:52"
+    "extraction_date_time": "2026.07.17 10:29:48"
   }
 }

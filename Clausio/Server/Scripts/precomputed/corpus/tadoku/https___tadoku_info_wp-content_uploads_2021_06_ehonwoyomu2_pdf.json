@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "かこさとし（",
-      "furigana": "かこさとしきごう",
+      "clause_text": "かこさとし（加古里子）と",
+      "furigana": "かこさとしきごうかこさとごきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "加古里子）という",
-      "furigana": "かこさとごきごうという",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "それが、『海』（",
-      "furigana": "それが、きごううみきごうきごう",
+      "clause_text": "それが、",
+      "furigana": "それが、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "1969年）、『",
-      "furigana": "いちきゅうろくきゅうねんきごう、きごう",
+      "clause_text": "『海』（1969年）、",
+      "furigana": "きごううみきごうきごういちきゅうろくきゅうねんきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "地球』（1975",
-      "furigana": "ちきゅうきごうきごういちきゅうななご",
+      "clause_text": "『地球』（1975年）、",
+      "furigana": "きごうちきゅうきごうきごういちきゅうななごねんきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "年）、『人間』（",
-      "furigana": "ねんきごう、きごうにんげんきごうきごう",
+      "clause_text": "『人間』（",
+      "furigana": "きごうにんげんきごうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:48"
+    "extraction_date_time": "2026.07.17 10:30:26"
   }
 }

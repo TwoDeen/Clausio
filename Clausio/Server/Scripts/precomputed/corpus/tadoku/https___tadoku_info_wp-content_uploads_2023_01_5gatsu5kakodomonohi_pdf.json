@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "中心は、いつも",
-      "furigana": "ちゅうしんは、いつも",
+      "clause_text": "中心は、",
+      "furigana": "ちゅうしんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "祖父だった。",
-      "furigana": "そふだった。",
+      "clause_text": "いつも祖父だった。",
+      "furigana": "いつもそふだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:42:54"
+    "extraction_date_time": "2026.07.17 10:28:24"
   }
 }

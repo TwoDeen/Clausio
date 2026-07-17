@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "中秋の",
-      "furigana": "ちゅうしゅうの",
+      "clause_text": "中秋",
+      "furigana": "ちゅうしゅう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "名月「今晩は",
-      "furigana": "めいげつきごうこんばんは",
+      "clause_text": "の",
+      "furigana": "の",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "中秋の",
-      "furigana": "ちゅうしゅうの",
+      "clause_text": "名月",
+      "furigana": "めいげつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "名月だよ。",
-      "furigana": "めいげつだよ。",
+      "clause_text": "「今晩は中秋の名月だよ。",
+      "furigana": "きごうこんばんはちゅうしゅうのめいげつだよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "一緒にお月見しよう」",
-      "furigana": "いっしょにおつきみしようきごう",
+      "clause_text": "一緒",
+      "furigana": "いっしょ",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "後ろの席の",
-      "furigana": "うしろのせきの",
+      "clause_text": "に",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "カオルから",
-      "furigana": "かおるから",
+      "clause_text": "お",
+      "furigana": "お",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "渡されたメモには、",
-      "furigana": "わたされためもには、",
+      "clause_text": "月見しよう",
+      "furigana": "つきみしよう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "そう書いてあった。",
-      "furigana": "そうかいてあった。",
+      "clause_text": "」後ろの席のカオルから渡されたメモには、そう書いてあった。",
+      "furigana": "きごううしろのせきのかおるからわたされためもには、そうかいてあった。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "同じクラスの",
-      "furigana": "おなじくらすの",
+      "clause_text": "同じ",
+      "furigana": "おなじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "高校２",
-      "furigana": "こうこうに",
+      "clause_text": "クラスの",
+      "furigana": "くらすの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "年生だ。",
-      "furigana": "ねんせいだ。",
+      "clause_text": "高校２年生だ。",
+      "furigana": "こうこうにねんせいだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "１",
-      "furigana": "いち",
+      "clause_text": "１年生の",
+      "furigana": "いちねんせいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "年生の",
-      "furigana": "ねんせいの",
+      "clause_text": "ころから",
+      "furigana": "ころから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ころから",
-      "furigana": "ころから",
+      "clause_text": "ずっと",
+      "furigana": "ずっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ずっと",
-      "furigana": "ずっと",
+      "clause_text": "同じ",
+      "furigana": "おなじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "同じクラスだった。",
-      "furigana": "おなじくらすだった。",
+      "clause_text": "クラスだった。",
+      "furigana": "くらすだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:43:31"
+    "extraction_date_time": "2026.07.17 10:16:59"
   }
 }

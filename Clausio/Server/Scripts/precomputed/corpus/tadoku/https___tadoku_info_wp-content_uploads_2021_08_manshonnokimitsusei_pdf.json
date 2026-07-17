@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "どこかに隙間が",
-      "furigana": "どこかにすきまが",
+      "clause_text": "どこかに隙間があって、",
+      "furigana": "どこかにすきまがあって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "あって、常に若干の",
-      "furigana": "あって、つねにじゃっかんの",
+      "clause_text": "常に若干の空気の",
+      "furigana": "つねにじゃっかんのくうきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "空気の流れがあった。",
-      "furigana": "くうきのながれがあった。",
+      "clause_text": "流れがあった。",
+      "furigana": "ながれがあった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.16 09:40:53"
+    "extraction_date_time": "2026.07.17 10:17:20"
   }
 }

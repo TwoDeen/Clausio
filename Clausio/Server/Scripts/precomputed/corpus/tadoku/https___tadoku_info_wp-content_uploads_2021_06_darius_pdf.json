@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "オバマ",
-      "furigana": "おばま",
+      "clause_text": "オバマさんは",
+      "furigana": "おばまさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "さんは、",
-      "furigana": "さんは、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ダリウス",
-      "furigana": "だりうす",
+      "clause_text": "ダリウス君は、",
+      "furigana": "だりうすくんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "君は、",
-      "furigana": "くんは、",
+      "clause_text": "どんな",
+      "furigana": "どんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "どんなことを",
-      "furigana": "どんなことを",
+      "clause_text": "ことを",
+      "furigana": "ことを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "ダリウス君は、２歳のときに",
-      "furigana": "だりうすくんは、にさいのときに",
+      "clause_text": "ダリウス君は、",
+      "furigana": "だりうすくんは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "お医者さんに、「君は、",
-      "furigana": "おいしゃさんに、きごうきみは、",
+      "clause_text": "２歳の",
+      "furigana": "にさいの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "話す力、理解する力、",
-      "furigana": "はなすちから、りかいするちから、",
+      "clause_text": "ときにお医者さんに、",
+      "furigana": "ときにおいしゃさんに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "運動する力がほかの子どもより",
-      "furigana": "うんどうするちからがほかのこどもより",
+      "clause_text": "「君は、話す力、理解する力、運動する力がほかの子どもより少し低い」と",
+      "furigana": "きごうきみは、はなすちから、りかいするちから、うんどうするちからがほかのこどもよりすこしひくいきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "少し低い」と言われました。",
-      "furigana": "すこしひくいきごうといわれました。",
+      "clause_text": "言われました。",
+      "furigana": "いわれました。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:49:11"
+    "extraction_date_time": "2026.07.17 10:23:41"
   }
 }

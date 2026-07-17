@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "受け入れる社会小国士朗（",
-      "furigana": "うけいれるしゃかいおぐにしろうきごう",
+      "clause_text": "受け入れる社会",
+      "furigana": "うけいれるしゃかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "おぐにしろう）さんは",
-      "furigana": "おぐにしろうきごうさんは",
+      "clause_text": "小国士朗（おぐにしろう）さんは",
+      "furigana": "おぐにしろうきごうおぐにしろうきごうさんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "彼の",
-      "furigana": "かれの",
+      "clause_text": "彼の仕事は",
+      "furigana": "かれのしごとは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "仕事は",
-      "furigana": "しごとは",
+      "clause_text": "いろいろな",
+      "furigana": "いろいろな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "いろいろな",
-      "furigana": "いろいろな",
+      "clause_text": "テレビ番組を",
+      "furigana": "てれびばんぐみを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "テレビ番組を",
-      "furigana": "てれびばんぐみを",
+      "clause_text": "作る",
+      "furigana": "つくる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "作ることです。",
-      "furigana": "つくることです。",
+      "clause_text": "ことです。",
+      "furigana": "ことです。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "認知症に",
-      "furigana": "にんちしょうに",
+      "clause_text": "認知症になると、",
+      "furigana": "にんちしょうになると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なると、記憶力が",
-      "furigana": "なると、きおくりょくが",
+      "clause_text": "記憶力が",
+      "furigana": "きおくりょくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:29"
+    "extraction_date_time": "2026.07.17 10:26:43"
   }
 }

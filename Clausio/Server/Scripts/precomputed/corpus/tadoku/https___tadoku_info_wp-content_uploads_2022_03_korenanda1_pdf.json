@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "それとも",
-      "furigana": "それとも",
+      "clause_text": "それとも宇宙人が",
+      "furigana": "それともうちゅうにんが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "宇宙人が",
-      "furigana": "うちゅうにんが",
+      "clause_text": "作った",
+      "furigana": "つくった",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "作ったもの？",
-      "furigana": "つくったもの?",
+      "clause_text": "もの？いいえ、",
+      "furigana": "もの?いいえ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いいえ、どれも",
-      "furigana": "いいえ、どれも",
+      "clause_text": "どれも",
+      "furigana": "どれも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "むかしむかし",
-      "furigana": "むかしむかし",
+      "clause_text": "むかしむかしの",
+      "furigana": "むかしむかしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "の",
-      "furigana": "の",
+      "clause_text": "お",
+      "furigana": "お",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "お",
-      "furigana": "お",
+      "clause_text": "墓です",
+      "furigana": "はかです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "墓です。",
-      "furigana": "はかです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 0,
     "sentence_level": 0,
     "article_length": 0,
-    "extraction_date_time": "2026.07.16 09:44:19"
+    "extraction_date_time": "2026.07.17 10:29:37"
   }
 }

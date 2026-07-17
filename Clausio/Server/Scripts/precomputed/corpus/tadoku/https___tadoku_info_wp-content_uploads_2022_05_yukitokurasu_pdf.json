@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "4月まで雪が",
-      "furigana": "よんがつまでゆきが",
+      "clause_text": "4月まで",
+      "furigana": "よんがつまで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "降ります。",
-      "furigana": "ふります。",
+      "clause_text": "雪が降ります。",
+      "furigana": "ゆきがふります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "3月に",
-      "furigana": "さんがつに",
+      "clause_text": "3月にかけては、",
+      "furigana": "さんがつにかけては、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "かけては、多くの",
-      "furigana": "かけては、おおくの",
+      "clause_text": "多くの町で、",
+      "furigana": "おおくのまちで、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "町で、景色が",
-      "furigana": "まちで、けしきが",
+      "clause_text": "景色が真っ白に",
+      "furigana": "けしきがまっしろに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "真っ白になります。",
-      "furigana": "まっしろになります。",
+      "clause_text": "なります。",
+      "furigana": "なります。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そのうち、",
-      "furigana": "そのうち、",
+      "clause_text": "その",
+      "furigana": "その",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "積もる",
-      "furigana": "つもる",
+      "clause_text": "うち、",
+      "furigana": "うち、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "のは",
-      "furigana": "のは",
+      "clause_text": "積もるのは",
+      "furigana": "つもるのは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "60",
-      "furigana": "ろくれい",
+      "clause_text": "60cm",
+      "furigana": "ろくれいしーえむ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "cmぐらいです。",
-      "furigana": "しーえむぐらいです。",
+      "clause_text": "ぐらいです。",
+      "furigana": "ぐらいです。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:38:06"
+    "extraction_date_time": "2026.07.17 10:27:04"
   }
 }

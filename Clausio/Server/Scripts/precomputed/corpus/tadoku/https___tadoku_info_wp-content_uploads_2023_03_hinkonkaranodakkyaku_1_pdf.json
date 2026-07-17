@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "しゃべったよ！",
-      "furigana": "しゃべったよ!",
+      "clause_text": "しゃべったよ！－",
+      "furigana": "しゃべったよ!-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "－シエラレオネの少年アラジ",
-      "furigana": "-しえられおねのしょうねんあらじ",
+      "clause_text": "シエラレオネの少年アラジ",
+      "furigana": "しえられおねのしょうねんあらじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "－「シエラレオネ」という国を",
-      "furigana": "-きごうしえられおねきごうというくにを",
+      "clause_text": "－「シエラレオネ」という",
+      "furigana": "-きごうしえられおねきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "知っていますか。",
-      "furigana": "しっていますか。",
+      "clause_text": "国を知っていますか。",
+      "furigana": "くにをしっていますか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "私の周りの人に",
-      "furigana": "わたくしのまわりのひとに",
+      "clause_text": "私の",
+      "furigana": "わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "聞いてみると、",
-      "furigana": "きいてみると、",
+      "clause_text": "周りの人に",
+      "furigana": "まわりのひとに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "まず知らないと",
-      "furigana": "まずしらないと",
+      "clause_text": "聞いてみると、",
+      "furigana": "きいてみると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "いう人が",
-      "furigana": "いうひとが",
+      "clause_text": "まず知らないという人が",
+      "furigana": "まずしらないというひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "奴隷",
-      "furigana": "どれい",
+      "clause_text": "奴隷貿易が",
+      "furigana": "どれいぼうえきが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "貿易が",
-      "furigana": "ぼうえきが",
+      "clause_text": "行われて",
+      "furigana": "おこなわれて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "行われて",
-      "furigana": "おこなわれて",
+      "clause_text": "いました",
+      "furigana": "いました",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "いました。",
-      "furigana": "いました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.16 09:35:42"
+    "extraction_date_time": "2026.07.17 10:13:58"
   }
 }

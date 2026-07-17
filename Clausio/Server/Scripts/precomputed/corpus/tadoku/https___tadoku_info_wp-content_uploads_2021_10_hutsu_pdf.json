@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "お父さんと、普通の",
-      "furigana": "おとうさんと、ふつうの",
+      "clause_text": "お父さんと、",
+      "furigana": "おとうさんと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "お母さんと、普通の",
-      "furigana": "おかあさんと、ふつうの",
+      "clause_text": "普通のお母さんと、",
+      "furigana": "ふつうのおかあさんと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "お姉ちゃんと",
-      "furigana": "おねえちゃんと",
+      "clause_text": "普通のお姉ちゃんと",
+      "furigana": "ふつうのおねえちゃんと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:35:01"
+    "extraction_date_time": "2026.07.17 10:14:02"
   }
 }

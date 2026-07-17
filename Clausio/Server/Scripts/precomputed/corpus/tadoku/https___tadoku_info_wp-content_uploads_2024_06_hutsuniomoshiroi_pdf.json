@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "「映画、",
-      "furigana": "きごうえいが、",
+      "clause_text": "「映画、どうだっ",
+      "furigana": "きごうえいが、どうだっ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "どうだった？」「普通に",
-      "furigana": "どうだった?きごうきごうふつうに",
+      "clause_text": "た？」「普通にお",
+      "furigana": "た?きごうきごうふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "おもしろかった」「うん、",
-      "furigana": "おもしろかったきごうきごううん、",
+      "clause_text": "もしろかった」「",
+      "furigana": "たきごうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通に",
-      "furigana": "ふつうに",
+      "clause_text": "うん、普通におも",
+      "furigana": "うん、ふつうに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "おもしろかったよね。",
-      "furigana": "おもしろかったよね。",
+      "clause_text": "しろかったよね。",
+      "furigana": "たよね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "最後、感動して",
-      "furigana": "さいご、かんどうして",
+      "clause_text": "最後、",
+      "furigana": "さいご、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "泣いちゃった」「うん、",
-      "furigana": "ないちゃったきごうきごううん、",
+      "clause_text": "感動して",
+      "furigana": "かんどうして",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "うん」そう、",
-      "furigana": "うんきごうそう、",
+      "clause_text": "泣いちゃった」「うん、",
+      "furigana": "ないちゃったきごうきごううん、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "その映画は普通に",
-      "furigana": "そのえいがはふつうに",
+      "clause_text": "うん",
+      "furigana": "うん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "おもしろかった。",
-      "furigana": "おもしろかった。",
+      "clause_text": "」そう、その映画は普通におもしろかった。",
+      "furigana": "きごうそう、そのえいがはふつうにおもしろかった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:36"
+    "extraction_date_time": "2026.07.17 10:22:37"
   }
 }

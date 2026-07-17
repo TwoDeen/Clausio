@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "学生Aさん：「先生、",
-      "furigana": "がくせいあーるさんきごうきごうせんせい、",
+      "clause_text": "学生A",
+      "furigana": "がくせいあーる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "こんにちは～ご飯",
-      "furigana": "こんにちは~ごはん",
+      "clause_text": "さん：",
+      "furigana": "さんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "食べましたか？」",
-      "furigana": "たべましたか?きごう",
+      "clause_text": "「先生、こんにちは～ご飯食べましたか？」",
+      "furigana": "きごうせんせい、こんにちは~ごはんたべましたか?きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "私：「あっ……はい、",
-      "furigana": "わたくしきごうきごうあっきごうきごうはい、",
+      "clause_text": "私：",
+      "furigana": "わたくしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "食べましたよ。",
-      "furigana": "たべましたよ。",
+      "clause_text": "「あっ……はい、食べましたよ。",
+      "furigana": "きごうあっきごうきごうはい、たべましたよ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "クィッティアオ（",
-      "furigana": "くぃってぃあおきごう",
+      "clause_text": "クィッティアオ（タイのラーメン）を",
+      "furigana": "くぃってぃあおきごうたいのらーめんきごうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "タイのラーメン）を",
-      "furigana": "たいのらーめんきごうを",
+      "clause_text": "食べたから、",
+      "furigana": "たべたから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "食べたから、",
-      "furigana": "たべたから、",
+      "clause_text": "もっと",
+      "furigana": "もっと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "もっとあつく",
-      "furigana": "もっとあつく",
+      "clause_text": "あつく",
+      "furigana": "あつく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "」",
-      "furigana": "きごう",
+      "clause_text": "」タイで",
+      "furigana": "きごうたいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "タイでは",
-      "furigana": "たいでは",
+      "clause_text": "は上のよ",
+      "furigana": "はうえの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "上の",
-      "furigana": "うえの",
+      "clause_text": "うな会話",
+      "furigana": "なかいわ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "ような会話が",
-      "furigana": "ようなかいわが",
+      "clause_text": "が普通",
+      "furigana": "がふつう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "普通です。",
-      "furigana": "ふつうです。",
+      "clause_text": "です。",
+      "furigana": "です。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:27"
+    "extraction_date_time": "2026.07.17 10:27:44"
   }
 }

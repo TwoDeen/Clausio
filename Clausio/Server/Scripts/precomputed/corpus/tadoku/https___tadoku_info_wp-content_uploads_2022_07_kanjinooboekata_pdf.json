@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "日本語を勉強している",
-      "furigana": "にほんごをべんきょうしている",
+      "clause_text": "日本語を勉強している外国人に、",
+      "furigana": "にほんごをべんきょうしているがいこくじんに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "外国人に、「日本語の勉強で",
-      "furigana": "がいこくじんに、きごうにほんごのべんきょうで",
+      "clause_text": "「日本語の勉強で難しいことは何ですか？」と",
+      "furigana": "きごうにほんごのべんきょうでむずかしいことはなんですか?きごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "難しいことは何ですか？」と",
-      "furigana": "むずかしいことはなんですか?きごうと",
+      "clause_text": "質問すると、",
+      "furigana": "しつもんすると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "質問すると、「漢字の",
-      "furigana": "しつもんすると、きごうかんじの",
+      "clause_text": "「漢字の勉強です」と",
+      "furigana": "きごうかんじのべんきょうですきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "勉強です」と答える人がいます。",
-      "furigana": "べんきょうですきごうとこたえるひとがいます。",
+      "clause_text": "答える人がいます。",
+      "furigana": "こたえるひとがいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "授業で、漢字の",
-      "furigana": "じゅぎょうで、かんじの",
+      "clause_text": "授業で、",
+      "furigana": "じゅぎょうで、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "覚え方について",
-      "furigana": "おぼえかたについて",
+      "clause_text": "漢字の",
+      "furigana": "かんじの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "勉強することも",
-      "furigana": "べんきょうすることも",
+      "clause_text": "覚え方について",
+      "furigana": "おぼえかたについて",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "あるでしょう。",
-      "furigana": "あるでしょう。",
+      "clause_text": "勉強することもあるでしょう。",
+      "furigana": "べんきょうすることもあるでしょう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "何回もノートに漢字を",
-      "furigana": "なんかいものーとにかんじを",
+      "clause_text": "何回もノートに漢字を書いて",
+      "furigana": "なんかいものーとにかんじをかいて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "書いて覚えたり、漢字カードを",
-      "furigana": "かいておぼえたり、かんじかーどを",
+      "clause_text": "覚えたり、漢字カードを",
+      "furigana": "おぼえたり、かんじかーどを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:09"
+    "extraction_date_time": "2026.07.17 10:30:37"
   }
 }

@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "イランの北に",
-      "furigana": "いらんのきたに",
+      "clause_text": "イランの北にあり、",
+      "furigana": "いらんのきたにあり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "あり、首都バクーは",
-      "furigana": "あり、しゅとばくーは",
+      "clause_text": "首都バクーは",
+      "furigana": "しゅとばくーは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "住み始めた",
-      "furigana": "すみはじめた",
+      "clause_text": "住み始めたの",
+      "furigana": "すみはじめたの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "のは、",
-      "furigana": "のは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ときに",
-      "furigana": "ときに",
+      "clause_text": "とき",
+      "furigana": "とき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いらっしゃい",
-      "furigana": "いらっしゃい",
+      "clause_text": "に",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ました",
-      "furigana": "ました",
+      "clause_text": "いらっしゃいました",
+      "furigana": "いらっしゃいました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "5月の",
-      "furigana": "ごがつの",
+      "clause_text": "5月の公園には、",
+      "furigana": "ごがつのこうえんには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "公園には、",
-      "furigana": "こうえんには、",
+      "clause_text": "この国の人が",
+      "furigana": "このくにのひとが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "この国の人が",
-      "furigana": "このくにのひとが",
+      "clause_text": "大好きなバラの",
+      "furigana": "だいすきなばらの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "大好きなバラの花が",
-      "furigana": "だいすきなばらのはなが",
+      "clause_text": "花が",
+      "furigana": "はなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:38"
+    "extraction_date_time": "2026.07.17 10:21:49"
   }
 }

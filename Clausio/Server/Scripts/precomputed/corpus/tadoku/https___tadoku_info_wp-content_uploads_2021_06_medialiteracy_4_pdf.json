@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ジョン・バーニンガム作『",
-      "furigana": "じょん・ばーにんがむさくきごう",
+      "clause_text": "ジョン・バーニンガム作",
+      "furigana": "じょん・ばーにんがむさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "おじいちゃん』表紙絵本は",
-      "furigana": "おじいちゃんきごうひょうしえほんは",
+      "clause_text": "『おじいちゃん』表紙絵本は",
+      "furigana": "きごうおじいちゃんきごうひょうしえほんは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "中には、みなさんが",
-      "furigana": "なかには、みなさんが",
+      "clause_text": "中には、",
+      "furigana": "なかには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "読んでも",
-      "furigana": "よんでも",
+      "clause_text": "みなさんが読んでも",
+      "furigana": "みなさんがよんでも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "絵本コーナーや図書館の",
-      "furigana": "えほんこーなーやとしょかんの",
+      "clause_text": "絵本コーナーや",
+      "furigana": "えほんこーなーや",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "絵本コーナーに",
-      "furigana": "えほんこーなーに",
+      "clause_text": "図書館の絵本コーナーに",
+      "furigana": "としょかんのえほんこーなーに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "たくさんある絵本の",
-      "furigana": "たくさんあるえほんの",
+      "clause_text": "たくさんある",
+      "furigana": "たくさんある",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "中には、",
-      "furigana": "なかには、",
+      "clause_text": "絵本の中には、",
+      "furigana": "えほんのなかには、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.16 09:44:34"
+    "extraction_date_time": "2026.07.17 10:15:27"
   }
 }

@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "不安と期待で胸が",
-      "furigana": "ふあんときたいでむねが",
+      "clause_text": "不安と期待で",
+      "furigana": "ふあんときたいで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "どきどきします。",
-      "furigana": "どきどきします。",
+      "clause_text": "胸がどきどきします。",
+      "furigana": "むねがどきどきします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:01"
+    "extraction_date_time": "2026.07.17 10:29:01"
   }
 }

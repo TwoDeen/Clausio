@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「おかあさん、",
-      "furigana": "きごうおかあさん、",
+      "clause_text": "「おかあさん、来てー！早く！！」",
+      "furigana": "きごうおかあさん、きてー!はやく!!きごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "来てー！",
-      "furigana": "きてー!",
+      "clause_text": "娘",
+      "furigana": "むすめ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "早く！！」",
-      "furigana": "はやく!!きごう",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "娘は",
-      "furigana": "むすめは",
+      "clause_text": "６歳だ",
+      "furigana": "ろくさいだ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "６歳だ。",
-      "furigana": "ろくさいだ。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "今日はいつもと",
-      "furigana": "きょうはいつもと",
+      "clause_text": "今日は",
+      "furigana": "きょうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "違う。",
-      "furigana": "ちがう。",
+      "clause_text": "いつもと違う。",
+      "furigana": "いつもとちがう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "見たような、助けを",
-      "furigana": "みたような、たすけを",
+      "clause_text": "見たような、",
+      "furigana": "みたような、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "求めるような声で",
-      "furigana": "もとめるようなこえで",
+      "clause_text": "助けを",
+      "furigana": "たすけを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "私を",
-      "furigana": "わたくしを",
+      "clause_text": "求めるような声で",
+      "furigana": "もとめるようなこえで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "呼んでいるのだ。",
-      "furigana": "よんでいるのだ。",
+      "clause_text": "私を呼んでいるのだ。",
+      "furigana": "わたくしをよんでいるのだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "行くと、娘が泣きそうな",
-      "furigana": "いくと、むすめがなきそうな",
+      "clause_text": "行くと、",
+      "furigana": "いくと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "顔で、「うんちが、ね、",
-      "furigana": "かおで、きごううんちが、ね、",
+      "clause_text": "娘が泣きそうな顔で、",
+      "furigana": "むすめがなきそうなかおで、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "うんちが",
-      "furigana": "うんちが",
+      "clause_text": "「うんちが、ね、うんちがプラプラする！」と、",
+      "furigana": "きごううんちが、ね、うんちがぷらぷらする!きごうと、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "プラプラする！」と、言う。",
-      "furigana": "ぷらぷらする!きごうと、ゆう。",
+      "clause_text": "言う。",
+      "furigana": "ゆう。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:37"
+    "extraction_date_time": "2026.07.17 10:22:02"
   }
 }

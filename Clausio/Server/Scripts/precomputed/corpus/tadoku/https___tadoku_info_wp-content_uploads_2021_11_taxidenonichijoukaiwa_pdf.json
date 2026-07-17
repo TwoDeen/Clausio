@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "使った",
-      "furigana": "つかった",
+      "clause_text": "使ったの",
+      "furigana": "つかったの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "のは、",
-      "furigana": "のは、",
+      "clause_text": "は、",
+      "furigana": "は、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "韓国語が少しわかるように",
-      "furigana": "かんこくごがすこしわかるように",
+      "clause_text": "韓国語が",
+      "furigana": "かんこくごが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "なってから、「タクシーの",
-      "furigana": "なってから、きごうたくしーの",
+      "clause_text": "少しわかるように",
+      "furigana": "すこしわかるように",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "運転手さんはだいたい同じ質問を",
-      "furigana": "うんてんしゅさんはだいたいおなじしつもんを",
+      "clause_text": "なってから、",
+      "furigana": "なってから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "する」ということが",
-      "furigana": "するきごうということが",
+      "clause_text": "「タクシーの運転手さんはだいたい同じ質問をする」という",
+      "furigana": "きごうたくしーのうんてんしゅさんはだいたいおなじしつもんをするきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "わかりました。",
-      "furigana": "わかりました。",
+      "clause_text": "ことがわかりました。",
+      "furigana": "ことがわかりました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "最初",
-      "furigana": "さいしょ",
+      "clause_text": "最初に",
+      "furigana": "さいしょに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "に「日本人です",
-      "furigana": "にきごうにほんじんです",
+      "clause_text": "「日本人ですか」",
+      "furigana": "きごうにほんじんですかきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "か」と",
-      "furigana": "かきごうと",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:11"
+    "extraction_date_time": "2026.07.17 10:25:41"
   }
 }

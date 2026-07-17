@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "近い",
-      "furigana": "ちかい",
+      "clause_text": "近いので",
+      "furigana": "ちかいので",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "ので、",
-      "furigana": "ので、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "実家にいる間は、",
-      "furigana": "じっかにいるあいだは、",
+      "clause_text": "実家に",
+      "furigana": "じっかに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "子どもの頃の",
-      "furigana": "こどものころの",
+      "clause_text": "いる間は、",
+      "furigana": "いるあいだは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ように何も",
-      "furigana": "ようになんも",
+      "clause_text": "子どもの頃の",
+      "furigana": "こどものころの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "しないで",
-      "furigana": "しないで",
+      "clause_text": "ように何も",
+      "furigana": "ようになんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ごろごろします。",
-      "furigana": "ごろごろします。",
+      "clause_text": "しないでごろごろします。",
+      "furigana": "しないでごろごろします。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:34:24"
+    "extraction_date_time": "2026.07.17 10:20:20"
   }
 }

@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "みなさんは、友だちや家族に、何と呼ばれています",
-      "furigana": "みなさんは、ともだちやかぞくに、なんとよばれています",
+      "clause_text": "みなさんは、",
+      "furigana": "みなさんは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？「パトリック」「じょうたろう「みきこ」など、",
-      "furigana": "か?きごうぱとりっくきごうきごうじょうたろうきごうみきこきごうなど、",
+      "clause_text": "友だちや家族に、",
+      "furigana": "ともだちやかぞくに、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "名前で呼ばれていますか？あだ名で呼ばれています",
-      "furigana": "なまえでよばれていますか?あだなでよばれています",
+      "clause_text": "何と",
+      "furigana": "なんと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "か？「あだ名」にはいろいろなものがありますが、",
-      "furigana": "か?きごうあだなきごうにはいろいろなものがありますが、",
+      "clause_text": "呼ばれていますか？「パトリック」",
+      "furigana": "よばれていますか?きごうぱとりっくきごう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "もともとの名前を少し短くしたものが多いようです。",
-      "furigana": "もともとのなまえをすこしみじかくしたものがおおいようです。",
+      "clause_text": "「じょうたろう「みきこ」など、名前で呼ばれていますか？あだ名で呼ばれていますか？「あだ名」にはいろいろなものがありますが、もともとの名前を少し短くしたものが多いようです。",
+      "furigana": "きごうじょうたろうきごうみきこきごうなど、なまえでよばれていますか?あだなでよばれていますか?きごうあだなきごうにはいろいろなものがありますが、もともとのなまえをすこしみじかくしたものがおおいようです。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "例えば、「パトリック」は「パット」、",
-      "furigana": "たとえば、きごうぱとりっくきごうはきごうぱっときごう、",
+      "clause_text": "例えば、「パトリック」は",
+      "furigana": "たとえば、きごうぱとりっくきごうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "「じょうたろう」は「じょう」などと",
-      "furigana": "きごうじょうたろうきごうはきごうじょうきごうなどと",
+      "clause_text": "「パット」、",
+      "furigana": "きごうぱっときごう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "呼ばれる",
-      "furigana": "よばれる",
+      "clause_text": "「じょうたろう」は",
+      "furigana": "きごうじょうたろうきごうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことが",
-      "furigana": "ことが",
+      "clause_text": "「じょう」などと",
+      "furigana": "きごうじょうきごうなどと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "呼ばれることがあります。",
+      "furigana": "よばれることがあります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "また、「みきこ」という名前の",
-      "furigana": "また、きごうみきこきごうというなまえの",
+      "clause_text": "また、「みきこ」という",
+      "furigana": "また、きごうみきこきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "人を「みっきー」と",
-      "furigana": "ひとをきごうみっきーきごうと",
+      "clause_text": "名前の人を「みっきー」と",
+      "furigana": "なまえのひとをきごうみっきーきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "人を「石ちゃん」「石っち」「石",
-      "furigana": "ひとをきごういしちゃんきごうきごういしっちきごうきごういし",
+      "clause_text": "人を「石ちゃん」「石っち」",
+      "furigana": "ひとをきごういしちゃんきごうきごういしっちきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ぴょん」などと呼ぶように、",
-      "furigana": "ぴょんきごうなどとよぶように、",
+      "clause_text": "「石ぴょん」などと呼ぶように、",
+      "furigana": "きごういしぴょんきごうなどとよぶように、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:30"
+    "extraction_date_time": "2026.07.17 10:15:36"
   }
 }

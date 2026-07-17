@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "メディア・リテラシーのワークの",
-      "furigana": "めでぃあ・りてらしーのわーくの",
+      "clause_text": "メディア・リテラシーのワークの一つに、",
+      "furigana": "めでぃあ・りてらしーのわーくのひとつに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "一つに、「メディア1週間日記」があります。",
-      "furigana": "ひとつに、きごうめでぃあいちしゅうかんにっききごうがあります。",
+      "clause_text": "「メディア1週間日記」があります。",
+      "furigana": "きごうめでぃあいちしゅうかんにっききごうがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "この日記を",
-      "furigana": "このにっきを",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "つけて",
-      "furigana": "つけて",
+      "clause_text": "日記を",
+      "furigana": "にっきを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "みません",
-      "furigana": "みません",
+      "clause_text": "つけて",
+      "furigana": "つけて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "か。",
-      "furigana": "か。",
+      "clause_text": "みませんか。",
+      "furigana": "みませんか。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "分かって、面白いと",
-      "furigana": "わかって、おもしろいと",
+      "clause_text": "分かって、",
+      "furigana": "わかって、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "思います。",
-      "furigana": "おもいます。",
+      "clause_text": "面白いと思います。",
+      "furigana": "おもしろいとおもいます。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 4,
     "article_length": 1311,
-    "extraction_date_time": "2026.07.16 09:42:09"
+    "extraction_date_time": "2026.07.17 10:21:33"
   }
 }

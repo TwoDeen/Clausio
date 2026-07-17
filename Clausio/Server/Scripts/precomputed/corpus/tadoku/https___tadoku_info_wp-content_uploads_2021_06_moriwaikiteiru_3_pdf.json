@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "森は海の魚を育てているー海と山は",
-      "furigana": "もりはうみのさかなをそだてているーうみとやまは",
+      "clause_text": "森は海の魚を育てているー海と山は川によって",
+      "furigana": "もりはうみのさかなをそだてているーうみとやまはかわによって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "川によってつながっているよ！「森が海の魚を",
-      "furigana": "かわによってつながっているよ!きごうもりがうみのさかなを",
+      "clause_text": "つながっているよ！「森が海の魚を育てている」、",
+      "furigana": "つながっているよ!きごうもりがうみのさかなをそだてているきごう、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "育てている」、このタイトルを見て「川の魚を",
-      "furigana": "そだてているきごう、このたいとるをみてきごうかわのさかなを",
+      "clause_text": "このタイトルを見て「川の魚を育てている」の",
+      "furigana": "このたいとるをみてきごうかわのさかなをそだてているきごうの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "育てている」の間違いではありませんか？",
-      "furigana": "そだてているきごうのまちがいではありませんか?",
+      "clause_text": "間違いではありませんか？とある留学生に",
+      "furigana": "まちがいではありませんか?とあるりゅうがくせいに",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "とある留学生に聞かれました。",
-      "furigana": "とあるりゅうがくせいにきかれました。",
+      "clause_text": "聞かれました。",
+      "furigana": "きかれました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "このタイトルは",
-      "furigana": "このたいとるは",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "間違いでは",
-      "furigana": "まちがいでは",
+      "clause_text": "タイトルは",
+      "furigana": "たいとるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "あり",
-      "furigana": "あり",
+      "clause_text": "間違いでは",
+      "furigana": "まちがいでは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "ません。",
-      "furigana": "ません。",
+      "clause_text": "ありません。",
+      "furigana": "ありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "海から遠く離れた森でも、",
-      "furigana": "うみからとおくはなれたもりでも、",
+      "clause_text": "海から遠く離れた",
+      "furigana": "うみからとおくはなれた",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "川によって海と",
-      "furigana": "かわによってうみと",
+      "clause_text": "森でも、川によって",
+      "furigana": "もりでも、かわによって",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "つながり、森は",
-      "furigana": "つながり、もりは",
+      "clause_text": "海とつながり、",
+      "furigana": "うみとつながり、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "海の魚を",
-      "furigana": "うみのさかなを",
+      "clause_text": "森は海の魚を",
+      "furigana": "もりはうみのさかなを",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "特に魚が",
-      "furigana": "とくにさかなが",
+      "clause_text": "特に魚が多いのは、",
+      "furigana": "とくにさかながおおいのは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "多いのは、",
-      "furigana": "おおいのは、",
+      "clause_text": "沿岸部、",
+      "furigana": "えんがんぶ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "沿岸部、つまり川に",
-      "furigana": "えんがんぶ、つまりかわに",
+      "clause_text": "つまり川に",
+      "furigana": "つまりかわに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.16 09:41:17"
+    "extraction_date_time": "2026.07.17 10:30:12"
   }
 }

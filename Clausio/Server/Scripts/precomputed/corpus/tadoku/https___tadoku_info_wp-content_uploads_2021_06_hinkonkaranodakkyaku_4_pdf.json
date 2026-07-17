@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "どのように",
-      "furigana": "どのように",
+      "clause_text": "どの",
+      "furigana": "どの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "考えて",
-      "furigana": "かんがえて",
+      "clause_text": "ように",
+      "furigana": "ように",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "いますか。",
-      "furigana": "いますか。",
+      "clause_text": "考えていますか。",
+      "furigana": "かんがえていますか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "次の休みには旅行へ",
-      "furigana": "つぎのやすみにはりょこうへ",
+      "clause_text": "次の休みには",
+      "furigana": "つぎのやすみには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "行こうかな、将来は",
-      "furigana": "いこうかな、しょうらいは",
+      "clause_text": "旅行へ行こうかな、",
+      "furigana": "りょこうへいこうかな、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どんな仕事を",
-      "furigana": "どんなしごとを",
+      "clause_text": "将来はどんな仕事を",
+      "furigana": "しょうらいはどんなしごとを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "しようかな、など色々な",
-      "furigana": "しようかな、などいろいろな",
+      "clause_text": "しようかな、など",
+      "furigana": "しようかな、など",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "選択があると思います。",
-      "furigana": "せんたくがあるとおもいます。",
+      "clause_text": "色々な選択があると思います。",
+      "furigana": "いろいろなせんたくがあるとおもいます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "難民",
-      "furigana": "なんみん",
+      "clause_text": "難民キャンプで",
+      "furigana": "なんみんきゃんぷで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "キャンプでは",
-      "furigana": "きゃんぷでは",
+      "clause_text": "は",
+      "furigana": "は",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.16 09:38:18"
+    "extraction_date_time": "2026.07.17 10:24:50"
   }
 }

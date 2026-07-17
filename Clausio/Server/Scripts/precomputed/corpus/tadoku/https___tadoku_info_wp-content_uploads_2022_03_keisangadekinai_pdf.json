@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "プリペイドカードなどを使って、料金を",
-      "furigana": "ぷりぺいどかーどなどをつかって、りょうきんを",
+      "clause_text": "プリペイドカードなどを使って、",
+      "furigana": "ぷりぺいどかーどなどをつかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "払うことが多くなってきました。",
-      "furigana": "はらうことがおおくなってきました。",
+      "clause_text": "料金を払うことが多くなってきました。",
+      "furigana": "りょうきんをはらうことがおおくなってきました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "私たちの暗算の",
-      "furigana": "わたしたちのあんざんの",
+      "clause_text": "私たちの",
+      "furigana": "わたしたちの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "能力は一気に",
-      "furigana": "のうりょくはいっきに",
+      "clause_text": "暗算の",
+      "furigana": "あんざんの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "落ちてしまった",
-      "furigana": "おちてしまった",
+      "clause_text": "能力は一気に",
+      "furigana": "のうりょくはいっきに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "のではないでしょうか。",
-      "furigana": "のではないでしょうか。",
+      "clause_text": "落ちてしまったのではないでしょうか。",
+      "furigana": "おちてしまったのではないでしょうか。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:46"
+    "extraction_date_time": "2026.07.17 10:15:14"
   }
 }

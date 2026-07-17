@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "【問題】まっ暗な部屋の",
-      "furigana": "きごうもんだいきごうまっくらなへやの",
+      "clause_text": "【問題】まっ暗な",
+      "furigana": "きごうもんだいきごうまっくらな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "箱の中に、６枚の",
-      "furigana": "ばこのなかに、ろくまいの",
+      "clause_text": "部屋の箱の中に、",
+      "furigana": "へやのばこのなかに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "赤い靴下と",
-      "furigana": "あかいくつしたと",
+      "clause_text": "６枚の赤い靴下と",
+      "furigana": "ろくまいのあかいくつしたと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "靴下は、赤と",
-      "furigana": "くつしたは、あかと",
+      "clause_text": "靴下は、",
+      "furigana": "くつしたは、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "青には",
-      "furigana": "あおには",
+      "clause_text": "赤と",
+      "furigana": "あかと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "全然",
-      "furigana": "ぜんぜん",
+      "clause_text": "青には全然",
+      "furigana": "あおにはぜんぜん",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "出かけるので、その中から",
-      "furigana": "でかけるので、そのなかから",
+      "clause_text": "出かけるので、",
+      "furigana": "でかけるので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "同じ色の靴下を",
-      "furigana": "おなじいろのくつしたを",
+      "clause_text": "その中から同じ色の",
+      "furigana": "そのなかからおなじいろの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "２枚とり出さなければ",
-      "furigana": "にまいとりださなければ",
+      "clause_text": "靴下を２枚とり出さなければ",
+      "furigana": "くつしたをにまいとりださなければ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:40:26"
+    "extraction_date_time": "2026.07.17 10:22:09"
   }
 }

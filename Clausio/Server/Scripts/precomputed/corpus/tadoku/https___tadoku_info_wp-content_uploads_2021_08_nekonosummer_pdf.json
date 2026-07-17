@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "来たときには、",
-      "furigana": "きたときには、",
+      "clause_text": "来た",
+      "furigana": "きた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "すでに",
-      "furigana": "すでに",
+      "clause_text": "ときには、",
+      "furigana": "ときには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "５歳ぐらいだったと",
-      "furigana": "ごさいぐらいだったと",
+      "clause_text": "すでに５歳ぐらいだったと",
+      "furigana": "すでにごさいぐらいだったと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "年なら、",
-      "furigana": "としなら、",
+      "clause_text": "年なら",
+      "furigana": "としなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "35",
-      "furigana": "さんご",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "歳ぐらい",
-      "furigana": "さいぐらい",
+      "clause_text": "35歳",
+      "furigana": "さんごさい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "だろう。",
-      "furigana": "だろう。",
+      "clause_text": "ぐらいだろう。",
+      "furigana": "ぐらいだろう。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "サマーは比較的おとなしく、ときどき家の",
-      "furigana": "さまーはひかくてきおとなしく、ときどきいえの",
+      "clause_text": "サマーは比較的おとなしく、",
+      "furigana": "さまーはひかくてきおとなしく、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "壁をガリガリやったり、夜中に",
-      "furigana": "かべをがりがりやったり、よなかに",
+      "clause_text": "ときどき家の壁をガリガリやったり、",
+      "furigana": "ときどきいえのかべをがりがりやったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "ニャーニャーと鳴いて私たちを",
-      "furigana": "にゃーにゃーとないてわたしたちを",
+      "clause_text": "夜中にニャーニャーと鳴いて",
+      "furigana": "よなかににゃーにゃーとないて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "起こしたりする以外は、あまり手の",
-      "furigana": "おこしたりするいがいは、あまりての",
+      "clause_text": "私たちを起こしたりする以外は、",
+      "furigana": "わたしたちをおこしたりするいがいは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "かからないネコだった。",
-      "furigana": "かからないねこだった。",
+      "clause_text": "あまり手のかからないネコだった。",
+      "furigana": "あまりてのかからないねこだった。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:01"
+    "extraction_date_time": "2026.07.17 10:20:39"
   }
 }

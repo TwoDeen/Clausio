@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある京濱伏見稲荷",
-      "furigana": "あるきょうはまふしみいなり",
+      "clause_text": "ある",
+      "furigana": "ある",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "神社には、",
-      "furigana": "じんじゃには、",
+      "clause_text": "京濱伏見稲荷神社には、",
+      "furigana": "きょうはまふしみいなりじんじゃには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "この赤い",
-      "furigana": "このあかい",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "門は、",
-      "furigana": "もんは、",
+      "clause_text": "赤い",
+      "furigana": "あかい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "鳥居と",
-      "furigana": "とりいと",
+      "clause_text": "門は、",
+      "furigana": "もんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "いい",
-      "furigana": "いい",
+      "clause_text": "鳥居と",
+      "furigana": "とりいと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "いいます。",
+      "furigana": "いいます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:40:46"
+    "extraction_date_time": "2026.07.17 10:26:22"
   }
 }

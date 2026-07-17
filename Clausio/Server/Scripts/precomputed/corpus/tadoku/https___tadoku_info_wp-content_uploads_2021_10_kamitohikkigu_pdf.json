@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「紙を無駄使いすると、",
-      "furigana": "きごうかみをむだづかいすると、",
+      "clause_text": "「紙を無駄使いすると、森がなくなる」と",
+      "furigana": "きごうかみをむだづかいすると、もりがなくなるきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "森がなくなる」と",
-      "furigana": "もりがなくなるきごうと",
+      "clause_text": "言われるように、",
+      "furigana": "いわれるように、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "言われるように、",
-      "furigana": "いわれるように、",
+      "clause_text": "紙の",
+      "furigana": "かみの",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "紙の原料は",
-      "furigana": "かみのげんりょうは",
+      "clause_text": "原料は",
+      "furigana": "げんりょうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "薄いシートに",
-      "furigana": "うすいしーとに",
+      "clause_text": "薄いシートにした",
+      "furigana": "うすいしーとにした",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "したものが紙である。",
-      "furigana": "したものがかみである。",
+      "clause_text": "ものが紙である。",
+      "furigana": "ものがかみである。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.16 09:39:53"
+    "extraction_date_time": "2026.07.17 10:24:43"
   }
 }

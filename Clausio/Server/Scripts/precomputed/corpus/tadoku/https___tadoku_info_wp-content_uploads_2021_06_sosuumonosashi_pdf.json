@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "測るときや、線を",
-      "furigana": "はかるときや、せんを",
+      "clause_text": "測るときや、",
+      "furigana": "はかるときや、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "書くときに、",
-      "furigana": "かくときに、",
+      "clause_text": "線を書くときに、",
+      "furigana": "せんをかくときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "定規",
-      "furigana": "じょうぎ",
+      "clause_text": "定規は、",
+      "furigana": "じょうぎは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "は、「ものさし」",
-      "furigana": "は、きごうものさしきごう",
+      "clause_text": "「ものさし」",
+      "furigana": "きごうものさしきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "売っている「素数",
-      "furigana": "うっているきごうそすう",
+      "clause_text": "売っている",
+      "furigana": "うっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ものさし」は、",
-      "furigana": "ものさしきごうは、",
+      "clause_text": "「素数ものさし」は、",
+      "furigana": "きごうそすうものさしきごうは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:38:12"
+    "extraction_date_time": "2026.07.17 10:22:25"
   }
 }

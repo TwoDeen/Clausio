@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "町家を直す人との対話１日本の家と",
-      "furigana": "まちやをなおすひととのたいわいちにっぽんのいえと",
+      "clause_text": "町家を直す人との対話１日本の",
+      "furigana": "まちやをなおすひととのたいわいちにっぽんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "まちは、散歩しても楽しくない？",
-      "furigana": "まちは、さんぽしてもたのしくない?",
+      "clause_text": "家とまちは、散歩しても",
+      "furigana": "いえとまちは、さんぽしても",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "金沢市で、町家を直す仕事を",
-      "furigana": "かなざわしで、まちやをなおすしごとを",
+      "clause_text": "楽しくない？金沢市で、町家を",
+      "furigana": "たのしくない?かなざわしで、まちやを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "している建築家、林野紀子さんに",
-      "furigana": "しているけんちくか、りんやのりこさんに",
+      "clause_text": "直す仕事をしている建築家、",
+      "furigana": "なおすしごとをしているけんちくか、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "インタビューをしました。",
-      "furigana": "いんたびゅーをしました。",
+      "clause_text": "林野紀子さんにインタビューをしました。",
+      "furigana": "りんやのりこさんにいんたびゅーをしました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "林野",
-      "furigana": "りんや",
+      "clause_text": "林野さんの",
+      "furigana": "りんやさんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "さんの",
-      "furigana": "さんの",
+      "clause_text": "家で",
+      "furigana": "いえで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "家で",
-      "furigana": "いえで",
+      "clause_text": "行いました",
+      "furigana": "おこないました",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "行いました。",
-      "furigana": "おこないました。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.16 09:40:06"
+    "extraction_date_time": "2026.07.17 10:16:41"
   }
 }

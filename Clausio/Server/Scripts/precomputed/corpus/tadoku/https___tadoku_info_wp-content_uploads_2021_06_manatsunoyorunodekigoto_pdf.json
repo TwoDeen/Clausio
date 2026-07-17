@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "大学",
-      "furigana": "だいがく",
+      "clause_text": "大学生活にも",
+      "furigana": "だいがくせいかつにも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "生活にも",
-      "furigana": "せいかつにも",
+      "clause_text": "慣れて、",
+      "furigana": "なれて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "慣れて、",
-      "furigana": "なれて、",
+      "clause_text": "新しい",
+      "furigana": "あたらしい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "新しい友達も",
-      "furigana": "あたらしいともだちも",
+      "clause_text": "友達も",
+      "furigana": "ともだちも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "そんなくだらない",
-      "furigana": "そんなくだらない",
+      "clause_text": "そんな",
+      "furigana": "そんな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ことも、",
-      "furigana": "ことも、",
+      "clause_text": "くだらない",
+      "furigana": "くだらない",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "友達と",
-      "furigana": "ともだちと",
+      "clause_text": "ことも、",
+      "furigana": "ことも、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "なら",
-      "furigana": "なら",
+      "clause_text": "友達となら",
+      "furigana": "ともだちとなら",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:43:41"
+    "extraction_date_time": "2026.07.17 10:25:24"
   }
 }

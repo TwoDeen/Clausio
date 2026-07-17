@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "子育てが",
-      "furigana": "こそだてが",
+      "clause_text": "子育て",
+      "furigana": "こそだて",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "大変だ",
-      "furigana": "たいへんだ",
+      "clause_text": "が大変",
+      "furigana": "がたいへん",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ね。",
-      "furigana": "ね。",
+      "clause_text": "だね。",
+      "furigana": "だね。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "」そんな私の",
-      "furigana": "きごうそんなわたくしの",
+      "clause_text": "」そんな私",
+      "furigana": "きごうそんなわたくし",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "言葉に、",
-      "furigana": "ことばに、",
+      "clause_text": "の言葉に、",
+      "furigana": "のことばに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,7 +290,7 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "彼女は",
+      "clause_text": "彼女はくす",
       "furigana": "かのじょは",
       "sentence_individual_grammar_level": "N5"
     },
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "くすくすと",
-      "furigana": "くすくすと",
+      "clause_text": "くすと笑い",
+      "furigana": "とわらい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "笑い出した。",
-      "furigana": "わらいだした。",
+      "clause_text": "出した。",
+      "furigana": "だした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:49:35"
+    "extraction_date_time": "2026.07.17 10:18:24"
   }
 }

@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "毎日の気温が少しずつ",
-      "furigana": "まいにちのきおんがすこしずつ",
+      "clause_text": "毎日の気温が少しずつ上がり、",
+      "furigana": "まいにちのきおんがすこしずつあがり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "上がり、道ばたに花が",
-      "furigana": "あがり、みちばたにはなが",
+      "clause_text": "道ばたに花が咲いているのを",
+      "furigana": "みちばたにはながさいているのを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "咲いているのを見かけるように",
-      "furigana": "さいているのをみかけるように",
+      "clause_text": "見かけるようになると、",
+      "furigana": "みかけるようになると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なると、「あ、春が近いな」と",
-      "furigana": "なると、きごうあ、はるがちかいなきごうと",
+      "clause_text": "「あ、春が近いな」と",
+      "furigana": "きごうあ、はるがちかいなきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 4,
     "sentence_level": 3,
     "article_length": 360,
-    "extraction_date_time": "2026.07.16 09:43:05"
+    "extraction_date_time": "2026.07.17 10:21:39"
   }
 }

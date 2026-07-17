@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "いちばん",
-      "furigana": "いちばん",
+      "clause_text": "いちばん古い",
+      "furigana": "いちばんふるい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "古い記憶は、",
-      "furigana": "ふるいきおくは、",
+      "clause_text": "記憶は、",
+      "furigana": "きおくは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "両親",
-      "furigana": "りょうしん",
+      "clause_text": "両親から",
+      "furigana": "りょうしんから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "から、",
-      "furigana": "から、",
+      "clause_text": "、",
+      "furigana": "、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "その飛行機にはタイヤが",
-      "furigana": "そのひこうきにはたいやが",
+      "clause_text": "その飛行機には",
+      "furigana": "そのひこうきには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "付いていて、床に",
-      "furigana": "ついていて、ゆかに",
+      "clause_text": "タイヤが付いていて、",
+      "furigana": "たいやがついていて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "置いて少し後ろに",
-      "furigana": "おいてすこしうしろに",
+      "clause_text": "床に置いて少し後ろに",
+      "furigana": "ゆかにおいてすこしうしろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "そのおもちゃといっしょに、飛行機の",
-      "furigana": "そのおもちゃといっしょに、ひこうきの",
+      "clause_text": "そのおもちゃといっしょに、",
+      "furigana": "そのおもちゃといっしょに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "形のケーキも写っているから、",
-      "furigana": "かたちのけーきもうつっているから、",
+      "clause_text": "飛行機の形のケーキも写っているから、",
+      "furigana": "ひこうきのかたちのけーきもうつっているから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:47:33"
+    "extraction_date_time": "2026.07.17 10:15:20"
   }
 }

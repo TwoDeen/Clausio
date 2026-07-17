@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "「チューリップの",
-      "furigana": "きごうちゅーりっぷの",
+      "clause_text": "「チューリップの花」",
+      "furigana": "きごうちゅーりっぷのはなきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "花」",
-      "furigana": "はなきごう",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "いう",
-      "furigana": "いう",
+      "clause_text": "歌です",
+      "furigana": "うたです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "歌です。",
-      "furigana": "うたです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「どのはなみても",
-      "furigana": "きごうどのはなみても",
+      "clause_text": "「どのはなみてもきれいだな」には、",
+      "furigana": "きごうどのはなみてもきれいだなきごうには、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "きれいだな」には、「どんなことにも、",
-      "furigana": "きれいだなきごうには、きごうどんなことにも、",
+      "clause_text": "「どんなことにも、どんな人にも、良いところがある」と",
+      "furigana": "きごうどんなことにも、どんなひとにも、よいところがあるきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "どんな人にも、良いところが",
-      "furigana": "どんなひとにも、よいところが",
+      "clause_text": "いう",
+      "furigana": "いう",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある」という思いが",
-      "furigana": "あるきごうというおもいが",
+      "clause_text": "思いが",
+      "furigana": "おもいが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "しかし戦争が",
-      "furigana": "しかしせんそうが",
+      "clause_text": "しかし戦争が始まると、",
+      "furigana": "しかしせんそうがはじまると、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "始まると、",
-      "furigana": "はじまると、",
+      "clause_text": "チューリップは",
+      "furigana": "ちゅーりっぷは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "チューリップは「ぜいたく品」と",
-      "furigana": "ちゅーりっぷはきごうぜいたくひんきごうと",
+      "clause_text": "「ぜいたく品」と",
+      "furigana": "きごうぜいたくひんきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:24"
+    "extraction_date_time": "2026.07.17 10:28:56"
   }
 }

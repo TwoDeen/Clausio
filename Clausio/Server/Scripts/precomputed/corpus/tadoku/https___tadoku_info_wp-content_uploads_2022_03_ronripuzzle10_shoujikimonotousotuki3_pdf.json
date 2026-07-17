@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "正直者と",
-      "furigana": "しょうじきものと",
+      "clause_text": "正直者と嘘つき（３）",
+      "furigana": "しょうじきものとうそつききごうさんきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つき（３）【問題】",
-      "furigana": "うそつききごうさんきごうきごうもんだいきごう",
+      "clause_text": "【問題】ある島には",
+      "furigana": "きごうもんだいきごうあるしまには",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "ある島には正直者か",
-      "furigana": "あるしまにはしょうじきものか",
+      "clause_text": "正直者か嘘つきの",
+      "furigana": "しょうじきものかうそつきの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "嘘つきのどちらかしか",
-      "furigana": "うそつきのどちらかしか",
+      "clause_text": "どちらかしか",
+      "furigana": "どちらかしか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "あなたは、「あなた方の",
-      "furigana": "あなたは、きごうあなたかたの",
+      "clause_text": "あなたは、",
+      "furigana": "あなたは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "中に正直者は",
-      "furigana": "なかにしょうじきものは",
+      "clause_text": "「あなた方の中に正直者は何人いますか」と",
+      "furigana": "きごうあなたかたのなかにしょうじきものはなんにんいますかきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "何人いますか」と",
-      "furigana": "なんにんいますかきごうと",
+      "clause_text": "Aに",
+      "furigana": "あーるに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "Aに尋ねました。",
-      "furigana": "あーるにたずねました。",
+      "clause_text": "尋ねました。",
+      "furigana": "たずねました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "うるさくて、よく",
-      "furigana": "うるさくて、よく",
+      "clause_text": "うるさくて、",
+      "furigana": "うるさくて、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "聞こえませんでした。",
-      "furigana": "きこえませんでした。",
+      "clause_text": "よく聞こえませんでした。",
+      "furigana": "よくきこえませんでした。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:37:05"
+    "extraction_date_time": "2026.07.17 10:28:35"
   }
 }

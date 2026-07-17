@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バンコクへ",
-      "furigana": "ばんこくへ",
+      "clause_text": "バンコクへ行くには、",
+      "furigana": "ばんこくへいくには、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "行くには、まず、私の",
-      "furigana": "いくには、まず、わたくしの",
+      "clause_text": "まず、私の",
+      "furigana": "まず、わたくしの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、",
-      "furigana": "そして、",
+      "clause_text": "そして、KLセントラル駅から",
+      "furigana": "そして、klせんとらるえきから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "KLセントラル駅から",
-      "furigana": "klせんとらるえきから",
+      "clause_text": "クアラルンプール国際空港へ",
+      "furigana": "くあらるんぷーるこくさいくうこうへ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "クアラルンプール国際空港へ",
-      "furigana": "くあらるんぷーるこくさいくうこうへ",
+      "clause_text": "行く",
+      "furigana": "いく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "行く電車に",
-      "furigana": "いくでんしゃに",
+      "clause_text": "電車に",
+      "furigana": "でんしゃに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:50:48"
+    "extraction_date_time": "2026.07.17 10:13:40"
   }
 }

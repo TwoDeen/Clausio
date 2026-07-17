@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "詩を読む1とおくを、それから－中原中也「雪が",
-      "furigana": "しをよむいちとおくを、それから-なかはらちゅうやきごうゆきが",
+      "clause_text": "詩を読む1とおくを、それから－中原中也",
+      "furigana": "しをよむいちとおくを、それから-なかはらちゅうや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "降っている」中原中也（なかはらちゅうや）雪が",
-      "furigana": "ふっているきごうなかはらちゅうやきごうなかはらちゅうやきごうゆきが",
+      "clause_text": "「雪が降っている」中原中也（なかはらちゅうや）雪が",
+      "furigana": "きごうゆきがふっているきごうなかはらちゅうやきごうなかはらちゅうやきごうゆきが",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "ゆく道にも、それから、日が",
-      "furigana": "ゆくみちにも、それから、ひが",
+      "clause_text": "ゆく道にも、それから、",
+      "furigana": "ゆくみちにも、それから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "暮れかかる、それから、",
-      "furigana": "くれかかる、それから、",
+      "clause_text": "日が暮れかかる、それから、",
+      "furigana": "ひがくれかかる、それから、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「雪が降って",
-      "furigana": "きごうゆきがふって",
+      "clause_text": "「雪が降っている」、",
+      "furigana": "きごうゆきがふっているきごう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "いる」、「とおくを」、「それから」と",
-      "furigana": "いるきごう、きごうとおくをきごう、きごうそれからきごうと",
+      "clause_text": "「とおくを」、",
+      "furigana": "きごうとおくをきごう、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いう言葉が",
-      "furigana": "いうことばが",
+      "clause_text": "「それから」という",
+      "furigana": "きごうそれからきごうという",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "何回も",
-      "furigana": "なんかいも",
+      "clause_text": "言葉が何回も",
+      "furigana": "ことばがなんかいも",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "こうした言葉の繰り返しから、",
-      "furigana": "こうしたことばのくりかえしから、",
+      "clause_text": "こうした言葉の",
+      "furigana": "こうしたことばの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "雪がしずかに「たえまも",
-      "furigana": "ゆきがしずかにきごうたえまも",
+      "clause_text": "繰り返しから、雪が",
+      "furigana": "くりかえしから、ゆきが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "なく」、やむことなく",
-      "furigana": "なくきごう、やむことなく",
+      "clause_text": "しずかに「たえまもなく」、",
+      "furigana": "しずかにきごうたえまもなくきごう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "降りつづいていることが",
-      "furigana": "ふりつづいていることが",
+      "clause_text": "やむことなく降りつづいている",
+      "furigana": "やむことなくふりつづいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "伝わってきます。",
-      "furigana": "つたわってきます。",
+      "clause_text": "ことが伝わってきます。",
+      "furigana": "ことがつたわってきます。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:14"
+    "extraction_date_time": "2026.07.17 10:26:59"
   }
 }

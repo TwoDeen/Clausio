@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "家は必要か？",
-      "furigana": "いえはひつようか?",
+      "clause_text": "家は必要か？有名な",
+      "furigana": "いえはひつようか?ゆうめいな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "有名な日本の",
-      "furigana": "ゆうめいなにっぽんの",
+      "clause_text": "日本の神社に、",
+      "furigana": "にっぽんのじんじゃに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "神社に、三重県の",
-      "furigana": "じんじゃに、みえけんの",
+      "clause_text": "三重県の伊勢神宮が",
+      "furigana": "みえけんのいせじんぐうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "伊勢神宮があります。",
-      "furigana": "いせじんぐうがあります。",
+      "clause_text": "あります。",
+      "furigana": "あります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.16 09:35:52"
+    "extraction_date_time": "2026.07.17 10:24:31"
   }
 }

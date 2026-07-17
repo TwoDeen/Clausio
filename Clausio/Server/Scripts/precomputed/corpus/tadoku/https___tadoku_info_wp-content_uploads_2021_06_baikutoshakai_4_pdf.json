@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "バイクで走っている",
-      "furigana": "ばいくではしっている",
+      "clause_text": "バイクで走っているときに、",
+      "furigana": "ばいくではしっているときに、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ときに、前から",
-      "furigana": "ときに、まえから",
+      "clause_text": "前から走って来るバイクが",
+      "furigana": "まえからはしってくるばいくが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "走って来るバイクが手を",
-      "furigana": "はしってくるばいくがてを",
+      "clause_text": "手を振ったり、",
+      "furigana": "てをふったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "振ったり、小さく頭を",
-      "furigana": "ふったり、ちいさくあたまを",
+      "clause_text": "小さく頭を下げたり",
+      "furigana": "ちいさくあたまをさげたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "下げたりすることがあります。",
-      "furigana": "さげたりすることがあります。",
+      "clause_text": "することがあります。",
+      "furigana": "することがあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "下げたりするのでは",
-      "furigana": "さげたりするのでは",
+      "clause_text": "下げたり",
+      "furigana": "さげたり",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "ありません。",
-      "furigana": "ありません。",
+      "clause_text": "するのではありません。",
+      "furigana": "するのではありません。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.16 09:49:17"
+    "extraction_date_time": "2026.07.17 10:21:02"
   }
 }

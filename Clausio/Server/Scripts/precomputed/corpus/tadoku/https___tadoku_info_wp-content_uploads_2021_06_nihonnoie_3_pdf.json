@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見直したり、あまり形をつくらないで何かを",
-      "furigana": "みなおしたり、あまりかたちをつくらないでなんかを",
+      "clause_text": "見直したり、あまり形をつくらないで",
+      "furigana": "みなおしたり、あまりかたちをつくらないで",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "表すというような魅力があります。",
-      "furigana": "あらわすというようなみりょくがあります。",
+      "clause_text": "何かを表すというような魅力があります。",
+      "furigana": "なんかをあらわすというようなみりょくがあります。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1251,
-    "extraction_date_time": "2026.07.16 09:37:13"
+    "extraction_date_time": "2026.07.17 10:20:02"
   }
 }

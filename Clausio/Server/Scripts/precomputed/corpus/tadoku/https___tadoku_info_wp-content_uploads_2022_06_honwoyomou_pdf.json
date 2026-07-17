@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "文学賞－「最近、",
-      "furigana": "ぶんがくしょう-きごうさいきん、",
+      "clause_text": "文学賞－",
+      "furigana": "ぶんがくしょう-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "本読んでないな。",
-      "furigana": "ほんよんでないな。",
+      "clause_text": "「最近、本読んでないな。",
+      "furigana": "きごうさいきん、ほんよんでないな。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "」「何か新しい本を読みたいな～」「今、",
-      "furigana": "きごうきごうなんかあたらしいほんをよみたいな~きごうきごういま、",
+      "clause_text": "」「何か",
+      "furigana": "きごうきごうなんか",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "どんな本が人気あるのかな？」本を",
-      "furigana": "どんなほんがにんきあるのかな?きごうほんを",
+      "clause_text": "新しい本を",
+      "furigana": "あたらしいほんを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "読もう！と思っても、読みたい本が",
-      "furigana": "よもう!とおもっても、よみたいほんが",
+      "clause_text": "読みたいな～」「今、",
+      "furigana": "よみたいな~きごうきごういま、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見つからないとき、私は賞を",
-      "furigana": "みつからないとき、わたくしはしょうを",
+      "clause_text": "どんな本が人気",
+      "furigana": "どんなほんがにんき",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "取った本を読むことにしています。",
-      "furigana": "とったほんをよむことにしています。",
+      "clause_text": "あるのかな？」本を読もう！と思っても、読みたい本が見つからないとき、私は賞を取った本を読むことにしています。",
+      "furigana": "あるのかな?きごうほんをよもう!とおもっても、よみたいほんがみつからないとき、わたくしはしょうをとったほんをよむことにしています。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "賞を取った",
-      "furigana": "しょうをとった",
+      "clause_text": "賞を",
+      "furigana": "しょうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "本なので、きっと",
-      "furigana": "ほんなので、きっと",
+      "clause_text": "取った本なので、",
+      "furigana": "とったほんなので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "面白いだろう、絶対",
-      "furigana": "おもしろいだろう、ぜったい",
+      "clause_text": "きっと面白いだろう、",
+      "furigana": "きっとおもしろいだろう、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "いい本なんだろう、と",
-      "furigana": "いいほんなんだろう、と",
+      "clause_text": "絶対いい本なんだろう、と",
+      "furigana": "ぜったいいいほんなんだろう、と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "そして、人気の",
-      "furigana": "そして、にんきの",
+      "clause_text": "そして、人気のある、",
+      "furigana": "そして、にんきのある、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ある、有名な本を",
-      "furigana": "ある、ゆうめいなほんを",
+      "clause_text": "有名な本を読めば、",
+      "furigana": "ゆうめいなほんをよめば、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "読めば、誰かと会話を",
-      "furigana": "よめば、だれかとかいわを",
+      "clause_text": "誰かと会話をするとき、",
+      "furigana": "だれかとかいわをするとき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "するとき、会話の話題に",
-      "furigana": "するとき、かいわのわだいに",
+      "clause_text": "会話の話題に",
+      "furigana": "かいわのわだいに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "つまり、",
-      "furigana": "つまり、",
+      "clause_text": "つまり、本の",
+      "furigana": "つまり、ほんの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "本の賞が",
-      "furigana": "ほんのしょうが",
+      "clause_text": "賞が",
+      "furigana": "しょうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:10"
+    "extraction_date_time": "2026.07.17 10:30:19"
   }
 }

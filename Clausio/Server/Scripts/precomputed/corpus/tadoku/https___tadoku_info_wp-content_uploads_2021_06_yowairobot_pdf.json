@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "拾う",
-      "furigana": "ひろう",
+      "clause_text": "拾うこと",
+      "furigana": "ひろうこと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "ことが",
-      "furigana": "ことが",
+      "clause_text": "ができません",
+      "furigana": "ができません",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "できません。",
-      "furigana": "できません。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "少し",
-      "furigana": "すこし",
+      "clause_text": "少し困っているような",
+      "furigana": "すこしこまっているような",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "困っているような",
-      "furigana": "こまっているような",
+      "clause_text": "弱い",
+      "furigana": "よわい",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "弱い鳴き声を",
-      "furigana": "よわいなきごえを",
+      "clause_text": "鳴き声を",
+      "furigana": "なきごえを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:44:14"
+    "extraction_date_time": "2026.07.17 10:14:52"
   }
 }

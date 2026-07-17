@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "なって、次の年の",
-      "furigana": "なって、つぎのとしの",
+      "clause_text": "なって、次の年の４月に",
+      "furigana": "なって、つぎのとしのよんがつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -147,8 +147,8 @@
         "column": 5
       },
       "parent_sentence_id": 2,
-      "clause_text": "４月に「小学２年生」になります。",
-      "furigana": "よんがつにきごうしょうがくにねんせいきごうになります。",
+      "clause_text": "「小学２年生」になります。",
+      "furigana": "きごうしょうがくにねんせいきごうになります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "カレンダー",
-      "furigana": "かれんだー",
+      "clause_text": "カレンダー上では、",
+      "furigana": "かれんだーじょうでは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "上では、",
-      "furigana": "じょうでは、",
+      "clause_text": "１月から",
+      "furigana": "いちがつから",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "１月から",
-      "furigana": "いちがつから",
+      "clause_text": "12月が",
+      "furigana": "いちにがつが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "12月が「１",
-      "furigana": "いちにがつがきごういち",
+      "clause_text": "「１年」です",
+      "furigana": "きごういちねんきごうです",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "年」です。",
-      "furigana": "ねんきごうです。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ですから、１月に「今年は、",
-      "furigana": "ですから、いちがつにきごうことしは、",
+      "clause_text": "ですから、１月に",
+      "furigana": "ですから、いちがつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "たくさん旅行に",
-      "furigana": "たくさんりょこうに",
+      "clause_text": "「今年は、たくさん旅行に行きたい！」など、",
+      "furigana": "きごうことしは、たくさんりょこうにいきたい!きごうなど、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "行きたい！」など、「新年の",
-      "furigana": "いきたい!きごうなど、きごうしんねんの",
+      "clause_text": "「新年の目標」を",
+      "furigana": "きごうしんねんのもくひょうきごうを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "目標」をみんなで",
-      "furigana": "もくひょうきごうをみんなで",
+      "clause_text": "みんなで",
+      "furigana": "みんなで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:39:27"
+    "extraction_date_time": "2026.07.17 10:18:45"
   }
 }

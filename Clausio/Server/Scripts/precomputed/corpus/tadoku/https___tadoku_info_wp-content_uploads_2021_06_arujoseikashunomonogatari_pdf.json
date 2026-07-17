@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "浮かべて、恋の",
-      "furigana": "うかべて、こいの",
+      "clause_text": "浮かべて、",
+      "furigana": "うかべて、",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "歌を歌う。",
-      "furigana": "うたをうたう。",
+      "clause_text": "恋の歌を歌う。",
+      "furigana": "こいのうたをうたう。",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "私に",
-      "furigana": "わたくしに",
+      "clause_text": "私にとって",
+      "furigana": "わたくしにとって",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "とって",
-      "furigana": "とって",
+      "clause_text": "それは",
+      "furigana": "それは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "それは",
-      "furigana": "それは",
+      "clause_text": "いつもと",
+      "furigana": "いつもと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "いつもと",
-      "furigana": "いつもと",
+      "clause_text": "同じ",
+      "furigana": "おなじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "同じ日常だ。",
-      "furigana": "おなじにちじょうだ。",
+      "clause_text": "日常だ。",
+      "furigana": "にちじょうだ。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:37:50"
+    "extraction_date_time": "2026.07.17 10:14:34"
   }
 }

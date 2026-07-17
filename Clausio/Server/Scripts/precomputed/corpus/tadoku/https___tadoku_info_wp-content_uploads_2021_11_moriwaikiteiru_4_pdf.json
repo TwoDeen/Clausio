@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "ストップしてくれるんだよ！「地球全体の",
-      "furigana": "すとっぷしてくれるんだよ!きごうちきゅうぜんたいの",
+      "clause_text": "ストップしてくれるんだよ！",
+      "furigana": "すとっぷしてくれるんだよ!",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "平均気温があがっている」という気に",
-      "furigana": "へいきんきおんがあがっているきごうというきに",
+      "clause_text": "「地球全体の平均気温があがっている」という",
+      "furigana": "きごうちきゅうぜんたいのへいきんきおんがあがっているきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "なるニュースを、皆さんも",
-      "furigana": "なるにゅーすを、みなさんも",
+      "clause_text": "気になるニュースを、皆さんも",
+      "furigana": "きになるにゅーすを、みなさんも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "これを「地球",
-      "furigana": "これをきごうちきゅう",
+      "clause_text": "これを",
+      "furigana": "これを",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "温暖化",
-      "furigana": "おんだんか",
+      "clause_text": "「地球温暖化現象」",
+      "furigana": "きごうちきゅうおんだんかげんしょうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "現象」",
-      "furigana": "げんしょうきごう",
+      "clause_text": "と",
+      "furigana": "と",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "と",
-      "furigana": "と",
+      "clause_text": "言います",
+      "furigana": "いいます",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "言います。",
-      "furigana": "いいます。",
+      "clause_text": "。",
+      "furigana": "。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "ではなぜ、「地球温暖化現象」は起きるのでしょう？",
-      "furigana": "ではなぜ、きごうちきゅうおんだんかげんしょうきごうはおきるのでしょう?",
+      "clause_text": "ではなぜ、「地球温暖化現象」は",
+      "furigana": "ではなぜ、きごうちきゅうおんだんかげんしょうきごうは",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "それは「石油」や「石炭」などの「化石燃料」と",
-      "furigana": "それはきごうせきゆきごうやきごうせきたんきごうなどのきごうかせきねんりょうきごうと",
+      "clause_text": "起きるのでしょう？それは「石油」や",
+      "furigana": "おきるのでしょう?それはきごうせきゆきごうや",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "言われるものを使うことで、",
-      "furigana": "いわれるものをつかうことで、",
+      "clause_text": "「石炭」などの「化石燃料」と",
+      "furigana": "きごうせきたんきごうなどのきごうかせきねんりょうきごうと",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "空気中に「二酸化炭素」（CO2）が",
-      "furigana": "くうきちゅうにきごうにさんかたんそきごうきごうしーおーつーきごうが",
+      "clause_text": "言われるものを使うことで、空気中に",
+      "furigana": "いわれるものをつかうことで、くうきちゅうに",
       "sentence_individual_grammar_level": "N4"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "増えて行くからなのです。",
-      "furigana": "ふえていくからなのです。",
+      "clause_text": "「二酸化炭素」（CO2）が増えて行くからなのです。",
+      "furigana": "きごうにさんかたんそきごうきごうしーおーつーきごうがふえていくからなのです。",
       "sentence_individual_grammar_level": "N4"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 5,
     "sentence_level": 4,
     "article_length": 1320,
-    "extraction_date_time": "2026.07.16 09:49:23"
+    "extraction_date_time": "2026.07.17 10:18:59"
   }
 }

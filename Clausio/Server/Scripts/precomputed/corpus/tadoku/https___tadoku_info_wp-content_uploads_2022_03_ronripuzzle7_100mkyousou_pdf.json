@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "100メートル競走【問題】",
-      "furigana": "いちれいれいめーとるきょうそうきごうもんだいきごう",
+      "clause_text": "100メートル競走",
+      "furigana": "いちれいれいめーとるきょうそう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "A、B、Cの",
-      "furigana": "あーる、b、cの",
+      "clause_text": "【問題】A、B、",
+      "furigana": "きごうもんだいきごうあーる、b、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "３人が１対１の",
-      "furigana": "さんにんがいちついいちの",
+      "clause_text": "Cの３人が１対１の",
+      "furigana": "cのさんにんがいちついいちの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "それでは、AとCが",
-      "furigana": "それでは、あーるとcが",
+      "clause_text": "それでは、AとCが競走すると、",
+      "furigana": "それでは、あーるとcがきょうそうすると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "競走すると、Aは何メートル差で",
-      "furigana": "きょうそうすると、あーるはなんめーとるさで",
+      "clause_text": "Aは何メートル差でCに",
+      "furigana": "あーるはなんめーとるさでcに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "Cに勝つでしょうか？",
-      "furigana": "cにかつでしょうか?",
+      "clause_text": "勝つでしょうか？A、",
+      "furigana": "かつでしょうか?あーる、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "A、B、Cの３人は、",
-      "furigana": "あーる、b、cのさんにんは、",
+      "clause_text": "B、Cの３人は、",
+      "furigana": "b、cのさんにんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "（解答は次の",
-      "furigana": "きごうかいとうはつぎの",
+      "clause_text": "（解答は",
+      "furigana": "きごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "ページ）【解答】",
-      "furigana": "ぺーじきごうきごうかいとうきごう",
+      "clause_text": "次のページ）",
+      "furigana": "つぎのぺーじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "Aは",
-      "furigana": "あーるは",
+      "clause_text": "【解答】Aは",
+      "furigana": "きごうかいとうきごうあーるは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:36:47"
+    "extraction_date_time": "2026.07.17 10:19:16"
   }
 }

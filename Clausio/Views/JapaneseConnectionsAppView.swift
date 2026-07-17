@@ -31,7 +31,7 @@ struct JapaneseConnectionsAppView: View {
         if isCompactPhone {
           compactLayout
         } else {
-          sideRailLayout
+          sideRailLayout(isCompactPhone: isCompactPhone)
         }
       }
       .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -70,7 +70,7 @@ struct JapaneseConnectionsAppView: View {
   
   private var compactLayout: some View {
     ZStack(alignment: .bottom) {
-      currentContent
+      currentContent(isCompactPhone: true)
         .padding(.top, 12)
         .padding(.bottom, 72)
       
@@ -81,27 +81,24 @@ struct JapaneseConnectionsAppView: View {
     .ignoresSafeArea(.keyboard, edges: .bottom)
   }
   
-  private var sideRailLayout: some View {
-    HStack(spacing: 16) {
-      leftVerticalTabRail
-        .padding(.leading, 12)
-        .padding(.top, 18)
-        .padding(.bottom, 18)
-      
-      currentContent
-        .padding(.trailing, 12)
-        .padding(.top, 18)
-        .padding(.bottom, 18)
-    }
+  private func sideRailLayout(isCompactPhone: Bool) -> some View {
+    currentContent(isCompactPhone: isCompactPhone)
+      .padding(.top, 18)
+      .padding(.bottom, 8) // Reduced bottom padding here
   }
   
   @ViewBuilder
-  private var currentContent: some View {
+  private func currentContent(isCompactPhone: Bool) -> some View {
     switch selectedTab {
       case .play:
         ZStack {
-          GameContainerView(vm: vm)
-            .disabled(vm.isLoading)
+          // Pass the bottomCompactBar into GameContainerView if NOT in compact mode
+          GameContainerView(vm: vm) {
+            if !isCompactPhone {
+              bottomCompactBar
+            }
+          }
+          .disabled(vm.isLoading)
           
           if vm.isLoading {
             VStack(spacing: 16) {
@@ -145,24 +142,6 @@ struct JapaneseConnectionsAppView: View {
     }
   }
   
-  private var leftVerticalTabRail: some View {
-    VStack(spacing: 10) {
-      verticalTabButton(for: .play, systemImage: "gamecontroller.fill")
-      verticalTabButton(for: .settings, systemImage: "gearshape.fill")
-    }
-    .padding(.horizontal, 8)
-    .padding(.vertical, 10)
-    .background(
-      RoundedRectangle(cornerRadius: 22, style: .continuous)
-        .fill(.ultraThinMaterial)
-    )
-    .overlay(
-      RoundedRectangle(cornerRadius: 22, style: .continuous)
-        .stroke(Color.primary.opacity(0.08), lineWidth: 1)
-    )
-    .shadow(color: Color.black.opacity(0.06), radius: 10, x: 0, y: 3)
-  }
-  
   private var bottomCompactBar: some View {
     HStack(spacing: 8) {
       tabButton(for: .play, systemImage: "gamecontroller.fill")
@@ -201,39 +180,6 @@ struct JapaneseConnectionsAppView: View {
         )
         .overlay(
           Capsule(style: .continuous)
-            .stroke(
-              selectedTab == tab
-              ? Color.accentColor.opacity(0.20)
-              : Color.clear,
-              lineWidth: 1
-            )
-        )
-    }
-    .buttonStyle(.plain)
-    .accessibilityLabel(tab.title)
-    .help(tab.title)
-  }
-  
-  private func verticalTabButton(for tab: AppTab, systemImage: String) -> some View {
-    Button {
-      withAnimation(.spring(response: 0.25, dampingFraction: 0.85)) {
-        selectedTab = tab
-      }
-    } label: {
-      Image(systemName: systemImage)
-        .font(.system(size: 18, weight: .semibold))
-        .foregroundColor(selectedTab == tab ? .accentColor : .secondary)
-        .frame(width: 42, height: 42)
-        .background(
-          RoundedRectangle(cornerRadius: 14, style: .continuous)
-            .fill(
-              selectedTab == tab
-              ? Color.accentColor.opacity(0.14)
-              : Color.clear
-            )
-        )
-        .overlay(
-          RoundedRectangle(cornerRadius: 14, style: .continuous)
             .stroke(
               selectedTab == tab
               ? Color.accentColor.opacity(0.20)

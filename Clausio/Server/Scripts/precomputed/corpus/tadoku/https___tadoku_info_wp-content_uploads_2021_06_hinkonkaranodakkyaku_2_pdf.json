@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "－NPO法人アラジ代表",
-      "furigana": "-えぬぴーおーほうじんあらじだいひょう",
+      "clause_text": "－NPO法人アラジ",
+      "furigana": "-えぬぴーおーほうじんあらじ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ユメミ－ユメミは山梨県で",
-      "furigana": "ゆめみ-ゆめみはやまなしけんで",
+      "clause_text": "代表ユメミ－ユメミは",
+      "furigana": "だいひょうゆめみ-ゆめみは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "生まれ育ちました。",
-      "furigana": "うまれそだちました。",
+      "clause_text": "山梨県で生まれ育ちました。",
+      "furigana": "やまなしけんでうまれそだちました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "ユメミは小さいころ、両親が",
-      "furigana": "ゆめみはちいさいころ、りょうしんが",
+      "clause_text": "ユメミは小さいころ、",
+      "furigana": "ゆめみはちいさいころ、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "二人ともいて、休日に",
-      "furigana": "ふたりともいて、きゅうじつに",
+      "clause_text": "両親が二人ともいて、休日に",
+      "furigana": "りょうしんがふたりともいて、きゅうじつに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -213,8 +213,8 @@
         "column": 1
       },
       "parent_sentence_id": 4,
-      "clause_text": "「人は生まれた環境によって、",
-      "furigana": "きごうひとはうまれたかんきょうによって、",
+      "clause_text": "「人は生まれた環境によって、その後の可能性が変わってしまう」",
+      "furigana": "きごうひとはうまれたかんきょうによって、そのあとのかのうせいがかわってしまうきごう",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "その後の可能性が",
-      "furigana": "そのあとのかのうせいが",
+      "clause_text": "しかし、中学２年生の",
+      "furigana": "しかし、ちゅうがくにねんせいの",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "変わってしまう」しかし、",
-      "furigana": "かわってしまうきごうしかし、",
+      "clause_text": "とき、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "中学２年生のとき、",
-      "furigana": "ちゅうがくにねんせいのとき、",
+      "clause_text": "お母さんが",
+      "furigana": "おかあさんが",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "お母さんが再婚しました。",
-      "furigana": "おかあさんがさいこんしました。",
+      "clause_text": "再婚しました。",
+      "furigana": "さいこんしました。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 3,
     "sentence_level": 3,
     "article_length": 1628,
-    "extraction_date_time": "2026.07.16 09:49:02"
+    "extraction_date_time": "2026.07.17 10:23:20"
   }
 }

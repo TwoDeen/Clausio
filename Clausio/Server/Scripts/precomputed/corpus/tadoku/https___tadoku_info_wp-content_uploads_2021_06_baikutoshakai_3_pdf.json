@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "乗るのか－「仮面",
-      "furigana": "のるのか-きごうかめん",
+      "clause_text": "乗るのか－",
+      "furigana": "のるのか-",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "ライダー」という",
-      "furigana": "らいだーきごうという",
+      "clause_text": "「仮面ライダー」という",
+      "furigana": "きごうかめんらいだーきごうという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "今も",
-      "furigana": "いまも",
+      "clause_text": "今も続いている",
+      "furigana": "いまもつづいている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "続いている",
-      "furigana": "つづいている",
+      "clause_text": "テレビシリーズなので、",
+      "furigana": "てれびしりーずなので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "テレビシリーズなので、",
-      "furigana": "てれびしりーずなので、",
+      "clause_text": "知っている",
+      "furigana": "しっている",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "知っている人も",
-      "furigana": "しっているひとも",
+      "clause_text": "人も",
+      "furigana": "ひとも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1285,
-    "extraction_date_time": "2026.07.16 09:37:00"
+    "extraction_date_time": "2026.07.17 10:28:41"
   }
 }

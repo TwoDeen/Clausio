@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "マッチ棒【問題】",
-      "furigana": "まっちぼうきごうもんだいきごう",
+      "clause_text": "マッチ棒",
+      "furigana": "まっちぼう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "マッチ棒が",
-      "furigana": "まっちぼうが",
+      "clause_text": "【問題】",
+      "furigana": "きごうもんだいきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "６本",
-      "furigana": "ろくぽん",
+      "clause_text": "マッチ棒が",
+      "furigana": "まっちぼうが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -92,8 +92,8 @@
         "column": 5
       },
       "parent_sentence_id": 1,
-      "clause_text": "あります。",
-      "furigana": "あります。",
+      "clause_text": "６本あります。",
+      "furigana": "ろくぽんあります。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "これを使って、正三角形（すべての辺の",
-      "furigana": "これをつかって、せいさんかっけいきごうすべてのへんの",
+      "clause_text": "これを使って、",
+      "furigana": "これをつかって、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "長さが同じ三角形）を",
-      "furigana": "ながさがおなじさんかっけいきごうを",
+      "clause_text": "正三角形（すべての辺の長さが",
+      "furigana": "せいさんかっけいきごうすべてのへんのながさが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "一番多くつくると、",
-      "furigana": "いちばんおおくつくると、",
+      "clause_text": "同じ三角形）を一番多くつくると、",
+      "furigana": "おなじさんかっけいきごうをいちばんおおくつくると、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "（解答は次の",
-      "furigana": "きごうかいとうはつぎの",
+      "clause_text": "（解答は",
+      "furigana": "きごうかいとうは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "ページ）【解答】",
-      "furigana": "ぺーじきごうきごうかいとうきごう",
+      "clause_text": "次のページ）",
+      "furigana": "つぎのぺーじきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "４つの",
-      "furigana": "よんつの",
+      "clause_text": "【解答】４つの",
+      "furigana": "きごうかいとうきごうよんつの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:40:59"
+    "extraction_date_time": "2026.07.17 10:15:42"
   }
 }

@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "トキオという名前の",
-      "furigana": "ときおというなまえの",
+      "clause_text": "トキオという",
+      "furigana": "ときおという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "時計屋が",
-      "furigana": "とけいやが",
+      "clause_text": "名前の時計屋が",
+      "furigana": "なまえのとけいやが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "時計を売ったり",
-      "furigana": "とけいをうったり",
+      "clause_text": "時計を売ったり買ったり、",
+      "furigana": "とけいをうったりかったり、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "買ったり、修理したり",
-      "furigana": "かったり、しゅうりしたり",
+      "clause_text": "修理したりするので、",
+      "furigana": "しゅうりしたりするので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "するので、店には",
-      "furigana": "するので、みせには",
+      "clause_text": "店にはいつも",
+      "furigana": "みせにはいつも",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "いつもいろいろな時計が",
-      "furigana": "いつもいろいろなとけいが",
+      "clause_text": "いろいろな時計が",
+      "furigana": "いろいろなとけいが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "「時間は、どこに",
-      "furigana": "きごうじかんは、どこに",
+      "clause_text": "「時間は、どこに行くのだろう」",
+      "furigana": "きごうじかんは、どこにいくのだろうきごう",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "行くのだろう」",
-      "furigana": "いくのだろうきごう",
+      "clause_text": "過ぎた",
+      "furigana": "すぎた",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "過ぎた時間は、",
-      "furigana": "すぎたじかんは、",
+      "clause_text": "時間は、",
+      "furigana": "じかんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:45:19"
+    "extraction_date_time": "2026.07.17 10:16:00"
   }
 }

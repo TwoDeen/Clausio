@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "顔も体もたくましく",
-      "furigana": "かおもからだもたくましく",
+      "clause_text": "顔も体も",
+      "furigana": "かおもからだも",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "なっていきます。",
-      "furigana": "なっていきます。",
+      "clause_text": "たくましくなっていきます。",
+      "furigana": "たくましくなっていきます。",
       "sentence_individual_grammar_level": "N3"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "特に上手な",
-      "furigana": "とくにじょうずな",
+      "clause_text": "特に",
+      "furigana": "とくに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "子どもたちは「全国大会に",
-      "furigana": "こどもたちはきごうぜんこくたいかいに",
+      "clause_text": "上手な",
+      "furigana": "じょうずな",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "行きたいから、",
-      "furigana": "いきたいから、",
+      "clause_text": "子どもたちは",
+      "furigana": "こどもたちは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "たくさん練習している」と",
-      "furigana": "たくさんれんしゅうしているきごうと",
+      "clause_text": "「全国大会に行きたいから、たくさん練習している」と",
+      "furigana": "きごうぜんこくたいかいにいきたいから、たくさんれんしゅうしているきごうと",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:41:04"
+    "extraction_date_time": "2026.07.17 10:19:33"
   }
 }

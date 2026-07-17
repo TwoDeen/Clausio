@@ -48,8 +48,8 @@
         "column": 1
       },
       "parent_sentence_id": 1,
-      "clause_text": "ジョティ・",
-      "furigana": "じょてぃ・",
+      "clause_text": "ジョティ・パスワンさんは、",
+      "furigana": "じょてぃ・ぱすわんさんは、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -59,8 +59,8 @@
         "column": 2
       },
       "parent_sentence_id": 1,
-      "clause_text": "パスワンさんは、",
-      "furigana": "ぱすわんさんは、",
+      "clause_text": "インドに",
+      "furigana": "いんどに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -70,8 +70,8 @@
         "column": 3
       },
       "parent_sentence_id": 1,
-      "clause_text": "インドに",
-      "furigana": "いんどに",
+      "clause_text": "住んでいる",
+      "furigana": "すんでいる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -81,8 +81,8 @@
         "column": 4
       },
       "parent_sentence_id": 1,
-      "clause_text": "住んでいる15歳の",
-      "furigana": "すんでいるいちごさいの",
+      "clause_text": "15歳の",
+      "furigana": "いちごさいの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "2020",
-      "furigana": "にれいにれい",
+      "clause_text": "2020年５月",
+      "furigana": "にれいにれいねんごがつ",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "年５月に",
-      "furigana": "ねんごがつに",
+      "clause_text": "に",
+      "furigana": "に",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -224,8 +224,8 @@
         "column": 2
       },
       "parent_sentence_id": 4,
-      "clause_text": "ダルバンガと",
-      "furigana": "だるばんがと",
+      "clause_text": "ダルバンガという",
+      "furigana": "だるばんがという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -235,8 +235,8 @@
         "column": 3
       },
       "parent_sentence_id": 4,
-      "clause_text": "いう",
-      "furigana": "いう",
+      "clause_text": "町に",
+      "furigana": "まちに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -246,8 +246,8 @@
         "column": 4
       },
       "parent_sentence_id": 4,
-      "clause_text": "町に",
-      "furigana": "まちに",
+      "clause_text": "住んで",
+      "furigana": "すんで",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -257,8 +257,8 @@
         "column": 5
       },
       "parent_sentence_id": 4,
-      "clause_text": "住んでいました。",
-      "furigana": "すんでいました。",
+      "clause_text": "いました。",
+      "furigana": "いました。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:46:36"
+    "extraction_date_time": "2026.07.17 10:25:53"
   }
 }

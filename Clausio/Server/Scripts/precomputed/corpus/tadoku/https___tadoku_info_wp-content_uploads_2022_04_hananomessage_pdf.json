@@ -103,8 +103,8 @@
         "column": 1
       },
       "parent_sentence_id": 2,
-      "clause_text": "夜に",
-      "furigana": "よるに",
+      "clause_text": "夜に咲く",
+      "furigana": "よるにさく",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -114,8 +114,8 @@
         "column": 2
       },
       "parent_sentence_id": 2,
-      "clause_text": "咲く花なので、",
-      "furigana": "さくはななので、",
+      "clause_text": "花なので、",
+      "furigana": "はななので、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -125,8 +125,8 @@
         "column": 3
       },
       "parent_sentence_id": 2,
-      "clause_text": "月を",
-      "furigana": "つきを",
+      "clause_text": "月を見る",
+      "furigana": "つきをみる",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -136,8 +136,8 @@
         "column": 4
       },
       "parent_sentence_id": 2,
-      "clause_text": "見る草という",
-      "furigana": "みるくさという",
+      "clause_text": "草という",
+      "furigana": "くさという",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -158,8 +158,8 @@
         "column": 1
       },
       "parent_sentence_id": 3,
-      "clause_text": "このとき、",
-      "furigana": "このとき、",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -169,8 +169,8 @@
         "column": 2
       },
       "parent_sentence_id": 3,
-      "clause_text": "白色の",
-      "furigana": "はくしょくの",
+      "clause_text": "とき、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -180,8 +180,8 @@
         "column": 3
       },
       "parent_sentence_id": 3,
-      "clause_text": "花が",
-      "furigana": "はなが",
+      "clause_text": "白色の",
+      "furigana": "はくしょくの",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -191,8 +191,8 @@
         "column": 4
       },
       "parent_sentence_id": 3,
-      "clause_text": "咲き",
-      "furigana": "さき",
+      "clause_text": "花が",
+      "furigana": "はなが",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -202,8 +202,8 @@
         "column": 5
       },
       "parent_sentence_id": 3,
-      "clause_text": "ます。",
-      "furigana": "ます。",
+      "clause_text": "咲きます。",
+      "furigana": "さきます。",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -268,8 +268,8 @@
         "column": 1
       },
       "parent_sentence_id": 5,
-      "clause_text": "このとき、",
-      "furigana": "このとき、",
+      "clause_text": "この",
+      "furigana": "この",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -279,8 +279,8 @@
         "column": 2
       },
       "parent_sentence_id": 5,
-      "clause_text": "花は",
-      "furigana": "はなは",
+      "clause_text": "とき、",
+      "furigana": "とき、",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -290,8 +290,8 @@
         "column": 3
       },
       "parent_sentence_id": 5,
-      "clause_text": "ピンク色に",
-      "furigana": "ぴんくいろに",
+      "clause_text": "花は",
+      "furigana": "はなは",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -301,8 +301,8 @@
         "column": 4
       },
       "parent_sentence_id": 5,
-      "clause_text": "かわって",
-      "furigana": "かわって",
+      "clause_text": "ピンク色に",
+      "furigana": "ぴんくいろに",
       "sentence_individual_grammar_level": "N5"
     },
     {
@@ -312,8 +312,8 @@
         "column": 5
       },
       "parent_sentence_id": 5,
-      "clause_text": "います。",
-      "furigana": "います。",
+      "clause_text": "かわっています。",
+      "furigana": "かわっています。",
       "sentence_individual_grammar_level": "N5"
     }
   ],
@@ -334,6 +334,6 @@
     "word_level": 2,
     "sentence_level": 3,
     "article_length": 1069,
-    "extraction_date_time": "2026.07.16 09:49:06"
+    "extraction_date_time": "2026.07.17 10:19:04"
   }
 }
